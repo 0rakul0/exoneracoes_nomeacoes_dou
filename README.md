@@ -62,7 +62,7 @@ O projeto instala PyTorch antes do Docling usando o wheel CUDA `cu118`, que e o 
 ## Fluxo
 
 ```mermaid
-flowchart TD
+flowchart LR
     A["GitHub Actions ou python main.py"] --> B["main.py chama diarios_oficiais.rj_ioerj.main()"]
     B --> C["Reporta PyTorch/CUDA disponivel"]
     C --> D["Busca calendario da IOERJ"]
