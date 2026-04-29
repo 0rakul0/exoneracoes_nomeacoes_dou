@@ -8,6 +8,7 @@ import sys
 import time
 from dataclasses import dataclass
 from datetime import date, datetime
+from functools import lru_cache
 from pathlib import Path
 from typing import Iterable
 from urllib.parse import urljoin
@@ -19,11 +20,12 @@ STATE = "RJ"
 GAZETTE_CODE = "DOERJ"
 GAZETTE_NAME = "Diario Oficial do Estado do Rio de Janeiro"
 LAKE_DIR = Path("LAKE")
+OUTPUT_DIR = Path("saida")
 CACHE_DIR = Path(".cache/diarios")
 SECTION_FILTER = "Poder Executivo"
-DATES_PER_RUN = 1
 ENABLE_OCR = False
-DOCLING_DEVICE = "cuda"
+DOCLING_DEVICE = "cpu"
+DOCLING_NUM_THREADS = 8
 TORCH_CUDA_RUNTIME = "11.8"
 BASE_URL = "https://www.ioerj.com.br/portal/modules/conteudoonline/"
 CALENDAR_URL = urljoin(BASE_URL, "do_seleciona_data.php")
@@ -137,7 +139,8 @@ def clean_html(value: str) -> str:
     return SPACE_RE.sub(" ", value).strip()
 
 
-def convert_pdf_to_markdown(pdf_path: Path, markdown_path: Path, enable_ocr: bool = False) -> str:
+@lru_cache(maxsize=2)
+def get_docling_converter(enable_ocr: bool = False):
     try:
         from docling.datamodel.base_models import InputFormat
         from docling.datamodel.pipeline_options import PdfPipelineOptions
@@ -148,11 +151,16 @@ def convert_pdf_to_markdown(pdf_path: Path, markdown_path: Path, enable_ocr: boo
 
     pipeline_options = PdfPipelineOptions()
     pipeline_options.accelerator_options.device = DOCLING_DEVICE
+    pipeline_options.accelerator_options.num_threads = DOCLING_NUM_THREADS
     pipeline_options.do_ocr = enable_ocr
     pipeline_options.do_table_structure = False
-    converter = DocumentConverter(
+    return DocumentConverter(
         format_options={InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options)}
     )
+
+
+def convert_pdf_to_markdown(pdf_path: Path, markdown_path: Path, enable_ocr: bool = False) -> str:
+    converter = get_docling_converter(enable_ocr=enable_ocr)
     result = converter.convert(str(pdf_path))
     markdown = result.document.export_to_markdown()
     markdown_path.parent.mkdir(parents=True, exist_ok=True)
@@ -382,45 +390,35 @@ def markdown_path_for(edition: Edition) -> Path:
     return lake_base_path_for(edition).with_suffix(".md")
 
 
-def csv_path_for(edition: Edition) -> Path:
-    return lake_base_path_for(edition).with_suffix(".csv")
+def yearly_csv_path_for(publication_date: date) -> Path:
+    return OUTPUT_DIR / STATE / f"{GAZETTE_CODE}_{publication_date:%Y}.csv"
 
 
-def collect_next_rj() -> int:
+def collect_rj() -> int:
     client = IoerjClient()
-    dates = client.list_available_dates()
+    dates = sorted(client.list_available_dates(), reverse=True)
 
     total_new_acts = 0
-    processed_dates = 0
     for item in dates:
         editions = client.list_editions(item)
         editions = [edition for edition in editions if SECTION_FILTER.lower() in edition.section.lower()]
-        missing_editions = [
-            edition
-            for edition in editions
-            if not markdown_path_for(edition).exists() or not csv_path_for(edition).exists()
-        ]
-        if not missing_editions:
+        if not editions:
             continue
 
         print(f"Processando {item.isoformat()}...", file=sys.stderr)
-        for edition in missing_editions:
+        for edition in editions:
             markdown_path = markdown_path_for(edition)
-            csv_path = csv_path_for(edition)
+            csv_path = yearly_csv_path_for(edition.publication_date)
             text = load_or_create_markdown(client, edition, markdown_path, enable_ocr=ENABLE_OCR)
             acts = parse_acts(text, edition, markdown_path)
             total_new_acts += write_csv(csv_path, acts)
-
-        processed_dates += 1
-        if processed_dates >= DATES_PER_RUN:
-            break
     return total_new_acts
 
 
 def main() -> int:
     report_torch_cuda()
-    total = collect_next_rj()
-    print(f"{total} atos novos gravados nos CSVs diarios")
+    total = collect_rj()
+    print(f"{total} atos novos gravados nos CSVs anuais")
     return 0
 
 

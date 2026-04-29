@@ -1,13 +1,13 @@
 # Exoneracoes e nomeacoes nos diarios oficiais
 
-Este projeto busca criar uma base historica de atos de exoneracao e nomeacao publicados em diarios oficiais brasileiros. A primeira etapa foca no Governo do Estado do Rio de Janeiro, acompanhando o Diario Oficial do Estado do Rio de Janeiro (DOERJ/IOERJ) em ordem cronologica, da edicao online mais antiga disponivel no portal atual ate as publicacoes mais recentes.
+Este projeto busca criar uma base historica de atos de exoneracao e nomeacao publicados em diarios oficiais brasileiros. A primeira etapa foca no Governo do Estado do Rio de Janeiro, acompanhando o Diario Oficial do Estado do Rio de Janeiro (DOERJ/IOERJ) da edicao online mais recente disponivel no portal atual para as mais antigas.
 
 ## Objetivos
 
 - Converter as edicoes oficiais para Markdown com Docling e preservar somente o `.md` em `LAKE/UF`.
 - Identificar atos de `NOMEAR` e `EXONERAR`.
 - Catalogar data, caderno, nome da pessoa, tipo do ato, cargo, orgao, trecho e URL de origem.
-- Produzir CSVs auditaveis para analise jornalistica, historica e civica.
+- Produzir CSVs anuais auditaveis para analise jornalistica, historica e civica.
 - Evoluir para outros estados mantendo a mesma estrutura de coleta e dados.
 
 ## Fonte inicial: Rio de Janeiro
@@ -33,53 +33,58 @@ Rode o coletor:
 python main.py
 ```
 
-O `main.py` nao recebe argumentos. Ele esta pronto para GitHub Actions: procura as datas da IOERJ em ordem cronologica, encontra o primeiro caderno de Poder Executivo que ainda nao tem Markdown e CSV em `LAKE/RJ`, baixa o PDF apenas como arquivo temporario, converte com Docling, apaga o PDF e salva os artefatos do dia.
+O `main.py` nao recebe argumentos. Ele procura as datas da IOERJ da mais recente para a mais antiga e percorre as edicoes disponiveis do caderno de Poder Executivo. Para cada edicao, baixa o PDF apenas como arquivo temporario quando o Markdown ainda nao existe, converte com Docling, apaga o PDF e salva os dados encontrados no CSV anual correspondente.
 
-O padrao dos arquivos e:
+O padrao dos arquivos Markdown e:
 
 ```text
 LAKE/UF/ano/mes/<sigla>_<caderno>_<data>.md
-LAKE/UF/ano/mes/<sigla>_<caderno>_<data>.csv
 ```
 
 Exemplo:
 
 ```text
 LAKE/RJ/2026/04/DOERJ_PARTE_I_PODER_EXECUTIVO_2026-04-29.md
-LAKE/RJ/2026/04/DOERJ_PARTE_I_PODER_EXECUTIVO_2026-04-29.csv
 ```
 
-Se o `.md` da edicao ja existir no repositorio, o coletor usa esse arquivo diretamente e nao baixa nem converte o PDF de novo. O CSV tambem e diario, salvo ao lado do Markdown.
+O CSV consolidado por ano fica em:
+
+```text
+saida/UF/<sigla>_<ano>.csv
+```
+
+Exemplo:
+
+```text
+saida/RJ/DOERJ_2026.csv
+```
+
+Se o `.md` da edicao ja existir no repositorio, o coletor usa esse arquivo diretamente e nao baixa nem converte o PDF de novo. O CSV anual e atualizado em `saida/RJ`, sem duplicar atos ja gravados.
 
 Por padrao, o Docling usa o texto embutido no PDF, sem OCR, para manter a coleta mais rapida. Para edicoes escaneadas, altere a constante `ENABLE_OCR` em `diarios_oficiais/rj_ioerj.py`.
-
-## GitHub Actions
-
-O workflow `.github/workflows/coletar-doerj.yml` roda `python main.py` manualmente (`workflow_dispatch`) ou todos os dias as 08:30 UTC. Ele usa runner `self-hosted`, porque os runners hospedados pelo GitHub nao expoem a sua GPU local. Se o job ficar em `Waiting for a runner to pick up this job`, o runner local ainda nao esta online, nao esta vinculado a este repositorio, ou esta sem o label `self-hosted`.
-
-O projeto instala PyTorch antes do Docling usando o wheel CUDA `cu118`, que e o menor runtime CUDA compativel com as versoes atuais do Torch exigidas pelo Docling. CUDA 11.7 exato fica preso em Torch 2.0.1, que conflita com o Docling atual.
 
 ## Fluxo
 
 ```mermaid
 flowchart TD
-    A["GitHub Actions ou python main.py"] --> B["main.py chama diarios_oficiais.rj_ioerj.main()"]
+    A["python main.py"] --> B["main.py chama diarios_oficiais.rj_ioerj.main()"]
     B --> C["Reporta PyTorch/CUDA disponivel"]
     C --> D["Busca calendario da IOERJ"]
-    D --> E["Ordena datas do DOERJ do mais antigo ao mais recente"]
+    D --> E["Ordena datas do DOERJ do mais recente ao mais antigo"]
     E --> F["Para cada data, lista cadernos publicados"]
     F --> G["Filtra caderno: Poder Executivo"]
-    G --> H{"Markdown e CSV do dia ja existem em LAKE/RJ/ano/mes?"}
-    H -- "Sim" --> I["Pula para a proxima data"]
+    G --> H{"Markdown da edicao ja existe em LAKE/RJ/ano/mes?"}
+    H -- "Sim" --> I["Usa Markdown existente"]
     H -- "Nao" --> J["Baixa PDF oficial em .cache temporario"]
     J --> K["Docling converte PDF para Markdown"]
     K --> L["Salva somente o .md em LAKE/RJ/ano/mes"]
     L --> M["Apaga PDF temporario"]
-    M --> N["Parser procura atos NOMEAR e EXONERAR no Markdown"]
-    N --> O["Gera CSV diario ao lado do Markdown"]
-    O --> P{"Datas por execucao atingidas?"}
-    P -- "Nao" --> F
-    P -- "Sim" --> Q["Workflow commita LAKE/ se houver mudancas"]
+    I --> N["Parser procura atos NOMEAR e EXONERAR no Markdown"]
+    M --> N
+    N --> O["Atualiza CSV anual em saida/RJ"]
+    O --> P{"Ainda ha datas no calendario?"}
+    P -- "Sim" --> F
+    P -- "Nao" --> Q["Execucao termina"]
 ```
 
 ## Estrutura do CSV
