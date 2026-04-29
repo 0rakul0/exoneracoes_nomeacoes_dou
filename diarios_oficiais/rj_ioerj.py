@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import argparse
 import base64
 import csv
 import html
@@ -16,6 +15,16 @@ from urllib.parse import urljoin
 import requests
 
 
+STATE = "RJ"
+GAZETTE_CODE = "DOERJ"
+GAZETTE_NAME = "Diario Oficial do Estado do Rio de Janeiro"
+LAKE_DIR = Path("LAKE")
+CACHE_DIR = Path(".cache/diarios")
+SECTION_FILTER = "Poder Executivo"
+DATES_PER_RUN = 1
+ENABLE_OCR = False
+DOCLING_DEVICE = "cuda"
+TORCH_CUDA_RUNTIME = "11.8"
 BASE_URL = "https://www.ioerj.com.br/portal/modules/conteudoonline/"
 CALENDAR_URL = urljoin(BASE_URL, "do_seleciona_data.php")
 USER_AGENT = "exoneracoes-nomeacoes-dou/0.1 (+pesquisa civica)"
@@ -50,8 +59,7 @@ class Act:
     agency: str
     excerpt: str
     source_url: str
-    pdf_path: str
-    markdown_path: str
+    text_path: str
 
 
 class IoerjClient:
@@ -129,13 +137,22 @@ def clean_html(value: str) -> str:
     return SPACE_RE.sub(" ", value).strip()
 
 
-def convert_pdf_to_markdown(pdf_path: Path, markdown_path: Path) -> str:
+def convert_pdf_to_markdown(pdf_path: Path, markdown_path: Path, enable_ocr: bool = False) -> str:
     try:
+        from docling.datamodel.base_models import InputFormat
+        from docling.datamodel.pipeline_options import PdfPipelineOptions
         from docling.document_converter import DocumentConverter
+        from docling.document_converter import PdfFormatOption
     except ImportError as exc:
         raise RuntimeError("Docling nao esta instalado. Rode: python -m pip install -r requirements.txt") from exc
 
-    converter = DocumentConverter()
+    pipeline_options = PdfPipelineOptions()
+    pipeline_options.accelerator_options.device = DOCLING_DEVICE
+    pipeline_options.do_ocr = enable_ocr
+    pipeline_options.do_table_structure = False
+    converter = DocumentConverter(
+        format_options={InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options)}
+    )
     result = converter.convert(str(pdf_path))
     markdown = result.document.export_to_markdown()
     markdown_path.parent.mkdir(parents=True, exist_ok=True)
@@ -143,12 +160,21 @@ def convert_pdf_to_markdown(pdf_path: Path, markdown_path: Path) -> str:
     return markdown
 
 
-def load_or_create_markdown(client: IoerjClient, edition: Edition, pdf_path: Path, markdown_path: Path) -> str:
+def load_or_create_markdown(
+    client: IoerjClient,
+    edition: Edition,
+    markdown_path: Path,
+    enable_ocr: bool,
+) -> str:
     if markdown_path.exists():
         return markdown_path.read_text(encoding="utf-8")
-    if not pdf_path.exists():
-        client.download_edition_pdf(edition, pdf_path)
-    return convert_pdf_to_markdown(pdf_path, markdown_path)
+
+    temporary_pdf_path = CACHE_DIR / STATE / f"{markdown_path.stem}.pdf"
+    try:
+        client.download_edition_pdf(edition, temporary_pdf_path)
+        return convert_pdf_to_markdown(temporary_pdf_path, markdown_path, enable_ocr=enable_ocr)
+    finally:
+        temporary_pdf_path.unlink(missing_ok=True)
 
 
 ACT_WINDOW_RE = re.compile(
@@ -166,7 +192,7 @@ ROLE_RE = re.compile(
 AGENCY_RE = re.compile(r"\b(?:da|do)\s+(Secretaria|Subsecretaria|Fundacao|Fundação|Instituto|Departamento|Gabinete|Superintendencia|Superintendência|Autarquia)\b[^,.;\n]{0,180}", re.I)
 
 
-def parse_acts(text: str, edition: Edition, pdf_path: Path, markdown_path: Path) -> list[Act]:
+def parse_acts(text: str, edition: Edition, markdown_path: Path) -> list[Act]:
     normalized = SPACE_RE.sub(" ", text)
     acts: list[Act] = []
     seen: set[tuple[str, str, str]] = set()
@@ -190,8 +216,8 @@ def parse_acts(text: str, edition: Edition, pdf_path: Path, markdown_path: Path)
 
         acts.append(
             Act(
-                state="RJ",
-                gazette="Diario Oficial do Estado do Rio de Janeiro",
+                state=STATE,
+                gazette=GAZETTE_NAME,
                 publication_date=edition.publication_date,
                 section=edition.section,
                 action_type="nomeacao" if action == "NOMEAR" else "exoneracao",
@@ -200,8 +226,7 @@ def parse_acts(text: str, edition: Edition, pdf_path: Path, markdown_path: Path)
                 agency=agency,
                 excerpt=excerpt[:900],
                 source_url=edition.url,
-                pdf_path=str(pdf_path),
-                markdown_path=str(markdown_path),
+                text_path=str(markdown_path),
             )
         )
     return acts
@@ -256,7 +281,6 @@ def clean_piece(value: str) -> str:
 
 def write_csv(path: Path, acts: Iterable[Act]) -> int:
     path.parent.mkdir(parents=True, exist_ok=True)
-    rows = list(acts)
     fieldnames = [
         "estado",
         "diario",
@@ -268,97 +292,153 @@ def write_csv(path: Path, acts: Iterable[Act]) -> int:
         "orgao",
         "trecho",
         "fonte_url",
-        "arquivo_pdf",
         "arquivo_markdown",
     ]
+    rows: list[dict[str, str]] = []
+    seen: set[tuple[str, str, str, str]] = set()
+
+    if path.exists():
+        with path.open(newline="", encoding="utf-8") as file:
+            for row in csv.DictReader(file):
+                normalized_row = {field: row.get(field, "") for field in fieldnames}
+                key = (
+                    normalized_row["data_publicacao"],
+                    normalized_row["tipo_ato"],
+                    normalized_row["nome"],
+                    normalized_row["trecho"][:180],
+                )
+                rows.append(normalized_row)
+                seen.add(key)
+
+    new_count = 0
+    for act in acts:
+        row = {
+            "estado": act.state,
+            "diario": act.gazette,
+            "data_publicacao": act.publication_date.isoformat(),
+            "caderno": act.section,
+            "tipo_ato": act.action_type,
+            "nome": act.person_name,
+            "cargo": act.role,
+            "orgao": act.agency,
+            "trecho": act.excerpt,
+            "fonte_url": act.source_url,
+            "arquivo_markdown": act.text_path,
+        }
+        key = (row["data_publicacao"], row["tipo_ato"], row["nome"], row["trecho"][:180])
+        if key in seen:
+            continue
+        rows.append(row)
+        seen.add(key)
+        new_count += 1
+
     with path.open("w", newline="", encoding="utf-8") as file:
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
-        for act in rows:
-            writer.writerow(
-                {
-                    "estado": act.state,
-                    "diario": act.gazette,
-                    "data_publicacao": act.publication_date.isoformat(),
-                    "caderno": act.section,
-                    "tipo_ato": act.action_type,
-                    "nome": act.person_name,
-                    "cargo": act.role,
-                    "orgao": act.agency,
-                    "trecho": act.excerpt,
-                    "fonte_url": act.source_url,
-                    "arquivo_pdf": act.pdf_path,
-                    "arquivo_markdown": act.markdown_path,
-                }
-            )
-    return len(rows)
+        writer.writerows(rows)
+    return new_count
 
 
-def edition_slug(edition: Edition) -> str:
-    slug = re.sub(r"[^a-z0-9]+", "-", edition.section.lower()).strip("-")
+def edition_slug(section: str) -> str:
+    normalized = html.unescape(section)
+    replacements = {
+        "ç": "c",
+        "Ç": "C",
+        "ã": "a",
+        "Ã": "A",
+        "á": "a",
+        "Á": "A",
+        "à": "a",
+        "À": "A",
+        "â": "a",
+        "Â": "A",
+        "é": "e",
+        "É": "E",
+        "ê": "e",
+        "Ê": "E",
+        "í": "i",
+        "Í": "I",
+        "ó": "o",
+        "Ó": "O",
+        "ô": "o",
+        "Ô": "O",
+        "õ": "o",
+        "Õ": "O",
+        "ú": "u",
+        "Ú": "U",
+    }
+    for old, new in replacements.items():
+        normalized = normalized.replace(old, new)
+    slug = re.sub(r"[^A-Za-z0-9]+", "_", normalized).strip("_").upper()
     return slug or "caderno"
 
 
-def collect_rj(start: date | None, end: date | None, limit: int | None, lake_dir: Path) -> list[Act]:
+def lake_base_path_for(edition: Edition) -> Path:
+    stem = f"{GAZETTE_CODE}_{edition_slug(edition.section)}_{edition.publication_date.isoformat()}"
+    return LAKE_DIR / STATE / f"{edition.publication_date:%Y}" / f"{edition.publication_date:%m}" / stem
+
+
+def markdown_path_for(edition: Edition) -> Path:
+    return lake_base_path_for(edition).with_suffix(".md")
+
+
+def csv_path_for(edition: Edition) -> Path:
+    return lake_base_path_for(edition).with_suffix(".csv")
+
+
+def collect_next_rj() -> int:
     client = IoerjClient()
     dates = client.list_available_dates()
-    if start:
-        dates = [item for item in dates if item >= start]
-    if end:
-        dates = [item for item in dates if item <= end]
-    if limit:
-        dates = dates[:limit]
 
-    acts: list[Act] = []
+    total_new_acts = 0
+    processed_dates = 0
     for item in dates:
+        editions = client.list_editions(item)
+        editions = [edition for edition in editions if SECTION_FILTER.lower() in edition.section.lower()]
+        missing_editions = [
+            edition
+            for edition in editions
+            if not markdown_path_for(edition).exists() or not csv_path_for(edition).exists()
+        ]
+        if not missing_editions:
+            continue
+
         print(f"Processando {item.isoformat()}...", file=sys.stderr)
-        for edition in client.list_editions(item):
-            slug = edition_slug(edition)
-            base_path = lake_dir / "RJ" / f"{item.isoformat()}_{slug}"
-            pdf_path = base_path.with_suffix(".pdf")
-            markdown_path = base_path.with_suffix(".md")
-            text = load_or_create_markdown(client, edition, pdf_path, markdown_path)
-            acts.extend(parse_acts(text, edition, pdf_path, markdown_path))
-    return acts
+        for edition in missing_editions:
+            markdown_path = markdown_path_for(edition)
+            csv_path = csv_path_for(edition)
+            text = load_or_create_markdown(client, edition, markdown_path, enable_ocr=ENABLE_OCR)
+            acts = parse_acts(text, edition, markdown_path)
+            total_new_acts += write_csv(csv_path, acts)
+
+        processed_dates += 1
+        if processed_dates >= DATES_PER_RUN:
+            break
+    return total_new_acts
 
 
-def parse_date(value: str | None) -> date | None:
-    if not value:
-        return None
-    return datetime.strptime(value, "%Y-%m-%d").date()
-
-
-def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Coleta nomeacoes e exoneracoes do Diario Oficial do RJ (IOERJ).")
-    parser.add_argument("--list-dates", action="store_true", help="Lista datas disponiveis no calendario online da IOERJ.")
-    parser.add_argument("--start", help="Data inicial YYYY-MM-DD. Se omitida, usa a primeira data online encontrada.")
-    parser.add_argument("--end", help="Data final YYYY-MM-DD.")
-    parser.add_argument("--limit", type=int, help="Limita a quantidade de datas processadas.")
-    parser.add_argument("--lake-dir", default="LAKE", help="Diretorio raiz do data lake. Os diarios ficam em LAKE/UF.")
-    parser.add_argument("--output", default="data/processed/rj_movimentacoes.csv", help="CSV de saida.")
-    parser.add_argument("--text-file", help="Extrai atos de um arquivo .txt local, sem acessar a IOERJ.")
-    return parser
-
-
-def main(argv: list[str] | None = None) -> int:
-    args = build_parser().parse_args(argv)
-    client = IoerjClient()
-
-    if args.list_dates:
-        for item in client.list_available_dates():
-            print(item.isoformat())
-        return 0
-
-    if args.text_file:
-        text_path = Path(args.text_file)
-        edition = Edition(parse_date(args.start) or date.today(), "texto local", str(text_path))
-        acts = parse_acts(text_path.read_text(encoding="utf-8"), edition, text_path, text_path)
-    else:
-        acts = collect_rj(parse_date(args.start), parse_date(args.end), args.limit, Path(args.lake_dir))
-
-    total = write_csv(Path(args.output), acts)
-    print(f"{total} atos gravados em {args.output}")
+def main() -> int:
+    report_torch_cuda()
+    total = collect_next_rj()
+    print(f"{total} atos novos gravados nos CSVs diarios")
     return 0
+
+
+def report_torch_cuda() -> None:
+    try:
+        import torch
+    except ImportError:
+        print("PyTorch nao instalado; instale requirements-cuda.txt antes de requirements.txt.", file=sys.stderr)
+        return
+
+    cuda_available = torch.cuda.is_available()
+    cuda_version = torch.version.cuda or "indisponivel"
+    device_name = torch.cuda.get_device_name(0) if cuda_available else "nenhuma GPU CUDA disponivel"
+    print(
+        f"PyTorch {torch.__version__}; CUDA runtime: {cuda_version}; "
+        f"cuda_available={cuda_available}; device={device_name}; expected_runtime={TORCH_CUDA_RUNTIME}",
+        file=sys.stderr,
+    )
 
 
 if __name__ == "__main__":

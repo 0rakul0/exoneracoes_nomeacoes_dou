@@ -1,0 +1,46 @@
+name: Coletar DOERJ
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 8 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  coletar:
+    runs-on: [self-hosted, Windows, X64]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install PyTorch CUDA
+        run: python -m pip install -r requirements-cuda.txt
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run collector
+        run: python main.py
+
+      - name: Commit generated data
+        shell: pwsh
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add LAKE
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) {
+            echo "No generated changes to commit."
+          } else {
+            git commit -m "Atualiza coleta DOERJ"
+            git push
+          }
