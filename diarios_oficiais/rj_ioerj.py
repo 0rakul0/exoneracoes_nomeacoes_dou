@@ -1,35 +1,22 @@
 from __future__ import annotations
 
 import base64
-import csv
 import html
 import re
 import sys
 import time
-from dataclasses import dataclass
 from datetime import date, datetime
-from functools import lru_cache
 from pathlib import Path
-from typing import Iterable
 from urllib.parse import urljoin
 
-import requests
+from diarios_oficiais.base import Act
+from diarios_oficiais.base import BaseGazetteCollector
+from diarios_oficiais.base import Edition
+from diarios_oficiais.config import TORCH_CUDA_RUNTIME
 
 
-STATE = "RJ"
-GAZETTE_CODE = "DOERJ"
-GAZETTE_NAME = "Diario Oficial do Estado do Rio de Janeiro"
-LAKE_DIR = Path("LAKE")
-OUTPUT_DIR = Path("saida")
-CACHE_DIR = Path(".cache/diarios")
-SECTION_FILTER = "Poder Executivo"
-ENABLE_OCR = False
-DOCLING_DEVICE = "cpu"
-DOCLING_NUM_THREADS = 8
-TORCH_CUDA_RUNTIME = "11.8"
 BASE_URL = "https://www.ioerj.com.br/portal/modules/conteudoonline/"
 CALENDAR_URL = urljoin(BASE_URL, "do_seleciona_data.php")
-USER_AGENT = "exoneracoes-nomeacoes-dou/0.1 (+pesquisa civica)"
 
 
 DATE_LINK_RE = re.compile(r'href=["\']do_seleciona_edicao\.php\?data=([^"\']+)["\']', re.I)
@@ -42,56 +29,22 @@ TAG_RE = re.compile(r"<[^>]+>")
 SPACE_RE = re.compile(r"\s+")
 
 
-@dataclass(frozen=True)
-class Edition:
-    publication_date: date
-    section: str
-    url: str
+class RjIoerjCollector(BaseGazetteCollector):
+    state = "RJ"
+    gazette_code = "DOERJ"
+    gazette_name = "Diario Oficial do Estado do Rio de Janeiro"
+    section_filter = "Poder Executivo"
+    base_url = BASE_URL
+    calendar_url = CALENDAR_URL
 
-
-@dataclass(frozen=True)
-class Act:
-    state: str
-    gazette: str
-    publication_date: date
-    section: str
-    action_type: str
-    person_name: str
-    role: str
-    agency: str
-    excerpt: str
-    source_url: str
-    text_path: str
-
-
-class IoerjClient:
-    def __init__(self, delay_seconds: float = 1.0) -> None:
-        self.delay_seconds = delay_seconds
-        self.session = requests.Session()
-        self.session.headers.update({"User-Agent": USER_AGENT})
-
-    def fetch_text(self, url: str) -> str:
-        data = self.fetch_bytes(url)
-        return data.decode("utf-8", errors="replace")
-
-    def fetch_bytes(self, url: str) -> bytes:
-        last_error: Exception | None = None
+    def fetch_url_candidates(self, url: str) -> list[str]:
         candidates = [url]
         if url.startswith("https://www.ioerj.com.br/"):
             candidates.append(url.replace("https://", "http://", 1))
-
-        for candidate in candidates:
-            try:
-                response = self.session.get(candidate, timeout=60)
-                response.raise_for_status()
-                return response.content
-            except requests.RequestException as exc:
-                last_error = exc
-
-        raise RuntimeError(f"Falha ao baixar {url}: {last_error}") from last_error
+        return candidates
 
     def list_available_dates(self) -> list[date]:
-        page = self.fetch_text(CALENDAR_URL)
+        page = self.fetch_text(self.calendar_url)
         dates: set[date] = set()
         for encoded in DATE_LINK_RE.findall(page):
             decoded = base64.b64decode(encoded).decode("ascii")
@@ -100,7 +53,7 @@ class IoerjClient:
 
     def list_editions(self, publication_date: date) -> list[Edition]:
         encoded = base64.b64encode(publication_date.strftime("%Y%m%d").encode("ascii")).decode("ascii")
-        url = urljoin(BASE_URL, f"do_seleciona_edicao.php?data={encoded}")
+        url = urljoin(self.base_url, f"do_seleciona_edicao.php?data={encoded}")
         page = self.fetch_text(url)
         editions: list[Edition] = []
         for match in EDITION_LINK_RE.finditer(page):
@@ -109,7 +62,7 @@ class IoerjClient:
                 Edition(
                     publication_date=publication_date,
                     section=label,
-                    url=urljoin(BASE_URL, html.unescape(match.group("href"))),
+                    url=urljoin(self.base_url, html.unescape(match.group("href"))),
                 )
             )
         return editions
@@ -121,7 +74,7 @@ class IoerjClient:
         if not key_match:
             raise RuntimeError(f"Nao encontrei chave do PDF na pagina: {edition.url}")
         key = key_match.group("key")
-        pdf_url = urljoin(BASE_URL, f"mostra_edicao.php?k={key[:12]}P{key[12:]}")
+        pdf_url = urljoin(self.base_url, f"mostra_edicao.php?k={key[:12]}P{key[12:]}")
         time.sleep(self.delay_seconds)
         pdf_bytes = self.fetch_bytes(pdf_url)
         if not pdf_bytes.startswith(b"%PDF"):
@@ -132,57 +85,18 @@ class IoerjClient:
         destination.write_bytes(pdf_bytes)
         return destination
 
+    def lake_base_path_for(self, edition: Edition) -> Path:
+        stem = f"{self.gazette_code}_{edition_slug(edition.section)}_{edition.publication_date.isoformat()}"
+        return self.lake_dir / self.state / f"{edition.publication_date:%Y}" / f"{edition.publication_date:%m}" / stem
+
+    def markdown_path_for(self, edition: Edition) -> Path:
+        return self.lake_base_path_for(edition).with_suffix(".md")
+
 
 def clean_html(value: str) -> str:
     value = TAG_RE.sub(" ", value)
     value = html.unescape(value)
     return SPACE_RE.sub(" ", value).strip()
-
-
-@lru_cache(maxsize=2)
-def get_docling_converter(enable_ocr: bool = False):
-    try:
-        from docling.datamodel.base_models import InputFormat
-        from docling.datamodel.pipeline_options import PdfPipelineOptions
-        from docling.document_converter import DocumentConverter
-        from docling.document_converter import PdfFormatOption
-    except ImportError as exc:
-        raise RuntimeError("Docling nao esta instalado. Rode: python -m pip install -r requirements.txt") from exc
-
-    pipeline_options = PdfPipelineOptions()
-    pipeline_options.accelerator_options.device = DOCLING_DEVICE
-    pipeline_options.accelerator_options.num_threads = DOCLING_NUM_THREADS
-    pipeline_options.do_ocr = enable_ocr
-    pipeline_options.do_table_structure = False
-    return DocumentConverter(
-        format_options={InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options)}
-    )
-
-
-def convert_pdf_to_markdown(pdf_path: Path, markdown_path: Path, enable_ocr: bool = False) -> str:
-    converter = get_docling_converter(enable_ocr=enable_ocr)
-    result = converter.convert(str(pdf_path))
-    markdown = result.document.export_to_markdown()
-    markdown_path.parent.mkdir(parents=True, exist_ok=True)
-    markdown_path.write_text(markdown, encoding="utf-8")
-    return markdown
-
-
-def load_or_create_markdown(
-    client: IoerjClient,
-    edition: Edition,
-    markdown_path: Path,
-    enable_ocr: bool,
-) -> str:
-    if markdown_path.exists():
-        return markdown_path.read_text(encoding="utf-8")
-
-    temporary_pdf_path = CACHE_DIR / STATE / f"{markdown_path.stem}.pdf"
-    try:
-        client.download_edition_pdf(edition, temporary_pdf_path)
-        return convert_pdf_to_markdown(temporary_pdf_path, markdown_path, enable_ocr=enable_ocr)
-    finally:
-        temporary_pdf_path.unlink(missing_ok=True)
 
 
 ACT_WINDOW_RE = re.compile(
@@ -200,7 +114,12 @@ ROLE_RE = re.compile(
 AGENCY_RE = re.compile(r"\b(?:da|do)\s+(Secretaria|Subsecretaria|Fundacao|Fundação|Instituto|Departamento|Gabinete|Superintendencia|Superintendência|Autarquia)\b[^,.;\n]{0,180}", re.I)
 
 
-def parse_acts(text: str, edition: Edition, markdown_path: Path) -> list[Act]:
+def parse_acts(
+    text: str,
+    collector: RjIoerjCollector,
+    edition: Edition,
+    markdown_path: Path,
+) -> list[Act]:
     normalized = SPACE_RE.sub(" ", text)
     acts: list[Act] = []
     seen: set[tuple[str, str, str]] = set()
@@ -224,8 +143,8 @@ def parse_acts(text: str, edition: Edition, markdown_path: Path) -> list[Act]:
 
         acts.append(
             Act(
-                state=STATE,
-                gazette=GAZETTE_NAME,
+                state=collector.state,
+                gazette=collector.gazette_name,
                 publication_date=edition.publication_date,
                 section=edition.section,
                 action_type="nomeacao" if action == "NOMEAR" else "exoneracao",
@@ -237,6 +156,24 @@ def parse_acts(text: str, edition: Edition, markdown_path: Path) -> list[Act]:
                 text_path=str(markdown_path),
             )
         )
+    return acts
+
+
+def parse_acts_from_markdown_file(
+    collector: RjIoerjCollector,
+    edition: Edition,
+    markdown_path: Path,
+) -> list[Act]:
+    acts: list[Act] = []
+    seen: set[tuple[str, str, str]] = set()
+
+    for block in collector.iter_text_blocks(markdown_path):
+        for act in parse_acts(block, collector, edition, markdown_path):
+            key = (act.action_type, act.person_name, act.excerpt[:180])
+            if key in seen:
+                continue
+            seen.add(key)
+            acts.append(act)
     return acts
 
 
@@ -287,66 +224,6 @@ def clean_piece(value: str) -> str:
     return SPACE_RE.sub(" ", value).strip(" ,.;:-")
 
 
-def write_csv(path: Path, acts: Iterable[Act]) -> int:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    fieldnames = [
-        "estado",
-        "diario",
-        "data_publicacao",
-        "caderno",
-        "tipo_ato",
-        "nome",
-        "cargo",
-        "orgao",
-        "trecho",
-        "fonte_url",
-        "arquivo_markdown",
-    ]
-    rows: list[dict[str, str]] = []
-    seen: set[tuple[str, str, str, str]] = set()
-
-    if path.exists():
-        with path.open(newline="", encoding="utf-8") as file:
-            for row in csv.DictReader(file):
-                normalized_row = {field: row.get(field, "") for field in fieldnames}
-                key = (
-                    normalized_row["data_publicacao"],
-                    normalized_row["tipo_ato"],
-                    normalized_row["nome"],
-                    normalized_row["trecho"][:180],
-                )
-                rows.append(normalized_row)
-                seen.add(key)
-
-    new_count = 0
-    for act in acts:
-        row = {
-            "estado": act.state,
-            "diario": act.gazette,
-            "data_publicacao": act.publication_date.isoformat(),
-            "caderno": act.section,
-            "tipo_ato": act.action_type,
-            "nome": act.person_name,
-            "cargo": act.role,
-            "orgao": act.agency,
-            "trecho": act.excerpt,
-            "fonte_url": act.source_url,
-            "arquivo_markdown": act.text_path,
-        }
-        key = (row["data_publicacao"], row["tipo_ato"], row["nome"], row["trecho"][:180])
-        if key in seen:
-            continue
-        rows.append(row)
-        seen.add(key)
-        new_count += 1
-
-    with path.open("w", newline="", encoding="utf-8") as file:
-        writer = csv.DictWriter(file, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(rows)
-    return new_count
-
-
 def edition_slug(section: str) -> str:
     normalized = html.unescape(section)
     replacements = {
@@ -381,37 +258,28 @@ def edition_slug(section: str) -> str:
     return slug or "caderno"
 
 
-def lake_base_path_for(edition: Edition) -> Path:
-    stem = f"{GAZETTE_CODE}_{edition_slug(edition.section)}_{edition.publication_date.isoformat()}"
-    return LAKE_DIR / STATE / f"{edition.publication_date:%Y}" / f"{edition.publication_date:%m}" / stem
-
-
-def markdown_path_for(edition: Edition) -> Path:
-    return lake_base_path_for(edition).with_suffix(".md")
-
-
-def yearly_csv_path_for(publication_date: date) -> Path:
-    return OUTPUT_DIR / STATE / f"{GAZETTE_CODE}_{publication_date:%Y}.csv"
-
-
 def collect_rj() -> int:
-    client = IoerjClient()
-    dates = sorted(client.list_available_dates(), reverse=True)
+    collector = RjIoerjCollector()
+    dates = sorted(collector.list_available_dates(), reverse=True)
 
     total_new_acts = 0
     for item in dates:
-        editions = client.list_editions(item)
-        editions = [edition for edition in editions if SECTION_FILTER.lower() in edition.section.lower()]
+        editions = collector.list_editions(item)
+        editions = [
+            edition
+            for edition in editions
+            if collector.section_filter.lower() in edition.section.lower()
+        ]
         if not editions:
             continue
 
         print(f"Processando {item.isoformat()}...", file=sys.stderr)
         for edition in editions:
-            markdown_path = markdown_path_for(edition)
-            csv_path = yearly_csv_path_for(edition.publication_date)
-            text = load_or_create_markdown(client, edition, markdown_path, enable_ocr=ENABLE_OCR)
-            acts = parse_acts(text, edition, markdown_path)
-            total_new_acts += write_csv(csv_path, acts)
+            markdown_path = collector.markdown_path_for(edition)
+            csv_path = collector.yearly_csv_path_for(edition.publication_date)
+            collector.load_or_create_markdown(edition, markdown_path)
+            acts = parse_acts_from_markdown_file(collector, edition, markdown_path)
+            total_new_acts += collector.write_csv(csv_path, acts)
     return total_new_acts
 
 

@@ -61,7 +61,9 @@ saida/RJ/DOERJ_2026.csv
 
 Se o `.md` da edicao ja existir no repositorio, o coletor usa esse arquivo diretamente e nao baixa nem converte o PDF de novo. O CSV anual e atualizado em `saida/RJ`, sem duplicar atos ja gravados.
 
-Por padrao, o Docling usa o texto embutido no PDF, sem OCR, para manter a coleta mais rapida. Para edicoes escaneadas, altere a constante `ENABLE_OCR` em `diarios_oficiais/rj_ioerj.py`.
+Por padrao, o Docling usa o texto embutido no PDF, sem OCR, para manter a coleta mais rapida. Para edicoes escaneadas, altere a constante `ENABLE_OCR` em `diarios_oficiais/config.py`.
+
+As configuracoes compartilhadas de coleta, cache, saida, Docling e parse em blocos ficam em `diarios_oficiais/config.py`. A classe base para novos extratores fica em `diarios_oficiais/base.py`.
 
 ## Fluxo
 
