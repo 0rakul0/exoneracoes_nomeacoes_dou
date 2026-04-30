@@ -88,7 +88,7 @@ ADMINISTRATIVE_PHRASE_RE = re.compile(
     re.I,
 )
 NAME_SUFFIX_RE = re.compile(
-    r"\s*[-,;]?\s*(?:MATR(?:ICULA)?\.?|ID\.?\s*(?:FUNCIONAL)?|RG|CPF)\s*[: NºNO.]*\s*[\w.\-/]+.*$",
+    r"(?:\s*[-,;]\s*|\s+)(?:MATR(?:ICULA)?\.?|ID\.?\s*(?:FUNCIONAL)?|RG|CPF)\b\s*[: NºNO.]*\s*[\w.\-/]+.*$",
     re.I,
 )
 
