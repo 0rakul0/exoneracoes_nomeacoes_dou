@@ -245,6 +245,14 @@ class BaseGazetteCollector:
     def yearly_csv_path_for(self, publication_date: date) -> Path:
         return self.output_dir / self.state / f"{self.gazette_code}_{publication_date:%Y}.csv"
 
+    def year_complete_marker_path(self, year: int) -> Path:
+        return self.lake_dir / self.state / str(year) / ".year_complete"
+
+    def mark_year_complete(self, year: int) -> None:
+        marker_path = self.year_complete_marker_path(year)
+        marker_path.parent.mkdir(parents=True, exist_ok=True)
+        marker_path.write_text("complete\n", encoding="utf-8")
+
     def validate_person_name_with_spacy(self, person_name: str) -> tuple[str, str, str]:
         if not self.enable_spacy_validation:
             return "desativado", "", "indisponivel"

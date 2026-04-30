@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import csv
 import re
+import sys
 import unicodedata
 from collections import defaultdict
 from dataclasses import dataclass
@@ -10,6 +11,11 @@ from datetime import date, datetime
 from pathlib import Path
 from typing import Any, Iterable
 
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_INPUT_DIR = PROJECT_ROOT / "saida"
+DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "saida" / "analises"
+DEFAULT_LAKE_DIR = PROJECT_ROOT / "LAKE"
 
 ACTION_ORDER = {"exoneracao": 0, "nomeacao": 1}
 ADMINISTRATIVE_TERMS = {
@@ -92,6 +98,7 @@ NAME_SUFFIX_RE = re.compile(
     re.I,
 )
 CSV_YEAR_RE = re.compile(r"(?:^|_)(?P<year>20\d{2})(?:\.csv)?$", re.I)
+YEAR_COMPLETE_MARKER = ".year_complete"
 
 
 @dataclass(frozen=True)
@@ -203,26 +210,43 @@ def csv_year(path: Path) -> int | None:
     return int(match.group("year")) if match else None
 
 
-def is_complete_year_csv(path: Path, today: date | None = None) -> bool:
+def is_analysis_ready_csv(path: Path, lake_dir: Path = DEFAULT_LAKE_DIR, today: date | None = None) -> bool:
     year = csv_year(path)
     if year is None:
         return True
     today = today or date.today()
-    return year < today.year
+    if year >= today.year:
+        return True
+    state = path.parent.name
+    return (lake_dir / state / str(year) / YEAR_COMPLETE_MARKER).exists()
 
 
-def input_csv_paths(root: Path, state: str | None, complete_years_only: bool = True) -> list[Path]:
+def input_csv_paths(
+    root: Path,
+    state: str | None,
+    ready_years_only: bool = True,
+    years: Iterable[int] | None = None,
+    lake_dir: Path = DEFAULT_LAKE_DIR,
+) -> list[Path]:
     if state:
         paths = sorted((root / state).glob("*.csv"))
     else:
         paths = sorted(path for path in root.glob("*/*.csv") if "analises" not in path.parts)
     paths = [path for path in paths if path.is_file()]
-    if complete_years_only:
-        paths = [path for path in paths if is_complete_year_csv(path)]
+    year_filter = set(years or [])
+    if year_filter:
+        paths = [path for path in paths if csv_year(path) in year_filter]
+    if ready_years_only:
+        paths = [path for path in paths if is_analysis_ready_csv(path, lake_dir=lake_dir)]
     return paths
 
 
-def discover_states(root: Path, complete_years_only: bool = True) -> list[str]:
+def discover_states(
+    root: Path,
+    ready_years_only: bool = True,
+    years: Iterable[int] | None = None,
+    lake_dir: Path = DEFAULT_LAKE_DIR,
+) -> list[str]:
     if not root.exists():
         return []
     return sorted(
@@ -230,7 +254,7 @@ def discover_states(root: Path, complete_years_only: bool = True) -> list[str]:
         for path in root.iterdir()
         if path.is_dir()
         and path.name.lower() != "analises"
-        and any(input_csv_paths(root, path.name, complete_years_only=complete_years_only))
+        and any(input_csv_paths(root, path.name, ready_years_only=ready_years_only, years=years, lake_dir=lake_dir))
     )
 
 
@@ -433,19 +457,22 @@ def write_csv(path: Path, rows: list[dict[str, str]]) -> None:
 
 
 def generate_temporal_analysis(
-    input_dir: Path = Path("saida"),
-    output_dir: Path = Path("saida/analises"),
+    input_dir: Path = DEFAULT_INPUT_DIR,
+    output_dir: Path = DEFAULT_OUTPUT_DIR,
+    lake_dir: Path = DEFAULT_LAKE_DIR,
     state: str | None = None,
     government_milestones: Iterable[str] = (),
     spacy_model_name: str = "pt_core_news_sm",
     spacy_mode: str = "filtrar",
     disable_spacy: bool = False,
-    complete_years_only: bool = True,
+    ready_years_only: bool = True,
+    years: Iterable[int] | None = None,
 ) -> dict[str, int | str]:
-    paths = input_csv_paths(input_dir, state, complete_years_only=complete_years_only)
+    paths = input_csv_paths(input_dir, state, ready_years_only=ready_years_only, years=years, lake_dir=lake_dir)
     if not paths:
-        detail = " de ano completo" if complete_years_only else ""
-        raise FileNotFoundError(f"Nenhum CSV{detail} encontrado em {input_dir}")
+        detail = " pronto para analise" if ready_years_only else ""
+        year_detail = f" para os anos {', '.join(str(year) for year in years)}" if years else ""
+        raise FileNotFoundError(f"Nenhum CSV{detail}{year_detail} encontrado em {input_dir}")
 
     milestones = sorted(
         (parse_government_milestone(value) for value in government_milestones),
@@ -476,53 +503,167 @@ def generate_temporal_analysis(
 
 
 def generate_temporal_analysis_for_states(
-    input_dir: Path = Path("saida"),
-    output_dir: Path = Path("saida/analises"),
+    input_dir: Path = DEFAULT_INPUT_DIR,
+    output_dir: Path = DEFAULT_OUTPUT_DIR,
+    lake_dir: Path = DEFAULT_LAKE_DIR,
     states: Iterable[str] | None = None,
     government_milestones: Iterable[str] = (),
     spacy_model_name: str = "pt_core_news_sm",
     spacy_mode: str = "filtrar",
     disable_spacy: bool = False,
-    complete_years_only: bool = True,
+    ready_years_only: bool = True,
+    years: Iterable[int] | None = None,
 ) -> list[dict[str, int | str]]:
     state_list = (
         [state.upper() for state in states]
         if states is not None
-        else discover_states(input_dir, complete_years_only=complete_years_only)
+        else discover_states(input_dir, ready_years_only=ready_years_only, years=years, lake_dir=lake_dir)
     )
     if not state_list:
-        detail = " de ano completo" if complete_years_only else ""
-        raise FileNotFoundError(f"Nenhuma UF com CSV{detail} encontrada em {input_dir}")
+        detail = " pronto para analise" if ready_years_only else ""
+        year_detail = f" para os anos {', '.join(str(year) for year in years)}" if years else ""
+        raise FileNotFoundError(f"Nenhuma UF com CSV{detail}{year_detail} encontrada em {input_dir}")
 
     results: list[dict[str, int | str]] = []
     for state in state_list:
         result = generate_temporal_analysis(
             input_dir=input_dir,
             output_dir=output_dir / state,
+            lake_dir=lake_dir,
             state=state,
             government_milestones=government_milestones,
             spacy_model_name=spacy_model_name,
             spacy_mode=spacy_mode,
             disable_spacy=disable_spacy,
-            complete_years_only=complete_years_only,
+            ready_years_only=ready_years_only,
+            years=years,
         )
         result["uf"] = state
         results.append(result)
     return results
 
 
-def main() -> int:
-    parser = argparse.ArgumentParser(
-        description="Gera serie temporal de nomeacoes/exoneracoes por pessoa."
+def print_results(results: Iterable[dict[str, int | str]]) -> None:
+    for result in results:
+        print(f"UF: {result['uf']}")
+        print(f"CSVs lidos: {result['csvs_lidos']}")
+        print(f"Anos analisados: {result['anos_csv']}")
+        print(f"Atos analisados: {result['atos_analisados']}")
+        print(f"Pessoas analisadas: {result['pessoas_analisadas']}")
+        print(f"Retornos apos exoneracao: {result['retornos_apos_exoneracao']}")
+        print(f"Registros com nome suspeito: {result['registros_com_nome_suspeito']}")
+        print(f"spaCy: {result['spacy']}")
+        print(f"Arquivos gerados em: {result['saida']}")
+
+
+def available_states(root: Path = DEFAULT_INPUT_DIR, include_incomplete: bool = True) -> list[str]:
+    return discover_states(root, ready_years_only=not include_incomplete)
+
+
+def available_years_for_state(
+    state: str,
+    root: Path = DEFAULT_INPUT_DIR,
+    lake_dir: Path = DEFAULT_LAKE_DIR,
+    include_incomplete: bool = True,
+) -> list[int]:
+    return sorted(
+        {
+            year
+            for path in input_csv_paths(
+                root,
+                state,
+                ready_years_only=not include_incomplete,
+                lake_dir=lake_dir,
+            )
+            for year in [csv_year(path)]
+            if year is not None
+        }
     )
-    parser.add_argument("--entrada", type=Path, default=Path("saida"), help="Pasta com CSVs anuais.")
-    parser.add_argument("--saida", type=Path, default=Path("saida/analises"), help="Pasta de saida da analise.")
+
+
+def choose_from_list(title: str, values: list[str]) -> str | None:
+    if not values:
+        print("Nenhuma opcao encontrada.")
+        return None
+
+    print(title)
+    for index, value in enumerate(values, start=1):
+        print(f"{index}. {value}")
+    choice = input("Escolha: ").strip()
+    if not choice.isdigit():
+        print("Opcao invalida.")
+        return None
+    index = int(choice)
+    if index < 1 or index > len(values):
+        print("Opcao invalida.")
+        return None
+    return values[index - 1]
+
+
+def run_interactive_menu() -> int:
+    print("Analise temporal")
+    print("1. Gerar analise para anos prontos")
+    print("2. Gerar analise incluindo anos incompletos")
+    print("3. Escolher UF e ano")
+    print("4. Sair")
+    choice = input("Escolha: ").strip()
+
+    try:
+        if choice == "1":
+            results = generate_temporal_analysis_for_states()
+        elif choice == "2":
+            results = generate_temporal_analysis_for_states(ready_years_only=False)
+        elif choice == "3":
+            states = available_states(include_incomplete=True)
+            state = choose_from_list("UFs encontradas:", states)
+            if not state:
+                return 1
+            years = [str(year) for year in available_years_for_state(state, include_incomplete=True)]
+            selected_year = choose_from_list(f"Anos encontrados para {state}:", years)
+            if not selected_year:
+                return 1
+            ready_only = input("Exigir ano pronto no LAKE? [S/n]: ").strip().lower() != "n"
+            results = [
+                generate_temporal_analysis(
+                    state=state,
+                    output_dir=DEFAULT_OUTPUT_DIR / state,
+                    ready_years_only=ready_only,
+                    years=[int(selected_year)],
+                )
+            ]
+            results[0]["uf"] = state
+        elif choice == "4":
+            return 0
+        else:
+            print("Opcao invalida.")
+            return 1
+    except FileNotFoundError as exc:
+        print(str(exc))
+        print("Se os CSVs anuais ainda nao existem, rode primeiro: python main.py")
+        return 1
+
+    print_results(results)
+    return 0
+
+
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(description="Gera serie temporal de nomeacoes/exoneracoes por pessoa.")
+    parser.add_argument("--entrada", type=Path, default=DEFAULT_INPUT_DIR, help="Pasta com CSVs anuais.")
+    parser.add_argument("--saida", type=Path, default=DEFAULT_OUTPUT_DIR, help="Pasta de saida da analise.")
+    parser.add_argument("--lake", type=Path, default=DEFAULT_LAKE_DIR, help="Pasta LAKE usada para verificar anos concluidos.")
     parser.add_argument("--uf", default=None, help="Filtra uma UF, por exemplo RJ. Se omitir, roda todas as UFs em --entrada.")
     parser.add_argument(
         "--marco-governo",
         action="append",
         default=[],
         help="Marco no formato YYYY-MM-DD ou YYYY-MM-DD:rotulo. Pode repetir.",
+    )
+    parser.add_argument(
+        "--ano",
+        action="append",
+        type=int,
+        default=[],
+        help="Ano especifico para analisar. Pode repetir. Exemplo: --ano 2025.",
     )
     parser.add_argument(
         "--spacy-modelo",
@@ -541,11 +682,20 @@ def main() -> int:
         help="Desativa a validacao por spaCy e usa apenas as regras heuristicas.",
     )
     parser.add_argument(
+        "--incluir-anos-incompletos",
         "--incluir-ano-atual",
+        dest="incluir_anos_incompletos",
         action="store_true",
-        help="Inclui CSVs do ano corrente na analise. Por padrao, usa apenas anos fechados.",
+        help="Inclui CSVs sem marcador de conclusao no LAKE.",
     )
-    args = parser.parse_args()
+    return parser
+
+
+def main() -> int:
+    if len(sys.argv) == 1:
+        return run_interactive_menu()
+
+    args = build_parser().parse_args()
 
     try:
         if args.uf:
@@ -553,12 +703,14 @@ def main() -> int:
                 generate_temporal_analysis(
                     input_dir=args.entrada,
                     output_dir=args.saida,
+                    lake_dir=args.lake,
                     state=args.uf,
                     government_milestones=args.marco_governo,
                     spacy_model_name=args.spacy_modelo,
                     spacy_mode=args.spacy_modo,
                     disable_spacy=args.sem_spacy,
-                    complete_years_only=not args.incluir_ano_atual,
+                    ready_years_only=not args.incluir_anos_incompletos,
+                    years=args.ano or None,
                 )
             ]
             results[0]["uf"] = args.uf.upper()
@@ -566,25 +718,18 @@ def main() -> int:
             results = generate_temporal_analysis_for_states(
                 input_dir=args.entrada,
                 output_dir=args.saida,
+                lake_dir=args.lake,
                 government_milestones=args.marco_governo,
                 spacy_model_name=args.spacy_modelo,
                 spacy_mode=args.spacy_modo,
                 disable_spacy=args.sem_spacy,
-                complete_years_only=not args.incluir_ano_atual,
+                ready_years_only=not args.incluir_anos_incompletos,
+                years=args.ano or None,
             )
     except FileNotFoundError as exc:
         raise SystemExit(str(exc)) from exc
 
-    for result in results:
-        print(f"UF: {result['uf']}")
-        print(f"CSVs lidos: {result['csvs_lidos']}")
-        print(f"Anos analisados: {result['anos_csv']}")
-        print(f"Atos analisados: {result['atos_analisados']}")
-        print(f"Pessoas analisadas: {result['pessoas_analisadas']}")
-        print(f"Retornos apos exoneracao: {result['retornos_apos_exoneracao']}")
-        print(f"Registros com nome suspeito: {result['registros_com_nome_suspeito']}")
-        print(f"spaCy: {result['spacy']}")
-        print(f"Arquivos gerados em: {result['saida']}")
+    print_results(results)
     return 0
 
 

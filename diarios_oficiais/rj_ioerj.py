@@ -263,7 +263,13 @@ def collect_rj() -> int:
     dates = sorted(collector.list_available_dates(), reverse=True)
 
     total_new_acts = 0
+    current_year = date.today().year
+    active_year: int | None = None
     for item in dates:
+        if active_year is not None and item.year != active_year and active_year < current_year:
+            collector.mark_year_complete(active_year)
+        active_year = item.year
+
         editions = collector.list_editions(item)
         editions = [
             edition
@@ -280,6 +286,9 @@ def collect_rj() -> int:
             collector.load_or_create_markdown(edition, markdown_path)
             acts = parse_acts_from_markdown_file(collector, edition, markdown_path)
             total_new_acts += collector.write_csv(csv_path, acts)
+
+    if active_year is not None and active_year < current_year:
+        collector.mark_year_complete(active_year)
     return total_new_acts
 
 

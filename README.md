@@ -33,7 +33,7 @@ Rode o coletor:
 python main.py
 ```
 
-O `main.py` nao recebe argumentos. A lista de UFs a coletar fica em `STATES_TO_COLLECT`, dentro do proprio arquivo. Para `RJ`, ele procura as datas da IOERJ da mais recente para a mais antiga e percorre as edicoes disponiveis do caderno de Poder Executivo. Para cada edicao, reutiliza o Markdown quando ele ja existe; quando precisa converter, reaproveita PDFs em `.cache/diarios` antes de baixar novamente. Ao final da coleta, ele percorre automaticamente as UFs encontradas em `saida` e gera os CSVs de analise temporal para cada uma.
+O `main.py` nao recebe argumentos. A lista de UFs a coletar fica em `STATES_TO_COLLECT`, dentro do proprio arquivo. Para `RJ`, ele procura as datas da IOERJ da mais recente para a mais antiga e percorre as edicoes disponiveis do caderno de Poder Executivo. Para cada edicao, reutiliza o Markdown quando ele ja existe; quando precisa converter, reaproveita PDFs em `.cache/diarios` antes de baixar novamente. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
 
 O padrao dos arquivos Markdown e:
 
@@ -121,22 +121,27 @@ flowchart TD
 Para gerar uma serie temporal por pessoa e identificar retornos apos exoneracao:
 
 ```powershell
-python analise_temporal/analisar_movimentacoes.py --uf RJ
-```
-
-O `main.py` ja executa essa analise automaticamente ao final da coleta quando existir pelo menos um CSV de ano completo. Por padrao, um ano so entra na serie quando ele ja fechou; por exemplo, durante 2026 o arquivo `DOERJ_2026.csv` ainda nao entra, mas `DOERJ_2025.csv` entra.
-
-Para regerar as analises de todas as UFs sem coletar novamente:
-
-```powershell
 python analise_temporal/analisar_movimentacoes.py
 ```
 
-Se quiser incluir tambem o ano corrente em uma analise manual:
+O script de analise temporal e independente do `main.py`. O ano corrente entra sempre, mesmo ainda em andamento. Anos anteriores so entram quando o coletor termina todos os `.md` daquele ano e cria o marcador:
 
-```powershell
-python analise_temporal/analisar_movimentacoes.py --incluir-ano-atual
+```text
+LAKE/RJ/<ano>/.year_complete
 ```
+
+Por exemplo, durante 2026: `DOERJ_2026.csv` entra; `DOERJ_2025.csv` entra se tiver o marcador; `DOERJ_2024.csv` fica fora enquanto o ano nao tiver sido totalmente baixado/processado.
+
+Ao rodar o script diretamente, ele abre um menu:
+
+```text
+1. Gerar analise para anos prontos
+2. Gerar analise incluindo anos incompletos
+3. Escolher UF e ano
+4. Sair
+```
+
+Use esse menu para regerar todas as analises, incluir anos incompletos ou escolher uma UF/ano especifico.
 
 Nesse modo, a saida fica em:
 
@@ -146,8 +151,6 @@ saida/analises/RJ/retornos_apos_exoneracao.csv
 saida/analises/RJ/resumo_pessoas.csv
 saida/analises/RJ/nomes_suspeitos.csv
 ```
-
-Use `--uf RJ` apenas quando quiser gerar uma UF especifica diretamente na pasta passada em `--saida`.
 
 Por padrao, o script usa spaCy para validar nomes de pessoas quando o modelo estiver instalado. Para preparar o ambiente:
 
