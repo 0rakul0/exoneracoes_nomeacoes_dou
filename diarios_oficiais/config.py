@@ -3,9 +3,10 @@ from __future__ import annotations
 from pathlib import Path
 
 
-LAKE_DIR = Path("LAKE")
-OUTPUT_DIR = Path("saida")
-CACHE_DIR = Path(".cache/diarios")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+LAKE_DIR = PROJECT_ROOT / "LAKE"
+OUTPUT_DIR = PROJECT_ROOT / "saida"
+CACHE_DIR = PROJECT_ROOT / ".cache" / "diarios"
 USER_AGENT = "exoneracoes-nomeacoes-dou/0.1 (+pesquisa civica)"
 
 HTTP_DELAY_SECONDS = 1.0

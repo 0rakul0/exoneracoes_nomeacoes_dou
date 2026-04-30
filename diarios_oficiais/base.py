@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import csv
 import sys
 import time
 from dataclasses import dataclass
@@ -10,6 +9,7 @@ from pathlib import Path
 from typing import Any, Iterable
 
 import requests
+import pandas as pd
 
 from diarios_oficiais import config
 
@@ -309,31 +309,12 @@ class BaseGazetteCollector:
             "fonte_url",
             "arquivo_markdown",
         ]
-        rows: list[dict[str, str]] = []
-        seen: set[tuple[str, str, str, str]] = set()
+        existing_df = self.read_existing_csv_frame(path, fieldnames)
+        dedup_subset = ["data_publicacao", "tipo_ato", "nome", "_trecho_chave"]
+        existing_key_df = existing_df.assign(_trecho_chave=existing_df["trecho"].str.slice(0, 180))
+        existing_keys = set(map(tuple, existing_key_df[dedup_subset].to_numpy()))
 
-        if path.exists():
-            with path.open(newline="", encoding="utf-8") as file:
-                for row in csv.DictReader(file):
-                    normalized_row = {field: row.get(field, "") for field in fieldnames}
-                    if not normalized_row["spacy_pessoa"] and normalized_row["nome"]:
-                        (
-                            normalized_row["spacy_pessoa"],
-                            normalized_row["spacy_entidades"],
-                            normalized_row["nome_parse_confiavel"],
-                        ) = self.validate_person_name_with_spacy(normalized_row["nome"])
-                    if self.spacy_mode == "filter" and normalized_row["spacy_pessoa"] == "nao":
-                        continue
-                    key = (
-                        normalized_row["data_publicacao"],
-                        normalized_row["tipo_ato"],
-                        normalized_row["nome"],
-                        normalized_row["trecho"][:180],
-                    )
-                    rows.append(normalized_row)
-                    seen.add(key)
-
-        new_count = 0
+        new_rows: list[dict[str, str]] = []
         for act in acts:
             spacy_person = act.spacy_person
             spacy_entities = act.spacy_entities
@@ -345,31 +326,66 @@ class BaseGazetteCollector:
             if self.spacy_mode == "filter" and spacy_person == "nao":
                 continue
 
-            row = {
-                "estado": act.state,
-                "diario": act.gazette,
-                "data_publicacao": act.publication_date.isoformat(),
-                "caderno": act.section,
-                "tipo_ato": act.action_type,
-                "nome": act.person_name,
-                "spacy_pessoa": spacy_person,
-                "spacy_entidades": spacy_entities,
-                "nome_parse_confiavel": name_parse_reliable,
-                "cargo": act.role,
-                "orgao": act.agency,
-                "trecho": act.excerpt,
-                "fonte_url": act.source_url,
-                "arquivo_markdown": act.text_path,
-            }
-            key = (row["data_publicacao"], row["tipo_ato"], row["nome"], row["trecho"][:180])
-            if key in seen:
-                continue
-            rows.append(row)
-            seen.add(key)
-            new_count += 1
+            new_rows.append(
+                {
+                    "estado": act.state,
+                    "diario": act.gazette,
+                    "data_publicacao": act.publication_date.isoformat(),
+                    "caderno": act.section,
+                    "tipo_ato": act.action_type,
+                    "nome": act.person_name,
+                    "spacy_pessoa": spacy_person,
+                    "spacy_entidades": spacy_entities,
+                    "nome_parse_confiavel": name_parse_reliable,
+                    "cargo": act.role,
+                    "orgao": act.agency,
+                    "trecho": act.excerpt,
+                    "fonte_url": act.source_url,
+                    "arquivo_markdown": act.text_path,
+                }
+            )
 
-        with path.open("w", newline="", encoding="utf-8") as file:
-            writer = csv.DictWriter(file, fieldnames=fieldnames)
-            writer.writeheader()
-            writer.writerows(rows)
+        new_df = pd.DataFrame(new_rows, columns=fieldnames)
+        combined_df = pd.concat([existing_df, new_df], ignore_index=True)
+        combined_df = self.normalize_csv_frame(combined_df, fieldnames)
+        if self.spacy_mode == "filter":
+            combined_df = combined_df[combined_df["spacy_pessoa"] != "nao"].copy()
+        combined_df["_trecho_chave"] = combined_df["trecho"].str.slice(0, 180)
+        combined_df = combined_df.drop_duplicates(subset=dedup_subset, keep="first")
+        final_keys = set(map(tuple, combined_df[dedup_subset].to_numpy()))
+        new_count = len(final_keys - existing_keys)
+        combined_df = combined_df.drop(columns=["_trecho_chave"])
+
+        temporary_path = path.with_name(f"{path.name}.tmp")
+        for attempt in range(1, 4):
+            try:
+                combined_df.to_csv(temporary_path, index=False, encoding="utf-8", lineterminator="\n")
+                temporary_path.replace(path)
+                break
+            except OSError:
+                if attempt == 3:
+                    raise
+                time.sleep(0.5 * attempt)
         return new_count
+
+    def read_existing_csv_frame(self, path: Path, fieldnames: list[str]) -> pd.DataFrame:
+        if not path.exists():
+            return pd.DataFrame(columns=fieldnames)
+        dataframe = pd.read_csv(path, dtype=str, keep_default_na=False)
+        return self.normalize_csv_frame(dataframe, fieldnames)
+
+    def normalize_csv_frame(self, dataframe: pd.DataFrame, fieldnames: list[str]) -> pd.DataFrame:
+        dataframe = dataframe.copy()
+        for field in fieldnames:
+            if field not in dataframe.columns:
+                dataframe[field] = ""
+        dataframe = dataframe[fieldnames].fillna("").astype(str)
+
+        missing_spacy_mask = (dataframe["spacy_pessoa"] == "") & (dataframe["nome"] != "")
+        for index, row in dataframe.loc[missing_spacy_mask].iterrows():
+            (
+                dataframe.at[index, "spacy_pessoa"],
+                dataframe.at[index, "spacy_entidades"],
+                dataframe.at[index, "nome_parse_confiavel"],
+            ) = self.validate_person_name_with_spacy(row["nome"])
+        return dataframe
