@@ -1,0 +1,16116 @@
+## Pagina 1
+
+ESTA PARTE É EDITADA
+ELETRONICAMENTE DESDE
+3 DE MARÇO DE 2008
+ANO LI - Nº 156
+Q U I N TA - F E I R A , 28 DE AGOSTO DE 2025
+PARTE I
+PODER EXECUTIVO
+GOVERNO DO ESTADO
+www .rj.gov .br
+ÓRGÃOS DO PODER EXECUTIVO
+SECRETARIA DE ESTADO DA CASA CIVIL
+Nic ola Moreira Mic cione
+SECRETARIA DE ESTADO DO GABINETE DO GOVERNADOR
+Rodrigo Ratkus Abel
+SECRETARIA DE ESTADO DE GOVERNO
+Andre Luis Dantas Ferreira
+SECRETARIA DE ESTADO DE PLANEJAMENTO E GESTÃO
+Adilson de Faria Maciel
+SECRETARIA DE ESTADO DE FAZENDA
+Juliano Pasqual
+SECRETARIA DE ESTADO DE DESENVOLVIMENTO ECONÔMICO,
+INDÚSTRIA, COMÉRCIO E SERVIÇOS
+Fernanda Pereira Curdi (Interina)
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+Marc elo de Meneze s Nogueira
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+Felipe Lobato Curi
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+Maria Rosa Lo Duc a Nebel
+SECRETARIA DE ESTADO DE DEFESA CIVIL
+T arciso Antonio de Salle s Junior
+SECRETARIA DE ESTADO DE SAÚDE
+Cláudia Maria Braga de Mello
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+Roberta Barreto de Oliveira
+SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+Anderson Luis de Morae s
+SECRETARIA DE ESTADO DE TRANSPORTE E MOBILIDADE URBANA
+Priscila Haidar Sakalem
+SECRETARIA DE ESTADO DO AMBIENTE E SUSTENTABILIDADE
+Bernardo Chim Rossi
+SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E
+ABASTECIMENTO
+Flavio Campos Ferreira
+SECRETARIA DE ESTADO DE DESENVOLVIMENTO REGIONAL DO
+INTERIOR, PESCA E AGRICULTURA FAMILIAR
+Jair de Siqueira Bittenc ourt Júnior
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+Danielle Christian Ribeiro Barros
+SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL E
+DIREITOS HUMANOS
+Rosangela de Souza Gome s
+SECRETARIA DE ESTADO DE ESPORTE E LAZER
+Rafael Carneiro Monteiro Pic ciani
+SECRETARIA DE ESTADO DE TURISMO
+Gustavo Reis Ferreira
+CONTROLADORIA GERAL DO ESTADO
+Demetrio Abdennur Farah Neto
+GABINETE DE SEGURANÇA INSTITUCIONAL DO GOVERNO DO
+ESTADO DO RIO DE JANEIRO
+Edu Guimarãe s de Souza
+SECRETARIA DE ESTADO DE TRABALHO E RENDA
+Felipe Rangel Garcia
+SECRETARIA EXTRAORDINÁRIA DE REPRESENTAÇÃO DO GOVERNO
+EM BRASÍLIA
+André Luís Dantas Ferreira (Interino)
+SECRETARIA DE ESTADO DE TRANSFORMAÇÃO DIGITAL
+Fernando Braga Martins
+SECRETARIA DE ESTADO DE INFRAESTRUTURA E OBRAS PÚBLICAS
+Uruan Cintra de Andrade
+SECRETARIA DE ESTADO DE ENERGIA E ECONOMIA DO MAR
+Cassio da Conc eição Coelho
+SECRETARIA DE ESTADO DE HABITAÇÃO DE INTERESSE SOCIAL
+Bruno Felgueira Dauaire
+SECRETARIA DE ESTADO INTERGERACIONAL DE JUVENTUDE E
+ENVELHECIMENTO SAUDÁVEL
+Alexandre Isquierdo Moreira
+SECRETARIA DE ESTADO DA MULHER
+Heloisa Helena de Alenc ar Aguiar
+SECRETARIA DE ESTADO DAS CIDADES
+Douglas Ruas dos Santos
+SECRETARIA DE ESTADO DE DEFESA DO CONSUMIDOR
+Gutemberg de Paula Fonse c a
+SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA
+Victor Ce sar Carvalho dos Santos
+PROCURADORIA GERAL DO ESTADO
+Renan Miguel Saad
+GOVERNADOR
+Cláudio Bomfim de Castro e Silva
+SUMÁRIO
+Atos do Poder Legislativo ................................................................ 1
+Atos do Poder Executivo ................................................................. 2
+Gabinete do Governador .............................................................. 2
+Governadoria do Estado ............................................................. ...
+Gabinete do Vice-Governador ...................................................... ...
+Vice-Governadoria do Estado ....................................................... ...
+ÓRGÃOS DA CHEFIA DO PODER EXECUTIVO (Secretarias de Estado)
+Casa Civil ................................................................................. 4
+Gabinete do Governador ............................................................. ...
+Governo ................................................................................... 6
+Planejamento e Gestão .............................................................. ...
+Fazenda ................................................................................... 6
+Desenvolvimento Econômico, Indústria, Comércio e Serviços .............. 9
+Polícia Militar ............................................................................. 9
+Polícia Civil .............................................................................. 10
+Administração Penitenciária ......................................................... 13
+Defesa Civil .............................................................................. 15
+Saúde ..................................................................................... 15
+Educação ................................................................................. 18
+Ciência, Tecnologia e Inovação .................................................... 22
+Transportes e Mobilidade Urbana ................................................. 23
+Ambiente e Sustentabilidade ........................................................ 24
+Agricultura, Pecuária e Abastecimento ........................................... ...
+Desenvolvimento Regional do Interior, Pesca e Agricultura Familiar ..... 25
+Cultura e Economia Criativa ........................................................ 25
+Desenvolvimento Social e Direitos Humanos ................................... ...
+Esporte e Lazer ........................................................................ 27
+Turismo ................................................................................... 27
+Controladoria Geral do Estado ..................................................... 27
+Gabinete de Segurança Institucional do Governo do Estado do Rio de Janeiro.. 27
+Trabalho e Renda ...................................................................... ...
+Extraordinária de Representação do Governo em Brasília ................. ...
+Transformação Digital ................................................................. 27
+Infraestrutura e Obras Públicas .................................................... 29
+Energia e Economia do Mar ........................................................ 31
+Habitação de Interesse Social ...................................................... ...
+Intergeracional de Juventude e Envelhecimento Saudável ................. ...
+Mulher ..................................................................................... 32
+Cidades ................................................................................... ...
+Defesa do Consumidor ............................................................... 32
+Segurança Pública ..................................................................... 32
+Procuradoria Geral do Estado ...................................................... 32
+AVISOS, EDITAIS E TERMOS DE CONTRATO ................................... 33
+REPARTIÇÕES FEDERAIS ............................................................... ...
+ATOS DO PODER LEGISLATIVO
+LEI Nº 10.905 DE 27 DE AGOSTO DE 2025
+DECLARA PATRIMÔNIO CULTURAL IMATE-
+RIAL DO ESTADO DO RIO DE JANEIRO O
+CIRCUITO JUNINO DO MUNICÍPIO DE SÃO
+JOÃO DA BARRA
+O Governador do Estado do Rio de Janeiro
+Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro
+decreta e eu sanciono a seguinte Lei:
+Art. 1º - Fica declarado, como patrimônio cultural, de natureza ima-
+terial do Estado do Rio de Janeiro, o Circuito Junino, localizado no
+Município de São João da Barra.
+Art. 2º - Esta lei entra em vigor na data de sua publicação.
+Rio de Janeiro, 27 de agosto de 2025
+CLÁUDIO CASTRO
+Governador
+Projeto de Lei nº 3751-A/2024
+Autoria da Deputada: Carla Machado.
+Id: 2674134
+LEI Nº 10.906 DE 27 DE AGOSTO DE 2025
+DISPÕE SOBRE A CRIAÇÃO DE PROGRAMA
+DE PREVENÇÃO DA SAÚDE DA SÍNDROME
+DE CUSHING, NO ÂMBITO DO ESTADO DO
+RIO DE JANEIRO
+O Governador do Estado do Rio de Janeiro
+Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro
+decreta e eu sanciono a seguinte Lei:
+Art. 1º - Fica criado no Estado do Rio de Janeiro o Programa de Pre-
+venção da Saúde à Síndrome de Cushing.
+Art. 2º - Através do Sistema Único de Saúde, o Programa de Pre-
+venção da Saúde a Síndrome de Cushing, deverá ter avaliações mé-
+dicas periódicas, a realização de exames clínicos e laboratoriais, as-
+sim como campanhas anuais de orientação, prevenção e tratamento.
+Art. 3º - O Estado poderá estabelecer cooperação técnica com os
+Municípios na realização dos exames.
+Art. 4º - As despesas decorrentes da execução desta Lei correrão à
+conta das dotações orçamentárias próprias.
+Art. 5º - Esta Lei entrará em vigor na data de sua publicação.
+Rio de Janeiro, 27 de agosto de 2025
+CLÁUDIO CASTRO
+Governador
+Projeto de Lei nº 3743/2017
+Autoria do Deputado: Átila Nunes.
+Id: 2674135
+LEI Nº 10.907 DE 27 DE AGOSTO DE 2025
+INSTITUI A POLÍTICA ESTADUAL DE CONS-
+CIENTIZAÇÃO SOBRE A IMPORTÂNCIA DO
+ESPORTE PARA O DESENVOLVIMENTO
+COGNITIVO E SOCIAL DE PESSOAS COM
+TRANSTORNO DO ESPECTRO AUTISTA
+(TEA)
+O Governador do Estado do Rio de Janeiro
+Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro
+decreta e eu sanciono a seguinte Lei:
+Art. 1º - Fica instituída a Política Estadual de Conscientização sobre
+a Importância do Esporte para o Desenvolvimento Cognitivo e Social
+de pessoas com Transtorno do Espectro Autista (TEA), com o objetivo
+de estabelecer uma política pública de conscientização destinada a
+pais e responsáveis por crianças e adolescentes autistas.
+Art. 2º - São diretrizes da Política Pública Estadual:
+I - criar campanhas de conscientização em âmbito estadual para in-
+formar pais e responsáveis sobre os benefícios do esporte para pes-
+soas com transtorno do espectro autista;
+II - desenvolver materiais educativos (cartilhas, vídeos, sites) acessí-
+veis e inclusivos;
+III - promover parcerias com entidades e organizações desportivas,
+escolas e instituições especializadas em autismo;
+IV - incentivar a criação de grupos de apoio e redes de troca de ex-
+periências entre pais e responsáveis.
+Art. 3º - A política estadual trabalhará com a abordagem de bene-
+fícios comprovados na saúde e bem-estar de pessoas com transtorno
+do espectro autista, tais como:
+I - melhora das Habilidades Motoras;
+II - promoção da Interação Social;
+III - redução de Comportamentos Estereotipados e Ansiedade;
+IV - melhora na Saúde Mental e Bem-Estar;
+V - aumento da Participação e Inclusão Escolar;
+VI - desenvolvimento da Autoconfiança e Autoestima.
+Art. 4º - São ações do Estado para a implementação da política:
+I - implementar programas de treinamento e capacitação para pais,
+responsáveis, profissionais da educação e do esporte, visando à in-
+clusão das pessoas com transtorno do espectro autista em atividades
+desportivas;
+II - disponibilizar recursos financeiros e logísticos para a criação e
+manutenção das campanhas de conscientização;
+III - monitorar e avaliar a eficácia das políticas e programas imple-
+mentados, promovendo ajustes quando necessário.
+Art. 5º - O Estado, através da Secretaria de Estado de Esporte e La-
+zer e Subsecretaria de Políticas Inclusivas, será responsável pela co-
+ordenação e supervisão da execução das ações previstas nesta lei,
+devendo elaborar um plano de ação anual com metas e indicadores
+de avaliação, realizando campanhas e eventos com as diretrizes:
+I - benefícios do esporte para o desenvolvimento cognitivo e social;
+II - tipos de esportes mais indicados para pessoas com autismo;
+III - testemunhos de pais e profissionais da área;
+IV - orientações sobre como iniciar e manter a prática esportiva.
+Art. 6º - As campanhas devem ser difundidas pelos seguintes meios
+de comunicação:
+I - televisão, rádio, internet e redes sociais;
+II - instituições de ensino e de saúde;
+III - eventos comunitários e desportivos.
+Art. 7º - O Governo do Estado poderá firmar parcerias e colabora-
+ções com a iniciativa pública e privada, tais como;
+I - organizações não-governamentais (ONGs);
+II - associações de pais e familiares de autistas;
+III - clubes e federações desportivas;
+IV - instituições de ensino e pesquisa;
+V - empresas privadas do segmento desportivo e/ou inclusivo para
+pessoas com transtorno do espectro autista.
+Art. 8º - Esta lei entra em vigor na data de sua publicação.
+Rio de Janeiro, 27 de agosto de 2025
+CLÁUDIO CASTRO
+Governador
+Projeto de Lei nº 4137-A/2024
+Autoria dos Deputados: Arthur Monteiro, Índia Armelau e Brazão.
+Id: 2674136
+LEI Nº 10.908 DE 27 DE AGOSTO DE 2025
+CRIA O “PROGRAMA ESTADUAL DELEGA-
+CIA ACESSÍVEL” NO ESTADO DO RIO DE
+JANEIRO, PARA A IMPLEMENTAÇÃO DA
+ACESSIBILIDADE DAS PESSOAS COM DEFI-
+CIÊNCIA - PCD'S - EM TODAS AS DELEGA-
+CIAS DE POLÍCIA, BEM COMO PARA O TREI-
+NAMENTO DOS POLICIAIS CIVIS PARA O
+ATENDIMENTO ESPECIAL VOLTADO ÀS
+PCD'S, NOS TERMOS DA LEI FEDERAL N.º
+10.098/2000 E LEI FEDERAL N.º 13.146/2015,
+E DÁ OUTRAS PROVIDÊNCIAS
+O Governador do Estado do Rio de Janeiro
+Faço saber que a Assembleia Legislativa do Estado do Rio de Ja-
+neiro decreta e eu sanciono a seguinte Lei:
+Art. 1º - Fica criado o Programa Estadual Delegacia Acessível, ob-
+jetivando a implementação de ações governamentais concretas que
+promovam a acessibilidade das pessoas com deficiências - PCD's -
+ou com mobilidade reduzida em todas as Delegacias de Polícia do
+
+## Pagina 2
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0032
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+DIÁRIO OFICIAL PARTE I - PODER EXECUTIVO
+Serviço de Atendimento ao Cliente da Imprensa Oﬁcial do Estado do Rio de Janeiro: Tel.: (21) 2717-7840.
+Os textos e reclamações sobre publicações de       
+matérias deverão ser encaminhados à Assessoria 
+para Preparo e Publicações dos Atos Oﬁciais - à Rua 
+Pinheiro Machado, s/nº - (Palácio Guanabara - Casa 
+Civil), Laranjeiras, 
+Rio de Janeiro - RJ, Brasil - CEP 22.231-901
+Tels.: (21) 2334-3242 e 2334-3244
+As matérias para publicação deverão ser enviadas 
+pelo sistema edof´s.
+cm/col __________________________________________ R$ 132,00
+AGÊNCIA NITERÓI
+- Email.:  agenit@ioerj.rj.gov.br
+AGÊNCIAS DA IMPRENSA OFICIALPUBLICAÇÕES
+RECLAMAÇÕES SOBRE PUBLICAÇÕES DE MATÉRIAS:  
+Deverão ser dirigidas, por escrito, ao Diretor-Presidente da 
+Imprensa Oﬁcial do Estado do Rio de Janeiro, no máximo 
+até 10 (dez) dias após a data de sua publicação.
+PREÇO PARA PUBLICAÇÃO:
+PARTE I - PODER EXECUTIVO:
+ENVIO DE MATÉRIAS:
+Marcio Fontes de Mattos
+Diretor-Presidente
+Diretor Administrativo
+Diretor Financeiro
+Ceres Pimenta
+Diretora Industrial
+AGÊNCIA RIO
+- Email.:  agerio@ioerj.rj.gov.br
+AGÊNCIA BARRA
+- Email.:  agebarra@ioerj.rj.gov.br
+Estado do Rio de Janeiro, bem como para garantir o treinamento dos
+Policiais Civis para o atendimento especial voltado às PCD's, nos ter-
+mos da presente Lei, bem como da Lei Federal n.º 10.098/2000, que
+“Estabelece normas gerais e critério básicos para a promoção da
+acessibilidade das pessoas portadoras de deficiência ou com mobili-
+dade reduzida, e dá outras providências”, e da Lei Federal n.º
+13.146/2015, “Que estabelece a Lei Brasileira de Inclusão da Pessoa
+com Deficiência - Estatuto da Pessoa com Deficiência”.
+Parágrafo Único - São diretrizes do Programa:
+I - a dignidade no atendimento público para as PCD's;
+II - o enfrentamento do preconceito e da intolerância na sociedade e
+na administração pública contra PCD's ou com mobilidade reduzida;
+III - a apuração e punição dos crimes cometidos contra PCD's ou com
+mobilidade reduzida;
+IV - o aprimoramento da Administração Pública para o atendimento
+universal dos cidadãos e cidadãs;
+V - a garantia do cumprimento do direito constitucional à Segurança
+Pública e dos Direitos Humanos inerentes a todos os cidadãos e ci-
+dadãs, sem qualquer distinção; e
+VI - o acolhimento das PCD's ou com mobilidade reduzida e o pleno
+atendimento das suas demandas pelo Poder Público.
+Art. 2º - São objetivos do Programa:
+§ 1º - Garantir o pleno acesso e circulação das PCD's ou com mo-
+bilidade reduzida em todas as dependências das Delegacias de Po-
+lícia do Estado do Rio de Janeiro.
+§ 2º - Efetivar com prioridade o treinamento e aperfeiçoamento dos
+servidores públicos da Polícia Civil para o atendimento especial vol-
+tado às PCD's ou com mobilidade reduzida, inclusive quanto à legis-
+lação especial vigente no ordenamento jurídico e aos direitos das pes-
+soas com deficiência e com mobilidade reduzida.
+§ 3º - Inserir dentre os ensinamentos da Academia de Polícia os prin-
+cípios, leis e métodos de atendimento específicos voltados às PCD's
+ou com mobilidade reduzida.
+§ 4º - Garantir cursos periódicos, voltados aos servidores da Polícia
+Civil, quanto ao aperfeiçoamento nos métodos de atendimento e às
+atualizações na legislação especial supramencionada.
+Art. 3º - O Governo do Estado promoverá os levantamentos e es-
+tudos necessários à identificação das condições de acessibilidade das
+Delegacias de Polícia do Estado, para a identificação das unidades
+policiais que necessitem de intervenções que garantam o pleno cum-
+primento da legislação, especialmente o que determina a Lei Federal
+n.º 10.098/2000, que “Estabelece normas gerais e critério básicos pa-
+ra a promoção da acessibilidade das pessoas com deficiência ou com
+mobilidade reduzida, e dá outras providências”.
+Art. 4º - O Poder Executivo promoverá com prioridade as obras de
+reformas, adaptações, instalação de equipamentos e outras interven-
+ções necessárias à garantia da acessibilidade e locomoção plena das
+PCD's ou com mobilidade reduzida em todas as dependências das
+Delegacias de Polícia.
+Art. 5º - Nos termos da Lei Federal n.º 10.098/2000, a construção,
+ampliação ou reforma de edifícios públicos ou privados de uso das
+Delegacias de Polícia deverão ser executadas de modo que sejam ou
+se tornem acessíveis às pessoas com deficiência - PCD's - ou com
+mobilidade reduzida.
+Parágrafo Único - Para os fins do disposto neste artigo, na cons-
+trução, ampliação ou reforma de edifícios públicos ou privados des-
+tinados ao uso por Delegacias de Polícia deverão ser observados, pe-
+lo menos, os seguintes requisitos de acessibilidade:
+I - nas áreas externas ou internas da edificação, destinadas a gara-
+gem e a estacionamento de uso público, deverão ser reservadas va-
+gas próximas dos acessos de circulação de pedestres, devidamente
+sinalizadas, para veículos que transportem pessoas com deficiência,
+com mobilidade reduzida ou com dificuldade de locomoção permanen-
+te;
+II - pelo menos um dos acessos ao interior da edificação será livre de
+barreiras arquitetônicas e de obstáculos que impeçam ou dificultem a
+acessibilidade de pessoa com deficiência ou com mobilidade reduzida,
+conforme dispõe o art. 2º da Lei Federal n.º 10.098/2000;
+III - pelo menos um dos itinerários que comuniquem horizontal e ver-
+ticalmente todas as dependências e serviços do edifício, entre si com
+o exterior, deverá cumprir os requisitos de acessibilidade de que trata
+a Lei Federal n.º 10.098/2000, especialmente no tocante à rampas de
+acesso e piso tátil, nos termos da norma 9050 da ABNT;
+IV - os edifícios deverão dispor, pelo menos, de um banheiro aces-
+sível, em andar térreo, distribuindo-se seus equipamentos acessórios
+de maneira que possam ser utilizados por pessoa com deficiência ou
+com mobilidade reduzida.
+Art. 6º - O Poder Executivo poderá celebrar convênios e/ou outros
+instrumentos que possibilitem a participação de associações represen-
+tativas das Pessoas com Deficiência - PCD's - ou com mobilidade re-
+duzida para a prestação de serviços distintos daqueles específicos
+das funções da polícia civil nas dependências das Delegacias de Po-
+lícia.
+Art. 7º - As despesas decorrentes do cumprimento da presente Lei
+correrão por conta das dotações orçamentárias do Fundo Estadual de
+Segurança Pública - FUSPRJ, criado pela Lei n.º 8.637, de 28 de no-
+vembro de 2019.
+Art. 8º - Esta Lei entrará em vigor na data da sua publicação.
+Rio de Janeiro, 27 de agosto de 2025
+CLÁUDIO CASTRO
+Governador
+Projeto de Lei nº 3651/2024
+Autoria dos Deputados: Carlos Minc, Fred Pacheco, Marcelo Dino,
+Chico Machado, Ricardo da Karol, Flávio Serafini, Rodrigo Amorim,
+Yuri Moura, Val Ceasa, Bruno Boaretto, Samuel Malafaia, Dr. Deodal-
+to, Delegado Carlos Augusto, Renato Miranda, Brazão, Índia Armelau,
+Luiz Paulo, Marina do MST, Prof. Josemar, Elika Takimoto, Dionísio
+Lins, Munir Neto, Verônica Lima, Jari Oliveira, Renata Souza, Sérgio
+Fernandes, Giovani Ratinho, Zeidan, Carla Machado e Sarah Poncio.
+Id: 2674137
+LEI Nº 10.909 DE 27 DE AGOSTO DE 2025
+ALTERA A LEI N.º 10.368/2024, QUE INSTITUI
+A “LEI MORENO MOURA”, QUE PROÍBE A
+CONTRATAÇÃO DE MÉDICO GENERALISTA E
+DO RESIDENTE MÉDICO, COMO MÉDICO ES-
+PECIALISTA, EM UNIDADES DE SAÚDE E
+HOSPITAIS PÚBLICOS NO ESTADO DO RIO
+DE JANEIRO
+O Governador do Estado do Rio de Janeiro
+Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro
+decreta e eu sanciono a seguinte Lei:
+Art. 1º - Acrescenta-se o art. 4º-A, com a seguinte redação:
+“Art. 4º-A. Esta lei não se aplica aos médicos formados antes
+da entrada em vigor da Resolução CFM n.º 1.666/2003, pu-
+blicada em 2004, os quais ficam dispensados da necessidade
+de apresentar o Registro de Qualificação de Especialidade
+(RQE) para exercerem suas funções como médicos especia-
+listas nas unidades de saúde e hospitais públicos estaduais.
+Parágrafo único. Os médicos mencionados no caput deste ar-
+tigo deverão comprovar sua formação anterior à referida re-
+solução mediante apresentação de documentação oficial cor-
+respondente.”
+Art. 2º - Esta Lei entra em vigor na data de sua publicação.
+Rio de Janeiro, 27 de agosto de 2025
+CLÁUDIO CASTRO
+Governador
+Projeto de Lei nº 3612/2024
+Autoria do Deputado: Rodrigo Amorim.
+Id: 2674138
+ATOS DO PODER EXECUTIVO
+DECRETO Nº 49.828 DE 27 DE AGOSTO DE 2025
+TRANSFORMA, SEM AUMENTO DE DESPE-
+SA, O SALDO REMANESCENTE, E DÁ OU-
+TRAS PROVIDÊNCIAS.
+O GOVERNADOR DO ESTADO DO RIO DE JANEIRO , no uso de
+suas atribuições constitucionais e legais, e tendo em vista o que
+consta nos Processos nº SEI-150001/010894/2025,
+CONSIDERANDO:
+- a necessidade de observar os princípios que orientam a Adminis-
+tração Pública esculpidos no artigo 37 da Constituição Federal; e
+- que compete privativamente ao Governador dispor sobre a organi-
+zação e o funcionamento da administração pública estadual;
+D E C R E TA :
+Art. 1º - Fica transformado, sem aumento de despesa, o saldo re-
+manescente, conforme Anexo Único ao presente Decreto.
+Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
+Rio de Janeiro, 27 de agosto de 2025
+CLÁUDIO CASTRO
+Governador
+ANEXO ÚNICO
+SALDO A SER TRANSFORMADO CARGOS RESULTANTES
+ORIGEM VALOR (R$) L O TA Ç Ã O
+AT U A L
+QT CARGO EM CO-
+MISSÃO
+SÍMBOLO LOTAÇÃO RESULTAN-
+TE
+Saldo remanescente do Decreto nº
+49.816, de 26/08/2025 R$ 1.900,74 SECC
+01 Assistente II DAI-6 SEGG
+01 Assistente II DAI-6 SEAS
+03 Assistente II DAI-6 SECC
+Id: 2674168
+DECRETO Nº 49.829 DE 27 DE AGOSTO DE 2025
+TRANSFERE, SEM AUMENTO DE DESPESA,
+A SUBSECRETARIA DE AÇÕES COMUNITÁ-
+RIAS E EMPREENDEDORISMO DA SECRETA-
+RIA DE ESTADO DE GOVERNO PARA SE-
+CRETARIA DE ESTADO DA CASA CIVIL, E
+DÁ OUTRAS PROVIDÊNCIAS.
+O GOVERNADOR DO ESTADO DO RIO DE JANEIRO , no uso de
+suas atribuições constitucionais e legais, tendo em vista o que consta
+no Processo nº SEI-150001/010911/2025, e
+CONSIDERANDO:
+- a necessidade de observar os princípios que orientam a Adminis-
+tração Pública, esculpidos no artigo 37 da CRFB/88;
+- o Decreto nº 49.544, de 11 de março de 2025, que criou a Sub-
+secretaria de Ações Comunitárias e Empreendedorismo; e
+- que compete, privativamente, ao Governador, dispor sobre a orga-
+nização e o funcionamento da administração estadual.
+D E C R E TA :
+Art. 1º - Fica transferida, sem aumento de despesa, a Subsecretaria
+de Ações Comunitárias e Empreendedorismo da Secretaria de Estado
+de Governo para a estrutura organizacional da Secretaria de Estado
+da Casa Civil.
+Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
+Rio de Janeiro, 27 de agosto de 2025
+CLÁUDIO CASTRO
+Governador
+Id: 2674179
+Atos do Governador
+ATOS DO GOVERNADOR
+DECRETOS DE 27 DE AGOSTO DE 2025
+O GOVERNADOR DO ESTADO DO RIO DE JANEIRO, no uso de
+suas atribuições constitucionais e legais,
+R E S O LV E :
+EXONERAR, com validade a contar de 20 de agosto de 2025, FÁBIO
+FRIAS LAVIOLA DE FREITAS , ID FUNCIONAL Nº 3220143-5, Coro-
+nel PM, do cargo de Subsecretário de Estado, símbolo SS, da Sub-
+secretaria de Comando e Controle de Policia Militar, da Subsecretaria
+Geral de Polícia Militar, da Secretaria de Estado de Polícia Militar.
+Processo nº SEI-350009/027363/2025.
+EXONERAR, com validade a contar de 19 de agosto de 2025,
+SYLVIO RICARDO CIUFFO GUERRA , ID FUNCIONAL Nº 2418187-0,
+Coronel PM, do cargo em comissão de Comandante Intermediário,
+símbolo DG, do 4º Comando de Policiamento de Área, da Subsecre-
+taria de Gestão Operacional da Polícia Militar, da Subsecretaria Geral
+de Polícia Militar, da Secretaria de Estado de Polícia Militar. Processo
+nº SEI-350009/027363/2025.
+NOMEAR SYLVIO RICARDO CIUFFO GUERRA , ID FUNCIONAL Nº
+2418187-0, Coronel PM, para exercer, com validade a contar de 21
+de agosto de 2025, o cargo de Subsecretário de Estado, símbolo SS,
+da Subsecretaria de Comando e Controle de Policia Militar, da
+Subsecretaria Geral de Polícia Militar, da Secretaria de Estado de Po-
+lícia Militar, anteriormente ocupado por Fábio Frias Laviola de Freitas,
+ID Funcional nº 3220143-5. Processo nº SEI-350009/027363/2025.
+EXONERAR, com validade a contar de 20 de agosto de 2025 , LUIZ
+OCTÁVIO LOPES DA ROCHA LIMA , ID FUNCIONAL Nº 2182811-3,
+CEL PM, do cargo em comissão de Comandante Intermediário, sím-
+bolo DG, do Comando de Policiamento Especializado, da Subsecre-
+taria de Gestão Operacional da Polícia Militar, da Subsecretaria Geral
+de Polícia Militar, da Secretaria de Estado de Polícia Militar. Processo
+nº SEI-350009/027363/2025.
+NOMEAR LUIZ OCTÁVIO LOPES DA ROCHA LIMA , ID FUNCIONAL
+Nº 2182811-3, CEL PM, para exercer, com validade a contar de 20 de
+agosto de 2025, o cargo em comissão de Comandante Intermediário,
+símbolo DG, do 4º Comando de Policiamento de Área, da Subsecre-
+taria de Gestão Operacional da Polícia Militar, da Subsecretaria Geral
+de Polícia Militar, da Secretaria de Estado de Polícia Militar, anterior-
+mente ocupado por Sylvio Ricardo Ciuffo Guerra, ID Funcional nº
+2418187-0. Processo nº SEI-350009/027363/2025.
+NOMEAR MARCO ANTONIO ANDRADE SANTOS , ID FUNCIONAL
+Nº 3999913-0, CEL PM, para exercer, com validade a contar de 21 de
+agosto de 2025, o cargo em comissão de Comandante Intermediário,
+símbolo DG, do Comando de Policiamento Especializado, da Subse-
+cretaria de Gestão Operacional da Polícia Militar, da Subsecretaria
+Geral de Polícia Militar, da Secretaria de Estado de Polícia Militar, an-
+teriormente ocupado por Luiz Octávio Lopes da Rocha Lima, ID Fun-
+cional nº 2182811-3. Processo nº SEI-350009/027363/2025.
+NOMEAR ROBERTO CHRISTIANO DANTAS , ID FUNCIONAL Nº
+2251495-3, Coronel PM, para exercer, com validade a contar de
+26 de agosto de 2025, o cargo em comissão de Diretor Geral, símbolo
+DG, da Diretoria Geral de Ensino e Instrução, da Subsecretaria de Ges-
+tão Administrativa de Polícia Militar, da Subsecretaria Geral de Polícia
+Militar, da Secretaria de Estado de Polícia Militar, anteriormente ocupado
+por Gustavo Pinheiro Marques, ID Funcional nº 2427588-3. Processo nº
+SEI-350009/027364/2025.
+EXONERAR, a pedido e com validade a contar de 20 de agosto
+de 2025, HINGRID RODRIGUES DA SILVA MOURA , ID FUNCIO-
+NAL Nº 5037622-5, do cargo em comissão de Assessor, símbolo
+CECIERJ V, da Fundação Centro de Ciências e Educação Superior
+à Distância do Estado do Rio de Janeiro - CECIERJ. Processo nº
+SEI-260004/003002/2025.
+NOMEAR MARLUCE ALMEIDA LEITÃO , ID FUNCIONAL N°
+5098573-6, para exercer, com validade a contar de 22 de agosto de
+2025, o cargo em comissão de Assessor, símbolo CECIERJ V, da
+Fundação Centro de Ciências e Educação Superior à Distância do Es-
+tado do Rio de Janeiro - CECIERJ, anteriormente ocupado por Hingrid
+Rodrigues da Silva Moura, ID Funcional nº 5037622-5. Processo nº
+SEI-260004/002971/2025.
+NOMEAR MAURIZIO RODRIGUES SPINELLI , ID FUNCIONAL
+Nº 50978268, para exercer o cargo de Subsecretário Adjunto,
+símbolo SA, da Subsecretaria de Governança da Administração
+Indireta, da Secretaria de Estado de Transporte e Mobilidade
+Urbana, anteriormente ocupado pelo próprio servidor. Processo nº
+SEI-150001/000269/2025.
+EXONERAR ANTONIO JOAQUIM RIBEIRO NETO , ID FUNCIONAL
+Nº 4319076-6, do cargo de Controlador Interno, símbolo VP-3, da
+Controladoria Interna, da Presidência, da Fundação Leão XIII. Proces-
+so nº SEI-310003/000993/2025.
+Id: 2674177
+
+## Pagina 3
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0033/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+ATO DO GOVERNADOR
+DECRETO DE 27 DE AGOSTO DE 2025
+O GOVERNADOR DO ESTADO DO RIO DE JANEIRO , no
+uso de suas atribuições constitucionais e legais, e considerando
+os processos SEIs 270137/000032/2022, SEI-270137/000123/2022, SEI Nº 270137/000051/2024, SEI-
+270006/017706/2024, SEI-270006/004659/2025 e tendo em vista o que consta do
+SEI-270006/006202/2025.
+R E S O LV E:
+NOMEAR, no Corpo de Bombeiros Militar do Estado do Rio de Janeiro, no cargo de 3º Sargento Bom-
+beiro Militar na especialidade
+Músico (QBMP/04), em ordem alfabética, por terem sido aprovados em todas as fases do Concurso Pú-
+blico para provimento das vagas do Corpo de Bombeiros Militar do Estado do Rio de Janeiro, os can-
+didatos abaixo relacionados a saber:
+A contar de 01 de abril de 2025:
+No cargo 3º Sargento Bombeiro Militar - QBMP 04 - Músico - Flautista
+INSC C A N D I D ATO CPF
+92981 ANDRÉ CORREIA COSTA LOPES 207.524.187-26
+174995 DAVI MATHEUS ARAUJO DIAS 179.912.097-09
+No cargo 3º Sargento Bombeiro Militar - QBMP 04 - Músico - Percursionista
+INSC C A N D I D ATO CPF
+155950 MATHEUS BERNARDO MOREIRA 158.090.097-60
+131294 MISAEL DE SOUZA NUNES 11 4 . 3 1 5 . 4 9 7 - 5 4
+No cargo 3º Sargento Bombeiro Militar - QBMP 04 - Músico - Saxofonista
+INSC C A N D I D ATO CPF
+96879 MARCOS SILVA DOS SANTOS 150.036.827-00
+NOMEAR, no Corpo de Bombeiros Militar do Estado do Rio de Janeiro, como Soldado Bombeiro Militar,
+nas especialidades Combatente (QBMP/00), Condutor e Operador de Viaturas (QBMP/02), Artífices
+(QBMP/03), Telecomunicações (QBMP/05), Corneteiro (QBMP/07) e Marítimo (QBMP/08), ordem alfabé-
+tica, por terem sido aprovados em todas as fases do Concurso Público para provimento das vagas do
+Corpo de Bombeiros Militar do Estado do Rio de Janeiro, os candidatos abaixo relacionados a saber:
+A contar de 01 de abril de 2025:
+No cargo de Soldado Bombeiro Militar - QBMP/00 (Combatente) - Eletricista (eletrotécnico)
+INSC C A N D I D ATO CPF
+136321 JUAN MARCOS PERES GOMES 107.859.727-81
+104688 VITOR DEL CARO CRISTO 152.503.757-90
+No cargo de Soldado Bombeiro Militar - QBMP 02 (Condutor e operador de viaturas) - CNH tipo
+D
+INSC C A N D I D ATO CPF
+137486 ADRIELLE FOCKT MORAES 152.073.857-98
+90428 ALAN ANTONIO DA SILVA 169.099.997-70
+123419 ALESSANDRO MENDES DE MENEZES 146.189.447-65
+128734 ALEXANDRE DE LIMA CARVALHO JÚNIOR 171.996.587-02
+1 4 9 11 0 ALLISON VINICIUS BARROS DA COSTA 155.146.667-86
+93430 ANDRE ROCHA LOURENÇO 134.166.927-05
+102687 ANDREW PORTELLA MORALES 057.539.177-47
+11 6 9 9 1 ARILSON RAMOS GASPAR 139.755.077-56
+92196 ARTHUR DO AMARAL FRAGA 188.406.567-82
+106030 BRUNO OLIVEIRA DA SILVA 165.071.837-33
+9 3 11 0 CAMILA SCHIMIDT BRUST 135.645.647-21
+172272 CARLOS YURI DE SOUZA BATISTA 138.139.177-03
+150063 CHRISTIANO ALMENARA DA SILVA 145.309.147-55
+106523 DANIEL PHILIP BARROZO SANTOS 140.806.587-88
+160220 DANIEL RICARDO PEIXOTO 129.093.207-74
+9 3 11 5 DANIEL RIOLO ALMEIDA 392.413.098-14
+102097 DERIK SILVANO DA CONCEIÇÃO 160.472.467-61
+97159 DOUGLAS ANDRÉ SILVA 182.201.497-28
+146822 DOUGLAS DUARTE TRINDADE 150.956.457-85
+103802 EDUARDO MACEDO DA SILVA CURTY 149.336.637-85
+11 9 2 5 4 EDUARDO MEDEIROS CARVALHO 153.002.547-89
+93158 ELIEL LMA SIMPLÍCIO DA COSTA 173.561.617-61
+150536 EWERTON SOARES VIANA 157.017.407-57
+176740 FABIO LIMA COUTINHO JUNIOR 11 3 . 1 8 9 . 7 4 7 - 1 2
+11 6 7 1 4 FABRÍCIO CAMPOS TEIXEIRA 157.476.797-67
+104982 FABRÍCIO CORREA BARBOSA 152.524.027-79
+169032 FARUK MARQUES DOS SANTOS FILHO 139.453.477-93
+142052 FILIPE MENDES COELHO 127.698.717-06
+142413 FILIPE RIBEIRO RAMOS LOURENÇO GOUDARD 179.179.717-24
+155356 GABRIEL GOMES PARDINHO 146.824.387-00
+130239 GONÇALO WENDEL PEREIRA SIQUEIRA 111 . 9 2 7 . 9 1 6 - 0 6
+121342 GUSTAVO LIRA DE CARVALHO 151.722.187-00
+155986 GUSTAVO RIBEIRO FERNANDES 163.466.667-46
+128965 GUSTAVO RODY DE ABREU 159.858.347-60
+138396 GUSTAVO SILVA DE MESQUITA 186.713.557-48
+140966 IGOR DO NASCIMENTO DIAS 1 6 7 . 5 1 9 . 3 3 7 - 11
+158131 JOÃO GABRIEL DA SILVA NOGUEIRA 154.409.227-09
+120367 JOAO PAULO MORAES LEMES 169.740.127-99
+176228 JOÃO VITOR DA SILVA FLORENÇO 161.853.147-62
+120262 JOÃO VÍCTOR FEITOSA DA SILVA DE ALMEIDA 167.627.487-16
+134853 JOHNNATA ANDERSON FERREIRA PIRES 179.767.357-21
+106529 JOSE AUGUSTO COSTA MOTA 11 0 . 2 3 5 . 7 9 7 - 9 0
+151394 JOSE LUCAS DA SILVA LUNA 158.205.257-36
+161264 JÚLIO CÉSAR SOUZA RODRIGUES 151.627.127-01
+180829 KEVIN OLIVEIRA NUNES 162.484.597-54
+109084 KLEYTON FLAUZINO DUTRA DE OLIVEIRA 164.828.417-59
+108741 LEANDRO MUNIZ DA SILVA JUNIOR 150.124.197-40
+136360 LORENA ESTHER PERESTELO SILVA 121.885.717-03
+155378 LUCAS GOMES PARDINHO 146.824.447-78
+107887 LUCAS MELLO DA SILVEIRA 148.737.267-19
+101460 LUIS ALBERTO DOS SANTOS VIEIRA 164.176.657-39
+121883 LUIZ FELLIPPE CORDEIRO DIAS BISCACIO 165.808.667-80
+147550 MARCELO FERNANDES ORNILO DA SILVA 130.492.427-01
+144590 MARCELO LIMA HUFNAGEL TERRA 150.856.937-10
+108422 MARCOS PAULO AZEVEDO DE CASTRO 154.021.827-95
+147696 MATEUS MATIAS NUNES MENDONÇA 108.625.067-27
+98975 MATHEUS DE MATTOS SCALZITTI 162.450.707-75
+106834 MATHEUS PAIVA DE SOUZA BELLO 161.936.347-03
+175912 MATHEUS PEREIRA DA SILVA 147.217.297-31
+11 8 3 0 5 MATHEUS PEREIRA DE ARAUJO 145.887.247-54
+139732 MAYCON DA SILVA NASCIMENTO 199.155.847-33
+93710 MULLER RIBEIRO MARTINS 121.559.497-66
+100127 PATRICK DA CRUZ MURITO 11 7 . 2 2 9 . 8 9 7 - 1 8
+106230 PAULO HENRIQUE GOMES GADELHA 121.641.407-61
+157451 PEDRO AFONSO MAIA GOUVEIA 459.573.508-18
+140434 PEDRO FELIPPE FERREIRA GUIMARÃES 173.842.697-17
+109078 RAFAEL DIAS DA SILVA 132.623.317-32
+11 4 3 0 2 RAFAEL RODRIGUES DE OLIVEIRA 160.391.667-97
+103763 RENAN ALEXANDRE VIEIRA 126.982.907-65
+175415 RENAN SOUZA CURTY MARINS 140.121.107-05
+104057 RICHARDISON DOUGLAS DA COSTA APOLINARIO 125.481.347-09
+150827 ROBERTO VICENTE CESCON COELHO 147.432.357-07
+139967 ROBERTO VINICIUS OLIVEIRA GARRIDO 140.765.167-61
+168565 ROMÁRIO CÂNDIDO RIBEIRO MARTINS 145.807.887-61
+162369 SAMUEL BARBOSA DE OLIVEIRA 165.519.057-14
+93007 THIAGO OLIVEIRA GOMES 159.596.257-33
+104869 TULIO DE SOUZA LEITE 151.949.427-02
+129512 VINICIUS ALVES NAVEGA MARCHIORO STELET 11 5 . 8 7 0 . 9 5 7 - 9 3
+151856 VINICIUS PIRES DE ASSUNÇÃO 137.986.127-65
+108659 WALACE NERYS FRAGOSO 165.014.877-14
+11 4 8 1 8 WALTER MATERA NARCISO 141.401.097-42
+172613 WANDER MARTINS SANTIAGO 859.649.745-54
+160957 WANDERSON MIRANDA DE SOUZA PEREIRA 058.506.327-35
+122649 WASEMBERG SANTOS OLIVEIRA 11 6 . 3 7 9 . 5 5 7 - 7 4
+128646 YAN FERNANDES DA COSTA 153.425.057-39
+140020 YURI CARVALHO DOS SANTOS MACIEL 183.251.727-62
+No cargo de Soldado Bombeiro Militar - QBMP 02 (Condutor e operador de viaturas) - CNH tipo
+E
+INSC C A N D I D ATO CPF
+134207 ALEF EMANUEL LIMA OLEGARIO DA SILVA 184.088.547-55
+143653 ALEX SANDRO BISPO DA SILVA JUNIOR 164.478.557-90
+130434 ALLAN BORGES CURVELLO 136.738.137-14
+93492 ANDERSON WILLIAM CARELI DE SA SILVA 11 9 . 8 9 3 . 4 5 7 - 3 5
+135296 ANDRE LUIZ BOROTO THOMAZ DO CARMO 158.874.877-47
+153882 DIOGO ARAUJO DE SOUSA 101.871.177-56
+94896 EWERSON IAGO TEIXEIRA GOMES 144.336.927-60
+11 5 1 0 4 FABIO ANTONIO MOREIRA FILHO 129.018.537-90
+160675 FELIPE DA SILVA AGUIAR 148.584.817-27
+134132 GABRIEL JOSEILTON SANTOS FRANÇA SILVA 132.042.657-30
+90552 GILSON ALVES DA SILVA JUNIOR 136.518.137-54
+147806 HUGO SANCHES DE ALMEIDA 142.198.857-73
+142598 ÍCARO RAY ALVES DA SILVA 11 7 . 8 0 8 . 5 2 7 - 9 7
+96308 IVAN CARVALHO DE ALMEIDA JÚNIOR 130.396.747-22
+127610 JOSIEL PINHEIRO DE SOUZA 105.858.167-86
+161253 LEONARDO CORRÊA MOREIRA 153.776.677-51
+152967 LEONARDO LIMA DOS SANTOS PEREIRA 152.098.557-67
+133752 LUCAS BARROS LOURENÇO DA SILVA 155.159.257-69
+1 6 111 5 LUCAS DIAS DOS REIS 141.289.787-44
+139852 LUCAS FELIPE OLIVEIRA DE LIMA 171.655.967-71
+144982 LUCAS MILITÃO MARREIRO 046.868.013-62
+143518 LUIZ CLÁUDIO PEREIRA JÚNIOR 134.296.137-44
+125712 MARCUS VINICIUS DE SOUZA MARQUES 139.356.727-48
+146772 MARLON MAIA DE AMORIM ARAUJO 146.253.577-13
+151315 MATHEUS MARQUES DE OLIVEIRA E ALMEIDA 145.284.727-40
+157596 MICHEL DO AMORIM RODRIGUES 134.629.857-28
+155345 NELSON GOMES DA COSTA JUNIOR 133.877.607-01
+160698 PABLO HENRIQUE GOMES DE SOUSA 153.841.337-08
+11 6 6 2 2 RAFAEL SOUZA DA SILVA 11 9 . 4 8 6 . 6 5 7 - 3 5
+154101 RAPHAEL BASILIO SIQUEIRA 154.993.857-69
+93927 RODRIGO SILVA DE MOURA 134.557.797-43
+91255 ROMULO BASTOS DE ALMEIDA MENDES 136.131.757-46
+133172 SANDRO TADEU FERREIRA DA SILVA 153.367.767-00
+141342 SYLVIO MATEUS DE FREITAS LANA 161.446.647-50
+164179 THAWAN SILVA DE AZEVEDO 144.479.817-00
+158186 VINICIUS CRAVEIRO DA SILVA 173.144.247-56
+129487 WESLEY DOS ANJOS AZEVEDO 175.562.927-38
+No cargo de Soldado Bombeiro Militar - QBMP 03 (Artífice) - Borracheiro
+INSC C A N D I D ATO CPF
+11 5 5 7 4 ISAAC SARDOU BATISTA DORNELLAS 162.619.907-86
+No cargo de Soldado Bombeiro Militar - QBMP 03 (Artífice) - Serralheiro
+INSC C A N D I D ATO CPF
+92367 DOUGLAS OLIVEIRA DO NASCIMENTO 151.724.157-00
+11 0 1 8 0 JORGE LUIZ BORGES LESSA FILHO 160.388.797-06
+90227 ROBERTT ALVES DE ALMEIDA 144.338.487-94
+161093 ROSEMBERGUE FELIPPE JÚNIOR 147.519.607-50
+1 3 11 2 1 VINICIUS DO COUTO COSTA 177.901.347-79
+No cargo de Soldado Bombeiro Militar - QBMP 07 (Corneteiro)
+INSC C A N D I D ATO CPF
+98451 ALISSON BRAYER DE ALBUQUERQUE ROCHA 155.147.427-17
+105580 CAROLINA CARVALHO LISBOA DOS SANTOS 128.616.317-08
+96138 ELDER BRANDAO DA SILVA 155.359.807-57
+134072 FELLIPE GUTIERREZ VICENTE 180.195.937-48
+107979 GABRIEL ABRAÃO DANTAS MACHADO 156.134.957-77
+158733 GUSTAVO LEMOS PAIVA DA SILVA 169.230.747-97
+151924 JEFFERSON LUIS DE ARAUJO ANDRADE 175.758.097-24
+145516 LEONARDO BITTENCOURT ALVES OLIVEIRA 180.314.157-30
+11 4 6 3 5 MARCOS VINICIUS DE BRITO CANÁRIO 163.322.897-59
+140309 NATHALIA OLIVEIRA SCHIMIDT 141.136.887-88
+144148 TARCISIO DA COSTA SOUZA 137.999.037-80
+135462 WAGNER LIRA DOS SANTOS 176.022.277-19
+142918 YURI DE OLIVEIRA SANTOS FLÔRES 175.591.057-69
+No cargo de Soldado Bombeiro Militar - QBMP 08 (Marítimo) - Mestre-de-Lancha
+INSC C A N D I D ATO CPF
+146669 ALAN CASTILHO DA SILVA 11 3 . 3 3 6 . 0 8 7 - 4 8
+124613 ALESSANDRA DE OLIVEIRA SANTANA 140.313.447-24
+160446 ALEXANDRE CARVALHO MANO 179.420.507-18
+133696 ARTHUR BARBOSA LIMA 190.019.237-39
+9 5 9 11 BRAYAN ALVES DA SILVA MENEZES 151.180.127-16
+108562 BRENER GUIMARÃES DE SANTANA 159.802.627-50
+124277 BRENO PEREIRA DOS SANTOS 158.296.577-32
+90543 BRUNO PAES CAVALCANTE RIBEIRO 144.164.217-02
+107678 CAIO FELIPE BARBOSA DE OLIVEIRA 182.910.327-00
+128754 CHARLES ANDRÉ CORDEIRO DE MATTOS 163.103.697-17
+136320 CLAYTON DE SOUZA DA SILVA 183.190.937-59
+1 2 6 11 2 DAVI MENDES DA SILVA 162.175.547-98
+180709 DAVID BOTELHO RODRIGUES 167.818.267-27
+129387 DAVID MIERS TEIXEIRA ASSUNÇÃO DO CARMO 165.620.097-07
+11 2 0 7 7 DIEGO ALVES SANCHES 160.343.327-96
+11 2 1 4 5 EDUARDO MORAIS DE SOUZA 163.627.677-64
+108451 EDUARDO MORENO DE FREITAS MENEZES 170.259.487-48
+128391 FÁBIO GABRIEL GOMES DE OLIVEIRA 168.450.527-51
+97383 FABIO MIGUEL DA SILVA CRUZ 177.036.477-30
+128824 FELIPE FORTUNATO DA SILVA 197.810.697-16
+164322 GABRIEL DE FREITAS TAMIOZZO 152.180.477-08
+157303 GABRIEL LUCAS GONÇALVES DE MORAES 111 . 7 6 7 . 1 2 7 - 5 6
+99439 GABRIEL PRADO PAIVA DA SILVA 135.802.447-28
+106694 GABRIEL RIBEIRO DE LIMA 167.591.527-00
+93086 GABRIELLE AMORIM ROSA 130.558.767-76
+
+## Pagina 4
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0034
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+124526 GIOVANNA AMBROSIO TAVARES DOS SANTOS 190.256.227-55
+94861 GUSTAVO HENRIQUE LEAL NEPOMUCENO 122.621.387-10
+169252 GUSTAVO OLIVEIRA DA COSTA 165.325.517-08
+145717 HAMILTON DOS SANTOS DE HOLANDA 161.052.417-98
+156645 HUGO GOMES BARREIROS 134.363.977-84
+166556 IGOR DA SILVA RODRIGUES 152.165.657-60
+1 4 11 5 5 IGOR SILVA DE SOUZA 150.147.167-84
+1 0 11 6 3 ISABELE DE FARIA RAMOS LOPES 148.546.667-90
+147398 JESSÉ PEREIRA SANTOS 174.002.277-77
+166266 JOÃO CARLOS MAIA DOS ANJOS 168.073.057-61
+95191 JOÃO LUCAS BATISTA BERNARDO 189.129.737-62
+148339 JOÃO PEDRO FRAGA PORTELLA FARIA 198.096.927-22
+146495 JOÃO VICTOR VELASCO BALTAR 163.609.567-48
+153469 JOAQUIM CLEBER DE ARAUJO SOUZA 187.013.677-22
+11 9 7 9 3 JONATHAN COSTA DOS ANJOS 178.528.587-40
+11 0 8 1 6 JOSUÉ PEREIRA DOS SANTOS 176.730.727-69
+11 0 7 9 1 JUAN LEITE WALTZ DOS SANTOS 180.492.127-00
+128567 JÚLIO CESAR LIBANIO DUARTE 11 5 . 9 6 4 . 0 8 7 - 4 0
+130491 LEONARDO BITENCOURT DE MATTOS ROMERO 184.410.787-69
+125054 LEONARDO MARQUET ESCAMILHA 121.360.747-76
+103560 LEONARDO PEREIRA CANDIDO 201.649.147-73
+179359 LUCAS BARROS CUNHA 159.940.067-77
+167450 LUCAS DE FRANÇA FARIAS 176.037.347-89
+152195 LUCAS DE SOUSA DESIDERATI 176.352.187-78
+139051 LUCAS MATTOS DA SILVA 170.103.517-08
+92800 LUCAS MORAES DE MELLO 167.850.547-10
+124473 LUCAS NUNES EMIDIO ESTRELA 172.157.707-61
+97927 LUCIANO CLAUDIO MATIAS NEVES 169.553.457-37
+100834 MANOELA VASCONCELLOS BOHM BALTAZAR 158.671.067-21
+146090 MARCELO CORREA PESSÔA GERVASIO 143.420.837-01
+143895 MARCOS DA SILVA FRANCISCO JUNIOR 180.071.507-22
+104061 MARIO LUCAS MENDES MOSQUEIRA 172.046.437-55
+143909 MATHEUS ESTEVAO FERNANDES 148.108.987-09
+141785 MATHEUS SILVA DOS SANTOS 163.267.167-05
+107995 MAYSA BARRETO DOS SANTOS BRITO 151.330.267-14
+108140 MIGUEL ÂNGELO DA SILVA XAVIER 197.999.157-08
+106521 NATHAN EVANGELISTA REZENDE 178.526.857-06
+11 9 8 8 7 PABLO DE SOUSA CUNHA SILVEIRA 151.877.747-35
+154457 PATRICIA MAGALHAES DE OLIVEIRA MACHADO 126.345.707-08
+130695 PATRICK DE OLIVEIRA FREITAS 135.554.607-90
+134979 PAULO ROBERTO CURTI DE OLIVEIRA 148.376.497-42
+153923 PAULO VICTOR DOS REIS SILVA 335.723.458-04
+149138 PEDRO BELARMINO DE ALMEIDA 170.248.457-24
+107574 PEDRO DE SOUZA NASCIMENTO 149.891.917-06
+94226 PEDRO VINICIUS LENZ GALVAO 142.632.167-84
+133334 PIETRA CARRILHO DA SILVA 166.887.527-60
+140584 RAFAEL DE OLIVEIRA NUNES 145.992.067-84
+98446 RAFAEL DE SOUZA COSTA SIETO 142.342.357-76
+153349 RAFAEL TEIXEIRA RIBEIRO 147.130.007-28
+135199 RAPHAEL PORTO BARBOSA DE AQUINO 191.321.647-00
+162576 RAPHAEL VICTOR CORRÊA COSTA 173.610.277-09
+138270 RAQUEL VIDAL MOREIRA TEOTONIO 152.207.897-59
+134032 RENAN ALVES BARBOSA DA SILVA 176.277.657-06
+160667 RENAN DA SILVA DE ALMEIDA 158.260.367-70
+98813 RICARDO PEREIRA BUENO LIMA 168.607.937-08
+91547 RICARDO LEAL NEPOMUCENO 122.621.357-03
+96337 RICKSON ALVES RAMOS DOS SANTOS 163.870.007-93
+91994 RYAN GALDINO DE AGUIAR 209.018.147-84
+97703 SARAH HELENA SILVA ALTINO 022.069.796-59
+101926 YASMIM LUIZA DA SILVA HONORATO 186.055.507-16
+Id: 2674170
+Despachos do Governador
+DESPACHOS DO GOVERNADOR
+EXPEDIENTE DE 27 DE AGOSTO DE 2025
+PROCESSO ADMINISTRATIVO Nº SEI-030033/003333/2021 - INDE-
+FIRO o requerimento formulado por Nialen dos Santos Cunha, na for-
+ma dos pronunciamentos exarados pela Controladoria Geral do Esta-
+do e pela Secretaria de Estado da Casa Civil, nos autos do Processo
+Administrativo nº SEI-030033/003333/2021 , cujos termos adoto como
+fundamento da decisão.
+PROCESSO ADMINISTRATIVO Nº SEI-150002/000842/2024 - NÃO
+CONHEÇO do Recurso Administrativo formulado por ANÍSIO BATISTA
+MACHADO, louvado nas razões expostas pela Secretaria de Estado
+da Casa Civil, cujos termos adoto como fundamento da decisão.
+PROCESSO Nº SEI-150013/000260/2025 - AUTORIZO a celebração
+do Termo de Fomento - CONVERJ nº 1227/2025, celebrado entre a
+LOTERIA DO ESTADO DO RIO DE JANEIRO - LOTERJ E O RIO-
+SOLIDARIO - OBRA SOCIAL DO RIO DE JANEIRO, que tem por ob-
+jetivo a execução do projeto "LAR DA MULHER" com a prestação de
+atendimento psicossocial a mulheres em situação de violência domés-
+tica e seus filhos menores, nos termos art. 1º, inciso I, do Decreto nº
+44.879/14.
+PROCESSO Nº SEI-150002/001240/2025 - AUTORIZO, em excepcio-
+nalidade ao Decreto nº 49.190, de 10/07/2024, a cessão do servidor
+Rodrigo da Silva, RG nº 105.582, do Quadro de Pessoal da Secre-
+taria de Estado de Polícia Militar, para a Assembleia Legislativa do
+Estado do Rio de Janeiro/Gabinete do Deputado Alan Lopes, com
+ônus para o órgão cessionário.
+PROCESSO Nº SEI-E-03/022/52/2015 - Face à instrução constante do
+processo nº SEI-270144/000106/2023, e amparado nas manifestações
+técnicas e jurídicas inseridas nos autos, A U TO R I Z O a doação do imó-
+vel situado na Avenida dos Democráticos nº 1298, Bonsucesso, Rio
+de Janeiro/RJ (atualmente ocupado pelo Centro de Recursos Integra-
+dos de Atendimento ao Adolescente de Bonsucesso - CRIAAD Bon-
+sucesso) pela Fundação Leão XIII ao Departamento Geral de Ações
+Socioeducativas DEGASE, nos termos do art. 68, caput, da Consti-
+tuição do Estado do Rio de Janeiro; do art. 13, parágrafo único, da
+Lei Complementar nº 08/1977; e do art. 76, inciso I, alínea "b", da Lei
+nº 14.133/2021.
+Id: 2674171
+Secretaria de Estado da Casa Civil
+S E C R E TA R I A DE ESTADO DA CASA CIVIL
+ATO DO SECRETÁRIO E DA REITORA
+RESOLUÇÃO CONJUNTA SECC/UERJ Nº 160
+DE 18 DE AGOSTO DE 2025
+DESCENTRALIZA A EXECUÇÃO DE CRÉDITO
+ORÇAMENTÁRIO DA FORMA A SEGUIR ES-
+PECIFICADA.
+O SECRETÁRIO DE ESTADO DA CASA CIVIL E A REITORA DA
+UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO , no uso de suas
+atribuições legais, de acordo com a Lei Orçamentária Anual n° 10.665
+de 14 de janeiro de 2025, que dispõe sobre as diretrizes para ela-
+boração da Lei do Orçamento Anual, com o Decreto Estadual nº
+49.509 de 14 de fevereiro de 2025, que estabelece normas comple-
+mentares de programação e Execução Orçamentária, Financeira e
+Contábil para o Exercício de 2025, com o Decreto nº 42.436, de 30
+de abril de 2010, que dispõe sobre a Descentralização da Execução
+de Créditos Orçamentários e com o que consta no Processo Admi-
+nistrativo nº SEI-260006/037196/2025; e
+CONSIDERANDO:
+- a importância estratégica de produzir dados científicos e análises
+aprofundadas sobre as condições de trabalho e sua relação com a
+saúde dos trabalhadores no Estado do Rio de Janeiro;
+- que o projeto se enquadra nos debates da 5ª Conferência Nacional
+de Saúde do Trabalhador e da Trabalhadora, alinhando-se às políticas
+públicas de promoção da saúde ocupacional;
+R E S O LV E M :
+Art. 1º - Descentralizar a execução do Crédito Orçamentário na forma
+a seguir especificada:
+I- O B J E TO : Identificar as principais condições de trabalho e suas as-
+sociações com problemas de saúde nas categorias profissionais es-
+pecificadas, bem como propor recomendações para a melhoria das
+condições laborais e redução da incidência de doenças relacionadas
+ao trabalho.
+II- VIGÊNCIA: Esta Resolução Conjunta terá vigência até 31/12/2025.
+III - De/Concedente: 14000 - Secretaria de Estado da Casa Ci-
+vil/SECC
+UO: 14010 - Secretaria de Estado da Casa Civil/SECC
+UG: 140100 - Secretaria de Estado da Casa Civil/SECC
+IV - Para/Executante: Universidade do Estado do Rio de Janei-
+ro/UERJ
+UO: 40430 - Universidade do Estado do Rio de Janeiro/UERJ
+UG: 404300 - Universidade do Estado do Rio de Janeiro/UERJ
+V- CRÉDITO:
+PROGRAMA DE TRABALHO FONTE DE RECURSOS NATUREZA DE DESPESA VALOR TOTAL
+14010.04.122.0470.8374 1500100 3390 R$ 544.140,56
+Art. 2º - A prestação de contas dos recursos descentralizados, nos
+termos do Decreto nº 42.436, de 30 de abril de 2010, deverá ser
+acompanhada de parecer elaborado pelo Controle Interno do Órgão
+Executante, opinando quanto à regularidade da despesa, nos termos
+do art.16, inciso V do Decreto nº 43.463, de 14 de fevereiro de 2012,
+e atender as disposições contidas na Instrução Normativa AGE/SEFAZ
+nº 10, de 14 de julho de 2023 com alterações promovidas pela Ins-
+trução Normativa AGE/SEFAZ nº 17, de 02 de janeiro de 2024.
+Art. 3º - Esta Resolução Conjunta entrará em vigor na data de sua
+publicação, revogadas disposições em contrário.
+Rio de Janeiro, 18 de agosto de 2025
+NICOLA MOREIRA MICCIONE
+Secretário de Estado da Casa Civil
+GULNAR AZEVEDO E SILVA
+Universidade do Estado do Rio de Janeiro
+Id: 2674174
+ATOS DO SECRETÁRIO
+DE 27 DE AGOSTO DE 2025
+O SECRETÁRIO DE ESTADO DA CASA CIVIL, usando das atribui-
+ções que lhe foram conferidas pelo Decreto nº 40.644, de
+08/03/2007,
+R E S O LV E :
+EXONERAR BRUNA PACHU GODINHO CÔRTES MELLO , ID FUN-
+CIONAL Nº 5138509-0, do cargo em comissão de Assessor, símbolo
+DAS-7, da Fundação Centro Estadual de Estatística, Pesquisas e
+Formação de Servidores Públicos do Estado do Rio de Janeiro -
+CEPERJ. Processo nº SEI-150011/000295/2025.
+NOMEAR BRUNA PACHU GODINHO CÔRTES MELLO , ID FUNCIO-
+NAL Nº 5138509-0, para exercer o cargo em comissão de Assessor,
+símbolo DAS-8, da Fundação Centro Estadual de Estatística, Pesqui-
+sas e Formação de Servidores Públicos do Estado do Rio de Janeiro
+- CEPERJ, anteriormente ocupado por Lucas Silveira da Silva , ID
+Funcional nº 51408961. Processo nº SEI-150011/000295/2025.
+EXONERAR LUCAS SILVEIRA DA SILVA , ID FUNCIONAL Nº
+51408961, do cargo em comissão de Assessor, símbolo DAS-8, da
+Fundação Centro Estadual de Estatística, Pesquisas e Formação de
+Servidores Públicos do Estado do Rio de Janeiro - CEPERJ. Processo
+nº SEI-150011/000295/2025.
+NOMEAR LUCAS SILVEIRA DA SILVA , ID FUNCIONAL Nº
+51408961, para exercer o cargo em comissão de Assessor, símbolo
+DAS-7, da Fundação Centro Estadual de Estatística, Pesquisas e For-
+mação de Servidores Públicos do Estado do Rio de Janeiro - CE-
+PERJ, anteriormente ocupado por Bruna Pachu Godinho Côrtes Mello,
+ID Funcional nº 5138509-0. Processo nº SEI-150011/000295/2025.
+NOMEAR MARILENE SANTORO TETI DOS SANTOS para exercer o
+cargo em comissão de Assistente II, símbolo DAI-6, do Departamento
+de Trânsito do Estado do Rio de Janeiro - DETRAN/RJ, em vaga pre-
+vista pelo Decreto nº 49.816, de 26 de agosto de 2025. Processo nº
+SEI-150001/010860/2025.
+EXONERAR, a pedido e com validade a contar de 27 de agosto de
+2025, ALESSANDRA DO NASCIMENTO GONÇALVES , ID FUNCIO-
+NAL Nº 5153554-8, do cargo em comissão de Ajudante I, símbolo
+DAI-1, da Loteria do Estado do Rio de Janeiro - LOTERJ. Processo
+nº SEI-150013/000407/2025.
+NOMEAR DANIEL DO NASCIMENTO CUNHA TELES para exercer
+o cargo em comissão de Assistente II, símbolo DAI-6, da Secre-
+taria de Estado do Gabinete do Governador, em vaga prevista
+pelo Decreto nº 49.828, de 27 de agosto de 2025. Processo nº
+SEI-150001/000269/2025.
+EXONERAR WALMIRA DE OLIVEIRA SANTOS , ID FUNCIONAL
+Nº 5019202-7, do cargo em comissão de Assessor, símbolo
+DAS-7, da Assessoria Administrativa, da Subsecretaria de Gestão
+Administrativa, da Secretaria de Estado de Educação. Processo nº
+SEI-030001/088773/2025.
+NOMEAR WALMIRA DE OLIVEIRA SANTOS , ID FUNCIONAL
+Nº 5019202-7, para exercer o cargo em comissão de Assessor,
+símbolo DAS-7, da Coordenadoria de Operação Escolar, da Superin-
+tendência de Gestão das Regionais Administrativas, da Subsecre-
+taria de Gestão Administrativa, da Secretaria de Estado de Educação,
+anteriormente ocupado pela própria servidora. Processo nº
+SEI-030001/088773/2025.
+EXONERAR LARISSA DA SILVA AZEVEDO , ID FUNCIONAL
+Nº 5151814-7, do cargo em comissão de Assistente II, símbolo
+DAI-6, da Coordenadoria de Segurança Alimentar, da Superintendên-
+cia de Gestão das Regionais Administrativas, da Subsecretaria de
+Gestão Administrativa, da Secretaria de Estado de Educação. Proces-
+so nº SEI-030001/088773/2025.
+NOMEAR LARISSA DA SILVA AZEVEDO , ID FUNCIONAL Nº
+5151814-7, para exercer o cargo em comissão de Assistente II,
+símbolo DAI-6, da Coordenadoria de Gestão Financeira Escolar, da
+Superintendência de Gestão das Regionais Administrativas, da Sub-
+secretaria de Gestão Administrativa, da Secretaria de Estado de
+Educação, anteriormente ocupado pela própria servidora. Processo nº
+SEI-030001/088773/2025.
+EXONERAR DANIELLE INACIO COSTA DOS SANTOS , ID FUNCIO-
+NAL Nº 4341025-1, do cargo em comissão de Assistente II, símbolo
+DAI-6, da Coordenadoria de Administração Predial e Logística, da Su-
+perintendência Técnica de Infraestrutura e Logística, da Subsecretaria
+de Gestão Administrativa, da Secretaria de Estado de Educação.
+Processo nº SEI-030001/088773/2025.
+NOMEAR DANIELLE INACIO COSTA DOS SANTOS , ID FUNCIO-
+NAL Nº 4341025-1, para exercer o cargo em comissão de Assistente
+II, símbolo DAI-6, da Coordenadoria de Gestão Financeira Escolar, da
+Superintendência de Gestão das Regionais Administrativas, da Sub-
+secretaria de Gestão Administrativa, da Secretaria de Estado de Edu-
+cação, anteriormente ocupado pela própria servidora. Processo nº
+SEI-030001/088773/2025.
+EXONERAR ARTUR CARDOSO MONTEZUMA JUNIOR , ID FUNCIO-
+NAL Nº 4419080-8, do cargo em comissão de Assistente II, símbolo
+DAI-6, da Coordenadoria de Administração Predial e Logística, da Su-
+perintendência Técnica de Infraestrutura e Logística, da Subsecretaria
+de Gestão Administrativa, da Secretaria de Estado de Educação. Pro-
+cesso nº SEI-030001/088773/2025.
+NOMEAR ARTUR CARDOSO MONTEZUMA JUNIOR , ID FUNCIO-
+NAL Nº 4419080-8, para exercer o cargo em comissão de Assis-
+tente II, símbolo DAI-6, da Coordenadoria de Operação Escolar, da
+Superintendência de Gestão das Regionais Administrativas, da
+Subsecretaria de Gestão Administrativa, da Secretaria de Estado de
+Educação, anteriormente ocupado pelo próprio servidor. Processo nº
+SEI-030001/088773/2025.
+EXONERAR LIVIA DE OLIVEIRA PAULA DE ALMEIDA , ID FUNCIO-
+NAL Nº 5140748-5, do cargo em comissão de Assistente II, símbolo
+DAI-6, da Coordenadoria de Administração Predial e Logística, da Su-
+perintendência Técnica de Infraestrutura e Logística, da Subsecretaria
+de Gestão Administrativa, da Secretaria de Estado de Educação. Pro-
+cesso nº SEI-030001/088773/2025.
+NOMEAR LIVIA DE OLIVEIRA PAULA DE ALMEIDA , ID FUNCIO-
+NAL Nº 5140748-5, para exercer o cargo em comissão de Assistente
+II, símbolo DAI-6, da Coordenadoria de Apoio à Infraestrutura Escolar,
+da Superintendência de Gestão das Regionais Administrativas, da
+Subsecretaria de Gestão Administrativa, da Secretaria de Estado de
+Educação, anteriormente ocupado pela própria servidora. Processo nº
+SEI-030001/088773/2025.
+NOMEAR NICOLY EDUARDA GOMES GARCIA para exercer o
+cargo em comissão de Assistente II, símbolo DAI-6, da Secretaria de
+Estado de Saúde, em vaga resultante da transferência estabe-
+lecida pelo Decreto nº 49.806, de 19 de agosto de 2025. Processo nº
+SEI-080001/029534/2025.
+EXONERAR, com validade a contar de 26 de agosto de 2025, TA N I A
+LEONOR FORMIGA DE MELLO , ID FUNCIONAL Nº 2043263-1, do
+cargo em comissão de Gerente, símbolo DAS-6, da Gerência de
+Apoio Terapêutico, da Divisão Técnica, do Hospital Central, do
+Instituto de Assistência dos Servidores do Estado do Rio de Janeiro -
+IASERJ. Processo nº SEI-080003/000533/2025.
+NOMEAR MARCIANO ELIAS BARÃO EL HOMSI para exercer o car-
+go em comissão de Assistente II, símbolo DAI-6, da Secretaria de Es-
+tado de Transporte e Mobilidade Urbana, em vaga resultante da trans-
+formação estabelecida pelo Decreto nº 49.817, de 26 de agosto de
+2025. Processo nº SEI-100001/001910/2025.
+NOMEAR AMANDA LOPES ARGOLLO JULIÃO , ID FUNCIONAL Nº
+4458605-1, para exercer o cargo em comissão de Assistente II, sím-
+bolo DAI-6, da Secretaria de Estado de Transporte e Mobilidade
+Urbana, em vaga resultante da transformação estabelecida pelo
+Decreto nº 49.817, de 26 de agosto de 2025. Processo nº
+SEI-100001/001907/2025.
+NOMEAR LEOMAR NICOLAU RODRIGUES , ID FUNCIONAL
+Nº 2210364, para exercer o cargo em comissão de Assistente II,
+símbolo DAI-6, da Diretoria Administrativa e Econômico-Financeira,
+do Departamento de Transportes Rodoviários do Estado do Rio
+de Janeiro - DETRO/RJ, anteriormente ocupado por Aline Martins
+Leonis de Andrade, ID Funcional nº 4281913-0. Processo nº
+SEI-100005/005756/2025.
+EXONERAR LEOMAR NICOLAU RODRIGUES , ID FUNCIONAL Nº
+2210364, do cargo em comissão de Chefe de Posto, símbolo DAS-7,
+do Posto de Apoio e Controle Regional de Campos (PACRE III), do
+Postos de Apoio e Controle Regional de Categoria "A" (PACRE), da
+Coordenadoria de Fiscalização de Transporte Regular de Cargas e
+Fretamento, da Diretoria Técnico-Operacional, do Departamento de
+Transportes Rodoviários do Estado do Rio de Janeiro - DETRO/RJ.
+Processo nº SEI-100005/005756/2025.
+EXONERAR MARCOS AURÉLIO DOS SANTOS SILVA JUNIOR , ID
+FUNCIONAL Nº 42826942, do cargo em comissão de Chefe de Pos-
+to, símbolo DAS-7, do Posto de Apoio e Controle Regional de Nova
+Friburgo (PACRE V), do Postos de Apoio e Controle Regional de Ca-
+tegoria "A" (PACRE), da Coordenadoria de Fiscalização de Transporte
+Regular de Cargas e Fretamento, da Diretoria Técnico-Operacional, do
+Departamento de Transportes Rodoviários do Estado do Rio de Ja-
+neiro - DETRO/RJ. Processo nº SEI-100005/005756/2025.
+NOMEAR MARCOS AURÉLIO DOS SANTOS SILVA JUNIOR , ID
+FUNCIONAL Nº 42826942, para exercer o cargo em comissão
+de Chefe de Posto, símbolo DAS-7, do Posto de Apoio e Controle
+Regional de Campos (PACRE III), do Postos de Apoio e Controle
+Regional de Categoria "A" (PACRE), da Coordenadoria de Fiscaliza-
+ção de Transporte Regular de Cargas e Fretamento, da Diretoria
+Técnico-Operacional, do Departamento de Transportes Rodoviários
+do Estado do Rio de Janeiro - DETRO/RJ, anteriormente ocupado por
+Leomar Nicolau Rodrigues, ID Funcional nº 2210364. Processo nº
+SEI-100005/005756/2025.
+
+## Pagina 5
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0035/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+EXONERAR SELMA LYDIA MONTEIRO SAMPAIO do cargo em
+comissão de Diretor de Divisão, símbolo DAS-6, da Divisão de
+Pessoal, da Coordenadoria Administrativa, da Diretoria Adminis-
+trativa e Econômico-Financeira, do Departamento de Transportes
+Rodoviários do Estado do Rio de Janeiro - DETRO/RJ. Processo nº
+SEI-100005/005771/2025.
+EXONERAR RAFAELLA SILVA DA COSTA , ID FUNCIONAL Nº
+5137814-0, do cargo em comissão de Assistente IV, símbolo DAI-4,
+do Departamento de Transportes Rodoviários do Estado do Rio de Ja-
+neiro - DETRO/RJ. Processo nº SEI-100005/005771/2025.
+NOMEAR JAQUELINE COIMBRA NOGUEIRA para exercer o
+cargo em comissão de Assistente II, símbolo DAI-6, da Secretaria
+de Estado do Ambiente e Sustentabilidade, em vaga prevista pelo
+Decreto nº 49.828, de 27 de agosto de 2025. Processo nº
+SEI-150001/000269/2025.
+EXONERAR, a pedido e com validade a contar de 28 de agosto
+de 2025, MILENA ANTONINO NUNES DE SOUZA , ID FUNCIO-
+NAL Nº 5100266-3, do cargo em comissão de Assessor III, sím-
+bolo DAI-5, do Instituto Estadual do Ambiente - INEA. Processo nº
+SEI-070002/018250/2025.
+EXONERAR JUAN ROCHA DOS SANTOS , ID FUNCIONAL Nº
+5100766-5, do cargo em comissão de Assessor de Controle Interno,
+símbolo DAS-8, da Unidade de Controle Interno, da Controladoria
+Interna, da Presidência, da Fundação Leão XIII. Processo nº
+SEI-310003/000993/2025.
+NOMEAR HENRIQUE AMARAL , ID FUNCIONAL Nº 51654148, para
+exercer o cargo em comissão de Ajudante I, símbolo DAI-1, da Se-
+cretaria de Estado de Infraestrutura e Obras Públicas, anteriormente
+ocupado por Fabiana Barbosa dos Santos Silva, ID Funcional nº
+5037014-6. Processo nº SEI-330001/001316/2025.
+APOSTILA DO SECRETÁRIO
+DE 27 DE AGOSTO DE 2025
+ATO DE 21/11/2024 - PUBLICADO NO D.O. DE 22/11/2024 - Tendo
+em vista o que consta do Processo nº SEI-150011/000295/2025, fica
+retificado em virtude de matrimônio o nome da servidora N ATA S H A
+RODRIGUES DE MATOS D'AGOSTINI, ID Funcional nº 5143260-9 , a
+quem se refere o presente Ato de nomeação do cargo em comissão
+de Assistente II, Símbolo DAI-6, da Fundação Centro Estadual de Es-
+tatísticas, Pesquisas e Formação de Servidores Públicos do Rio de
+Janeiro, mantidos os demais termos.
+Id: 2674178
+SECRETARIA DE ESTADO DA CASA CIVIL
+DESPACHO DO SECRETÁRIO
+DE 26 DE A G O S TO DE 2025
+PROCESSO Nº SEI-150010/000072/2024 - ADJUDICO e HOMOLO-
+GO o procedimento de licitação na modalidade Pregão Eletrônico nº
+13/2025, cujo objeto é a aquisição de equipamento para controle das
+condições ideais de luminosidade, de modo a adequar o ambiente aos
+parâmetros ideais para uma correta conservação do acervo no
+APERJ, conforme especificação detalhada no Termo de Referência -
+Anexo I, em favor do licitante INSTRULABOR LICITACAO LTDA, ins-
+crita no CNPJ sob nº 34.514.779/0001-85, com o valor total de R$
+930,00 (novecentos e trinta reais).
+Id: 2673767
+SECRETARIA DE ESTADO DA CASA CIVIL
+DESPACHO DO SECRETÁRIO
+DE 26 DE AGOSTO DE 2025
+PROCESSO Nº SEI-150001/000732/2025 - Tendo em vista os fun-
+damentos expostos na manifestação da i. Pregoeira (doc. SEI
+’nº 110399523), bem como na Promoção ASJUR/SECC nº 48/2025 -
+MVL no Processo nº SEI-15/001/034001/2019 (doc. SEI nº
+110235358), cujos argumentos de fato e de direito adoto por razões
+de decidir, R AT I F I C O a decisão da Pregoeira que decidiu por NEGAR
+PROVIMENTO ao recurso interposto pelo licitante CARIOCA NUTRE
+CARERING E EMPREENDIMENTOS LTDA, recebido como direito de
+petição, mantendo a decisão que declarou vencedora do certame a
+empresa GUARAILHA DISTRIBUIDORA DE ALIMENTOS LTDA.
+Id: 2673772
+DESPACHOS DO SECRETÁRIO
+DE 26 DE AGOSTO DE 2025
+PROCESSO Nº SEI-150130/000083/2023 - AUTORIZO a celebração
+do Termo de Entrega e Recebimento (id 
+105815073), entre o Estado
+do Rio de Janeiro e a Defensoria Pública do Estado do Rio de Ja-
+neiro - DPGE/RJ, referente ao imóvel localizado na Praça Santos Du-
+mont, nº 15, Lote 05, Centro, Saquarema/RJ, conforme manifestação
+da Subsecretaria de Gestão Administrativa e Patrimonial (id
+11 0 5 3 8 2 1 2 ) .
+DE 27 DE AGOSTO DE 2025
+PROCESSO Nº SEI-030001/081070/2025 - AUTORIZO a cessão da
+servidora Mândia Roberta Souza da Motta, Inspetor de Polícia Penal,
+ID Funcional 5000098-5, do Quadro de Pessoal da Secretaria de Es-
+tado de Administração Penitenciária, para a Secretaria de Estado de
+Educação, com validade a contar da publicação e nos termos do De-
+creto nº 48, de 27/12/2018.
+PROCESSO Nº SEI-430002/001647/2025 - AUTORIZO a cessão do
+servidor Diego Henrique Ferreira dos Santos, Analista Executivo, Id.
+Funcional n° 5029178-5, do Quadro de Pessoal da Secretaria de Es-
+tado do Ambiente e Sustentabilidade - SEAS, para o Centro de Tec-
+nologia de Informação e Comunicação do Estado do Rio de Janeiro -
+PRODERJ, com validade a contar de 21/08/2025.
+PROCESSO Nº SEI-050002/000149/2025 - AUTORIZO, em conformi-
+dade com o Decreto n° 46.611 de 28 de março de 2019, D.O. de
+29.03.2019.
+PROCESSO Nº SEI-150001/010572/2025 - AUTORIZO, em conformi-
+dade com o Decreto n° 46.611 de 28 de março de 2019, D.O. de
+29.03.2019.
+Id: 2674172
+SECRETARIA DE ESTADO DA CASA CIVIL
+D I R E TO R IA GERAL DE FINANÇAS
+ATO DO DIRETOR
+P O R TA R I A SECC/DGF Nº 15 DE 27 DE AGOSTO DE 2025
+ALTERA O INCISO II DO ART. 2º DA PORTA-
+RIA SECC/DGF Nº 13/2024.
+O DIRETOR GERAL DE FINANÇAS DA SECRETARIA DE ESTADO
+DA CASA CIVIL , no uso das atribuições que lhe foram conferidas pe-
+la Resolução SECC n° 139, de 17 de outubro de 2024, considerando
+o Decreto nº 48.101 de 26 de maio de 2022, que altera e consolida,
+sem aumento de despesa, a estrutura organizacional da Secretaria de
+Estado da Casa Civil e, considerando o que consta nos autos do Pro-
+cesso nº SEI-150001/008815/2024,
+R E S O LV E :
+Art. 1º - Altera o inciso II do art. 2º da Portaria SECC/DGF Nº
+13/2024, que passa a vigorar com a seguinte redação:
+"Art. 1º Designar a servidora abaixo relacionada para ocupar
+as seguintes funções na Coordenação de Orçamento e Pla-
+nejamento:
+II - Rita de Cassia Vital de Abreu, Id. Funcional n.º 5164522-
+0, chefe de divisão na Divisão de Execução Orçamentária e
+Financeira.
+Art. 2º - Esta Portaria entrará em vigor na data de sua publicação.
+Rio de Janeiro, 27 de agosto de 2025
+RODRIGO BELIZARIO
+Diretor Geral de Finanças
+Id: 2674173
+PORTARIA SECC/SUPCC Nº 884 DE 26 DE AGOSTO DE 2025
+SUBSTITUI E DESIGNA NOVO GESTOR TITU-
+LAR PARA COMPOR A COMISSÃO DE GES-
+TÃO, ACOMPANHAMENTO E FISCALIZAÇÃO
+A SUPERINTENDENTE DE CONTRATOS E COMPRAS DA SECRE-
+TARIA DE ESTADO DA CASA CIVIL, no uso das atribuições que lhe
+foram conferidas pelo art. 1º da Resolução SECC nº 14, de 12 de
+novembro de 2020,
+CONSIDERANDO:
+- o disposto no art. 58, inciso III, da Lei Federal nº 8.666, de 21 de
+junho de 1993, o qual estabelece o dever-poder de a Administração
+Pública fiscalizar a execução dos contratos administrativos;
+- o disposto no art. 67 e parágrafos da Lei Federal nº 8.666, de 21 de
+junho de 1993, que determina que a fiscalização da execução do con-
+trato administrativo far-se-á por representantes da Administração Pú-
+blica especialmente designado;
+- o disposto no art. 6º do Decreto Estadual nº 45.600, de 16 de mar-
+ço de 2016,
+- o disposto na Resolução SECC nº 28, de 01 de março de 2021, e
+- o disposto no Processo nº SEI-150001/010392/2025,
+R E S O LV E:
+Art. 1º - Designar a servidora HANNA STEPHANIE MAIA DOS SAN-
+TOS, ID Funcional nº 5140015-4, como gestora titular dos contratos
+listados no Anexo Único em substituição ao servidor RODRIGO CAS-
+TANHEIRA SANTOS, ID Funcional nº 5136129-9.
+Art. 2º - Ratificar a permanência do gestor suplente, fiscais titulares e
+suplentes dos contratos listados no Anexo Único.
+Art. 3º - O gestor ora designado deverá observar e cumprir as regras
+estabelecidas pelo Decreto Estadual nº 45.600, de 16 de março de
+2016, que regulamenta a gestão e a fiscalização das contratações no
+âmbito do Poder Executivo do Estado do Rio de Janeiro, especial-
+mente, os artigos 12 e 13 da referida norma, bem como o disposto na
+Resolução SECC nº 28, de 01 de março de 2021, que estabelece
+normas internas relativas à atuação do gestor e fiscais de contratos
+no âmbito da Secretaria de Estado da Casa Civil.
+Art. 4º - O gestor ora designado deverá realizar curso de gestão e
+fiscalização de contratos e, posteriormente apresentar o respectivo
+certificado à Superintendência de Recursos Humanos.
+Art. 5º - Esta Portaria entra em vigor na data de sua publicação.
+Rio de Janeiro, 26 de agosto de 2025
+DÉBORA PEÇANHA GONÇALVES
+Superintendente de Contratos e Compras
+ANEXO ÚNICO
+Contrato Processo
+018/2020 SEI-120001/000237/2021
+030/2022 SEI-150001/008748/2022
+041/2022 SEI-120130/000629/2021
+007/2023 SEI-150001/002647/2023
+009/2023 SEI-150001/002361/2023
+015/2023 SEI-150001/006340/2023
+016/2023 SEI-150130/000432/2023
+021/2023 SEI-150001/014907/2023
+022/2023 SEI-150001/018461/2023
+025/2023 SEI-150001/028413/2022
+026/2023 SEI-150001/021817/2023
+032/2023 SEI-150001/006682/2023
+003/2024 SEI-150001/028010/2023
+Id: 2673624
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA E PATRIMONIAL
+SUPERINTENDÊNCIA DE CONTRATOS E COMPRAS
+ATOS DA SUPERINTENDENTE
+PORTARIA SECC/SUPCC Nº 885 DE 26 DE AGOSTO DE 2025
+SUBSTITUI E DESIGNA NOVO GESTOR SUPLEN-
+TE PARA COMPOR A COMISSÃO DE GESTÃO,
+ACOMPANHAMENTO E FISCALIZAÇÃO
+A SUPERINTENDENTE DE CONTRATOS E COMPRAS DA SECRE-
+TARIA DE ESTADO DA CASA CIVIL , no uso das atribuições que lhe
+foram conferidas pelo art. 1º da Resolução SECC nº 14, de 12 de
+novembro de 2020,
+CONSIDERANDO:
+- o disposto no art. 58, inciso III, da Lei Federal nº 8.666, de 21 de
+junho de 1993, o qual estabelece o dever-poder de a Administração
+Pública fiscalizar a execução dos contratos administrativos;
+- o disposto no art. 67 e parágrafos da Lei Federal nº 8.666, de 21 de
+junho de 1993, que determina que a fiscalização da execução do con-
+trato administrativo far-se-á por representantes da Administração Pú-
+blica especialmente designado;
+- o disposto no art. 6º do Decreto Estadual nº 45.600, de 16 de mar-
+ço de 2016,
+- o disposto na Resolução SECC nº 28, de 01 de março de 2021, e
+- o disposto no Processo nº SEI-150001/010392/2025,
+R E S O LV E:
+Art. 1º - Designar a servidora HANNA STEPHANIE MAIA DOS SAN-
+TOS, ID Funcional nº 5140015-4, como gestora suplente dos contratos
+listados no Anexo Único em substituição ao servidor RODRIGO CAS-
+TANHEIRA SANTOS, ID Funcional nº 5136129-9.
+Art. 2º - Ratificar a permanência do gestor titular, fiscais titulares e
+suplentes dos contratos listados no Anexo Único.
+Art. 3º - O gestor ora designado deverá observar e cumprir as regras
+estabelecidas pelo Decreto Estadual nº 45.600, de 16 de março de
+2016, que regulamenta a gestão e a fiscalização das contratações no
+âmbito do Poder Executivo do Estado do Rio de Janeiro, especial-
+mente, os artigos 12 e 13 da referida norma, bem como o disposto na
+Resolução SECC nº 28, de 01 de março de 2021, que estabelece
+normas internas relativas à atuação do gestor e fiscais de contratos
+no âmbito da Secretaria de Estado da Casa Civil.
+Art. 4º - O gestor ora designado deverá realizar curso de gestão e
+fiscalização de contratos e, posteriormente apresentar o respectivo
+certificado à Superintendência de Recursos Humanos.
+Art. 5º - Esta Portaria entra em vigor na data de sua publicação.
+Rio de Janeiro, 26 de agosto de 2025
+DÉBORA PEÇANHA GONÇALVES
+Superintendente de Contratos e Compras
+ANEXO ÚNICO
+Contrato Processo
+051/2021 SEI-150001/008135/2021
+052/2021 SEI-150001/006710/2020
+009/2022 SEI-150001/013249/2021
+014/2022 S E I - 1 5 0 0 0 1 / 0 11 7 2 3 / 2 0 2 1
+024/2022 S E I - 1 5 0 0 0 1 / 0 11 2 7 7 / 2 0 2 2
+025/2022 SEI-150001/009082/2021
+027/2022 SEI-150001/001539/2022
+042/2022 SEI-120130/000770/2021
+003/2023 SEI-150001/025902/2022
+006/2023 SEI-150001/004553/2022
+019/2024 SEI-150001/000966/2024
+NOTA DE EMPE-
+NHO
+SEI-12/0001/001292/2020
+NOTA DE EMPE-
+NHO
+S E I - 1 5 0 0 0 1 / 0 11 5 8 5 / 2 0 2 1
+NOTA DE EMPE-
+NHO
+SEI-150001/006162/2021
+Id: 2673623
+SECRETARIA DE ESTADO DA CASA CIVIL
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA E PATRIMONIAL
+SUPERINTENDÊNCIA DE CONTRATOS E COMPRAS
+ATO DA SUPERINTENDENTE
+PORTARIA SECC/SUPCC Nº 886/2025 DE 26 DE AGOSTO
+DE 2025
+DESIGNA SERVIDORES PARA COMPOR A
+COMISSÃO DE GESTÃO E FISCALIZAÇÃO.
+A SUPERINTENDENTE DE CONTRATOS E COMPRAS DA SECRE-
+TARIA DE ESTADO DA CASA CIVIL , no uso das atribuições que lhe
+foram conferidas pelo art. 1º da Resolução SECC nº 14, de 12 de
+novembro de 2020, e
+CONSIDERANDO:
+- o disposto no artigo 117, da Lei Federal nº 14.133, de 1º de abril de
+2021, que determina que a fiscalização da execução do contrato ad-
+ministrativo far-se-á por representantes da Administração Pública es-
+pecialmente designados conforme requisitos estabelecidos no artigo 7º
+da referida Lei,
+- o disposto no artigo 4º do Decreto Estadual nº 48.817, de 24 de
+novembro de 2023, e
+- o disposto no Processo nº SEI-150001/008462/2025;
+RESOLVE:
+Art. 1º - Designar os servidores abaixo relacionados para compor a
+Comissão de Gestão e Fiscalização da contratação referente à par-
+ticipação de servidores no VI Fórum Novo Saneamento em favor da
+empresa HIRIA A NUERNBERGMESSE BRASIL BUSINESS CON-
+GRESSOS E EVENTOS LTDA.
+G E S TO R : THIAGO BRAGA FLORINDO, Assistente II, ID Funcional nº
+5107362-5, na condição de gestor titular e RENNAN CRISÓSTOMO
+DE MORAES, Assessor, ID Funcional nº 5107720-5, na condição de
+gestor suplente.
+FISCAIS TITULARES: DIOGO GOMES ALVES, Assessor, ID Funcio-
+nal nº 5136237-6 e HODEKIRICHARDSON DA SILVA CUNHA, Asses-
+sor, ID Funcional nº 5155988-9, na condição de fiscais técnicos.
+FISCAIS SUPLENTES: EMANUELLE VITÓRIA DA SILVA TEIXEIRA,
+Assessora, ID Funcional nº 5161619-0.
+Art. 2º - O gestor e os fiscais ora designados e previamente cien-
+tificados deverão observar e cumprir as regras estabelecidas pelo De-
+creto Estadual nº 48.817, de 24 de novembro de 2023, que regula-
+menta a gestão e a fiscalização das contratações no âmbito do Poder
+Executivo do Estado do Rio de Janeiro.
+Art. 3º - O gestor e os fiscais ora designados deverão realizar curso
+de gestão e fiscalização de contratos e, posteriormente apresentar o
+respectivo certificado à Superintendência de Recursos Humanos.
+Art. 4º - Esta Portaria entrará em vigor na data de sua publicação.
+Rio de Janeiro, 26 de agosto de 2025
+DÉBORA PEÇANHA GONÇALVES
+Superintendente de Contratos e Compras
+Id: 2674056
+SECRETARIA DE ESTADO DA CASA CIVIL
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA E PATRIMONIAL
+SUPERINTENDÊNCIA DE CONTRATOS E COMPRAS
+ATO DA SUPERINTENDENTE
+PORTARIA SECC/SUPCC Nº 887 DE 27 DE AGOSTO DE 2025
+DESIGNA SERVIDORES PARA COMPOR A
+COMISSÃO DE GESTÃO E FISCALIZAÇÃO.
+A SUPERINTENDENTE DE CONTRATOS E COMPRAS DA SECRE-
+TARIA DE ESTADO DA CASA CIVIL , no uso das atribuições que lhe
+foram conferidas pelo art. 1º da Resolução SECC nº 14, de 12 de
+novembro de 2020, e
+CONSIDERANDO:
+- o disposto no artigo 117, da Lei Federal nº 14.133, de 1º de abril de
+2021, que determina que a fiscalização da execução do contrato ad-
+ministrativo far-se-á por representantes da Administração Pública es-
+pecialmente designados conforme requisitos estabelecidos no artigo 7º
+da referida Lei,
+- o disposto no artigo 4º do Decreto Estadual nº 48.817, de 24 de
+novembro de 2023, e
+- o disposto no Processo nº SEI-150001/009024/2025;
+R E S O LV E:
+Art. 1º - Designar os servidores abaixo relacionados para compor a
+Comissão de Gestão e Fiscalização da contratação referente à par-
+ticipação de servidores no XIV Congresso CONSAD de Gestão Pú-
+blica em favor do CONSELHO NACIONAL DE SECRETÁRIOS DE
+ESTADO DA ADMINISTRAÇÃO.
+G E S TO R : THIAGO BRAGA FLORINDO, Assistente II, ID Funcional nº
+5107362-5, na condição de gestor titular e RENNAN CRISÓSTOMO
+DE MORAES, Assessor, ID Funcional nº 5107720-5, na condição de
+gestor suplente.
+FISCAIS TITULARES: MÁRIO JORGE MOREIRA BRAGA, Assistente
+II, ID Funcional nº 5128575-4 e GABRIELA CATÃO DE ALMEIDA, As-
+sessora, ID Funcional nº 5160401-9, na condição de fiscais técnicos.
+FISCAIS SUPLENTES: LEILA BRAGA DOS SANTOS, Ajudante I, ID
+Funcional nº 5144817-3.
+Art. 2º - O gestor e os fiscais ora designados e previamente cien-
+tificados deverão observar e cumprir as regras estabelecidas pelo De-
+creto Estadual nº 48.817, de 24 de novembro de 2023, que regula-
+menta a gestão e a fiscalização das contratações no âmbito do Poder
+Executivo do Estado do Rio de Janeiro.
+Art. 3º - O gestor e os fiscais ora designados deverão realizar curso
+de gestão e fiscalização de contratos e, posteriormente apresentar o
+respectivo certificado à Superintendência de Recursos Humanos.
+Art. 4º - Esta Portaria entrará em vigor na data de sua publicação.
+Rio de Janeiro, 27 de agosto de 2025
+DÉBORA PEÇANHA GONÇALVES
+Superintendente de Contratos e Compras
+Id: 2674055
+ADMINISTRAÇÃO VINCULADA
+COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS
+ATO DO CHEFE DE GABINETE
+DE 26/08/2025
+DESIGNA CRISTIANE ACACIO GOMES DA ROCHA , Técnica Labo-
+ratório IV, como Membra Titular e DANIEL RODOPIANO GENTILE-
+ZZA, Técnico Laboratório IV, como Membro Suplente. Gerente da
+Contratação SHEILA BARBOSA MARTINS , Técnica Laboratório IV,
+bem como ISABELLE INGRID AZEVEDO COELHO , Agente de Sa-
+neamento H, como Suplente para constituírem Comissão de Fisca-
+lização referente a “AQUISIÇÃO DE TAMPA CRIMPADA MAGNÉTICA
+PARA A GERÊNCIA GG1-DSG” - Processo SEI-150017/004903/2025.
+Ordem de Serviço P/FIS nº 32.922-00.
+Id: 2673902
+LOTERIA DO ESTADO DO RIO DE JANEIRO
+ATO DA VICE-PRESIDENTE
+PORTARIA LOTERJ Nº 694 DE 25 DE AGOSTO DE 2025
+ATO DA VICE-PRESIDENTE
+DESIGNA SERVIDORES PARA COMPOR A
+COMISSÃO DE FISCALIZAÇÃO DO CONTRA-
+TO Nº 003/2023 E SEUS ADITIVOS, CELE-
+BRADO ENTRE A LOTERIA DO ESTADO DO
+RIO DE JANEIRO - LOTERJ E A RIOPAG S/A,
+E DÁ OUTRAS PROVIDÊNCIAS
+A VICE-PRESIDENTE DA LOTERIA DO ESTADO DO RIO DE JA-
+NEIRO - LOTERJ, no uso de suas atribuições que lhe confere o ar-
+tigo 5º do Decreto Lei nº 138, de 23 de junho de 1975, e tendo em
+vista os termos do Processo nº SEI-150162/000531/2022, e
+
+## Pagina 6
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0036
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+CONSIDERANDO:
+- que a Administração Pública possui o dever de planejar, gerenciar,
+acompanhar e fiscalizar a atuação da contratada, de modo a garantir
+o adimplemento do objeto contratado, bem como detectar, antecipa-
+damente, práticas em desconformidades ou defeituosas;
+- a necessidade de padronização dos procedimentos atinentes à ges-
+tão e à fiscalização dos contratos administrativos;
+- a importância de propiciar aos agentes públicos, de forma sinteti-
+zada e objetiva, orientações de caráter preventivo; e
+- o disposto no artigo 58, inciso III, c/c o artigo 67 da Lei Federal nº
+8.666/93; no Decreto nº 45.600, de 16 de março de 2016, que re-
+gulamenta a gestão e a fiscalização das contratações da administra-
+ção e altera o Decreto nº 42.301/2010; o Decreto Lei nº 138, de 23
+de junho de 1975, que regulamenta a Loteria do Estado do Rio de
+Janeiro;
+- a cláusula sétima do Contrato nº 003/2023;
+R E S O LV E :
+Art. 1º - Designar a comissão para o acompanhamento, gestão e fis-
+calização do Contrato nº 003/2023, celebrado entre a Loteria do Es-
+tado do Rio de Janeiro - LOTERJ e a RIOPAG S/A, que tem por ob-
+jeto a prestação de serviços de processamento de pagamento para o
+serviço público de loterias do Estado do Rio de Janeiro, devendo for-
+necer soluções por meios eletrônicos, na forma do Termo de Refe-
+rência e do instrumento convocatório.
+Art. 2º - Designar o servidor Ana Doval Rojas, Operador Lotérico, Id.
+Funcional nº 44548486, para exercer, sem prejuízos de suas funções,
+a função de gestor, e o servidor Rafael de Oliveira Barreiros,Ajudante
+I - DAI 1, Id. 51595141, para a função de gestor suplente; a Fisca-
+lização caberá aos seguintes servidores:
+FISCAIS:
+- Daniele de Pinho da Costa, Chefe de Serviço, Id. 51582929;
+- Diego Delduque de Souza Ribeiro, Ajudante I, Id. 51471922, e
+- Letícia Maria Mesquita da Silva, Auxiliar de Serviço, Id. 51653729.
+Art. 3º - Caberão ao gestor da Comissão os atos concernentes ao
+acompanhamento da execução do contrato, além do previsto no Artigo
+12, do Decreto Estadual nº 45.600/2016, incumbindo-lhe:
+a) adotar as providências gerenciais para que a execução do contrato
+seja realizada em conformidade com o objeto do mesmo;
+b) adotar, no limite de sua competência, as providências que julgar
+necessárias à preservação dos interesses do Estado, promovendo a
+atestação dos documentos fiscais e praticando os demais atos indis-
+pensáveis à boa e regular execução do contrato sob sua responsa-
+bilidade;
+c) solicitar a seus superiores, em tempo hábil, para a adoção das me-
+didas cabíveis, as providências que ultrapassarem a competência da
+Comissão.
+Art. 4º - Caberão aos fiscais da Comissão os atos concernentes ao
+acompanhamento da execução do contrato, além do previsto no Artigo
+13, do Decreto Estadual nº 45.600/2016, incumbindo-lhe:
+a) adotar as providências de acompanhamento para que a execução
+do contrato seja realizada em conformidade com o objeto do mesmo;
+b) anotar, em registro próprio, todas as ocorrências relacionadas com
+a execução do contrato, determinando o que for necessário para a
+regularização das faltas ou impropriedades observadas;
+c) adotar, no limite de sua competência, as providências que julgar
+necessárias à preservação dos interesses do Estado, praticando os
+demais atos indispensáveis à boa e regular execução do contrato sob
+sua responsabilidade;
+d) solicitar a seus superiores, em tempo hábil, para a adoção das me-
+didas cabíveis, as providências que ultrapassarem a competência da
+Comissão.
+Art. 5º - Esta Portaria entrará em vigor na data de sua publicação,
+revogando todas as disposições em contrário.
+Rio de Janeiro, 25 de agosto de 2025
+FABÍOLA ESTEVES
+Vi c e - P r e s i d e n t e
+Id: 2673630
+SECRETARIA DE ESTADO DA CASA CIVIL
+LOTERIA DO ESTADO DO RIO DE JANEIRO
+RETIFICAÇÃO
+D.O. DE 26/08/2025
+PÁGINA 6 - 3ª COLUNA
+ATO DA VICE-PRESIDENTE
+PORTARIA LOTERJ Nº 691 DE 25 DE AGOSTO DE 2025
+DESIGNA GESTORES E FISCAIS PARA AS
+ATIVIDADES RELACIONADAS AO ACOMPA-
+NHAMENTO DA EXECUÇÃO DO OBJETO DO
+INSTRUMENTO QUE MENCIONA.
+PROCESSO Nº SEI-150162/000602/2022.
+Onde se lê: ... SEI-150013/000941/2024 ...
+Leia-se: ... SEI-150013/000918/2024 ...
+Id: 2673697
+SECRETARIA DE ESTADO DA CASA CIVIL
+LOTERIA DO ESTADO DO RIO DE JANEIRO
+RETIFICAÇÃO
+D.O. DE 26/08/2025
+PÁGINA 6 - 2ª COLUNA
+ATO DA VICE-PRESIDENTE
+PORTARIA LOTERJ Nº 692 DE 25 DE AGOSTO DE 2025
+DESIGNA GESTORES E FISCAIS PARA AS
+ATIVIDADES RELACIONADAS AO ACOMPA-
+NHAMENTO DA EXECUÇÃO DO OBJETO DO
+INSTRUMENTO QUE MENCIONA.
+PROCESSO Nº SEI-150162/000602/2022.
+Onde se lê: ... SEI-150013/000644/2024 ...
+Leia-se: ... SEI-150013/000116/2025 ...
+Id: 2673698
+Secretaria de Estado de Governo
+SECRETARIA DE ESTADO DE GOVERNO
+DIRETORIA DE GESTÃO FINANCEIRA
+DESPACHO DA DIRETORA
+DE 26/08/2025
+PROCESSO Nº SEI-420001/001841/2025 - RECONHEÇO a dívida, de
+acordo com a Certidão 39/2025, expedida pela COOGEP/SEGOV doc.
+index 106609270, ao ex-servidor MARCELO DO NASCIMENTO EUS-
+TÁQUIO, identidade funcional n° 51062429, que foi detentor do cargo
+em comissão de Ajudante I, símbolo DAI-1, desta Secretaria de Es-
+tado de Governo, exonerado com validade a contar de 01 de novem-
+bro de 2021, publicado no Diário Oficial de 24 de novembro de 2021,
+pág. 1, possui saldo de 15 (quinze) dias de férias, referentes ao exer-
+cício de 2021, no valor total de R$ 2.221,34 (dois mil duzentos e vinte
+e um reais e trinta e quatro centavos), corrigido pela UFIR-RJ do ano
+atual, tendo em vista que foi desligado no ano de 2021 , observando-
+se a disponibilidade orçamentária desta Secretaria de Estado de Go-
+verno doc. index 110525276.
+Id: 2673927
+Secretaria de Estado de Fazenda
+SECRETARIA DE ESTADO DE FAZENDA
+ATO DO SECRETÁRIO
+DE 26/08/2025
+REMOVE, a pedido, MAURO TOMIO SAITO , Auditor Fiscal da Re-
+ceita Estadual 2ª Categoria, identidade funcional nº 5006376-6, da Su-
+perintendência de Governança de Dados, da Subsecretaria de Tecno-
+logia da Informação e Comunicação, da Secretaria de Estado de Fa-
+zenda, para Coordenadoria de Documentos Fiscais Eletrônicos, da
+Superintendência de Cadastro e Informações Fiscais, da Subsecretaria
+de Estado de Receita, da mesma Secretaria. Processo nº SEI-
+040006/028173/2025.
+Id: 2673703
+SUBSECRETARIA DE ADMINISTRAÇÃO
+SUPERINTENDÊNCIA DE COMPRAS E CONTRATOS
+ATO DO SUPERINTENDENTE
+P O R TA R I A SUPCC N° 787 DE 15 DE AGOSTO DE 2025
+DESIGNA MEMBROS NA COMISSÃO DE
+ACOMPANHAMENTO DA EXECUÇÃO, DO RE-
+CEBIMENTO E DA FISCALIZAÇÃO.
+O SUPERINTENDENTE DE COMPRAS E CONTRATOS, no uso de
+suas atribuições legais, atribuídas no inciso VI, art. 17, da Resolução
+SEFAZ nº 409/2022, e art. 2° da Resolução SEFAZ nº 761 de 11 de
+fevereiro de 2025,
+R E S O LV E :
+Art. 1º - DESIGNAR as servidoras FERNANDA RODRIGUES DE OLI-
+VEIRA MARQUES, Id. Funcional n° 5025598-3 e PAMELA MOREIRA
+DE SOUZA VIEIRA, Id. Funcional n° 4426638-3, na qualidade de FIS-
+CAIS TITULARES, e o servidor DAVID LOPES DE SOUZA, Id. Fun-
+cional n° 1931457-4, na qualidade de FISCAL SUPLENTE, para com-
+por a Comissão de Acompanhamento da Execução, do Recebimento
+e da Fiscalização da Nota de Empenho n° 2025NE00555, celebrado
+entre o ESTADO DO RIO DE JANEIRO, por meio do FUNDO ES-
+PECIAL DE ADMINISTRAÇÃO FAZENDÁRIA da SECRETARIA DE
+ESTADO DE FAZENDA, e a empresa PSY-ACCOUNT CONSULTORIA
+E TREINAMENTO LTDA, inscrita no CNPJ sob nº 26.161.861/0001-
+45, cujo objeto consiste na prestação de serviços educacionais por
+meio do curso Conformidade Contábil e Fiscal: da Matriz de Saldos
+Contábeis à Qualidade da Informação”, na modalidade in company,
+constante no processo administrativo SEI-040004/000077/2025.
+Art. 2º - DESIGNAR a servidora ROSILÉIA NASCIMENTO PATRÍCIO,
+Id. Funcional n° 5114640-1, para atuar como GESTORA TITULAR da
+contratação mencionada no artigo anterior, e o servidor SIDICLEY
+CARLOS MANHÃES DE SOUZA, Id. Funcional n° 5075959-0, para
+atuar como GESTOR SUPLENTE nos casos de impedimentos e afas-
+tamentos legais da titular.
+Art. 3º - Esta Portaria entrará em vigor na data de sua publicação.
+Rio de Janeiro, 15 de agosto de 2025
+PEDRO HENRIQUE PORCIÚNCULA BARRADAS
+Superintendente de Compras e Contratos
+Id: 2673681
+SECRETARIA DE ESTADO DE FAZENDA
+SUBSECRETARIA DE ESTADO DE RECEITA
+SUPERINTENDÊNCIA DE FISCALIZAÇÃO
+E INTELIGÊNCIA FISCAL
+ATO DO SUPERINTENDENTE
+PORTARIA S E FA Z / SUFIS N° 822 DE 26 DE A G O S TO DE 2025
+DISPÕE SOBRE O ENQUADRAMENTO DE
+CONTRIBUINTE AO TRATAMENTO TRIBUTÁ-
+RIO DIFERENCIADO PREVISTO NO DECRETO
+Nº 46.781/2019, COM AS ALTERAÇÕES IN-
+TRODUZIDAS PELO DECRETO Nº
+46.917/2020.
+O SUPERINTENDENTE DE FISCALIZAÇÃO E INTELIGÊNCIA FIS-
+CAL, no uso de suas atribuições legais, nos termos do art. 6º, inciso
+II, da Resolução SEFAZ nº 112 de 30 de janeiro de 2020, e
+CONSIDERANDO o disposto no processo n° SEI-
+0 4 0 0 0 6 / 0 11 0 0 5 / 2 0 2 5 ,
+R E S O LV E :
+Art. 1º - Tornar público o enquadramento de contribuinte ao tratamen-
+to tributário previsto no Decreto nº 46.781/2019, com suas alterações
+publicadas no Decreto nº 46.917/2020, nos termos da Resolução SE-
+FAZ nº 112/2020.
+Art. 2º - Esta Portaria entrará em vigor na data de sua publicação.
+Rio de Janeiro, 26 de agosto de 2025
+JOSÉ EDUARDO LOPES TEIXEIRA FILHO
+Superintendente de Fiscalização e Inteligência Fiscal
+Id: 2673721
+SECRETARIA DE ESTADO DE FAZENDA
+CONSELHO DE CONTRIBUINTES
+CONSELHO PLENO
+Decisão proferida na Sessão Ordinária,
+realizada por videoconferência, no dia 19/03/2025
+Nota: As decisões publicadas não produzem efeitos jurídicos de ciên-
+cia do ato. Os acórdãos serão disponibilizados no portal do Conselho
+de Contribuintes no prazo de dois dias úteis a contar desta publica-
+ção. Processo de publicação nº: SEI-040087/000028/2020
+Recurso nº 77380 - Processo nº SEI-E-04/211/024761/2019 - Recor-
+rente: FAZENDA ESTADUAL - Recorrida: CRBS S A - Relator: Con-
+selheiro ANTONIO LOPES CAETANO LOURENÇO - DECISÃO: Por
+maioria de votos, foi dado provimento ao recurso da Representação
+Geral da Fazenda, nos termos do voto do Conselheiro Marcos dos
+Santos Ferreira, designado Redator. Vencidos os Conselheiros Antonio
+Lopes Caetano Lourenço, Jayme Di Giorgio Neto, Antonio Silva Duar-
+te Neto e Rodrigo Barreto de Faria Pinho. Os Conselheiros Graciliano
+José Abreu dos Santos, Ricardo Garcia de Araujo Jorge, Luciana Dor-
+nelles do Espírito Santo e Ricardo Nunes Ramos acompanharam a
+divergência pela conclusão. O Conselheiro Graciliano José Abreu dos
+Santos protestou por apresentação de declaração de voto. - Acórdão
+nº 11.894 - EMENTA: ICMS. AUTO DE INFRAÇÃO. GLOSA DE CRE-
+DITOS. GLP. CONSUMO EM EMPILHADEIRAS. ESTABELECIMENTO
+ATACADISTA. CLASSIFICAÇÃO-CFOP 1653. BENS DE USO E CON-
+SUMO. Conforme estabelece o STF em diversos julgados o ICMS
+consagra o crédito físico. O gás liquefeito de petróleo (GLP) utilizados
+como combustível para movimentar empilhadeiras em estabelecimento
+atacadista são classificados como bens de uso e consumo. Não é in-
+sumo que integre o produto final, tampouco produto intermediário. A
+legislação somente permitirá a apropriação de tais créditos referentes
+ao imposto destacado na aquisição de bens de uso e consumo vin-
+culados a atividade fim, em 01/01/2033, à luz do artigo 83, I, do CTN.
+RECURSO FAZENDÁRIO PROVIDO.
+Decisão proferida na Sessão Ordinária,
+realizada por videoconferência, no dia 14/05/2025
+Recurso nº 80563 - Processo nº SEI-040040/000825/2022 - Recorren-
+te: FAZENDA ESTADUAL - Recorrida: MRT 2 SPE S A - Relator:
+Conselheiro MARCOS DOS SANTOS FERREIRA - DECISÃO: Por
+maioria de votos, foi desprovido o recurso especial da Representação
+Geral da Fazenda, nos termos do voto do Conselheiro Gustavo Kelly
+Alencar, designado redator. Vencidos os Conselheiros Marcos dos
+Santos Ferreira, Marcelo Habib Carvalho, Rubens Nora Chammas,
+Gustavo Mendes Moura Pimentel e Alex Gabriel Siveris da Rosa. -
+Acórdão nº 11941 - EMENTA: ICMS. AUTO DE INFRAÇÃO. PRO-
+CESSO ADMINISTRATIVO TRIBUTÁRIO. IMPOSTO DESTACADO EM
+DOCUMENTO FISCAL. NÃO RECOLHIDO. DECADÊNCIA TOTAL.
+DECISÃO CAMERAL COM BASE NO ARTIGO 150, §4º, DO CTN,
+QUE DEVE SER MANTIDA. RECURSO FAZENDÁRIO AO CONSE-
+LHO PLENO DESPROVIDO. Ausência de recolhimento do ICMS des-
+tacado em documento fiscal que acobertou a transferência de crédito
+de ICMS, aplicando-se ao caso a regra do §4º do artigo 150 do CTN.
+RECURSO FAZENDÁRIO DESPROVIDO.
+Decisão proferida na Sessão Ordinária,
+realizada por videoconferência, no dia 15/05/2025
+Recurso nº 80825 - Processo nº SEI-040036/000451/2022 - Recorren-
+te: C5 PROVEDOR DE INTERNET LTDA - Recorrida: FAZENDA ES-
+TADUAL - Relator: Conselheiro GUSTAVO KELLY ALENCAR - DECI-
+SÃO: Por unanimidade de votos, foi desprovido o recurso especial,
+nos termos do voto do Conselheiro Relator. - Acórdão nº 11949 -
+EMENTA: RECURSO ESPECIAL. MÉRITO. SERVIÇO DE COMUNI-
+CAÇÃO ONEROSO. INCIDÊNCIA DE ICMS. Os serviços objeto da
+autuação sofrem a incidência do ICMS porque cuidam da prestação
+do serviço de comunicação realizada através do fornecimento oneroso
+de internet banda larga ao consumidor final - sendo exigível o ICMS,
+portanto, conforme o inciso III do art. 2º da Lei 2.657/96. RECURSO
+ESPECIAL DESPROVIDO.
+Decisão proferida na Sessão Ordinária,
+realizada por videoconferência, no dia 10/07/2025
+Recurso nº 81373 - Processo nº SEI-040033/000214/2023 - Recorren-
+te: DHL LOGISTICS (BRAZIL) LTDA. - Recorrida: FAZENDA ESTA-
+DUAL - Relatora: Conselheira FABIA TROPE DE ALCANTARA - DE-
+CISÃO: Pelo voto de qualidade, foi dado provimento ao Recurso Es-
+pecial, nos termos do voto do Conselheiro Gustavo Kelly Alencar, de-
+signado Redator. Vencidos os Conselheiros Fabia Trope de Alcantara,
+Rubens Nora Chammas, Paulo Eduardo de Nazareth Mesquita, Gus-
+tavo Mendes Moura Pimentel, Alex Gabriel Siveris da Rosa, Marcos
+dos Santos Ferreira, Graciliano José Abreu dos Santos e Marcelo Ha-
+bib Carvalho. - Acórdão nº 12.001 - EMENTA: ICMS. OPERAÇÕES
+INTERNAS ANTERIORES À EXPORTAÇÃO. NÃO INCIDÊNCIA DO
+ICMS. Consoante jurisprudência dos tribunais que vem se solidifican-
+do, inclusive no Superior Tribunal de Justiça, a isenção tributária de
+ICMS, concernente a produtos destinados ao exterior, contempla toda
+a cadeia de deslocamento físico da mercadoria, inclusive trechos
+eventualmente fracionados, percorridos dentro do território nacional,
+não sendo possível, portanto, a tributação das fases intermediárias do
+itinerário. Aplicabilidade da súmula nº 649 do STJ: É indevida a co-
+brança de ICMS sobre o serviço de transporte de bens destinados à
+exportação. RECURSO PROVIDO.
+Decisão proferida na Sessão Ordinária,
+realizada por videoconferência, no dia 13/08/2025
+Recurso nº 63928 - Processo nº SEI-E-04/037/000492/2013 - Recor-
+rente: TRAMP OIL BRASIL LTDA - Recorrida: FAZENDA ESTADUAL -
+Relator: Conselheiro ALEX GABRIEL SIVERIS DA ROSA - DECI-
+SÃO: À unanimidade de votos, foi acolhida a preliminar de nulidade
+do auto de infração, suscitada de ofício pelo Conselheiro Relator. -
+Acórdão nº 12.024 - EMENTA: ICMS - NÃO DEBITAR E NÃO RE-
+COLHER. De acordo com os arts. 49 e 50 do Decreto nº 2.473/79 e
+art. 222 do Decreto-Lei nº 5/75, é legítimo o ato da Junta de Revisão
+Fiscal que determina a retificação do auto de infração, antes do jul-
+gamento final em primeira instância. Todavia, as alterações substan-
+ciais do lançamento somente podem ser efetuadas enquanto não ex-
+tinto o direito da Fazenda Pública, conforme previsto no parágrafo úni-
+co do art. 149 do CTN. No caso dos autos, escoado o prazo deca-
+dencial, a retificação da penalidade não é suficiente para sanar a nu-
+lidade constante da exação original. Vício material configurado. RE-
+CURSO ESPECIAL PROVIDO. ATO DE RETIFICAÇÃO INVÁLIDO.
+AUTO DE INFRAÇÃO JULGADO NULO.
+Decisões proferidas na Sessão Ordinária,
+realizada por videoconferência, no dia 14/08/2025
+Recurso nº 41846 - Processo nº SEI-E-04/057603/2010 - Recorrente:
+SEI-PETROLEO BRASILEIRO S A - Recorrida: FAZENDA ESTADUAL
+- Relator: Conselheiro GRACILIANO JOSE ABREU DOS SANTOS -
+DECISÃO: À unanimidade de votos, foi acolhida a preliminar de nu-
+lidade da decisão recorrida, suscitada de ofício pelo Conselheiro Re-
+lator. - Acórdão nº 12.025 - EMENTA: PROCESSO ADMINISTRATIVO
+TRIBUTÁRIO - RECURSO ESPECIAL - PRELIMINAR DE NULIDADE
+- DESCONSIDERAÇÃO DE PERÍCIA JUDICIAL - FUNDAMENTAÇÃO
+IDÔNEA - OMISSÃO NA ANÁLISE DE TESE RELEVANTE - NULI-
+DADE CONFIGURADA - RETORNO DOS AUTOS À CÂMARA DE
+ORIGEM. Recurso Especial interposto contra acórdão unânime da 4ª
+Câmara do Conselho de Contribuintes. Preliminar de nulidade susci-
+tada pela Recorrente, em razão da rejeição de diligência, rejeitada por
+inexistência de vício, diante da fundamentação adequada da decisão
+cameral. Preliminar de nulidade suscitada de ofício pelo Relator, em
+razão da omissão na análise de tese relevante apresentada pela de-
+fesa, relativa ao critério de arbitramento adotado no Auto de Infração.
+Vício de fundamentação configurado, com violação aos princípios da
+motivação, do contraditório e da ampla defesa. Acolhimento da pre-
+liminar de nulidade e retorno dos autos à instância de origem para
+novo julgamento, com apreciação expressa da matéria omitida. PRE-
+LIMINAR DE NULIDADE DA DECISÃO ACOLHIDA.
+Recurso nº 67048 - Processo nº SEI-E-04/037/000750/2015 - Recor-
+rente: PETROLEO BRASILEIRO S A - ANTIGO 42.788 - Recorrida:
+FAZENDA ESTADUAL - Relator: Conselheiro GRACILIANO JOSE
+ABREU DOS SANTOS - DECISÃO: À unanimidade de votos, foi aco-
+lhida a preliminar de nulidade da decisão recorrida, suscitada de ofício
+pelo Conselheiro Relator. - Acórdão nº 12.026 - EMENTA: PROCES-
+SO ADMINISTRATIVO TRIBUTÁRIO - RECURSO ESPECIAL - PRE-
+LIMINARES DE NULIDADE - PROVA PERICIAL JUDICIAL - OMIS-
+SÃO NA FUNDAMENTAÇÃO - PRINCÍPIO DA MOTIVAÇÃO - RE-
+TORNO DOS AUTOS À CÂMARA DE ORIGEM. Recurso Especial in-
+terposto contra acórdão unânime da 4ª Câmara do Conselho de Con-
+tribuintes. Preliminar de nulidade suscitada pela Recorrente, fundada
+na desconsideração de prova pericial judicial, rejeitada diante da fun-
+damentação idônea da decisão cameral e da insuficiência probatória
+quanto à individualização do produto e sua entrada no estabelecimen-
+to. Preliminar de nulidade suscitada de ofício pelo Relator, em razão
+da omissão na análise de tese jurídica relevante apresentada pela de-
+fesa, relativa ao critério de arbitramento adotado no lançamento. Vício
+de fundamentação configurado, com violação aos princípios da moti-
+vação, do contraditório e da ampla defesa. Acolhimento da preliminar
+de nulidade e retorno dos autos à instância de origem para novo jul-
+gamento, com apreciação expressa da matéria omitida. PRELIMINAR
+DE NULIDADE DA DECISÃO ACOLHIDA.
+Recurso nº 79874 - Processo nº SEI-040225/001090/2022 - Recorren-
+te: FAZENDA ESTADUAL - Recorrida: CARREFOUR COMERCIO E
+INDUSTRIA LTDA - Relator: Conselheiro ANTONIO LOPES CAETANO
+LOURENÇO - DECISÃO: À unanimidade de votos, foi negado provi-
+mento ao Recurso Especial, nos termos do voto do Conselheiro Re-
+lator. - Acórdão nº 12.028 - EMENTA: RFP - PROCESSO ADMINIS-
+TRATIVO TRIBUTÁRIO. DÉBITO DE ICMS. SUBSTITUIÇÃO TRIBU-
+TÁRIA. Documentação que demonstra, de forma clara e objetiva, o
+recolhimento dos valores de ICMS-ST e FECP relativos à Nota Fiscal
+Eletrônica nº 000033105, de 21 de outubro de 2020, por meio de
+DARJ quitado em 09 de novembro de 2020. A planilha apresentada
+detalha as operações realizadas, os destinatários, os valores recolhi-
+dos e os documentos fiscais correspondentes. RECURSO ESPECIAL
+DA REPRESENTAÇÃO DA FAZENDA DESPROVIDO.
+Id: 2674012
+
+## Pagina 7
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0037/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+SECRETARIA DE ESTADO DE FAZENDA
+CONSELHO DE CONTRIBUINTES
+CONSELHO PLENO
+*Decisão proferida na Sessão Ordinária,
+realizada presencialmente, no dia 09/08/2023
+Nota: As decisões publicadas não produzem efeitos jurídicos de ciên-
+cia do ato. Os acórdãos serão disponibilizados no portal do Conselho
+de Contribuintes no prazo de dois dias úteis a contar desta publica-
+ção. Processo de publicação nº: SEI-040087/000028/2020
+Recurso nº 66709 - Processo Físico nº E-04/037/000441/2015 - Re-
+corrente: FAZENDA ESTADUAL - Recorrida: LUBRIZOL DO BRASIL
+ADITIVOS LTDA - Relatora: Conselheira FABIA TROPE DE ALCAN-
+TARA - DECISÃO: Pelo voto de qualidade, foi dado provimento ao re-
+curso, nos termos do voto da Conselheira Relatora. Vencidos os Con-
+selheiros Antonio Silva Duarte Neto, Graciliano José Abreu dos San-
+tos, Marcelo Costa Marques d'Oliveira, Rodrigo Barreto de Faria Pi-
+nho, Luiz Carlos Sampaio Afonso, Antonio Lopes Caetano Lourenço,
+Gustavo Kelly Alencar e Jayme Di Giorgio Neto. - Acórdão nº 11220 -
+EMENTA: RECURSO FAZENDÁRIO. ICMS. CREDITAMENTO INDE-
+VIDO. MATERIAL DE USO E CONSUMO. Produto que não se incor-
+pora fisicamente ao produto final, nem é imediata e integralmente con-
+sumido no processo produtivo. Correta a sua classificação como ma-
+terial de uso e consumo. Critério do crédito físico. A essencialidade
+do produto no processo produtivo da empresa não é o critério esta-
+belecido pelo legislador para dar direito ao crédito. Há vedação legal
+ao crédito de ICMS atinente à aquisição de bens de uso e consumo
+no período alcançado pelo lançamento. Art. 20, c/c art. 33, inciso I, da
+Lei Complementar Federal n.º 87/96. Correta a classificação do nitro-
+gênio líquido, utilizado no processo de inertização de estocagem e
+reatores, já que, embora necessário ao processo produtivo: i) não in-
+tegra o produto final; ii) não se desgasta imediata e integralmente no
+processo; e iii) tem utilização extrínseca ao processo produtivo. RE-
+CURSO ESPECIAL FAZENDÁRIO PROVIDO. AUTO DE INFRAÇÃO
+PROCEDENTE.
+*Republicada por incorreções no original publicado no D.O. de
+12/09/2023.
+Id: 2674011
+SECRETARIA DE ESTADO DE FAZENDA
+CONSELHO DE CONTRIBUINTES
+PRIMEIRA CÂMARA
+Decisão proferida na Sessão Ordinária,
+realizada por videoconferência, no dia 01/07/2025
+Nota: As decisões publicadas não produzem efeitos jurídicos de ciên-
+cia do ato. Os acórdãos serão disponibilizados no portal do Conselho
+de Contribuintes no prazo de dois dias úteis a contar desta publica-
+ção. Processo de publicação nº: SEI-20071-001/000010/2020
+Recurso nº 81686 - Processo nº SEI-040037/000095/2023 - Recorren-
+te: PETROLEO BRASILEIRO S A PETROBRAS - Recorrida: JUNTA
+DE REVISAO FISCAL - Relator: Conselheiro GUSTAVO KELLY ALEN-
+CAR - DECISÃO: Por unanimidade de votos, dar provimento ao re-
+curso voluntário, nos termos do voto do Conselheiro Relator. - Acór-
+dão nº 20469 - EMENTA: ICMS. SAÍDA DE MERCADORIAS COM
+SUSPENSÃO DO IMPOSTO. RETORNO APÓS O PRAZO LEGAL.
+AFASTAMENTO DO IMPOSTO. Comprovado o retorno das mercado-
+rias ao estabelecimento do contribuinte, ainda que fora do prazo legal,
+impõe-se a exclusão dos itens que retornaram. Recurso voluntário
+provido para julgar improcedente o lançamento de imposto e multa.
+RECURSO VOLUNTÁRIO PROVIDO.
+Decisões proferidas na Sessão Ordinária,
+realizada por videoconferência, no dia 08/07/2025
+Nota: As decisões publicadas não produzem efeitos jurídicos de ciên-
+cia do ato. Os acórdãos serão disponibilizados no portal do Conselho
+de Contribuintes no prazo de dois dias úteis a contar desta publica-
+ção. Processo de publicação nº: SEI-20071-001/000010/2020
+Recurso nº 59320 - Processo nº E-04/037/000021/2013 - Recorrente:
+RODOPETRO DISTRIBUIDORA DE PETROLEO LTDA - Recorrida:
+JUNTA DE REVISAO FISCAL - Relator: Conselheiro GUSTAVO KEL-
+LY ALENCAR - DECISÃO: Por unanimidade de votos, rejeitar a pre-
+liminar de nulidade da decisão de primeira instância, nos termos do
+voto do Conselheiro Relator. Por unanimidade de votos, rejeitar a pre-
+liminar de nulidade do auto de infração, nos termos do voto do Con-
+selheiro Relator. Por maioria de votos, acolhida a preliminar de ex-
+tinção parcial do crédito tributário pela decadência para todos os fatos
+geradores anteriores a 24/02/2009, nos termos do voto do Conselheiro
+Relator. Vencido o Conselheiro Rubens Nora Chammas que também
+entendeu pela extinção parcial pela decadência do crédito tributário,
+contudo, com amparo no artigo 173, inciso I, do CTN. No mérito, por
+unanimidade de votos, no que se refere à parcela do crédito tributário
+não alcançada pela decadência, dar provimento parcial ao recurso vo-
+luntário, nos termos do voto do conselheiro relator. - Acórdão nº
+20484 - EMENTA: PROCESSO ADMINISTRATIVO TRIBUTÁRIO. NU-
+LIDADE DA DECISÃO RECORRIDA. INOCORRÊNCIA. Afasta-se ale-
+gação de nulidade da decisão recorrida quando se verifica que esta
+analisou de forma fundamentada os argumentos dos autos. PRELIMI-
+NAR REJEITADA. PRELIMINAR DE NULIDADE DO AUTO DE IN-
+FRAÇÃO POR DEFICIÊNCIA NA TIPIFICAÇÃO NORMATIVA. Confor-
+me inclusive analisado pela decisão recorrida, a interpretação siste-
+mática dos dispositivos constantes do auto de infração justifica a co-
+brança do imposto. PRELIMINAR REJEITADA. DECADÊNCIA. RETI-
+FICAÇÃO DO AUTO DE INFRAÇÃO. A significativa retificação do au-
+to de infração afeta o cômputo do prazo decadencial, posto que so-
+mente após está o lançamento veio a cumprir integralmente as dis-
+posições do artigo 142 do CTN. DECADÊNCIA PARCIAL RECONHE-
+CIDA. MÉRITO. DAS OPERAÇÕES SUJEITAS AO REGIME DO
+ICMS-ST. A nota fiscal inidônea somente faz prova em favor do FIS-
+CO, razão pela qual seria necessário que o contribuinte comprovasse
+o recolhimento do ICMS-ST para as exatas mesmas mercadorias para
+as quais alega já ter ocorrido o referido recolhimento. Não o fazendo,
+mantém-se o lançamento. MÉRITO. DAS OPERAÇÕES QUE DEVEM
+SER EXCLUÍDAS DO LANÇAMENTO. Devem ser excluídas do lan-
+çamento as operações anteriores à data de publicação em Diário Ofi-
+cial da inidoneidade dos destinatários. RECURSO VOLUNTÁRIO PAR-
+CIALMENTE PROVIDO.
+Recurso nº 59321 - Processo nº E-04/037/000017/2013 - Recorrente:
+RODOPETRO DISTRIBUIDORA DE PETROLEO LTDA - Recorrida:
+JUNTA DE REVISAO FISCAL - Relator: Conselheiro GUSTAVO KEL-
+LY ALENCAR - DECISÃO: Por unanimidade de votos, rejeitar a pre-
+liminar de nulidade da decisão de primeira instância, nos termos do
+voto do Conselheiro Relator. Por unanimidade de votos, rejeitar a pre-
+liminar de nulidade do auto de infração, nos termos do voto do Con-
+selheiro Relator. Por maioria de votos, acolhida a preliminar de ex-
+tinção parcial do crédito tributário pela decadência para todos os fatos
+geradores anteriores a 24/02/2009, nos termos do voto do Conselheiro
+Relator. Vencido o Conselheiro Rubens Nora Chammas que também
+entendeu pela extinção parcial pela decadência do crédito tributário,
+contudo, com amparo no artigo 173, inciso I, do CTN. No mérito, por
+unanimidade de votos, no que se refere à parcela do crédito tributário
+não alcançada pela decadência, dar provimento parcial ao recurso vo-
+luntário, nos termos do voto do conselheiro relator. - Acórdão nº
+20485 - EMENTA: PROCESSO ADMINISTRATIVO TRIBUTÁRIO. NU-
+LIDADE DA DECISÃO RECORRIDA. INOCORRÊNCIA. Afasta-se ale-
+gação de nulidade da decisão recorrida quando se verifica que esta
+analisou de forma fundamentada os argumentos dos autos. PRELIMI-
+NAR REJEITADA. PRELIMINAR DE NULIDADE DO AUTO DE IN-
+FRAÇÃO PRO DEFICIÊNCIA NA TIPIFICAÇÃO NORMATIVA. Confor-
+me inclusive analisado pela decisão recorrida, a interpretação siste-
+mática dos dispositivos constantes do auto de infração justifica a co-
+brança do imposto. PRELIMINAR REJEITADA. DECADÊNCIA. RETI-
+FICAÇÃO DO AUTO DE INFRAÇÃO. A significativa retificação do au-
+to de infração afeta o cômputo do prazo decadencial, posto que so-
+mente após esta o lançamento veio a cumprir integralmente as dis-
+posições do artigo 142 do CTN. DECADÊNCIA PARCIAL RECONHE-
+CIDA. MÉRITO. DAS OPERAÇÕES SUJEITAS AO REGIME DO
+ICMS-ST. A nota fiscal inidônea somente faz prova em favor do FIS-
+CO, razão pela qual seria necessário que o contribuinte comprovasse
+o recolhimento do ICMS-ST para as exatas mesmas mercadorias para
+as quais alega já ter ocorrido o referido recolhimento. Não o fazendo,
+mantém-se o lançamento. MÉRITO. DAS OPERAÇÕES QUE DEVEM
+SER EXCLUÍDAS DO LANÇAMENTO. Devem ser excluídas do lan-
+çamento as operações anteriores à data de publicação em Diário Ofi-
+cial da inidoneidade dos destinatários. RECURSO VOLUNTÁRIO PAR-
+CIALMENTE PROVIDO.
+Decisões proferidas na Sessão Ordinária,
+realizada por videoconferência, no dia 15/07/2025
+Nota: As decisões publicadas não produzem efeitos jurídicos de ciên-
+cia do ato. Os acórdãos serão disponibilizados no portal do Conselho
+de Contribuintes no prazo de dois dias úteis a contar desta publica-
+ção. Processo de publicação nº: SEI-20071-001/000010/2020
+Recurso nº 82861 - Processo nº SEI-040006/008707/2024 - Recorren-
+te: ATACADAO S.A. - Recorrida: JUNTA DE REVISÃO FISCAL - Re-
+lator: Conselheiro RUBENS NORA CHAMMAS - DECISÃO: Por maio-
+ria de votos, dar provimento ao recurso voluntário para decretar a ex-
+tinção total do crédito tributário pela decadência, nos termos do voto
+do Conselheiro Gustavo Kelly Alencar, designado Redator, vencido o
+Conselheiro Relator. - Acórdão nº 20493 - EMENTA: ICMS E MULTA
+MATERIAL - EXTINÇÃO DO CRÉDITO TRIBUTÁRIO PELA DECA-
+DÊNCIA - OCORRÊNCIA - APLICAÇÃO DO § 4º DO ARTIGO 150
+DO CTN. Nos casos em que há pagamento a menor a decadência
+apenas se opera após cinco anos contados do fato gerador, na forma
+do §4º do artigo 150 do CTN. DADO PROVIMENTO AO RECURSO.
+Auto de infração IMPROCEDENTE.
+Recurso nº 79252 - Processo nº E-04/211/000313/2021 - Recorrente:
+IND. BRASILEIRA COLCHOES E ESPUMA DE POLIURETANO LTDA.
+- Recorrida: JUNTA DE REVISAO FISCAL - Relator: Conselheiro
+GUSTAVO KELLY ALENCAR - DECISÃO: Por unanimidade de votos,
+foi dado provimento ao recurso voluntário, nos termos do voto do
+Conselheiro Relator. - Acórdão nº 20496 - EMENTA: LEI 6.979/15. IM-
+PORTAÇÃO POR VIA TERRESTRE. DESEMBARAÇO NO ESTADO
+DO RIO DE JANEIRO. APLICABILIDADE DO DIFERIMENTO. De
+acordo com o entendimento da SEFAZ à época dos fatos geradores,
+bem como com a alteração legislativa e de entendimento acerca do
+tema no decorrer do tempo, aplica-se o diferimento previsto na Lei
+6.979/15 às operações de importação por via terrestre, quando o de-
+sembaraço aduaneiro ocorra em território fluminense. Com relação à
+DI 1613639602, cujo desembaraço aduaneiro ocorreu em Uruguaiana-
+RS, conforme fls. 11 dos autos, o Recorrente admite que a exigência
+do tributo é correta. RECURSO VOLUNTÁRIO PROVIDO. AUTO DE
+INFRAÇÃO PROCEDENTE EM PARTE.
+Decisão proferida na Sessão Ordinária,
+realizada por videoconferência, no dia 05/08/2025
+Nota: As decisões publicadas não produzem efeitos jurídicos de ciên-
+cia do ato. Os acórdãos serão disponibilizados no portal do Conselho
+de Contribuintes no prazo de dois dias úteis a contar desta publica-
+ção. Processo de publicação nº: SEI-20071-001/000010/2020
+Recurso nº 82843 - Processo nº SEI-040006/023212/2024 - Recorren-
+te: JUNTA DE REVISÃO FISCAL - Interessada: DISTRIBUIDORA DE
+MEDICAMENTOS SANTA CRUZ LTDA - Relator: Conselheiro GUSTA-
+VO KELLY ALENCAR - DECISÃO: Por unanimidade de votos, negar
+provimento ao recurso de ofício, nos termos do voto do Conselheiro
+Relator. - Acórdão nº 20510 - EMENTA: ICMS - RECURSO DE OFÍ-
+CIO. Confirmada a decisão do julgador de Primeira Instância, pelos
+seus próprios motivos e fundamentos. RECURSO DE OFÍCIO DES-
+PROVIDO.
+Id: 2674005
+ADMINISTRAÇÃO VINCULADA
+SECRETARIA DE ESTADO DE FAZENDA
+FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL
+DO ESTADO DO RIO DE JANEIRO
+DIRETORIA DE SEGURIDADE
+GERÊNCIA DE RELACIONAMENTO
+COM O SEGURADO E PENSÃO
+ATOS DO GERENTE
+DE 26/08/2025
+CONCEDE a RITA MARIA MARQUES XIMENIS , na qualidade de
+VIUVA do(a) ex-segurado(a) EZIR XIMENIS, matrícula 00-1121510-0 ,
+cargo de INSPETOR DE POLÍCIA do(a) SEPOL , a pensão por morte,
+no valor de R$ 15.025,68, correspondente a cota de 100%, com fun-
+damento no art. 26 inciso II da Lei 5.260/2008, combinado com o art.
+14 da Lei 5.260/2008, com validade a contar de 02/06/2025. Proces-
+sos nº SEI-040014/033744/2025 e SEI-040014/033746/2025.
+CONCEDE a ANA MARIA PEREIRA DOS SANTOS , na qualidade de
+COMPANHEIRO(A) do(a) ex-segurado(a) SERGIO GIL NUNES, matrí-
+cula 0264157- 9, cargo de AUXILIAR POLICIAL DE NECROPSIA
+do(a) SEPOL, a pensão por morte, no valor de R$ 9.461,85, corres-
+pondente a cota de 100,00%, com fundamento no art. 26 inciso II da
+Lei 5.260/2008, combinado com o art. 14 da Lei 5.260/2008, com va-
+lidade a contar de 04/04/2025. Processo nº SEI-040014/022089/2025.
+CONCEDE a LOURDES MARIA DA SILVA DOS SANTOS , na qua-
+lidade de VIUVA do(a) ex-segurado(a) BENEDITO RIBEIRO DOS
+SANTOS, matrícula 0164780-9, cargo de AUXILIAR ADMINISTRATI-
+VO DE SERVIÇOS DE SAÚDE do(a) SES, a pensão por morte, no
+valor de R$ 2.262,35, correspondente a cota de 100%, com funda-
+mento no art. 26 inciso II da Lei 5.260/2008, combinado com o art. 14
+da Lei 5.260/2008, com validade a contar de 24/04/2025. Processos
+nº SEI-040014/022469/2025 e SEI-040014/022470/2025.
+CONCEDE a MARIA DE LOURDES DO AMARAL TORRES , na qua-
+lidade de VIÚVA do(a) ex-segurado(a) DARCY DA SILVA TORRES,
+matrícula 00-1159903-2, cargo de ANALISTA DA FAZENDA ESTA-
+DUAL do(a) SEFAZ, a pensão por morte, no valor de R$ 14.717,27,
+correspondente a cota de 100%, com fundamento no art. 26 inciso II
+da Lei 5.260/2008, combinado com o art. 14 da Lei 5.260/2008, com
+validade a contar de 03/04/2025. Processos nº SEI-
+040014/016550/2025 e SEI-040014/016556/2025.
+CONCEDE a ANGELA THEREZA POMPEO CARCARÁ , na qualidade
+de VIUVA do(a) ex-segurado(a) RAIMUNDO CARCARÁ FILHO, ma-
+trícula 00-0000866-4, cargo de OFICIAL DE ADMINISTRAÇÃO do(a)
+DETRAN, a pensão por morte, no valor de R$ 10.928,24, correspon-
+dente a cota de 100%, com fundamento no art. 26 inciso II da Lei
+5.260/2008, combinado com o art. 14 da Lei 5.260/2008, com validade
+a contar de 22/02/2025. Processos nº SEI-040014/012331/2025 e SEI-
+040014/012332/2025.
+CONCEDE a SANDRA REGINA SOARES BARBOSA , na qualidade
+de FILHA INVÁLIDA do(a) ex-segurado(a) EMILCE DA COSTA BAR-
+BOZA, matrícula 00-1802411-7, cargo de AUXILIAR TÉCNICO - AU-
+XILIAR DE SERVIÇOS MÉDICOS do(a) FUNDAÇÃO LEÃO XIII, a
+pensão por morte, no valor de R$ 2.028,49, correspondente a cota de
+100%, com fundamento no art. 40, §7°, inciso I, CRFB/1988, combi-
+nado com o art. 14 da Lei 5.260/2008, com validade a contar de
+13/08/2024. Processos nº SEI-040014/052103/2024 e SEI-
+0 4 0 0 1 4 / 0 5 2 11 0 / 2 0 2 4 .
+CONCEDE a PEDRINA URSULA ROCHA ARIDE , na qualidade de
+VIÚVA do(a) ex-segurado(a) RAFIK LOUZADA ARIDE, matrícula
+0133861-5, cargo de DELEGADO DE POLÍCIA do(a) SEPOL, a pen-
+são por morte, no valor de R$ 36.109,15, correspondente a cota de
+100,00%, com fundamento no art. 26 inciso II da Lei 5.260/2008,
+combinado com o art. 14 da Lei 5.260/2008, com validade a contar de
+03/04/2025. Processo nº SEI-040014/020217/2025.
+CONCEDE a ALDAIR MARIA CALDEIRA , na qualidade de COMPA-
+NHEIRO(A) do(a) ex-segurado(a) JOSÉ FERNANDES FILHO, matrícu-
+la 00-0033722-0, cargo de OPERADOR DE MÁQUINA do(a) DER, a
+pensão por morte, no valor de R$ 2.891,44, correspondente a cota de
+100,00%, com fundamento no art. 26 inciso II da Lei 5.260/2008,
+combinado com o art. 14 da Lei 5.260/2008, com validade a contar de
+22/09/2024. Processo nº SEI-040014/072401/2024 e SEI-
+040014/072402/2024.
+CONCEDE a IVANEIDE JANUARIO DE OLIVEIRA , na qualidade de
+CÔNJUGE do(a) ex-segurado(a) JAMIR MORAES DE OLIVEIRA, ma-
+trícula 0006415-4, cargo de AUXILIAR TÉCNICO UNIVERSITÁRIO II
+do(a) UERJ, a pensão por morte, no valor de R$ 6.529,17, corres-
+pondente a cota de 100,00%, com fundamento no art. 26 inciso II da
+Lei 5.260/2008, combinado com o art. 14 da Lei 5.260/2008, com va-
+lidade a contar de 14/11/2024. Processo nº SEI-040014/079243/2024.
+CONCEDE a VERA LUCIA FERREIRA DA COSTA , na qualidade de
+COMPANHEIRO(A) do(a) ex-segurado(a) PAULO ROBERTO DA LUZ,
+matrícula 00-0001047-0, cargo de AUXILIAR DE TRÂNSITO do(a) DE-
+TRAN, a pensão por morte, no valor de R$ 3.888,75, correspondente
+a cota de 100,00%, com fundamento no art. 26 inciso I da Lei
+5.260/2008, combinado com o art. 14 da Lei 5.260/2008, com validade
+a contar de 18/09/2024. Processos nº SEI-040014/067173/2024 e SEI-
+040014/067174/2024.
+CONCEDE a CATIA NOGUEIRA DE OLIVEIRA , na qualidade de VIÚ-
+VA do(a) ex-segurado(a) RONALDO BABO SOARES, matrícula 00-
+0056567-1, cargo de ENGENHEIRO do(a) DER, a pensão por morte,
+no valor de R$ 6.964,73, correspondente a cota de 50,00%, com fun-
+damento no art. 26 inciso II da Lei 5.260/2008, combinado com o art.
+14 da Lei 5.260/2008, com validade a contar de 08/03/2025. Proces-
+sos nº SEI-040014/015169/2025 e SEI-040014/015171/2025.
+CONCEDE a CLARA BEATRIZ NOGUEIRA DE OLIVEIRA BABO
+SOARES, na qualidade de FILHO(A) MENOR DE 21 ANOS do(a) ex-
+segurado(a) RONALDO BABO SOARES, matrícula 00-0056567-1, car-
+go de ENGENHEIRO do(a) DER, a pensão por morte, no valor de R$
+6.964,73, correspondente a cota de 50,00%, com fundamento no art.
+26 inciso II da Lei 5.260/2008, combinado com o art. 14 da Lei
+5.260/2008, com validade a contar de 08/03/2025. Processos nº SEI-
+040014/015169/2025 e SEI-040014/015172/2025.
+CONCEDE a SIOMAR DE MORAES ALMEIDA , na qualidade de VIÚ-
+VA do(a) ex-segurado(a) JAIR MORAIS DE ALMEIDA, matrícula
+200693-0, cargo de ESPECIALISTA LEGISLATIVO do(a) ALERJ, a
+pensão por morte, no valor de R$ 13.650,64, correspondente a cota
+de 100,00%, com fundamento no art. 26 inciso II da Lei 5.260/2008,
+combinado com o art. 14 da Lei 5.260/2008, com validade a contar de
+18/10/2022. Processo nº SEI-040150/001758/2022.
+CONCEDE a CONSUELO DA SILVA TEIXEIRA , na qualidade de
+COMPANHEIRO(A) do(a) ex-segurado(a) ODILIO GOMES DE ARAU-
+JO, matrícula 0265679-1, cargo de INSPETOR DE POLÍCIA do(a) SE-
+POL, a pensão por morte, no valor de R$ 14.253,21, correspondente
+a cota de 100,00%, com fundamento no art. 26 inciso II da Lei
+5.260/2008, combinado com o art. 14 da Lei 5.260/2008, com validade
+a contar de 24/03/2025. Processo nº SEI-040014/014336/2025.
+CONCEDE a LÍDIA DOS SANTOS , na qualidade de COMPANHEIRA
+do ex-segurado SEBASTIAO RAIMUNDO DE CARVALHO, matrícula
+00-0291321-8, cargo de ASSISTENTE DE MONTAGEM TEATRAL
+do(a) FUNDAÇÃO TEATRO MUNICIPAL, a pensão por morte, no va-
+lor de R$ 6.543,70, correspondente a cota de 100,00%, com funda-
+mento no art. 26 inciso II da Lei 5.260/2008, combinado com o art. 14
+da Lei 5.260/2008, com validade a contar de 28/02/2025. Processos
+nº SEI-040014/012979/2025 e SEI-040014/012980/2025.
+CONCEDE a ANA PAULA GOMES CROTTA , na qualidade de COM-
+PANHEIRO(A) do(a) ex-segurado(a) WAGNER OLIVEIRA DE FARIA,
+matrícula 191.198-1, cargo de INVESTIGADOR POLICIAL do(a) SE-
+POL, a pensão por morte, no valor de R$ 9.155,74, correspondente a
+cota de 100,00%, com fundamento no art. 40, §7°, inciso I,
+CRFB/1988, combinado com o parágrafo único do art. 6°-A da EC n°
+41/2003 e o art. 14 da Lei 5.260/2008, com validade a contar de
+03/02/2025. Processos nº SEI-040014/003379/2025 e SEI-
+040150/000507/2022.
+CONCEDE a LAURA NOGUEIRA DO NASCIMENTO , na qualidade
+de COMPANHEIRA do(a) ex-segurado(a) JOSIAS VELLOZO, matrícu-
+la 1074370-6, cargo de INSPETOR DE POLÍCIA do(a) SEPOL, a pen-
+são por morte, no valor de R$ 8.415,26, correspondente a cota de
+100,00%, com fundamento no art. 40, §7°, inciso I, CRFB/1988, com-
+binado com o art. 14 da Lei 5.260/2008, com validade a contar de
+04/09/2020. Processo nº PD-04/138.138/2020.
+CONCEDE a GUARACI DE MIRANDA SANTOS , na qualidade de
+VIÚVA do(a) ex-segurado(a) ALEXANDRE FIGUEIREDO, matrícula
+00-1804678-9, cargo de AGENTE DE ADMINISTRAÇÃO do(a) FUN-
+DAÇÃO LEÃO XIII, a pensão por morte, no valor de R$ 4.848,19, cor-
+respondente a cota de 100,00%, com fundamento no art. 26 inciso I
+da Lei 5.260/2008, combinado com o art. 14 da Lei 5.260/2008, com
+validade a contar de 29/10/2024. Processos nº SEI-
+040014/072311/2024 e SEI-040014/072313/2024.
+CONCEDE a CLAUDIA VIEIRA PINGITORE , na qualidade de VIUVA
+do(a) ex-segurado(a) CARLOS HENRIQUE PINGITORE, matrícula 00-
+0923279-4, cargo de ANALISTA ADMINISTRATIVO DE SAÚDE do(a)
+SES, a pensão por morte, no valor de R$ 6.063,19, correspondente a
+cota de 100%, com fundamento no art. 26 inciso I da Lei 5.260/2008,
+combinado com o art. 14 da Lei 5.260/2008, com validade a contar de
+09/12/2024. Processos nº SEI-040014/082565/2024 e SEI-
+040014/082566/2024.
+CONCEDE a ANA LUCIA QUINTAO ANTUNES , na qualidade de
+COMPANHEIRA do(a) ex-segurado(a) FREDERICO MENDONCA
+CARVALHO, matrícula 00-0942749-3, cargo de PROFESSOR INSPE-
+TOR ESCOLAR do(a) SEEDUC, a pensão por morte, no valor de R$
+4.512,72, correspondente a cota de 100,00%, com fundamento no art.
+26 inciso I da Lei 5.260/2008, combinado com o art. 14 da Lei
+5.260/2008, com validade a contar de 05/11/2024. Processos nº SEI-
+040014/077023/2024 e SEI-040014/077024/2024.
+CONCEDE a ROSEMERY HENRIQUES VENTURA , na qualidade de
+FILHO (A) INVÁLIDO (A) do(a) ex-segurado(a) CELITA HENRIQUES
+VENTURA, matrícula 1110811-5, cargo de TÉCNICO DE LABORATÓ-
+RIO do(a) SES, a pensão por morte, no valor de R$ 1.227,89, cor-
+respondente a cota de 100,00%, com fundamento no art. 40, §7°, in-
+ciso I, CRFB/1988, combinado com o art. 14 da Lei 5.260/2008, com
+validade a contar de 01/07/2021. Processo nº PD-04/154.364/2021.
+CONCEDE a JULIANO BAHIENSE STAFANATO , na qualidade de
+VIUVO do(a) ex-segurado(a) SARA NOGUEIRA DA COSTA STAFA-
+NATO, matrícula 00-0967375-7, cargo de PROFESSOR DOCENTE I
+do(a) SEEDUC, a pensão por morte, no valor de R$ 2.490,58, cor-
+respondente a cota de 100%, com fundamento no art. 26 inciso I da
+Lei 5.260/2008, combinado com o art. 14 da Lei 5.260/2008, com va-
+lidade a contar de 06/08/2024. Processos nº SEI-040014/050079/2024
+e SEI-040014/050083/2024.
+CONCEDE a TANIA CIRA MOREIRA CONCEICAO DANTAS , na qua-
+lidade de VIÚVA do(a) ex-segurado(a) SERGIO BAPTISTA DANTAS,
+matrícula 39267-0, cargo de PROFESSOR ADJUNTO do(a) UERJ, a
+pensão por morte, no valor de R$ 10.969,62, correspondente a cota
+de 100,00%, com fundamento no art. 89 §17° da CE, combinado com
+o art. 14 da Lei 5.260/2008, com validade a contar de 03/01/2025.
+Processo nº SEI-040014/002145/2025.
+
+## Pagina 8
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0038
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+CONCEDE a TANIA CIRA MOREIRA CONCEICAO DANTAS , na qua-
+lidade de VIÚVA do(a) ex-segurado(a) SERGIO BAPTISTA DANTAS,
+matrícula 250753, cargo de TECNICO UNIVERSITARIO SUPERIOR
+do(a) UERJ, a pensão por morte, no valor de R$ 15.730,74, corres-
+pondente a cota de 100,00%, com fundamento no art. 26 inciso II da
+Lei 5.260/2008, combinado com o art. 14 da Lei 5.260/2008, com va-
+lidade a contar de 03/01/2025. Processo nº SEI-040014/002145/2025.
+CONCEDE a IOLANDA SILVESTRE DA SILVA , na qualidade de VIÚ-
+VA do ex-segurado SILVIO SILVESTRE DA SILVA, matrícula 19106,
+cargo de TÉCNICO DE ATIVIDADE JUDICIARIA do(a) TJ, a pensão
+por morte, no valor de R$ 10.393,11, correspondente a cota de
+100,00%, com fundamento no art. 26 inciso II da Lei 5.260/2008,
+combinado com o art. 14 da Lei 5.260/2008, com validade a contar de
+28/06/2024. Processos nº SEI-040014/045041/2024 e SEI-
+040014/045043/2024.
+CONCEDE a ANA LUCIA DE PAIVA FERREIRA , na qualidade de
+VIÚVA do(a) ex-segurado(a) ROBERTO LUIZ FERREIRA, matrícula
+291409-1, cargo de ANALISTA DE SISTEMAS do(a) CENTRO DE
+TECNOLOGIA DA INFORMAÇÃO E COMUNIC DO RJ, a pensão por
+morte, no valor de R$ 10.631,67, correspondente a cota de 100,00%,
+com fundamento no art. 26 inciso II da Lei 5.260/2008, combinado
+com o art. 14 da Lei 5.260/2008, com validade a contar de
+04/04/2025. Processos nº SEI-040014/019081/2025 e SEI-
+040014/019078/2025.
+CONCEDE a JANETE PEREIRA DA SILVA , na qualidade de VIÚVA
+do(a) ex-segurado(a) ARY ANNIBAL CORREA, matrícula 174950-6,
+cargo de ANALISTA DA FAZENDA ESTADUAL do(a) SEFAZ, a pen-
+são por morte, no valor de R$ 13.169,59, correspondente a cota de
+100,00%, com fundamento no art. 26 inciso II da Lei 5.260/2008,
+combinado com o art. 14 da Lei 5.260/2008, com validade a contar de
+13/02/2025. Processo nº SEI-040014/010280/2025.
+CONCEDE a ALICE ALVES PEREIRA , na qualidade de COMPA-
+NHEIRA do(a) ex-segurado(a) JOAO GUILHERME RODRIGUES, ma-
+trícula 17863-2, cargo de 3º sargento PM do(a) SEPM, a pensão por
+morte, no valor de R$ 6.024,38, correspondente a cota de 82,00%,
+com fundamento no art. 40, §7°, inciso I, CRFB/1988, combinado com
+o art. 14 da Lei 5.260/2008, com validade a contar de 11/07/2021,
+tornando sem efeito o ato datado de 11/08/2025, publicado no D.O.
+em 13/08/2025. Processo nº PD-04/138.134/2021.
+CONCEDE a SEVERINA CIRINO DE SOUZA , na qualidade de CO-
+TISTA do(a) ex-segurado(a) JOAO GUILHERME RODRIGUES, matrí-
+cula 17863-2, cargo de 3º sargento PM do(a) SEPM, a pensão por
+morte, no valor de R$ 1.322,42, correspondente a cota de 18,00%,
+com fundamento no art. 40, §7°, inciso I, CRFB/1988, combinado com
+o art. 17 da Lei 5.260/2008, com validade a contar de 11/07/2021,
+tornando sem efeito o ato datado de 11/08/2025, publicado no D.O.
+em 13/08/2025. Processo nº PD-04/138.134/2021.
+Id: 2673920
+SECRETARIA DE ESTADO DE FAZENDA
+FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL
+DO ESTADO DO RIO DE JANEIRO
+DIRETORIA DE SEGURIDADE
+GERÊNCIA DE RELACIONAMENTO
+COM O SEGURADO E PENSÃO
+COORDENADORIA DE PENSÃO
+D E S PA C H O S DA COORDENADORA
+DE 26/08/2025
+PROCESSO Nº SEI-040150/000365/2023 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+APARECIDA DOS SANTOS MUQUIM, na qualidade de MÃE, NÃO
+FAZ(EM) JUS à concessão do benefício de pensão por morte da ex-
+segurada CHAYENNE SANTOS MUQUIM, ID Funcional nº 5032880-8
+do(a) SECRETARIA DE ESTADO DE EDUCAÇÃO, uma vez que o
+instituidor não é mais segurado desse fundo conforme o art. 5 da lei
+5260 de 2008.
+PROCESSO Nº SEI-040014/048545/2024 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+CLAYTON FERNANDES DE CARVALHO ABREU, na qualidade de
+COMPANHEIRO, NÃO FAZ(EM) JUS à concessão do benefício de
+pensão por morte do ex-segurado NEY SERGIO COELHO FILHO, ID
+Funcional nº 4416505-6 do(a) SECRETARIA DE ESTADO DE EDU-
+CAÇÃO, por não atender ao disposto no parágrafo único do art. 16,
+da Lei Estadual nº 5260/2008 alterada pelo Lei Estadual nº
+7628/2017.
+PROCESSO Nº SEI-040014/055724/2024 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+GLÓRIA FRAZÃO DA SILVA, na qualidade de MÃE, NÃO FAZ(EM)
+JUS à concessão do benefício de pensão por morte da ex-segurada
+LUZIA MARIA DA SILVA, ID Funcional nº 35806842 do(a) SEEDUC,
+por não comprovar o exigido no §5 do art. 14 da Lei 5260 de 2008,
+alterada pela Lei 7628 de 2017.
+PROCESSO Nº E-01/704803/2001 - De acordo com a documentação
+apresentada, declaro que conforme a instrução processual, MARIA DE
+LOURDES PORTES NICOLA, na qualidade de FILHO INVÁLIDO,
+NÃO FAZ(EM) JUS à concessão do benefício de pensão por morte
+do ex-segurado ANTONIO SORIA NICOLA, ID Funcional nº 5061481-
+9 do(a) DER-RJ, uma vez que o parecer da perícia médica do Estado
+(SUPCPMSO) foi negativo quanto a sua habilitação a pensão por
+morte na qualidade de filho inválido não atendendo assim ao disposto
+no inciso I do art. 14 da Lei Estadual nº 5260/2008, alterada pelo Lei
+Estadual nº 7628/2017.
+PROCESSO Nº SEI-040014/083080/2024 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+GENAIDE NOVAES TEIXEIRA, na qualidade de MÃE, NÃO FAZ(EM)
+JUS à concessão do benefício de pensão por morte do ex-segurado
+VANDERLEI NOVAES TEIXEIRA, ID Funcional nº 2087693-9 do(a)
+FUNDAÇÃO DE APOIO A ESCOLA TÉCNICA DO ESTADO DO RIO
+DE JANEIRO, por não comprovar o exigido no §5 do art. 14 da lei
+5260 de 2008, alterada pela lei 7628 de 2017.
+PROCESSO Nº SEI-040014/080955/2024 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+BEATRIZ LUNA DE MATOS GONÇALVES, na qualidade de FILHO
+INVÁLIDO, NÃO FAZ(EM) JUS à concessão do benefício de pensão
+por morte do ex-segurado LEONARDO DE MATOS GONÇALVES, ID
+Funcional nº 2223406-3 do(a) SECRETARIA DE ESTADO DE POLÍ-
+CIA MILITAR RJ, uma vez que o parecer da perícia médica do Estado
+(SUPCPMSO) foi negativo quanto a sua habilitação a pensão por
+morte na qualidade de filho inválido não atendendo assim ao disposto
+no inciso I do art. 14 da Lei Estadual nº 5260/2008, alterada pelo Lei
+Estadual nº 7628/2017.
+PROCESSO Nº SEI-040014/005952/2025 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+ROSÂNGELA DA SILVA ALVES, na qualidade de FILHA MAIOR SOL-
+TEIRA, NÃO FAZ(EM) JUS à concessão do benefício de pensão por
+morte do ex-segurado ITAMAR JOÃO DA SILVA, ID Funcional nº
+43955150 da SECRETARIA DE ESTADO DA POLICIA MILITAR DO
+RIO DE JANEIRO, uma vez que a requerente declarou-se casada até
+os dias atuais, não podendo ser habilitada como beneficiária à pensão
+por morte como filha maior solteira, conforme o art. 29 da Lei
+285/1979, alterada pela Lei 1488/89.
+PROCESSO Nº SEI-040014/065883/2024 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+FERNANDO JOSE DE OLIVEIRA BARROS, na qualidade de COM-
+PANHEIRO, NÃO FAZ(EM) JUS à concessão do benefício de pensão
+por morte do ex-segurado MARIA LUIZA FIAUX PONTES, ID Funcio-
+nal nº 19522240 do(a) SECRETARIA DE ESTADO DE FAZENDA, por
+não atender ao disposto no parágrafo único do art. 16, da Lei Es-
+tadual nº 5260/2008 alterada pelo Lei Estadual nº 7628/2017.
+PROCESSO Nº SEI-040014/074022/2024 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+LUIZ OCTAVIO AMARAL DE ANDREA, na qualidade de FILHO IN-
+VÁLIDO, NÃO FAZ(EM) JUS à concessão do benefício de pensão por
+morte do ex-segurado ANA MARIA DO NASCIMENTO AMARAL, ID
+Funcional nº 4078973-0 do(a) SECRETARIA DE ESTADO DE EDU-
+CAÇÃO, por não atender ao disposto no parágrafo único do art. 14
+da Lei Estadual nº 5260/2008, alterada pelo Lei Estadual nº
+7628/2017.
+PROCESSOS Nº SEI-040014/005704/2025 E SEI-040014/005647/2025
+- De acordo com a documentação apresentada, declaro que conforme
+a instrução processual, JANE DE AZEVEDO DA SILVA, na qualidade
+de FILHO INVÁLIDO, NÃO FAZ(EM) JUS à concessão do benefício
+de pensão por morte do ex-segurado JOEL DE OLIVEIRA DA SILVA,
+ID Funcional nº 51201801 do(a) TRIBUNAL DE JUSTIÇA DO ESTA-
+DO DO RJ, uma vez que não apresentou toda documentação neces-
+sária, não cumprindo assim ao disposto no inciso I do art. 14 da Lei
+Estadual nº 5260/2008, alterada pelo Lei Estadual nº 7628/2017.
+PROCESSO Nº SEI-040014/050428/2024 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+DJALMA CARDOSO DOS SANTOS JUNIOR, na qualidade de FILHO
+INVÁLIDO, NÃO FAZ(EM) JUS à concessão do benefício de pensão
+por morte do ex-segurado DJALMA CARDOSO DOS SANTOS, ID
+Funcional nº 41518365 do(a) 3º SARGENTO PM DA SECRETARIA
+DE ESTADO DA POLÍCIA MILITAR, uma vez que o parecer da pe-
+rícia médica do Estado (SUPCPMSO) foi negativo quanto a sua ha-
+bilitação a pensão por morte na qualidade de filho inválido não aten-
+dendo assim ao disposto da Lei Estadual nº 285/1979, alterada pelo
+Lei Estadual nº 3.189/1999.
+PROCESSO Nº SEI-040014/009754/2025 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+EUNICE PORTO DO NACIMENTO, na qualidade de COMPANHEIRA,
+NÃO FAZ(EM) JUS à concessão do benefício de pensão por morte
+do ex-segurado JOSE MARCELINO CORDEIRO, ID Funcional nº
+5385520 do(a) SECRETARIA DE ESTADO DA CASA CIVIL, por não
+atender ao disposto no parágrafo único do art. 16, da Lei Estadual nº
+5260/2008 alterada pelo Lei Estadual nº 7628/2017.
+PROCESSO Nº SEI-040014/016293/2025 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+MARIA DA LUZ DE LIMA SILVA, na qualidade de COMPANHEIRA,
+NÃO FAZ(EM) JUS à concessão do benefício de pensão por morte
+do ex-segurado TEREZINHA RAMOS PEREIRA DA SILVA, ID Funcio-
+nal nº 5114527 do(a) FUNDAÇÃO DEPARTAMENTO DE ESTRADAS
+DE RODAGENS, por não atender ao disposto no parágrafo único do
+art. 16, da Lei Estadual nº 5260/2008 alterada pelo Lei Estadual nº
+7628/2017.
+PROCESSO Nº SEI-040014/078776/2024 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+MARCO AURÉLIO BABO TORRES, na qualidade de FILHO INVÁLI-
+DO, NÃO FAZ(EM) JUS à concessão do benefício de pensão por
+morte do ex-segurado SALOMÃO D'AVILA TORRES, ID Funcional nº
+5048599-7 do(a) TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE
+JANEIRO, uma vez que perdeu a qualidade de beneficiário da pensão
+pelo matrimônio, conforme o disposto no inciso IV, alínea a, do art. 31
+da Lei nº 285/1979, alterada pela Lei nº 1.488/1989.
+PROCESSO Nº SEI-040014/061633/2024 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+FABIANA CRISTINA CUNHA DE AZEVEDO, na qualidade de COM-
+PANHEIRA, NÃO FAZ(EM) JUS à concessão do benefício de pensão
+por morte do ex-segurado WILSON SIMOES GUERREIRO, ID Fun-
+cional nº 29951712 do(a) POLICIA CIVIL DO ESTADO DO RIO DE
+JANEIRO, por não atender ao disposto no parágrafo único do art. 16,
+da Lei Estadual nº 5260/2008 alterada pelo Lei Estadual nº
+7628/2017.
+PROCESSO Nº SEI-040150/000016/2024 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+ERICA TAVARES HERNIMAN, na qualidade de FILHO INVÁLIDO,
+NÃO FAZ(EM) JUS à concessão do benefício de pensão por morte
+do ex-segurado NILZA TAVARES HERNIMAN, ID Funcional nº
+35651849 do(a) SECRETARIA DE ESTADO DE EDUCAÇÃO, uma
+vez que o parecer da perícia médica do Estado (SUPCPMSO) foi ne-
+gativo quanto a sua habilitação a pensão por morte na qualidade de
+filho inválido não atendendo assim ao disposto no inciso I do art. 14
+da Lei Estadual nº 5260/2008, alterada pelo Lei Estadual nº
+7628/2017.
+PROCESSO Nº SEI-040014/008202/2025 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+ALZIRA MARIA DE SOUZA JOAQUIM, na qualidade de COMPANHEI-
+RA, NÃO FAZ(EM) JUS à concessão do benefício de pensão por
+morte do ex-segurado LOECY JOAQUIM, ID Funcional nº 6278162
+do(a) SECRETARIA DE ESTADO DE SAÚDE, por não atender ao dis-
+posto no parágrafo único do art. 16, da Lei Estadual nº 5260/2008
+alterada pelo Lei Estadual nº 7628/2017.
+PROCESSO Nº SEI-040014/008928/2025 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+VALDIVO JOSE DE SOUZA, na qualidade de CÔNJUGE, NÃO
+FAZ(EM) JUS à concessão do benefício de pensão por morte do ex-
+segurado WILMA RIBEIRO DIAS DE SOUZA, ID Funcional nº
+6478620 do(a) SECRETARIA DE ESTADO DE EDUCAÇÃO, por não
+atender ao disposto no parágrafo único do art. 16, da Lei Estadual nº
+5260/2008 alterada pelo Lei Estadual nº 7628/2017.
+PROCESSO Nº S E I - 0 4 0 1 5 0 / 0 0 111 2 / 2 0 2 3 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+GERALDA LIMA DOS SANTOS, na qualidade de CÔNJUGE, NÃO
+FAZ(EM) JUS à concessão do benefício de pensão por morte do ex-
+segurado BENILDO PINHEIRO DOS SANTOS, ID Funcional nº
+20600259 do(a) FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ES-
+TADO DO RIO DE JANEIRO, por não atender ao disposto no pará-
+grafo único do art. 16, da Lei Estadual nº 5260/2008 alterada pelo Lei
+Estadual nº 7628/2017.
+PROCESSO Nº SEI-040014/008406/2025 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+ROBERTO DINIZ MUNIZ, na qualidade de FILHO INVÁLIDO, NÃO
+FAZ(EM) JUS à concessão do benefício de pensão por morte do ex-
+segurado DAYSE DINIZ MUNIZ, ID Funcional nº 41092872 do(a) SE-
+CRETARIA DE ESTADO DE EDUCAÇÃO, uma vez que não apresen-
+tou toda documentação necessária, não cumprindo assim ao disposto
+no inciso I do art. 14 da Lei Estadual nº 5260/2008, alterada pelo Lei
+Estadual nº 7628/2017.
+PROCESSO Nº SEI-040014/005884/2025 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+ROSA MARIA MACHADO DE PAIVA BRITO, na qualidade de COM-
+PANHEIRA, NÃO FAZ(EM) JUS à concessão do benefício de pensão
+por morte do ex-segurado JORGE SERGIO TAVARES DO NASCI-
+MENTO, ID Funcional nº 5412552 do(a) POLÍCIA CIVIL DO ESTADO
+DO RIO DE JANEIRO, por não atender ao disposto no parágrafo úni-
+co do art. 16, da Lei Estadual nº 5260/2008 alterada pelo Lei Estadual
+nº 7628/2017.
+PROCESSO Nº S E I - 0 4 0 0 1 4 / 0 11 6 7 2 / 2 0 2 5 - De acordo com a docu-
+mentação apresentada, declaro que conforme a instrução processual,
+LEILA MAIA DE OLIVEIRA, na qualidade de CÔNJUGE, NÃO
+FAZ(EM) JUS à concessão do benefício de pensão por morte do ex-
+segurado WALDEMIRO DE OLIVEIRA, ID Funcional nº 3149053-0
+do(a) WALDEMIRO DE OLIVEIRA, por não atender ao disposto no
+parágrafo único do art. 16, da Lei Estadual nº 5260/2008 alterada pelo
+Lei Estadual nº 7628/2017.
+Id: 2673919
+SECRETARIA DE ESTADO DE FAZENDA
+FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL
+DO ESTADO DO RIO DE JANEIRO
+DIRETORIA DE SEGURIDADE
+GERÊNCIA DE RELACIONAMENTO
+COM O SEGURADO E PENSÃO
+DESPACHOS DO GERENTE
+DE 18/08/2025
+PROCESSO Nº SEI-040014/034704/2025 - LEONICE VIANA DA SIL-
+VA, ID 4407458-1. DEFIRO o pedido de isenção de imposto de renda,
+tendo em vista os termos do laudo médico e parecer da perícia mé-
+dica do Estado.
+PROCESSO Nº SEI-040014/060062/2024 - MARIA ZEDITH JARDIM
+SILVEIRA, ID 4243415-7. DEFIRO o pedido de isenção de imposto de
+renda, tendo em vista os termos do laudo médico e parecer da pe-
+rícia médica do Estado.
+PROCESSO Nº SEI-040014/070120/2024 - MARIA DO CEU FIGUEI-
+REDO DA SILVA, ID 5083859-8. INDEFIRO, tendo em vista não haver
+amparo legal para concessão da isenção do IR, uma vez que a en-
+fermidade não possui previsão legal nas Leis 7713/1988 e
+11052/2004, conforme parecer da perícia médica do Estado.
+DE 20/08/2025
+PROCESSO Nº SEI-040014/051362/2024 - MARLENE CASEMIRO
+DOS REIS, ID 5079724-7. DEFIRO o pedido de isenção de imposto
+de renda, tendo em vista os termos do laudo médico e parecer da
+perícia médica do Estado.
+DE 21/08/2025
+PROCESSO Nº SEI-040014/021226/2024 - NEUZA DA SILVA RAN-
+GEL, ID 1066676-1. DEFIRO o pedido de isenção de imposto de ren-
+da, tendo em vista os termos do laudo médico e parecer da perícia
+médica do Estado.
+PROCESSO Nº SEI-040014/067482/2024 - MARIA DE LOURDES DE
+MENDONÇA ARRUDA, ID 5130134-2. DEFIRO o pedido de isenção
+de imposto de renda, tendo em vista os termos do laudo médico e
+parecer da perícia médica do Estado.
+PROCESSO Nº SEI-040014/059153/2024 - MIRIAM CARVALHO FLO-
+RES, ID 4113214-9. DEFIRO o pedido de isenção de imposto de ren-
+da, tendo em vista os termos do laudo médico e parecer da perícia
+médica do Estado.
+PROCESSO Nº SEI-040014/078143/2024 - ENOI CONCEIÇÃO LIMA
+DE OLIVEIRA, ID 4324142-5. DEFIRO o pedido de isenção de im-
+posto de renda, tendo em vista os termos do laudo médico e parecer
+da perícia médica do Estado.
+Id: 2673849
+SECRETARIA DE ESTADO DE FAZENDA
+FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL
+DO ESTADO DO RIO DE JANEIRO
+DIRETORIA DE SEGURIDADE
+GERÊNCIA DE CERTIDÃO E
+A P O S E N TA D O R I A
+ATO DA GERENTE
+DE 26/08/2025
+TO R N O SEM EFEITO, o ATO de 14/01/2025, por ter sido publicado
+indevidamente, página 07, 3ª coluna, publicado no Diário Oficial do
+Estado do Rio de Janeiro de 15/01/2025, referente a Aposentadoria
+de EDILAN SANTOS DA SILVA , ID funcional n° 43210988: da SE-
+CRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA. Pro-
+cesso nº SEI-210001/083323/2024.
+Id: 2673848
+SECRETARIA DE ESTADO DE FAZENDA
+FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL
+DO ESTADO DO RIO DE JANEIRO
+DIRETORIA DE SEGURIDADE
+GERÊNCIA DE CERTIDÃO E APOSENTADORIA
+ATOS DA GERENTE
+DE 25/08/2025
+A P O S E N TA , a contar de 25/08/2025, PATRICIA DIREITO DA SILVA ,
+TÉCNICO EM ENFERMAGEM LEI 7946/18, SECRETARIA DE ESTA-
+DO DE SAUDE, ID funcional nº 30516935, vínculo 1, matrícula
+297763-5, nos termos do Art. 4º, §5º, da Emenda Constitucional Es-
+tadual n° 90/2021. Processo nº SEI-080001/011750/2025.
+FIXA os proventos de acordo com o Art. 4, §2º, inciso I, da Emenda
+Constitucional Estadual N° 90/2021, tendo por base a última remune-
+ração integral do cargo efetivo e sendo reajustado pela paridade.
+Discriminação das parcelas:
+PROVENTO - Lei nº.7946/18, c/c Lei nº 9.299/21 - R$ 2.697,11.
+TRIÊNIO - Lei Estadual 1608/1990 - 60% - R$ 1.618,27.
+Proventos - R$ 4.315,38.
+A P O S E N TA , a contar de 31/03/2025, ADILIA CASTANHEIRA MA-
+CHADO, MÉDICO LEI 7946/18, da SECRETARIA DE ESTADO DE
+SAUDE, ID funcional n° 30569036, vínculo 1, matrícula n° 851751-8,
+nos termos do art. 40, § 1°, inciso III, alínea b, da Constituição Fe-
+deral de 1988 c/c Art. 2º da Emenda Constitucional Estadual nº
+90/2021. Tornando sem efeito o Ato publicado em 14/05/2025. Pro-
+cesso nº SEI-080001/010310/2025.
+FIXA os proventos de acordo com o Art. 40, §§ 3º e 17 da Cons-
+tituição Federal de 1988, em parcela única, e sendo reajustado pelo
+INPC.
+Média da Remuneração EC 41/2003 (art. 1° Lei 10.887/2004): R$
+4.719,44.
+Limite Remuneratório: R$ 6.930,62.
+Fração da proporção: 10.950/9.308.
+Proventos: R$ 4.011,74.
+DE 26/08/2025
+A P O S E N TA , a contar de 26/08/2025, SYLVIA REGINA MOREIRA LI-
+MA, FARMACÊUTICO, INSTITUTO ESTADUAL DO AMBIENTE, ID
+funcional nº 43480527, vínculo 1, matrícula 390455-4, nos termos do
+art. 40, § 1°, inciso III, alínea “a”, da Constituição Federal de 1988 c/c
+Art. 2º da Emenda Constitucional Estadual nº 90/2021. Processo nº
+SEI-070002/009421/2024.
+FIXA os proventos de acordo com o Art. 40, §§ 3º e 17 da Cons-
+tituição Federal de 1988, em parcela única, e sendo reajustado pelo
+INPC.
+Média da Remuneração EC41/2003 (art. 1° Lei 10.887/2004): R$
+11 . 3 5 0 , 5 4 .
+Limite Remuneratório: R$ 12.052,49.
+Proventos: R$ 11.350,54.
+A P O S E N TA , a contar de 26/08/2025, JOSEILSON LISBOA DA SIL-
+VA , AUDITOR DO ESTADO, CONTROLADORIA GERAL DO ESTA-
+DO, ID funcional nº 19435479, vínculo 1, matrícula 817649-7, nos ter-
+mos do Art. 4º da Emenda Constitucional Estadual nº 90/2021. Pro-
+cesso nº SEI-320001/001852/2025.
+FIXA os proventos de acordo com o Art. 4º, §2º, inciso I, da Emenda
+Constitucional Estadual nº 90/2021, tendo por base a última remune-
+ração integral do cargo efetivo e sendo reajustado pela paridade.
+Discriminação das parcelas:
+PROVENTO - Lei Estadual 7989/2018 - R$ 11.150,43.
+TRIÊNIO - Lei Estadual 1608/1990 - 55% - R$ 6.132,74.
+ADICIONAL DE QUALIFICAÇÃO - Lei Est. 5756/2010 - R$ 1.672,56.
+VERBAS VARIÁVEIS - EC Est. 90/21 Art 7º, inciso II - R$ 4.864,37.
+Proventos - R$ 23.820,10.
+A P O S E N TA , a contar de 16/05/2025, CARMEN MARIA PINTO DA
+ROCÍÀ VASCONCELOS , ANALISTA DA FAZENDA ESTADUAL, da
+SECRETARIA DE ESTADO DE FAZENDA, ID funcional n° 19385188,
+vínculo 1, matrícula n° 1160347-9, nos termos do Art. 3º da Emenda
+Constitucional nº 47/2005 c/c Art. 2º da Emenda Constitucional Esta-
+dual nº 90/2021. Tornando sem efeito o Ato de aposentadoria publi-
+cado em 27/05/2025. Processo nº SEI-040002/001677/2025.
+FIXA os proventos tendo por base a última remuneração integral do
+cargo efetivo e sendo reajustado pela paridade.
+Discriminação das parcelas:
+PROVENTO - LC Est. 69/1990 c/c LC Est. 136/2010 - R$ 2.585,59.
+
+## Pagina 9
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0039/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+TRIÊNIO - Lei Estadual 1608/1990 - 60% - R$ 6.632,93.
+REG ESP DE TRAB DA ADM FAZ SEF - Lei Est.1650/1990 - R$
+8.469,29.
+Proventos - R$ 17.687,81.
+A P O S E N TA , compulsoriamente, a contar de 01/05/2025, H U M B E R TO
+TEIXEIRA DE FARIA , MÉDICO VETERINÁRIO L7946/18, da SECRE-
+TARIA DE ESTADO DE SAUDE, ID funcional n° 31973450, vínculo 1,
+matrícula n° 182742-7, nos termos do Art. 2º, inciso II, da Lei Com-
+plementar Estadual nº 195/2021. Processo nº SEI-
+080001/029206/2025.
+A P O S E N TA , compulsoriamente, a contar de 27/07/2025, PA U L O
+WAGNER SANTOS MARINHO , ODONTÓLOGO LEI 7946/18, da SE-
+CRETARIA DE ESTADO DE SAUDE, ID funcional n° 31729541, vín-
+culo 1, matrícula n° 144660-8, nos termos do Art. 2º, inciso II, da Lei
+Complementar Estadual nº 195/2021. Processo nº SEI-
+080001/029197/2025.
+A P O S E N TA , compulsoriamente, a contar de 30/03/2025, VA L D E C I R O
+QUINTANILHA DA CONCEICAO , AUXILIAR ADMINISTRATIVO DE
+SERVIÇOS DE SAÚDE, da SECRETARIA DE ESTADO DE SAUDE,
+ID funcional n° 30977550, vínculo 1, matrícula n° 285814-0, nos ter-
+mos do Art. 2º, inciso II, da Lei Complementar Estadual nº 195/2021.
+Processo Nº SEI-080001/029308/2025.
+Id: 2673850
+SECRETARIA DE ESTADO DE FAZENDA
+FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL
+DO ESTADO DO RIO DE JANEIRO
+DIRETORIA DE SEGURIDADE
+GERÊNCIA DE ADMINISTRAÇÃO PREVIDENCIÁRIA
+D E S PA C H O S DO GERENTE
+DE 26/08/2025
+PROCESSO N° SEI-040014/031086/2025 - A U TO R I Z O a compensa-
+ção previdenciária após análise documental de acordo com a Lei Fe-
+deral 9.796 de 06 de maio de 1999 e o Decreto nº 10.188 de 20 de
+dezembro de 2019 e Certidão de Tempo de Contribuição nº 021/2003
+de ELIANE ASSINY LIMA ROCHA homologada por este RPPS.
+PROCESSO N° SEI-040014/031258/2025 - A U TO R I Z O a compensa-
+ção previdenciária após análise documental de acordo com a Lei Fe-
+deral 9.796 de 06 de maio de 1999 e o Decreto nº 10.188 de 20 de
+dezembro de 2019 e Certidão de Tempo de Contribuição nº 571/2009
+de MARIA ALICE DE SOUZA FREIRE homologada por este RPPS e
+publicada no Diário Oficial de 24 de janeiro de 2011.
+PROCESSO N° SEI-040014/031384/2025 - AUTORIZO a compensa-
+ção previdenciária após análise documental de acordo com a Lei Fe-
+deral 9.796 de 06 de maio de 1999 e o Decreto nº 10.188 de 20 de
+dezembro de 2019 e Certidão de Tempo de Contribuição nº 734/2000
+de REGINA CELIA DA SILVA FIGUEIREDO homologada pela Secre-
+taria de Estado de Educação.
+PROCESSO N° SEI-040014/032579/2025 - AUTORIZO a compensa-
+ção previdenciária após análise documental de acordo com a Lei Fe-
+deral 9.796 de 06 de maio de 1999 e o Decreto nº 10.188 de 20 de
+dezembro de 2019 e Certidão de Tempo de Contribuição nº 431/2011
+de CIRLENE FERREIRA DOS SANTOS homologada por este RPPS e
+publicada no Diário Oficial de 30 de agosto de 2012.
+PROCESSO N° SEI-040014/030958/2025 - AUTORIZO a compensa-
+ção previdenciária após análise documental de acordo com a Lei Fe-
+deral 9.796 de 06 de maio de 1999 e o Decreto nº 10.188 de 20 de
+dezembro de 2019 e Certidão de Tempo de Contribuição nº 381/2006
+de NILZA MARIA LOPES LEITE homologada por este RPPS.
+PROCESSO N° SEI-040014/030988/2025 - AUTORIZO a compensa-
+ção previdenciária após análise documental de acordo com a Lei Fe-
+deral 9.796 de 06 de maio de 1999 e o Decreto nº 10.188 de 20 de
+dezembro de 2019 e Certidão de Tempo de Contribuição nº
+1062/2000 de JOÃO CARLOS DA PAIXÃO SANTOS homologada pela
+Secretaria de Estado de Educação.
+PROCESSO N° SEI-040014/031080/2025 - AUTORIZO a compensa-
+ção previdenciária após análise documental de acordo com a Lei Fe-
+deral 9.796 de 06 de maio de 1999 e o Decreto nº 10.188 de 20 de
+dezembro de 2019 e Certidão de Tempo de Contribuição nº 174/2004
+de IVAN LUIZ DA COSTA homologada por este RPPS.
+PROCESSO N° SEI-040014/078626/2024 - A U TO R I Z O a compensa-
+ção previdenciária após análise documental de acordo com a Lei Fe-
+deral 9.796 de 06 de maio de 1999 e o Decreto nº 10.188 de 20 de
+dezembro de 2019 e Certidão de Tempo de Contribuição nº 11/2011
+de JOSÉ RUBEM FILHOTE FERREIRA homologada por este RPPS e
+publicada no Diário Oficial de 30 de novembro de 2011.
+DE 27/08/2025
+PROCESSO N° SEI-040014/040416/2025 - A U TO R I Z O a compensa-
+ção previdenciária após análise documental de acordo com a Lei Fe-
+deral 9.796 de 06 de maio de 1999 e o Decreto nº 10.188 de 20 de
+dezembro de 2019 e Certidão de Tempo de Contribuição nº 362/2018
+de LUCIA MARIA SANTOS MACIEL homologada por este RPPS e
+publicada no Diário Oficial de 06 de dezembro de 2018.
+Id: 2673847
+SECRETARIA DE ESTADO DE FAZENDA
+FUNDAÇÃO DE PREVIDÊNCIA COMPLEMENTAR
+DO ESTADO DO RIO DE JANEIRO
+ATO DO DIRETOR-PRESIDENTE
+DE 26/08/2025
+PORTARIA/RJPREV/PRE Nº 83/2025 - NOMEIA GABRIELA FONSE-
+CA VERÍSSIMO, matrícula: 091-9, com validade a contar de 01 de
+setembro de 2025, no cargo de provimento por livre admissão e de-
+missão de Secretária da Fundação de Previdência Complementar do
+Estado do Rio de Janeiro - RJPrev, previsto no anexo II do Decreto
+43.658/2012. Processo nº SEI-040015/000444/2025.
+Id: 2673486
+Secretaria de Estado de Desenvolvimento
+Econômico, Indústria, Comércio e Serviços
+ADMINISTRAÇÃO VINCULADA
+JUNTA COMERCIAL DO ESTADO DO RIO DE JANEIRO
+SUPERINTENDÊNCIA DE ADMINISTRAÇÃO E FINANÇAS
+ATO DO SUPERINTENDENTE
+PORTARIA JUCERJA/SUPAF Nº 47 DE 26 DE A G O S TO DE 2025
+INSTITUI A COMISSÃO DE GESTÃO E FISCA-
+LIZAÇÃO DO CONTRATO Nº 006/2025.
+O SUPERINTENDENTE DE ADMINISTRAÇÃO E FINANÇAS DA
+JUNTA COMERCIAL DO ESTADO DO RIO DE JANEIRO - JUCER-
+JA, no uso das atribuições que lhe foram conferidas no Decreto Es-
+tadual nº 48.123/22 e, na Portaria JUCERJA nº 2265, de 07 de fe-
+vereiro de 2025, considerando a Lei Federal nº 14.133/21, o Decreto
+Estadual nº 48.817/23, e o disposto nos autos do Processo Adminis-
+trativo nº SEI-220005/000225/2025;
+R E S O LV E:
+Art. 1º - Instituir a Comissão de Gestão e Fiscalização do Contrato nº
+006/2025, firmado com a empresa JM MAIS CENOGRAFIA E EVEN-
+TOS LTDA, objeto do Processo nº SEI-220005/000593/2025, ficando
+designados os servidores abaixo:
+I- Angela Teresa Canal, Assessora, Id. Funcional nº 5035372-1, como
+Gestora;
+II - Tatiana Dourado da Silva, Assistente II, Id. Funcional n° 5143352-
+4, como Gestora Substituta;
+III - Ricardo Souza de Menezes, Assessor, Id. Funcional n.º 5152729-
+4, como Fiscal Administrativo;
+IV - Maurício Brandão Carneiro, Engenheiro, Id. Funcional nº
+2697381-2, como Fiscal Técnico;
+V - Deivid Alves Vieira, Secretário II, Id. Funcional n.º 5126795-0, co-
+mo Fiscal substituto.
+Art. 2º - Aos gestores e fiscais cabem as atividades previstas no De-
+creto Estadual nº 48.817, de 24 de novembro de 2023.
+Art. 3º - Os servidores designados deverão acompanhar e fiscalização
+a execução dos contratos e seus aditivos, bem como manter o Gestor
+do contrato atualizado sobre o desempenho da execução contratual,
+praticando todos os atos inerentes ao exercício da função.
+Art. 4º - Os gestores e fiscais designados como substitutos deverão
+acompanhar a execução contratual quando os titulares estiverem au-
+sentes, seja por férias, licenças, ou demais justificativas, devendo, ain-
+da, os titulares registrarem as ocorrências da contratada em instru-
+mento próprio de fiscalização, a fim de facilitar o acompanhamento
+pelos suplentes.
+Art. 5º - Estabelecer que a Superintendência de Administração e Fi-
+nanças, e a Assessoria de Licitações, Contratos, Convênios e Afins,
+sempre que solicitadas, deverão prestar informações necessárias à
+Comissão, sobretudo para a disponibilização dos processos, contratos
+e demais instrumentos necessários.
+Art. 6º - Esta Portaria entrará em vigor na data de sua publicação.
+Rio de Janeiro, 26 de agosto de 2025
+LINCOLN NUNES MURCIA
+Superintendente de Administração e Finanças
+Id: 2673874
+Secretaria de Estado de Polícia Militar
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+ATO DO SECRETÁRIO
+RESOLUÇÃO SEPM Nº 7780 DE 26 DE AGOSTO DE 2025
+DISPÕE SOBRE A ALTERAÇÃO DA RESOLU-
+ÇÃO SEPM Nº 6701, DE 01 DE DEZEMBRO
+DE 2024 DA COMISSÃO RESPONSÁVEL PE-
+LO PROCESSO SELETIVO DOS PROFISSIO-
+NAIS VETERANOS QUE IRÃO ATUAR NO ÂM-
+BITO DA SECRETARIA DE ESTADO DE POLÍ-
+CIA MILITAR DO ESTADO DO RIO DE JANEI-
+RO REALIZADO PELA PRESTAÇÃO TAREFA
+POR TEMPO CERTO (PTTC).
+O SECRETÁRIO DE ESTADO DE POLÍCIA MILITAR DO ESTADO
+DO RIO DE JANEIRO , no uso de suas atribuições legais, tendo em
+vista o que dispõe os termos da Lei 5.271, de 25 de junho de 2008,
+Resolução SEPM nº 5491, de 16 de fevereiro de 2024 e atendendo a
+proposta da Diretoria de Pessoal (DP/PMERJ). Processo nº SEI-
+350009/020510/2025.
+CONSIDERANDO:
+- a Lei 5.271, de 25 de junho de 2008, que versa sobre a contratação
+de PM veteranos para exercer tarefa por tempo certo, a Resolução
+SEPM nº 5.491, de 16 de fevereiro de 2024 e a Portaria PMERJ n.º
+954, de 28 de novembro de 2018, que regulamenta, no âmbito da Po-
+lícia Militar do Estado do Rio de Janeiro, a prestação de Tarefa por
+Tempo Certo;
+- o art. 7.º, da Resolução SEPM nº 5491, de 16 de fevereiro de 2024,
+o qual dispõe sobre a composição da Comissão de Avaliação e Se-
+leção do certame do Tarefa Tempo Certo, que deverá ser composta
+nove membros: Subchefe da DP/PMERJ, Chefe da Seção responsável
+pela gestão de “Tarefa Tempo Certo” além de mais 7 (sete) membros
+transitórios.
+- que a Comissão em casos alterações em sua composição, deverá
+ser republicada.
+R E S O LV E :
+Art.1º - Fica designado, a contar de 20 de maio de 2025, a servidora
+Erika Monteiro Cardoso, ID.Funcional 5014703-0 em substituição ao
+3º SGT PM RG 89.162 Patricia Maria Rodrigues de Souza Gomes,
+ID. Funcional 4383065-0; a contar de 10 de junho de 2025 o servidor
+Celso Luiz Camilo dos Santos, ID.Funcional 5075779-2 em substitui-
+ção ao 1º Ten PM RR RG 43.624 Alfredo Martins Ruiz, ID. Funcional
+2417884-5 e a servidora Claudia Maria Seraphim Alexandre, ID. Fun-
+cional 5158235-0 em substituição a servidora Lucia Maria Vianna
+Francez Costa de Melo, ID. Funcional 2493664-2 e a contar de 25 de
+agosto de 2025 Carlos Eduardo Barros Rangel, ID. Funcional n.º
+5016136-9, em substituição a servidora Lays Nods de Souza Barros,
+ID Funcional n.º 51146282, para compor a comissão disposta na Re-
+solução SEPM nº 6.701, de 01 de dezembro de 2024, responsável
+pelo processo seletivo dos profissionais veteranos que irão atuar no
+âmbito da Secretaria de Estado de Polícia Militar do Estado do Rio de
+Janeiro, realizado pela Prestação de Tarefa por Tempo Certo (PTTC),
+passando a referida Comissão ter a seguinte composição:
+Nome completo CPF ID Funcional
+Glauco Schorcht 071.168.017-58 2447693-5
+Cid do Nascimento Loyola 038.616.647-12 2 3 11 2 5 5 - 7
+Carlos Eduardo Barros Rangel 086.999.787-40 5016136-9
+Celso Luiz Camilo dos Santos 738.966.757-53 5075779-2
+Renata Portela Rocha 093.181.487-12 4383062-5
+Claudia Maria Seraphim Alexandre 013.403.857-67 5158235-0
+Erika Monteiro Cardoso 131.855.667-85 5014703-0
+Damiana Braga de Santana 082.127.397-32 5102470-5
+Jessica Silveira Guedes 1 3 2 . 3 0 11 4 7 - 1 0 5 11 0 0 4 1 - 0
+Art. 2º Permanecem vigentes todas as demais disposições contidas na Resolução aludida no Art.1º
+Art. 3º - Esta Resolução entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Rio de Janeiro, 26 de agosto de 2025
+MARCELO DE MENEZES NOGUEIRA
+Secretário de Estado de Polícia Militar
+Id: 2673689
+ATO DO SECRETÁRIO
+RESOLUÇÃO SEPM Nº 7783 DE 27 DE AGOSTO DE 2025
+DESIGNA SERVIDORES PA R A SUBSTITUI-
+ÇÃO EM DE GESTOR SUBSTITUTO ÀS ATIVI-
+DADES GERENCIAIS, TÉCNICAS E OPERA-
+CIONAIS QUE COMPÕEM O PROCESSO DE
+CONTRATAÇÃO, E DÁ OUTRAS PROVIDÊN-
+CIAS.
+O SECRETÁRIO DE ESTADO DE POLÍCIA MILITAR , no exercício de
+suas atribuições legais,
+CONSIDERANDO:
+- o disposto no Decreto Estadual nº 45.600, de 16 de março de 2016,
+que regulamenta a gestão e a fiscalização das contratações da Ad-
+ministração Pública
+- o Proc. SEI-350006/008355/2025, o qual indica servidores para a
+substituição de Gestor substituto às atividades gerenciais, técnicas e
+operacionais que compõem o processo de contratação.
+R E S O LV E :
+Art. 1º - Fica designado, a contar de 26 de agosto de 2025, o ser-
+vidor CB PM RG 107.675 LUÍS FILIPE GOUVEIA AZEREDO,ID
+FUNC.5100995-1,em substituição,CB PM RG 107.390 JOSÉ CARLOS
+BENTO MONTEIRO, ID FUNC.4454302-6, lotado na DLP como Ges-
+tor Substituto dos instrumentos contratuais: n° 411-412-413/2020,
+9527/2019, 013/2023, 014/2023, Termo de Adesão, oriundo dos Pro-
+cessos: SEI-350192/001308/2023,SEI-350074/001926/2020,SEI-
+350192/001382/2022,SEI-350192/001366/2022,SEI-
+350192/000952/2023,SEI-350192/001308/2023, SEI-
+350192/001310/2023, firmado com as seguintes empresas: ENEL,
+LIGHT S/A, CEG, CEG-RIO, ENERGISA, CERCI e CERAL.
+Art. 2º - O(s) servidor(es) designado(s) no artigo anterior deverá
+acompanhar e fiscalizar a execução do contrato e seus aditivos, bem
+como manter os Gestores do contrato atualizados sobre o desempe-
+nho da execução contratual, praticando, para isso, todos os atos ine-
+rentes ao exercício dessa função, incluindo, além daqueles elencados
+no art. 13 do Decreto Estadual nº 45.600, de 16 de março de 2016:
+I - a atestação das notas fiscais relativas ao contrato, por 2 (dois)
+servidores membros da comissão;
+II - encaminhamento, ao Gestor do contrato, de toda documentação
+comprobatória da boa execução e o termo de recebimento do serviço,
+bem como os relatórios circunstanciados contendo as alterações ob-
+servadas (se houver), respeitados os prazos contratuais e legais, jun-
+tamente com respectivas notas fiscais;
+III - prestação, ao Gestor, de todas as informações relativas à exe-
+cução do contrato que o mesmo necessitar;
+IV - comunicação, ao Gestor do contrato, de todas as alterações na
+execução do ajuste contratual para fins de adoção das providências
+administrativas cabíveis, o mais breve possível;
+V - efetuar a glosa nas notas fiscais por eventuais falhas durante a
+execução do contrato;
+VI - abrir processo de liquidação com as notas fiscais relativas ao ser-
+viço, conforme previsão contratual, inserindo um despacho relatando
+todas as falhas observadas na execução contratual de modo a mu-
+niciar o gestor com as informações necessárias a fim de notificar a
+contratada visando à apuração e a aplicação das devidas sanções ad-
+ministrativas por descumprimento de contrato.
+Art. 3º - Fica sob a responsabilidade da UNIDADE BENEFICIADA pe-
+lo contrato:
+I - manter, sempre, no mínimo, 2 (dois) membros da comissão fis-
+calizadora em condições de analisar, conferir, atestar ou validar a
+atestação das notas fiscais do contrato relacionado;
+II - viabilizar, na hipótese de transferência do servidor designado como
+fiscal, que a apresentação na Unidade de destino, somente ocorra
+após a publicação em DOERJ do substituto. A indicação para subs-
+tituição de servidores designados como fiscais deverá ser feita junto a
+Diretoria de Licitações e Projetos - DLP, devendo o Gestor do Con-
+trato ser informado imediatamente.
+III - providenciar a substituição imediata de servidor designado que se
+achar impedido na forma do art.10 do Decreto Estadual nº 45.600, de
+16 de março de 2016, encaminhando a solicitação através de SEI à
+Diretoria de Licitações e Projetos - DLP.
+§1º - O agente público em situação de impedimento fica obrigado a
+comunicá-lo aos seus superiores imediatamente, a fim de que seja
+providenciada a designação de outro servidor.
+§2º - Enquanto não for publicada no DOERJ a substituição dos mem-
+bros desta comissão fiscal, ficam estes servidores vinculados à ativi-
+dade de acompanhamento e controle da execução contratual.
+Art. 4º - É de responsabilidade da comissão de fiscalização verificar
+se as notas fiscais estão sendo inseridas e tramitadas no endereço
+eletrônico sisnota.pmerj.rj.gov.br, conforme publicação em BOL PM nº
+213, de 19 de novembro de 2015, págs. 70 a 79, bem como fiscalizar
+o fiel cumprimento da confecção dos processos de liquidação.
+Art. 5º - Fica estabelecido que as comissões fiscalizadoras das Uni-
+dades beneficiadas, e os demais setores que estão envolvidos na
+execução do contrato, direta ou indiretamente, deverão disponibilizar
+todas as informações necessárias ao exercício das atribuições aqui
+delegadas, com a maior celeridade possível, e dar acesso às insta-
+lações e dependências onde ocorrer a prestação do serviço ou a en-
+trega de materiais, sempre que solicitado pelo Gestor ou por qualquer
+um dos membros de sua equipe de apoio.
+Art. 6º - As comissões fiscalizadoras das Unidades beneficiadas de-
+verão obter em arquivo próprio a cópia do Termo de Referência e do
+Instrumento Contratual, bem como municiar-se de informações acerca
+da consecução da fiscalização, na forma do art. 11, IV do Decreto
+Estadual nº 45.600, de 16 de março de 2016, bem como, em cum-
+primento do mandamento esculpido no BOL da PM nº 054 de 11 de
+julho de 2024 atentar à obrigatoriedade de realização do curso de
+Gestão e fiscalização de contratos.
+Art. 7º - Esta Resolução entrará em vigor na data de sua publicação,
+revogadas as disposições em contrário.
+Rio de Janeiro, 27 de agosto de 2025
+MARCELO DE MENEZES NOGUEIRA
+Secretário de Estado de Polícia Militar
+Id: 2673963
+
+## Pagina 10
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0031/U0030
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+ATO DO SECRETÁRIO
+DE 25.08.2025
+NOMEIA TEN CEL PM RG 58.798 - MARIO MARCELO DIAS BRA-
+SIL, Id. Funcional n.º 21542449, para ser nomeado no cargo em co-
+missão de Assistente, símbolo DAS-6, da Secretaria de Estado de Po-
+lícia Militar, anteriormente ocupado por CEL PM RG 58.839 - ROB-
+SON AROUCHE MARTINS CARDEAL - Id. Funcional n.º 21955735,
+com validade a contar de 22.08.2025. Processo n° SEI-
+350009/028167/2025.
+Id: 2673488
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+ATO DO SECRETÁRIO
+DE 25.08.2025
+NOMEIA TEN CEL PM RG 63.420 - ERIKA FABIANA DE ALCÂN-
+TA R A MONTEIRO, Id. Funcional n.º 24096814, para ser nomeada no
+cargo em comissão de Secretário Chefe, símbolo DAS-7, do Estado
+Maior Geral, da Subsecretaria de Gestão Administrativa, da Subsecre-
+taria Geral de Polícia Militar, da Secretaria de Estado de Polícia Mi-
+litar, anteriormente ocupado por TEN CEL PM RG 65.114 CHRISTO-
+PH CARVALHO BEZERRA LEITE, Id. Funcional nº 23673567, com
+validade a contar de 21.08.2025. Processo n° SEI-
+350009/028167/2025.
+Id: 2673489
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+ATO DO SECRETÁRIO
+DE 26.08.2025
+TRANSFERE para Reserva Remunerada da Polícia Militar, a pedido,
+com a remuneração a que faz jus, o TEN CEL PM ENF RG 56.601
+SIMONE RODRIGUES DE SOUZA DA COSTA , a contar de 25 de
+dezembro de 2024, com base no Art. 93, II e art. 96, III da Lei n.º
+443/1981 c/c art. 39 da Lei nº 9.537/21, a contar de 25 de dezembro
+de 2024. Processo nº SEI-350010/009703/2025.
+Id: 2673692
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+ATO DO SECRETÁRIO
+DE 27.08.2025
+DEMITE a pedido do serviço ativo da Corporação, de acordo com o
+inciso II do Art. 8º da Lei Estadual nº 9.535/2021, o 1° TEN PM MED
+TEMP RG 3/000211 PEDRO HENRIQUE FACHADA DE BARROS E
+AZEVEDO, a contar de 17 de junho de 2025. Processo nº SEI-
+3 5 0 0 1 0 / 0 2 11 9 4 / 2 0 2 5 .
+Id: 2673953
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+ATO DO SECRETÁRIO
+DE 27.08.2025
+TRANSFERE, para a Reserva Remunerada ex-officio, com a remune-
+ração que faz jus, o Tenente Coronel PM (RG 60.871) JORGE
+EDUARDO BARRETO DE ANDRADE FILHO , a contar de
+18.12.2024, nos termos do art. 93, II e art. 96, XI da Lei nº 443/1981
+c/c art. 39 §1º da Lei n.º 9537/21, e tendo em vista o que consta no
+Processo SEI-350090/001796/2024.
+Id: 2673964
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+APOSTILA DO SECRETÁRIO
+DE 27.08.2025
+ATO DE 25/08/2025 - PUBLICADO NO D.O. DE 27/08/2025 - Tendo
+em vista o que consta do Processo nº SEI-350009/027598/2025, fica
+retificado o Ato de nomeação de LUIS CLAUDIO HENRIQUES para
+exercer o cargo em comissão de Comandante, símbolo DAS-7, do
+Cento de Educação a Distância da Polícia Militar - CEADPM, se deu
+em vaga anteriormente ocupada por TEN CEL PM RG 60.883-
+ALEXANDRE MOREIRA SOARES, ID. funcional n.º 23181672 , man-
+tidos os demais termos.
+Id: 2674035
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+DESPACHO DO SECRETÁRIO
+DE 19/02/2025
+PROCESSO Nº SEI-350010/018312/2024 : Vistos e analisados os do-
+cumentos que instruem a presente Sindicância (Processo SEI-
+350010/018312/2024), DECIDE Não houve cometimento de infração
+penal de qualquer natureza, bem como qualquer ação que pudesse
+ser tipificada como Transgressão da Disciplina ou negligencia por par-
+te dos Policiais Militares e/ou Servidores Civis envolvidos na tramita-
+ção e execução das ações existentes no processo de pagamento da
+PARGO ENGENHARIA LTDA, CNPJ nº 40.174.930/0001-86, conforme
+Contrato Administrativo nº. 395/2022, referente à prestação de servi-
+ços de obra e reforma de Adequação do Banco de Sangue Trans-
+fusional do Hospital Central da Polícia Militar.
+Id: 2673645
+SECRETARIA DE ESTADO DE POLICIA MILITA R
+DESPACHO DO SECRETÁRIO
+DE 26.08.2025
+PROCESSO Nº SEI-420001/003845/2025 - AUTORIZO a cessão do
+MAJ PM RG 80.970 VINICIUS DE OLIVEIRA APOLINARIO, do qua-
+dro de pessoal da Secretaria de Estado de Polícia Militar, lotado na
+CPP, para a Secretaria de Estado de Governo/ Operação Segurança
+Presente, pelo período de 02 (dois) anos, nos termos do Decreto nº
+47/2018 c/c Decreto nº 48.259/2022.
+Id: 2673693
+SECRETARIA DE ESTADO DE POLÍCIA MILITA R
+D E S PA C H O S DO SECRETÁRIO
+DE 27.08.2025
+PROCESSO Nº SEI-420001/003937/2025 - AUTORIZO a cessão do
+3° SGT PM RG 94.316 LUIZ FERNANDO DINIZ PEREIRA, do quadro
+de pessoal da Secretaria de Estado de Polícia Militar, lotado na 1ª
+UPP/2° BPM para a Secretaria de Estado de Governo/ Operação Se-
+gurança Presente, pelo período de 02 (dois) anos, nos termos do De-
+creto 47/2018 c/c 48.259/2022.
+PROCESSO Nº SEI-350001/009832/2025 - AUTORIZO a disposição
+do 3º SGT PM RG 97.521 Alex Penco Espindola, do quadro de pes-
+soal da Secretaria de Estado de Polícia Militar, lotado no 28º BPM,
+para o Ministério Público do Estado do Rio de Janeiro a fim de exer-
+cer suas funções na Coordenadoria de Segurança e Inteligência, pelo
+período de 02 (dois) anos, nos termos do Decreto nº 47/2018 c/c De-
+creto nº 48.259/2022.
+PROCESSO Nº SEI-350001/011294/2025 - AUTORIZO a cessão da
+3° SGT PM RG 94.694 GILSELENE SANTOS SILVA, do quadro de
+pessoal da Secretaria de Estado de Polícia Militar, lotada na SSI, para
+o Ministério Público do Estado do Rio de Janeiro a fim de exercer
+suas funções na Coordenadoria de Segurança e Inteligência, pelo pe-
+ríodo de 02 (dois) anos, nos termos do Decreto nº 47/2018 c/c De-
+creto nº 48.259/2022.
+PROCESSO Nº SEI-350001/014323/2025 - AUTORIZO a disposição
+do CB PM RG 102.480 MAURICIO LINDOLPHO RIBEIRO DE OLI-
+VEIRA, do quadro de pessoal da Secretaria de Estado de Polícia Mi-
+litar, lotado no 20º BPM, para o Tribunal de Justiça do Estado do Rio
+de Janeiro a fim de exercer suas funções na Secretaria Geral de Se-
+gurança Institucional, pelo período de 02 (dois) anos, nos termos do
+Decreto nº 47/2018 c/c Decreto nº 48.259/2022.
+Id: 2673939
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+D E S PA C H O S DO SECRETÁRIO
+DE 27.08.2025
+PROCESSO Nº SEI-350009/028430/2025 - AUTORIZO , em conformi-
+dade com o Art. 1º, do Decreto nº 44.251, de 17 de junho de 2013, e
+Resolução SEPM nº 12, de 28 de janeiro de 2019.
+PROCESSO Nº SEI-350013/050005/2025 - AUTORIZO , em conformi-
+dade com o Art. 1º, do Decreto nº 44.251, de 17 de junho de 2013, e
+Resolução SEPM nº 12, de 28 de janeiro de 2019.
+PROCESSO Nº SEI-350009/028255/2025 - AUTORIZO , em conformi-
+dade com o Art. 1º, do Decreto nº 44.251, de 17 de junho de 2013, e
+Resolução SEPM nº 12, de 28 de janeiro de 2019.
+PROCESSO Nº SEI-350009/028253/2025 - AUTORIZO , em conformi-
+dade com o Art. 1º, do Decreto nº 44.251, de 17 de junho de 2013, e
+Resolução SEPM nº 12, de 28 de janeiro de 2019.
+PROCESSO Nº SEI-350009/028432/2025 - AUTORIZO , em conformi-
+dade com o Art. 1º, do Decreto nº 44.251, de 17 de junho de 2013, e
+Resolução SEPM nº 12, de 28 de janeiro de 2019.
+Id: 2673952
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+SUBSECRETÁRIA DE GESTÃO ADMINISTRATIVA
+D E S PA C H O S DO SUBSECRETÁRIO
+DE 27.08.2025
+PROCESSO Nº SEI-350019/017014/2025 - R AT I F I C O , com base no
+Decreto Estadual nº 43.576, de 07 de maio de. 2012, a transferência
+financeira Extraordinária da Diretoria de Finanças, UG. 266500, a
+3ºDPJM.
+PROCESSO Nº SEI-350023/019175/2025 - R AT I F I C O , com base no
+Decreto Estadual nº 43.576, de 07 de maio de. 2012, a transferência
+financeira Extraordinária da Diretoria de Finanças, UG. 266500, ao 12º
+BPM.
+DIRETORIA GERAL DE ADMINISTRAÇÃO E FINANÇAS
+D E S PA C H O S DO DIRETOR
+DE 25.08.2025
+*PROCESSO Nº SEI-350019/017014/2025 - A U TO R I Z O , com base no
+Decreto Estadual nº 43.576, de 07 de maio de. 2012, a transferência
+financeira Extraordinária da Diretoria de Finanças, UG. 266500, a
+3ºDPJM.
+*PROCESSO Nº SEI-350023/019175/2025 - A U TO R I Z O , com base no
+Decreto Estadual nº 43.576, de 07 de maio de. 2012, a transferência
+financeira Extraordinária da Diretoria de Finanças, UG. 266500, ao 12º
+BPM.
+*Omitidos no D.O.de 26.08.2025.
+Id: 2673856
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+D E S PA C H O DO ORDENADOR DE DESPESAS
+DE 26.08.2025
+PROCESSO Nº SEI-350006/003438/2025 - AUTORIZO A DESPESA,
+de acordo com o que estabelece o § 1º, do Artigo 82, da Lei Estadual
+Nº 287/79, em favor da empresa: AUTARQUIA COMERCIO E SAÚDE
+ANIMAL LTDA (CNPJ: 07.764.000/0001-07), referente a 2ª Contrata-
+ção da Aquisição de Arraçoamento Canino, oriundo da Ata de Regis-
+tro de Preço nº 0016/2025/510100-01, no valor de R$ 248.017,50 (du-
+zentos e quarenta e oito mil, dezessete reais e cinquenta centavos),
+equivalente a 7.665kg de ração para cães adultos, no valor de
+R$22,50 (vinte e dois reais e cinquenta centavos) por quilo, totalizan-
+do o valor de R$ 172.462,50 (cento e setenta e dois mil, quatrocentos
+e sessenta e dois reais e cinquenta centavos), e 3.285kg de ração
+para cães filhotes, no valor de R$23,00 (vinte e três reais) por quilo,
+totalizando o valor de R$ 75.555,00 (setenta e cinco mil, quinhentos e
+cinquenta e cinco reais).
+Id: 2673631
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+D E S PA C H O DO ORDENADOR DE DESPESAS
+DE 26.08.2025
+PROCESSO Nº SEI-350006/007898/2025 - AUTORIZO A DESPESA,
+de acordo com o que estabelece o § 1º, do Artigo 82, da Lei Estadual
+Nº 287/79, no valor total de R$ 2.040.862,39 (dois milhões, quarenta
+mil, oitocentos e sessenta e dois reais e trinta e nove centavos), em
+favor da empresa JETFLY REVENDEDORA DE COMBUSTIVEIS LT-
+DA (CNPJ: 14.607.609/0002-19), referente ao Fornecimento de Que-
+rosene de Aviação (QAV-1) para atender as necessidades do Grupa-
+mento Aeromóvel da SEPM, Ata de Registro de Preços nº 24/2025 do
+Ministério da Justiça e Segurança Pública, gerenciada pela Coorde-
+nação-Geral de Administração da Polícia Federal.
+Id: 2673686
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+D E S PA C H O DO ORDENADOR DE DESPESAS
+DE 27.08.2025
+PROCESSO Nº SEI-350006/003548/2024 - AUTORIZA a despesa no
+valor total de R$ 1.506.368,26 (um milhão, quinhentos e seis mil tre-
+zentos e sessenta e oito reais e vinte e seis centavos), referente a
+prorrogação do prazo de vigência do Contrato nº. 134/2023, (index nº.
+59069399), com reajuste, que tem por objeto a prestação de serviços
+de manutenção preventiva e corretiva de postos de combustível, des-
+tinados ao atendimento das demandas da Secretaria de Estado de
+Polícia Militar, em favor da empresa RUMO INSTALAÇÕES MANU-
+TENÇÕES E REFORMAS EM GERAL E COMÉRCIO DE EQUIPA-
+MENTOS LTDA, inscrita no CNPJ sob o nº. 09.071.520/0001-60, ra-
+zão pela qual encaminho o presente processo a DIRETORIA DE LI-
+CITAÇÕES E PROJETOS para ciência e providências pertinentes.
+Id: 2674007
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+DIRETORIA GERAL DE ASSISTÊNCIA SOCIAL
+DESPACHO DO ORDENADOR DE DESPESAS SECUNDÁRIO
+DE 19.08.2025
+PROCESSO Nº SEI-350009/024249/2025 - Por delegação de compe-
+tência conferida pela Resolução SEPM nº 6556 de 15 de outubro de
+2024, RECONHECE a dívida de exercícios anteriores e A U TO R I Z O a
+execução da despesa no valor de R$ 50.000,00 (Cinquenta mil reais),
+referente ao Benefício Especial de Caráter Indenizatório, na hipótese
+de óbito no exercício e/ou em decorrência de suas funções, conforme
+artigo 1º, do Decreto Estadual nº 41.505, de 06 de outubro de 2008,
+a beneficiária do extinto 1º SGT PM RG 78.706 RENATO LOPES DE
+ALMEIDA, a ser pago: a Erika Henrique de Lima Lopes de Almeidas
+Matheus, CPF 104.775.207-74, no valor de R$ 50.000,00 (Cinquenta
+Mil Reais).
+Id: 2673676
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+DIRETORIA GERAL DE SAÚDE
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 22.08.2025
+PROCESSO Nº SEI-350010/005203/2024 - AUTORIZO a despesa
+referente à AQUISIÇÃO DE INSUMOS DE NUTRIÇÃO na forma
+do Edital - Pregão Eletrônico nº 10/2024 (SEPM) em favor da
+empresa: NUTRITIVA RJ PRODUTOS NUTRICIONAIS LTDA -
+CNPJ 51.151.880/0001-38, no valor de R$ 51.319,65 (cinquenta e um
+mil trezentos e dezenove reais e sessenta e cinco centavos).
+Id: 2673778
+DIRETORIA DE VETERANOS E PENSIONISTAS
+DESPACHOS DA DIRETORA
+DE 26 08 2025
+PROCESSO Nº SEI-430001/002312/2024 - FIXADOS, com validade a
+contar de 13/04/2017, os proventos de ANTÔNIO CARLOS PEREIRA
+DA SILVA, 3ºSGT PM RG 62.977.
+PROCESSO Nº SEI-350090/000420/2025 - FIXADOS , com validade a
+contar de 21/04/2025, os proventos de ANTÔNIO CARLOS GUARA-
+NÁ, CEL PM RG 53.610.
+RETIFICAÇÕES
+D.O. DE 12.08.2025
+PÁGINA 9 - 1ª COLUNA
+DESPACHO DA DIRETORA
+DE 08.08.2025
+PROCESSO Nº SEI-140001/040168/2025
+Onde se lê:
+PROCESSO Nº SEI-140001/040168/2023
+Leia se:
+PROCESSO Nº SEI-140001/040168/2025
+D.O. DE 22.08.2025
+PÁGINA 9 - 2ª COLUNA
+DESPACHO DA DIRETORA
+DE 20.08.2025
+PROCESSO Nº SEI-350021/058803/2024
+Onde se lê:
+...CARLOS HORÁCIO ZEPPEGNO NETO
+Leia se:
+...CARLOS JOSÉ HORÁCIO ZEPPEGNO NETO
+Id: 2673627
+Secretaria de Estado de Polícia Civil
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+ATO DO SECRETÁRIO
+RESOLUÇÃO SEPOL Nº 834 DE 26 DE AGOSTO DE 2025
+DISPÕE SOBRE A REESTRUTURAÇÃO OR-
+GANIZACIONAL E AS ATRIBUIÇÕES DA DIVI-
+SÃO DE ROUBOS E FURTOS DE AUTOMÓ-
+VEIS, DELEGACIA DE ROUBOS E FURTOS
+DE AUTOMÓVEIS DA CAPITAL, DA DELEGA-
+CIA DE ROUBOS E FURTOS DE AUTOMÓ-
+VEIS DA BAIXADA FLUMINENSE E DA DELE-
+GACIA DE ROUBOS E FURTOS DE AUTOMÓ-
+VEIS DE NITERÓI, SÃO GONÇALO, ITABORAÍ
+E MARICÁ, BEM COMO SOBRE SUAS RES-
+PECTIVAS ÁREAS DE ATUAÇÃO E DÁ OU-
+TRAS PROVIDÊNCIAS.
+O SECRETÁRIO DE ESTADO DE POLÍCIA CIVIL DO RIO DE JA-
+NEIRO, no uso de suas atribuições legais, conferidas pelo parágrafo
+único do artigo 145 da Constituição do Estado do Rio de Janeiro, e
+CONSIDERANDO:
+- o disposto no Decreto nº 49.771, de 28 de julho de 2025, que re-
+estruturou a Divisão de Roubos e Furtos de Automóveis - DVRFA e
+criou as suas respectivas Delegacias;
+- a necessidade de regulamentar a estrutura administrativa e opera-
+cional das Unidades criadas, bem como estabelecer suas atribuições
+e delimitar suas áreas circunscricionais;
+- a necessidade de modernizar e reestruturar a atuação especializada
+no combate aos crimes de roubo e furto de veículos, conferindo maior
+eficácia e integração às ações investigativas em todo o Estado do Rio
+de Janeiro;
+- que a criação das novas Unidades possibilita a implementação de
+núcleos de inteligência regionalizados, voltados ao mapeamento e à
+desarticulação de redes locais de roubos e furtos de veículos e suas
+conexões com o crime organizado em âmbito estadual e interesta-
+dual;
+- que a descentralização das ações da atual Divisão de Roubos e
+Furtos de Automóveis - DVRFA permitirá maior agilidade, eficiência e
+abrangência nas investigações, com atuação mais próxima da reali-
+dade das comunidades afetadas; e
+- o que consta no Processo Eletrônico nº SEI-360003/000485/2025.
+R E S O LV E :
+I - DISPOSIÇÕES INICIAIS
+Art. 1º - A Divisão de Roubos e Furtos de Automóveis - DVRFA, su-
+bordinada ao Departamento-Geral de Polícia Especializada - DGPE,
+dirigida por ocupante de cargo efetivo de Delegado de Polícia do Es-
+tado do Rio de Janeiro, a quem compete o planejamento, a coorde-
+nação e o controle das atividades de Polícia Judiciária das Delegacias
+Policiais integrantes da sua Divisão.
+Parágrafo Único - O Delegado de Polícia designado para a função
+de Diretor da Divisão de Roubos e Furtos de Automóveis - DVRFA
+poderá acumular a função de Delegado Titular da Delegacia de Rou-
+bos e Furtos de Automóveis da Capital.
+II - DA ESTRUTURA ADMINISTRATIVA
+Art. 2º - Integram a Divisão de Roubos e Furtos de Automóveis -
+DVRFA, as seguintes Unidades:
+I - Delegacia de Roubos e Furtos de Automóveis da Capital - DRFA-
+CAP;
+II - Delegacia de Roubos e Furtos de Automóveis - Pátio Legal - DR-
+FA - P L ;
+III - Delegacia de Roubos e Furtos de Automóveis da Baixada Flu-
+minense - DRFA-BF;
+IV - Delegacia de Roubos e Furtos de Automóveis de Niterói, São
+Gonçalo, Itaboraí e Maricá - DRFA-NSG.
+Art. 3º - As Delegacias que integram a Divisão de Roubos e Furtos
+de Automóveis - DVRFA, órgãos estaduais de investigação e repres-
+são aos grupos criminosos voltados à prática dos crimes de roubo e
+furto de veículos, receptação, adulteração de sinais identificadores e
+delitos conexos, terão a seguinte estrutura administrativa:
+
+## Pagina 11
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0031/U0031/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+I - Gerenciamento Operacional:
+a) Delegado Titular;
+b) Delegado Assistente.
+II - Órgãos de Execução:
+a) Grupo de Investigação (GI);
+b) Grupo de Investigação Complementar (GIC);
+c) Seção de Suporte Operacional (SESOP);
+d) Seção de Inteligência Policial (SIP);
+e) Seção de Busca Eletrônica (SBE);
+f) Seção de Operações Policiais (SOP - Equipes TOPÁZIO);
+g) Seção de Aeronaves Remotamente Pilotadas (SARP).
+§ 1º - Diante da especificidade das atribuições, a Delegacia de Rou-
+bos e Furtos de Automóveis - Pátio Legal - DRFA-PL terá a sua es-
+trutura administrativa prevista em regulamentação própria.
+§ 2º - O Diretor da Divisão de Roubos e Furtos de Automóveis -
+DVRFA poderá estabelecer, por ato próprio, que as atribuições de um
+ou mais dos órgãos de execução previstos neste artigo sejam exer-
+cidas, de forma complementar ou subsidiária, por outras Delegacias
+integrantes da Divisão, quando verificada a ausência de estrutura téc-
+nica, operacional ou de pessoal nas Unidades recém-criadas.
+III - DAS ATRIBUIÇÕES DA DVRFA E DAS DELEGACIAS INTE-
+GRANTES
+Art. 4º - À Divisão de Roubos e Furtos de Automóveis - DVRFA com-
+pete:
+I - o planejamento, a coordenação, a orientação e a supervisão, em
+âmbito estadual, das atividades de polícia judiciária relativas à repres-
+são aos crimes de roubo e furto de veículos, bem como de seus des-
+dobramentos e delitos conexos;
+II - a promoção do intercâmbio de informações e a integração ope-
+racional entre as Delegacias subordinadas e as demais Unidades da
+Secretaria de Polícia Civil do Estado do Rio de Janeiro;
+III - a centralização, a sistematização e a análise de dados estatís-
+ticos, operacionais e de inteligência vinculados à sua área de atuação,
+com vistas à formulação de estratégias investigativas e preventivas;
+IV - a representação institucional da Secretaria de Polícia Civil do Es-
+tado do Rio de Janeiro nos assuntos relativos à repressão qualificada
+ao roubo e furto de veículos, quando determinado pelo Diretor do De-
+partamento-Geral de Polícia Especializada - DGPE;
+V - a proposição de medidas de padronização de procedimentos in-
+vestigativos, elaboração de relatórios e ações conjuntas entre as Uni-
+dades subordinadas, visando à eficiência na apuração dos delitos de
+sua especialidade;
+VI - o exercício de outras atribuições compatíveis com sua finalidade
+definidas em lei, regulamento ou ato normativo.
+Parágrafo Único - O Agente de Pessoal é subordinado administra-
+tivamente à Divisão de Roubos e Furtos de Automóveis - DVRFA e
+atuará nas Unidades que a integram, incumbindo-lhe a execução das
+atividades de gestão de pessoal, controle de frequência, apoio admi-
+nistrativo e demais atribuições correlatas às suas funções definidas
+em lei, regulamento ou ato normativo.
+Art. 5º Às Delegacias que integram a Divisão de Roubos e Furtos de
+Automóveis - DVRFA compete:
+I - a apuração de infrações penais relacionadas aos grupos crimino-
+sos voltados à prática do roubo e furto de veículos, receptação, adul-
+teração de sinais identificadores e delitos conexos, nos termos da le-
+gislação federal, estadual e administrativa vigentes;
+II - a prevenção e a repressão qualificada às organizações criminosas
+e demais grupos criminosos envolvidos em crimes patrimoniais de veí-
+culos;
+III - a articulação com órgãos do Poder Judiciário, Ministério Público e
+demais instituições do sistema de justiça e segurança pública;
+IV - a realização de operações policiais para repressão desses cri-
+mes;
+V - a produção de informações estratégicas e de inteligência policial;
+VI - o recebimento de flagrantes e representações dentro da espe-
+cialidade temática da Divisão;
+VII - a manutenção de intercâmbio informativo e operacional com as
+Polícias Estaduais e Federal, bem como com outros órgãos que exer-
+çam funções relacionadas à segurança pública, nos assuntos de sua
+competência.
+§ 1º - As hipóteses de prisões em flagrante relacionadas a roubos e
+furtos de veículos e delitos conexos serão apreciadas pela Autoridade
+Policial com atribuição, ratione loci, excetuadas as realizadas por po-
+liciais lotados nas Delegacias que integram a Divisão de Roubos e
+Furtos de Automóveis, bem como as com apresentação autorizada
+pelo Delegado Titular da Unidade, tendo em vista interesses e neces-
+sidades investigativas.
+§ 2º - Compete ao Delegado Titular das Delegacias que integram a
+Divisão de Roubos e Furtos de Automóveis - DVRFA o requerimento,
+à autoridade competente, da redistribuição ou a assunção de inves-
+tigações instauradas em outras unidades policiais, quando relaciona-
+das às atribuições especializadas da Divisão.
+IV - DA CIRCUNSCRIÇÃO E ÁREA DE ATUAÇÃO
+Art. 6º - A Delegacia de Roubos e Furtos de Automóveis da Capital -
+DRFA-CAP atuará em todo o Estado do Rio de Janeiro, exceto nas
+áreas de atribuição da Delegacia de Roubos e Furtos de Automóveis
+da Baixada Fluminense - DRFA-BF e da Delegacia de Roubos e Fur-
+tos de Automóveis de Niterói, São Gonçalo, Itaboraí e Maricá - DRFA-
+NSG.
+Parágrafo Único - O Diretor da Divisão de Roubos e Furtos de Au-
+tomóveis - DVRFA poderá determinar, por ato próprio, que a Delega-
+cia de Roubos e Furtos de Automóveis da Capital - DRFA-CAP atue
+nas áreas da Delegacia de Roubos e Furtos de Automóveis da Bai-
+xada Fluminense - DRFA-BF e da Delegacia de Roubos e Furtos de
+Automóveis de Niterói, São Gonçalo, Itaboraí e Maricá - DRFA-NSG,
+diante do interesse do serviço público e da conexão com investiga-
+ções que tramitem na DRFA-CAP.
+Art. 7º - A Delegacia de Roubos e Furtos de Automóveis da Baixada
+Fluminense - DRFA-BF terá atribuição para investigar os crimes, con-
+forme previsto no artigo 5º, ocorridos em toda a área correspondente
+aos municípios que integram o 3º Departamento de Polícia de Área
+(3º DPA).
+Art. 8º - A Delegacia de Roubos e Furtos de Automóveis de Niterói,
+São Gonçalo, Itaboraí e Maricá - DRFA-NSG terá atribuição para in-
+vestigar os crimes, conforme previsto no artigo 5º, ocorridos em toda
+a área correspondente aos municípios de Niterói, São Gonçalo, Ita-
+boraí e Maricá.
+Art. 9º - O acervo cartorário atualmente existente poderá ser redis-
+tribuído, por determinação do Diretor da DVRFA, entre as Delegacias
+integrantes da DVRFA, conforme a respectiva circunscrição territorial e
+área de atuação definida nesta Resolução, atinente à matéria de sua
+competência.
+V - DA ESTRUTURA OPERACIONAL E ATRIBUIÇÕES
+DAS SEÇÕES E GRUPOS
+Art. 10 - Às Gerências Operacionais compete:
+I - a representação da Unidade perante a Administração Pública e
+diante de Organismos da Sociedade Civil;
+II - a coordenação das rotinas administrativas e operacionais da Uni-
+dade;
+III - a execução de outras atribuições definidas em lei, regulamento ou
+ato normativo.
+Parágrafo Único - O Gerenciamento Operacional será exercido pelo
+Delegado Titular das Unidades integrantes da DVRFA, auxiliado pelo
+Delegado Assistente em todas as atribuições, coordenando diretamen-
+te os órgãos de execução, com as funções estabelecidas nos artigos
+seguintes.
+Art. 11 - Ao Grupo de Investigação (GI) compete:
+I - a participação em investigações, cumprindo diligências internas e
+realizando diligências externas para apuração de crimes de roubo e
+furto de veículos;
+II - a lavratura de registros de ocorrência e autos de prisão em fla-
+grante;
+III - o cumprimento de mandados judiciais e de medidas cautelares;
+IV - a condução de oitivas, interrogatórios e ações de campo deter-
+minadas pela Autoridade Policial;
+V - a prestação de apoio à realização de perícias e inspeções téc-
+nicas;
+VI - a execução de outras atribuições definidas em lei, regulamento
+ou ato normativo.
+Art. 12 - Ao Grupo de Investigação Complementar (GIC), chefiado
+preferencialmente por policial civil da classe Comissário de Polícia,
+compete:
+I - o acompanhamento dos inquéritos e dos procedimentos investiga-
+tórios em curso;
+II - a organização e a execução das operações de inteligência e vi-
+gilância;
+III - a atuação em investigações de maior complexidade ou especia-
+lizadas;
+IV - o acompanhamento da tramitação de processos administrativos e
+judiciais vinculados à Unidade;
+V - a elaboração de relatórios circunstanciados sobre suas ativida-
+des;
+VI - a execução de outras atribuições definidas em lei, regulamento
+ou ato normativo.
+Art. 13 - À Seção de Suporte Operacional (SESOP) compete:
+I - o recebimento, o protocolo e a tramitação dos expedientes oriun-
+dos de outros órgãos;
+II - o atendimento e a resposta a todos os ofícios e memorandos sus-
+citados;
+III - a expedição, a distribuição, o envio, a entrega e o controle de
+todo o expediente da Unidade, bem como o arquivamento, em pasta
+própria, dos expedientes administrativos, tais como:
+a) talonários de notas de débito;
+b) expedientes recebidos;
+c) guias de recolhimento, depósitos judiciais, FUNESPOL e DARJ;
+d) guias de remessa;
+e) arquivos de procedimentos investigatórios dependentes de informa-
+ções complementares para abertura de inquérito policial;
+f) autos de infração;
+g) autos de apreensão, entrega, depósito, inutilização de bens e va-
+lores, e matérias afins.
+IV - o recebimento, o protocolo e a tramitação de petições e reque-
+rimentos;
+V - a autuação de inquéritos policiais, sindicâncias sumárias e pro-
+cedimentos administrativos relacionados às infrações de menor poten-
+cial ofensivo;
+VI - o recebimento e a devida guarda de objetos apreendidos pela
+Unidade junto ao expediente de encaminhamento, com a emissão de
+guia de remessa e posterior envio ao destino;
+VII - o recebimento de valores relativos a fianças prestadas, com o
+preenchimento das respectivas guias e o imediato recolhimento;
+VIII - o recebimento de autos de infração lavrados pelo GI e de mul-
+tas administrativas pagas, com o preenchimento das respectivas guias
+e o imediato recolhimento;
+IX - a lavratura de notas de débito, em caso de não pagamento da
+multa administrativa, após o decurso de 5 (cinco) dias da lavratura do
+auto de infração, quando decorrente de infração administrativa atinen-
+te à matéria de competência da Unidade;
+X - o recebimento, a identificação e a inserção, no sistema informa-
+tizado adequado, de todas as peças e documentos recebidos, com a
+respectiva tramitação ao policial responsável;
+XI - a execução de outras atribuições previstas em lei, regulamento
+ou ato normativo.
+Art. 14 - À Seção de Inteligência Policial (SIP) compete:
+I - a apresentação à Autoridade Policial Titular de relatório quinzenal
+sobre os fatos de interesse da Unidade ocorridos em sua área de
+atuação;
+II - a manutenção de contato periódico com as demais Unidades Po-
+liciais, com o objetivo de atualização do banco de dados e difusão de
+informações pertinentes à área específica da Unidade Especializada;
+III - a manutenção de contato periódico com as agências de inteli-
+gência das forças de segurança do Estado do Rio de Janeiro e outras
+agências de inteligência, para fins de atualização do banco de dados
+da Unidade;
+IV - o preenchimento dos mapas de estatísticas oriundos dos órgãos
+competentes, com a providência de entrega no prazo estabelecido;
+V - a execução de atividades de identificação dactiloscópica e foto-
+gráfica, classificação, processamento, arquivamento e inserção de to-
+dos os informes e informações de caráter policial, tais como disque-
+denúncias e outros;
+VI - o zelo pela inviolabilidade das informações e informes registrados
+nos procedimentos investigatórios, com fornecimento apenas sob or-
+dens da autoridade policial competente a pessoas e/ou órgãos legal-
+mente autorizados;
+VII - a realização de prontuários e pesquisas por determinação da au-
+toridade policial competente;
+VIII - a pesquisa, a consulta, a prestação de informações, o mapea-
+mento e a elaboração de estatísticas gerais sobre fatos vinculados a
+ocorrências policiais, conforme determinação da autoridade policial
+competente;
+IX - a análise de dados recolhidos em investigações policiais ou em
+outras fontes, com cadastro e arquivamento digital de informações e
+informes, tais como:
+a) fatos policiais;
+b) indiciados e suspeitos em geral;
+c) sinais particulares;
+d) modus operandi;
+e) locais e áreas críticas ou sensíveis.
+X - a coleta e a análise de dados estatísticos inerentes às atribuições
+da Unidade;
+XI - a criação da memória da Unidade por meio de recursos espe-
+cializados em fotografia e cinematografia, registrando e ilustrando os
+atos de polícia judiciária nela desenvolvidos;
+XII - a confecção e o encaminhamento de pedidos de antecedentes
+criminais por determinação da autoridade competente;
+XIII - a execução de outras atribuições definidas em lei, regulamento
+ou ato normativo.
+Art. 15. À Seção de Busca Eletrônica (SBE) compete:
+I - a realização e a operacionalização das interceptações telefônicas,
+com a confecção de relatórios durante o respectivo procedimento,
+bem como as degravações necessárias às investigações em anda-
+mento;
+II - a realização de extrações e a análise de dados telemáticos au-
+torizados judicialmente;
+III - a realização de operações de inteligência, vigilância e monitora-
+mento eletrônico, com o emprego de ferramentas de monitoramento e
+rastreamento digital de alvos investigados;
+IV - o fornecimento de suporte eletrônico e tecnológico às investiga-
+ções;
+V - a manutenção da segurança e o controle de acesso às informa-
+ções obtidas;
+VI - a execução de outras atribuições definidas em lei, regulamento
+ou ato normativo.
+Art. 16 - À Seção de Operações Policiais (SOP - Equipes TOPÁZIO)
+compete:
+I - a atuação em diligências de alto risco, em apoio aos demais se-
+tores investigativos e a outras Delegacias Policiais;
+II - o auxílio no cumprimento de mandados de busca e apreensão,
+bem como de mandados de prisão expedidos no bojo de investiga-
+ções em trâmite na Unidade Especializada;
+III - a garantia da segurança física das equipes durante ações exter-
+nas;
+IV - a operação em ações de inteligência de campo;
+V - a manutenção de treinamento tático constante dos integrantes;
+VI - a execução de outras atribuições definidas em lei, regulamento
+ou ato normativo.
+Art. 17 - À Seção de Aeronaves Remotamente Pilotadas - SARP
+compete:
+I - o emprego de drones e demais equipamentos aéreos no suporte
+às investigações em trâmite na Unidade, com registro de imagens pa-
+ra subsidiar relatórios, perícias e ações táticas;
+II - a atuação em missões de reconhecimento, vigilância e monitora-
+mento de áreas críticas;
+III - o auxílio no cumprimento de mandados de busca e apreensão,
+bem como de mandados de prisão temporária ou preventiva expedi-
+dos no bojo de investigações em trâmite na Unidade;
+IV - a elaboração de planos de voo e a garantia da manutenção dos
+equipamentos;
+V - a observância aos protocolos legais e normativos aplicáveis às
+operações aéreas;
+VI - a execução de outras atribuições definidas em lei, regulamento
+ou ato normativo.
+§ 1º - Compete ao Diretor da DVRFA, por ato próprio, disciplinar a
+composição e o funcionamento da Seção de Aeronaves Remotamente
+Pilotadas (SARP), o que deverá ser observado e replicado pelas Uni-
+dades que compõem a Divisão.
+
+## Pagina 12
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0031/U0032
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+§ 2º - A Seção de Aeronaves Remotamente Pilotadas tem por fina-
+lidade a utilização de Aeronaves Remotamente Pilotadas (ARPs) co-
+mo instrumento estratégico no enfrentamento dos crimes de roubo,
+furto e receptação de automóveis, bem como no apoio às atividades
+operacionais e investigativas da Secretaria de Estado de Polícia Civil
+do Rio de Janeiro, visando ampliar a capacidade de monitoramento,
+coleta de provas, planejamento tático e assegurar maior proteção aos
+policiais em campo.
+§ 3º - A Seção de Aeronaves Remotamente Pilotadas (SARP) é su-
+bordinada administrativamente à Unidade e tem sua coordenação de-
+finida pelo respectivo Delegado Titular, competindo a este a designa-
+ção das missões, a definição das diretrizes de atuação e a supervisão
+dos procedimentos adotados pelos operadores de aeronaves remota-
+mente pilotadas.
+Art. 18 - Os policiais civis cumprirão as competências estabelecidas
+nos artigos anteriores por determinação do Delegado Titular ou, após
+delegação deste, por determinação do Delegado Assistente ou do
+Chefe do Grupo de Investigação Complementar (GIC) da Unidade.
+VI - DAS ATRIBUIÇÕES FUNCIONAIS ESPECÍFICAS
+Art. 19 - São atribuições do Delegado Titular:
+I - a coordenação e a supervisão de todas as atividades da Unida-
+de;
+II - a presidência de reuniões periódicas com o efetivo e com repre-
+sentantes de órgãos parceiros;
+III - o estabelecimento de metas operacionais e o acompanhamento
+dos respectivos resultados;
+IV - a redistribuição ou a delegação de procedimentos investigatórios,
+quando necessário;
+V - a representação da Unidade perante instituições públicas e pri-
+vadas;
+VI - a execução de outras atribuições definidas em lei, regulamento
+ou ato normativo.
+Art. 20. São atribuições do Delegado Assistente:
+I - a substituição do Delegado Titular em suas ausências e impedi-
+mentos;
+II - a colaboração com a direção dos trabalhos investigativos e ad-
+ministrativos;
+III - a supervisão direta dos setores técnico-operacionais;
+IV - a elaboração de minutas e relatórios destinados ao Titular da Uni-
+dade;
+V - o desenvolvimento de outras atividades atribuídas pelo Delegado
+Ti t u l a r ;
+VI - a execução de outras atribuições definidas em lei, regulamento
+ou ato normativo.
+VII - DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+Art. 21 - O Diretor da DVRFA poderá, mediante ato próprio, instituir
+Grupos Temporários de Investigação voltados a alvos ou operações
+específicas, com prazo determinado de atuação.
+Art. 22 - A Subsecretaria de Gestão Administrativa dotará a DVRFA,
+bem como as Delegacias de Roubos e Furtos de Automóveis, dos re-
+cursos humanos e materiais necessários à sua efetiva implantação.
+Art. 23 - Caberá à Subsecretaria de Planejamento e Integração Ope-
+racional o acompanhamento técnico da implementação desta Resolu-
+ção, com vistas à adequada integração da DVRFA ao sistema esta-
+dual de segurança pública e ao ciclo de inteligência.
+Art. 24 - As normas e fluxos operacionais internos da DVRFA serão
+definidos em ato próprio do Diretor da Divisão, observadas as dire-
+trizes da SEPOL.
+Art. 25 - Os casos omissos serão resolvidos pelo Subsecretário de
+Planejamento e Integração Operacional, no que couber.
+Art. 26 - Esta Resolução entra em vigor na data de sua publicação,
+ficando revogadas as disposições em contrário, especialmente as Re-
+soluções SSP nº 201/1998 e nº 754/2005, naquilo em que forem in-
+compatíveis com o presente ato.
+Rio de Janeiro, 26 de agosto de 2025
+FELIPE CURI
+Secretário de Estado de Polícia Civil
+Id: 2673868
+SECRETARIA DE ESTADO DA POLÍCIA CIVIL
+ATO DO SECRETÁRIO
+DE 25/08/2025
+EXONERA, a pedido, o servidor BRENNO DE OLIVEIRA CALDEIRA
+DA SILVA, Investigador Policial - 3ª classe, Id. Funcional 5.146.977-4,
+a contar de 19 de dezembro de 2024, com fundamento no artigo 62,
+inciso I, do Regulamento do Estatuto dos Funcionários Públicos Civis
+do Poder Executivo do Estado do Rio de Janeiro, aprovado pelo De-
+creto nº 2.479/1979. Processo nº SEI-360011/001550/2025.
+Id: 2673696
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+APOSTILA DO SECRETÁRIO
+DE 21.08.2025
+ATO DE 15.03.2022 - PUBLICADO NO D.O. DE 21.03.2022 - Te n d o
+em vista o que consta do Processo Administrativo nº SEI-
+360008/002410/2025, FICA RETIFICADA a promoção por ato de bra-
+vura, concedida por meio dos Processos Administrativos nº SEI-
+360074/000156/2021 e SS 405-00225/2021, considerando o que cons-
+ta no processo judicial nº 0033839.21.2017.8.19.0000, bem como a
+orientação traçada por meio do Ofício PGE/PG04/MACN nº 02/2018 e
+do Ofício complementar PGE/PG04/MACN nº /2020, do servidor RA-
+FAEL BERNARDINO ABUD , Oficial de Cartório Policial, ID Funcional
+nº 4.385.782-5, Classe Comissário de Polícia, do Quadro Permanente
+da Polícia Civil do Estado do Rio de Janeiro, concedendo-lhe o acrés-
+cimo de 20% (vinte por cento), do vencimento do cargo efetivo, uma
+vez que ocupa a última classe de sua categoria funcional, na forma
+do art. 3º, da Lei nº 423/81, a que se refere o ato ora apostilado, com
+validade a contar de 21/03/2022, mantidos os demais termos.
+Id: 2673575
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+APOSTILA DO SECRETÁRIO
+DE 25.08.2025
+ATO DE 15.03.2022 - PUBLICADO NO D.O. DE 21.03.2022 - Te n d o
+em vista o que consta do Processo Administrativo nº SEI-
+360008/002410/2025, FICA RETIFICADA a promoção por ato de bra-
+vura, concedida por meio dos Processos Administrativos nº SEI-
+360232/000054/2021 e SS 946-00235/2021, considerando o que cons-
+ta no processo judicial nº 0033839.21.2017.8.19.0000, bem como a
+orientação traçada por meio do Ofício PGE/PG04/MACN nº 02/2018 e
+do Ofício complementar PGE/PG04/MACN nº /2020, do servidor RA-
+FAEL BERNARDINO ABUD , Oficial de Cartório Policial, ID Funcional
+nº 4.385.782-5, à Classe Comissário de Polícia, a que se refere o ato
+ora apostilado, com validade a contar de 21/03/2022, mantidos os de-
+mais termos.
+Id: 2673574
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+APOSTILA DO SECRETÁRIO
+DE 26.08.2025
+ATO DE 12.11.2022 - PUBLICADO NO D.O. DE 30.01.2023 - Te n d o
+em vista o que consta do Processo Administrativo nº SEI-
+360008/002398/2025, FICA RETIFICADA a promoção por ato de bra-
+vura, concedida por meio do Processo Administrativo nº SEI-
+E09/188/124/2018, considerando o que consta no processo judicial nº
+0033839.21.2017.8.19.0000, bem como a orientação traçada por meio
+do Ofício PGE/PG04/MACN nº 02/2018 e do Ofício complementar
+PGE/PG04/MACN nº /2020, do servidor URBANO FRANCISCO DE
+MELO JUNIOR , Inspetor de Polícia, ID Funcional nº 565.988-4, à
+Classe Comissário de Polícia, a que se refere o ato ora apostilado,
+com validade a contar de 30/01/2023, mantidos os demais termos.
+Id: 2673572
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+APOSTILA DO SECRETÁRIO
+DE 26.08.2025
+ATO DE 08.12.2023 - PUBLICADO NO D.O. DE 22.12.2023 - Te n d o
+em vista o que consta do Processo Administrativo nº SEI-
+360008/002398/2025, FICA RETIFICADA a promoção por ato de bra-
+vura, concedida por meio dos Processos Administrativos nº SEI-
+360306/000259/2020 e nº SEI-SS-405-00112/2020, considerando o
+que consta no processo judicial nº 0033839.21.2017.8.19.0000, bem
+como a orientação traçada por meio do Ofício PGE/PG04/MACN nº
+02/2018 e do Ofício complementar PGE/PG04/MACN nº /2020, do
+servidor URBANO FRANCISCO DE MELO JUNIOR , Inspetor de Po-
+lícia, ID Funcional nº 565.988-4, Classe Comissário de Polícia, do
+Quadro Permanente da Polícia Civil do Estado do Rio de Janeiro,
+concedendo-lhe o acréscimo de 20% (vinte por cento), do vencimento
+do cargo efetivo, uma vez que ocupa a última classe de sua categoria
+funcional, na forma do art. 3º, da Lei nº 423/81, a que se refere o ato
+ora apostilado, com validade a contar de 22/12/2023, mantidos os de-
+mais termos.
+Id: 2673573
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+DESPACHO DO SECRETÁRIO
+DE 21/08/2025
+PROCESSO Nº SEI-360011/003938/2025 - CONCEDO ABONO PER-
+MANÊNCIA ao servidor CARLOS DE SOUZA GRAÇA ARANHA, Ofi-
+cial de Cartório Policial classe comissário, Id. Funcional nº 2.911.681-
+3, a contar de 08 de abril de 2025, nos termos do artigo 40, §19 da
+CRFB, c/c artigo 89, § 21, da CERJ, acrescido pela EC 90/21, c/c
+artigo 19, da LC nº 195/2021, tendo em vista ter preenchido os re-
+quisitos do art. 1º, II, “a”, da LC nº 51/1985.
+Id: 2673910
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+D E S PA C H O DO SECRETÁRIO
+DE 26/08/2025
+PROCESSO Nº SEI-360022/000048/2025 - DEFERE , ao servidor TIA-
+GO LORENZO DE GODOY SPRINGER PITANGA, Oficial de Cartório
+de 2ª Classe, Id. Funcional nº 4.208.056-8, Licença Sem Vencimentos
+para o trato de interesse particular no período de 03/02/2025 a
+23/12/2026, com base na Manifestação da ASSEJUR, de índice
+106683225, na forma do artigo 19, inciso VIII, do Decreto-lei n.º
+220/75.
+Id: 2673704
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+D E S PA C H O DO SECRETÁRIO
+DE 26/08/2025
+PROCESSO N° SEI-360078/000073/2021 - Trata-se de recurso ao in-
+deferimento proferido no processo administrativo n° SEI-
+360038/000070/2021, Despacho de Publicação (index nº 26712595),
+relacionado ao p. administrativo, iniciado pelo servidor LEONARDO
+MOREIRA DIAS, Inspetor de Polícia, com posse em 04/05/2001, so-
+licitando a conversão de tempo especial em tempo comum para ob-
+tenção de benefícios previdenciários e, com isso, sejam recontados os
+triênios e reconhecido o direito à aposentadoria. Destarte, INDEFIRO
+o recurso, com base na Promoção SEPOL/ASSEJUR Nº237 - [JMCG]
+(index nº 106953135), da d. SEPOL/ASSEJUR, e na manifestação do
+SEPOL/SSGA/DGGP/DAP/SIPEN (index nº 108720608), cujos funda-
+mentos acolho integralmente como razões de decidir, diante da ine-
+xistência de direito superveniente, em razão do lapso temporal decor-
+rido desde a decisão original, e a persistência das condições que en-
+sejaram o indeferimento.
+Id: 2673718
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+D E S PA C H O DO SECRETÁRIO
+DE 26/08/2025
+PROCESSO Nº SEI-360001/000059/2022 - INDEFIRO o requerimento
+formulado por DENISE GONCALVES DE MORAES RIVERA, Perito
+Criminal de 1ª Classe aposentada, Id. Funcional 2.968.642-3, com ba-
+se no Despacho do SDV/DAP/DGGP de indíce 106578627 e na Pro-
+moção da Assejur/Sepol de índice 106993060, cujos fundamentos
+acolho como razões de decidir.
+Id: 2673702
+CORREGEDORIA GERAL
+DESPACHO DO CORREGEDOR GERAL
+DE 25/08/2025
+PROCESSO Nº SEI-360025/002589/2024 - S O B R E S TA o processo
+administrativo disciplinar E-09/007/0053/2015 (PAD 23/15) em relação
+aos servidores CLODOALDO ANTÔNIO PEREIRA, Inspetor de
+Polícia, matrícula 871.382-8 e PABLO BAFA FEIJOLO, Inspetor de
+Polícia, matricula 889.571-6 com fulcro no §2º do art.68 do Decreto-
+Lei nº 220/75 e artigo 24 § 2º, IV da Lei Complementar Estadual/RJ
+nº 204/2022.
+Id: 2673585
+CORREGEDORIA GERAL
+DESPACHO DO SUBCORREGEDOR GERAL
+DE 26/08/2025
+PROCESSO SEI-360025/00411 2 /2025 - A R Q U I VA a Sindicância
+Administrativa Disciplinar (SAD) nº 404-00246/2023, na forma do
+art. 30, parágrafo único, alínea "a” do REPC, aprovado pelo Decreto
+nº 3.044/80..
+Id: 2673912
+CORREGEDORIA GERAL
+DESPACHO DO SUBCORREGEDOR GERAL
+DE 25/08/2025
+PROCESSO SEI-360025/004 11 6 /2025- A R Q U I VA a Sindicância Ad-
+ministrativa Disciplinar (SAD) nº 404-00235/2024, instaurada em des-
+favor da Delegada de Polícia Karina Regufe Gonçalves Lopes, mat.
+889.654-0, ID 42183057 forma do art. 30, parágrafo único, alínea "d”
+do REPC, aprovado pelo Decreto nº 3.044/80..
+Id: 2673929
+CORREGEDORIA GERAL
+DESPACHO DO SUBCORREGEDOR GERAL
+DE 25/08/2025
+PROCESSO SEI-360025/004123/2025 - A R Q U I VA a Sindicância
+Administrativa Disciplinar (SAD) nº 404-00098/2020, na forma do
+art. 30, parágrafo único, alínea "e” do REPC, aprovado pelo Decreto
+nº 3.044/80.. Id: 2673938
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS
+SERVIÇO DE DIREITOS E VANTAGENS
+DESPACHO DO DIRETOR-GERAL
+DE 25/08/2025
+PROCESSO Nº SEI-360012/000722/2025 - JORGE RICARDO DUAR-
+TE MATTOS, Inspetor de Polícia (3ª classe), Id. Funcional 5.147.030-6
+- INDEFIRO o pleito do servidor por falta de amparo legal.
+Id: 2673701
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS
+SERVIÇO DE DIREITOS E VANTAGENS
+DESPACHOS DO DIRETOR-GERAL
+DE 15/08/2025
+PROC. Nº SEI-360006/002739/2025 - RENATA RODRIGUES CARNEI-
+RO- OFICIAL DE CARTÓRIO - ID 43857574 - período - base:
+24/09/2015 a 20/12/2020 - 03 meses
+CONCEDO A LICENÇA-PRÊMIO
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+DEPARTAMENTO GERAL DE PESSOAS
+SERVIÇO DE DIREITOS E VANTAGENS
+DESPACHOS DO DIRETOR-GERAL
+DE 21/08/2025
+PROC. Nº SEI-360012/000813/2025 - CONCEDO a THAIS DE CAR-
+VALHO SOARES ALVES, Inspetor de Polícia, Id. Funcional nº
+5.023.097-2, o 2º período de Licença- Aleitamento, compreendendo o
+período de: 19/08/2025 a 17/09/2025.
+PROC. Nº SEI-360008/002227/2025 - CONCEDO à servidora RAYS-
+SA FELIX SCALERCIO, Assistente II, Id. funcional nº 4.393.545-1, o
+período de 180 dias de licença-maternidade de 23/07/2025 a
+18/01/2026.
+PROC. Nº SEI-360014/000304/2025 - CONCEDO a HÉLIO SANTO-
+RO, Oficial de Cartório, Id. funcional nº 50772228, o afastamento por
+30 dias de licença-paternidade, de 07/08/2025 a 05/09/2025.
+Id: 2673675
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS
+SERVIÇO DE DIREITOS E VANTAGENS
+DESPACHO DO DIRETOR-GERAL
+DE 25/08/2025
+PROCESSO Nº SEI-360012/000740/2025 - A U TO R I Z O a alteração do
+nome do servidor para JULIO CESAR CARVALHO FAGUNDES, Id.
+Funcional nº 565.412-2, para fins de modificação em ato de investi-
+dura e demais cadastros na SEPOL.
+Id: 2673700
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS
+SERVIÇO DE DIREITOS E VANTAGENS
+D E S PA C H O DO DIRETOR-GERAL
+DE 25/08/2025
+PROCESSO Nº SEI-360011/006683/2025 - Marcello Azevedo dos
+Santos, Inspetor de Polícia, Id. Funcional nº 5.656.567 - 382 dias de
+efetivo exercício ao Exército Brasileiro/Ministério da Defesa. ANOTE-
+SE para fins de aposentadoria, os tempos de serviços de efetivos
+exercícios prestados aos órgãos acima citados.
+Id: 2673779
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS
+SERVIÇO DE DIREITOS E VANTAGENS
+D E S PA C H O S DO DIRETOR-GERAL
+DE 25/08/2025
+PROCESSO Nº SEI-360007/000845/2025 - LORRANA DA SILVA E
+SILVA, Técnico Policial de Necropsia, ID Funcional n° 5.155.818-1 -
+89 dias ao Município de Engenheiro Paulo Frontin.
+PROCESSO Nº SEI-360007/000845/2025 - LORRANA DA SILVA E
+SILVA, Técnico Policial de Necropsia, ID Funcional n° 5.155.818-1 -
+1.226 dias como contratado no Município de Mendes.
+ANOTE-SE para fins de aposentadoria, os tempos de serviço de efe-
+tivo exercício prestados aos órgãos acima citados.
+PROCESSO Nº SEI-360007/000845/2025 - LORRANA DA SILVA E
+SILVA, Técnico Policial de Necropsia, ID Funcional n° 5.155.818-1 -
+728 dias.
+ANOTE-SE para fins de aposentadoria, o tempo de serviço de efetivo
+exercício em atividades vinculadas ao regime da Previdência Social.
+DE 27/08/2025
+PROCESSO Nº SEI-360012/000820/2025 - HEITOR DE AZEVEDO
+VIEIRA, Investigador Policial, ID Funcional n° 4.395.244-5 - 286 dias
+como contratado na Prefeitura do Rio.
+PROCESSO Nº SEI-360014/000311/2025 - LUIZ CLAUDIO REIS TRA-
+LHÃO, Investigador Policial, ID Funcional n° 5.157.373-3 - 1.990 dias
+à Prefeitura de Maricá.
+ANOTE-SE para fins de aposentadoria, os tempos de serviço de efe-
+tivo exercício prestados aos órgãos acima citados.
+PROCESSO Nº SEI-360011/005386/2025 - JOÃO BATISTA PEREIRA
+NETO, Inspetor de Polícia, ID Funcional n° 2.939.449-0 - 2.632 dias.
+ANOTE-SE para fins de aposentadoria, o tempo de serviço de efetivo
+exercício em atividades vinculadas ao regime da Previdência Social.
+PROCESSO Nº SEI-360011/005386/2025 - JOÃO BATISTA PEREIRA
+NETO, Inspetor de Polícia, ID Funcional n° 2.939.449-0 - TO R N A
+SEM EFEITO o despacho de 28/03/2001, publicado no DOERJ nº 63
+de 02/04/2001, a averbação de tempo de serviço de 2.632 dias pres-
+tados em atividades vinculadas ao regime da Previdência Social, atra-
+vés do Processo nº E-09/01201/1702/2000, face o extravio do proces-
+so original.
+Id: 2673875
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS
+SERVIÇO DE DIREITOS E VANTAGENS
+D E S PA C H O S DO DIRETOR-GERAL
+DE 25/08/2025
+PROC. N° SEI-360007/006205/2025 - FERNANDO DA COSTA LES-
+TE, INVESTIGADOR POLICIAL (1ª classe), ID Funcional nº
+2.967.492-1 - período base: 26/11/2017 a 24/11/2022, 03 meses.
+PROC. N° SEI-360007/006211/2025 - RAFAEL DIAS MAYER, PERITO
+CRIMINAL (2ª classe), ID Funcional nº 4.329.482-0 - período base
+13/04/2020 a 11/04/2025, 03 meses.
+CONCEDO AS LICENÇAS-PRÊMIO
+DE 26/08/2025
+PROC. N° SEI-360168/000207/2022 - MARCOS ANTONIO AZEVEDO
+GERVOU, INSPETOR DE POLÍCIA (Comissário de polícia classe), ID
+Funcional nº 2.937.013-2 - período base: 18/03/2017 a 16/03/2022, 03
+meses.
+PROC. N° SEI-360025/003693/2025 - RAQUEL ALVES DE ALBU-
+QUERQUE, OFICIAL DE CARTÓRIO POLICIAL (4ª classe), ID Fun-
+cional nº 5.098.822-0 - período base: 05/02/2019 a 03/02/2024, 03
+meses.
+CONCEDO AS LICENÇAS-PRÊMIO
+PROC. N° SEI-360010/002316/2025 - CONCEDO à Thais Lane Melo
+de Carvalho Peixoto, Investigador Policial (3ª classe), Id. Funcional nº
+5.020.531-5, afastamento pelo período 180 dias de licença-maternida-
+de, compreendendo o período de 05/08/2025 a 31/01/2026.
+PROC. N° SEI-360008/002328/2025 - CONCEDO a Fabiano Carvalho
+Rego, Inspetor de Polícia (4ª classe), Id. Funcional 5.021.818-2, afas-
+tamento, pelo período 30 dias, de licença-paternidade, compreenden-
+do o período de 10/08/2025 a 08/09/2025.
+DE 27/08/2025
+PROC. N° SEI-360011/006739/2025 - CONCEDO a Ruchester Marrei-
+ros Barbosa, Delegado de Polícia (1ª classe), Id. Funcional 564.629-4,
+afastamento, pelo período 30 dias, de licença-paternidade, compreen-
+dendo o período de 01/08/2025 a 30/08/2025.
+PROC. N° SEI-360012/000827/2025 - CONCEDO 30 dias de licença
+aleitamento a servidora Isabela Fernandes Moreira, Inspetor de Polícia
+(4ª classe), Id. Funcional 5.022.776-9, no período de 06/08/2025 a
+04/09/2025, sendo este o segundo período,
+Id: 2673908
+DE 21/08/2025
+PROC. Nº SEI-360010/002289/2025 - ANA PATRICIA ROSA DE LIMA
+- INVESTIGADOR POLICIAL - ID 43924972 - período - base:
+04/10/2015 a 01/10/2020 - 03 meses
+PROC. Nº SEI-360004/000481/2025 - RODRIGO SANTOS COUTO -
+INSPETOR DE POLÍCIA - ID 43732470 - período - base: 17/01/2020
+a 14/01/2025 - 03 meses
+CONCEDO A LICENÇA-PRÊMIO
+Id: 2673674
+
+## Pagina 13
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0031/U0033/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+Secretaria de Estado de
+Administração Penitenciária
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+ATO DA SECRETÁRIA
+DE 26.08.2025
+NOMEIA ALDIR DE SOUZA , para exercer, com validade a contar de
+12 de agosto de 2025, ao cargo de Ajudante III, símbolo DAI-3, do
+Gabinete da Secretária, da Secretaria de Estado de Administração Pe-
+nitenciária, em vaga resultante da transformação estabelecida pelo
+Decreto Nº 49.340/2024, de 22 de outubro de 2024. Processo SEI-
+210001/095005/2025.
+Id: 2673481
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+GABINETE DA SECRETÁRIA
+DESPACHO DA SECRETÁRIA
+DE 20/08/2025
+PROCESSO Nº SEI-E-21/034.105/2014 - AUTORIZO a prorrogação
+da licença sem vencimentos para acompanhar o cônjuge formulada
+por CLAUDIA BEATRIZ SANTOS RODRIGUES PRETO DOS SAN-
+TO S , Médica - ID. Funcional 20363443, com fulcro no art. 3º do De-
+creto nº 5.146, de 29.12.1981.
+Id: 2673935
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+SUBSECRETARIA DE ADMINISTRAÇÃO
+DESPACHO DO SUBSECRETÁRIO
+DE 21.08.2025
+PROCESSO N SEI-210001/038202/2025 - DECIDE pela aplicação
+EMPRESA COMISSARIA AÉREA RIO DE JANEIRO LTDA CNPJ nº
+42.454.330/0001-05, as penalidades de Advertência ao contrato n°
+10/2019 prevista no Inciso I do artigo 87 da Lei 8.666/1993, de modo
+que a referida empresa contratada possa se adequar das condutas
+imputadas e não venha causar novos prejuízos a execução do objeto
+do contrato e a esta Administração Pública Estadual.
+Id: 2673936
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+SUBSECRETARIA DE ADMINISTRAÇÃO
+DESPACHO DO SUBSECRETÁRIO
+DE 21.08.2025
+PROCESSO Nº SEI-210001/038202/2025 - DECIDE pela aplicação
+COMISSARIA AÉREA RIO DE JANEIRO LTDA CNPJ nº
+42.454.330/0028-17, as penalidades de Advertência ao contrato n°
+10/2019 prevista no Inciso I do artigo 87 da Lei 8.666/1993, de modo
+que a referida empresa contratada possa se adequar das condutas
+imputadas e não venha causar novos prejuízos a execução do objeto
+do contrato e a esta Administração Pública Estadual.
+Id: 2674013
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+SUBSECRETARIA DE ADMINISTRAÇÃO
+DESPACHO DO SUBSECRETÁRIO
+DE 21.08.2025
+PROCESSO Nº SEI-210001/061262/2025 - DECIDE pela aplicação
+COMISSARIA AÉREA RIO DE JANEIRO LTDA CNPJ nº
+42.454.330/0028-17, as penalidades de Advertência ao contrato n°
+10/2019 prevista no Inciso I do artigo 87 da Lei 8.666/1993, de modo
+que a referida empresa contratada possa se adequar das condutas
+imputadas e não venha causar novos prejuízos a execução do objeto
+do contrato e a esta Administração Pública Estadual.
+Id: 2674014
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+SUBSECRETARIA DE ADMINISTRAÇÃO
+DESPACHO DO SUBSECRETÁRIO
+DE 21.08.2025
+PROCESSO Nº SEI-210001/038433/2025 - DECIDE pela aplicação
+COMISSARIA AÉREA RIO DE JANEIRO LTDA CNPJ nº
+42.454.330/0028-17, as penalidades de Advertência ao contrato n°
+10/2019 prevista no Inciso I do artigo 87 da Lei 8.666/1993, de modo
+que a referida empresa contratada possa se adequar das condutas
+imputadas e não venha causar novos prejuízos a execução do objeto
+do contrato e a esta Administração Pública Estadual.
+Id: 2674016
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+SUBSECRETARIA DE ADMINISTRAÇÃO
+DESPACHO DO SUBSECRETÁRIO
+DE 21.08.2025
+PROCESSO Nº SEI-210001/006025/2025 - DECIDE pela aplicação
+COMISSARIA AÉREA RIO DE JANEIRO LTDA CNPJ nº
+42.454.330/0028-17, as penalidades de Advertência ao contrato n°
+10/2019 prevista no Inciso I do artigo 87 da Lei 8.666/1993, de modo
+que a referida empresa contratada possa se adequar das condutas
+imputadas e não venha causar novos prejuízos a execução do objeto
+do contrato e a esta Administração Pública Estadual.
+Id: 2674019
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+SUBSECRETARIA DE ADMINISTRAÇÃO
+DESPACHO DO SUBSECRETÁRIO
+DE 21.08.2025
+PROCESSO Nº SEI-210001/029844/2025 - DECIDE pela aplicação
+COMISSARIA AÉREA RIO DE JANEIRO LTDA CNPJ nº
+42.454.330/0028-17, as penalidades de Advertência ao contrato n°
+10/2019 prevista no Inciso I do artigo 87 da Lei 8.666/1993, de modo
+que a referida empresa contratada possa se adequar das condutas
+imputadas e não venha causar novos prejuízos a execução do objeto
+do contrato e a esta Administração Pública Estadual.
+Id: 2674032
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+SUBSECRETARIA DE ADMINISTRAÇÃO
+DIRETORIA-GERAL DE ADMINISTRAÇÃO E FINANÇAS
+DESPACHOS DO DIRETOR-GERAL
+DE 26.08.2025
+PROCESSO Nº SEI-210005/000126/2023 - RECONHEÇO a dívida re-
+ferente à Despesa de Exercício Anterior - DEA, relativa ao terço cons-
+titucional de férias dos exercícios de 2010, 2011, 2012, 2013, 2014 e
+2015, em favor do servidor exonerado em 09 de maio de 2021, VIC-
+TOR SERGIO NUNES, ID 20028040, nos termos da Resolução SECC
+nº 91, de 28/03/2023, com fulcro no Decreto Estadual nº 48.244, de
+04/11/2022, que dispõe sobre a conversão em pecúnia de férias ou
+licença-prêmio não usufruídas, sendo a dívida no valor de R$
+20.718,74 (vinte mil, setecentos e dezoito reais e setenta e quatro
+centavos).
+PROCESSO Nº SEI-210001/100575/2025 - RECONHEÇO a dívida re-
+ferente à Despesa de Exercício Anterior - DEA, em favor da servidora
+aposentada em 13 de junho de 2025, CELIA MARIA DINIZ, ID
+1972531-0, nos termos da Resolução SECC nº 91, de 28/03/2023,
+com fulcro no Decreto Estadual nº 48.244, de 04/11/2022, que dispõe
+sobre a conversão em pecúnia de férias ou licença-prêmio não usu-
+fruídas, sendo a dívida no valor de R$ 6.818,88 (seis mil, oitocentos e
+dezoito reais e oitenta e oito centavos).
+Id: 2674052
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+SUBSECRETARIA GERAL
+COORDENAÇÃO DE AUDIÊNCIAS VIRTUAIS
+ATO DO COORDENADOR
+DE 18.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal MARCELO
+GIOVANI POPPOLINO, ID 43376371. Fixa o prazo de 30 (trinta) dias,
+a partir da data da publicação, para a conclusão dos trabalhos. Pro-
+cesso nº SEI-210001/096756/2025.
+SUBSECRETARIA GERAL
+COORDENAÇÃO DE OPERAÇÕES ESPECIAIS
+ATO DO COORDENADOR
+DE 14.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ALEXANDRE
+TORRES GABRIEL, ID 5012594-0. Fixa o prazo de 30 (trinta) dias, a
+partir da data da publicação, para a conclusão dos trabalhos. Proces-
+so nº SEI-210001/099451/2025.
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ALEXANDRE
+TORRES GABRIEL, ID 5012594-0. Fixa o prazo de 30 (trinta) dias, a
+partir da data da publicação, para a conclusão dos trabalhos. Proces-
+so nº SEI-210001/099461/2025.
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ALEXANDRE
+TORRES GABRIEL, ID 5012594-0. Fixa o prazo de 30 (trinta) dias, a
+partir da data da publicação, para a conclusão dos trabalhos. Proces-
+so nº SEI-210001/099430/2025.
+DE 15.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ALEXANDRE
+TORRES GABRIEL, ID 5012594-0. Fixa o prazo de 30 (trinta) dias, a
+partir da data da publicação, para a conclusão dos trabalhos. Proces-
+so nº SEI-210001/099864/2025.
+SUBSECRETARIA DE GESTÃO OPERACIONAL
+COORDENAÇÃO DE UNIDADES PRISIONAIS DE ALTA COMPLE-
+XIDADE DE GERICINÓ
+ATO DO COORDENADOR
+DE 13.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal R O B E R TO
+DA PAIXÃO TAVEIRA, ID 43815138. Fixa o prazo de 30 (trinta) dias,
+a partir da data da publicação, para a conclusão dos trabalhos. Pro-
+cesso nº SEI-210001/098742/2025.
+SUBSECRETARIA DE GESTÃO OPERACIONAL
+PRESÍDIO ALFREDO TRANJAN
+ATO DO DIRETOR
+DE 15.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ALEXANDRE
+SOUZA DA SILVA, ID 43825583. Fixa o prazo de 30 (trinta) dias, a
+partir da data da publicação, para a conclusão dos trabalhos. Proces-
+so nº SEI-210001/099728/2025.
+PENITENCIÁRIA JONAS LOPES DE CARVALHO
+ATO DO DIRETOR
+DE 18 .08.2025
+DESIGNA, como sindicante, o Inspetor de Polícia Penal HENRIQUE
+DE SOUZA, IDF .: 5082741-3. Fixa o prazo de 30 (trinta) dias, a par-
+tir da data da publicação, para a conclusão dos trabalhos. Processo
+n.º SEI-210001/100593/2025.
+SUBSECRETARIA DE GESTÃO OPERACIONAL
+PRESIDIO EVARISTO DE MORAES
+ATO DO DIRETOR
+DE 13.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ANDRÉ PI-
+NHEIRO DA SILVEIRA, IDF.: 4269694-1. Fixa o prazo de 30 (trinta)
+dias, a partir da data da publicação, para a conclusão dos trabalhos.
+Processo nº SEI-210001/098304/2025.
+PRESÍDIO JOÃO CARLOS DA SILVA
+ATO DO DIRETOR
+DE 19.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ADRIANO
+DE SOUZA, ID 1979385-5. Fixa o prazo de 30 (trinta) dias, a partir
+da data da publicação, para a conclusão dos trabalhos. Processo nº
+SEI-210001/089900/2025.
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ADRIANO
+DE SOUZA, ID 1979385-5. Fixa o prazo de 30 (trinta) dias, a partir
+da data da publicação, para a conclusão dos trabalhos. Processo nº
+SEI-210001/093050/2025.
+SUBSECRETARIA DE GESTÃO OPERACIONAL
+PRESÍDIO ROMEIRO NETO
+ATO DO DIRETOR
+DE 14.08.2025
+DESIGNA, como sindicante, o Inspetor de Polícia Penal ANDRÉ RI-
+CARDO LIMA DE SOUZA, IDF.: 5000174-4. Fixa o prazo de 30 (trin-
+ta) dias, a partir da data da publicação, para a conclusão dos tra-
+balhos. Processo n.º SEI-210001/099247/2025.
+INSTITUTO PENAL ISMAEL PEREIRA SIRIEIRO
+ATO DO DIRETOR
+DE 07.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal JOSE RE-
+NATO AMORIM DA SILVA, ID 50009303. Fixa o prazo de 30 (trinta)
+dias, a partir da data da publicação, para a conclusão dos trabalhos.
+Processo nº SEI-210001/096055/2025.
+DE 20.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal DIEGO DA
+SILVA OLIVEIRA, ID 4269922-3. Fixa o prazo de 30 (trinta) dias, a
+partir da data da publicação, para a conclusão dos trabalhos. Proces-
+so nº SEI-210001/101487/2025.
+PRESÍDIO CONSTANTINO COKOTÓS
+ATO DO DIRETOR
+DE 19.08.2025
+DESIGNA, como sindicante, o Inspetor de Polícia Penal PAULO VI-
+CENTE DE PAIVA MORALES, ID 4371480-3. Fixa o prazo de 30
+(trinta) dias, a partir da data da publicação, para a conclusão dos tra-
+balhos. Processo nº SEI-210001/100894/2025.
+Id: 2674044
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+SUBSECRETARIA DE GESTÃO OPERACIONAL
+INSTITUTO PENAL ISMAEL PEREIRA SIRIEIRO
+ATO DO DIRETOR
+DE 19.08.2025
+DESIGNA, como sindicante, o Inspetor de Polícia Penal JOSE RENA-
+TO AMORIM DA SILVA, ID. 50009303. Fixa, desde logo, o prazo de
+30 (trinta) dias, a contar da data da publicação, para conclusão dos
+trabalhos. Processo nº. SEI-210001/101004/2025.
+PRESÍDIO HÉLIO GOMES
+ATO DO DIRETOR
+DE 04.08.2025
+DESIGNA, como sindicante, a Inspetora de Polícia Penal THAIS DA
+SILVA ALCANTARA, ID 5009821-7. Fixa, desde logo, o prazo de 30
+(trinta) dias, a contar da data da publicação, para conclusão dos tra-
+balhos. processo nº. SEI-210001/099076/2025.
+INSTITUTO PENAL EDGARD COSTA
+ATO DO DIRETOR
+DE 18.08.2025
+DESIGNA, como sindicante, o Inspetor de Polícia Penal H U M B E RTO
+SOARES PINTO DA SILVA ID 1998327-1. Fixa, desde logo, o prazo
+de 30 (trinta) dias, a contar da data da publicação, para conclusão
+dos trabalhos. Processo nº. SEI-210001/100562/2025
+PRESÍDIO ARY FRANCO
+ATOS DO DIRETOR
+DE 15.08.2023
+DESIGNA, como sindicante, a Inspetor de Polícia Penal BRENYO PE-
+ÇANHA GOMES, ID 1999956-9. Fixa, desde logo, o prazo de 30 (trin-
+ta) dias para conclusão dos trabalhos. Processo n.º SEI-
+210001/100224/2025.
+PRESÍDIO EVARISTO DE MORAES
+ATO S DO DIRETOR
+DE 14.08.2025
+DESIGNA, como sindicante, o Inspetor de Polícia Penal ANDRÉ PI-
+NHEIRO DA SILVEIRA , ID. 42696941. Fixa, desde logo, o prazo de
+30 (trinta) dias, a contar da data da publicação, para conclusão dos
+trabalhos. Processo nº. SEI-210001/099072/2025.
+DE 20.08.2025
+DESIGNA, como sindicante, o Inspetor de Polícia Penal ANDRÉ PI-
+NHEIRO DA SILVEIRA , ID. 42696941. Fixa, desde logo, o prazo de
+30 (trinta) dias, a contar da data da publicação, para conclusão dos
+trabalhos. Processo nº. SEI-210001/101512/2025.
+PENITENCIÁRIA JONAS LOPES DE CARVALHO
+ATO DO DIRETOR
+DE 13.08. 2025
+DESIGNA, como sindicante, a Inspetora de Polícia Penal HENRIQUE
+DE SOUZA, ID. 5082741-3 . Fixa o prazo de 30 (trinta) dias, a partir
+da data da publicação, para a conclusão dos trabalhos. Processo nº.
+SEI-210001/098539/2025.
+PRESÍDIO CARLOS TINOCO DA FONSECA
+ATO S DO DIRETOR
+DE 20.08.2025
+DESIGNA, como sindicante, o Inspetor de Polícia Penal G U S TAV O
+VARGAS LEITÃO , ID . 50299328. Fixa, desde logo, o prazo de 30
+(trinta) dias, a contar da data da publicação, para conclusão dos tra-
+balhos. Processo nº. SEI-210001/099524/2025.
+PRESÍDIO ARY FRANCO
+ATO DO DIRETOR
+DE 06.08.2025
+DESIGNA, como sindicante, a Inspetor de Polícia Penal BRENYO PE-
+ÇANHA GOMES, ID 1999956-9. Fixa, desde logo, o prazo de 30 (trin-
+ta) dias para conclusão dos trabalhos. Processo n.º SEI-
+210001/095744/2025.
+PRESÍDIO JOÃO CARLOS DA SILVA
+ATO DO DIRETOR
+DE 19.08.2025
+DESIGNA, como sindicante, o Inspetor de Polícia Penal ADRIANO
+DE SOUZA ID. 1979385-5. Fixa, desde logo, o prazo de 30 (trinta)
+dias, a contar da data da publicação, para conclusão dos trabalhos.
+Processo nº. SEI-210001/086731/2025.
+DESIGNA, como sindicante, o Inspetor de Polícia Penal ADRIANO
+DE SOUZA ID. 1979385-5. Fixa, desde logo, o prazo de 30 (trinta)
+dias, a contar da data da publicação, para conclusão dos trabalhos.
+Processo nº. SEI-210001/049770/2025.
+CADEIA PUBLICA CRISPIM VENTINO
+ATO DO DIRETOR
+DE 13.08.2025
+DESIGNA, como sindicante, a Inspetor de Polícia Penal TA R C Í S I O
+RIBEIRO DA SILVA, ID. 50102800. Fixa, desde logo, o prazo de 30
+(trinta) dias para conclusão dos trabalhos. Processo n.º SEI-
+210001/098738/2025.
+COORDENAÇÃO DE UNIDADES PRISIONAIS DE ALTA COMPLE-
+XIDADE DE GERICINÓ
+ATO DO COORDENADOR
+DE 13.08. 2025
+DESIGNA, como sindicante, o Inspetor de Polícia Penal R O B E R TO
+DA PAIXÃO TAVEIRA MARTINS , ID 43815138. Fixa o prazo de 30
+(trinta) dias, a partir da data da publicação, para a conclusão dos tra-
+balhos. processo nº. SEI-210001/098580/2025.
+DE 11.08. 2025
+DESIGNA, como sindicante, o Inspetor de Polícia Penal R O B E R TO
+DA PAIXÃO TAVEIRA MARTINS , ID 43815138. Fixa o prazo de 30
+(trinta) dias, a partir da data da publicação, para a conclusão dos tra-
+balhos. processo nº. SEI-210001/097131/2025.
+
+## Pagina 14
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0031/U0034
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+PRESÍDIO GABRIEL FERREIRA CASTILHO
+ATO DO DIRETOR
+DE 15.08. 2025
+DESIGNA, como sindicante, o Inspetor de Policia Penal RAFAEL ME-
+DEIROS DE SANT'ANNA, ID. 5001180-4. Fixa o prazo de 30 (trinta)
+dias, a partir da data da publicação, para a conclusão dos trabalhos.
+Processo nº. SEI-210001/096703/2025.
+DESIGNA, como sindicante, o Inspetor de Policia Penal RAFAEL ME-
+DEIROS DE SANT'ANNA, ID. 5001180-4. Fixa o prazo de 30 (trinta)
+dias, a partir da data da publicação, para a conclusão dos trabalhos.
+Processo nº. SEI-210001/100661/2025.
+INSTITUTO PENAL PLÁCIDO SÁ CARVALHO
+ATO DO DIRETOR
+DE 04.08. 2025
+DESIGNA, como sindicante, a Inspetora de Polícia Penal JANAÍNA
+LONGO MENDONÇA ID. 50007033. Fixa o prazo de 30 (trinta) dias,
+a partir da data da publicação, para a conclusão dos trabalhos. Pro-
+cesso nº. SEI-210001/097703/2025.
+INSTITUTO PENAL VICENTE PIRAGIBE
+ATO DO DIRETOR
+DE 20.08. 2025
+DESIGNA, como Sindicante, o Inspetor de Policia Penal HUGO LEO-
+NARDO GUIMARÃES MATHEUS ID. 5013212-1. Fixa o prazo de 30
+(trinta) dias, a partir da data da publicação, para a conclusão dos tra-
+balhos. Processo nº. SEI-210001/102157/2025.
+PRESÍDIO ELIZABETH SÁ REGO
+ATO DO DIRETOR
+DE 20.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal SIDNEI VAS-
+QUES DANTAS ID: 19627920 . Fixa o prazo de 30 (trinta) dias, a par-
+tir da data da publicação, para a conclusão dos trabalhos. Processo
+nº SEI-210001/101181/2025.
+PRESÍDIO LEMOS BRITO
+ATO DO DIRETOR
+DE 18.08.2025
+DESIGNA, como sindicante, o Inspetor de Polícia Penal ANA LUCIA
+SOARES DE OLIVEIRA, ID 4269793-0. Fixa o prazo de 30 (trinta)
+dias, a partir da data da publicação, para a conclusão dos trabalhos.
+Processo nº SEI-210001/100241/2025.
+PENITENCIÁRIA DR. SERRANO NEVES
+ATO DO DIRETOR
+DE 18.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal VINICIUS
+SANTOS CECÍLIO DE FREITAS , ID 20096542. Fixa o prazo de 30
+(trinta) dias, a partir da data da publicação, para a conclusão dos tra-
+balhos. Processo nº. SEI-210001/100466/2025
+CADEIA PÚBLICA INSPETOR JOSÉ ANTONIO DA COSTA BAR-
+ROS
+ATO DO DIRETOR
+DE 13.08. 2025
+DESIGNA, como Sindicante, o Inspetor de Policia Penal A N TO N I O
+DE SOUZA TEIXEIRA , ID: 1991522-5. Fixa o prazo de 30 (trinta)
+dias, a partir da data da publicação, para a conclusão dos trabalhos.
+Processo nº. SEI-210001/098752/2025.
+DE 19.08. 2025
+DESIGNA, como Sindicante, o Inspetor de Policia Penal A N TO N I O
+DE SOUZA TEIXEIRA , ID: 1991522-5. Fixa o prazo de 30 (trinta)
+dias, a partir da data da publicação, para a conclusão dos trabalhos.
+Processo nº. SEI-210001/100754/2025.
+COORDENAÇÃO DE OPERAÇÕES ESPECIAIS
+ATO DO COORDENADOR
+DE 14.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ALEXAN-
+DRE TORRES GABRIEL ID. 5012594-0. Fixa, desde logo, o prazo de
+30 (trinta) dias, a contar da data da publicação, para conclusão dos
+trabalhos. Processo nº SEI-210001/099469/2025.
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ALEXAN-
+DRE TORRES GABRIEL ID. 5012594-0. Fixa, desde logo, o prazo de
+30 (trinta) dias, a contar da data da publicação, para conclusão dos
+trabalhos. Processo nº SEI-210001/099347/2025.
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ALEXAN-
+DRE TORRES GABRIEL ID. 5012594-0. Fixa, desde logo, o prazo de
+30 (trinta) dias, a contar da data da publicação, para conclusão dos
+trabalhos. Processo nº SEI-210001/099577/2025.
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ALEXAN-
+DRE TORRES GABRIEL ID. 5012594-0. Fixa, desde logo, o prazo de
+30 (trinta) dias, a contar da data da publicação, para conclusão dos
+trabalhos. Processo nº SEI-210001/099437/2025.
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ALEXAN-
+DRE TORRES GABRIEL ID. 5012594-0. Fixa, desde logo, o prazo de
+30 (trinta) dias, a contar da data da publicação, para conclusão dos
+trabalhos. Processo nº SEI-210001/099466/2025.
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ALEXAN-
+DRE TORRES GABRIEL ID. 5012594-0. Fixa, desde logo, o prazo de
+30 (trinta) dias, a contar da data da publicação, para conclusão dos
+trabalhos. Processo nº SEI-210001/099629/2025.
+UNIDADE MATERNO INFANTIL
+ATO DA DIRETORA
+DE 14. 08.2024
+DESIGNA, como sindicante, o Inspetor de Polícia Penal ISABEL GO-
+MES RIBEIRO ID 43714293. Fixa, desde logo, o prazo de 30 (trinta)
+dias, a contar da data da publicação, para conclusão dos trabalhos.
+Processo nº. SEI-210001/099321/2025.
+DESIGNA, como sindicante, o Inspetor de Polícia Penal ISABEL GO-
+MES RIBEIRO ID 43714293. Fixa, desde logo, o prazo de 30 (trinta)
+dias, a contar da data da publicação, para conclusão dos trabalhos.
+Processo nº. SEI-210001/099234/2025.
+INSTITUTO PENAL OSCAR STEVENSON
+ATO DA DIRETORA
+DE 19.08.2025
+DESIGNA, como sindicante, o Inspetor de Polícia Penal ANDRÉIA
+SANTOS RAVANI, ID 5075207-3 . Fixa, desde logo, o prazo de 30
+(trinta) dias, a contar da data da publicação, para conclusão dos tra-
+balhos. Processo nº. SEI-210001/101324/2025.
+DESIGNA, como sindicante, o Inspetor de Polícia Penal ANDRÉIA
+SANTOS RAVANI, ID 5075207-3 . Fixa, desde logo, o prazo de 30
+(trinta) dias, a contar da data da publicação, para conclusão dos tra-
+balhos. Processo nº. SEI-210001/101255/2025.
+CADEIA PÚBLICA COTRIM NETO
+ATO DO DIRETOR
+DE 15.08.2025
+DESIGNA, como sindicante, a Inspetor de Polícia Penal IGOR PAIVA
+DOS SANTOS , ID 43825656. Fixa, desde logo, o prazo de 30 (trinta)
+dias para conclusão dos trabalhos. Processo n.º SEI-
+210001/099632/2025.
+Id: 2674039
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+CORREGEDORIA GERAL
+ATOS DA CORREGEDORA
+DE 18.08.2025
+APLICA a sanção de SUSPENSÃO de 03 (três) dias, ao Inspetor de
+Policia Penal LEANDRO FERREIRA GARCEZ , ID 42700345, confor-
+me consta dos autos do procedimento de Sindicância Sumária nº SEI-
+2 1 0 0 0 1 / 11 6 4 5 5 / 2 0 2 4
+APLICA a sanção de SUSPENSÃO de 03 (três) dias, ao Inspetor de
+Policia Penal MARCOS VINICIUS DE MORAES MATHEUS , ID
+44012616, conforme consta dos autos do procedimento de Sindicância
+Sumária nº SEI-210001/116455/2024
+APLICA a sanção de SUSPENSÃO de 03 (três) dias, ao Inspetor de
+Policia Penal FILIPE DOS SANTOS JACINTO , ID 50099604 conforme
+consta dos autos do procedimento de Sindicância Sumária nº SEI-
+2 1 0 0 0 1 / 11 6 4 5 5 / 2 0 2 4
+APLICA a sanção de SUSPENSÃO de 05 (cinco) dias, ao Inspetor de
+Policia Penal THIAGO OLIVEIRA DA CONCEIÇÃO , ID 50827677
+conforme consta dos autos do procedimento de Sindicância Sumária
+nº SEI-210001/116455/2024
+APLICA a sanção de SUSPENSÃO de 03 (três) dias, ao Inspetor de
+Policia Penal ATILA SABINO DE OLIVEIRA , ID 19952279 conforme
+consta dos autos do procedimento de Sindicância Sumária nº SEI-
+2 1 0 0 0 1 / 11 6 4 5 5 / 2 0 2 4
+APLICA a sanção de SUSPENSÃO de 03 (três) dias, ao Inspetor de
+Policia Penal SIDNEI PEÇANHA RODRIGUES , ID 5708397 conforme
+consta dos autos do procedimento de Sindicância Sumária nº SEI-
+2 1 0 0 0 1 / 11 6 4 5 5 / 2 0 2 4
+APLICA a sanção de SUSPENSÃO de 03 (três) dias, ao Inspetor de
+Policia Penal WANDER ROBERTO MOREIRA LIMA , ID 42697441
+conforme consta dos autos do procedimento de Sindicância Sumária
+nº SEI-210001/116455/2024
+APLICA a sanção de REPREENSÃO, ao Inspetor de Policia Penal
+EDEVALDO MARQUES CAVALCANTE, ID 43308449, conforme cons-
+ta dos autos do procedimento de Sindicância Sumária nº SEI-
+210001/001205/2025
+APLICA a sanção de REPREENSÃO, ao Inspetor de Policia Penal
+JALMIR DA COSTA ARAÚJO JÚNIOR , ID 51540347, conforme cons-
+ta dos autos do procedimento de Sindicância Sumária nº SEI-
+210001/008554/2025
+DE 21.08.2025
+APLICA a sanção de ADVERTÊNCIA, ao Inspetor de Policia Penal
+PAULO ROBERTO RODRIGUES PESSANHA , ID 50009770, confor-
+me consta dos autos do procedimento de Sindicância Sumária nº SEI-
+210001/121331/2024
+Id: 2674008
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+CORREGEDORIA GERAL
+ATO DA CORREGEDORA
+DE 18.08.2025
+DESIGNA, como Sindicante, a Inspetora de Polícia Penal NEIFE MU-
+RAD DE CARVALHO, ID. 43209327 . Fixa o prazo de 30 (trinta) dias,
+a partir da data da publicação, para a conclusão dos trabalhos. Pro-
+cesso nº SEI-210001/100475/2025
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+SUBSECRETARIA DE GESTÃO OPERACIONAL
+COORDENAÇÃO DE UNIDADES PRISIONAIS DE ALTA COMPLE-
+XIDADE DE GERICINÓ
+ATOS DO COORDENADOR
+DE 11.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal R O B E R TO
+DA PAIXÃO TAVEIRA MARTINS, ID 43815138. Fixa o prazo de 30
+(trinta) dias, a partir da data da publicação, para a conclusão dos tra-
+balhos. Processo nº SEI-210001/096994/2025.
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal R O B E R TO
+DA PAIXÃO TAVEIRA MARTINS, ID 43815138. Fixa o prazo de 30
+(trinta) dias, a partir da data da publicação, para a conclusão dos tra-
+balhos. Processo nº SEI-210001/097201/2025.
+DE 13.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal R O B E R TO
+DA PAIXÃO TAVEIRA MARTINS, ID 43815138. Fixa o prazo de 30
+(trinta) dias, a partir da data da publicação, para a conclusão dos tra-
+balhos. Processo nº SEI-210001/098771/2025.
+DE 14.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal R O B E R TO
+DA PAIXÃO TAVEIRA MARTINS, ID 43815138. Fixa o prazo de 30
+(trinta) dias, a partir da data da publicação, para a conclusão dos tra-
+balhos. Processo nº SEI-210001/099224/2025.
+DE 15.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal R O B E R TO
+DA PAIXÃO TAVEIRA MARTINS, ID 43815138. Fixa o prazo de 30
+(trinta) dias, a partir da data da publicação, para a conclusão dos tra-
+balhos. Processo nº SEI-210001/099734/2025.
+COORDENAÇÃO DE UNIDADES PRISIONAIS FEMININAS E CIDA-
+DANIA LGBTQIA+
+ATO DO COORDENADOR
+DE 14.08.2025
+AV O C A a Sindicância nº SEI-210001/093388/2025, referente ao SEI-
+210001/099238/2025 e DESIGNA, como SINDICANTE, a Inspetora de
+Polícia Penal GRAÇA MARIA SILVA DE SOUZA, ID. 42829542, para
+dar prosseguimento ao feito, com elaboração do relatório a que alude
+o artigo 318 do Decreto 2479/79. Fixa, outrossim, o prazo de 30 (trin-
+ta) dias, a partir da publicação, para conclusão dos trabalhos.
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+SUBSECRETARIA DE GESTÃO OPERACIONAL
+INSTITUTO PENAL PLÁCIDO DE SÁ CARVALHO
+ATO DO DIRETOR
+DE 20.08.2025
+DESIGNA, como Sindicante, a Inspetora de Polícia Penal JANAÍNA
+LONGO, ID 50007033. Fixa o prazo de 30 (trinta) dias, a partir da
+data da publicação, para a conclusão dos trabalhos. Processo nº SEI-
+210001/101480/2025.
+PRESÍDIO BANDEIRA STAMPA
+ATO DO DIRETOR
+DE 13.08.2025
+DESIGNA, como Sindicante, a Inspetora de Polícia Penal CAMILLA
+SABINO CARDOSO , ID 50105680. Fixa o prazo de 30 (trinta) dias, a
+partir da data da publicação, para a conclusão dos trabalhos. Proces-
+so nº SEI-210001/097419/2025.
+PRESÍDIO JOAQUIM FERREIRA DE SOUZA
+ATO DO DIRETOR
+DE 18.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal DIEGO CAR-
+NEIRO, ID 51538768. Fixa o prazo de 30 (trinta) dias, a partir da data
+da publicação, para a conclusão dos trabalhos. Processo nº SEI-
+210001/100300/2025.
+PRESÍDIO ALFREDO TRANJAN
+ATO DO DIRETOR
+DE 07.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ALEXANDRE
+SOUZA DA SILVA , ID 43825583. Fixa o prazo de 30 (trinta) dias, a
+partir da data da publicação, para a conclusão dos trabalhos. Proces-
+so nº SEI-210001/095540/2025.
+PRESÍDIO JOÃO CARLOS DA SILVA
+ATOS DO DIRETOR
+DE 19.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ADRIANO
+DE SOUZA , ID 19793855. Fixa o prazo de 30 (trinta) dias, a partir da
+data da publicação, para a conclusão dos trabalhos. Processo nº SEI-
+210001/096242/2025.
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal ADRIANO
+DE SOUZA , ID 19793855. Fixa o prazo de 30 (trinta) dias, a partir da
+data da publicação, para a conclusão dos trabalhos. Processo nº SEI-
+210001/098855/2025.
+CADEIA PÚBLICA COTRIN NETO
+ATO DO DIRETOR
+DE 20.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal IGOR PAIVA
+DOS SANTOS, ID 43825656. Fixa o prazo de 30 (trinta) dias, a partir
+da data da publicação, para a conclusão dos trabalhos. Processo nº
+SEI-210001/101534/2025.
+INSTITUTO PENAL CORONEL PM FRANCISCO SPARGOLI
+ROCHA
+ATO DO DIRETOR
+DE 19.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal MARCIO FE-
+LIPE POMBO SIQUEIRA, ID 43546137. Fixa o prazo de 30 (trinta)
+dias, a partir da data da publicação, para a conclusão dos trabalhos.
+Processo nº SEI-210001/101309/2025.
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+SUBSECRETARIA DE GESTÃO EM SAÚDE PENITENCIÁRIA
+HOSPITAL PENAL PSIQUIÁTRICO ROBERTO MEDEIROS
+ATO DO DIRETOR
+DE 21.08.2025
+DESIGNA, como Sindicante, o Inspetor de Polícia Penal MÁRCIO
+JORGE FERREIRA, ID 19766629. Fixa o prazo de 30 (trinta) dias, a
+partir da data da publicação, para a conclusão dos trabalhos. Proces-
+so nº SEI-210001/102757/2025.
+Id: 2674009
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+CORREGEDORIA GERAL
+DESPACHO DA CORREGEDORA
+DE 15.08.2025
+PROCESSO Nº SEI-210001/098481/2025 - DEFIRO o pedido de
+CONVERSÃO EM MULTA, na base de 50% apresentado pelo Gestor
+da Unidade imediata do servidor (SEAP/JC), a favor do Inspetor de
+Polícia Penal, THIAGO ALBERTO JACINTO QUINTELLA, ID
+50229621 nos autos do procedimento de sindicância sumária nº SEI-
+210001/124158/2024.
+Id: 2674059
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+CORREGEDORIA GERAL
+D E S PA C H O S DA CORREGEDORA
+DE 18.08.2025
+PROCESSO Nº SEI-210001/116455/2024 - ARQUIVE-SE o presente
+procedimento de Sindicância em face do Inspetor de Polícia Penal
+LEANDRO VIEIRA DE SOUZA, ID 51220946.
+PROCESSO Nº SEI 210001/069026/2025 - ARQUIVE-SE
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+SUBSECRETARIA DE GESTÃO OPERACIONAL
+PRESÍDIO ALFREDO TRANJAN
+DESPACHO DO DIRETOR
+DE 21.08.2025
+PROCESSO Nº SEI 210001/083530/2025 - ARQUIVE-SE
+PENITENCIÁRIA HÉLIO GOMES
+DESPACHO DO DIRETOR
+DE 21.08.2025
+PROCESSO Nº SEI 210001/091108/2025 - ARQUIVE-SE
+
+## Pagina 15
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0031/U0035/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+INSTITUTO PENAL EDGARD COSTA
+DESPACHO DO DIRETOR
+DE 22.08.2025
+PROCESSO Nº SEI 210001/095078/2025 - ARQUIVE-SE
+PRESÍDIO DJANIRA DOLORES DE OLIVEIRA
+DESPACHO DO DIRETOR
+DE 21.08.2025
+PROCESSO Nº SEI 210001/088596/2025 - ARQUIVE-SE
+Id: 2674010
+Secretaria de Estado de Defesa Civil
+SECRETARIA DE ESTADO DE DEFESA CIVIL
+SUPERINTENDÊNCIA ADMINISTRATIVA
+DESPACHOS DO SUPERINTENDENTE
+DE 27.08.2025
+ROCESSO Nº SEI-270007/039741/2025 , ANDRE MIRANDA DA SIL-
+VA, RG 24.115, Id Funcional 26291460, a contar de 04 de agosto de
+2025;
+ROCESSO Nº SEI-270007/041341/2025 , FLAVIO MEIRELES LIMA,
+RG 20.061, Id Funcional 5628318, a contar de 07 de agosto de
+2025;
+ROCESSO Nº SEI-270007/041801/2025 , JOSE RICARDO SERCIO
+PEDRO, RG 21.007, Id Funcional 9457933, a contar de 21 de maio
+de 2025;
+ROCESSO Nº SEI-270006/025412/2025 , CLAUDIA DE LIMA PEREI-
+RA PASTANA, RG 18.675, Id Funcional 9443550, a contar de 07 de
+junho de 2025;
+ROCESSO Nº SEI-270003/003458/2025 , RUBIA FERNANDES BRUM,
+RG 18.698, Id Funcional 26476061, a contar de 11 de agosto de
+2025;
+ROCESSO Nº SEI-270007/040964/2025 , DAVI LOPES DA SILVA, RG
+18.547, Id Funcional 20261446, a contar de 07 de junho de 2025;
+ROCESSO Nº SEI-270007/040691/2025 , ALEXANDRE OLIVEIRA FI-
+GUEIROA LAVRADOR, RG 22.208, Id Funcional 61228009, a contar
+de 26 de julho de 2025;
+PROCESSO Nº SEI-270111/000218/2022 , CLAUDIO FARIA DOS
+SANTOS, RG 23.854, Id Funcional 41423950, a contar de 07 de fe-
+vereiro de 2018 a 12 de setembro de 2019;
+Tendo em vista o atendimento dos pressupostos estabelecidos no §19
+do Art. 40, da constituição Federal de 1988, Art.64-A, da Lei Estadual
+nº 9.537, de 29 de Dezembro de 2021, e o que dispõe o Art. 2º do
+Decreto 42.477, de 27 de maio de 2010, e com base na competência
+estabelecida no Art. 4º, inc. I, alíneas f e j da Resolução SEDEC nº
+286, de 07 de março de 2023 e pela prática delegada na Resolução
+SEDEC nº 475, de 27 de maio 2025, e com as informações prestadas
+pelo órgão de pessoal nos presentes processos administrativos, os
+servidores acima discriminados, FAZEM JUS ao abono de permanên-
+cia a partir das datas citadas nos presentes processos administrati-
+vos:
+Id: 2674038
+SECRETARIA DE ESTADO DE DEFESA CIVIL
+CORPO DE BOMBEIROS MILITAR DO ESTADO
+DO RIO DE JANEIRO
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 03.07.2025
+*PROCESSO Nº SEI-270006/002796/2024 - ADJUDICO e HOMOLO-
+GO o processo licitatório na modalidade Pregão Eletrônico do Tipo
+Menor Preço por Lote n° 012/25, cujo objeto é REGISTRO DE PRE-
+ÇOS PARA AQUISIÇÃO DE MATERIAIS DE CONSUMO ODONTO-
+LÓGICOS - ETAPA 7, por estar em conformidade com os termos do
+Art. 71 da Lei Federal n.º 14.133 de 01 de abril de 2021 e Art. 45 do
+Decreto Estadual n.º 48.778, de 30 de outubro de 2023, que teve co-
+mo vencedora do lote 01 a empresa: RIO MEIER COMERCIO DE
+MATERIAIS ODONTO-HOSPITALARES LTDA (31.890.783/0001-50),
+com o seguinte valor unitário: Item 01, R$ 15,19 (quinze reais e de-
+zenove centavos) - Id 23373; Item 02, R$ 240,24 (duzentos e qua-
+renta reais e vinte e quatro centavos) - ID 23374; Item 07, R$ 8,56
+(oito reais e cinquenta e seis centavos) - ID 23868; Item 05, R$ 4,90
+(quatro reais e noventa centavos) - ID 23871; Item 06, R$ 3,89 (três
+reais e oitenta e nove centavos) - ID 70028; Item 04, R$ 41,37 (qua-
+renta e um reais e trinta e sete centavos) - ID 122580 e o item 03,
+R$ 6,81 (seis reais e oitenta e um centavos)- ID 154583; Lote 02 e
+04 para a empresa DENTAL BONSUCESSO PRODUTOS ODONTO-
+LÓGICOS LTDA (02.482.141/0001-13): para o Lote 02 o Item 08, R$
+322,00 (trezentos e vinte e dois reais) - Id 68268; Item 09, R$ 33,33
+(trinta e três reais e trinta e três centavos) - ID 68265; Item 10, R$
+30,47 (trinta reais e quarenta e sete centavos) - ID 84785 e o Item
+11, R$ 75,93 (setenta e cinco reais e noventa e três centavos) - ID
+84786 e para o Lote 04 o Item 32, R$ 13,15 (treze reais e quinze
+centavos) - Id 150711; Item 31, R$ 13,50 (treze reais e cinquenta cen-
+tavos) - Id 150818; Item 25, R$ 12,80 (doze reais e oitenta centavos)-
+Id 9387; Item 36, R$ 15,10 (quinze reais e dez centavos)- Id 76457;
+Item 34, R$ 14,00 (quatorze reais)- Id 76644; Item 33, R$ 10,72 (dez
+reais e setenta e dois centavos) - Id 79111; Item 30, R$ 12,34 (doze
+reais e trinta e quatro centavos) - Id 123926; Item 27, R$ 13,52 (treze
+reais e cinquenta e dois centavos)- Id 123935; Item 29, R$ 15,39
+(quinze reais e trinta e nove centavos)- Id 123937; Item 28, R$ 10,80
+(dez reais e oitenta centavos) - Id 123938; Item 26, R$ 15,39 (quinze
+reais e trinta e nove centavos)- Id 123939; Item 35, R$ 15,10 (quinze
+reais e dez centavos)- Id 123940. Restando fracassados os lotes: 03
+e 05.
+*Republicado por incorreção no original publicado no D.O. de
+08/07/2025.
+Id: 2674017
+SECRETARIA DE ESTADO DE DEFESA CIVIL
+CORPO DE BOMBEIROS MILITAR DO ESTADO
+DO RIO DE JANEIRO
+DESPACHOS DO ORDENADOR DE DESPESAS
+DE 27.08.2025
+PROCESSO Nº SEI-270005/000673/2025- AUTORIZO a despesa em
+favor da empresa MATRIZ - S.O.S SUL RESGATE - COMÉRCIO E
+SERVIÇOS DE SEGURANÇA E SINALIZAÇÃO LTDA, CNPJ:
+03.928.511/0001-66 no valor de R$ 222.148,00 (duzentos e vinte e
+dois mil cento e quarenta e oito reais), visando a aquisição de LAN-
+TERNAS DE MERGULHO, a fim de Atender às Demandas do COR-
+PO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO,
+conforme Ata de Registro de Preços Nº 028/2025, consolidada pelo
+Ministério da Justiça e Segurança Pública, referente ao REGISTRO
+DE PREÇOS Nº90023/2024, com fundamentação legal na Lei nº
+14.133, de 1º de abril de 2021, no Decreto n.º 11.462, de 31 de mar-
+ço de 2023.
+PROCESSO Nº SEI-270005/000668/2025 - AUTORIZO a despesa em
+favor da empresa INOVA EQUIPAMENTOS DE RESGATE LTDA;
+CNPJ: 44.542.555/0001-30 no valor de R$ 63.200,00 (sessenta e três
+mil e duzentos reais), visando a aquisição de CILÍNDROS DE MER-
+GULHO, a fim de Atender às Demandas do CORPO DE BOMBEIROS
+MILITAR DO ESTADO DO RIO DE JANEIRO, conforme Ata de Re-
+gistro de Preços Nº 070/2024, consolidada pelo Ministério da Justiça e
+Segurança Pública, referente ao REGISTRO DE PREÇOS Nº
+90023/2024, com fundamentação legal na Lei nº 14.133, de 1º de
+abril de 2021, no Decreto n.º 11.462, de 31 de março de 2023.
+PROCESSO Nº SEI-270005/000649/2025 - AUTORIZO a despesa em
+favor da empresa MB COMERCIO DE MAQUINAS, FERRAMENTAS
+E SERVICOS LTDA; CNPJ: 18.272.465/0001-67 no valor de R$
+158.208,00 (cento e cinquenta e oito mil duzentos e oito reais), vi-
+sando a aquisição de Conjunto de reguladores composto por 1° e 2°
+estágios yoke, a fim de Atender às Demandas do CORPO DE BOM-
+BEIROS MILITAR DO ESTADO DO RIO DE JANEIRO, conforme Ata
+de Registro de Preços Nº 065/2024, consolidada pelo Ministério da
+Justiça e Segurança Pública, referente ao REGISTRO DE PREÇOS
+Nº 90023/2024, com fundamentação legal na Lei nº 14.133, de 1º de
+abril de 2021, no Decreto n.º 11.462, de 31 de março de 2023.
+PROCESSO Nº SEI-270005/000669/2025 - AUTORIZO a despesa em
+favor da empresa RBF DISTRIBUIDORA E SERVICOS LTDA - CNPJ:
+11.031.398/0001-40 no valor de R$ 6.590,00 (seis mil quinhentos e
+noventa reais), visando a AQUISIÇÃO DE EQUIPAMENTOS DE MER-
+GULHO (SNORKEL E CINTO LASTREADO), a fim de Atender às De-
+mandas do CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO
+DE JANEIRO, conforme Ata de Registro de Preços Nº 068/2024, con-
+solidada pelo Ministério da Justiça e Segurança Pública, referente ao
+processo administrativo n.º 08020.002437/2024-37, com fundamenta-
+ção legal na Lei nº 14.133, de 1º de abril de 2021, no Decreto n.º
+11.462, de 31 de março de 2023.
+PROCESSO Nº SEI-270005/000670/2025 - AUTORIZO a despesa em
+favor da empresa ULTRAMAR IMPORTACAO LTDA - CNPJ:
+81.571.010/0001-89 no valor de R$ 187.800,00 (cento e oitenta e sete
+mil e oitocentos reais), visando a AQUISIÇÃO DE COLETE EQUILI-
+BRADOR, a fim de Atender às Demandas do CORPO DE BOMBEI-
+ROS MILITAR DO ESTADO DO RIO DE JANEIRO, conforme Ata de
+Registro de Preços Nº 101/2024, consolidada pelo Ministério da Jus-
+tiça e Segurança Pública, referente ao processo administrativo n.º
+08020.002437/2024-37, com fundamentação legal na Lei nº 14.133,
+de 1º de abril de 2021, no Decreto n.º 11.462, de 31 de março de
+2023.
+PROCESSO Nº SEI-270005/000650/2025 - AUTORIZO a despesa em
+favor da empresa : ENGESUB - SERVICOS SUBAQUATICOS LTDA;
+CNPJ: 17.211.480/0001-32 no valor de R$ 105.520,00 (cento e cinco
+mil quinhentos e vinte reais), visando a Aquisição de Jogo de Man-
+gueiras para Cilindro e Manômetro, a fim de Atender às Demandas do
+CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEI-
+RO, conforme Ata de Registro de Preços Nº 066/2024, consolidada
+pelo Ministério da Justiça e Segurança Pública, referente ao processo
+administrativo n.º 08020.002437/2024-37, com fundamentação legal na
+Lei nº 14.133, de 1º de abril de 2021, no Decreto n.º 11.462, de 31
+de março de 2023.
+PROCESSO Nº SEI-270005/001067/2025 - AUTORIZO a despesa em
+favor da empresa RESGATÉCNICA COMÉRCIO DE EQUIPAMENTOS
+DE RESGATE LTDA - CNPJ: 15.453.449/0005-06 no valor de R$
+2.601.335,60 (dois milhões, seiscentos e um mil trezentos e trinta e
+cinco reais e sessenta centavos), visando a AQUISIÇÃO DE ROUPA
+ÚMIDA DE PROTEÇÃO, LUVAS DE NEOPRENE E BOTAS DE MER-
+GULHO PARA ATIVIDADES AQUÁTICAS, a fim de Atender às De-
+mandas do CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO
+DE JANEIRO, conforme Ata de Registro de Preços Nº 156/2024, con-
+solidada pela Secretaria de Estado de Defesa Civil, referente ao PE
+70/2023, com fundamentação legal na Lei Federal nº 8.666, de 21 de
+junho de 1993, Lei nº 10.520, de 17 de julho de 2002do Decretos
+Estadual nº 46.751, de 27 de agosto de 2019, da Lei Estadual n.º
+287, de 4 de dezembro de 1979, do Decreto Estadual n.º 3.149, de
+28 de abril de 1980, e respectivas alterações.
+Id: 2674018
+SECRETARIA DE ESTADO DE DEFESA CIVIL
+CORPO DE BOMBEIROS MILITAR DO ESTADO
+DO RIO DE JANEIRO
+ATO DO SUBCOMANDANTE-GERAL
+DE 13/03/2025
+*LICENCIA, a pedido, sem remuneração, do Corpo de Bombeiros Mi-
+litar do Estado do Rio de Janeiro, o Soldado BM RR Q10/83 ALE-
+XANDRE PERES DOS SANTOS , RG 07.835, Id Funcional
+0041315189, CPF: 773532187-20, a contar de 09/09/2024, por ter si-
+do empossado no cargo público de Professor FAETEC I - 40 horas,
+vínculo 3 (FAETEC) - ativo, SEI-E-27/037/100814/2018, com supedâ-
+neo no art. 37, inciso XXII, § 10, da CF/88 c/c o art. 121 da Lei Es-
+tadual nº 880/85 (EBM), conforme o Processo n° SEI-
+270006/029306/2024.
+*Republicado por incorreção no original publicado no D.O. de
+26/03/2025.
+Id: 2673722
+SECRETARIA DE ESTADO DE DEFESA CIVIL
+CORPO DE BOMBEIROS MILITAR DO ESTADO
+DO RIO DE JANEIRO
+ATO DO SUBCOMANDANTE-GERAL
+DE 14/08/2025
+TO R N A SEM EFEITO , o ato de apostilamento publicado no DOERJ
+nº 18, de 30 de janeiro de 2009, referente ao Soldado BM Refo JO-
+SÉ REIS MARQUES DE SOUZA , RG: 4.752, retornando-se ao status
+quo anterior, disposto no Processo nº SEI-270039/000117/2024.
+Id: 2673723
+Secretaria de Estado de Saúde
+SECRETARIA DE ESTADO DE SAÚDE
+ATO DA SECRETÁRIA
+RESOLUÇÃO SES Nº 3851 DE 26 DE AGOSTO DE 2025
+ATUALIZA A COMPOSIÇÃO INSTITUCIONAL
+DO GRUPO CONDUTOR ESTADUAL DA RE-
+DE DE ATENÇÃO PSICOSSOCIAL (RAPS) DO
+ESTADO DO RIO DE JANEIRO.
+A SECRETÁRIA DE ESTADO DE SAÚDE, no uso das atribuições le-
+gais, tendo em vista o disposto no Processo Administrativo n° SEI-
+080001/010897/2025, e
+CONSIDERANDO:
+- a Lei Federal nº 8.080, de 19 de setembro de 1990, que dispõe
+sobre as condições para a promoção, proteção e recuperação da saú-
+de, a organização e o funcionamento dos serviços correspondentes;
+- a Lei Federal nº 8.142, de 28 de dezembro de 1990, que dispõe
+sobre a participação da comunidade na gestão do Sistema Único de
+Saúde e sobre as transferências intergovernamentais de recursos fi-
+nanceiros na área da saúde;
+- a Lei Federal nº 10.216, de 06 de abril de 2001, que dispõe sobre a
+proteção e os direitos das pessoas portadoras de transtornos mentais
+e redireciona o modelo assistencial em saúde mental;
+- a Convenção Internacional sobre os Direitos das Pessoas com De-
+ficiência, Organização das Nações Unidas, 2006;
+- o Decreto Presidencial nº 7.508, de 28 de junho de 2011, que re-
+gulamenta a Lei nº 8.080, de 19 de setembro de 1990, para dispor
+sobre a organização do Sistema Único de Saúde (SUS), o planeja-
+mento da saúde, a assistência à saúde e a articulação interfederativa,
+e dá outras providências;
+- a Lei Estadual nº 8.154, de 05 de novembro 2018, que estabelece
+parâmetros de participação do Estado do Rio de Janeiro na Rede de
+Atenção Psicossocial (RAPS);
+- a Lei Estadual nº 9.557, de 12 de janeiro de 2022, que altera a Lei
+Estadual nº 8.154, de 05 de novembro de 2018, para incluir os Cen-
+tros de Convivência e Hospitais Gerais na política de participação do
+Estado do Rio de Janeiro na RAPS;
+- a Portaria GM/MS nº 3.088, de 23 de dezembro de 2011, que institui
+a Rede de Atenção Psicossocial (RAPS) para pessoas com sofrimento
+ou transtorno mental e com necessidades decorrentes do uso de cra-
+ck, álcool e outras drogas, no âmbito do Sistema Único de Saúde
+(SUS), e as estratégias de Desinstitucionalização, no âmbito do SUS;
+- a Deliberação CIB-RJ nº 1.647, de 08 de março de 2012, que ins-
+titui o Grupo Condutor Estadual da Rede de Atenção Psicossocial -
+RAPS;
+- a Resolução n° 487, que institui a Política Antimanicomial do Poder
+Judiciário, publicada pelo Conselho Nacional de Justiça em 15 de fe-
+vereiro de 2023, e institui a Política Antimanicomial do Poder Judiciá-
+rio e estabelece procedimentos e diretrizes para implementar a Con-
+venção Internacional dos Direitos das Pessoas com Deficiência e a
+Lei n. 10.216/2001, no âmbito do processo penal e da execução das
+medidas de segurança;
+- a Deliberação CIB-RJ Nº 9.427 de 10 de Abril de 2025, que pactua
+a atualização da Composição Institucional do Grupo Condutor Esta-
+dual da Rede de Atenção Psicossocial (RAPS) do Estado do Rio de
+Janeiro;
+- os desafios atuais na oferta da atenção psicossocial para os cui-
+dados em saúde mental da população do Estado do Rio de Janeiro
+em relação às lacunas de cuidado, formação de profissionais de saú-
+de para os serviços de base comunitária e as demandas das 9 re-
+giões do ERJ que se relacionam às populações em situação de vul-
+nerabilidade psicossocial nos diferentes ciclos de vida e nos seus ter-
+ritórios.
+R E S O LV E :
+Art. 1º - Atualizar a composição institucional do Grupo Condutor Es-
+tadual da Rede de Atenção Psicossocial - GCE/RAPS, no âmbito do
+Estado do Rio de Janeiro.
+Parágrafo Único - No âmbito da Secretaria de Estado de Saúde do
+Rio de Janeiro (SES/RJ), a atividade do Grupo Condutor Estadual da
+RAPS será organizada pela Coordenação de Atenção Psicossocial
+(COOCAPS), órgão afeto à Superintendência de Atenção Psicossocial
+e Populações em Situação de Vulnerabilidade (SUPAPPSV).
+Art. 2º - O Grupo Condutor da RAPS, no âmbito do Estado do Rio de
+Janeiro, será composto por 02 (dois) representantes de cada setor,
+sendo 01 (um) titular e 01 (um) suplente, da seguinte forma:
+I - da Secretaria de Estado de Saúde:
+a) pela Superintendência de Atenção Psicossocial e Populações em
+Situação de Vulnerabilidade (SUPAPPSV);
+b) pela Coordenação de Atenção Psicossocial (COOCAPS);
+c) pela Superintendência de Atenção Primária à Saúde (SUPAPS);
+d) pela Assessoria de Planejamento em Saúde (ASSPS);
+e) pela Assessoria de Regionalização (ASSREG);
+f) pela Superintendência de Atenção Especializada, Controle e Ava-
+liação (SAECA);
+g) pela Coordenação de Urgência e Emergência;
+II - dos Grupos Condutores Regionais da RAPS (GCREG/RAPS/RJ);
+III - do Conselho Estadual de Saúde do Rio de Janeiro (CES/RJ);
+IV - do Conselho de Secretários Municipais de Saúde (COSEMS/RJ);
+V - do Ministério da Saúde:
+a) pela Superintendência Estadual do Ministério da Saúde no Rio de
+Janeiro, por meio do Serviço de Articulação Interfederativa e Partici-
+pativa no Rio de Janeiro (SEINP/RJ);
+VI - da Secretaria de Estado de Assistência Social e Direitos Huma-
+nos (SEASDH/RJ);
+VII - do Ministério Público do Estado do Rio de Janeiro (MPERJ);
+VIII - da Defensoria Pública do Estado do Rio de Janeiro (DPERJ);
+IX - do Tribunal de Justiça do Estado do Rio de Janeiro (TJERJ);
+X - da Secretaria de Estado de Educação (SEEDUC/RJ);
+XI - do Departamento Geral de Ações Socioeducativas (DEGA-
+SE/RJ).
+Parágrafo Único - A escolha do representante e suplente de cada
+um dos nove grupos condutores regionais deverá ser pactuada em
+Comissão Intergestores Regional - CIR.
+Art. 3º - O Grupo Condutor da RAPS no Estado do Rio de Janeiro
+terá como atribuições:
+I- a condução da política de saúde mental pública no âmbito do SUS
+para o cuidado de base territorial e comunitária;
+II - o acompanhamento da implementação da rede SUS e de práticas
+intersetoriais de proteção social para as populações em situação de
+vulnerabilidade psicossocial em todos os ciclos da vida;
+III - a expansão e qualificação da rede de cuidados em saúde men-
+tal;
+IV - a qualificação dos processos de trabalho e dos profissionais da
+atenção psicossocial nos 92 municípios do ERJ através dos Fóruns
+permanentes da Coordenação de Atenção Psicossocial: Fórum Inte-
+rinstitucional de Atenção Psicossocial para Crianças e Adolescentes
+do Estado do Rio de Janeiro; Fórum Interinstitucional de Atenção Psi-
+cossocial para Cuidados em Álcool e Outras Drogas e o Fórum In-
+tersetorial e Interfederativo de Saúde Mental, Direitos Humanos e Jus-
+tiça;
+V- o acompanhamento das situações de crise comunitárias relacio-
+nadas à violência e às catástrofes naturais.
+Art. 4º - A previsão da atividade é bimestral.
+Art. 5º - Esta resolução entrará em vigor na data de sua publicação,
+ficando revogadas as disposições em contrário.
+Rio de Janeiro, 26 de agosto de 2025
+CLAUDIA MARIA BRAGA DE MELLO
+Secretária de Estado de Saúde
+Id: 2673846
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE GESTÃO ESTRATÉGIA
+SUPERINTENDÊNCIA DE RECURSOS HUMANOS
+ATOS DA SUPERINTENDENTE
+DE 25/08/2025
+A P O S E N TA com eficácia 12/01/2024 a servidora ANGELA MARIA PI-
+RES DE OLIVEIRA , Assistente Administrativo de Saúde, classe “A -
+XII”, matrícula nº 144.952-9, ID nº 3169742-9, nos termos do artigo
+3°, § 6° inciso Ia da Emenda Constitucional n° 90/2021, Processo n°
+SEI-080001/030756/2024.
+APOSENTA com eficácia de 30/06/2025 o servidor CARLOS ALBER-
+TO DO NASCIMENTO DIAS, Assistente Administrativo de Saúde,
+classe “A - XII”, matrícula nº 192171-7, ID nº 3037104-0 nos termos
+do artigo 3°, § 6° inciso Ia da Emenda Constitucional n° 90/2021, Pro-
+cesso n° SEI-08/008/3215/2016.
+APOSENTA com eficácia de 26/10/2024 o servidor CARLOS SINVAL
+LYRA DE ANDRADE, Médico, classe “A - XII”, matrícula nº 183.357-
+3, ID nº 3192225-2, nos termos do artigo 3°, § 6° inciso Ia da Emen-
+da Constitucional n° 90/2021, Processo n° SEI-08/008/102149/2018.
+APOSENTA com eficácia de 18/07/2023 o servidor EMILSON BAR-
+CELOS DA CONCEIÇÃO, Artífice de Saúde, classe “A - XII”, matrí-
+cula nº 2225-1. ID nº 3022397-0, nos termos do artigo 2° inciso II e
+artigo 7° § 6° da Lei Complementar 195/2021. Processo n° SEI-
+080015/000510/2023.
+
+## Pagina 16
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0031/U0036
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+APOSENTA com eficácia 24/07/2023 o servidor JORGE BARBOSA
+MIXO, Médico, classe “A - XII”, matrícula nº 153996-4, ID nº 2013104-
+6 nos termos do artigo 3°, § 6° inciso Ia da Emenda Constitucional n°
+90/2021, Processo n° SEI-080015/001011/2023.
+APOSENTA com eficácia 03/02/2024 a servidora MARIA VIEIRA DE
+ALMEIDA, Agente de Saúde Pública, classe “A - XII”, matrícula nº
+147396-6, ID nº 3172892-8 nos termos do artigo 3°, § 6° inciso Ia da
+Emenda Constitucional n° 90/2021, Processo n° SEI-
+080001/030750/2024.
+APOSENTA com eficácia de 28/06/2025 a servidora OLIVIA RIBEIRO
+DE CASTRO, Auxiliar de Enfermagem, classe “A - XII”, matrícula nº
+851.053-9. ID nº 3098127-1, nos termos do artigo 2° inciso II e artigo
+7° § 6° da Lei Complementar 195/2021. Processo n° SEI-
+080001/001359/2022.
+Id: 2673838
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE GESTÃO ESTRATÉGICA
+SUPERINTENDÊNCIA DE RECURSOS HUMANOS
+APOSTILA DA SUPERINTENDENTE
+DE 26/08/2025
+ATO DE 24/10/2016. Publicado no D.O. de 16/11/2016 - MARIA JO-
+SÉ DINIZ FURTADO , Auxiliar de Enfermagem, matrícula nº 812837-3,
+ID. n° 3117804-9, Classe “A” Retificando-se o despacho de
+11/10/2017, publicado no D.O. de 24/10/2017 Ficam fixados, propor-
+cionalmente ao tempo de contribuição, os proventos mensais da ser-
+vidora, pela média remuneratória conforme § 3 do art. 40 da Cons-
+tituição Federal (redação dada E.C n° 41/2003) c/c o art. 1° da Lei
+10.887/04. Ultima Remuneração Atribuída ao Cargo - R$ 1.043,33;
+Média Apurada - R$ 1.506,73; Proporcionalidade: 8.169/10.950 Total:
+778,36; Complemento Remuneratório; R$ 175,11. Lei n° 6983/2015 -
+Piso Regional R$ 953,47; Total R$ 953,47. A partir de 16/11/2016 -
+Processo: SEI-E-08/008/416/2016.
+Id: 2673837
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE GESTÃO ESTRATÉGICA
+SUPERINTENDÊNCIA DE RECURSOS HUMANOS
+DESPACHOS DA SUPERINTENDENTE
+DE 25/08/2025
+PROCESSO N° SEI-080001/030756/2024 - ANGELA MARIA PIRES
+DE OLIVEIRA, Assistente Administrativo de Saúde , classe “A - XII”,
+matrícula nº 144.952-9, ID nº 3169742-9. FIXADOS os proventos
+mensais da servidora com os valores discriminados Vencimento base
+(Lei 7.946/2018, alterado para lei 9.299/2021) atribuído ao cargo R$
+2.253,76, Triênio (60%) (Lei 1608/1990) R$ 1.352,26; Incorporação
+(cargo em comissão) - Lei n°530/82 R$ 40,00 no total de R$
+3.646,02. Integralmente ao tempo de contribuição, nos termos do art.
+3° § 6° inc. Ia da E.C. n° 90/2021, a partir de 12/01/2024.
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE GESTÃO ESTRATÉGICA
+SUPERINTENDÊNCIA DE RECURSOS HUMANOS
+DESPACHO DA SUPERINTENDENTE
+DE 27/08/2025
+PROCESSO Nº SEI-E-08/600264/2004 - CARLOS ALBERTO DOS
+SANTOS, Odontólogo, Id. Funcional nº 30150540 - 03 meses de Li-
+cença Prêmio não gozada, referentes ao período base de 16/08/1993
+a 14/08/1998, totalizando o tempo de 180 dias. AUTORIZO a conta-
+gem em dobro da Licença Prêmio não gozada, a pedido do servidor.
+Id: 2673842
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE GESTÃO ESTRATÉGICA
+SUPERINTENDÊNCIA DE RECURSOS HUMANOS
+DESPACHO DA SUPERINTENDENTE
+DE 27/05/2021
+*PROCESSO Nº SEI-080001/026696/2020 - JOAO LIMA DOS SAN-
+TOS, Técnico de Enfermagem, Id. Funcional nº 3166054-1, Matrícula
+nº 258704-6. A N O TA - S E , para fins de APOSENTADORIA o tempo de
+serviço prestado em atividades vinculadas ao Regime Próprio da Pre-
+vidência Social, no período de 16/03/1979 a 23/07/1982, num total de
+1.226 dias de efetivo exercício - Nos termos do Artigo 80, Inciso I, do
+Decreto nº 2479, de 08/03/1979.
+*Republicado por incorreção no original publicado no D.O. de
+08/08/2025.
+Id: 2673843
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE GESTÃO ESTRATÉGICA
+SUPERINTENDÊNCIA DE RECURSOS HUMANOS
+DESPACHO DA SUPERINTENDENTE
+DE 20/07/2016
+*PROCESSO Nº E-08/008/360/2016 - LURIMAR DE SOUZA MACHA-
+DO, Enfermeiro, Id. Funcional nº 3241782-9, Matrícula nº 850639-6.
+ANOTA-SE, para fins de APOSENTADORIA o tempo de serviço pres-
+tado em atividades vinculadas ao Regime Próprio da Previdência So-
+cial, no período de 25/03/1993 a 15/06/1997, num total de 1.543 dias
+de efetivo exercício - Nos termos do Artigo 80, Inciso I, do Decreto nº
+2479, de 08/03/1979.
+*Republicado por incorreção no original publicado no D.O. de
+27/07/2016.
+Id: 2673840
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE GESTAO ESTRATÉGICA
+SUPERINTENDÊNCIA DE RECURSOS HUMANOS
+COORDENAÇÃO DE ADMINISTRAÇÃO DE RECURSOS HUMANOS
+DIVISÃO DE DIREITOS E VANTAGENS
+D E S PA C H O S DO DIRETOR
+DE 06/05/2009
+*PROCESSO Nº SEI-E-08/605333/2007 - PEDRO COSME CUGOLA
+LIMA, Médico, Matr. nº 299.696-5 - RETIFICAÇÃO do período base
+de 01/03/2002 a 27/02/2007 para 22/11/1993 a 20/11/1998, referente
+ao Despacho de 14/12/2007, publicado no Diário Oficial de
+21/12/2007.
+*Republicado por incorreção no original publicado no D.O. de
+13/05/009.
+*CONCEDO 06 (seis) meses de licença prêmio ao servidor, de acordo
+com os períodos base discriminados abaixo, de acordo com o art. nº
+129 do Decreto nº 2479/1979:
+PROCESSO S E RV I D O R M AT R I C U L A CARGO PERÍODO BASE
+SEI E-08/605333/2007 PEDRO COSME CUGOLA LIMA 299.696-5 MEDICO 21/11/1998 A 19/11/2003 20/11/2003 A 17/11/2008
+*Republicado por incorreção no original publicado no D.O. de 13/05/2009.
+DESPACHO DO DIRETOR
+DE 02/07/2013
+*CONCEDO 03 (três) meses de licença prêmio ao servidor, de acordo com o período base discriminado abaixo, de acordo com o art. nº 129 do Decreto nº 2479/1979:
+PROCESSO S E RV I D O R M AT R I C U L A CARGO PERÍODO BASE
+SEI E-08/605333/2007 PEDRO COSME CUGOLA LIMA 299.696-5 MEDICO 18/11/2008 A 16/11/2013
+*Republicado por incorreção no original publicado no D.O. de 09/07/2013.
+DESPACHO DO DIRETOR
+DE 19/05/2022
+*CONCEDO 06 (seis) meses de licença prêmio ao servidor, de acordo com os períodos base discriminados abaixo, de acordo com o art. nº 129 do Decreto nº 2479/1979:
+PROCESSO S E RV I D O R ID FUNCIONAL CARGO PERÍODO BASE
+SEI E-08/605333/2007 PEDRO COSME CUGOLA LIMA 32358083
+Vinculo 01
+MEDICO 17/ 11 / 2 0 1 3 A 15/ 11 / 2 0 18
+16/11/2018 a 14/11/2023
+*Republicado por incorreção no original publicado no D.O. de 03/06/2022.
+Id: 2673954
+PROCESSO N° SEI-E-08/008/3215/2016 - CARLOS ALBERTO DO
+NASCIMENTO DIAS, Assistente Administrativo de Saúde, classe “A -
+XII”, matrícula nº 192171-7, ID nº 3037104-0. FIXADOS os proventos
+mensais do servidor com os valores discriminados Vencimento base
+(Lei 7.946/2018, alterado para lei 9.299/2021) atribuído ao cargo R$
+2.628,46, Triênio (60%) (Lei 1608/1990) R$ 1.577,08; no total de R$
+4.205,54. Integralmente ao tempo de contribuição, nos termos do art.
+3° § 6° inc. Ia da E.C. n° 90/2021, a partir da eficácia de
+30/06/2025.
+PROCESSO N° SEI-E-08/008/102149/2018 - CARLOS SINVAL LYRA
+DE ANDRADE, Médico, classe “A - XII”, matrícula nº 183.357-3, ID nº
+3192225-2. FIXADOS os proventos mensais do servidor com os va-
+lores discriminados Vencimento base (Lei 7.946/2018, alterado para lei
+9.299/2021) atribuído ao cargo R$ 4.932,68, Triênio (60%) (Lei
+1608/1990) R$ 2.959,61; no total de R$ 7.892,29. Integralmente ao
+tempo de contribuição, nos termos do art. 3° § 6° inc. Ia da E.C. n°
+90/2021, a partir da eficácia de 26/10/2024.
+PROCESSO N° SEI-080015/001011/2023 - JORGE BARBOSA MIXO,
+Médico, classe “A - XII”, matrícula nº 153996-4, ID nº 2013104-6. FI-
+XADOS os proventos mensais do servidor com os valores discrimi-
+nados Vencimento base (Lei 7.946/2018, alterado para lei 9.299/2021)
+atribuído ao cargo R$ 4.586,98, Triênio (60%) (Lei 1608/1990) (cargo
+em comissão incorporado) R$ 9.947,88; Incorporação (cargo em co-
+missão) Lei n° 530/82 total de R$ 5.314,04; Incorporação (represen-
+tação cargo em comissão) Lei n° 530/82 total de R$ 11.265,76; total
+de R$ 31.114,66 Integralmente ao tempo de contribuição, nos termos
+do art. 3° § 6° inc. Ia da E.C. n° 90/2021, a partir da eficácia de
+24/07/2023.
+PROCESSO N° SEI-080001/030750/2024 - MARIA VIEIRA DE ALMEI-
+DA, Agente de Saúde Pública, classe “A - XII”, matrícula nº 147396-6,
+ID nº 3172892-8. FIXADOS os proventos mensais da servidora com
+os valores discriminados Vencimento base (Lei 7.946/2018, alterado
+para lei 9.299/2021) atribuído ao cargo R$ 1.710,54, Triênio (60%)
+(Lei 1608/1990) R$ 1.026,32; no total de R$ 2.736,86. Integralmente
+ao tempo de contribuição, nos termos do art. 3° § 6° inc. Ia da E.C.
+n° 90/2021, a partir de 03/02/2024.
+Id: 2673841
+SECRETARIA DE ESTADO DE SAÚDE
+COMISSÃO INTERGESTORES BIPARTITE
+ATO DAS PRESIDENTES
+DELIBERAÇÃO CONJUNTA AD REFERENDUM CIB RJ Nº 1.204
+DE 26 DE A G O S TO DE 2025
+PACTUA, AD REFERENDUM, JUNTO AO MI-
+NISTÉRIO DA SAÚDE (MS), PROPOSTA Nº
+36000677804202500, REFERENTE AO INCRE-
+MENTO DA MÉDIA E ALTA COMPLEXIDADE
+(MAC), NO VALOR R$ 2.475.985,00 (DOIS MI-
+LHÕES QUATROCENTOS E SETENTA E CIN-
+CO MIL NOVECENTOS E OITENTA E CINCO
+REAIS), DESTINADO À SECRETARIA MUNICI-
+PAL DE SAÚDE DE RESENDE/RJ, CNES Nº
+5473861, VINCULADO À REDE DE ATENÇÃO
+ESPECIALIZADA À SAÚDE.
+A PRESIDENTE DA COMISSÃO INTERGESTORES BIPARTITE E A
+PRESIDENTE DO CONSELHO DE SECRETÁRIOS MUNICIPAIS DE
+SAÚDE DO ESTADO DO RIO DE JANEIRO, no uso de suas atri-
+buições e,
+CONSIDERANDO:
+- a Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as
+condições para a promoção, proteção e recuperação da saúde, a or-
+ganizaçãoeof uncionamento dos serviços correspondentes e dá ou-
+tras providências;
+- a Lei nº 8.142, de 28 de dezembro de 1990, que dispõe sobre a
+participação da comunidade na gestão do Sistema Único de Saúde -
+SUS e sobre as transferências intergovernamentais de recursos finan-
+ceiros na área da saúde;
+- o Decreto nº 7.508, de 28 de junho de 2011, que regulamenta a Lei
+nº 8.080, de 19 de setembro de 1990, para dispor sobre a organi-
+zação do Sistema Único de Saúde (SUS), o planejamento da saúde,
+a assistência à saúde e a articulação interfederativa, e dá outras pro-
+vidências;
+- a Portaria GM/MS Nº 6.904, de 28 de abril de 2025, que dispõe
+sobre as regras para as transferências do Fundo Nacional de Saúde,
+relativas a emendas individuais que destinarem recursos ao Sistema
+Único de Saúde - SUS, em 2025.
+- a solicitação da Secretaria Municipal de Saúde de Resende através
+do Ofício n° 315/2025 de 07 de agosto de 2025;
+- a documentação anexada no processo n° SEI-080001/027831/2025.
+DELIBERAM:
+Art. 1º - Pactuar, ad referendum, junto ao Ministério da Saúde (MS),
+proposta nº 36000677804202500, referente ao Incremento da Média e
+Alta Complexidade (MAC), no valor R$ 2.475.985,00 (dois milhões qua-
+trocentos e setenta e cinco mil novecentos e oitenta e cinco reais), des-
+tinado à Secretaria Municipal de Saúde de Resende/RJ, CNES nº
+5473861, vinculado à Rede de Atenção Especializada à Saúde.
+Art. 2º - Esta Deliberação Conjunta entrará em vigor na data de sua
+publicação ficando revogadas as disposições em contrário.
+Rio de Janeiro, 26 de agosto de 2025
+CLAUDIA MARIA BRAGA DE MELLO
+Presidente
+MARIA DA CONCEIÇÃO DE SOUZA ROCHA
+Presidente do COSEMS
+Id: 2673885
+SECRETARIA DE ESTADO DE SAÚDE
+COMISSÃO INTERGESTORES BIPARTITE
+ATO DAS PRESIDENTES
+DELIBERAÇÃO CONJUNTA AD REFERENDUM CIB RJ Nº 1.205
+DE 26 DE AGOSTO DE 2025
+PACTUA, AD REFERENDUM, A SOLICITA-
+ÇÃO, JUNTO AO MINISTÉRIO DA SAÚDE
+(MS), DE REFORÇO PONTUAL AO TETO DE
+MÉDIA E ALTA COMPLEXIDADE (MAC), NO
+VALOR DE R$ 36.500.000,00 (TRINTA E SEIS
+MILHÕES E QUINHENTOS MIL REAIS), DES-
+TINADO À SECRETARIA MUNICIPAL DE SAÚ-
+DE DE CACHOEIRAS DE MACACU/RJ, CNES
+Nº 6645410, VINCULADO À REDE DE ATEN-
+ÇÃO ESPECIALIZADA À SAUDE.
+A PRESIDENTE DA COMISSÃO INTERGESTORES BIPARTITE E A
+PRESIDENTE DO CONSELHO DE SECRETÁRIOS MUNICIPAIS DE
+SAÚDE DO ESTADO DO RIO DE JANEIRO, no uso de suas atri-
+buições e,
+CONSIDERANDO:
+- a Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as
+condições para a promoção, proteção e recuperação da saúde, a or-
+ganizaçãoeof uncionamento dos serviços correspondentes e dá ou-
+tras providências;
+- a Lei nº 8.142, de 28 de dezembro de 1990, que dispõe sobre a
+participação da comunidade na gestão do Sistema Único de Saúde -
+SUS e sobre as transferências intergovernamentais de recursos finan-
+ceiros na área da saúde;
+- o Decreto nº 7.508, de 28 de junho de 2011, que regulamenta a Lei
+nº 8.080, de 19 de setembro de 1990, para dispor sobre a organi-
+zação do Sistema Único de Saúde (SUS), o planejamento da saúde,
+a assistência à saúde e a articulação interfederativa, e dá outras pro-
+vidências;
+- a Portaria GM/MS Nº 6.904, de 28 de abril de 2025, que dispõe
+sobre as regras para as transferências do Fundo Nacional de Saúde,
+relativas a emendas individuais que destinarem recursos ao Sistema
+Único de Saúde - SUS, em 2025.
+- a solicitação da Secretaria Municipal de Saúde de Cachoeiras de
+Macacu através do Ofício nº 357 de 07 de agosto de 2025;
+- a documentação anexada no processo n° SEI-080001/027769/2025.
+DELIBERAM:
+Art. 1º - Pactuar, ad referendum, a solicitação, junto ao Ministério da
+Saúde (MS), de Reforço Pontual ao Teto de Média e Alta Comple-
+xidade (MAC), no valor de R$ 36.500.000,00 (trinta e seis milhões e
+quinhentos mil reais), destinado à Secretaria Municipal de Saúde de
+Cachoeiras de Macacu/RJ, CNES nº 6645410, vinculado à Rede de
+Atenção Especializada à Saúde.
+Art. 2º - Esta Deliberação Conjunta entrará em vigor na data de sua
+publicação ficando revogadas as disposições em contrário.
+Rio de Janeiro, 26 de agosto de 2025
+CLAUDIA MARIA BRAGA DE MELLO
+Presidente
+MARIA DA CONCEIÇÃO DE SOUZA ROCHA
+Presidente do COSEMS
+Id: 2673886
+SECRETARIA DE ESTADO DE SAÚDE
+COMISSÃO INTERGESTORES BIPARTITE
+ATO DAS PRESIDENTES
+DELIBERAÇÃO CONJUNTA AD REFERENDUM CIB RJ Nº 1.206
+DE 26 DE AGOSTO DE 2025
+PACTUA, AD REFERENDUM, JUNTO AO MI-
+NISTÉRIO DA SAÚDE (MS), PROPOSTA Nº
+93561525002, REFERENTE À AQUISIÇÃO DE
+EQUIPAMENTO E MATERIAL PERMANENTE,
+NO VALOR R$ 1.499.968,00 (UM MILHÃO
+QUATROCENTOS E NOVENTA E NOVE MIL
+NOVECENTOS E SESSENTA E OITO REAIS),
+DESTINADO À SECRETARIA MUNICIPAL DE
+SAÚDE DE LEVY GASPARIAN/RJ, CNES Nº
+7723873, VINCULADO À REDE DE ATENÇÃO
+ESPECIALIZADA À SAÚDE.
+A PRESIDENTE DA COMISSÃO INTERGESTORES BIPARTITE E A
+PRESIDENTE DO CONSELHO DE SECRETÁRIOS MUNICIPAIS DE
+SAÚDE DO ESTADO DO RIO DE JANEIRO, no uso de suas atri-
+buições e,
+CONSIDERANDO:
+- a Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as
+condições para a promoção, proteção e recuperação da saúde, a or-
+ganização e o funcionamento dos serviços correspondentes e dá ou-
+tras providências;
+- a Lei nº 8.142, de 28 de dezembro de 1990, que dispõe sobre a
+participação da comunidade na gestão do Sistema Único de Saúde -
+SUS e sobre as transferências intergovernamentais de recursos finan-
+ceiros na área da saúde;
+
+## Pagina 17
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0031/U0037/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+- o Decreto nº 7.508, de 28 de junho de 2011, que regulamenta a Lei
+nº 8.080, de 19 de setembro de 1990, para dispor sobre a organi-
+zação do Sistema Único de Saúde (SUS), o planejamento da saúde,
+a assistência à saúde e a articulação interfederativa, e dá outras pro-
+vidências;
+- a Portaria GM/MS Nº 6.904, de 28 de abril de 2025, que dispõe
+sobre as regras para as transferências do Fundo Nacional de Saúde,
+relativas a emendas individuais que destinarem recursos ao Sistema
+Único de Saúde - SUS, em 2025.
+- a solicitação da Secretaria Municipal de Saúde de Levy Gasparian
+através do Ofício n° 109/2025 de 29 de junho de 2025;
+- a documentação anexada no processo n° SEI-080001/025816/2025;
+DELIBERAM:
+Art. 1º - Pactuar, ad referendum, junto ao Ministério da Saúde (MS),
+proposta nº 93561525002, referente à Aquisição de Equipamento e
+Material Permanente, no valor R$ 1.499.968,00 (um milhão quatrocen-
+tos e noventa e nove mil novecentos e sessenta e oito reais), des-
+tinado à Secretaria Municipal de Saúde de Levy Gasparian/RJ, CNES
+nº 7723873, vinculado à Rede de Atenção Especializada à Saúde.
+Art. 2º - Esta Deliberação Conjunta entrará em vigor na data de sua
+publicação ficando revogadas as disposições em contrário.
+Rio de Janeiro, 26 de agosto de 2025
+CLAUDIA MARIA BRAGA DE MELLO
+Presidente
+MARIA DA CONCEIÇÃO DE SOUZA ROCHA
+Presidente do COSEMS
+Id: 2673887
+SECRETARIA DE ESTADO DE SAÚDE
+COMISSÃO INTERGESTORES BIPARTITE
+ATO DAS PRESIDENTES
+DELIBERAÇÃO CONJUNTA AD REFERENDUM CIB RJ Nº 1.207
+DE 26 DE AGOSTO DE 2025
+PACTUA, AD REFERENDUM, A S O L I C I TA -
+ÇÃO, JUNTO AO MINISTÉRIO DA SAÚDE
+(MS), DE AMPLIAÇÃO DO TETO DE MÉDIA E
+ALTA COMPLEXIDADE (MAC), NO VALOR
+ANUAL DE R$ 176.000.000,00 (CENTO E SE-
+TENTA E SEIS MILHÕES DE REAIS), DESTI-
+NADO À SECRETARIA MUNICIPAL DE SAÚDE
+DE CABO FRIO/RJ, CNES Nº 7221673, VINCU-
+LADO À REDE DE ATENÇÃO ESPECIALIZA-
+DA À SAUDE.
+A PRESIDENTE DA COMISSÃO INTERGESTORES BIPARTITE E A
+PRESIDENTE DO CONSELHO DE SECRETÁRIOS MUNICIPAIS DE
+SAÚDE DO ESTADO DO RIO DE JANEIRO, no uso de suas atri-
+buições e,
+CONSIDERANDO:
+- a Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as
+condições para a promoção, proteção e recuperação da saúde, a or-
+ganizaçãoeof uncionamento dos serviços correspondentes e dá ou-
+tras providências;
+- a Lei nº 8.142, de 28 de dezembro de 1990, que dispõe sobre a
+participação da comunidade na gestão do Sistema Único de Saúde -
+SUS e sobre as transferências intergovernamentais de recursos finan-
+ceiros na área da saúde;
+- o Decreto nº 7.508, de 28 de junho de 2011, que regulamenta a Lei
+nº 8.080, de 19 de setembro de 1990, para dispor sobre a organi-
+zação do Sistema Único de Saúde (SUS), o planejamento da saúde,
+a assistência à saúde e a articulação interfederativa, e dá outras pro-
+vidências;
+- a Portaria GM/MS Nº 6.904, de 28 de abril de 2025, que dispõe
+sobre as regras para as transferências do Fundo Nacional de Saúde,
+relativas a emendas individuais que destinarem recursos ao Sistema
+Único de Saúde - SUS, em 2025.
+- a solicitação da Secretaria Municipal de Saúde de Cabo Frio através
+do Ofício SEMUSA/CAA/CF nº 304 de 08 de agosto de 2025;
+- a documentação anexada no processo n° SEI-080001/027466/2025.
+DELIBERAM:
+Art. 1º - Pactuar a solicitação, ad referendum, junto ao Ministério da
+Saúde (MS), de Ampliação do Teto de Média e Alta Complexidade
+(MAC), no valor anual de R$ 176.000.000,00 (cento e setenta e seis
+milhões de reais), destinado à Secretaria Municipal de Saúde de Cabo
+Frio/RJ, CNES nº 7221673, vinculado à Rede de Atenção Especiali-
+zada à Saúde.
+Art. 2º - Esta Deliberação Conjunta entrará em vigor na data de sua
+publicação ficando revogadas as disposições em contrário.
+Rio de Janeiro, 26 de agosto de 2025
+CLAUDIA MARIA BRAGA DE MELLO
+Presidente
+MARIA DA CONCEIÇÃO DE SOUZA ROCHA
+Presidente do COSEMS
+Id: 2673888
+SECRETARIA DE ESTADO DE SAÚDE
+COMISSÃO INTERGESTORES BIPARTITE
+ATO DAS PRESIDENTES
+DELIBERAÇÃO CONJUNTA AD REFERENDUM CIB RJ Nº 1.208
+DE 26 DE AGOSTO DE 2025.
+PACTUA, AD REFERENDUM, JUNTO AO MI-
+NISTÉRIO DA SAÚDE (MS), PROPOSTA N°
+11884903000125006, REFERENTE AQUISIÇÃO
+DE EQUIPAMENTOS NO ÂMBITO DA SAÚDE
+DIGITAL E TELESSAÚDE, NO VALOR R$
+7.158,00 (SETE MIL CENTO E CINQUENTA E
+OITO REAIS), DESTINADO À SECRETARIA
+MUNICIPAL DE SAÚDE DE SÃO GONÇA-
+LO/RJ, CNES Nº 6353797, VINCULADO À
+ATENÇÃO BÁSICA.
+A PRESIDENTE DA COMISSÃO INTERGESTORES BIPARTITE E A
+PRESIDENTE DO CONSELHO DE SECRETÁRIOS MUNICIPAIS DE
+SAÚDE DO ESTADO DO RIO DE JANEIRO, no uso de suas atri-
+buições e,
+CONSIDERANDO:
+- a Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as
+condições para a promoção, proteção e recuperação da saúde, a or-
+ganizaçãoeof uncionamento dos serviços correspondentes e dá ou-
+tras providências;
+- a Lei nº 8.142, de 28 de dezembro de 1990, que dispõe sobre a
+participação da comunidade na gestão do Sistema Único de Saúde -
+SUS e sobre as transferências intergovernamentais de recursos finan-
+ceiros na área da saúde;
+- o Decreto nº 7.508, de 28 de junho de 2011, que regulamenta a Lei
+nº 8.080, de 19 de setembro de 1990, para dispor sobre a organi-
+zação do Sistema Único de Saúde (SUS), o planejamento da saúde,
+a assistência à saúde e a articulação interfederativa, e dá outras pro-
+vidências;
+- a Portaria GM/MS Nº 6.904, de 28 de abril de 2025, que dispõe
+sobre as regras para as transferências do Fundo Nacional de Saúde,
+relativas a emendas individuais que destinarem recursos ao Sistema
+Único de Saúde - SUS, em 2025.
+- a solicitação da Secretaria Municipal de Saúde de São Gonçalo
+através do Ofício n° 188/2025 de 14 de agosto de 2025;
+- a documentação anexada no processo n° SEI-080001/028099/2025.
+DELIBERAM:
+Art. 1º - Pactuar, ad referendum, junto ao Ministério da Saúde (MS),
+proposta n° 11884903000125006, referente Aquisição de Equipamen-
+tos no âmbito da Saúde Digital e Telessaúde, no valor R$ 7.158,00
+(sete mil cento e cinquenta e oito reais), destinado à Secretaria Mu-
+nicipal de Saúde de São Gonçalo/RJ, CNES nº 6353797, vinculado à
+Atenção Básica.
+Art. 2º - Esta Deliberação Conjunta entrará em vigor na data de sua
+publicação ficando revogadas as disposições em contrário.
+Rio de Janeiro, 26 de agosto de 2025
+CLAUDIA MARIA BRAGA DE MELLO
+Presidente
+MARIA DA CONCEIÇÃO DE SOUZA ROCHA
+Presidente do COSEMS
+Id: 2673889
+SECRETARIA DE ESTADO DE SAÚDE
+COMISSÃO INTERGESTORES BIPARTITE
+ATO DAS PRESIDENTES
+DELIBERAÇÃO CONJUNTA AD REFERENDUM CIB RJ Nº 1.209
+DE 27 DE A G O S TO DE 2025
+PA C T U A , AD REFERENDUM, JUNTO AO MI-
+NISTÉRIO DA SAÚDE (MS), PROPOSTA Nº
+36000695268202500, REFERENTE AO INCRE-
+MENTO DA MÉDIA E ALTA COMPLEXIDADE
+(MAC), NO VALOR DE R$ 830.315,00 (OITO-
+CENTOS E TRINTA MIL TREZENTOS E QUIN-
+ZE REAIS), DESTINADO À SECRETARIA MU-
+NICIPAL DE SAÚDE DE SEROPÉDICA/RJ,
+CNES Nº 6432352, VINCULADO À REDE DE
+ATENÇÃO ESPECIALIZADA À SAUDE.
+A PRESIDENTE DA COMISSÃO INTERGESTORES BIPARTITE E A
+PRESIDENTE DO CONSELHO DE SECRETÁRIOS MUNICIPAIS DE
+SAÚDE DO ESTADO DO RIO DE JANEIRO, no uso de suas atri-
+buições, e
+CONSIDERANDO:
+- a Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as
+condições para a promoção, proteção e recuperação da saúde, a or-
+ganizaçãoeof uncionamento dos serviços correspondentes e dá ou-
+tras providências,
+- a Lei nº 8.142, de 28 de dezembro de 1990, que dispõe sobre a
+participação da comunidade na gestão do Sistema Único de Saúde -
+SUS e sobre as transferências intergovernamentais de recursos finan-
+ceiros na área da saúde,
+- o Decreto nº 7.508, de 28 de junho de 2011, que regulamenta a Lei
+nº 8.080, de 19 de setembro de 1990, para dispor sobre a organi-
+zação do Sistema Único de Saúde (SUS), o planejamento da saúde,
+a assistência à saúde e a articulação interfederativa, e dá outras pro-
+vidências,
+- a Portaria GM/MS Nº 6.904, de 28 de abril de 2025, que dispõe
+sobre as regras para as transferências do Fundo Nacional de Saúde,
+relativas a emendas individuais que destinarem recursos ao Sistema
+Único de Saúde - SUS, em 2025,
+- a solicitação da Secretaria Municipal de Saúde de Seropédica atra-
+vés Ofício nº 1.022 de 25 de agosto de 2025, e
+- a documentação anexada no Processo n° SEI-080001/029334/2025;
+DELIBERAM:
+Art. 1º - Pactuar, ad referendum, junto ao Ministério da Saúde (MS),
+proposta nº 36000695268202500, referente ao Incremento da Média e
+Alta Complexidade (MAC), no valor R$ 830.315,00 (oitocentos e trinta
+mil trezentos e quinze reais), destinado à Secretaria Municipal de
+Saúde de Seropédica/RJ, CNES nº 6432352, vinculado à Rede de
+Atenção Especializada à Saúde.
+Art. 2º - Esta Deliberação entrará em vigor na data de sua publicação
+ficando revogadas as disposições em contrário.
+Rio de Janeiro, 27 de agosto de 2025
+CLAUDIA MARIA BRAGA DE MELLO
+Presidente
+MARIA DA CONCEIÇÃO DE SOUZA ROCHA
+Presidente do COSEMS
+Id: 2674026
+SECRETARIA DE ESTADO DE SAÚDE
+COMISSÃO INTERGESTORES BIPARTITE
+ATO DA PRESIDENTE
+DELIBERAÇÃO CONJUNTA AD REFERENDUM CIB RJ Nº 1.210
+DE 27 DE AGOSTO DE 2025
+PA C T U A , AD REFERENDUM, JUNTO AO MI-
+NISTÉRIO DA SAÚDE (MS), PLANO DE
+AÇÃO: 09032025-085542/2025, REFERENTE
+AMPLIAÇÃO E MODERNIZAÇÃO DA CLÍNICA
+DA CRIANÇA, CNES Nº 2287099, LOCALIZA-
+DO NO MUNICÍPIO DE CAMPOS DOS GOYTA-
+CAZES/RJ, NO VALOR DE R$ 4.950.000,00
+(QUATRO MILHÕES NOVECENTOS E CIN-
+QUENTA MIL REAIS), VINCULADO À REDE
+DE ATENÇÃO ESPECIALIZADA À SAUDE.
+A PRESIDENTE DA COMISSÃO INTERGESTORES BIPARTITE E A
+PRESIDENTE DO CONSELHO DE SECRETÁRIOS MUNICIPAIS DE
+SAÚDE DO ESTADO DO RIO DE JANEIRO, no uso de suas atri-
+buições, e
+CONSIDERANDO:
+- a Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as
+condições para a promoção, proteção e recuperação da saúde, a or-
+ganizaçãoeof uncionamento dos serviços correspondentes e dá ou-
+tras providências,
+- a Lei nº 8.142, de 28 de dezembro de 1990, que dispõe sobre a
+participação da comunidade na gestão do Sistema Único de Saúde -
+SUS e sobre as transferências intergovernamentais de recursos finan-
+ceiros na área da saúde,
+- o Decreto nº 7.508, de 28 de junho de 2011, que regulamenta a Lei
+nº 8.080, de 19 de setembro de 1990, para dispor sobre a organi-
+zação do Sistema Único de Saúde (SUS), o planejamento da saúde,
+a assistência à saúde e a articulação interfederativa, e dá outras pro-
+vidências,
+- a solicitação da Secretaria Municipal de Saúde de Campos dos Goy-
+tacazes através Ofício nº 0343 de 28 de julho de 2025, e
+- a documentação anexada no Processo n° SEI-080001/029121/2025;
+DELIBERAM:
+Art. 1º - Pactuar, ad referendum, junto ao Ministério da Saúde (MS), o
+Plano de Ação: 09032025-085542/2025, referente a Ampliação e Mo-
+dernização da Clínica da Criança, CNES nº 2287099, no valor R$
+4.950.000,00 (quatro milhões novecentos e cinquenta mil reais), loca-
+lizado no município de Campos dos Goytacazes/RJ, vinculado à Rede
+de Atenção Especializada à Saúde.
+Art. 2º - Esta Deliberação entrará em vigor na data de sua publicação
+ficando revogadas as disposições em contrário.
+Rio de Janeiro, 27 de agosto de 2025
+CLAUDIA MARIA BRAGA DE MELLO
+Presidente
+MARIA DA CONCEIÇÃO DE SOUZA ROCHA
+Presidente do COSEMS
+Id: 2674067
+SECRETARIA DE ESTADO DE SAÚDE
+COMISSÃO INTERGESTORES BIPARTITE
+ATO DA PRESIDENTE
+DELIBERAÇÃO CONJUNTA AD REFERENDUM CIB RJ Nº 1.211
+DE 27 DE AGOSTO DE 2025
+PA C T U A , AD REFERENDUM, JUNTO AO MI-
+NISTÉRIO DA SAÚDE, A RECOMPOSIÇÃO DE
+TETO MAC, VISANDO APORTE FINANCEIRO
+COMPLEMENTAR PARA APOIO AO CUSTEIO
+DAS ATIVIDADES DO HOSPITAL MUNICIPAL
+BARATA RIBEIRO, CNES Nº 2270242 NO VA-
+LOR ANUAL DE R$ 81.703.920,48 (OITENTA E
+UM MILHÕES SETECENTOS E TRÊS MIL NO-
+VECENTOS E VINTE REAIS E QUARENTA E
+OITO CENTAVOS), DO MUNICÍPIO DO RIO DE
+JANEIRO.
+A PRESIDENTE DA COMISSÃO INTERGESTORES BIPARTITE E A
+PRESIDENTE DO CONSELHO DE SECRETÁRIOS MUNICIPAIS DE
+SAÚDE DO ESTADO DO RIO DE JANEIRO, no uso de suas atri-
+buições, e
+CONSIDERANDO:
+- a solicitação da Secretaria Municipal de Saúde do Rio de Janeiro
+através do OFÍCIO N.º SMS-OFI-OFI-2025/33966 de 26 de agosto de
+2025, e
+- a documentação anexada no Processo n° SEI-080001/025547/2025;
+DELIBERAM:
+Art. 1º - Pactuar, ad referendum, junto ao Ministério da Saúde (MS), a
+recomposição de teto MAC, visando aporte financeiro complementar
+para apoio ao custeio das atividades do Hospital Municipal Barata Ri-
+beiro, CNES Nº 2270242 no valor anual de R$ 81.703.920,48 (oitenta
+e um milhões setecentos e três mil novecentos e vinte reais e qua-
+renta e oito centavos), do município do Rio de Janeiro.
+Art. 2º - Esta Deliberação entrará em vigor na data de sua publicação
+ficando revogada a Deliberação CIB-RJ nº 10.220, de 14 de agosto
+de 2025, publicada no Diário Oficial deste Estado em 20 de agosto de
+2025.
+Rio de Janeiro, 27 de agosto de 2025
+CLAUDIA MARIA BRAGA DE MELLO
+Presidente
+MARIA DA CONCEIÇÃO DE SOUZA ROCHA
+Presidente do COSEMS
+Id: 2674068
+SECRETARIA DE ESTADO DE SAÚDE
+COMISSÃO INTERGESTORES BIPARTITE
+ATO DA PRESIDENTE
+DELIBERAÇÃO CONJUNTA AD REFERENDUM CIB RJ Nº 1.212
+DE 27 DE A G O S TO DE 2025
+PA C T U A , AD REFERENDUM, A SOLICITA-
+ÇÃO, JUNTO AO MINISTÉRIO DA SAÚDE DO
+PLANO DE AÇÃO DE NUMERO 09032025-
+078284, NO VALOR DE R$ 5.161.860,00 (CIN-
+CO MILHÕES E CENTO SESSENTA E UM MIL
+E OITOCENTOS E SESSENTA REAIS), DESTI-
+NADO A CONSTRUÇÃO DE UNIDADE BÁSI-
+CA DE SAÚDE NO MUNICÍPIO DE SÃO JOÃO
+DE MERITI/RJ.
+A PRESIDENTE DA COMISSÃO INTERGESTORES BIPARTITE E A
+PRESIDENTE DO CONSELHO DE SECRETÁRIOS MUNICIPAIS DE
+SAÚDE DO ESTADO DO RIO DE JANEIRO, no uso de suas atri-
+buições e,
+CONSIDERANDO:
+- o Ofício SMS/GAB nº 301/2025 da Secretaria Municipal de Saúde
+de São João de Meriti/RJ;
+- a Resolução CIT Nº 10 de 08 de dezembro de 2016, que dispõe
+complementarmente sobre o planejamento integrado das despesas de
+capital e custeio para os investimentos em novos serviços de saúde
+no âmbito do Sistema Único de Saúde (SUS);
+- a documentação anexada no processo n° SEI-080001/029438/2025.
+DELIBERAM:
+Art. 1º - Pactuar a solicitação ad referendum, do Plano de Ação de
+numero 09032025-078284, junto ao Ministério da Saúde (MS), no va-
+lor de R$ 5.161.860,00 (cinco milhões e cento sessenta e um mil e
+oito centos e sessenta reais), destinado à construção de Unidade Bá-
+sica de Saúde no município de São João de Meriti/RJ.
+Art. 2º - Esta deliberação Conjunta entrará em vigor a partir da data
+de sua publicação, ficando revogadas as disposições em contrário.
+Rio de Janeiro, 27 de agosto de 2025
+CLAUDIA MARIA BRAGA DE MELLO
+Presidente
+MARIA DA CONCEIÇÃO DE SOUZA ROCHA
+Presidente do COSEMS
+Id: 2674085
+
+## Pagina 18
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0031/U0038
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+SECRETARIA DE ESTADO DE SAÚDE
+COMISSÃO INTERGESTORES BIPARTITE
+ATO DA PRESIDENTE
+DELIBERAÇÃO CONJUNTA AD REFERENDUM CIB RJ Nº 1.213
+DE 27 DE AGOSTO DE 2025
+PACTUA, AD REFERENDUM, AD REFEREN-
+DUM A SOLICITAÇÃO, JUNTO AO MINISTÉ-
+RIO DA SAÚDE (MS), DE AMPLIAÇÃO DO
+TETO DE MÉDIA E ALTA COMPLEXIDADE
+(MAC), NO VALOR ANUAL DE R$
+30.000.000,00 (TRINTA MILHÕES DE REAIS),
+DESTINADO À SECRETARIA MUNICIPAL DE
+SAÚDE DE ITABORAÍ/RJ, CNES Nº 6541151,
+VINCULADO À REDE DE ATENÇÃO ESPECIA-
+LIZADA À SAUDE.
+A PRESIDENTE DA COMISSÃO INTERGESTORES BIPARTITE E A
+PRESIDENTE DO CONSELHO DE SECRETÁRIOS MUNICIPAIS DE
+SAÚDE DO ESTADO DO RIO DE JANEIRO, no uso de suas atri-
+buições e,
+CONSIDERANDO:
+- a Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as
+condições para a promoção, proteção e recuperação da saúde, a or-
+ganização e o funcionamento dos serviços correspondentes e dá ou-
+tras providências;
+- a Lei nº 8.142, de 28 de dezembro de 1990, que dispõe sobre a
+participação da comunidade na gestão do Sistema Único de Saúde -
+SUS e sobre as transferências intergovernamentais de recursos finan-
+ceiros na área da saúde;
+- o Decreto nº 7.508, de 28 de junho de 2011, que regulamenta a Lei
+nº 8.080, de 19 de setembro de 1990, para dispor sobre a organi-
+zação do Sistema Único de Saúde (SUS), o planejamento da saúde,
+a assistência à saúde e a articulação interfederativa, e dá outras pro-
+vidências;
+- a solicitação da Secretaria Municipal de Saúde de Itaboraí através
+do Ofício nº 820 - GAB/SMS/PMI de 27 de agosto de 2025;
+- a documentação anexada no processo n° SEI-080001/029729/2025;
+DELIBERAM:
+Art. 1º - Pactuar ad referendum, a solicitação, junto ao Ministério da
+Saúde (MS), de Ampliação do Teto de Média e Alta Complexidade
+(MAC), no valor anual de R$ 30.000.000,00 (trinta milhões de reais),
+destinado à Secretaria Municipal de Saúde de Itaboraí/RJ, CNES nº
+6541151, vinculado à Rede de Atenção Especializada à Saúde.
+Art. 2º - Esta Deliberação Conjunta entrará em vigor a partir da data
+de sua publicação, ficando revogadas as disposições em contrário.
+Rio de Janeiro, 27 de agosto de 2025
+CLAUDIA MARIA BRAGA DE MELLO
+Presidente
+MARIA DA CONCEIÇÃO DE SOUZA ROCHA
+Presidente do COSEMS
+Id: 2674086
+SECRETARIA DE ESTADO DE SAÚDE
+COMISSÃO INTERGESTORES BIPARTITE
+ATO DA PRESIDENTE
+DELIBERAÇÃO CIB-RJ Nº 10.366 DE 26 DE AGOSTO DE 2025
+PACTUAR, JUNTO AO MINISTÉRIO DA SAÚ-
+DE (MS), PROPOSTA Nº 36000673013202500,
+REFERENTE AO INCREMENTO DA MÉDIA E
+ALTA COMPLEXIDADE (MAC), NO VALOR DE
+R$ 1.600.000,00 (UM MILHÃO E SEISCENTOS
+MIL REAIS), DESTINADO À SECRETARIA MU-
+NICIPAL DE SAÚDE DE CARMO/RJ, CNES Nº
+6591817, VINCULADO À REDE DE ATENÇÃO
+ESPECIALIZADA À SAÚDE.
+A PRESIDENTE DA COMISSÃO INTERGESTORES BIPARTITE , no
+uso de suas atribuições legais, e
+CONSIDERANDO:
+- a Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as
+condições para a promoção, proteção e recuperação da saúde, a or-
+ganizaçãoeof uncionamento dos serviços correspondentes e dá ou-
+tras providências;
+- a Lei nº 8.142, de 28 de dezembro de 1990, que dispõe sobre a
+participação da comunidade na gestão do Sistema Único de Saúde -
+SUS e sobre as transferências intergovernamentais de recursos finan-
+ceiros na área da saúde;
+- o Decreto nº 7.508, de 28 de junho de 2011, que regulamenta a Lei
+nº 8.080, de 19 de setembro de 1990, para dispor sobre a organi-
+zação do Sistema Único de Saúde (SUS), o planejamento da saúde,
+a assistência à saúde e a articulação interfederativa, e dá outras pro-
+vidências;
+- a Portaria GM/MS Nº 6.904, de 28 de abril de 2025, que dispõe
+sobre as regras para as transferências do Fundo Nacional de Saúde,
+relativas a emendas individuais que destinarem recursos ao Sistema
+Único de Saúde - SUS, em 2025.
+- a solicitação da Secretaria Municipal de Saúde de Carmo através
+Ofício nº 124 de 08 de agosto de 2025;
+- a documentação anexada no processo n° SEI-080001/027207/2025;
+- a 7ª Reunião Ordinária da CIB-RJ realizada em 14/08/2025.
+DELIBERA:
+Art. 1º - Pactuar, junto ao Ministério da Saúde (MS), proposta nº
+36000673013202500, referente ao Incremento da Média e Alta Com-
+plexidade (MAC), no valor R$ 1.600.000,00 (um milhão e seiscentos
+mil reais), destinado à Secretaria Municipal de Saúde de Carmo/RJ,
+CNES nº 6591817, vinculado à Rede de Atenção Especializada à
+Saúde.
+Art. 2º - Esta Deliberação entrará em vigor na data de sua publicação
+ficando revogadas as disposições em contrário.
+Rio de Janeiro, 26 de agosto de 2025
+CLAUDIA MARIA BRAGA DE MELLO
+Presidente
+Id: 2673839
+SECRETARIA DE ESTADO DE SAÚDE
+FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO
+DIRETORIA EXECUTIVA
+ATO S DO DIRETOR EXECUTIVO
+DE 26/08/2025
+PORTARIA FS/DE Nº 2268/2025 - EXONERA ANITA BENCAO GAR-
+CIA DE SOUZA , Id Funcional n° 5139756-0, a contar de 31/08/2025,
+do cargo de livre provimento de Assessor de Planejamento, com lo-
+tação na Unidade de Pronto Atendimento - UPA 24H Botafogo, da
+Fundação Saúde do Estado do Rio de Janeiro. Processo nº SEI-
+080002/021286/2025.
+P O R TA R IA FS/DE Nº 2269/2025 - NOMEIA ANITA BENCAO GAR-
+CIA DE SOUZA , Id Funcional n° 5139756-0, para exercer, com va-
+lidade a contar de 1º/09/2025, o cargo de livre provimento de Asses-
+sor de Planejamento, com lotação no Hospital Estadual da Mãe de
+Mesquita, da Fundação Saúde do Estado do Rio de Janeiro. Processo
+n° SEI-080002/021287/2025.
+Id: 2674006
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DO FUNDO ESTADUAL DE SAÚDE
+DESPACHO DO SUBSECRETÁRIO
+DE 27/08/2025
+PROCESSO N° SEI-080001/018363/2024 - RECONHEÇO A DÍVIDA
+DE EXERCÍCIO ANTERIOR, referente ao servidor ADRIANA CAMA-
+RA COLOMBO, ID Funcional nº 30701732/01, no valor de
+R$24.322,97 (vinte e quatro mil trezentos e vinte e dois reais e no-
+venta e sete centavos), a título de LICENÇA PRÊMIO NÃO USU-
+FRUÍDA, em face dos termos expostos pela Coordenação de Paga-
+mento de Pessoal, na qualidade de Ordenador de Despesas da SES,
+designado por meio da Resolução SES nº 3246/2024, e com funda-
+mento legal no Art. 37 da Lei Federal nº 4.320 de 17 de março de
+1964, bem como o Art. 11, inciso III, da Lei Estadual nº 287 de 04 de
+dezembro de 1979.
+Id: 2673844
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE VIGILÂNCIA E ATENÇÃO PRIMÁRIA
+À SAÚDE
+SUPERINTENDÊNCIA DE VIGILÂNCIA SANITÁRIA
+ATO DA SUPERINTENDENTE
+PORTARIA SES/SUVISA Nº 4244 DE 21 DE AGOSTO DE 2025
+CANCELA A LICENÇA DE FUNCIONAMENTO
+DE ESTABELECIMENTO E DETERMINA AR-
+QUIVAMENTO DO PROCESSO.
+A SUPERINTENDENTE DE VIGILÂNCIA SANITÁRIA, no uso de
+suas atribuições legais, tendo em vista o que consta no processo n°
+SEI-E-08/105715/1980, e
+CONSIDERANDO:
+- o Artigo 2º do Decreto nº 1754 de 14/03/78;
+- o Decreto nº 45239 de 30/04/2015;
+- o Decreto nº 45394 de 02/10/2015;
+R E S O LV E :
+Art. 1º - Cancelar a Licença de Funcionamento dos estabelecimentos
+abaixo mencionados:
+Empresa: Química Haller Ltda.
+Endereço: Avenida Além Paraíba, Nº 104 A - Higienópolis - Rio
+de Janeiro - RJ.
+CNPJ: 33.036.815/0001-80
+Proc. nº: E-08/105.715/1980
+Motivo: A Empresa não solicitou revalidação de licença nos
+anos de 2023, 2024 e 2025 no Sistema do Protocolo
+Art. 2º - Determinar o arquivamento do processo referido no Artigo
+1º.
+Art. 3º - Esta Portaria entrará em vigor na data de sua publicação,
+revogadas as disposições em contrário.
+Rio de Janeiro, 21 de agosto de 2025
+HELEN KELLER SARAIVA E SILVA BARRETO
+Superintendente de Vigilância Sanitária
+Id: 2673845
+ADMINISTRAÇÃO VINCULADA
+FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO
+D I R E TO R IA ADMINISTRATIVO FINANCEIRO
+DESPACHO DO DIRETOR
+DE 22/08/2025
+PROCESSO Nº SEI-080002/005224/2024 - ADJUDICO e HOMOLO-
+GO a licitação por Pregão Eletrônico n° 21/2025, para aquisição de
+mochila de resgate para atender as demandas do SAMU e TIH, nos
+moldes do que preconiza a Lei Federal n° 14.133/2021 e o Decreto
+Estadual nº 48.816/2023, para atender as necessidades do Serviço de
+Atendimento Móvel de Urgência (SAMU) e Unidade Transporte inter-
+hospitalar (TIH), Unidades geridas pela Fundação Saúde do Estado
+do Rio de Janeiro, em favor das empresas SMARTHECNOLOGY CO-
+MÉRCIO E ASSISTÊNCIA DE EQUIPAMENTOS MÉDICOS LTDA
+(09.399.842/0001-32), classificada nos itens 1, 2 e 3, perfazendo o va-
+lor total de R$ 120.421,00 (cento e vinte mil quatrocentos e vinte e
+um reais); e SQUADRA DO BRASIL DISTRIBUIDORA DE EQUIPA-
+MENTOS LTDA (30.037.851/0001-70), classificada nos itens 4, 5 e 6,
+perfazendo o valor total de R$ 107.595,40 (cento e sete mil quinhen-
+tos e noventa e cinco reais e quarenta centavos). Despacho da Ho-
+mologação (doc. SEI 110317053).
+Id: 2674060
+Secretaria de Estado de Educação
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+DESPACHO DA SECRETÁRIA
+DE 25/08/2025
+PROCESSO Nº SEI-030001/059565/2025 - Considerando os atos pra-
+ticados pelas autoridades competentes desta Secretaria de Estado de
+Educação do Rio de Janeiro, nos termos do inciso VIII do art. 72 e
+parágrafo único da Lei Federal nº 14.133/2021 c/c § 2º do art. 5º do
+Decreto Estadual nº 48.820/2023, RATIFICO a Inexigibilidade de Li-
+citação, com fulcro no art. 74, inciso III, alínea “f” da Lei Federal nº
+14.133/2021, para contratação de 05 (cinco) vagas para a participação
+no "2º Curso de Elaboração de Artefatos de Planejamento da Con-
+tratação por meio de Inteligência Artificial - Manual Prático na Admi-
+nistração Pública", ofertado pela ASSOCIAÇÃO BRASILEIRA DE OR-
+ÇAMENTO PÚBLICO - ABOP, inscrita no CNPJ/MF sob o nº
+00.398.099/0001-21, no valor total de R$ 12.500,00 (doze mil e qui-
+nhentos reais).
+Id: 2673865
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO DE ENSINO
+ATO DA SUBSECRETÁRIA
+PORTARIA SEEDUC/SUBGEN Nº 1115
+DE 21 DE AGOSTO DE 2025
+DESIGNA SERVIDOR PARA A GERÊNCIA DO
+TERMO DE COOPERAÇÃO TÉCNICA QUE
+MENCIONA.
+A SUBSECRETÁRIA DE GESTÃO DE ENSINO , no uso de suas atri-
+buições legais e tendo em vista o que consta no processo nº SEI-
+030001/021002/2025; e
+CONSIDERANDO:
+- a Resolução SEEDUC nº 4312, de junho de 2009, que dispõe sobre
+normas gerenciais para controle dos instrumentos contratuais e ou-
+tros;
+- o Decreto nº 48.817 de 24 de novembro de 2023, que regulamenta
+a Gestão e a Fiscalização das contratações no âmbito da Adminis-
+tração Pública Estadual Direta, Autárquica e Fundacional;
+R E S O LV E :
+Art. 1º - Designar a Servidora abaixo discriminada, em substituição da
+servidora Isa Helena Alves, ID: 4274904-2, para exercer a Gerência
+do Termo de Cooperação Técnica nº 98981833/2025, celebrado entre
+a Secretaria de Estado de Educação - SEEDUC e a Fundação de
+Educação Profissional e Tecnológica, Amparo à Pesquisa, Políticas
+Sociais e Desenvolvimento Socioeconômico de Tanguá - FAG para
+oferta de vagas em Cursos de Educação Profissional e Tecnológica -
+EPT a estudantes do Ensino Médio da rede estadual de ensino.
+GERENTE: Mara Lúcia Gomes de Campos, ID: 3964148-1;
+Art. 2º - Esta Portaria entrará em vigor na data de sua publicação,
+revogadas as disposições em contrário.
+Rio de Janeiro, 21 de agosto de 2025
+JOILZA RANGEL ABREU
+Subsecretária de Gestão de Ensino
+Id: 2673800
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA EXECUTIVA
+ATO DO SUBSECRETÁRIO
+DE 21/08/2025
+INSTAURA tomada de contas, objeto do Processo nº SEI-
+030001/084346/2025, decorrente da não apresentação de Prestação
+de Contas dos recursos Repassados para merenda e manutenção à
+AAE da EE Machado de Assis, referentes ao período do 2º semestre
+do ano de 2023 (01/07/2023 a 31/12/2023), em face de Eduardo An-
+tonino Arruda, ID Funcional 43353339, conforme despacho SEE-
+DUC/COMISTC (108720744).
+Id: 2673992
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
+ATOS DO SUPERINTENDENTE
+DE 25/08/2025
+TORNA SEM EFEITO o ato de aposentadoria de 24/07/2025, publi-
+cado em 29/07/2025, que aposentou o servidor MAX WILLIAM SAN-
+TOS DE OLIVEIRA , Professor Docente I 18 horas, nível C, referência
+8, matrícula 824.955-9, ID. Funcional nº 35716835, Vínculo 01. Pro-
+cesso nº SEI-080001/020695/2025.
+TO R N A SEM EFEITO o ato de aposentadoria de 18/08/2025, publi-
+cado em 20/08/2025, que aposentou a servidora DOROTEA FROTA
+S A N TA N A , Professor Docente I 40horas, nível D, referência 9, ma-
+trícula 5.251.864-4, ID. Funcional nº 35121360, vínculo 01. Processo
+nº SEI-080001/027078/2025.
+Id: 2673872
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBS E C R E TA R I A DE GESTÃO ADMINISTRATIVA
+SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
+ATOS DO SUPERINTENDENTE
+DE 26/08/2025
+REDUZ em 50% (cinquenta por cento) a carga horária de trabalho de
+BEATRIZ SILVA AMARAL, Professor Docente I, Id. Funcional nº
+5590400, vínculo 3, pelo período de 01 (um) ano a contar da data de
+publicação. Processo nº SEI-030001/076128/2025.
+REDUZ em 50% (cinquenta por cento) a carga horária de trabalho de
+CRISTINI OFRANTE SALLES BARBOSA, Professor Docente I, Id.
+Funcional nº 4262649-8 , vínculo 2, pelo período de 01 (um) ano a
+contar da data de publicação. Processo nº SEI-030001/047612/2025.
+REDUZ em 50% (cinquenta por cento) a carga horária de trabalho de
+SIMONE SERVULO ROMANO DA SILVA MARTINS, Professor Do-
+cente I, Id. Funcional nº 4210457-2 , vínculo 2, pelo período de 01
+(um) ano a contar de 15/07/2025. Processo nº SEI-
+030033/002506/2022.
+REDUZ em 50% (cinquenta por cento) a carga horária de trabalho de
+MARIA DO AMPARO ALVES DE ALMEIDA COSTA, Professor Do-
+cente I, Id. Funcional nº 4277268-0 , vínculos 1 e 3, pelo período de
+01 (um) ano a contar de 04/08/2025. Processo nº SEI-
+030030/003584/2022.
+REDUZ em 50% (cinquenta por cento) a carga horária de trabalho de
+NATALIA MIRANDA DA SILVA CAVALCANTE, Professor Docente I,
+Id. Funcional nº 5024221-0 , vínculo 1, pelo período de 01 (um) ano a
+contar de 28/05/2025. Processo nº SEI-030036/002777/2023.
+REDUZ em 50% (cinquenta por cento) a carga horária de trabalho de
+CARLA DANIELE DE MORAES MARQUES FERREIRA, Professor
+Docente I, Id. Funcional nº 4333040-1 , vínculo 1, pelo período de 01
+(um) ano a contar de 29/04/2025. Processo nº SEI-
+030038/001637/2021.
+REDUZ em 50% (cinquenta por cento) a carga horária de trabalho de
+REGIANE GOMES DOS SANTOS, Professor Docente I, Id. Funcional
+nº 1105162-0 , vínculo 1, pelo período de 01 (um) ano a contar de
+11/02/2025. Processo nº SEI-030034/001016/2020.
+REDUZ em 50% (cinquenta por cento) a carga horária de trabalho de
+NEUZILEIA MARTINS ASSUNÇÃO, Professor Docente I, Id. Funcio-
+nal nº 5008933-1 , vínculos 1 e 2, pelo período de 01 (um) ano a con-
+tar de 07/05/2025. Processo nº SEI-030001/018057/2024.
+REDUZ em 50% (cinquenta por cento) a carga horária de trabalho de
+WELLINGTON BATISTA DE OLIVEIRA, Professor Docente I, Id. Fun-
+cional nº 5007056-8 , vínculos 1 e 2, pelo período de 01 (um) ano a
+contar de 06/05/2025. Processo nº SEI-030039/000265/2022.
+REDUZ em 50% (cinquenta por cento) a carga horária de trabalho de
+SERGIO AUGUSTO DE ALMEIDA MENDES, Professor Docente I, Id.
+Funcional nº 3378154-0 , vínculo 1, pelo período de 01 (um) ano a
+contar da data de publicação. Processo nº SEI-030001/071595/2025.
+REDUZ em 50% (cinquenta por cento) a carga horária de trabalho de
+ANTONIO ALVES DA SILVA JUNIOR, Agente de Segurança Socioe-
+ducativa, Id. Funcional nº 4199208-3 , vínculo 1, pelo período de 01
+(um) ano a contar de 18/03/2025. Processo nº SEI-E-
+03/021/736/2016.
+REDUZ em 50% (cinquenta por cento) a carga horária de trabalho de
+JANAINA RANGEL SILVA, Agente Administrativo, Id. Funcional nº
+4284677-3, vínculo 2, pelo período de 01 (um) ano a contar de
+28/06/2025. Processo nº SEI-030002/005830/2024.
+Id: 2673854
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
+ATOS DO SUPERINTENDENTE
+DE 26/08/2025
+A P O S E N TA JOSE ANTONIO MUNIZ, Professor Docente I 18h, nível
+D, referência 9, Identidade Funcional nº 40485056, vínculo 03, matrí-
+cula nº 827.693-3, nos termos do art. 3°, caput, parágrafos 5° e 6°,
+inciso I, alínea “a” da Emenda Constitucional nº 90/2021, fixando os
+proventos mensais com validade a partir desta publicação, tendo por
+base a última remuneração integral do cargo efetivo do servidor e
+sendo reajustados pela paridade nos seguintes termos propostos:
+Vencimento-base atribuído ao cargo de Professor Docente I 18h, nível
+
+## Pagina 19
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0031/U0039/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+D, referência 9(Lei nº 9952/2023), no valor de R$ 3.135,19 e 60% de
+triênio (Lei nº 1608/90), no valor de R$ 1.881,11. Processo nº SEI-
+030001/076677/2025.
+A P O S E N TA ANA LUCIA CARDOSO MAIO, Professor Docente I 18h,
+nível D, referência 9, Identidade Funcional nº 36092150, vínculo 01,
+matrícula nº 836932-4, nos termos do art. 4°, caput, parágrafos 1° e
+2°, inciso I da Emenda Constitucional nº 90/2021, fixando os proven-
+tos mensais com validade a partir desta publicação, tendo por base a
+última remuneração integral do cargo efetivo do servidor e sendo rea-
+justados pela paridade nos seguintes termos propostos: Vencimento-
+base atribuído ao cargo de Professor Docente I 18h, nível D, refe-
+rência 9 (Lei nº 9952/2023), no valor de R$ 3.135,19 e 45% de triênio
+(Lei nº 1026/86), no valor de R$ 1.410,84. Processo nº SEI-
+030001/092934/2024,
+A P O S E N TA LUIZ DOMINGUES NABUCO DE FREITAS , Professor
+Docente I 40h, nível D, referência 9, Identidade Funcional nº
+36843822, vínculo 01, matrícula nº 5.021.493-1, nos termos do art. 4°,
+caput, parágrafos 1° e 2°, inciso I da Emenda Constitucional nº
+90/2021, fixando os proventos mensais com validade a partir desta
+publicação, tendo por base a última remuneração integral do cargo
+efetivo do servidor e sendo reajustados pela paridade nos seguintes
+termos propostos: Vencimento-base atribuído ao cargo de Professor
+Docente I 40h, nível D, referência 9 (Lei nº 9952/2023), no valor de
+R$ 6.967,11 e 55% de triênio (Lei nº 1608/90), no valor de R$
+3.831,91. Processo nº SEI-030037/001674/2023.
+A P O S E N TA RENATA ALVES QUADROS, Professor Docente I 18h,
+nível D, referência 8, Identidade Funcional nº 42040671, vínculo 01,
+matrícula nº 916.368-4, nos termos do art. 4°, caput e § 2°, inciso II
+da Emenda Constitucional nº 90/2021. Processo nº SEI-
+030001/081437/2025.
+A P O S E N TA JOSE MAURICIO DOS SANTOS, Professor Docente I
+18h, nível C, referência 8, Identidade Funcional nº 38262983, vínculo
+01, matrícula nº 832.769-4, nos termos do art. 4°, caput, parágrafos
+1° e 2°, inciso I da Emenda Constitucional nº 90/2021, fixando os pro-
+ventos mensais com validade a partir desta publicação, tendo por ba-
+se a última remuneração integral do cargo efetivo do servidor e sendo
+reajustados pela paridade nos seguintes termos propostos: Vencimen-
+to-base atribuído ao cargo de Professor Docente I 18h, nível C, re-
+ferência 8 (Lei nº 9952/2023), no valor de R$ 2.799,27 e 45% de triê-
+nio (Lei nº 1026/86), no valor de R$ 1.259,67. Processo nº SEI-
+030001/064329/2025.
+A P O S E N TA DENISE MARIA RODRIGUES DE SANTANA, Professor
+Docente I 18h, nível D, referência 9, Identidade Funcional nº
+39667324, vínculo 01, matrícula nº 831.834-7, nos termos do art. 4°,
+caput, parágrafos 1° e 2°, inciso I da Emenda Constitucional nº
+90/2021, fixando os proventos mensais com validade a partir desta
+publicação, tendo por base a última remuneração integral do cargo
+efetivo do servidor e sendo reajustados pela paridade nos seguintes
+termos propostos: Vencimento-base atribuído ao cargo de Professor
+Docente I 18h, nível D, referência 9 (Lei nº 9952/2023), no valor de
+R$ 3.135,19 e 50% de triênio (Lei nº 1026/86), no valor de R$
+1.567,60, Adicional de Qualificação - Doutorado (Lei nº 5539/2009), no
+valor de R$ 621,47. Processo nº SEI-030001/058686/2025.
+A P O S E N TA JOSERLY MARQUES CAVALCANTI, Professor Docente I
+18h, nível D, referência 9, Identidade Funcional nº 40245764, vínculo
+02, matrícula nº 838498-4, nos termos do art. 4°, caput, parágrafos 1°
+e 2°, inciso I da Emenda Constitucional nº 90/2021, fixando os pro-
+ventos mensais com validade a partir desta publicação, tendo por ba-
+se a última remuneração integral do cargo efetivo do servidor e sendo
+reajustados pela paridade nos seguintes termos propostos: Vencimen-
+to-base atribuído ao cargo de Professor Docente I 18h, nível D, re-
+ferência 9 (Lei nº 9952/2023), no valor de R$ 3.135,19 e 45% de triê-
+nio (Lei nº 1026/86), no valor de R$ 1.410,84. Processo nº SEI-
+030001/073681/2025.
+A P O S E N TA MARIZA FERNANDES BARROS, Agente Administrativo
+Biblioteca - CIEP, nível I, Identidade Funcional nº 38271770, vínculo
+01, matrícula nº 5.024.240-3, nos termos do art. 4°, caput e § 2°, in-
+ciso I da Emenda Constitucional nº 90/2021, fixando os proventos
+mensais com validade a partir desta publicação, tendo por base a úl-
+tima remuneração integral do cargo efetivo do servidor e sendo rea-
+justados pela paridade nos seguintes termos propostos: Vencimento-
+base atribuído ao cargo de Agente Administrativo Biblioteca - CIEP,
+nível I (Lei nº 9952/2023), no valor de R$ 1.485,64 e 55% de triênio
+(Lei nº 1608/90), no valor de R$ 817,10. Processo nº SEI-
+030001/071247/2025.
+A P O S E N TA GUSTAVO DA SILVEIRA RANGEL, Professor Docente I
+40h, nível D, referência 9, Identidade Funcional nº 36517925, vínculo
+01, matrícula nº 5.005.929-4, nos termos do art. 4°, caput, parágrafos
+1° e 2°, inciso I da Emenda Constitucional nº 90/2021, fixando os pro-
+ventos mensais com validade a partir desta publicação, tendo por ba-
+se a última remuneração integral do cargo efetivo do servidor e sendo
+reajustados pela paridade nos seguintes termos propostos: Vencimen-
+to-base atribuído ao cargo de Professor Docente I 40h, nível D, re-
+ferência 9 (Lei nº 9952/2023), no valor de R$ 6.967,11 e 55% de triê-
+nio (Lei nº 1608/90), no valor de R$ 3.831,91. Processo nº SEI-
+030001/049700/2025.
+A P O S E N TA TATIANA DE SOUZA LAUTERJUNG, Professor Docente
+I 18h, nível D, referência 9, Identidade Funcional nº 32733763, vínculo
+02, matrícula nº 0840147-3, nos termos do art. 3°, parágrafos 4°, 5° e
+6°, inciso I, alínea “b” da Emenda Constitucional nº 90/2021, fixando
+os proventos mensais com validade a partir desta publicação, tendo
+por base a última remuneração integral do cargo efetivo do servidor e
+sendo reajustados pela paridade nos seguintes termos propostos:
+Vencimento-base atribuído ao cargo de Professor Docente I 18h, nível
+D, referência 9 (Lei nº 9952/2023), no valor de R$ 3.135,19 e 45% de
+triênio (Lei nº 1026/86), no valor de R$ 1.410,84. Processo nº SEI-
+030001/039591/2025.
+A P O S E N TA ADRIANA GIRAO CAMPITI BRAGA, Professor Docente I
+18h, nível D, referência 9, Identidade Funcional nº 37376128, vínculo
+01, matrícula nº 832.427-9, nos termos do art. 4°, caput, parágrafos
+1° e 2°, inciso I da Emenda Constitucional nº 90/2021, fixando os pro-
+ventos mensais com validade a partir desta publicação, tendo por ba-
+se a última remuneração integral do cargo efetivo do servidor e sendo
+reajustados pela paridade nos seguintes termos propostos: Vencimen-
+to-base atribuído ao cargo de Professor Docente I 18h, nível D, re-
+ferência 9 (Lei nº 9952/2023), no valor de R$ 3.135,19, 50% de triênio
+(Lei nº 1026/86), no valor de R$ 1.567,60 e Adicional de Qualificação
+- Mestrado (Lei nº 5539/2009), no valor de R$ 310,75. Processo nº
+SEI-030001/040713/2025.
+Id: 2673776
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
+ATO S DO SUPERINTENDENTE
+DE 26/08/2025
+A P O S E N TA JACIMAR DE SOUZA GUIMARAES, Professor Docente I
+18horas, nível D, referência 9, Identidade funcional nº 39535312, vín-
+culo 01, matrícula nº 825.603-4, nos termos do art. 4°, caput e §§ 1°
+e 2°, inciso I da Emenda Constitucional nº 90/2021, fixando os pro-
+ventos mensais com validade a partir desta publicação, tendo por ba-
+se a última remuneração integral do cargo efetivo do servidor, sendo
+reajustados pela paridade nos seguintes termos propostos: Vencimen-
+to-base atribuído ao cargo de Professor Docente I 18horas, nível D,
+referência 9 (Lei nº 9952/2023), no valor de R$ 3.135,19, 50 % de
+triênio (Lei nº 1026/86), no valor de R$ 1.567,60 e Adicional de Qua-
+lificação - Mestrado (Lei nº 5539/09), no valor de R$ 310,75. Processo
+nº SEI-030001/056764/2025.
+A P O S E N TA DIONIS PORTUGAL CORDEIRO REIS DE OLIVEIRA ,
+Professor Docente I 18horas, nível D, referência 9, Identidade funcio-
+nal nº 36499145, vínculo 01, matrícula nº 831766-1, nos termos do
+art. 3°, §§ 4°, 5° e 6°, inciso I, alínea “b” da Emenda Constitucional nº
+90/2021, fixando os proventos mensais com validade a partir desta
+publicação, tendo por base a última remuneração integral do cargo
+efetivo do servidor, sendo reajustados pela paridade nos seguintes ter-
+mos propostos: Vencimento-base atribuído ao cargo de Professor Do-
+cente I 18horas, nível D, referência 9 (Lei nº 9952/2023), no valor de
+R$ 3.135,19 e 50 % de triênio (Lei nº 1026/86), no valor de R$
+1.567,60. Processo nº SEI-030001/062326/2025.
+A P O S E N TA ADRIANA ZANELA NUNES, Professor Docente I 18ho-
+ras, nível D, referência 9, Identidade funcional nº 33230137, vínculo
+01, matrícula nº 834.095-2, nos termos do art. 4°, caput e §§ 1° e 2°,
+inciso I da Emenda Constitucional nº 90/2021, fixando os proventos
+mensais com validade a partir desta publicação, tendo por base a úl-
+tima remuneração integral do cargo efetivo do servidor, sendo reajus-
+tados pela paridade nos seguintes termos propostos: Vencimento-base
+atribuído ao cargo de Professor Docente I 18horas, nível D, referência
+9 (Lei nº 9952/2023), no valor de R$ 3.135,19, 45 % de triênio (Lei nº
+1026/86), no valor de R$ 1.410,84 e Adicional de Qualificação - Mes-
+trado (Lei nº 5539/09), no valor de R$ 310,75. Processo nº SEI-
+030001/062814/2025.
+A P O S E N TA FATIMA DA CUNHA FREITAS, Professor Docente I
+18horas, nível D, referência 8, Identidade funcional nº 37929348, vín-
+culo 01, matrícula nº 841.378-3, nos termos do art. 3°, §§ 4°, 5° e 6°,
+inciso I, alínea “b” da Emenda Constitucional nº 90/2021, fixando os
+proventos mensais com validade a partir desta publicação, tendo por
+base a última remuneração integral do cargo efetivo do servidor, sen-
+do reajustados pela paridade nos seguintes termos propostos: Venci-
+mento-base atribuído ao cargo de Professor Docente I 18horas, nível
+D, referência 8 (Lei nº 9952/2023), no valor de R$ 2.799,27 e 45 %
+de triênio (Lei nº 1026/86), no valor de R$ 1.259,67. Processo nº SEI-
+030036/000305/2024.
+A P O S E N TA MARIA NUBIA DO NASCIMENTO SILVA, Professor Do-
+cente I 18horas, nível C, referência 6, Identidade funcional nº
+36879339, vínculo 02, matrícula nº 933.184-4, nos termos do art. 6° e
+7° caput, § 4º da Lei Complementar nº 195/2021. Processo nº SEI-
+030001/075853/2024.
+A P O S E N TA MARIA AUXILIADORA DOS SANTOS, Professor Docen-
+te I 18horas, nível D, referência 7, Identidade funcional nº 34978933,
+vínculo 02, matrícula nº 926.509-1, nos termos do art. 2º da Emenda
+Constitucional nº 90/2021 combinado com o § 1º, inciso III, alínea "b",
+do art. 40, da Constituição Federal, com a redação atribuída pela
+Emenda Constitucional nº 41/2003. Processo nº SEI-
+030001/084604/2024.
+A P O S E N TA CONCEICAO APARECIDA MICHELLI DE SOUZA, Pro-
+fessor Docente I 18horas, nível C, referência 8, Identidade funcional
+nº 34751963, vínculo 01, matrícula nº 833.293-4, nos termos do art.
+4°, caput e §§ 1° e 2°, inciso I da Emenda Constitucional nº 90/2021,
+, fixando os proventos mensais com validade a partir desta publica-
+ção, tendo por base a última remuneração integral do cargo efetivo do
+servidor, sendo reajustados pela paridade nos seguintes termos pro-
+postos:. Vencimento-base atribuído ao cargo de Professor Docente I
+18 horas, nível C, referência 8 (Lei nº 9952/2023), no valor de R$
+2.799,27 e 50 % de triênio (Lei nº 1026/86), no valor de R$ 1.399,64.
+Processo nº SEI-030001/008614/2025.
+A P O S E N TA LUCIANA DE CAMPOS RIBEIRO GUIMARAES, Profes-
+sor Docente I 18horas, nível D, referência 9, Identidade funcional nº
+35616458, vínculo 01, matrícula nº 838.617-9, nos termos do art. 4°,
+caput e §§ 1° e 2°, inciso I da Emenda Constitucional nº 90/2021, ,
+fixando os proventos mensais com validade a partir desta publicação,
+tendo por base a última remuneração integral do cargo efetivo do ser-
+vidor, sendo reajustados pela paridade nos seguintes termos propos-
+tos:. Vencimento-base atribuído ao cargo de Professor Docente I
+18horas, nível D, referência 9 (Lei nº 9952/2023), no valor de R$
+3.135,19 e 45 % de triênio (Lei nº 1026/86), no valor de R$ 3.135,19
+e 45 % de triênio (Lei nº 1026/86), no valor de R$ 1.410,84. Processo
+nº SEI-030001/038954/2025.
+A P O S E N TA JANI TORRES, Professor Docente I 18 horas, nível D,
+referência 9, Identidade funcional nº 38444712, vínculo 01, matrícula
+nº 839.410-8, nos termos do art. 3°, §§ 4°, 5° e 6°, inciso I, alínea “b”
+da Emenda Constitucional nº 90/2021, fixando os proventos mensais
+com validade a partir desta publicação, tendo por base a última re-
+muneração integral do cargo efetivo do servidor, sendo reajustados
+pela paridade nos seguintes termos propostos:. Vencimento-base atri-
+buído ao cargo de Professor Docente I 18horas, nível D, referência 9
+(Lei nº 9952/2023), no valor de R$ 3.135,19, 45 % de triênio (Lei nº
+1026/86), no valor de R$ 1.410,84 e Adicional de Qualificação - Mes-
+trado (Lei nº 5539/09), no valor de R$ 310,75. Processo nº SEI-
+030001/058875/2025.
+A P O S E N TA WALNEI DE OLIVEIRA ASSIS , Professor Docente I
+18horas, nível D, referência 7, Identidade funcional nº 5674514, vín-
+culo 05, matrícula nº 928.295-5, nos termos do art. 2º da Emenda
+Constitucional nº 90/2021 combinado com o § 1º, inciso III, alínea "b",
+do art. 40, da Constituição Federal, com a redação atribuída pela
+Emenda Constitucional nº 41/2003. Processo nº SEI-
+030001/074963/2025.
+A P O S E N TA MARIA ANDRADE RODRIGUES SILVA, Professor Do-
+cente II 40horas, nível D, referência 9, Identidade funcional nº
+36412244, vínculo 01, matrícula nº 5001161-8, nos termos do art. 4°,
+caput e §§ 1° e 2°, inciso I da Emenda Constitucional nº 90/2021,
+fixando os proventos mensais com validade a partir desta publicação,
+tendo por base a última remuneração integral do cargo efetivo do ser-
+vidor, sendo reajustados pela paridade nos seguintes termos propos-
+tos:. Vencimento-base atribuído ao cargo de Professor Docente II 40
+horas, nível D, referência 9 (Lei nº 9952/2023), no valor de R$
+5.573,66, 55 % de triênio (Lei nº 1608/90), no valor de R$ 3.065,51 e
+Adicional de Qualificação - Mestrado (Lei nº 5539/09), no valor de R$
+621,47. Processo nº SEI-030001/075279/2025.
+A P O S E N TA MARCIA NOGUEIRA DE SOUZA RANGEL , Professor
+Docente II 40horas, nível D, referência 9, Identidade funcional nº
+37089854, vínculo 01, matrícula nº 5.010.510-5, nos termos do art. 4°,
+caput e §§ 1° e 2°, inciso I da Emenda Constitucional nº 90/2021,
+fixando os proventos mensais com validade a partir desta publicação,
+tendo por base a última remuneração integral do cargo efetivo do ser-
+vidor, sendo reajustados pela paridade nos seguintes termos propos-
+tos:. Vencimento-base atribuído ao cargo de Professor Docente II 40
+horas, nível D, referência 9 (Lei nº 9952/2023), no valor de R$
+5.573,66 e 55 % de triênio (Lei nº 1608/90), no valor de R$ 3.065,51.
+Processo nº SEI-030037/004057/2023.
+A P O S E N TA TANIA MARIA DONATO MELO, Agente Administrativo,
+nível I, Identidade funcional nº 34833838, vínculo 01, matrícula nº
+5.014.974-9, nos termos do art. 4°, caput e §2°, inciso I da Emenda
+Constitucional nº 90/2021, fixando os proventos mensais com validade
+a partir desta publicação, tendo por base a última remuneração in-
+tegral do cargo efetivo do servidor, sendo reajustados pela paridade
+nos seguintes termos propostos:. Vencimento-base atribuído ao cargo
+de Agente Administrativo, nível I (Lei nº 9952/2023), no valor de R$
+1.485,64 e 55 % de triênio (Lei nº 1608/90), no valor de R$ 817,10.
+Processo nº SEI-030039/000230/2024.
+A P O S E N TA SANDRA NASCIMENTO DE VARGAS, Professor Docen-
+te I 18horas, nível D, referência 9, Identidade funcional nº 38794020,
+vínculo 01, matrícula nº 826998-7, nos termos do art. 4°, caput e §§
+1° e 2°, inciso I da Emenda Constitucional nº 90/2021, fixando os pro-
+ventos mensais com validade a partir desta publicação, tendo por ba-
+se a última remuneração integral do cargo efetivo do servidor, sendo
+reajustados pela paridade nos seguintes termos propostos:. Vencimen-
+to-base atribuído ao cargo de Professor Docente I 18 horas, nível D,
+referência 9 (Lei nº 9952/2023), no valor de R$ 3.135,19 e 50 % de
+triênio (Lei nº 1026/86), no valor de R$ 1.567,60. Processo nº SEI-
+030001/053822/2024.
+A P O S E N TA DILVANA PERES DA SILVA, Professor Docente II 40ho-
+ras, nível A, referência 6, Identidade funcional nº 36720151, vínculo
+01, matrícula nº 5.013.530-0, nos termos do art. 4°, caput e §2°, in-
+ciso I da Emenda Constitucional nº 90/2021, fixando os proventos
+mensais com validade a partir desta publicação, tendo por base a úl-
+tima remuneração integral do cargo efetivo do servidor, sendo reajus-
+tados pela paridade nos seguintes termos propostos: Vencimento-base
+atribuído ao cargo de Professor Docente II 40 horas, nível A, refe-
+rência 6 (Lei nº 9952/2023), no valor de R$ 3.967,24, 55 % de triênio
+(Lei nº 1608/90), no valor de R$ 2.677,27 e Piso Magistério (Decreto
+Estadual nº 49.525/2025), no valor R$ 900,53. Processo nº SEI-
+030001/108149/2024.
+A P O S E N TA EDVAN SIMOES DA FONSECA, Professor Docente I
+40horas, nível D, referência 9, Identidade funcional nº 33257531, vín-
+culo 01, matrícula nº 5.018.560-2, nos termos do art. 4°, caput e §§
+1° e 2°, inciso I da Emenda Constitucional nº 90/2021, fixando os pro-
+ventos mensais com validade a partir desta publicação, tendo por ba-
+se a última remuneração integral do cargo efetivo do servidor, sendo
+reajustados pela paridade nos seguintes termos propostos: Vencimen-
+to-base atribuído ao cargo de Professor Docente I 40horas, nível D,
+referência 9 (Lei nº 9952/2023), no valor de R$ 6.967,11 e 55 % de
+triênio (Lei nº 1608/90), no valor de R$ 3.831,91. Processo nº SEI-
+030001/030556/2025.
+A P O S E N TA GUARACIARA DE MENEZES CARDOZO, Merendeira,
+nível I, Identidade funcional nº 34844716, vínculo 01, matrícula nº
+5.024.050-6, nos termos do art. 4°, caput e §2°, inciso I da Emenda
+Constitucional nº 90/2021, fixando os proventos mensais com validade
+a partir desta publicação, tendo por base a última remuneração in-
+tegral do cargo efetivo do servidor, sendo reajustados pela paridade
+nos seguintes termos propostos: Vencimento-base atribuído ao cargo
+de Merendeira, nível I (Lei nº 9952/2023), no valor de R$ 936,21 e 55
+% de triênio (Lei nº 1608/90), no valor de R$ 514,92. Processo nº
+SEI-030001/036589/2025.
+Id: 2673871
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
+DESPACHOS DO SUPERINTENDENTE
+DE 26/08/2025
+PROCESSO Nº SEI-030001/028567/2025 - MARILIA DE FATIMA
+SERRANO DE BARROS CARVALHO LOPES , Inspetor de Alunos, ní-
+vel II, Identidade Funcional n° 50235826, vínculo 01, matrícula n°
+3054600-6. FIXADOS os valores mensais de inatividade a contar de
+13/05/2025, ficando esclarecido que o inativo a quem se refere o pre-
+sente título faz jus a Proventos Média equivalente ao percentual de
+60% da média aritmética simples das remunerações, multiplicado pelo
+índice de tempo de contribuição correspondente a 0,55, a partir da
+eficácia da aposentadoria, no valor de R$ 607,75 (seiscentos e sete
+reais e setenta e cinco centavos) e complementação de R$ 910,25
+(novecentos e dez reais e vinte e cinco centavos), com base no sa-
+lário mínimo de R$ 1.518,00 (mil quinhentos e dezoito reais), de acor-
+do com o Decreto 12342/2024.
+PROCESSO Nº SEI-030001/041069/2025 - EBER JARDIM RAMA-
+LHO, Professor Docente I 18horas, nível C, referência 6, Identidade
+Funcional n° 40740340, vínculo 03, matrícula n° 934280-9. FIXADOS
+os valores mensais de inatividade a contar de 24/04/2025, ficando fica
+esclarecido que o inativo a quem se refere o presente título faz jus a
+Proventos Média equivalente ao percentual de 60% da média aritmé-
+tica simples das remunerações, multiplicado pelo índice de tempo de
+contribuição correspondente a 0,85 , a partir da eficácia da aposenta-
+doria, no valor de R$ 1.300,56 (mil e trezentos reais e cinquenta e
+seis centavos) e complementação de R$ 217,44 (duzentos e dezes-
+sete reais e quarenta e quatro centavos ), com base no salário mínimo
+de R$ 1.518,00 (mil quinhentos e dezoito reais), de acordo com o De-
+creto 12342/2024.
+PROCESSO Nº SEI-030001/042531/2025 - ROSA MARIA DE OLIVEI-
+RA REZENDE, Professor Docente I 18horas, nível C, referência 7,
+Identidade Funcional n° 41996976, vínculo 01, matrícula n° 911290-5.
+FIXADOS os valores mensais de inatividade a contar de 08/05/2025,
+ficando esclarecido que o inativo a quem se refere o presente título
+faz jus a Proventos Média equivalente ao percentual de 60% da mé-
+dia aritmética simples das remunerações, multiplicado pelo índice de
+tempo de contribuição correspondente a 1 , a partir da eficácia da apo-
+sentadoria, no valor de R$ 1.639,66 (mil seiscentos e trinta e nove
+reais e sessenta e seis centavos).
+PROCESSO Nº SEI-030001/043703/2025 - VERONICA DE ALMEIDA
+SOARES, Professor Docente I 18horas, nível C, referência 8, Iden-
+tidade Funcional n° 39729451, vínculo 01, matrícula n° 230165-3. FI-
+XADOS os valores mensais de inatividade a contar de 12/04/2025, fi-
+cando esclarecido que o inativo a quem se refere o presente título faz
+jus a Proventos Média equivalente ao percentual de 98% da média
+aritmética simples das remunerações, multiplicado pelo índice de tem-
+po de contribuição correspondente a 1, a partir da eficácia da apo-
+sentadoria, no valor de R$ 4.153,04 (quatro mil cento e cinquenta e
+três reais e quatro centavos).
+PROCESSO Nº SEI-030001/044265/2025 - GERALDO FIRMINO TEI-
+XEIRA, Zelador, nível I, Identidade Funcional n° 33336172, vínculo 01,
+matrícula n° 5010663-2. FIXADOS os valores mensais de inatividade
+a contar de 03/05/2025, ficando esclarecido que o inativo a quem se
+refere o presente título faz jus a Proventos Média equivalente ao per-
+centual de 82% da média aritmética simples das remunerações, mul-
+tiplicado pelo índice de tempo de contribuição correspondente a 1, a
+partir da eficácia da aposentadoria, no valor de R$ 1.333,97 (mil tre-
+zentos e trinta e três reais e noventa e sete centavos) e complemen-
+tação de R$ 184,03 (cento e oitenta e quatro reais e três centavos),
+com base no salário mínimo de R$ 1.518,00 (mil quinhentos e dezoito
+reais), de acordo com o Decreto 12342/2024.
+PROCESSO Nº SEI-030001/014688/2024 - GEORGINA DE FREITAS
+TRINDADE, Professor Docente I 18horas, nível D, referência 8, Iden-
+tidade Funcional n° 36961566, vínculo 01, matrícula n° 846276-4. FI-
+XADOS os valores mensais de inatividade a contar de 23/04/2025, fi-
+cando esclarecido que o inativo a quem se refere o presente título faz
+jus a Proventos Média equivalente ao percentual de 66% da média
+aritmética simples das remunerações, multiplicado pelo índice de tem-
+po de contribuição correspondente a 1, a partir da eficácia da apo-
+sentadoria, no valor de R$ 2.258,17 (dois mil duzentos e cinquenta e
+oito reais e dezessete centavos).
+PROCESSO Nº SEI-030001/043030/2024 - LEONICE DA CONCEI-
+CAO CARVALHO, Professor Docente I 18horas, nível D, referência 7,
+Identidade Funcional n° 43035248, vínculo 01, matrícula n° 936145-2.
+FIXADOS os valores mensais de inatividade a contar de 15/04/2025,
+ficando esclarecido que o inativo a quem se refere o presente título
+faz jus a Proventos Média proporcionais à razão de 5233/10950 a
+partir da eficácia da aposentadoria, no valor de R$ 883,73 (oitocentos
+e oitenta e três reais e setenta e três centavos) e complementação de
+R$ 634,27 (seiscentos e trinta e quatro reais e vinte e sete centavos) ,
+com base no salário mínimo de R$ 1.518,00 (mil quinhentos e dezoito
+reais), de acordo com o Decreto 12342/2024.
+Id: 2673873
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
+DESPACHO DO SUPERINTENDENTE
+DE 26/08/2025
+PROCESSO Nº SEI-030001/077162/2025 - RICARDO ANTONIO FI-
+GUEREDO ROCHA, Identidade Funcional 43252818/03, matrícula
+3043794-1, Assistente Executivo. AV E R B E - S E nos termos do § 9º do
+art. 201 da CRFB/88 e no inciso I do art. 80 do Decreto nº 2479/79, o
+período de 27/02/2008 a 09/06/2013, num total de 1930 dias de ser-
+viço prestado à SEEDUC (RPPS), como Professor.
+Id: 2673685
+
+## Pagina 20
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0032/U0030
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
+DESPACHOS DO SUPERINTENDENTE
+DE 26/08/2025
+PROCESSO Nº SEI-030001/075243/2025 - CONCEDO o benefício
+Abono de Permanência ao servidor ABIGAIL FURTADO THEODORO
+DE PAULA, Professor Docente II 40 horas, nível D, referência 9, Iden-
+tidade Funcional no 33317410, vínculo 01, matrícula 5001843-1, tendo
+em vista ter reunido, com base no art. 4°, caput c/c o §5° e §2°, in-
+ciso I da Emenda Constitucional 90/2021, os requisitos necessários
+para a sua aposentadoria a partir de 13/07/2025.
+PROCESSO Nº SEI-030001/080989/2025 - CONCEDO o benefício
+Abono de Permanência ao servidor SIDILEIA SILVA DOS SANTOS,
+Servente - CIEP, nível I, Identidade Funcional no 36443182, vínculo
+01, matrícula 5001544-5, tendo em vista ter reunido, com base no art.
+4°, caput c/c o §5° e §2°, inciso I da Emenda Constitucional 90/2021,
+os requisitos necessários para a sua aposentadoria a partir de
+14/12/2022.
+PROCESSO Nº SEI-030001/081828/2025 - CONCEDO o benefício
+Abono de Permanência ao servidor VANUZA CANDIDA DA SILVA TA-
+VARES, Professor Docente II 40 horas, nível C, referência 8, Iden-
+tidade Funcional no 34962719, vínculo 01, matrícula 5008116-5, tendo
+em vista ter reunido, com base no art. 4°, caput c/c o §5° e §2°, in-
+ciso I da Emenda Constitucional 90/2021, os requisitos necessários
+para a sua aposentadoria a partir de 01/03/2025.
+PROCESSO Nº SEI-030001/079336/2025 - CONCEDO o benefício
+Abono de Permanência ao servidor ROSANE RANGEL BITTEN-
+COURT, Professor Docente I 18 horas, nível D, referência. 09, Iden-
+tidade Funcional no 39947955, vínculo 02, matrícula 0838515-5, tendo
+em vista ter reunido, na forma dos arts. 6° e 7° da Lei Complementar
+195/2021, os requisitos necessários para a sua aposentadoria a partir
+de 10/07/2024.
+PROCESSO NºS E I - 0 3 0 0 0 1 / 0 8 11 3 0 / 2 0 2 5 - CONCEDOo benefício
+Abono de Permanência ao servidor NORMA ROZARIO FERREIRA,
+Agente Coord. de Turno - CIEP, nível I, Identidade Funcional no
+35849657, vínculo 01, matrícula 5012970-9, tendo em vista ter reu-
+nido, com base no art. 2º, caput, inciso III, da Lei Complementar
+195/21, os requisitos necessários para a sua aposentadoria a partir de
+2 0 / 11 / 2 0 2 3 .
+PROCESSO NºSEI-030001/034820/2025 - CONCEDO o benefício
+Abono de Permanência ao servidor MILENA JACINTO VIEIRA, Pro-
+fessor Docente II 40 horas, nível D, referência 9, Identidade Funcional
+no 33162875, vínculo 01, matrícula 5025149-5, tendo em vista ter reu-
+nido, com base no art. 4º, caput, § 2º, daEC 90/21, os requisitos ne-
+cessários para a sua aposentadoria a partir de 08/12/2024.
+PROCESSO Nº SEI-030001/069758/2024- CONCEDO o benefício
+Abono de Permanência ao servidor SANDRA CORREA DE ARAUJO,
+Professor Docente II 40 horas, nível C, referência 8, Identidade Fun-
+cional no 34552480, vínculo 01, matrícula 5023148-9, tendo em vista
+ter reunido, na forma dos arts. 6° e 7° da Lei Complementar
+195/2021, os requisitos necessários para a sua aposentadoria a partir
+de18/04/2023.
+PROCESSO NºSEI-030001/078816/2025 - CONCEDO o benefício
+Abono de Permanência ao servidor FABIO MENDES BAYLAO, Pro-
+fessor Docente I 18 horas, nível D, referência 09, Identidade Funcio-
+nal no 33955107, vínculo 01, matrícula 0829331-8, tendo em vista ter
+reunido, na forma dos arts. 6° e 7° da Lei Complementar 195/2021,
+os requisitos necessários para a sua aposentadoria a partir de
+22/05/2024.
+PROCESSO NºSEI-030001/076508/2025 - CONCEDO o benefício
+Abono de Permanência ao servidor SOLANGE PESSANHA DA MATA
+FERREIRA, Servente - CIEP, nível I, Identidade Funcional no
+35212667, vínculo 01, matrícula 5021193-7, tendo em vista ter reu-
+nido, com base no art. 2º, caput, inciso III, da Lei Complementar
+195/21, os requisitos necessários para a sua aposentadoria a partir de
+01/01/2022.
+PROCESSO Nº SEI-030001/070014/2025 - CONCEDO o benefício
+Abono de Permanência ao servidor CLEIDE ROSA DOS SANTOS,
+Merendeira - CIEP, nível I, Identidade Funcional no 34485384, vínculo
+01, matrícula 5010343-1, tendo em vista ter reunido, com base no art.
+3°, caput, da Emenda Constitucional 90/2021, os requisitos necessá-
+rios para a sua aposentadoria a partir de 06/03/2024.
+PROCESSO Nº SEI-030001/069490/2025 - CONCEDO o benefício
+Abono de Permanência ao servidor MARCIA CRISTINA XAVIER BUR-
+GER, Servente - CIEP, nível I, Identidade Funcional no 35780240, vín-
+culo 01, matrícula 5004761-2, tendo em vista ter reunido, com base
+no art. 3°, caput, da Emenda Constitucional 90/2021, os requisitos ne-
+cessários para a sua aposentadoria a partir de 26/02/2024.
+PROCESSO Nº SEI-030001/042791/2024 - CONCEDO o benefício
+Abono de Permanência ao servidor CELENICE RAMOS LEITE DE
+FARIA, Professor Docente I, nível D, referência 7, Identidade Funcio-
+nal no 34347518, vínculo 02, matrícula 927468-9, tendo em vista ter
+reunido, com base no § 1º, inciso III, alínea “a”, do art. 40, da C.F c/c
+§ 5º do mesmo artigo, os requisitos necessários para a sua aposen-
+tadoria a partir de 04/09/2020.
+PROCESSO Nº SEI-030001/031098/2025 - CONCEDO o benefício
+Abono de Permanência ao servidor ROSILEA TEXEIRA MEDEIROS
+DE CASTRO SILVA , Professor Docente II 40 horas, nível D, referên-
+cia 9, Identidade Funcional no 34983520, vínculo 01, matrícula
+5018683-2, tendo em vista ter reunido, com base no art. 4º, caput e
+§§ 1º e 2º, da EC 90/21, os requisitos necessários para a sua apo-
+sentadoria a partir de 28/02/2023.
+PROCESSO Nº SEI-030001/078722/2025 - CONCEDO o benefício
+Abono de Permanência ao servidor CRISTIANE ALVES GUIMARAES,
+Professor Docente II 40horas, nível D, referência 9, Identidade Fun-
+cional no 29113474, vínculo 01, matrícula 5022790-9, tendo em vista
+ter reunido, com base no art. 4°, caput c/c o §5° da Emenda Cons-
+titucional 90/2021, os requisitos necessários para a sua aposentadoria
+a partir de 27/07/2025.
+PROCESSO Nº SEI-030001/100885/2024 - CONCEDO o benefício
+Abono de Permanência ao servidor SANDRA EMILIA BOTELHO, Pro-
+fessor Docente II 40 horas, nível D, referência 9, Identidade Funcional
+no 33736332, vínculo 01, matrícula 5007313-9, tendo em vista ter reu-
+nido, com base no art. 4º, caput e §§ 1º e 2º, da EC 90/21, os re-
+quisitos necessários para a sua aposentadoria a partir de 24/11/2024.
+RETIFICAÇÃO
+D.O. DE 29/06/2022
+PÁGINA 24 - 2ª coluna
+DESPACHO DA SUPERINTENDENTE
+DE 27/06/2022
+PROCESSO Nº SEI-030022/000229/2022 - VERA LUCIA DA SILVA
+DURAO.
+Onde se lê: ...tendo em vista ter reunido, com base no § 1º, inciso III,
+alínea “a”, do art. 40, da C.F. os requisitos necessários para a sua
+aposentadoria a partir de 06/10/2019.
+Leia-se: ...com base §1º do art. 5º da EC nº 90/2021, os requisitos
+necessários para a sua aposentadoria a partir 01/01/2022.
+Id: 2673916
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO DE ENSINO
+DESPACHO DA SUBSECRETÁRIA
+DE 21.08.2025
+PROCESSO Nº SEI-030001/011607/2025 - Considerando os atos pra-
+ticados pelas autoridades competentes desta Secretaria de Estado de
+Educação do Rio de Janeiro, nos termos do inciso VIII do art. 72 e
+Parágrafo Único da Lei Federal nº 14.133/2021 c/c § 2º do art. 5º do
+Decreto Estadual nº 48.820/2023, A U TO R I Z O a Inexigibilidade de Li-
+citação, com fulcro no art. 74, inciso I da Lei 14.133/2021, para con-
+tratação direta da empresa DISLIV DISTRIBUIDORA DE LIVROS EI-
+RELI-ME, inscrita no CNPJ/MF sob o nº 16.721.754/0001-70, cujo ob-
+jeto é a aquisição de material de apoio pedagógico com o intuito de
+promover a história e a valorização dos povos afro-brasileiros e in-
+dígenas, nas suas mais variadas formas, dentro do âmbito das Uni-
+dades Escolares da Rede Estadual de Ensino do Rio de Janeiro, atra-
+vés do Projeto de Educação Afro-Brasileira e Indígena, por meio de
+livros paradidáticos e iniciativas desenvolvidas especialmente para es-
+ta finalidade, no valor total de R$ 29.457.711,25 (vinte e nove mi-
+lhões, quatrocentos e cinquenta e sete mil setecentos e onze reais e
+vinte e cinco centavos).
+Id: 2673292
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26.08.2025
+PROCESSO Nº SEI-030001/014025/2025 - Considerando os atos pra-
+ticados pelas autoridades competentes desta Secretaria de Estado de
+Educação do Rio de Janeiro, A U TO R I Z O a Inexigibilidade de Licita-
+ção, em conformidade com o que preceitua o art. 72, parágrafo único
+da Lei 14.133/2021 c/c art. 5, § 2º do Decreto Estadual 48.820/2023,
+para contratação direta da Concessionária SERVIÇO AUTÔNOMO DE
+ÁGUA E ESGOTO SAAE - VOLTA REDONDA, para prestação de ser-
+viços de fornecimento de água potável e tratamento de esgoto nas
+Unidades Administrativas pertencentes a esta Secretaria de Estado de
+Educação- SEEDUC, no valor previsto de R$ 9.036,33 (nove mil e
+trinta e seis reais e trinta e três centavos), referente aos meses de
+Julho a Dezembro de 2025, conforme condições especificadas no Ter-
+mo de Referência de Serviço.
+Id: 2673705
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+COORDENADORIA DE INSPEÇÃO ESCOLAR - SUL FLUMINENSE
+ATO DA COORDENADORA
+ORDEM DE SERVIÇO SEEDUC/COOIESF Nº AUT 032.322
+DE 18 DE AGOSTO DE 2025
+DESIGNA AS PROFESSORAS INSPETORO-
+RAS ESCOLARES PARA SUBSTITUIREM O
+PRESIDENTE E MEMBROS DA COMISSÃO
+VERIFICADORA REFERENTE AO PROCESSO
+DE AUTORIZAÇÃO QUE MENCIONA.
+A COORDENADORIA DE INSPEÇÃO ESCOLAR DA REGIÃO SUL
+FLUMINENSE, no uso de suas atribuições legais e tendo em vista a
+necessidade de atendimento ao Processo nº SEI-
+030001/070199/2025,
+R E S O LV E :
+Art. 1º - Designar a Professora Inspetora Escolar DAISY COSTA
+MARTINS ID. 43365728 - matrícula 0945480-2 para presidir a Comis-
+são Verificadora de Vistoria, em substituição a Professora Inspetora
+Escolar MARIA APARECIDA DUTRA NICÁCIO ID. 4325051-3 - ma-
+tricula 0942683-4, designada pela Ordem de Serviço SEEDUC/CO-
+OIESF nº 032.113 de 09 de julho de 2025, publicada em DOERJ de
+14 de julho de 2025.
+Art. 2º - Designar a Professora Inspetora Escolar ADRIANA ANDRA-
+DE MARTINS ID. 4368517-0 - matricula 0956413-9 para compor em
+substituição a Professora Inspetora Escolar ANA LÚCIA MUNIZ BAP-
+TISTA UCHÔA ID. 4332998-5 - matricula 0945456-2 designado pela
+Ordem de Serviço SEEDUC/COOIESF N.º 032.113 de 09 de julho de
+2025, publicada em DOERJ de 14 de julho de 2025.
+Art. 3º - Designar a Professora Inspetora Escolar DANIELLE PIMEN-
+TA TOME ID. 4368430-0 - matricula 0956367-7, para compor em
+substituição a Professora Inspetora Escolar MARIA APARECIDA DU-
+TRA NICÁCIO ID. 4325051-3 - matricula 0942683-4, designada pela
+Ordem de Serviço SEEDUC/COOIESF Nº 032.113 de 09 de julho de
+2025, publicada em DOERJ de 14 de julho de 2025.
+Art. 4º - Esta Ordem de Serviço entrará em vigor na data de sua
+publicação, retroagindo seus efeitos a contar da data de emissão co-
+locar a data de emissão 18 de agosto de 2025.
+Volta Redonda-RJ, 18 de agosto de 2025
+TÂNIA REGINA SOUZA ROCHA
+Coordenadoria de Inspeção Escolar - Sul Fluminense
+COORDENADORIA DE INSPEÇÃO ESCOLAR - METROPOLITANA
+III
+ATO DA COORDENADORA
+ORDEM DE SERVIÇO COOIE Nº AUT 1069
+DE 21 DE AGOSTO DE 2025
+DESIGNA O PROFESSOR INSPETOR ESCO-
+LAR PARA SUBSTITUIR SILVIA DOS SANTOS
+SOUZA DA COMISSÃO VERIFICADORA RE-
+FERENTE AO PROCESSO DE AUTORIZAÇÃO
+QUE MENCIONA.
+A COORDENAÇÃO REGIONAL DE INSPEÇÃO ESCOLAR METRO-
+POLITANA III , no uso de suas atribuições legais e tendo em vista a
+necessidade de atendimento ao processo nº SEI-
+030001/077270/2024,
+R E S O LV E :
+Art. 1º - Designar PATRICIA DE FATIMA MARQUES CORREA VIAN-
+NA, ID 1378582-7, para presidir e GEOVANNA DE AMORIM UZAI, ID
+44286465, para compor a Comissão de Autorização, em substituição
+a SILVIA DOS SANTOS SOUZA, ID 44279914, e designado pela Or-
+dem de Serviço 002.529, publicada no D.O. de 11 de dezembro de
+2024, página 26.
+Art. 2º - Esta Ordem de Serviço entrará em vigor na data de sua
+publicação, retroagindo seus efeitos a contar da data de emissão co-
+locar a data de emissão, na forma 21 de agosto de 2025.
+Rio de Janeiro, 21 de agosto de 2025
+LORENA DE OLIVEIRA SOARES
+Coordenadoria de Inspeção Escolar - Metropolitana III
+Id: 2673706
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+DIRETORIA REGIONAL ADMINISTRATIVA - SUL FLUMINENSE
+ATO DO DIRETOR
+DE 26.08.2025
+INSTAURA sindicância para apurar possíveis irregularidades objeto do
+Processo nº SEI-030001/087113/2025, designando para procedê-la no
+prazo de 30 (trinta) dias, contados da data da publicação, Comissão
+integrada pelos servidores LUCILENE APARECIDA SILVA OLIVEIRA ,
+mat. 5019772-2, ID 3931036-1 e JOSIANE OLIVEIRA DE SOUZA ,
+mat. 0916780-0, ID 3507296-2, sob a presidência da primeira.
+Id: 2673771
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+COORDENADORIA DE GESTÃO DE PESSOAS-
+NOROESTE FLUMINENSE
+DESPACHOS DO COORDENADOR
+DE 26/08/2025
+PROCESSO Nº SEI-030040/002354/2022 - LIDIANE DE CARVALHO
+MARTINS, Prof. Doc. I, mat. nº 30649743, período base de
+16/06/2019 a 15/06/2024.
+PROCESSO Nº SEI-E-03/5310068/2010 - ADRIANA DA SILVA ARAÚ-
+JO, Prof. Doc. I, mat. nº 919535-5, período base de 02/04/2020 a
+01/05/2025.
+PROCESSO Nº SEI-E-03/2610254/2000 - IZONY DE AZEVEDO PE-
+REIRA, Prof. Doc. II, mat. nº 804743-3, período base de 18/01/2020 a
+17/01/2025.
+PROCESSO Nº SEI-E-03/003/1323/2016 - ALUIZIO CALISTO JU-
+NIOR, Prof. Doc. I, mat. nº 919497-8, período base de 01/02/2020 a
+31/01/2025.
+PROCESSO Nº SEI-E-03/003/2920/2015 - VERA LÚCIA BIZARRO
+DUTRA, Prof. Inspetor Escolar, mat. nº 0956424-6, período base de
+29/10/2019 a 26/01/2024.
+PROCESSO Nº SEI-E-03/003/1 0 0 11 7 / 2 0 1 8 - KATIUSSA CRUZ MO-
+REIRA FERREIRA, Prof. Doc. I, mat. nº 960952-0, período base de
+13/04/2020 a 11/06/2025.
+PROCESSO Nº SEI-E-03/1820270/97 - CARLA DE FREITAS AR-
+MOND, Prof. Doc. II, mat. nº 294041-9, período base de 16/05/2019 a
+15/05/2024.
+PROCESSO Nº SEI-E-03/2810053/1998 - MARIA JOSÉ DA ROCHA
+FERNANDES, Prof. Doc. II, mat. nº 246160-6, período base de
+23/06/2020 a 07/07/2025.
+PROCESSO Nº SEI-E-03/003/2042/2015 - DAIANA BON DE ALMEI-
+DA RAMOS, Prof. Doc. I, mat. nº 963973-3, período base de
+06/08/2020 a 05/08/2025.
+PROCESSO Nº SEI-030046/001994/2021 - BEATRIZ OLIVEIRA DE
+FARIA RIGUES, Prof. Doc. I, mat. nº 3068717-2, período base de
+30/07/2019 a 29/07/2024.
+PROCESSO Nº SEI-E-03/4710087/2004 - LILIA RENATA FERREIRA
+QUEIROZ, Prof. Doc.II, mat. nº 50246792, período base de
+03/07/2020 a 02/07/2025.
+PROCESSO Nº SEI-E-4710066/1999 - GLEIDE APARECIDA DA SIL-
+VA SIQUEIRA, Prof. Doc. II, mat. nº 5021701-7, período base de
+09/02/2020 a 15/02/2025.
+PROCESSO Nº SEI-E-03/003/1961/2015 - MARIA DAS GRAÇAS GUI-
+MARÃES SERMOUD MUNIZ, Prof. Doc. I, mat. nº 0965331-2, período
+base de 01/08/2020 a 31/07/2025.
+PROCESSO Nº SEI-E-03/003/2960/2015 - DENISY SCHIMITH DE
+FREITAS, Prof. Doc. I, mat. nº 0938865-3, período base de
+07/12/2017 a 06/12/2022.
+PROCESSO Nº SEI-E-03/6710221/1999 - ADENAILDE MARIA VIEIRA
+RED, Servente, mat. nº 5019676-5, período base de 20/12/2019 a
+19/12/2024.
+PROCESSO Nº SEI-030040/001711/2021 - ADRIANA BORGATI DE
+OLIVEIRA LACERDA, Prof. Doc. I, mat. nº 3081598-9, período base
+de 18/08/2020 a 17/08/2025.
+PROCESSO Nº SEI-030040/000081/2022 - DANIEL NORBERT, Prof.
+Doc. I, mat. nº 0964168-9, período base de 17/06/2020 a
+16/06/2025.
+PROCESSO Nº SEI-E-03/4710061/2010 - CARLA REGINA TEIXEIRA
+DE PINHO, Prof. Doc. I, mat. nº 0911382-0, período base de
+02/05/2020 a 01/05/2025.
+PROCESSO Nº SEI-E-03/003/572/15 - VIVIANE ROCHA MENDES,
+Prof. Doc. I, mat. nº 0951142-9, período base de 18/02/2019 a
+17/02/2024.
+PROCESSO Nº SEI-E-03/3900467/1993 - MARILDA BARBOSA LES-
+SA, Prof. Doc. I, mat. nº 245715-8, período base de 24/05/2020 a
+23/05/2025.
+PROCESSO Nº SEI-E-03/003/2943/2015 - GABRIELA CONSTANCIO
+DA SILVA VAZ, Prof. Doc. I, mat. nº 09615097, período base de
+21/06/2020 a 20/06/2025.
+PROCESSO Nº SEI-E-03/1820184/97 - MARIA DO CARMO CARNEI-
+RO DE SOUZA, Prof. Doc. II, mat. nº 0246884-1, período base de
+27/05/2020 a 26/05/2025.
+PROCESSO Nº SEI-E-03/003/2814/13 - LEANDRO RABELO BATIS-
+TA, Prof. Doc. I, mat. nº 935132-1, período base de 16/03/2017 a
+15/03/2022.
+PROCESSO Nº SEI-E-03/003/1462/2019 - NATÁLIA MENEZES DA
+MOTTA, Assistente Executivo, mat. nº 30411433, período base de
+05/04/2020 a 04/05/2025.
+PROCESSO Nº SEI-030040/000593/2020 - ILMAR BRAZ, Prof. Doc. I,
+mat. nº 30789911, período base de 18/06/2020 a 17/06/2025.
+PROCESSO Nº SEI-E-03/10300209/2010 - DARCINEY FONSECA LO-
+PES, Prof. Doc. I, mat. nº 0919600-7, período base de 01/02/2020 a
+31/01/2025.
+PROCESSO Nº SEI-E-03/8810071/1997 - MARIA APARECIDA DA
+SILVA, Prof. Doc. II, mat. nº 293075-8, período base de 15/08/2020 a
+14/08/2025.
+CONCEDO 03 (TRÊS) MESES DE LICENÇA ESPECIAL
+PROCESSO Nº SEI-E-03/004/1780/2014 - BRUNA STVLANA NEVES
+SIMAS SOUSA, Prof. Doc. I, mat. nº 938841-4, períodos base de
+27/06/2013 a 26/06/2018 e de 27/06/2018 a 25/08/2023.
+PROCESSO Nº SEI-E-03/004/5955/2013 - BRUNA STVLANA NEVES
+SIMAS SOUSA, Prof. Doc. I, mat. nº 939485-9, períodos base de
+19/05/2013 a 18/05/2018 e de 19/05/2018 a 17/07/2023.
+PROCESSO Nº SEI-E-03/003/2566/2015 - JANAINA FREITAS FER-
+NANDES AZEVEDO, Prof. Doc. I, mat. nº 963725-7, períodos base de
+22/06/2015 a 21/06/2020 e de 22/06/2020 a 21/06/2025.
+PROCESSO Nº SEI-E-03/10303046/2012 - ADALGIZA BORGES DA
+SILVA, Prof. Doc. I, mat. nº 0914463-5, períodos base de 01/02/2015
+a 31/01/2020 e de 01/02/2020 a 31/01/2025.
+CONCEDO 06 (SEIS) MESES DE LICENÇA ESPECIAL
+PROCESSO Nº SEI-030001/088435/2025 - NIRLENI LOPES FERREIRA
+FRANÇA, Prof. Doc. I, mat. nº 920352-2, períodos base de 19/06/2010
+a 17/07/2015; de 18/07/2015 a 17/07/2020 e de 18/07/2020 a
+17/07/2025. CONCEDO 09 (nove) meses de licença especial.
+
+## Pagina 21
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0032/U0031/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+PROCESSO Nº SEI-E-03/6710238/99 - KÊNIA DE FARIA SOUZA,
+Prof. Doc. II, mat. nº 5019463-8, ID 36823180/1, o servidor FAZ JUS
+à concessão de 15 (quinze) meses de licença especial relativos ao
+período de 07/03/1994 a 06/03/1999; de 07/03/1999 a 01/04/2004; de
+02/04/2004 a 01/05/2009; de 02/05/2009 a 01/05/2014 e de
+02/05/2014 a 01/05/2019, tornando sem efeito as publicações anterio-
+res referentes ao mesmo benefício.
+PROCESSO Nº SEI-030001/057863/2025 - IDALI DA ROCHA SILVA
+SANTOS, Professor Docente II, Identidade Funcional n° 34592750.
+PROCESSO Nº SEI-030001/088143/2025 - LIDIANY CARDOSO SIL-
+VA ALMEIDA, Professor Docente I, Identidade Funcional n°
+4 2 8 1 5 11 8 .
+PROCESSO Nº SEI-030001/077776/2025 - LUCIANA FERREIRA
+MENDES RIBEIRO, Professor Docente I, Identidade Funcional n°
+42532000.
+PROCESSO Nº SEI-030001/079994/2025 - NAUZELENE DA SILVA
+BOM, Servente, Identidade Funcional nº 36831352.
+PROCESSO Nº SEI-030001/081380/2025 - RENATA GENTIL DE PAU-
+LA COSTA, Professor Docente I, Identidade Funcional n° 33699364.
+CONCEDO ALTERAÇÃO DE NOME
+RETIFICAÇÃO
+D.O. DE 21/08/2025
+PÁGINA 27 - 2ª COLUNA
+DESPACHO DO COORDENADOR
+DE 20/08/2025
+PROCESSO Nº SEI-030001/081198/2025
+Onde se lê: ...MARIA COUTINHO DANIEL LOPES...
+Leia-se: ...LEDA MARIA COUTINHO DANIEL LOPES...
+Id: 2673708
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+COORDENADORIA DE GESTÃO DE PESSOAS -
+METROPOLITANA II
+DESPACHOS DA COORDENADORA
+DE 26/08/2025
+PROCESSO Nº SEI-E-03/6943142/1998 - LUIZ CARLOS DA SILVA
+GONÇALVES, Inspetor de Alunos, mat. n° 0272152-0, ID 3820581-5,
+período base de 14/07/2017 a 13/07/2022.
+PROCESSO Nº SEI-E-03/10101259/2000 - CARLOS ROBERTO PI-
+RES DOS SANTOS, Encarregado, mat. n° 5023170-3, ID 3578935-2,
+período base de 31/08/2019 a 30/08/2024.
+PROCESSO Nº SEI-E-03/10101253/2001 - CARLOS ARTHUR PEREI-
+RA DA SILVA, Prof. Doc. I, mat. n° 5012252-2, ID 3817115-5, período
+base de 22/02/2019 a 21/02/2024.
+PROCESSO Nº SEI-E-03/10101448/2002 - NAZARETH MARIA DE
+AZEVEDO AGOSTINHO, Agente Administrativo, mat. n° 5002784-6,
+ID 3561016-6, período base de 11/05/2020 a 25/05/2025.
+PROCESSO Nº SEI-E-03/10102808/2002 - CINTIA MARIA DE BRITO
+PIRES, Prof. Doc. II, mat. n° 5005174-7, ID 3521498-8, período base
+de 26/07/2019 a 25/07/2024.
+PROCESSO Nº SEI-E-03/10100381/2003 - ROSIMARY CARVALHO,
+Prof. Doc. II, mat. n° 5013168-9, ID 3837894-9, período base de
+22/07/2019 a 28/12/2024.
+PROCESSO Nº SEI-E-03/3610346/2003 - JORGE NUNES GRIGO-
+RIO, Zelador, mat. n° 5013521-9, ID 3620568-0, período base de
+18/06/2020 a 17/06/2025.
+PROCESSO Nº SEI-E-03/10101272/2003 - LEANDRA VIEIRA DE
+CARVALHO VIANNA, Prof. Doc. I, mat. n° 0827270-0, ID 3814328-3,
+período base de 22/03/2017 a 21/03/2022.
+PROCESSO Nº SEI-E-03/10103243/2004 - ELIANE MARMO DE MI-
+RANDA, Prof. Doc. I, mat. n° 0838491-9, ID 3560267-8, período base
+de 14/08/2019 a 13/08/2024.
+PROCESSO Nº SEI-E-03/10102210/2006 - SANDRA PINHEIRO ES-
+TEVES, Merendeira, mat. n° 5022669-5, ID 3410297-3, período base
+de 25/07/2020 a 24/07/2025.
+PROCESSO Nº SEI-E-03/3610946/2006 - JOELMA DA CRUZ CAR-
+DOSO DO NASCIMENTO, Prof. Doc. II, mat. n° 5014278-5, ID
+3581685-6, período base de 14/08/2019 a 13/08/2024.
+PROCESSO Nº SEI-E-03/10103936/2008 - MONICA DA SILVEIRA DE
+SOUZA, Agente Administrativo, mat. n° 5003596-3, ID 3728954-3, pe-
+ríodo base de 31/05/2020 a 13/08/2025.
+PROCESSO Nº SEI-E - 0 3 / 11 4 0 2 5 9 2 /2012- LAURA DOS ANJOS DA
+COSTA LEMOS, Prof. Doc. I, mat. n° 0919112-3, ID 4189951-2, pe-
+ríodo base de 22/03/2018 a 21/03/2023.
+PROCESSO Nº SEI-E-03/006/3091/2013 - TANIA TEIXEIRA DA SILVA
+NUNES, Prof. Doc. I, mat. n° 0926270-0, ID 3817610-6, período base
+de 16/05/2020 a 18/05/2025.
+PROCESSO Nº SEI-E-03/006/1527/2015 - ISABEL CRISTINA RIOS
+VALENTE, Prof. Doc. I, mat. n° 0958798-1, ID 4382309-2, período ba-
+se de 16/05/2019 a 15/05/2024.
+PROCESSO Nº SEI-E-03/006/525/2017 - HELMA DIAS SILVEIRA,
+Prof. Doc. I, mat. n° 0834264-4, ID 3557554-9, período base de
+08/11/2019 a 13/01/2025.
+PROCESSO Nº SEI-E-03/006/1947/2017 - KATIANE SILVA VERDAN,
+Prof. Doc. I, mat. nº 3030128-7, ID 5006677-3, período base de
+18/06/2017 a 17/06/2022.
+PROCESSO Nº SEI-E-03/006/100087/2018 - VALNEI MACHADO
+MENDONÇA, Prof. Doc. I, mat. n° 0934268-4, ID 4200033-5, período
+base de 30/07/2017 a 29/07/2022.
+PROCESSO Nº SEI-E-03/034/02/2020 - LUCIOLA MENEZES BA-
+BO,Prof. Doc. I, mat. n° 0963998-0, ID 4386560-7, período base de
+14/08/2015 a 07/09/2020.
+PROCESSO Nº SEI-E-03/3610373/2003 - NADIA MARIA DA CONCEI-
+ÇÃO PEREIRA, Merendeira, mat. n° 5014127-4, ID 3620354-8, perío-
+do base de 14/06/2020 a 13/06/2025.
+PROCESSO Nº SEI-030001/087898/2025 - RITA DE CASSIA RIBEI-
+RO QUINTANILHA, Prof. Doc. I, mat. n° 0933843-5, ID 4278389-5,
+período base de 01/07/2016 a 30/06/2021.
+PROCESSO Nº SEI-030034/001341/2020 - MARIA LUIZA DE SOUZA,
+Servente, mat. n° 5012220-9, ID 3587554-2, período base de
+17/11/2019 a 16/12/2024.
+PROCESSO Nº SEI-030034/000867/2022 - ESTELA PRAXEDES DE
+SOUZA ESTEVES, Prof. Doc. I, mat. n° 0935581-9, ID 4194471-2,
+período base de 28/07/2017 a 27/07/2022.
+PROCESSO Nº SEI-030034/001312/2022 - MARIA DE FATIMA WEN-
+DERROSCKY JOSE LOPES, Prof. Doc. I, mat. n° 3081077-4, ID
+5074019-9, período base de 29/07/2020 a 28/07/2025.
+PROCESSO Nº SEI-030034/003765/2022 - JULIANA CRISTINA OLI-
+VEIRA DE MATTOS, Prof. Doc. I, mat. n° 0967174-4, ID 4357832-2,
+período base de 16/05/2019 a 15/05/2024.
+PROCESSO Nº SEI-030001/037569/2024 - KELLY MARQUES CAVAL-
+CANTI GUIMARAES, Inspetor de Alunos, mat. n° 3051090-3, ID
+4319145-2, período base de 03/01/2020 a 02/01/2025.
+PROCESSO Nº SEI-0 3 0 0 0 1 / 0 6 3 11 9 /2024- ZENAIDE TOLEDO GRAN-
+GE ROCHA, Prof. Doc. I, mat. n° 0960109-7, ID 3560428-0, período
+base de 16/03/2020 a 15/03/2025.
+PROCESSO Nº SEI-030001/074817/2024 - ELAINE ANDRADE RA-
+MALHO BOTTICINI, Prof. Doc. I,mat. n° 0925442-6, ID 3812456-4,
+período base de 11/06/2020 a 10/06/2025.
+PROCESSO Nº SEI-030001/096710/2024 - MARCELO FREITAS DOS
+SANTOS, Prof. Doc. I, mat. n° 0912255-7, ID 562211-5, período base
+de 24/07/2020 a 23/07/2025.
+PROCESSO Nº SEI-030001/076708/2025 - SOLANGE PONTES BAR-
+BOSA, Servente, mat. n° 5019737-5, ID 3581643-0, período base de
+06/04/2019 a 05/04/2024.
+PROCESSO Nº SEI-030001/082159/2025 - RAFAELA TORRES DOS
+SANTOS, Prof. Doc. I, mat. n° 3072027-0, ID 5035088-9, período ba-
+se de 14/08/2019 a 13/08/2024.
+PROCESSO Nº SEI-030001/085998/2025 - IVANETE SILVA VIEIRA,
+Servente, mat. n° 5012723-2, ID 3615652-3, período base de
+16/04/2016 a 07/05/2021.
+PROCESSO Nº SEI-030001/086565/2025 - CINTIA ALVES SILVA AN-
+TONIO, Prof. Doc. II, mat. n° 5004380-1, ID 3579443-7, período base
+de 23/10/2004 a 22/10/2009.
+CONCEDO 03 (TRES) MESES DE LICENÇA ESPECIAL
+PROCESSO Nº SEI-E-03/3610429/2007 - CONCEIÇÃO APARECIDA
+COLOMBINO PENA, Prof. Doc. II, mat. n° 5006397-3, ID 3614995-0,
+períodos base de 14/10/2014 a 13/10/2019 e de 14/10/2019 a
+13/10/2024.
+PROCESSO Nº SEI-E-03/3610290/2008 - MARIA DO SOCORRO DA
+SILVA, Merendeira, mat. n° 5006385-8, ID 3729448-2, períodos base
+de 31/01/2015 a 30/01/2020 e de 31/01/2020 a 31/01/2025.
+PROCESSO Nº SEI-E-03/10101875/2009 - MARCIA TERESINHA PE-
+REIRA COSTA, Prof. Doc. I, mat. n° 0904085-8, ID 4188612-7, pe-
+ríodos base de 28/04/2009 a 27/04/2014 de 01/07/2016 a
+30/06/2021.
+PROCESSO Nº SEI-E-03/10104987/2008 - ANTONIO RICARDO PE-
+NA RAMOS, Prof. Doc. I, mat. n° 0827330-2, ID 3812985-0, períodos
+base de 03/08/2014 a 02/08/2019 e de 03/08/2019 a 02/08/2024.
+PROCESSO Nº SEI-E-03/3610981/2010 - PATRICIA ALMEIDA DA
+CONCEIÇÃO MARQUES, Prof. Doc. I, mat. n° 09015231-5, ID
+4214378-0, períodos base de 15/11/2013 a 14/11/2018 e de
+15/11/2018 a 14/11/2023.
+PROCESSO Nº SEI-E-03/006/2723/2013 - SANDRA LISBOA DE OLI-
+VEIRA, Prof. Doc. I, mat. n° 0921862-9, ID 4206558-5, períodos base
+de 25/08/2012 a 24/08/2017 e de 25/08/2017 a 24/08/2022.
+PROCESSO Nº SEI-E-03/013/1969/2015 - MARCELO DE ABREU
+FERRO, Prof. Doc. I, mat. n° 0963874-3, ID 3615146-7, períodos ba-
+se de 16/06/2015 a 15/06/2020 e de 16/06/2020 a 15/06/2025.
+PROCESSO Nº SEI-E-03/006/103373/2018 - ANDRE LUIZ SANTOS
+REBELLO, Prof. Doc. I, mat. n° 0940957-4, ID 4202880-9, períodos
+base de 09/05/2014 a 23/05/2019 e de 24/05/2019 a 23/05/2024.
+PROCESSO Nº SEI-030001/082864/2025 - RODRIGO DOS REIS
+SANTAREM, Assistente Executivo, mat. n° 3041171-4, ID 5013651-8,
+períodos base de 20/05/2013 a 19/05/2018 e de 20/05/2018 a
+19/05/2023.
+PROCESSO Nº SEI-030001/076526/2025 - MARIA LORDESTE DA
+COSTA, Prof. Doc. I, mat. n° 0962911-4, ID 2697924-1, períodos base
+de 16/06/2010 a 15/06/2014 e de 01/07/2017 a 30//07/2022.
+PROCESSO Nº SEI-030001/084639/2025 - JOSE CARLOS DA SILVA
+NUNES, Zelador, mat. n° 5006375-9, ID 3590552-2, períodos base de
+07/03/1994 a 06/03/1999 e de 16/05/2019 a 15/05/2024.
+PROCESSO Nº SEI-030001/086176/2025 - GRAZIELA BAPTISTA
+MONTECHIARI DE ANDRADE, Prof. Doc. I, mat. n° 0927373-1, ID
+4253751-7, períodos base de 28/10/2014 a 29/12/2019 e de
+30/12/2019 a 29/12/2024.
+PROCESSO Nº SEI-030001/086195/2025 - ISABELLE ALCANTARA
+DA SILVA, Prof. Doc. I, mat. n° 0971687-9, ID 4414373-7, períodos
+base de 02/08/2011 a 01/08/2016 e de 02/08/2016 a 01/08/2021.
+CONCEDO 06 (SEIS) MESES DE LICENÇA ESPECIAL
+PROCESSO Nº SEI-E-03/6900788/1996 - JOAO ROCHA NOGUEIRA,
+Servente, mat. n° 0278906-3, ID 3823495-5, períodos base de
+01/01/2008 a 31/12/2012; de 01/01/2013 a 31/12/2017 e de
+01/01/2018 a 31/12/2022.
+PROCESSO Nº SEI-030001/082837/2025 - BARBARA DA SILVA
+FURTADO, Prof. Doc. I, mat. n° 0829563-6, ID 4037743-1, períodos
+base de 17/10/2000 a 16/10/2005; de 17/10/2005 a 16/10/2010 e de
+15/06/2019 a 14/06/2024.
+CONCEDO 09 (NOVE) MESES DE LICENÇA ESPECIAL
+PROCESSO Nº SEI-030001/076739/2025 - MARCELO DERANI GUR-
+GEL VALENTE, Prof. Doc. I, mat. n° 0840177-0, ID 3560094-2, pe-
+ríodos base de 15/04/2003 a 14/04/2008; de 28/05/2010 a 11/07/2015;
+de 12/07/2015 a 11/07/2020 e de 12/07/2020 a 11/07/2025. CONCE-
+DO 12 (doze) meses de licença especial.
+PROCESSO Nº SEI-030001/086930/2025 - ROSANGELA LOPES DE
+MENDONÇA DA SILVA, Prof. Doc. II, mat. n° 0815394-2, ID 3805368-
+3, períodos base de 01/06/1994 a 09/06/1999; de 22/08/2003 a
+14/11/2008; de 15/11/2008 a 03/12/2013; de 04/12/2013 a 25/08/2018
+e de 26/08/2018 a 25/08/2023. CONCEDO 15 (quinze) meses de li-
+cença especial.
+PROCESSO Nº SEI-E-03/10100194/2003 - MARIA VERONICA MEL-
+LO RIBEIRO, Prof. Doc. II, mat. n° 5004480-9, ID 3810386-9.
+PROCESSO Nº SEI-E-03/10100935/2004 - VERONICA SPALLA PI-
+RES, Merendeira, mat. n° 5022918-6, ID 3833664-2.
+PROCESSO Nº SEI-E-03/006/2013/2018 - MARIA JOSE PIRES SI-
+MÃO, Prof. Doc. I, mat. n° 0916487-2, ID 4137372-3.
+PROCESSO Nº SEI-030001/085637/2025 - MARCO ANTONIO PUC-
+CINI LARA, Prof. Doc. I, mat. n° 0829175-9, ID 3981785-7.
+INDEFIRO O PROCESSO
+PROCESSO Nº SEI-030001/075405/2025 - ALIX PEREIRA DOS SAN-
+TOS, Prof. Doc. I, mat. n° 0953303-5, ID 4360441-2.
+PROCESSO Nº SEI-030001/075434/2025 - ALIX PEREIRA DOS SAN-
+TOS, Prof. Doc. I, mat. n° 0961920-6, ID 4360441-2.
+PROCESSO Nº SEI-030001/077098/2025 - VIRGINIA LUCIA ROCHA
+DUTRA VAZ, Prof. Doc. II, mat. n° 0291361-4, ID 3818077-4.
+PROCESSO Nº SEI-030001/086767/2025 - FERNANDA LEONE DE
+ASSUMPÇÃO CAMACHO SILVA, Prof. Doc. I, mat. n° 3084836-0, ID
+5077194-9.
+CONCEDO ALTERAÇÃO DE NOME
+Id: 2673709
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+COORDENADORIA DE GESTÃO DE PESSOAS -
+METROPOLITANA IV
+DESPACHOS DA COORDENADORA
+DE 26/08/2025
+PROCESSO Nº SEI-E-03/036/417/2019 - ROSINEA HENRIQUE DE-
+LAQUA, Prof. Doc. I, ID. Funcional 35341246, mat. nº 0913139-2, pe-
+ríodo base de 23/02/2016 a 22/02/2021.
+PROCESSO Nº SEI-030001/085898/2025 - ALESSANDRA DO NAS-
+CIMENTO, Prof. Doc. I, ID. Funcional 39638758, mat. nº 0841428-6,
+período base de 16/07/2016 a 30/07/2021.
+PROCESSO Nº SEI-E-03/10900457/2010 - ADRIANA DE PAULA TA-
+VARES DE OLIVEIRA, Prof. Doc. I, ID. Funcional 32635176, mat. nº
+0870353-0, período base de 26/03/2017 a 25/03/2022.
+PROCESSO Nº SEI-030036/006086/2021 - ADRIANA DE PAULA TA-
+VARES DE OLIVEIRA, Prof. Doc. I, ID. Funcional 32635176, mat. nº
+0918606-5, período base de 18/03/2020 a 24/03/2025.
+PROCESSO Nº SEI-030001/085978/2025 - FERNANDO FREDERICO
+DE OLIVEIRA, Prof. Doc. I, ID. Funcional 43251900, mat. nº 0964171-
+3, período base de 31/05/2017 a 30/05/2022.
+PROCESSO Nº SEI-E-03/008/3394/2017 - MARIA NAZARETH PON-
+TES, Prof. Doc. I, ID. Funcional 36563838, mat. nº 0830013-9, perío-
+do base de 14/08/2019 a 19/08/2024.
+PROCESSO Nº SEI-030036/004168/2022 - CÍNTIA ANDRIOTTO LO-
+PES, Prof. Doc. I, ID. Funcional 43442820, mat. nº 0949107-7, pe-
+ríodo base de 16/05/2019 a 30/05/2024.
+CONCEDO 03 (TRÊS) MESES DE LICENÇA ESPECIAL.
+PROCESSO Nº SEI-030001/086584/2025 - KELEN CRISTINA FRA-
+ZÃO ALBUQUERQUE, Prof. Doc. I, ID. Funcional 39659046, mat. nº
+0838979-3, períodos base de 16/05/2004 a 12/07/2009 e de
+13/07/2009 a 29/10/2014.
+PROCESSO Nº SEI-030001/083023/2025 - LUIS DA SILVA CONCEI-
+ÇÃO, Prof. Doc. I, ID. Funcional 34753451, mat. nº 0927745-0, pe-
+ríodos base de 16/07/2011 a 22/08/2016 e de 16/05/2019 a
+15/05/2024.
+PROCESSO Nº SEI-030001/085289/2025 - ANA MARIA LOPES PE-
+RES DOS REIS, Prof. Doc. I, ID. Funcional 44190263, mat. nº
+0973844-4, períodos base de 10/10/2014 a 07/12/2019 e de
+08/12/2019 a 07/12/2024.
+PROCESSO Nº SEI-030001/085368/2025 - CARLA PINHEIRO PE-
+DRAZZI, Prof. Doc. I, ID. Funcional 43912079, mat. nº 3072563-4, pe-
+ríodo base de 06/11/2014 a 05/11/2024.
+PROCESSO Nº SEI-030001/085825/2025 - FERNANDO FREDERICO
+DE OLIVEIRA, Prof. Doc. I, ID. Funcional 43251900, mat. nº 0938170-
+8, período base de 07/03/2013 a 06/03/2023.
+CONCEDO 06 (SEIS) MESES DE LICENÇA ESPECIAL.
+PROCESSO Nº SEI-030001/075693/2025 - FABÍOLA PORTO BEZER-
+RA RAMOS, Prof. Doc. I, ID. Funcional 42841577, mat. nº 0934374-0,
+período base de 30/07/2007 a 29/07/2022.
+PROCESSO Nº SEI-030001/083408/2025 - MARIA DA CONCEIÇÃO
+PEREIRA, Prof. Doc. I, ID. Funcional 42014000, mat. nº 0913281-2,
+período base de 19/05/2009 a 25/05/2024.
+PROCESSO Nº SEI-030001/085325/2025 - CARLA PINHEIRO PE-
+DRAZZI, Prof. Doc. I, ID. Funcional 43912079, mat. nº 0966370-9, pe-
+ríodo base de 11/08/2010 a 10/08/2025.
+PROCESSO Nº SEI-030001/083458/2025 - MARIA DA CONCEIÇÃO
+PEREIRA, Prof. Doc. I, ID. Funcional 42014000, mat. nº 0936234-4,
+período base de 05/09/2007 a 11/09/2022.
+CONCEDO 09 (NOVE) MESES DE LICENÇA ESPECIAL.
+PROCESSO Nº SEI-030001/083974/2025 - ADRIANA CERQUEIRA
+PEREIRA, Prof. Doc. I, ID. Funcional 5670250, mat. nº 0918042-3,
+períodos base de 01/02/2005 a 22/02/2020 e de 23/02/2020 a
+08/03/2025. CONCEDO 12 (doze) meses de licença especial.
+PROCESSO Nº SEI-030001/081882/2025 - DÉBORA NEI CARVALHO
+DE FREITAS, Agente Administrativo de Biblioteca, ID. Funcional
+32527845, mat. nº 5020893-3, períodos base de 10/05/1994 a
+20/07/2014 e de 22/02/2016 a 13/03/2021. CONCEDO 15 (quinze)
+meses de licença especial.
+PROCESSO Nº SEI-030001/085264/2025 - NOÊMIA RODRIGUES
+GONÇALVES, Prof. Doc. I, ID. Funcional 39657663, mat. nº 0841426-
+0. INDEFIRO o processo.
+PROCESSO Nº SEI-E-03/008/2411 /2017 - NAIRA CRISTINA VIEIRA
+LEMOS DE OLIVEIRA, Prof. Doc. I, ID. Funcional 35418745, mat. nº
+0838752-4. CONCEDO alteração de nome.
+Id: 2673710
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+DEPARTAMENTO GERAL DE AÇÕES SOC I O E D U C AT I VA S
+CORREGEDORIA
+ATO DA CORREGEDORADE 19/08/2025
+APLICA a sanção disciplinar de SUSPENSÃO por 01(um) dia ao ser-
+vidor MARCOS VINICIUS PEREIRA NEVES , ID. 4253627-8 , por ter
+infringido a norma do § 3º, do art. 5º, do Decreto nº 49.005/2024, o
+que configura descumprimento do dever funcional previsto no inciso
+VII, do art. 285, do Decreto nº 2.479/79, no processo SEI-
+030002/001673/2025.
+Id: 2673638
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+DEPARTAMENTO GERAL DE AÇÕES SOC I O E D U C AT I VA S
+CORREGEDORIA
+AT O DA CORREGEDORADE 19/08/2025
+APLICA a sanção disciplinar de REPREENSÃO ao servidor FENIX
+SAUL RANGEL DO NASCIMENTO, ID 4333292-7, pelo descumpri-
+mento de normas conforme preceituado nos arts. 4º e 5º, § 6º, do
+Decreto nº 46.663/2019, alterado pelo Decreto nº 47.967/2022, o que
+configura descumprimento de dever funcional previsto no art. 285, VII,
+do Decreto nº 2.479/79, no Processo SEI-030002/008967/2024.
+Id: 2673680
+
+## Pagina 22
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0032/U0032
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+DEPARTAMENTO GERAL DE AÇÕES SOC I O E D U C AT I VA S
+CORREGEDORIA
+ATO S DA CORREGEDORADE 29/07/2025
+APLICA a sanção disciplinar de SUSPENSÃO por 03(três) dias ao
+servidor LUAN ROBERT DE SOUZA DOS SANTOS , ID. 50232053 ,
+por ter deixado de cumprir o determinado no art. 37, V, § 2º, da Por-
+taria Degase nº 853/2020, o que configura descumprimento do dever
+funcional previsto no art. 285, inciso VII do Decreto nº 2.479/79, nos
+termos do art 296, inciso I, do Decreto nº 2.479/79, no processo SEI-
+030002/001233/2024.
+APLICA a sanção disciplinar de SUSPENSÃO por 02(dois) dias ao
+servidor CLAUDIO JOSE TARGINO DA SILVEIRA , ID. 50097385 , por
+ter deixado de cumprir o determinado no art. 37, V, § 2º, da Portaria
+Degase nº 853/2020, o que configura descumprimento do dever fun-
+cional previsto no art. 285, inciso VII do Decreto nº 2.479/79, nos ter-
+mos do art 296, inciso I, do Decreto nº 2.479/79, no processo SEI-
+030002/001233/2024.
+Id: 2672122
+Secretaria de Estado de
+Ciência, T ecnologia e Inovação
+SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA
+E INOVAÇÃO
+D E S PA C H O DO SECRETÁRIO
+DE 27/08/2025
+PROCESSO Nº SEI-260002/000471/2024 - OBJETO: Processo Admi-
+nistrativo Sancionatório em face da empresa ZE BARATAO DA CEA-
+SA COMERCIO AGRICOLA LTDA, inscrita no CNPJ sob o nº
+41.754.578/0001-10 - DECIDO pela aplicação da Sanção Administra-
+tiva de impedimento de licitar e contratar com a Administração Pública
+do Estado do Rio de Janeiro, com a consequente suspensão/descre-
+denciamento do seu registro no Cadastro de fornecedores (SICAF ou
+sistemas equivalentes), pelo período de 40 (quarenta) dias, conforme
+previsto no art. 7º da Lei nº 10.520/2002, ratificando a decisão pro-
+ferida pela Magnífica Reitora da Universidade Estadual do Norte Flu-
+minense Darcy Ribeiro - UENF.
+Id: 2673757
+ADMINISTRAÇÃO VINCULADA
+SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA
+E INOVAÇÃO
+FUNDAÇÃO DE APOIO À ESCOLA TÉCNICA
+ATOS DO PRESIDENTE
+DE 21/08/2025
+DESIGNA, para fins de utilização do Sistema de Descentralização SI-
+DES, o servidor ROBSON DE SOUZA - ID FUNCIONAL: 51596644
+COGESTOR em substituição da servidora EDVANIA TAVARES DE
+MOURA ID FUNCIONAL: 20932065 da FAETEC - ALEMÃO. Processo
+nº SEI-260005/001377/2025.
+DESIGNA, para fins de utilização do Sistema de Descentralização SI-
+DES, a servidora THAÍS CARNEIRO CLEMENTE - ID. FUNCIONAL:
+51640724 como GESTORA, e a servidora VANY CRISTINA CÔRTES
+COUTINÍÎ CAMPELLO TEIXEIRA , ID. FUNCIONAL: 5148441-2, como
+COGESTORA da FAETEC NITERÓI - UNIDADE PENDOTIBA. Pro-
+cesso nº SEI-260005/001377/2025.
+DESIGNA, para fins de utilização do Sistema de Descentralização SI-
+DES, como GESTOR o servidor WILSON DA SILVA NETO - ID.
+FUNCIONAL: 41988280, permanecendo como COGESTORA a servi-
+dora GLÁUCIA DO COUTO DE OLIVEIRA - ID. FUNCIONAL:
+44051360 da FAETEC PARAIBA DO SUL. Processo nº SEI-
+260005/001377/2025.
+DE 27/08/2025
+DESIGNA, para fins de utilização do Sistema de Descentralização SI-
+DES, a servidora ALINE CAVALCANTE CONCEIÇÃO DA SILVA RO-
+SA - ID. FUNCIONAL: 51423235 , como GESTORA e a servidora
+LUANA PATRICIO DA SILVA - ID. FUNCIONAL: 43430350, como
+COGESTORA da FAETEC - BATAN. Processo nº SEI-
+260005/001377/2025.
+Id: 2674048
+SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA
+E I N O VA Ç Ã O
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+DESPACHO DA R E I TO R A
+DE 21.08.2025
+*PROCESSO Nº SEI-260006/002785/2025 - RECONHEÇO a dívida
+no valor de R$ 375.805,51 em nome de JOSÉ MAURICIO DE MO-
+RAIS CARMO, CPF 185.458.077-91, conforme certidão 87
+(105371222).
+*Republicado por incorreção no original publicado no D.O. de
+25/08/2025.
+Id: 2673989
+SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA
+E INOVAÇÃO
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+ATO S DA R E I TO R A
+DE 25.08.2025
+PORTARIA Nº 871/2025 - PROGRIDE os servidores docentes, con-
+forme anexo desta Portaria, nos termos do que dispõe o Art. 12 da
+Lei nº 5.343/2008, com nova redação dada pela Lei nº 7.423/2016 e
+o inciso I, do Art. 3º da Resolução nº 01/2024, complementada pela
+Resolução nº 21/2024, Processo nº SEI-260006/013312/2025.
+ANEXO
+Matrícula ID Funcional Vínculo Data da Pro-
+gressão
+Nível da Pro-
+gressão
+335133 25574930 1 01/01/2021 ADJ 3
+344416 41854403 1 01/01/2021 ADJ 3
+347740 32306679 3 01/01/2021 ADJ 4
+357277 4 4 1 4 11 8 1 1 01/01/2021 ADJ 4
+358945 44264518 1 01/01/2021 ADJ 4
+358952 44261489 1 01/01/2021 ADJ 4
+359240 44265239 1 01/01/2021 ADJ 4
+359463 44264186 1 01/01/2021 ADJ 4
+359547 44266510 1 01/01/2021 ADJ 4
+3 5 9 7 11 44265476 1 01/01/2021 ADJ 4
+359737 44265468 1 01/01/2021 ADJ 4
+360008 44264100 1 01/01/2021 ADJ 4
+360198 44264321 1 01/01/2021 ADJ 4
+360669 44272812 1 01/01/2021 ADJ 4
+360693 44272499 1 01/01/2021 ADJ 4
+363143 4 4 3 111 8 4 1 01/01/ 2021 ADJ 4
+363192 6079393 2 01/01/2021 ADJ 4
+363747 44329202 1 01/01/2021 ADJ 4
+365619 44389256 1 01/01/2021 ADJ 4
+365650 44389701 1 01/01/2021 ADJ 4
+366534 31044956 2 01/01/2021 ADJ 4
+369991 5503310 2 01/01/2021 ADJ 3
+370916 44584369 1 01/01/2021 ADJ 3
+371831 44590750 1 01/01/2021 ADJ 3
+374066 44617275 1 01/01/2021 ADJ 3
+374124 4 2 6 5 111 5 2 01/01/ 2021 ADJ 3
+375287 44629702 1 01/01/2021 ADJ 3
+376897 42040400 2 01/01/2021 ADJ 3
+376905 31397425 4 01/01/2021 ADJ 3
+379008 44647220 1 01/01/2021 ADJ 3
+380550 42792630 2 08/08/2021 ADJ 4
+380626 44140134 3 01/01/2021 ADJ 3
+381491 42749069 5 06/03/2021 ADJ 4
+381905 44667299 2 01/01/2021 ADJ 3
+381996 44667388 2 01/01/2021 ADJ 3
+382028 44667256 2 01/01/2021 ADJ 3
+382762 50350633 1 05/03/2021 ADJ 4
+382853 50351010 1 01/01/2021 ADJ 2
+383224 50356860 1 01/01/2021 ADJ 3
+383752 50370430 1 01/01/2021 ADJ 3
+384966 50371215 1 01/01/2021 ADJ 3
+385138 50372963 1 01/01/2021 ADJ 3
+385161 50372181 1 01/01/2021 ADJ 3
+385195 50372130 1 01/01/2021 ADJ 3
+385385 50375040 1 01/01/2021 ADJ 3
+385401 50373749 1 01/01/2021 ADJ 3
+385799 50700537 1 01/01/2021 ADJ 3
+385831 50701622 1 01/01/2021 ADJ 3
+386102 50701428 1 01/01/2021 ADJ 3
+386128 6428835 5 01/01/2021 ADJ 3
+386276 50376624 1 01/01/2021 ADJ 3
+386466 50702017 1 01/01/2021 ADJ 3
+386482 50702432 1 01/01/2021 ADJ 3
+386516 50700510 1 01/01/2021 ADJ 3
+386532 5 0 7 0 11 0 0 1 01/01/2021 ADJ 3
+386540 50701010 1 01/01/2021 ADJ 3
+386961 50700715 1 01/01/2021 ADJ 3
+387043 50703048 1 01/01/2021 ADJ 3
+387183 50377140 1 01/01/2021 ADJ 3
+387274 44369506 1 01/01/2021 ADJ 2
+388090 50723308 1 01/01/2021 ADJ 2
+388207 50719483 1 01/01/2021 ADJ 2
+388231 50724673 1 01/01/2021 ADJ 2
+388249 50719599 1 01/01/2021 ADJ 2
+388272 50723596 1 01/01/2021 ADJ 2
+388298 5 0 7 1 9 11 4 1 01/01/2021 ADJ 2
+388892 50724304 1 01/01/2021 ADJ 2
+392357 50762966 1 01/01/2021 ADJ 2
+383810 50370537 1 01/01/2022 ADJ 3
+307959 25528130 1 06/06/2022 ADJ 2
+312348 25581740 1 1 9 / 11 / 2 0 2 2 ADJ 2
+312579 25587846 1 19/02/2022 ADJ 2
+3 4 11 3 1 6079814 1 23/08/2022 ADJ 2
+344234 5785189 3 18/01/2022 ADJ 2
+345033 31370853 2 22/10/2022 ADJ 2
+345793 42058481 1 02/07/2022 ADJ 2
+346627 39828557 5 03/06/2022 ASS 2
+364984 44368844 1 04/12/2022 ADJ 4
+3 8 3 7 11 3 7 4 11 6 4 0 2 21/08/2022 ADJ 4
+384768 30840961 3 2 6 / 11 / 2 0 2 2 ADJ 2
+384784 50371290 1 2 6 / 11 / 2 0 2 2 ADJ 2
+385682 50373153 1 16/04/2022 ADJ 2
+386227 50703269 1 09/05/2022 ADJ 2
+386912 50376799 1 26/02/2022 ADJ 2
+3 8 7 8 11 50716956 1 08/07/2022 ADJ 4
+388983 50735187 1 23/01/2022 ADJ 2
+389106 43660029 2 16/10/2022 ADJ 3
+389197 50732404 1 17/01/2022 ADJ 2
+389221 50733680 1 18/09/2022 ADJ 3
+389866 50748300 1 16/01/2022 ADJ 3
+389957 43818579 2 23/01/2022 ADJ 2
+390534 43637736 2 2 6 / 11 / 2 0 2 2 ADJ 2
+390997 42801788 3 28/03/2022 ADJ 3
+391003 44146671 3 17/01/2022 ADJ 2
+391680 50758730 1 05/07/2022 ADJ 2
+391912 50758691 1 07/02/2022 ADJ 2
+392084 50361910 2 01/07/2022 ADJ 2
+392274 25775421 3 09/01/2022 ADJ 2
+392308 50762575 1 02/05/2022 ADJ 2
+392332 50762168 1 29/08/2022 ADJ 2
+393066 30842573 2 2 1 / 11 / 2 0 2 2 ADJ 2
+3 9 3 11 6 50778137 1 11 / 0 3 / 2 0 2 2 ADJ 2
+394064 42160839 2 20/02/2022 ADJ 2
+394429 44025408 2 04/01/2022 ASS 2
+395590 43477330 5 0 8 / 11 / 2 0 2 2 ADJ 2
+395699 50838733 1 12/07/2022 ADJ 2
+395756 50762184 2 12/08/2022 ADJ 2
+395996 50839578 1 09/07/2022 ADJ 2
+396036 42778824 2 11 / 1 2 / 2 0 2 2 ADJ 2
+398073 50986244 1 25/01/2022 ADJ 2
+398677 25548212 2 26/02/2022 ADJ 2
+398750 50985884 1 25/01/2022 ADJ 2
+398768 50997823 1 19/02/2022 ADJ 2
+398776 50997203 1 19/02/2022 ADJ 2
+398784 44145594 2 19/02/2022 ADJ 2
+398792 50997297 1 19/02/2022 ADJ 2
+398800 50990705 1 08/02/2022 ADJ 2
+398826 50997351 1 19/02/2022 ADJ 2
+398834 43702902 3 19/02/2022 ASS 2
+398909 50997386 1 19/02/2022 ADJ 2
+398917 30618070 2 14/01/2022 ADJ 2
+398925 50997670 1 19/02/2022 ADJ 2
+398966 50997653 1 19/02/2022 ASS 2
+398974 50997645 1 19/02/2022 ADJ 2
+398990 51001519 1 11 / 0 2 / 2 0 2 2 ADJ 2
+399022 51002000 1 14/03/2022 ASS 2
+399030 50997335 1 19/02/2022 ASS 2
+399097 50997327 1 19/02/2022 ADJ 2
+399105 50997289 1 19/02/2022 ADJ 2
+3 9 9 11 3 50997319 1 19/02/2022 ADJ 2
+399154 50997548 1 19/02/2022 ASS 2
+399162 50997394 1 19/02/2022 ASS 2
+399170 51007142 1 19/02/2022 ADJ 2
+399188 50997564 1 19/02/2022 ADJ 2
+399196 50997580 1 19/02/2022 ADJ 2
+399204 50997793 1 19/02/2022 ASS 2
+399220 51010194 1 24/04/2022 ADJ 2
+399246 51002817 1 20/03/2022 ADJ 2
+399253 51002434 1 20/03/2022 ADJ 2
+399279 51017059 1 20/03/2022 ADJ 2
+399287 51001454 1 22/03/2022 ADJ 2
+399295 51002264 1 20/03/2022 ADJ 2
+399303 51001616 1 21/03/2022 ASS 2
+399337 51010941 1 20/03/2022 ADJ 2
+399345 51002302 1 20/03/2022 ADJ 2
+399352 6421741 3 20/03/2022 ADJ 2
+399378 5 1 0 11 6 5 4 1 26/04/2022 ADJ 2
+399394 5 0 7 5 4 11 4 2 29/04/2022 ADJ 2
+399410 5 1 0 11 9 6 4 1 26/04/2022 ADJ 2
+399428 43824064 2 26/04/2022 ASS 2
+399444 5 1 0 11 4 9 2 1 26/04/2022 ASS 2
+399451 51012022 1 26/04/2022 ADJ 2
+399493 51010470 1 26/04/2022 ADJ 2
+399527 51010577 1 26/04/2022 ADJ 2
+399535 51010640 1 26/04/2022 ASS 2
+399550 50373080 2 26/04/2022 ADJ 2
+399568 51020327 1 27/05/2022 ADJ 2
+399634 51024756 1 19/06/2022 ADJ 2
+399667 51025043 1 19/06/2022 ADJ 2
+399675 51025035 1 19/06/2022 ASS 2
+399691 51029138 1 10/07/2022 ASS 2
+399717 51024730 1 19/06/2022 ADJ 2
+399725 51025582 1 19/06/2022 ADJ 2
+399733 43036007 2 03/07/2022 ADJ 2
+399741 51025639 1 19/06/2022 ASS 2
+399782 51034425 1 31/07/2022 ADJ 2
+399808 43709230 2 31/07/2022 ASS 2
+399824 51034492 1 31/07/2022 ADJ 2
+399832 51034484 1 31/07/2022 ADJ 2
+399865 51034689 1 31/07/2022 ADJ 2
+399949 51038757 1 14/08/2022 ADJ 2
+399956 51038552 1 14/08/2022 ADJ 2
+399964 51055465 1 08/10/2022 ASS 2
+399972 51038340 1 14/08/2022 ADJ 2
+399980 51038544 1 14/08/2022 ADJ 2
+400010 51038307 1 14/08/2022 ASS 2
+400028 5786282 2 14/08/2022 ADJ 2
+400036 51038080 1 14/08/2022 ADJ 2
+400051 51038501 1 14/08/2022 ADJ 2
+400069 51052083 1 14/08/2022 ADJ 2
+400127 51044757 1 09/09/2022 ADJ 2
+400176 51042614 1 03/09/2022 ADJ 2
+400184 51042649 1 03/09/2022 ADJ 2
+400192 51083477 1 2 5 / 11 / 2 0 2 2 ADJ 2
+400200 51059568 1 29/10/2022 ADJ 2
+400218 51059347 1 23/10/2022 ADJ 2
+400234 51055104 1 30/09/2022 ADJ 2
+400309 43744370 3 23/10/2022 ADJ 2
+400317 51059177 1 23/10/2022 ADJ 2
+400697 43595529 3 1 8 / 11 / 2 0 2 2 ADJ 2
+401646 51072610 1 16/12/2022 ADJ 2
+322552 25598538 1 06/01/2023 ADJ 2
+354803 25720562 2 07/02/2023 ADJ 2
+383695 43434762 3 01/12/2023 ADJ 4
+3 8 5 11 2 50372831 1 23/01/2023 ADJ 4
+387795 50700677 1 01/12/2023 ADJ 4
+388843 43687091 2 21/09/2023 ADJ 3
+3 9 2 8 11 42560519 3 03/09/2023 ADJ 4
+393074 4 3 6 11 7 0 2 2 19/12/2023 ADJ 2
+396606 5 11 5 5 0 4 4 1 1 0 / 11 / 2 0 2 3 ADJ 2
+400754 5 11 4 9 1 4 1 1 1 0 / 11 / 2 0 2 3 ADJ 2
+401067 40075567 4 1 0 / 11 / 2 0 2 3 ASS 2
+401562 5 11 4 9 1 2 5 1 1 0 / 11 / 2 0 2 3 ADJ 2
+401596 5 11 4 7 4 2 4 1 1 0 / 11 / 2 0 2 3 ADJ 2
+401604 44408552 3 1 0 / 11 / 2 0 2 3 ADJ 2
+401653 5 11 4 6 8 7 8 1 1 0 / 11 / 2 0 2 3 ADJ 2
+401687 6079199 2 1 0 / 11 / 2 0 2 3 ADJ 2
+401703 43382126 2 1 0 / 11 / 2 0 2 3 ADJ 2
+401745 5 11 4 9 11 7 1 1 0 / 11 / 2 0 2 3 ADJ 2
+401794 5 11 4 6 9 3 2 1 1 0 / 11 / 2 0 2 3 ADJ 2
+401802 5 11 4 7 0 1 7 1 1 0 / 11 / 2 0 2 3 ADJ 2
+401810 5 11 4 6 2 1 5 1 1 0 / 11 / 2 0 2 3 ADJ 2
+401828 5 11 4 7 1 6 5 1 1 0 / 11 / 2 0 2 3 ADJ 2
+401836 5 11 4 6 8 1 9 1 1 0 / 11 / 2 0 2 3 ADJ 2
+401844 43965733 2 1 0 / 11 / 2 0 2 3 ADJ 2
+401869 51017610 1 1 0 / 11 / 2 0 2 3 ADJ 2
+401877 5 11 4 7 0 3 3 1 1 0 / 11 / 2 0 2 3 ADJ 2
+401885 5 11 4 6 2 4 0 1 1 0 / 11 / 2 0 2 3 ADJ 2
+401950 5 11 4 7 1 8 1 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402032 5 11 4 6 9 1 6 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402230 5 11 4 6 2 2 3 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402248 5 11 4 6 9 4 0 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402255 5 11 5 0 5 2 2 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402263 5 11 4 7 0 4 1 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402271 5 11 4 6 2 0 7 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402289 5 11 4 7 0 0 9 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402297 5 11 4 6 9 5 9 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402305 5 11 4 6 8 8 6 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402354 5 11 4 6 1 9 3 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402362 5 11 4 6 7 8 9 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402388 43277543 4 1 0 / 11 / 2 0 2 3 ASS 2
+402404 5 11 4 7 1 7 3 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402412 42544556 3 1 0 / 11 / 2 0 2 3 ADJ 2
+402438 5 11 4 7 1 9 0 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402446 5 11 4 7 2 0 3 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402453 5 11 4 7 1 4 9 1 1 0 / 11 / 2 0 2 3 ADJ 2
+402461 5 11 4 7 1 3 0 1 1 0 / 11 / 2 0 2 3 ADJ 2
+4 0 2 5 11 5 11 5 2 0 3 7 1 2 5 / 11 / 2 0 2 3 ADJ 2
+402529 38596016 2 2 5 / 11 / 2 0 2 3 ADJ 2
+402636 42772877 2 2 5 / 11 / 2 0 2 3 ADJ 2
+402677 5 11 3 1 9 6 0 1 2 5 / 11 / 2 0 2 3 ADJ 2
+402685 5 11 3 2 6 3 0 1 2 5 / 11 / 2 0 2 3 ADJ 2
+402693 5 11 3 1 9 8 6 1 2 5 / 11 / 2 0 2 3 ADJ 2
+402743 5 11 5 0 2 4 7 1 1 8 / 11 / 2 0 2 3 ADJ 2
+371856 44613792 1 01/01/2023 ADJ 3
+384891 5503515 2 02/01/2023 ADJ 3
+DE 26.08.2025
+PORTARIA Nº 897/2025 - NOMEIA JEAN FELIPE DE ASSIS , matr.
+nº 40.571-2, para exercer a função de Coordenador Geral do Con-
+vênio entre a UERJ e o Instituto Moreira Salles. Processo nº SEI-
+260006/031049/2025.
+PORTARIA Nº 898/2025 - EXONERA ANA KARINA BRENNER , matr.
+nº 35.934-9, ID: 44264119, do Cargo em Comissão de Assessor II,
+símbolo CC-09, código 103, a contar de 01/09/2025. Processo nº SEI-
+260006/042545/2025.
+PORTARIA Nº 899/2025 - NOMEIA ANA KARINA BRENNER , matr.
+nº 35.934-9, ID: 44264119, para exercer o Cargo em Comissão de
+Assessor Especial, símbolo CC-07, código 167, a contar de
+01/09/2025. Processo nº SEI-260006/042545/2025.
+PORTARIA Nº 900/2025 - EXONERA ROBSON REINALDO DE AL-
+MEIDA VIEIRA matr. nº 42.401-0, ID: 51487420, do Cargo em Co-
+missão de Assessor II - Político-Pedagógica, símbolo CC-09, código
+1104, a contar de 01/09/2025.Processo nº SEI-260006/042545/2025.
+
+## Pagina 23
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0032/U0033/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+PORTARIA Nº 901/2025 - NOMEIA ROBSON REINALDO DE ALMEI-
+DA VIEIRA matr. nº 42.401-0, ID: 51487420, para exercer o Cargo
+em Comissão de Assessor I, símbolo CC-08, código 519, a contar de
+01/09/2025.Processo nº SEI-260006/042545/2025.
+PORTARIA Nº 902/2025 - DISPENSA THATIANA AMARAL DE BAR-
+CELOS, matr. nº 36.054-5, ID: 44004982, Técnico Universitário II / As-
+sistente Administrativo, da função gratificada de Encarregado - EDU,
+símbolo FG-04, código 1162, a contar de 01/08/2025. Processo nº
+SEI-260006/041809/2025.
+PORTARIA Nº 903/2025 - DESIGNA THATIANA AMARAL DE BAR-
+CELOS, matr. nº 36.054-5, ID: 44004982, Técnico Universitário II / As-
+sistente Administrativo, para exercer a função gratificada de Chefe de
+Secretaria/EDU, símbolo FG-01, código 579, a contar de 01/08/2025.
+Processo nº SEI-260006/041809/2025.
+PORTARIA Nº 904/2025 - DESIGNA JOCINÉA SALDANHA PERPE-
+TUO, matr. nº 37.983-4, ID: 44661924, Técnico Universitário II / As-
+sistente Administrativo, para exercer a função gratificada de Encarre-
+gado - EDU, símbolo FG-04, código 1162, a contar 01/08/2025. Pro-
+cesso nº SEI-260006/041809/2025.
+PORTARIA Nº 905/2025 - DESIGNA BRUNO AMORIM, matr. nº
+37.214-4, ID: 44599366, como substituto da servidora MAYRA RA-
+MOS DA SILVA, matr. nº 37.687-1, ID: 44638477, no exercício do
+Cargo em Comissão de Diretor do Departamento de Serviços Gerais,
+símbolo CC-07, código 54, durante o período de 25/08/2025 a
+13/09/2025, por motivo de férias. Processo nº SEI-
+260006/041506/2025.
+PORTARIA Nº 906/2025 - EXONERA JOICE CAVALCANTI DE AS-
+SIS, matr. nº 40.767-6, ID: 43043402, Extraquadro Comissionado, do
+Cargo em Comissão de Coordenador Técnico II, símbolo CC-09, có-
+digo 125, a contar de 31/08/2025. Processo nº SEI-
+260006/037550/2025.
+PORTARIA Nº 907/2025 - EXONERA MARIA DE FÁTIMA PAULINO
+MACIEL, matr. nº 40.771-8, ID: 5771641, Extraquadro Comissionado,
+do Cargo em Comissão de Assessor II, símbolo CC-09, código 122, a
+contar de 31/08/2025. Processo nº SEI-260006/037550/2025.
+PORTARIA Nº 908/2025 - EXONERA CRISTIANE ROCHA VIEIRA ,
+matr. nº 40.794-0, ID: 43883605, Técnico Universitário Superior - Quí-
+mico, do Cargo em Comissão de Assessor II, símbolo CC-09, código
+147, a contar de 31/08/2025. Processo nº SEI-260006/037550/2025.
+Id: 2674020
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+APOSTILA DA R E I TO R A
+DE 25.08.2025
+PORTARIA Nº 458/2025 - A referida Portaria fica apostilada para fa-
+zer constar que:
+Onde se lê:
+Matrícula ID Funcional Vínculo Data da
+Progressão
+Nível da Pro-
+gressão
+390898 50750410 1 03/05/2021 ADJ 2
+Leia-se:
+Matrícula ID Funcional Vínculo Data da
+Progressão
+Nível da Pro-
+gressão
+390898 50750410 1 01/01/2021 ADJ 2
+Onde se lê:
+Matrícula ID Funcional Vínculo Data da
+Progressão
+Nível da Pro-
+gressão
+395129 50838652 1 29/11 /2021 ADJ 2
+Leia-se:
+Matrícula ID Funcional Vínculo Data da
+Progressão
+Nível da Pro-
+gressão
+395129 50838652 1 01/01/2021 ADJ 2
+Onde se lê:
+Matrícula ID Funcional Vínculo Data da
+Progressão
+Nível da Pro-
+gressão
+396507 50844180 1 04/07/2021 ADJ 2
+Leia-se:
+Matrícula ID Funcional Vínculo Data da
+Progressão
+Nível da Pro-
+gressão
+396507 50844180 1 01/01/2021 ADJ 2
+Id: 2674021
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+DEPARTAMENTO DE GESTÃO
+E ACOMPANHAMENTO FUNCIONAL
+D E S PA C H O S DA D I R E TO R A
+DE 25.08.2025
+PROCESSO Nº SEI-260006/038074/2025 - RONALDO ARAUJO DE
+SOUZA, matr. nº 32.772-6, nos períodos de 01/06/1989 a 01/10/1990,
+01/04/1992 a 20/12/1993 e de 01/01/1996 a 23/06/1997, totalizando
+1.657 dias de exercício, para fins de aposentadoria.
+PROCESSO Nº SEI-260006/033066/2025 - ANDRÉ SOARES MONAT,
+matr. nº 31.596-0, nos períodos de 01/03/1984 a 01/07/1984,
+01/10/1984 a 01/03/1986, 01/04/1986 a 14/11/1986, 01/01/1987 a
+31/01/1987, 09/05/1988 a 05/07/1989 e de 01/03/1994 a 30/10/1994,
+totalizando 1.563 dias de exercício, para fins de aposentadoria.
+ANOTE-SE o tempo de serviço e contribuição em atividades vincu-
+ladas ao INSS dos servidores relacionados acima.
+PROCESSO Nº SEI-260006/005833/2025 - DESAVERBE-SE parcial-
+mente o período constante no p. processo e anote-se com base no
+art. 89, parágrafo 12, da Constituição Estadual, o tempo de serviço e
+contribuição prestado por ELLIANA DA SILVA SEABRA, matr. nº
+37.707-7, em atividades vinculadas ao INSS, nos períodos de
+01/04/2008 a 30/04/2008, 01/12/2008 a 31/01/2009, 01/03/2009 a
+30/04/2009, totalizando 151 dias de exercício, para fins de aposen-
+tadoria. Fica sem efeito o despacho de 12/08/2025, publicado no
+DOERJ de 14/08/2025.
+PROCESSO Nº SEI-260006/033554/2025 - ANOTE-SE o tempo de
+serviço e contribuição prestado por FELIPE DI BLASI, matr. nº
+43.138-7, à Prefeitura da Cidade do Rio de Janeiro, no período de
+13/03/2003 a 19/05/2025, totalizando 8.104 dias de exercício, somente
+para fins de aposentadoria, conforme Lei Complementar nº 194/2021.
+PROCESSO Nº SEI-260006/028381/2025 - ANOTE-SE o tempo de
+serviço e contribuição prestado por RODRIGO AYRES DE SOUZA,
+matr. nº 42.615-5, à Fundação Saúde do Estado do Rio de Janeiro,
+no período de 01/10/2012 a 02/12/2013, totalizando 427 dias de exer-
+cício, para fins de aposentadoria e triênios, e ao Ministério da Defesa,
+no período de 02/08/2004 a 01/08/2012, totalizando 2.922 dias de
+exercício, para fins de aposentadoria e triênios.
+PROCESSO Nº SEI-260006/036534/2025 - ANOTE-SE o tempo de
+serviço e contribuição prestado por HERON TEIXEIRA ANDRADE
+DOS SANTOS, matr. nº 43.078-5, ao Corpo de Bombeiros Militar do
+Estado do Rio de Janeiro, no período de 25/08/2000 a 20/10/2012,
+totalizando 4.440 dias de exercício, somente para fins de aposenta-
+doria, conforme Lei Complementar 194/2021.
+PROCESSO Nº SEI-260006/056779/2024 - ANOTE-SE o tempo de
+serviço e contribuição prestado por LINDOMAR MONTEIRO MENDES,
+matr. nº 32.047-3, ao Ministério da Defesa, no período de 12/02/1990
+a 30/11/1990, totalizando 292 dias de exercício, para fins de aposen-
+tadoria e triênios.
+PROCESSO Nº SEI-260006/034925/2025 - ANOTE-SE o tempo de
+serviço e contribuição prestado por FELIPE CAVALCANTI DE SOUZA,
+matr. nº 41.510-9, em atividades vinculadas ao INSS, nos períodos de
+13/09/2011 a 30/09/2012, 21/09/2018 a 31/07/2019, totalizando 692
+dias de exercício, para fins de aposentadoria, e à Fundação Saúde do
+Estado do Rio de Janeiro, no período de 01/10/2012 a 20/09/2018,
+totalizando 2.181 dias de exercício, para fins de aposentadoria e triê-
+nios.
+PROCESSO Nº SEI-260006/036797/2025 - ANOTE-SE o tempo de
+serviço e contribuição prestado por ROSÂNGELA LIBANIO DA SILVA
+matr. nº 37.296-1, ao Ministério da Saúde, no período de 15/04/2011
+a 18/11/2012, totalizando 584 dias de exercício, para fins de aposen-
+tadoria e triênios.
+PROCESSO Nº SEI E-26/007/6294/2014 - ANOTE-SE o tempo de
+serviço e contribuição prestado por ELLIANA DA SILVA SEABRA, ma-
+tr. nº 37.707-7, à Secretaria de Estado de Saúde do Rio de Janeiro,
+no período de 21/05/2009 a 13/03/2014, totalizando 1.758 dias de
+exercício, para fins de aposentadoria e triênios. Fica sem efeito o des-
+pacho de 16/06/2014 publicado no DOERJ de 03/07/2014.
+DE 26.08.2025
+PROCESSO Nº SEI-260007/053261/2023 - MARCOS ARÊAS MAR-
+QUES, Técnico Universitário Superior/Médico, matr. nº 36.347-3 -
+UERJ e Médico, matr. nº 3070746 - Empresa Brasileira de Serviços
+Hospitalares.
+PROCESSO Nº SEI-260006/008682/2025 - JORGE ADEMIR FER-
+NANDES LOBÃO, Técnico Universitário II/ Técnico em Radiologia,
+matr. nº 43.008-2 - UERJ e Técnico em Radiologia, matr. nº 293.063-
+4 - Prefeitura da Cidade do Rio de Janeiro.
+PROCESSO Nº SEI-260006/028404/2024 - DOMENIQUE DE FRAN-
+ÇA VIEIRA DA SILVA, Técnico Universitário II/Técnico em Enferma-
+gem, matr. nº 42.554-6 - UERJ e Enfermeiro, matr. nº 98027.11 - Pre-
+feitura Municipal de Guapimirim.
+PROCESSO Nº SEI-260006/026862/2025 - PAMELA BENTO DOS
+SANTOS, Técnico Universitário II/Técnico em Enfermagem, matr. nº
+41.428-4 - UERJ e Enfermeiro II, matr. nº 18434-9/1 - Prefeitura Mu-
+nicipal de Rio das Ostras.
+PROCESSO Nº SEI-260006/010644/2025 - MOACYR TORRES JU-
+NIOR, Professor Adjunto, matr. nº 42.947-2 - UERJ e Tecnologista em
+Saúde Pública, matr. nº 3488453 - Fundação Oswaldo Cruz.
+PROCESSO Nº SEI E-26/007/13445/2014 - MARIZA COSTA PINTO,
+Técnico Universitário II/Técnico em Enfermagem, matr. nº 37.837-2 -
+UERJ e Auxiliar de Enfermagem, matr. nº 1.532.494 - Ministério da
+Saúde.
+PROCESSO Nº SEI-260006/025472/2024 - RUBENS NUNES ALMEI-
+DA DA SILVA, Técnico Universitário II/Técnico em Radiologia, matr. nº
+42.503-3 - UERJ e Técnico em Radiologia, matr. nº 207778 - Prefei-
+tura Municipal de Nova Friburgo.
+PROCESSO Nº SEI-260007/065191/2023 - OZIEL MARCIO ARAUJO
+TARDIN, Técnico Universitário Superior/Médico, matr. nº 42.287-3 -
+UERJ e Analista Médico, matr. nº 954572-4 - Procuradoria Geral do
+Estado.
+PROCESSO Nº SEI-260007/002102/2020 - LEONARDO SILVEIRA DE
+CASTRO, Técnico Universitário Superior/Médico, matr. nº 35.688-1 -
+UERJ e Capitão Médico, PREC-CP 02 5733415 - Ministério da De-
+fesa.
+PROCESSO Nº SEI-260007/026838/2023 - GRACE CAVALCANTI DE
+ALBUQUERQUE ORTEGA, Técnico Universitário II/Técnico em Enfer-
+magem, matr. nº 41.680-0 - UERJ e Enfermeiro I, matr. nº 4.079.294-
+5 - Empresa Pública de Saúde do Rio de Janeiro - RIOSAÚDE.
+Id: 2674049
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+D E S PA C H O DA REITORA
+DE 19.08.2025
+PROCESSO Nº SEI-260007/010960/2024 - Considerando as manifes-
+tações da PGUERJ 97886562 e 106814545, DECIDO pela instaura-
+ção de processo administrativo disciplinar - inquérito, em face da ser-
+vidora Penélope Zamboni Gonçalves dos Reis, matrícula nº 35732-7.
+Id: 2674022
+SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA
+E INOVAÇÃO
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
+ATOS DO SUPERINTENDENTE
+DE 27.08.2025
+PORTARIA UERJ/SGP SEI Nº 1102/2025 - TORNA SEM EFEITO a
+Portaria UERJ/SGP nº 749/2025, referente a nomeação de CAMILA
+CAMARGO DA SILVA SANTANA , matrícula nº 43.244-3, para o exer-
+cício do cargo de Técnico Universitário I / Assistente Administrativo,
+publicada no DOERJ em 10/06/2025, página 24, coluna 03, pelo não
+atendimento do § 2º do art. 14, do Decreto Estadual nº 2.479/79. Pro-
+cesso nº SEI-260006/020811/2025.
+PORTARIA UERJ/SGP SEI Nº 1103/2025 - TORNA SEM EFEITO a
+Portaria UERJ/SGP nº 859/2025, referente a nomeação de JULIA LU-
+CAS BALBUENA MARINS , matrícula nº 43.220-3, para o exercício do
+cargo de Técnico Universitário II / Técnico em Laboratório - Biotec-
+nologia, publicada no DOERJ em 15/07/2025, página 23, coluna 01,
+pelo não atendimento do § 2º do art. 14, do Decreto Estadual nº
+2.479/79. Processo nº SEI-260006/018727/2025.
+Id: 2673699
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
+ATO S DO SUPERINTENDENTE
+DE 22.08.2025
+PORTARIA UERJ/SGP SEI Nº 1109/2025 - APOSENTA CRISTINA
+DA CRUZ DE OLIVEIRA , matr. nº 31.040-9, ID Funcional 6074030,
+Técnico Universitário Superior, perfil Bibliotecário, com padrão de ven-
+cimentos XVI, com 40 horas semanais, de acordo com o artigo 4º,
+§2º, inciso I c/c §4º, inciso I da Emenda Constitucional Estadual nº
+90/2021. Processo nº SEI-260006/024205/2025.
+PORTARIA UERJ/SGP SEI Nº 1115/2025 - APOSENTA JORGE PE-
+REIRA, matr. nº 04.247-3, ID Funcional 25330977, Auxiliar Técnico
+Universitário, categoria IV, perfil Manutenção, com padrão de venci-
+mentos XVI, com 40 horas semanais, de acordo com o artigo 3º da
+Emenda Constitucional nº 47/2005, c/c artigo 2º da Emenda Consti-
+tucional Estadual nº 90/2021. Processo nº SEI-260006/021540/2025.
+Id: 2674023
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
+D E S PA C H O S DO SUPERINTENDENTE
+DE 26.08.2025
+PROCESSO Nº SEI-260006/036665/2025 - DEFIRO o Abono de Per-
+manência para VANIA SILVA ALVES, matr. nº 03.718-7, ID: 25492357,
+com validade a contar de 10/12/2023, uma vez que a interessada
+atende aos requisitos constitucionais.
+PROCESSO Nº SEI-260006/037983/2025 - DEFIRO o Abono de Per-
+manência para LAUCIENE DOS SANTOS ANDRADE, matr. nº 32.583-
+7, Identidade Funcional 25549014, com validade a contar de
+18/04/2025, uma vez que a interessada atende aos requisitos cons-
+titucionais.
+Id: 2674024
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+INSTITUTO DE ARTES
+ATO DA D I R E TO R A
+DE 26.08.2025
+PORTARIA ART Nº 09/2025 - INSTAURA Sindicância para apurar o
+desaparecimento de bens nos processos, no prazo de 30 dias, con-
+tados da data da publicação, apurar eventual irregularidade objeto dos
+processos nºs SEI-E-26/007/10771/2015 e SEI-E-26/007/1041/2019,
+designando para procedê-la, Comissão, integrada sob a presidência
+do primeiro, dos servidores: PEDRO XAVIER DE SOUZA, matr. nº
+37.994-1;JEFERSON RODRIGUES DA SILVA, matr. nº 37.784-6 ,
+AMANDA MOREIRA RODRIGUES TEIXEIRA, matr. nº 41.657-8, nos
+termos do Processo nº SEI-260006/042749/2025.
+Id: 2674025
+Secretaria de Estado de
+T ransporte e Mobilidade Urbana
+ADMINISTRAÇÃO VINCULADA
+SECRETARIA DE ESTADO DE TRANSPORTES
+E MOBILIDADE URBANA
+DEPARTAMENTO DE TRANSPORTES RODOVIÁRIOS
+COMISSÃO PERMANENTE DE JULGAMENTO DE RECURSOS
+16ª ATA DE REUNIÃO INTERNA
+RECURSO INTEMPESTIVO: SEI-100005/001658/2025 - EXPRESSO
+REAL RIO LTDA - AI D 862636;
+RECUSRSOS IMPROCEDENTES: SEI-100005/003226/2025 - JOSIAS
+RODRIGUES SILVA - AI D 842624; SEI-100005/003300/2025 - JOR-
+GE LUIZ DE SOUZA VIEIRA - AI D 863002; SEI-100005/003313/2025
+- RICARDO DOS SANTOS DE SOUZA - AI D 856799; SEI-
+100005/003344/2025 - FERNANDO LUIZ DE SANTANNA - AI D
+861664; SEI-100005/003546/2025 - MARCELO SALLES FRANCISCO
+- AI D 834582;
+RECURSOS NÃO CONHECIDOS: SEI-100005/000096/2025 - VIAÇÃO
+ELITE LTDA - AI D 854251; SEI-100005/000864/2025 - VIAÇÃO CI-
+DADE DO AÇO LTDA - AI D 862628; SEI-100005/000927/2025 - CA-
+VALCANTI CIA LTDA - AI D 831290; SEI-100005/000934/2025 - CA-
+VALCANTI CIA LTDA - AI D 831293; SEI-100005/000972/2025 - VIA-
+ÇÃO TERESÓPOLIS E TURISMO LTDA - AI D 836461; SEI-
+100005/000974/2025 - VIAÇÃO NOSSA SENHORA DO AMPARO LT-
+DA - AI D 858145; SEI-100005/001016/2025 - EXPRESSO REAL RIO
+LTDA - AI D 847232; SEI-100005/001105/2025 - LINAVE TRANSPOR-
+TES LTDA - AI D 832286; SEI-100005/001142/2025 - TRANSPORTES
+UNICA PETRÓPOLIS LTDA - AI D 836464; SEI-100005/001143/2025 -
+TREL - TRANSTURISMO REI LTDA - AI D 832965; SEI-
+100005/001147/2025 - UTIL - UNIÃO TRANSPORTE INTERESTA-
+DUAL DE LUXO LTDA - AI D 834128; SEI-100005/001172/2025 - AU-
+TO VIAÇÃO SALINEIRA LTDA - AI D 858152; SEI-
+100005/001660/2025 - EXPRESSO REAL RIO LTDA - AI D 862634;
+SEI-100005/001701/2025 - VIAÇÃO VILA RICA - AI D 831309; SEI-
+100005/001705/2025 - EMPRESA DE TRANSPORTES LIMOUSINE
+CARIOCA S/A - AI D 842850; SEI-100005/001706/2025 - EMPRESA
+DE TRANSPORTES LIMOUSINE CARIOCA S/A - AI D 842851; SEI-
+100005/001707/2025 - EMPRESA DE TRANSPORTES LIMOUSINE
+CARIOCA S/A - AI D 849876; SEI-100005/001708/2025 - EMPRESA
+DE TRANSPORTES LIMOUSINE CARIOCA S/A - AI D 856444; SEI-
+100005/001711/2025 - EMPRESA DE TRANSPORTES LIMOUSINE
+CARIOCA S/A - AI D 862638; SEI-100005/001733/2025 - AUTO VIA-
+ÇÃO REGINAS LTDA - AI D 838868; SEI-100005/001759/2025 -
+TRANSPORTE E TURISMO MACHADO LTDA - AI D 832976; SEI-
+100005/001777/2025 - EMPRESA DE TRANSPORTES FLORES LTDA
+- AI D 832311; SEI-100005/001809/2025 - MASTER TRANSPORTES
+COLETIVOS DE PASSAGEIROS LTDA - AI D 832289; SEI-
+100005/002025/2025 - CAVALCANTI CIA LTDA - AI D 842842; SEI-
+100005/002026/2025 - CAVALCANTI CIA LTDA - AI D 842843; SEI-
+100005/002028/2025 - CAVALCANTI CIA LTDA - AI D 842854; SEI-
+100005/002029/2025 - CAVALCANTI CIA LTDA - AI D 842844; SEI-
+100005/002258/2025 - LEIR DE SOUZA CAMPOS - AI D 834548;
+SEI-100005/002937/2025 - JORGE LUIZ DE OLIVEIRA THEODORO -
+AI D 842619; SEI-100005/002939/2025 - JORGE LUIZ DE OLIVEIRA
+THEODORO - AI D 842620. Nada mais havendo a tratar, está en-
+cerrada a 16ª reunião da COMISJUR.
+Id: 2674029
+SECRETARIA DE ESTADO DE TRANSPORTES
+E MOBILIDADE URBANA
+DEPARTAMENTO DE TRANSPORTES RODOVIÁRIOS
+D E S PA C H O S DO PRESIDENTE
+DE 15.07.2025
+PROCESSO Nº SEI-100005/002688/2025 - DEFIRO, nos termos do
+parecer da área técnica (Doc SEI n°
+104418754), o restabelecimento
+da operação da linha SB70 Sodrelândia - Macaé (SA), em caráter ex-
+perimental, estabelecendo-se o prazo de 60 (sessenta) dias para a
+avaliação da viabilidade da medida, com a estrutura operacional con-
+forme especificada a seguir:
+Quadro de Horários:
+Partidas de Sodrelândia: Diariamente às 06h45.
+Partidas de Macaé: Diariamente às 15h15.
+Frota mínima : 1 (um) veículo urbano.
+Itinerário: inalterado.
+Ta r i f a :
+Direta: Sodrelândia - Macaé R$ 32,45
+Seção 01: Km17/RJ-168 - Macaé R$ 6,75
+Seção 02: Km17/RJ-168 - Trapiche R$ 10,15
+Seção 03: Tapera - Trapiche R$ 11,25
+Seção 04: Sodrelândia - Tapera R$ 4,30
+DE 19.08.2025
+PROCESSO Nº SEI-100005/005404/2025 - APROVO o modelo de
+planta nº OFIC - 0080, requerido por Mascarello Carrocerias e Ônibus
+LTDA., com as seguintes especificações:
+Requerente Mascarello Carrocerias e Ônibus
+LT D A .
+Planta Nº OFIC - 0080
+Carroceria Ônibus Rodoviário modelo ELLO,
+com ar condicionado e poltrona
+elevatória (D.P.M.)
+Chassi Volkswagen 17.260S - EURO VI
+Entre-eixos 6.550 mm
+Comprimento 13.200 mm
+Cap. Lotação 44 passageiros sentados + Moto-
+rista
+Obs. Com sanitário.
+
+## Pagina 24
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0032/U0034
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+PROCESSO Nº SEI-100005/005417/2025 - APROVO o modelo de
+planta nº OFIC - 0082, requerido por Mascarello Carrocerias e Ônibus
+LTDA., com as seguintes especificações:
+Requerente Mascarello Carrocerias e Ônibus
+LT D A .
+Planta Nº OFIC-0082
+Carroceria Micromaster rodoviário modelo
+Gran Micro S4, com ar condiciona-
+do e guia.
+Chassi Volkswagen 11.180S - EURO VI
+Entre-eixos 5.550 mm
+Comprimento 10.200 mm
+Cap. Lotação 34 passageiros sentados + Aux.+
+Mot.
+Obs. Com Dispositivo de Poltrona Móvel
+( D . P. M . )
+DE 25.08.2025
+PROCESSO Nº SEI-100005/009760/2024 - DEFIRO com base no pa-
+recer da área técnica ( 11 0 2 5 6 5 2 6 ).
+Id: 2674036
+SECRETARIA DE ESTADO DE TRANSPORTE
+E MOBILIDADE URBANA
+COMPANHIA ESTADUAL DE ENGENHARIA DE TRANSPORTES
+E LOGÍSTICA
+ATO DO DIRETOR-PRESIDENTE
+PORTARIA CENTRAL Nº 813 DE 25 DE AGOSTO DE 2025
+DISPÕE SOBRE A ALTERAÇÃO DA COMIS-
+SÃO DE GESTÃO E FISCALIZAÇÃO DO CON-
+TRATO Nº 012/CENTRAL/2024, FIRMADO EN-
+TRE A CENTRAL E A FUNDAÇÃO SANTA
+CABRINI - FSC.
+O DIRETOR-PRESIDENTE DA COMPANHIA ESTADUAL DE ENGE-
+NHARIA DE TRANSPORTES E LOGÍSTICA-CENTRAL , no uso de
+suas atribuições legais, e
+CONSIDERANDO os/constantes nos autos do/Processo n° SEI-
+100006/000928/2024.
+R E S O LV E :
+Art. 1º - DESIGNAR a empregada ISABELLA DE SOUZA CHRYSOS-
+TOMO, matrícula: 99.000.945, lotada na ASSCON, como Gestora do
+Contrato nº 012/CENTRAL/2024.
+Art. 2º /-/A Gestora ora designada deverá observar e cumprir as re-
+gras estabelecidas pelo Decreto Estadual nº 48.817/2023, que regu-
+lamenta a gestão e a fiscalização das contratações no âmbito do Po-
+der Executivo do Estado do Rio de Janeiro.
+Art. 3° /-/Esta Portaria altera a Portaria CENTRAL SEI Nº 724/2024
+Art. 4°/-/Esta Portaria terá a sua vigência de acordo com o Contrato e
+seus Termos Aditivos, salvo em caso de impedimento legal dos mem-
+bros
+Art. 5° /-/Esta Portaria entrará em vigor na data de sua publicação.
+Rio de Janeiro, 25 de agosto de 2025
+OSWALDO DREUX
+Diretor-Presidente
+Id: 2673707
+Secretaria de Estado do
+Ambiente e Sustentabilidade
+SECRETARIA DE ESTADO DO AMBIENTE E SUSTENTABILIDADE
+SUBSECRETARIA EXECUTIVA
+DESPACHO DO SECRETÁRIO
+DE 26/07/2025
+*PROCESSO Nº SEI-070001/002186/2025 - A U TO R I Z O e R AT I F I C O
+a Inexigibilidade de Licitação, em conformidade com o art. 74, caput,
+Lei 14.133/21 em favor de Esfera Brasil Ltda., CNPJ 41.733.002/0001-
+77, no valor total de R$ 2.100.000,00(dois milhões e cem mil reais)
+referente a contratação de quota de patrocínio do evento Seminário
+Brasil Hoje - Sustentabilidade como estratégia de futuro, a ser rea-
+lizado no dia 25 de agosto, no Palácio Tangará/SP.
+*Omitido no D.O. de 26/08/2025.
+Id: 2673560
+SECRETARIA DE ESTADO DO AMBIENTE E S U S T E N TA B I LIDADE
+COMISSÃO ESTADUAL DE CONTROLE AMBIENTAL
+ATO DO PRESIDENTE
+DELIBERAÇÃO CECA Nº 6.808 DE 26 DE A G O S TO DE 2025
+AVERBA NA LICENÇA DE I N S TA L A Ç Ã O - LI
+Nº IN02618.
+O PRESIDENTE DA COMISSÃO ESTADUAL DE CONTROLE AM-
+BIENTAL - CECA, DA SECRETARIA DE ESTADO DO AMBIENTE E
+SUSTENTABILIDADE DO ESTADO DO RIO DE JANEIRO , em reu-
+nião de 26/08/2025, e no uso das atribuições que lhe são conferidas
+pela Lei Estadual n° 1.356, de 03/10/1988, pelo Decreto Estadual nº
+21.287, de 23/01/1995, pela Lei Estadual nº 5.101, de 04/10/2007, pe-
+lo Decreto Estadual nº 48.690, de 14/09/2023, e pelo Decreto Esta-
+dual nº 46.890, de 23/12/2019, e
+CONSIDERANDO:
+- o que consta do Processo nº SEI-070002/014692/2022, referente à
+solicitação de Averbação na Licença de Instalação - LI nº IN02618 da
+empresa ALISEO EMPREENDIMENTOS E PARTICIPAÇÕES S/A para
+implantação de estruturas náuticas de atracação (dolfins, passarelas e
+cais), pátios e área industrial contemplando galpões para armazena-
+mento e movimentação de cargas, limpeza e desparafinação de dutos
+flexíveis, unidade de testes e planta de fluidos, na qualidade de Ter-
+minal de Uso Privado - TUP, localizada na Via 5 Projetada s/n Lote A
+12 Parte, Município de São João da Barra,
+- o Parecer Técnico de Deferimento dos Instrumentos de Controle
+Ambiental n° INEA/COOEAMPT/3296/2025, da COOEAM/INEA,
+DELIBERA:
+Art. 1º - Averbar na Licença de Instalação - LI nº IN02618 da em-
+presa ALISEO EMPREENDIMENTOS E PARTICIPAÇÕES S/A a se-
+guinte alteração de objeto:
+De: “implantação de estruturas náuticas de atracação (dolfins, passa-
+relas e cais), pátios e área industrial contemplando galpões para ar-
+mazenamento e movimentação de cargas, limpeza e desparafinação
+de dutos flexíveis, unidade de testes e planta de fluidos, na qualidade
+de Terminal de Uso Privado - TUP.”
+Para: “implantação de estruturas náuticas de atracação (dolfins, pas-
+sarelas e cais), pátios e área industrial, contemplando galpões para
+armazenamento e movimentação de cargas, limpeza e desparafinação
+de dutos flexíveis, unidade de testes e planta de fluidos, e estação de
+produção de água de reuso, na qualidade de Terminal de Uso Privado
+- TUP.”
+Art. 2º - Encaminhar o processo ao INEA para as providencias ca-
+bíveis.
+Art. 3º - Esta Deliberação entrará em vigor na data de sua publica-
+ção, revogadas as disposições em contrário.
+Rio de Janeiro, 26 de agosto de 2025
+MAURÍCIO COUTO CESAR JUNIOR
+Presidente
+Id: 2673835
+SECRETARIA DE ESTADO DO AMBIENTE E SUSTENTABILIDADE
+CONSELHO ESTADUAL DE RECURSOS HÍDRICOS
+ATO DO CONSELHO ESTADUAL
+RESOLUÇÃO CERHI-RJ Nº 289 DE 20 DE AGOSTO DE 2025
+APROVA A ATUALIZAÇÃO DO PLANO DE
+APLICAÇÃO PLURIANUAL PARA O PERÍODO
+DE 2024 A 2026 DOS RECURSOS FINANCEI-
+ROS ARRECADADOS COM A COBRANÇA
+PELO USO DA ÁGUA DISPONÍVEIS NO FUN-
+DRHI À SUBCONTA DA REGIÃO HIDROGRÁ-
+FICA MÉDIO PARAÍBA DO SUL - RH III
+O CONSELHO ESTADUAL DE RECURSOS HÍDRICOS , no uso das
+suas atribuições legais, instituído pela Lei nº 3.239, de 02 de agosto
+de 1999, e
+CONSIDERANDO:
+- o disposto no artigo 45, inciso VI da Lei nº 3.239, de 02 de agosto
+de 1999,
+- o disposto no artigo 9º do Decreto Estadual n° 35.724, de 18 de
+junho de 2004, atualizado pelo Decreto nº 47.505 de 4 de março de
+2021,
+- o Decreto nº 47.505 de 4 de março de 2021 que estabelece prazo
+de encaminhamento de atualizações dos PAPs ao CERHI-RJ,
+- a Resolução CERHI-RJ nº 269, de 16 de agosto de 2023,
+- a Resolução CBH MPS nº 133, de 26 de maio de 2025, que dispõe
+sobre a atualização do PAP para o exercício de 2026 do CBH Médio
+Paraíba do Sul, constante no Processo nº SEI-070001/001525/2025;
+R E S O LV E :
+Art. 1º - Aprovar a atualização do Plano de Aplicação Plurianual dos
+recursos financeiros arrecadados com a cobrança pelo uso da água
+no período de 2026 disponíveis no FUNDRHI à subconta da Região
+Hidrográfica do Médio Paraíba do Sul (RH III) nos termos da Reso-
+lução CBH MPS nº 133, de 26 de maio de 2025
+Art. 2º - Esta Resolução entrará em vigor na data de sua publica-
+ção.
+Rio de Janeiro, 20 de agosto de 2025
+ANA ASTI
+Secretária-Executiva do CERHI-RJ
+LUIZ PAULO SILVA DO NASCIMENTO
+Presidente do CERHI-RJ
+Id: 2673659
+SECRETARIA DE ESTADO DO AMBIENTE E SUSTENTABILIDADE
+CONSELHO ESTADUAL DE RECURSOS HÍDRICOS
+ATOS DO CONSELHO
+RESOLUÇÃO CERHI-RJ Nº 290 DE 20 DE AGOSTO DE 2025
+APROVA A ATUALIZAÇÃO DO PLANO DE
+APLICAÇÃO PLURIANUAL PARA O PERÍODO
+DE 2026 A 2027 DOS RECURSOS FINANCEI-
+ROS ARRECADADOS COM A COBRANÇA
+PELO USO DA ÁGUA DISPONÍVEIS NO FUN-
+DRHI À SUBCONTA DA REGIÃO HIDROGRÁ-
+FICA DA BAÍA DE GUANABARA - RH V.
+O CONSELHO ESTADUAL DE RECURSOS HÍDRICOS , no uso das
+suas atribuições legais, instituído pela Lei nº 3.239, de 02 de agosto
+de 1999, e considerando:
+- o disposto no artigo 45, inciso VI da Lei nº 3.239, de 02 de agosto
+de 1999;
+- o disposto no artigo 9º do Decreto Estadual n° 35.724, de 18 de
+junho de 2004, atualizado pelo Decreto nº 47.505, de 4 de março de
+2021;
+- o Decreto 47.505, de 4 de março de 2021, que estabelece prazo de
+encaminhamento de atualizações dos PAPs ao CERHI-RJ;
+- a Resolução CERHI-RJ nº 276, de 13 de dezembro de 2023;
+- a Resolução CERHI-RJ nº 280, de 23 de outubro de 2024;
+- a Resolução CBH Baía de Guanabara nº 166, de 02 de junho de
+2025, que dispõe sobre a atualização do PAP para o exercício de
+2026-2027 do CBH BG, constante no processo SEI-
+070001/001534/2025,
+R E S O LV E :
+Art. 1º - Aprovar a atualização do Plano de Aplicação Plurianual dos
+recursos financeiros arrecadados com a cobrança pelo uso da água
+no período de 2026 a 2027 disponíveis no FUNDRHI à subconta da
+Região Hidrográfica da Baía de Guanabara (RH V) nos termos da Re-
+solução CBH BG nº 166, de 02 de junho de 2025.
+Art. 2º - Esta Resolução entra em vigor na data de sua publicação.
+Rio de Janeiro, 20 de agosto de 2025
+ANA ASTI
+Secretária-Executiva do CERHI-RJ
+LUIZ PAULO SILVA DO NASCIMENTO
+Presidente do CERHI-RJ
+Id: 2673661
+RESOLUÇÃO CERHI-RJ Nº 291 DE 20 DE AGOSTO DE 2025
+APROVA A ATUALIZAÇÃO DO PLANO DE
+APLICAÇÃO PLURIANUAL PARA O PERÍODO
+DE 2024 A 2026 DOS RECURSOS FINANCEI-
+ROS ARRECADADOS COM A COBRANÇA
+PELO USO DA ÁGUA DISPONÍVEIS NO FUN-
+DRHI À SUBCONTA DA REGIÃO HIDROGRÁ-
+FICA DE RIO DOIS RIOS - RH VII
+O CONSELHO ESTADUAL DE RECURSOS HÍDRICOS , no uso das
+suas atribuições legais, instituído pela Lei nº 3.239, de 02 de agosto
+de 1999, e considerando:
+- o disposto no artigo 45, inciso VI da Lei nº 3.239, de 02 de agosto
+de 1999;
+- o disposto no artigo 9º do Decreto Estadual n° 35.724, de 18 de
+junho de 2004, atualizado pelo Decreto nº 47.505, de 4 de março de
+2021;
+- o Decreto 47.505, de 4 de março de 2021, que estabelece prazo de
+encaminhamento de atualizações dos PAPs ao CERHI-RJ;
+- a Resolução CERHI-RJ nº 270, de 16 de agosto de 2023;
+- a Resolução CBH R2R nº 95, de 18 de junho de 2025, que dispõe
+sobre a atualização do PAP para o exercício de 2026 do CBH R2R,
+constante no processo SEI-070001/001622/2025,
+R E S O LV E :
+Art. 1º - Aprovar a atualização do Plano de Aplicação Plurianual dos
+recursos financeiros arrecadados com a cobrança pelo uso da água
+no período de 2026 disponíveis no FUNDRHI à subconta da Região
+Hidrográfica Rio Dois Rios (RH VII) nos termos da Resolução CBH
+R2R nº 95, de 18 de junho de 2025.
+Art. 2º - Esta Resolução entra em vigor na data de sua publicação.
+Rio de Janeiro, 20 de agosto de 2025
+ANA ASTI
+Secretária-Executiva do CERHI-RJ
+LUIZ PAULO SILVA DO NASCIMENTO
+Presidente do CERHI-RJ
+Id: 2673662
+RESOLUÇÃO CERHI-RJ Nº 292 DE 20 DE AGOSTO DE 2025
+APROVA A ATUALIZAÇÃO DO PLANO DE
+APLICAÇÃO PLURIANUAL PARA O PERÍODO
+DE 2026 A 2028 DOS RECURSOS FINANCEI-
+ROS ARRECADADOS COM A COBRANÇA
+PELO USO DA ÁGUA DISPONÍVEIS NO FUN-
+DRHI À SUBCONTA DA REGIÃO HIDROGRÁ-
+FICA MACAÉ E DAS OSTRAS - RH VIII.
+O CONSELHO ESTADUAL DE RECURSOS HÍDRICOS , no uso das
+suas atribuições legais, instituído pela Lei nº 3.239, de 02 de agosto
+de 1999, e considerando:
+- o disposto no artigo 45, inciso VI da Lei nº 3.239, de 02 de agosto
+de 1999;
+- o disposto no artigo 9º do Decreto Estadual n° 35.724, de 18 de
+junho de 2004, atualizado pelo Decreto nº 47.505, de 4 de março de
+2021;
+- o Decreto 47.505, de 4 de março de 2021, que estabelece prazo de
+encaminhamento de atualizações dos PAPs ao CERHI-RJ;
+- a Resolução CERHI-RJ nº 277, de 13 de dezembro de 2023;
+- a Resolução CBH Macaé e das Ostras nº 201, de 27 de junho de
+2025, que dispõe sobre a atualização do PAP para o exercício de
+2026-2028 do CBH MO, constante no processo SEI-
+070001/001629/2025,
+R E S O LV E :
+Art. 1º - Aprovar a atualização do Plano de Aplicação Plurianual dos
+recursos financeiros arrecadados com a cobrança pelo uso da água
+no período de 2026 a 2028 disponíveis no FUNDRHI à subconta da
+Região Hidrográfica de Macaé e das Ostras (RH VIII) nos termos da
+Resolução CBH MO nº 201, de 27 de junho de 2025.
+Art. 2º - Esta Resolução entra em vigor na data de sua publicação.
+Rio de Janeiro, 20 de agosto de 2025
+ANA ASTI
+Secretária-Executiva do CERHI-RJ
+LUIZ PAULO SILVA DO NASCIMENTO
+Presidente do CERHI-RJ
+Id: 2673663
+ADMINISTRAÇÃO VINCULADA
+INSTITUTO ESTADUAL DO AMBIENTE
+DESPACHO DO PRESIDENTE DE 26/08/2025
+PROCESSO Nº SEI-070002/000149/2025 - RATIFICO a inexigibilida-
+de, em conformidade com o artigo 74, da Lei nº 14.133/2021 e suas
+alterações, bem como art. 14, XI do Decreto Estadual nº 48.690/2023
+e suas alterações, em favor da empresa ÁGUAS DO RIO 1 SPE S.A
+inscrita sob o CNPJ 42.310.775/0001-03, com vistas à ''PRESTAÇÃO
+DE SERVIÇO DE ABASTECIMENTO DE ÁGUA PARA AS UNIDADES
+HORTO FLORESTAL DE CANTAGALO E HORTO FLORESTAL DE
+SÃO SEBASTIÃO DO ALTO'', no valor global de R$ 32.000,00 (trinta
+e dois mil reais), nos termos da autorização do Diretor Executivo e de
+Planejamento, autoridade ordenador de despesas, index. 104793069.
+Id: 2673760
+INSTITUTO ESTADUAL DO AMBIENTE
+DESPACHO DO PRESIDENTE DE 26/08/2025
+PROCESSO Nº SEI-070002/010182/2025 - R AT I F I C O a inexigibilida-
+de, em conformidade com o artigo 74, III, "f", da Lei nº 14.133/2021 e
+suas alterações, bem como art. 14, XI do Decreto Estadual nº
+48.690/2023 e suas alterações, em favor da empresa INFOCORH LT-
+DA, inscrita no CNPJ: 44.825.501/0002-63, referente à contratação, vi-
+sando o pagamento de inscrições das servidoras Eduarda Borba Ro-
+drigues Soares, id. funcional 55109520-3 e Daniella Guimarães do
+Nascimento, id. funcional 5109857-1, para participação no “3º Semi-
+nário Nacional de Governança em Gestão de Pessoas para a Admi-
+nistração Pública”, em Foz do Iguaçu/PR, realizado no período de
+19 a 21 de agosto de 2025, no valor de R$ 4.890,00 (quatro mil
+e oitocentos e noventa reais), nos termos da autorização do Diretor
+Executivo e de Planejamento, autoridade ordenadora de despesas,
+index. 110282144.
+Id: 2673877
+SECRETARIA DE ESTADO DO AMBIENTE E SUSTENTABILIDADE
+INSTITUTO ESTADUAL DO AMBIENTE
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 27.08.2025
+PROCESSO Nº SEI-070002/001915/2025 - CONHEÇO o recurso in-
+terposto pela empresa INOVA COMÉRCIO E SERVIÇOS EM GERAL
+LTDA, inscrita no CNPJ sob o nº 17.139.547/0001-75, por estar re-
+vestido dos pressupostos de admissibilidade, quanto ao mérito, os ar-
+gumentos não suscitam viabilidade de reconsideração por parte desta
+subscritora, razão pela qual NEGO PROVIMENTO , sendo assim RA-
+TIFICO a decisão da Pregoeira do Instituto Estadual do Ambiente -
+INEA, que decide pelo INDEFERIMENTO do recurso interposto, pelos
+seus próprios fundamentos, Cujo o objeto é a Contratação de empre-
+sa para fornecimento contínuo de alimentos utilizados pelo CENPRI-
+CENTRO DE PRIMATOLOGIA na alimentação de primatas e visando
+atender o Acordo de Cooperação Técnica entre o INEA e REFAUNA
+no projeto de reintrodução de antas na área do CENTRO DE PRI-
+MATOLOGIA e PARQUE ESTADUAL DOS TRÊS PICOS.
+Id: 2674040
+
+## Pagina 25
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0032/U0035/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+Secretaria de Estado de Desenvolvimento
+Regional do Interior, Pesca e Agricultura Familiar
+ADMINISTRAÇÃO VINCULADA
+SECRETARIA DE ESTADO DE DESENVOLVIMENTO REGIONAL
+DO INTERIOR, PESCA E AGRICULTURA FAMILIAR
+FUNDAÇÃO INSTITUTO DE PESCA DO ESTADO DO
+RIO DE JANEIRO
+ATO DO DIRETOR-PRESIDENTE
+PORTARIA FIPERJ N° 155 DE 27 DE A G O S TO DE 2025
+DESIGNA SERVIDOR PARA DESEMPENHAR
+A FUNÇÃO DE ENCARREGADO SETORIAL
+PELO TRATAMENTO DE DADOS PESSOAIS E
+PELA IMPLEMENTAÇÃO DA LEI GERAL DE
+PROTEÇÃO DE DADOS PESSOAIS (LGPD)
+NA FUNDAÇÃO INSTITUTO DE PESCA DO
+ESTADO DO RIO DE JANEIRO (FIPERJ) E DÁ
+OUTRAS PROVIDÊNCIAS.
+O DIRETOR-PRESIDENTE DA FUNDAÇÃO INSTITUTO DE PESCA
+DO ESTADO DO RIO DE JANEIRO , no uso de suas atribuições le-
+gais e regimentais, e
+CONSIDERANDO:
+- o disposto no Decreto nº 48.891 de 10 de janeiro de 2024, que ins-
+titui a Política de Governança em Privacidade e Proteção de Dados
+Pessoais do Estado do Rio de Janeiro, no âmbito do Poder Executivo
+Estadual;
+- a necessidade de adequação dos órgãos e entidades da adminis-
+tração pública ao disposto na Lei nº 13.709 de 14 de agosto de 2018
+- Lei Geral de Proteção de Dados Pessoais (LGPD);
+- o constante dos autos do Processo nº SEI-520003/000374/2025,
+R E S O LV E :
+Art. 1º - Designar o servidor ERICK GUILHERME NOGUEIRA BAR-
+BOSA, ID. Funcional 5139657-2 para, sem aumento de despesas e
+sem prejuízo das demais funções que já exerce, desempenhar a fun-
+ção de encarregado setorial responsável pelo tratamento de dados
+pessoais, bem como, responsável pela elaboração e implementação
+de projeto de adequação à Lei Geral de Proteção de Dados (LGPD),
+no âmbito da Fundação Instituto de Pesca do Estado do Rio de Ja-
+neiro - FIPERJ, nos termos do art. 40 e art. 44 do Decreto nº 48.891,
+de 10 de janeiro de 2024..
+Art. 2º - Esta Portaria entra em vigor na data de sua publicação.
+Niterói, 27 de agosto de 2025
+JOSÉ CARLOS GERVAZONI GOMES
+Diretor-Presidente
+Id: 2673945
+Secretaria de Estado de
+Cultura e Economia Criativa
+ATO DA SECRETÁRIA
+*RESOLUÇÃO SECEC Nº 435 DE 21 DE AGOSTO DE 2025
+INSTAURA PROCEDIMENTO DE SINDICÂNCIA
+PARA APURAR O ATO DO NÃO PAGAMENTO
+DE DESPESAS DE EXERCÍCIOS ANTERIO-
+RES RELATIVOS À F.L.F. COMÉRCIO DE
+EQUIPAMENTOS CINEMATOGRÁFICOS EIRE-
+LI.
+A SECRETÁRIA DE ESTADO DE CULTURA E ECONOMIA CRIATI-
+VA , no uso das atribuições legais e de acordo com o disposto no Art.
+4º do Manual do Sindicante, aprovado pelo Decreto nº 7.526, de
+06/09/1984, bem como, conforme consta nos autos do administrativo
+SEI-180001/002387/2025,
+R E S O LV E :
+Art. 1º - Instaurar procedimento de sindicância para apurar o não pa-
+gamento de Despesas de Exercícios Anteriores (DEA) relativos a
+F.L.F. COMÉRCIO DE EQUIPAMENTOS CINEMATOGRÁFICOS EIRE-
+LI, considerando o Art. 14 do Decreto Estadual nº 41.880/2009 que
+informa a necessidade de abertura de sindicância para apurar os fatos
+e motivos que ensejaram o não pagamento de despesas em aberto.
+Art. 2º - Fica responsável pelo presente procedimento de Sindicância,
+o servidor Diogo Lopes Pereira Pinho, ID 4428071-2 para apuração
+dos fatos.
+Art. 3º - Fica designado o prazo legal de 30 (trinta) dias para con-
+clusão dos trabalhos desta sindicância.
+Art. 4º - Esta resolução entra em vigor na data de sua publicação.
+Rio de Janeiro, 21 de agosto de 2025
+DANIELLE CHRISTIAN RIBEIRO BARROS
+Secretária de Estado de Cultura e Economia Criativa
+*Republicado por incorreção no original publicado no do D.O. de
+27/08/2025
+Id: 2673918
+SECRETARIA DE ESTADO DE CULTURAE ECONOMIA CRIATIVA
+ATO DA SECRETÁRIA
+DE 26.08.2025
+I N S TA U R A TOMADA DE CONTAS decorrente da não prestação de
+contas dos recursos repassados referente ao Edital nº 005/2020 -
+“CULTURA PRESENTE RJ”, de 05 de outubro de 2020, celebrado en-
+tre o Estado do Rio de Janeiro, por intermédio da Secretaria de Es-
+tado de Cultura e Economia Criativa e Flávio Fonseca Lima por força
+do Termo de Compromisso nº 0211T/2020, no valor de R$ 5.000,00
+(cinco mil reais), oriundo do processo administrativo SEI-
+180007/001248/2020. Processo nº SEI-180001/002526/2025.
+Id: 2673897
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+ATO DA SECRETÁRIA
+DE 26.08.2025
+I N S TA U R A TOMADA DE CONTAS decorrente da não prestação de
+contas dos recursos repassados referente ao Edital nº 005/2020 -
+“CULTURA PRESENTE RJ”, de 05 de outubro de 2020, celebrado en-
+tre o Estado do Rio de Janeiro, por intermédio da Secretaria de Es-
+tado de Cultura e Economia Criativa e Gabriel Tiago da Silva Mazotte
+Cortez por força do Termo de Compromisso nº 0025T/2020, no valor
+de R$ 5.000,00 (cinco mil reais), oriundo do processo administrativo
+SEI-180007/001248/2020. Processo nº SEI-180001/002525/2025.
+Id: 2673899
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+ATO DA SECRETÁRIA
+DE 26.08.2025
+I N S TA U R A TOMADA DE CONTAS decorrente da não prestação de
+contas dos recursos repassados referente ao Edital nº 005/2020 -
+“CULTURA PRESENTE RJ”, de 05 de outubro de 2020, celebrado en-
+tre o Estado do Rio de Janeiro, por intermédio da Secretaria de Es-
+tado de Cultura e Economia Criativa e Jamile Regina da Silva Ma-
+galhães por força do Termo de Compromisso nº 0717T/2020, no valor
+de R$ 5.000,00 (cinco mil reais), oriundo do processo administrativo
+SEI-180007/001248/2020. Processo nº SEI-180001/002528/2025.
+Id: 2673900
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+ATO DA SECRETÁRIA
+DE 26.08.2025
+I N S TA U R A TOMADA DE CONTAS decorrente da não prestação de
+contas dos recursos repassados referente ao Edital nº 005/2020 -
+“CULTURA PRESENTE RJ”, de 05 de outubro de 2020, celebrado en-
+tre o Estado do Rio de Janeiro, por intermédio da Secretaria de Es-
+tado de Cultura e Economia Criativa e Pedro Paulo da Costa Thimo-
+teo por força do Termo de Compromisso nº 1008T/2020, no valor de
+R$ 5.000,00 (cinco mil reais), oriundo do processo administrativo SEI-
+180007/001248/2020. Processo nº SEI-180001/002527/2025.
+Id: 2673903
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+ATO DA SECRETÁRIA
+DE 26.08.2025
+I N S TA U R A TOMADA DE CONTAS decorrente da não prestação de
+contas dos recursos repassados referente ao Edital nº 005/2020 -
+“CULTURA PRESENTE RJ”, de 05 de outubro de 2020, celebrado en-
+tre o Estado do Rio de Janeiro, por intermédio da Secretaria de Es-
+tado de Cultura e Economia Criativa e Thayssa Carvalho Leal Dias
+por força do Termo de Compromisso nº 0304T/2020, no valor de R$
+5.000,00 (cinco mil reais), oriundo do processo administrativo SEI-
+180007/001248/2020. Processo nº SEI-180001/002529/2025.
+Id: 2673907
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DA SECRETÁRIA
+DE 27/08/2025
+PROCESSO Nº SEI-180002/002384/2025 - A U TO R I Z O , com base na
+delegação de competência conferida pelo Decreto nº 44.251, de 17 de
+junho de 2013, e nas informações constantes do processo adminis-
+trativo SEI-180002/002384/2025, a dispensa de ponto, sem ônus, do
+servidor João Guilherme Ripper Vianna, ID Funcional 4189773-0, VP-
+3/Assessor da Presidêcia - FUNARJ, no período de 06 a 14 de se-
+tembro de 2025.
+Id: 2673756
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180001/001306/2024 - APROVO a prestação de
+contas do projeto 90'S Festival, do proponente ALS Produções e
+Eventos Ltda com o CNPJ 04.809.417/0001-50, conforme Parecer 28
+de Aprovação de Prestação de Contas (101028579) e Manifestação
+da Assessora da Lei de Incentivo (110190960) e pela Resolução SE-
+CEC nº 266 de 23 de Março de 2023, bem como a Resolução nº 19
+de 20 de Março de 2019 e pela Lei Estadual nº 8.266, de 26 de de-
+zembro de 2018, pela Lei Estadual nº 7.035, de 7 de julho de 2015,
+pelo decreto nº 46.538, de 27 de dezembro de 2018.
+Id: 2673802
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002211/2021 - APROVO a prestação de
+contas do projeto ARTRIO 2024, do proponente Bex Feiras e Eventos
+Culturais LTDA, com o CNPJ 11.472.564/0001-43, conforme Parecer
+68 de Aprovação de Prestação de Contas (106793505) e Manifesta-
+ção da Assessora da Lei de Incentivo (110164317) e pela Resolução
+SECEC nº 266 de 23 de Março de 2023, bem como a Resolução nº
+19 de 20 de Março de 2019 e pela Lei Estadual nº 8.266, de 26 de
+dezembro de 2018, pela Lei Estadual nº 7.035, de 7 de julho de
+2015, pelo decreto nº 46.538, de 27 de dezembro de 2018.
+Id: 2673812
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI E-18/001/340/2014 - APROVO a prestação de
+contas do Projeto Coleção Nacional - MAM Rio, do proponente Barléu
+Edições Ltda, com o CNPJ 05.246.975/0001-18, conforme Relatório
+de Reanálise de Prest. de Contas de ICMS Reanálise (105350863) e
+pela Resolução SECEC nº 266 de 23 de Março de 2023, bem como
+a Resolução nº 19 de 20 de Março de 2019 e pela Lei Estadual nº
+8.266, de 26 de dezembro de 2018, pela Lei Estadual nº 7.035, de 7
+de julho de 2015, pelo decreto nº 46.538, de 27 de dezembro de
+2018.
+Id: 2673782
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002697/2021- APROVO a prestação de
+contas do projeto LAB Cidades Criativas do proponente Quitanda Pro-
+duções e Soluções Criativas Eireli CNPJ 15.037.049/0002-77, confor-
+me Parecer 70 (107249923) Manifestação da Assessora da Lei de In-
+centivo (110183097) e pela Resolução SECEC nº 266 de 23 de Março
+de 2023, bem como a Resolução nº 19 de 20 de Março de 2019 e
+pela Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Es-
+tadual nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27
+de dezembro de 2018.
+Id: 2673789
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/003510/2023 - APROVO a prestação de
+contas do projeto FESTIVAL CASA BLOCO 2024 do proponente Tess
+Agência de Produção e Texto Ltda CNPJ 11.143.709/0001-62, confor-
+me Parecer 67 (106717726) Manifestação da Assessora da Lei de In-
+centivo (110169331) e pela Resolução SECEC nº 266 de 23 de Março
+de 2023, bem como a Resolução nº 19 de 20 de Março de 2019 e
+pela Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Es-
+tadual nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27
+de dezembro de 2018.
+Id: 2673790
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002407/2023 - APROVO a prestação de
+contas do projeto Alimentando Sonhos, do proponente Instituto Osório
+e Marins Ltda com o CNPJ 48.929.847/0001-81, conforme Parecer 34
+de Aprovação de Prestação de Contas (101238130) e Manifestação
+da Assessora da Lei de Incentivo (110188463) e pela Resolução SE-
+CEC nº 266 de 23 de Março de 2023, bem como a Resolução nº 19
+de 20 de Março de 2019 e pela Lei Estadual nº 8.266, de 26 de de-
+zembro de 2018, pela Lei Estadual nº 7.035, de 7 de julho de 2015,
+pelo decreto nº 46.538, de 27 de dezembro de 2018.
+Id: 2673803
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002211/2021 - APROVO a prestação de
+contas do projeto LIVMUNDI, do proponente MASH UP AGÊNCIA DE
+PUBLICIDADE, COMUNICACAO E EVENTOS LTDA, com o CNPJ
+05.166.886/0001-61, conforme Parecer 23 de Aprovação de Prestação
+de Contas (100193212) e Manifestação da Assessora da Lei de In-
+centivo (110193531) e pela Resolução SECEC nº 266 de 23 de Março
+de 2023, bem como a Resolução nº 19 de 20 de Março de 2019 e
+pela Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Es-
+tadual nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27
+de dezembro de 2018.
+Id: 2673813
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/000745/2023 - APROVO a prestação de
+contas do projeto RIO GASTRONOMIA do proponente RKF Rio Em-
+preendimentos Artísticos Ltda CNPJ 23.033.777/0001-58, conforme
+Parecer 58 (105085871) Manifestação da Assessora da Lei de Incen-
+tivo (110192165) e pela Resolução SECEC nº 266 de 23 de Março de
+2023, bem como a Resolução nº 19 de 20 de Março de 2019 e pela
+Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Estadual
+nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27 de
+dezembro de 2018.
+Id: 2673791
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002211/2021 - APROVO a prestação de
+contas do projeto Festa dos 90 Anos, do proponente Mitra Arquiepis-
+copal do Rio de Janeiro com o CNPJ 33.593.575/0001-14, conforme
+Parecer 43 de Aprovação de Prestação de Contas (101811776) e Ma-
+nifestação da Assessora da Lei de Incentivo (110195006) e pela Re-
+solução SECEC nº 266 de 23 de Março de 2023, bem como a Re-
+solução nº 19 de 20 de Março de 2019 e pela Lei Estadual nº 8.266,
+de 26 de dezembro de 2018, pela Lei Estadual nº 7.035, de 7 de
+julho de 2015, pelo decreto nº 46.538, de 27 de dezembro de 2018.
+Id: 2673804
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002211/2021 - APROVO a prestação de
+contas do projeto 90 Anos de Luz - Fase 2 Nacional, do proponente
+MITRA ARQUIEPISCOPAL DO RIO DE JANEIRO, com o CNPJ
+33.593.575/0001-14, conforme Parecer 31 de Aprovação de Prestação
+de Contas (101135183) e Manifestação da Assessora da Lei de In-
+centivo (110191170) e pela Resolução SECEC nº 266 de 23 de Março
+de 2023, bem como a Resolução nº 19 de 20 de Março de 2019 e
+pela Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Es-
+tadual nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27
+de dezembro de 2018.
+Id: 2673814
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002203/2023 - APROVO a prestação de
+contas do projeto ARTRIO do proponente Bex Feiras e Eventos Cul-
+turais Ltda CNPJ 11.472.564/0001-43, conforme Parecer 21
+(99166584) Manifestação da Assessora da Lei de Incentivo
+(110186466) e pela Resolução SECEC nº 266 de 23 de Março de
+2023, bem como a Resolução nº 19 de 20 de Março de 2019 e pela
+Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Estadual
+nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27 de
+dezembro de 2018.
+Id: 2673792
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180001/000580/2024 - APROVO a prestação de
+contas do projeto Festival de Inverno Rio - FIR 2024, do proponente
+ALS Produções e Eventos Ltda com o CNPJ 04.809.417/0001-50,
+conforme Parecer 33 de Aprovação de Prestação de Contas
+(101198329) e Manifestação da Assessora da Lei de Incentivo
+(110183630) e pela Resolução SECEC nº 266 de 23 de Março de
+2023, bem como a Resolução nº 19 de 20 de Março de 2019 e pela
+Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Estadual
+nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27 de
+dezembro de 2018.
+Id: 2673805
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002211/2021 - APROVO a prestação de
+contas do projeto A MÚSICA CANTANDO A NOSSA HISTÓRIA - UM
+RIO DE SONS, do proponente RKF Rio Empreendimentos Artísticos
+LTDA, com o CNPJ 23.033.777/0001-58, conforme Parecer 27 de
+Aprovação de Prestação de Contas (101016139) e Manifestação da
+Assessora da Lei de Incentivo (110183841) e pela Resolução SECEC
+nº 266 de 23 de Março de 2023, bem como a Resolução nº 19 de 20
+de Março de 2019 e pela Lei Estadual nº 8.266, de 26 de dezembro
+de 2018, pela Lei Estadual nº 7.035, de 7 de julho de 2015, pelo de-
+creto nº 46.538, de 27 de dezembro de 2018.
+Id: 2673815
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002541/2022 - APROVO a prestação de
+contas do projeto USINA DE HUMOR do proponente Castello Branco
+Produções Artísticas Ltda CNPJ 04.858.985/0001-41, conforme Pare-
+cer 38 (101544528) Manifestação da Assessora da Lei de Incentivo
+(110192129) e pela Resolução SECEC nº 266 de 23 de Março de
+2023, bem como a Resolução nº 19 de 20 de Março de 2019 e pela
+Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Estadual
+nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27 de
+dezembro de 2018.
+Id: 2673793
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002701/2021 - APROVO a prestação de
+contas do projeto FESTIVAL MULTIPLICIDADE - ANO 17, do propo-
+nente 27 MAIS 1 COMUNICAÇÃO VISUAL EIRELI com o CNPJ
+05.666.069/0001-72, conforme Parecer 48 de Aprovação de Prestação
+de Contas (103064192) e Manifestação da Assessora da Lei de In-
+centivo (110194877) e pela Resolução SECEC nº 266 de 23 de Março
+de 2023, bem como a Resolução nº 19 de 20 de Março de 2019 e
+pela Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Es-
+tadual nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27
+de dezembro de 2018.
+Id: 2673806
+
+## Pagina 26
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0032/U0036
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº S E I - 1 8 0 0 0 7 / 0 0 2 2 11 / 2 0 2 1 - APROVO a prestação de
+contas do projeto ENERGIA PARA LER - LONGE SE VAI SONHAN-
+DO DEMAIS, do proponente Editora e Distribuidora Motivos LTDA,
+com o CNPJ 05.198.962/0001-10, conforme Parecer 35 de Aprovação
+de Prestação de Contas (101261776) e Manifestação da Assessora
+da Lei de Incentivo (110190752) e pela Resolução SECEC nº 266 de
+23 de Março de 2023, bem como a Resolução nº 19 de 20 de Março
+de 2019 e pela Lei Estadual nº 8.266, de 26 de dezembro de 2018,
+pela Lei Estadual nº 7.035, de 7 de julho de 2015, pelo decreto nº
+46.538, de 27 de dezembro de 2018.
+Id: 2673816
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/001515/2023 - APROVO a prestação de
+contas do projeto KAFKA E A BONECA VIAJANTE do proponente Va-
+ca Amarela Educação e Arte Ltda CNPJ 23.179.364/0001-86, confor-
+me Parecer 57 (104490899) Manifestação da Assessora da Lei de In-
+centivo (110185914) e pela Resolução SECEC nº 266 de 23 de Mar-
+ço de 2023, bem como a Resolução nº 19 de 20 de Março de 2019 e
+pela Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Es-
+tadual nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27
+de dezembro de 2018.
+Id: 2673794
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002726/2021 - APROVO a prestação de
+contas do projeto Festival Varilux de Cinema Francês 2021, do pro-
+ponente Bonfilm Produção e Distribuição Audiovisual Ltda com o
+10.383.039/0001-99, conforme Parecer 24 de Aprovação de Prestação
+de Contas (100329512) e Manifestação da Assessora da Lei de In-
+centivo (110194007) e pela Resolução SECEC nº 266 de 23 de Mar-
+ço de 2023, bem como a Resolução nº 19 de 20 de Março de 2019 e
+pela Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Es-
+tadual nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27
+de dezembro de 2018.
+Id: 2673807
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002211/2021 - APROVO a prestação de
+contas do projeto Oi Futuro & IATEC: Lab Sônica - Academy, do pro-
+ponente IATEC - Instituto de Artes e Técnicas em Comunicação LT-
+DA, com o CNPJ 04.100.606/0001-50, conforme Parecer 55 de Apro-
+vação de Prestação de Contas (104145086) e Manifestação da As-
+sessora da Lei de Incentivo (110194492) e pela Resolução SECEC nº
+266 de 23 de Março de 2023, bem como a Resolução nº 19 de 20 de
+Março de 2019 e pela Lei Estadual nº 8.266, de 26 de dezembro de
+2018, pela Lei Estadual nº 7.035, de 7 de julho de 2015, pelo decreto
+nº 46.538, de 27 de dezembro de 2018.
+Id: 2673817
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/001483/2023 - APROVO a prestação de
+contas do projeto FESTIVAL DE INVERNO RIO - FIR 2023 do pro-
+ponente Peck Promoções e Eventos Ltda CNPJ 05.198.962/0001-10,
+conforme Parecer 50 (103449751) Manifestação da Assessora da Lei
+de Incentivo (110187272) e pela Resolução SECEC nº 266 de 23 de
+Março de 2023, bem como a Resolução nº 19 de 20 de Março de
+2019 e pela Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela
+Lei Estadual nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538,
+de 27 de dezembro de 2018.
+Id: 2673795
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/003496/2022 - APROVO a prestação de
+contas do projeto FLU MUSIC, do proponente IRJ Consultoria Espor-
+tiva EIRELI com o CNPJ 20.476.392/0001-77, conforme Parecer 53
+de Aprovação de Prestação de Contas (104037245) e Manifestação
+da Assessora da Lei de Incentivo (110193370) e pela Resolução SE-
+CEC nº 266 de 23 de Março de 2023, bem como a Resolução nº 19
+de 20 de Março de 2019 e pela Lei Estadual nº 8.266, de 26 de de-
+zembro de 2018, pela Lei Estadual nº 7.035, de 7 de julho de 2015,
+pelo decreto nº 46.538, de 27 de dezembro de 2018.
+Id: 2673808
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002211/2021 - APROVO a prestação de
+contas do projeto PRIO BLUES & JAZZ FESTIVAL 2024, do propo-
+nente Peck Promoções e Eventos LTDA, com o CNPJ
+05.198.962/0001-10, conforme Parecer 49 de Aprovação de Prestação
+de Contas (103201164) e Manifestação da Assessora da Lei de In-
+centivo (110183937) e pela Resolução SECEC nº 266 de 23 de Mar-
+ço de 2023, bem como a Resolução nº 19 de 20 de Março de 2019 e
+pela Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Es-
+tadual nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27
+de dezembro de 2018.
+Id: 2673818
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002584/2021 - APROVO a prestação de
+contas do projeto FESTIVAL ÓPERA NA TELA 2021 do proponente
+Bonfilm Produção e Distribuição Audiovisual Ltda CNPJ
+10.383.039/0001-99, conforme Parecer 62 (105701572) Manifestação
+da Assessora da Lei de Incentivo (110195066) e pela Resolução SE-
+CEC nº 266 de 23 de Março de 2023, bem como a Resolução nº 19
+de 20 de Março de 2019 e pela Lei Estadual nº 8.266, de 26 de de-
+zembro de 2018, pela Lei Estadual nº 7.035, de 7 de julho de 2015,
+pelo decreto nº 46.538, de 27 de dezembro de 2018.
+Id: 2673796
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/000381/2023 - APROVO a prestação de
+contas do projeto Mulheres da Providência, do proponente Salvatore
+Comunicação e Eventos Eireli com o CNPJ 21.174.914/0001-49, con-
+forme Parecer 56 de Aprovação de Prestação de Contas (104215982)
+e Manifestação da Assessora da Lei de Incentivo (110192989) e pela
+Resolução SECEC nº 266 de 23 de Março de 2023, bem como a Re-
+solução nº 19 de 20 de Março de 2019 e pela Lei Estadual nº 8.266,
+de 26 de dezembro de 2018, pela Lei Estadual nº 7.035, de 7 de
+julho de 2015, pelo decreto nº 46.538, de 27 de dezembro de 2018.
+Id: 2673809
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº S E I - 1 8 0 0 0 7 / 0 0 2 2 11 / 2 0 2 1 - APROVO a prestação de
+contas do projeto REVITALIZA RIO - PRAÇA DA HARMONIA, do pro-
+ponente DAS LIMA PRODUÇÃO E PROMOÇÕES DE EVENTOS LT-
+DA, com o CNPJ 04.561.876/0001-68, conforme Parecer 52 de Apro-
+vação de Prestação de Contas (103789467) e Manifestação da As-
+sessora da Lei de Incentivo (110192721) e pela Resolução SECEC nº
+266 de 23 de Março de 2023, bem como a Resolução nº 19 de 20 de
+Março de 2019 e pela Lei Estadual nº 8.266, de 26 de dezembro de
+2018, pela Lei Estadual nº 7.035, de 7 de julho de 2015, pelo decreto
+nº 46.538, de 27 de dezembro de 2018.
+Id: 2673819
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180001/002319/2024 - APROVO a prestação de
+contas do projeto VOZES DO AMANHÃ do proponente Fábrica Ser-
+viços de Entretenimento Ltda CNPJ 23.475.118/0001-71, conforme Pa-
+recer 39 (101552336) Manifestação da Assessora da Lei de Incentivo
+(110192025) e pela Resolução SECEC nº 266 de 23 de Março de
+2023, bem como a Resolução nº 19 de 20 de Março de 2019 e pela
+Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Estadual
+nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27 de
+dezembro de 2018.
+Id: 2673797
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180001/003368/2024 - APROVO a prestação de
+contas do projeto Rio Cultura & Saúde, do proponente RW Produções
+Culturais, Esportivos e Eventos Eireli com o 26.145.196/0001-04, con-
+forme Parecer 32 de Aprovação de Prestação de Contas (101188934)
+e Manifestação da Assessora da Lei de Incentivo (110187939) e pela
+Resolução SECEC nº 266 de 23 de Março de 2023, bem como a Re-
+solução nº 19 de 20 de Março de 2019 e pela Lei Estadual nº 8.266,
+de 26 de dezembro de 2018, pela Lei Estadual nº 7.035, de 7 de
+julho de 2015, pelo decreto nº 46.538, de 27 de dezembro de 2018.
+Id: 2673810
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/002211/2021 - APROVO a prestação de
+contas do projeto UANÁ ETÊ EDUCACIONAL MÚSICA E MEIO AM-
+BIENTE, do proponente Lopes D'art Serviços em Mídia LTDA, com o
+CNPJ 05.080.793/0001-10, conforme Parecer 51 de Aprovação de
+Prestação de Contas (103573186) e Manifestação da Assessora da
+Lei de Incentivo (110184102) e pela Resolução SECEC nº 266 de 23
+de Março de 2023, bem como a Resolução nº 19 de 20 de Março de
+2019 e pela Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela
+Lei Estadual nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538,
+de 27 de dezembro de 2018.
+Id: 2673820
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/001279/2023 - APROVO a prestação de
+contas do projeto CELULAR 50 - A exposição sobre os 50 anos do
+celular, do 1 ao 5G do proponente CMX ASSOCIADOS EIRELI CNPJ
+13.637.185/0001-91, conforme Parecer 47 (102819850) Manifestação
+da Assessora da Lei de Incentivo (110191131) e pela Resolução SE-
+CEC nº 266 de 23 de Março de 2023, bem como a Resolução nº 19
+de 20 de Março de 2019 e pela Lei Estadual nº 8.266, de 26 de de-
+zembro de 2018, pela Lei Estadual nº 7.035, de 7 de julho de 2015,
+pelo decreto nº 46.538, de 27 de dezembro de 2018.
+Id: 2673798
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/001290/2023 - APROVO a prestação de
+contas do projeto Terra Desce, do proponente Aquela Cia Produções
+Artísticas Ltda com o 24.884.872/0001-28, conforme Parecer 63 de
+Aprovação de Prestação de Contas (105825087) e Manifestação da
+Assessora da Lei de Incentivo (110188108) e pela Resolução SECEC
+nº 266 de 23 de Março de 2023, bem como a Resolução nº 19 de 20
+de Março de 2019 e pela Lei Estadual nº 8.266, de 26 de dezembro
+de 2018, pela Lei Estadual nº 7.035, de 7 de julho de 2015, pelo de-
+creto nº 46.538, de 27 de dezembro de 2018.
+Id: 2673811
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 26/08/2025
+PROCESSO Nº SEI-180007/001190/2023 - APROVO a prestação de
+contas do Projeto de Revitalização do Teatro Santa Cecília do pro-
+ponente Natureza Produções Ltda CNPJ 11.467.181/0001-87, confor-
+me Parecer 59 (105602469) Manifestação da Assessora da Lei de In-
+centivo (110191632) e pela Resolução SECEC nº 266 de 23 de Março
+de 2023, bem como a Resolução nº 19 de 20 de Março de 2019 e
+pela Lei Estadual nº 8.266, de 26 de dezembro de 2018, pela Lei Es-
+tadual nº 7.035, de 7 de julho de 2015, pelo decreto nº 46.538, de 27
+de dezembro de 2018.
+Id: 2673799
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 27/08/2025
+PROCESSO Nº SEI-180001/000024/2025 - R AT I F I C O na qualidade de
+Ordenadora de Despesas, conforme Resolução SECEC nº 172 de 14
+de outubro de 2021 a presente contratação direta por meio de Ine-
+xigibilidade de Licitação, com fulcro no art. 74, I, Lei 14.133/21, no
+valor de R$ 143.444,30 (cento e quarenta e três mil quatrocentos e
+quarenta e quatro reais e trinta centavos), em favor da SPE SANEA-
+MENTO RIO 4 S.A (Águas do Rio 4 SPE S.A), CNPJ:
+42.310.775/0001-03, referente a contratação de prestação de serviços
+de fornecimento de água e coleta de esgoto às unidades administra-
+tivas, em complementação as despesas do ano exercício de 2025,
+sendo elas: Biblioteca Parque Estadual, Casa França Brasil e Biblio-
+teca Parque de Manguinhos, em consonância ao Parecer SE-
+CEC/ASSJUR Nº 33/2025 (93883313).
+Id: 2673993
+ADMINISTRAÇÃO VINCULADA
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO ANITA MANTUANO DE ARTES
+DO ESTADO DO RIO DE JANEIRO
+ATO DO PRESIDENTE
+PORTARIA FUNARJ Nº 1599 DE 26 DE AGOSTO DE 2025
+DESIGNA SERVIDORES PARA FISCALIZA-
+ÇÃO, DO ACORDO DE COOPERAÇÃO TÉCNI-
+CA Nº 057/2025, QUE ENTRE SI CELEBRAM
+A FUNDAÇÃO ANITA MANTUANO DE ARTES
+DO ESTADO DO RIO DE JANEIRO E O MU-
+NICÍPIO DO RIO DE JANEIRO.
+O PRESIDENTE DA FUNDAÇÃO ANITA MANTUANO DE ARTES
+DO ESTADO DO RIO DE JANEIRO - FUNARJ, no uso de suas atri-
+buições legais; e Decreto de 02/02/2023, publicado no D.O. de
+03/02/2023, às fls 04, o que consta do processo n° SEI-
+180002/000644/2023, e
+CONSIDERANDO o disposto no Decreto n° 48.817, de 24 de novem-
+bro de 2023, que regulamenta a gestão e a fiscalização das contra-
+tações da administração, e da Lei Federal n° 14.133 de 01/04/2021 e
+no art.239 da Lei Estadual n° 287 de 04/12/1979,
+R E S O LV E :
+Art. 1º - Designar os servidores, CARLOS JANAN CORREA RIMOLA,
+ID 5118576-8, LIA CONTI DO AMARAL GIL, ID 5146531-0 e RODRI-
+GO NASCIMENTO DOS SANTOS, ID 5013352-7, como fiscais e su-
+plentes, respectivamente, para atuarem na fiscalização do Acordo de
+Cooperação Técnica nº 057/2025, no processo n° SEI-
+180002/000644/2023, cujo o objeto a mútua cooperação entre as par-
+tes para a realização de ações e atividades culturais no Município do
+Rio de Janeiro, com foco na pintura artística da empena lateral da
+Sala Cecília Meireles (SCM), situada na Rua Teotônio Regadas - La-
+pa, por artistas que homenagearão personalidades da música brasi-
+leira.
+Art. 2º - Esta Portaria entrará em vigor na data de sua publicação,
+retroagindo seus efeitos a contar de 26/08/2025.
+Rio de Janeiro, 26 de agosto de 2025
+JACKSON DE OLIVEIRA EMERICK
+Presidente
+Id: 2673749
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO ANITA MANTUANO DE ARTES DO ESTADO DO RIO
+DE JANEIRO
+ATO DO PRESIDENTE
+PORTARIA FUNARJ Nº 1600 DE 26 DE AGOSTO DE 2025
+DESIGNA SERVIDORES PARA FISCALIZA-
+ÇÃO, DO ACORDO DE COOPERAÇÃO TÉCNI-
+CA Nº 052/2025, QUE ENTRE SI CELEBRAM
+A FUNDAÇÃO ANITA MANTUANO DE ARTES
+DO ESTADO DO RIO DE JANEIRO E O MU-
+NICÍPIO DE LAJE DO MURIAÉ.
+O PRESIDENTE DA FUNDAÇÃO ANITA MANTUANO DE ARTES
+DO ESTADO DO RIO DE JANEIRO - FUNARJ , no uso de suas atri-
+buições legais; e Decreto de 02/02/2023, publicado no D.O. de
+03/02/2023, às fls 04, o que consta do processo n° SEI-
+180002/002213/2025, e
+CONSIDERANDO o disposto no Decreto n° 48.817, de 24 de novem-
+bro de 2023, que regulamenta a gestão e a fiscalização das contra-
+tações da administração, e da Lei Federal n° 14.133 de 01/04/2021 e
+no art.239 da Lei Estadual n° 287 de 04/12/1979.
+R E S O LV E :
+Art. 1º - Designar os servidores, NOEL SONDER LOPES DOS SAN-
+TOS ID 51615320, JAMILA FRANCISCA DOS SANTOS SOUZA ID
+51623170 e ADILSON NEVES DOS SANTOS, ID 51254522, como fis-
+cais e suplentes, respectivamente, para atuarem na fiscalização do
+Acordo de Cooperação Técnica nº 052/2025, no processo n° SEI-
+180002/002213/2025, cujo o objeto é a mútua cooperação para a for-
+malização de compromissos e parceria institucional entre as partes
+signatárias com o propósito de fomentar a cultura, sob a perspectiva
+da produção cultural, em ações e atividades a serem implementadas
+no Município do Laje do Muriaé.
+Art. 2º - Esta Portaria entrará em vigor na data de sua publicação,
+retroagindo seus efeitos a contar de 26/08/2025.
+Rio de Janeiro, 26 de agosto de 2025
+JACKSON DE OLIVEIRA EMERICK
+Presidente
+Id: 2673747
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO MUSEU DA IMAGEM E DO SOM DO ESTADO
+DO RIO DE JANEIRO
+DESPACHO DO PRESIDENTE
+DE 26/08/2025
+PROCESSO Nº SEI-180003/000202/2025 - A U TO R I Z O a Dispensa de
+Licitação visando à contratação direta da empresa CGY CRIAÇÃO
+E PRODUÇÃO LTDA., no valor de R$ 27.370,00 (vinte e sete mil,
+trezentos e setenta reais), cujo objeto é a “Contratação de empresa
+para prestação de “confecção e fornecimento de 70 troféus persona-
+lizados, em bronze, destinados à cerimônia comemorativa dos
+60 anos da FMIS/RJ”, fundamentado no 75, inciso II, da Lei Federal
+n.º 14.133/2021.
+Id: 2673783
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO MUSEU DA IMAGEM E DO SOM DO ESTADO
+DO RIO DE JANEIRO
+DESPACHO DO PRESIDENTE
+DE 26/08/2025
+PROCESSO Nº SEI-180003/000151/2025 - AUTORIZO a Dispensa de
+Licitação visando à contratação direta da empresa PRODERJ - CEN-
+TRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO
+ESTADO DO RIO DE JANEIRO, UG (403200), no valor de R$
+49.766,64 (quarenta e nove mil setecentos e sessenta e seis reais e
+sessenta e quatro centavos), cujo objeto é a “Contratação de empresa
+para prestação de serviços de Hospedagem IaaS (VPS´s) Serviços de
+AD (Microsoft Active Directory) e Servidor de Arquivos”, fundamentado
+no 75, inciso II, da Lei Federal n.º 14.133/2021.
+Id: 2673784
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO MUSEU DA IMAGEM E DO SOM DO ESTADO
+DO RIO DE JANEIRO
+DESPACHO DO PRESIDENTE
+DE 26/08/2025
+PROCESSO Nº SEI-180003/000091/2025 - A U TO R I Z O a Dispensa de
+Licitação visando à contratação direta da empresa PATRICK PEREIRA
+SANTOS TAVARES - PKJET, no valor de R$ 39.930,80 (trinta e nove
+mil, novecentos e trinta reais e oitenta centavos), cujo objeto consiste
+na contratação de empresa especializa em fornecimento de material
+de informática”, fundamentado no 75, inciso II, da Lei Federal n.º
+14.133/2021.
+Id: 2673785
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO MUSEU DA IMAGEM E DO SOM DO ESTADO
+DO RIO DE JANEIRO
+DESPACHO DO PRESIDENTE
+DE 26/08/2025
+PROCESSO Nº SEI-180003/000251/2025 - A U TO R I Z O a Dispensa de
+Licitação visando à contratação direta da empresa L7 COMUNICA-
+ÇÃO VISUAL, no valor de R$ 1.250,00 (um mil duzentos e cinquenta
+reais), cujo objeto consiste na contratação de empresa especializa em
+serviços de confecção de 02 banners personalizados para a comemo-
+ração dos 60 anos da FMIS/RJ”, fundamentado no 75, inciso II, da
+Lei Federal n.º 14.133/2021.
+Id: 2673786
+
+## Pagina 27
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0032/U0037/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO MUSEU DA IMAGEM E DO SOM DO ESTADO
+DO RIO DE JANEIRO
+DESPACHO DO PRESIDENTE
+DE 26/08/2025
+PROCESSO Nº SEI-180003/000159/2025 - A U TO R I Z O a Dispensa de
+Licitação visando à contratação direta da empresa HOSTGATOR BRA-
+SIL LTDA., no valor de R$ 4.493,88 (quatro mil quatrocentos e no-
+venta e três reais e oitenta e oito centavos), cujo objeto consiste na
+contratação de empresa especializa em serviços de VPS PLATINUM”,
+fundamentado no 75, inciso II, da Lei Federal n.º 14.133/2021.
+Id: 2673787
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO MUSEU DA IMAGEM E DO SOM DO ESTADO
+DO RIO DE JANEIRO
+DESPACHO DO PRESIDENTE
+DE 26/08/2025
+PROCESSO Nº SEI-180003/000235/2025 - A U TO R I Z O a Dispensa de
+Licitação visando à contratação direta da empresa L7 COMUNICA-
+ÇÃO VISUAL , no valor de R$ 1.440,00 (um mil quatrocentos e qua-
+renta reais), cujo objeto consiste na “contratação de empresa espe-
+cializada na prestação de serviço de 300 botons personalizados para
+a comemoração dos 60 anos da FMIS/RJ”, fundamentado no 75, in-
+ciso II, da Lei Federal n.º 14.133/2021.
+Id: 2673788
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO TEATRO MUNICIPAL DO RIO DE JANEIRO
+DESPACHO DA PRESIDENTE
+DE 27.08.2025
+PROCESSO Nº SEI-180005/000898/2025 - Considerando os termos
+da Portaria FTM nº 525, de 14 de agosto de 2025 (SEI-
+180005/000770/2025) e tendo em vista as justificativas e esclareci-
+mentos apresentados nos autos do presente administrativo, e com ba-
+se no que dispõe a Lei nº 4.320 de 17/03/64, Lei Estadual n° 287 de
+04/12/79, e os Decretos Estaduais nº 41.880 de 25/05/2009, com
+suas alterações através do Decreto nº 45.478 de 03/12/2015, RECO-
+NHEÇO a Despesa de Exercício Anterior relacionada ao décimo ter-
+ceiro salário, no valor global de R$ 1.750,00 (mil setecentos e cin-
+quenta) reais, referentes ao exercício 2024.
+Id: 2674047
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO TEATRO MUNICIPAL DO RIO DE JANEIRO
+DESPACHO DA PRESIDENTE INTERINA
+DE 22/08/2025
+PROCESSO N° SEI-180005/000873/2025 - MANOEL FRANCISCO DE
+SOUSA PINTO, Identidade Funcional nº 637516-2. A U TO R I Z O a dis-
+pensa de ponto.
+Id: 2673863
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO TEATRO MUNICIPAL DO RIO DE JANEIRO
+DIRETORIA ADMINISTRATIVA E FINANCEIRA
+DIVISÃO DE RECURSOS HUMANOS
+D E S PA C H O DA CHEFE
+DE 25.08.2025
+PROCESSO N° SEI-E-18/450754/1998 - PAULO ERNANI PEIXOTO
+CORREIA, Identidade Funcional 2878271-2. CONCEDO 03 (três) me-
+ses de licença especial relativa ao período-base de: 23/10/2019 a
+22/10/2024.
+Id: 2673864
+Secretaria de Estado de Esporte e Lazer
+S E C R E TA R IA DE ESTADO DE ESPORTE E LAZER
+DIRETORIA GERAL DE ADMINISTRAÇÃO E FINANÇAS
+ATO DA DIRETORA
+DE 27/08/2025
+DESIGNA ao servidor LUIZ ANTONIO DA CRUZ , Identidade Funcio-
+nal nº 552773-2, inscrito junto ao Conselho Regional de Contabilida-
+de- CRC/RJ sob o nº 082964/O-7, como responsável titular da Co-
+ordenadoria de Contabilidade - COOCON, e lhe conferindo acesso
+perfil de acesso à Unidade Gestora: 170100 - SEEL do SIAFE-Rio.
+Processo n° SEI-300001/002296/2025.
+Id: 2674027
+Secretaria de Estado de T urismo
+SECRETARIA DE ESTADO DE TURISMO
+DESPACHO DO SECRETÁRIO
+DE 26/08/2025
+PROCESSO Nº SEI-050001/0011 3 3 /2025 - RATIFICO a Inexigibilidade
+de Licitação em favor da empresa ALTERNATIVO ASSESSORIA E
+PRODUÇÃO LTDA, inscrita no CNPJ n.º: 01.629.163/0001-09, com
+sede na Rua General Andrade Neves ,25 sala 604 parte - Centro, Ni-
+terói/RJ, CEP: 24.210-000, cujo objeto é o apoio financeiro, por meio
+de patrocínio, da Secretaria de Estado de Turismo do Rio de Janeiro
+no evento denominado CAVALGADA DA INDEPENDÊNCIA DE SÃO
+PEDRO DA ALDEIA, a ser realizado no dia 07 de setembro de 2025,
+partindo da ROD RJ-140 até o POLO RURAL, SPA19 - S. Iguaba -
+São Pedro da Aldeia/RJ, CEP: 28940-000, com valor de aporte de R$
+250.000,00 (duzentos e cinquenta mil reais mil reais), com base no
+art. 74, caput, da Lei 14.133/2021.
+Id: 2673997
+SECRETARIA DE ESTADO DE TURISMO
+DESPACHO DO SECRETÁRIO
+DE 26/08/2025
+PROCESSO Nº SEI-050001/0011 5 6 /2025- RATIFICO a Inexigibilidade
+de Licitação em favor da empresa INFINITY EVENTOS ITAAPERUNA
+LTDA., inscrito no CNPJ n.º: 19.073.524/0001-30, com sede na Rod
+BR 356, s/n - BR 356 - Presidente Costa e Silva- Itaperuna/RJ, CEP:
+28.300-000, cujo objeto é o apoio financeiro, por meio de patrocínio,
+da Secretaria de Estado de Turismo do Rio de Janeiro no evento de-
+nominado FESTA DE SETEMBRO DE SÃO JOSÉ DE UBÁ, entre os
+dias 05 e 07 de setembro de 2025, na Praça Central Hamilton Ma-
+chado Valeriote, Av: David Vieira Ney, 122 - São José de Ubá/RJ,
+CEP:28.455-000,com valor de aporte de R$ 250.000,00 (duzentos e
+cinquenta mil reais mil reais), com base no art. 74, caput, da Lei
+14.133/2021.
+Id: 2673998
+SECRETARIA DE ESTADO DE TURISMO
+DESPACHO DO SECRETÁRIO
+DE 26/08/2025
+PROCESSO Nº SEI-050001/0011 5 0 /2025- RATIFICO a Inexigibilidade
+de Licitação em favor da empresa ELO PRODUCOES MUSICAIS LT-
+DA., inscrita no CNPJ n.º: 36.688.231/0001-87, com sede na Rua En-
+genheiro Habib Gebara, 265, LOT 2 PAl 33212 QDR G - Barra da
+Tijuca - Rio de Janeiro/RJ, CEP: 22.793-570, cujo objeto é a contra-
+tação de serviços especializados de apresentação artística do
+cantor “JORGE VERCILLO”, a ser realizada no dia 05 de setembro
+de 2025 - Angra dos Reis/Rio de Janeiro, com valor de aporte de
+R$ 170.000,00 (cento e setenta mil reais), com base no art. 74, II, da
+Lei 14.133/2021.
+Id: 2673999
+SECRETARIA DE ESTADO DE TURISMO
+DESPACHO DO SECRETÁRIO
+DE 26/08/2025
+PROCESSO Nº SEI-050001/0011 5 4 /2025- RATIFICO a Inexigibilidade
+de Licitação em favor da empresa COOL PRODUÇÕES LTDA., CNPJ
+n.º: 03.942.849/0001-72, com sede na Estrada União e Industria,
+12360, parte - Itaipava, Petrópolis/RJ, CEP: 25.750-220, cujo objeto é
+o apoio financeiro, por meio de patrocínio, da Secretaria de Estado de
+Turismo do Rio de Janeiro no evento denominado OKTOBERFEST
+PETRÓPOLIS, a ser realizado nos dias 05, 06, 07, 12, 13 e 14 de
+setembro de 2025, no Parque Municipal de Exposições Prefeito Paulo
+Rattes, em Itaipava, distrito de Petrópolis/RJ, com valor de aporte de
+R$ 250.000,00 (duzentos e cinquenta mil reais mil reais), com base
+no art. 74, caput, da Lei 14.133/2021.
+Id: 2674000
+SECRETARIA DE ESTADO DE TURISMO
+DESPACHO DO SECRETÁRIO
+DE 26/08/2025
+PROCESSO Nº SEI-050001/000890/2025 - RATIFICO a Inexigibilidade
+de Licitação em favor da empresa SONIMAGE PROMOÇÕES E
+EVENTOS LTDA., inscrita no CNPJ: 15.591.069/0001-04, com sede
+na Avenida Rui Barbosa, 598 apto. 1001, Flamengo/RJ. CEP 22.250-
+020, cujo objeto é o apoio financeiro, por meio de patrocínio, da Se-
+cretaria de Estado de Turismo do Rio de Janeiro no evento denomi-
+nado RIO COFEE NATION 2025, a se realizar entre os dias 17,18 e
+19 de outubro de 2025, no EXC - JOCKEY CLUBE, localizado na
+Rua Jardim Botânico 1011, Jardim Botânico Rio de Janeiro-RJ, CEP
+22470-051, com valor de aporte de R$ 175.000,00 (cento e setenta e
+cinco mil reais), com base no art. 74, caput, da Lei 14.133/2021.
+Id: 2674001
+Controladoria Geral do Estado
+CONTROLADORIA GERAL DO ESTADO
+CORREGEDORIA GERAL DO ESTADO
+ATO DO CORREGEDOR GERAL
+PORTARIA CGE/CORREG Nº 1356 DE 25 DE AGOSTO DE 2025
+INSTAURA PROCESSO ADMINISTRATIVO DIS-
+CIPLINAR.
+O CORREGEDOR-GERAL DO ESTADO , no uso das atribuições le-
+gais que lhe confere o art. 12 da Lei n.º 7.989, de 14 de junho de
+2018, regulamentado pelo Decreto n.º 46.873, de 13 de dezembro de
+2019, e a delegação de competência atribuída pela Resolução CGE
+n.º 147, de 09 de junho de 2022, e considerando o que consta do
+Processo Administrativo SEI-150159/005028/2021.
+R E S O LV E:
+Art. 1º - Instaurar Processo Administrativo Disciplinar para apurar pos-
+sível infração disciplinar descrita no processo supracitado, o qual tra-
+mitará nos autos do processo SEI-320001/002113/2025, por descum-
+primento ao Decreto-Lei n.º 220 de 18 de julho 1975, que instituiu o
+Regime Jurídico dos Funcionários Públicos Civis do Poder Executivo
+do Estado do Rio de Janeiro (regulamentado pelo Decreto n.º 2.479,
+de 08 de março de 1979, alterado pela Lei Complementar n.º 85/96),
+e demais normativos aplicáveis.
+Art. 2º - Designar a 2ª Comissão Permanente de Processo Adminis-
+trativo Disciplinar para conduzir tecnicamente os trabalhos e proceder
+ao exame dos atos e fatos que possam emergir da apuração, comu-
+nicando-os à autoridade competente, para providências de sua alça-
+da.
+Art. 3º - Estabelecer o prazo de 90 (noventa) dias para a conclusão
+dos trabalhos.
+Art. 4º - Esta Portaria entrará em vigor na data da sua publicação.
+Rio de Janeiro, 25 de agosto de 2025
+PEDRO JORGE MARQUES
+Corregedor-Geral do Estado
+Id: 2673961
+CONTROLADORIA GERAL DO ESTADO
+CORREGEDORIA GERAL DO ESTADO
+ATO DO CORREGEDOR GERAL
+PORTARIA CGE/CORREG Nº 1358 DE 25 DE AGOSTO DE 2025
+INSTAURA PROCESSO ADMINISTRATIVO
+DISCIPLINAR.
+O CORREGEDOR-GERAL DO ESTADO , no uso das atribuições le-
+gais que lhe confere o art. 12 da Lei n.º 7.989, de 14 de junho de
+2018, regulamentado pelo Decreto n.º 46.873, de 13 de dezembro de
+2019, e a delegação de competência atribuída pela Resolução CGE
+n.º 147, de 09 de junho de 2022, e considerando o que consta no
+processo administrativo SEI-310006/001713/2023.
+R E S O LV E:
+Art. 1º - Instaurar Processo Administrativo Disciplinar para apuração
+de irregularidades descritas no processo supracitado, o qual tramitará
+nos autos do processo SEI-320001/002139/2025, por descumprimento
+ao Decreto-Lei n.º 220 de 18 de julho de 1975, o qual instituiu o Re-
+gime Jurídico dos Funcionários Públicos Civis do Poder Executivo do
+Estado do Rio de Janeiro (regulamentado pelo Decreto n.º 2.479, de
+08 de março de 1979, alterado pela Lei Complementar n.º 85/96) e
+demais normativos aplicáveis.
+Art. 2 º - Designar a 4 ª Comissão Permanente de Processo Adminis-
+trativo Disciplinar para conduzir tecnicamente os trabalhos e proceder
+ao exame dos atos e fatos que possam emergir da apuração, comu-
+nicando-os à autoridade julgadora, para providências de sua alçada.
+Art. 3º - Estabelecer o prazo de 90 (noventa) dias para a conclusão
+dos trabalhos, na forma do art. 68 do Decreto-Lei n.º 220 de 18 de
+julho de 1975.
+Art. 4º - Esta Portaria entrará em vigor na data de sua publicação.
+Rio de Janeiro, 25 de agosto de 2025
+PEDRO JORGE MARQUES
+Corregedor-Geral do Estado
+Id: 2673949
+CONTROLADORIA GERAL DO ESTADO
+CORREGEDORIA GERAL DO ESTADO
+ATO S DO CORREGEDOR-GERAL
+DE 20/08/2025
+APLICA A PENALIDADE DE SUSPENSÃO POR 90 (NOVENTA)
+DIAS ao servidor FRANCISCO DE ASSIS LUCAS , Identidade Funcio-
+nal nº 34174273, Professor Docente I - 18 horas, Nível D, Referência
+09, matrícula 817.029-2, vínculo 1, por inobservância aos artigos 38,
+39, incisos III, IV, V e c/c artigo 50, inciso I, todos do Decreto-Lei nº
+220/1975, regulamentado pelo Decreto 2479/79. Processo nº SEI-
+030035/001571/2022.
+APLICA A PENALIDADE DE SUSPENSÃO POR 60 (SESSENTA)
+DIAS ao servidor ANTONIO JOSÉ DE OLIVEIRA , Identidade Funcio-
+nal 44142650, Professor Docente I - 18 horas, Nível D, Referência 06,
+matrícula 971.458-5, vínculo 01, por inobservância aos artigos 38, 39,
+incisos V, e artigo 50, incisos I e III, todos do Decreto-Lei nº
+220/1975, regulamentado pelo Decreto 2479/79. Processo nº SEI-
+030035/001571/2022.
+Id: 2673942
+CONTROLADORIA GERAL DO ESTADO
+RETIFICAÇÃO
+D.O. DE 25/08/2025
+PÁGINA 51 - 2ª COLUNA
+ATO DO CONTROLADOR-GERAL
+DE 21.08.2025
+Processo nº SEI-030029/003525/2021
+Onde se lê: .... matrícula nº 90971175-5....
+Leia-se: ... Matrícula nº 0971175-5....
+Id: 2673822
+Gabinete de Segurança Institucional do
+Governo do Estado do Rio de Janeiro
+GABINETE DE SEGURANÇA INSTITUCIONAL DO GOVERNO
+DO ESTADO DO RIO DE JANEIRO
+DESPACHOS DO SECRETÁRIO
+DE 25/08/2025
+PROCESSO Nº SEI-390003/000284/2025 - REVALIDAÇÃO de Placa
+Particular - MARINHA DO BRASIL.
+A U TO R I Z O , nos termos do Decreto nº 47.805, de 20.10.2021.
+DE 26/08/2025
+PROCESSO Nº SEI-390003/000289/2025 - DESVINCULAÇÃO de Pla-
+cas Particulares - MINISTÉRIO DA GESTÃO E DA INOVAÇÃO EM
+SERVIÇOS PÚBLICOS.
+A U TO R I Z O , nos termos do Decreto nº 47.805, de 20.10.2021.
+PROCESSO Nº SEI-350004/001938/2025 - DESVINCULAÇÃO de Pla-
+cas Particulares - SECRETARIA DE ESTADO DE POLÍCIA MILITAR.
+A U TO R I Z O , nos termos do Decreto nº 47.805, de 20.10.2021.
+Id: 2673679
+GABINETE DE SEGURANÇA INSTITUCIONAL DO GOVERNO
+DO ESTADO DO RIO DE JANEIRO
+DESPACHO DO SECRETÁRIO
+DE 20/08/2025
+PROCESSO Nº SEI-390002/001986/2025 - RATIFICO a Autorização
+da Despesa da Diretoria Geral de Administração e Finanças do Ga-
+binete de Segurança Institucional, alusiva ao Adiantamento de DES-
+PESAS EXTRAORDINÁRIAS, URGENTES OU IMPREVISÍVEIS, em
+favor da servidora CHRISTIAN CÂNDIDO RIBEIRO, ID FUNC.
+4366249-8, com base no o art. 217, § 4º e § 6º, nº 2, alínea c da Lei
+Estadual nº 287/79 e Art. 29, IV do Decreto Estadual n° 49.134 de
+06/06/2024, no valor de R$ 25.090,22 (vinte e cinco mil e noventa
+reais e vinte e dois centavos).
+Id: 2673666
+Secretaria de Estado de T ransformação Digital
+SECRETARIA DE ESTADO DE TRANSFORMAÇÃO DIGITAL
+ATO DO SECRETÁRIO
+RESOLUÇÃO SETD Nº 97 DE 26 DE AGOSTO DE 2025
+DESIGNA, SEM AUMENTO DE DESPESAS,
+SERVIDORES DA SECRETARIA DE ESTADO
+DE TRANSFORMAÇÃO DIGITAL E DA PRE-
+FEITURA MUNICIPAL DE VASSOURAS PARA
+EXERCEREM A FISCALIZAÇÃO DO ACORDO
+DE COOPERAÇÃO TÉCNICA Nº 39/2025, E
+DÁ OUTRAS PROVIDÊNCIAS.
+O SECRETÁRIO DE ESTADO DE TRANSFORMAÇÃO DIGITAL , no
+uso de suas atribuições legais e regulamentares conferidas pelo art.
+148 da Constituição Estadual; pela nomeação feita pelo Decreto Es-
+tadual de 18 de dezembro de 2024; e tendo em vista o que consta no
+Processo nº SEI-430001/003676/2025,
+R E S O LV E :
+Art. 1º - Designar os servidores da Secretaria de Estado de Trans-
+formação Digital (SETD) e da Prefeitura Municipal de Vassouras, na
+forma do disposto nos itens 4.1.3 e 5.1.3 do Acordo de Cooperação
+Técnica (ACT) nº 39/2025, atinente ao Comitê Gestor da Solução, vi-
+sando implantação do "Portal de Serviços RJ Digital Municípios".
+Art. 2º - A composição dos representantes será a seguinte:
+I- pela Secretaria de Estado de Transformação Digital (SETD):
+a) MARCELO QUINTERO DA SILVA - ID 5114014-4;
+b) CAMILA DA SILVA CARVALHO - ID 5073136-0; e
+c) ERICA GAMEIRO LINTOMEN - ID 5139123-6.
+II - pela Prefeitura Municipal de Vassouras:
+a) PAOLLA FERREIRA CERQUEIRA - matrícula nº 101.492-7;
+b) FRANKIM LOPES ANDRADE HONÓRIO - matrícula nº 102.289-0;
+c) ISRAEL DA SILVA - matrícula nº 100.430-1; e
+d) RICARDO SILVA PEREIRA - matrícula nº 101.526-5.
+Art. 3º - Fica estabelecido que os representantes indicados serão res-
+ponsáveis para exercerem a fiscalização da execução do objeto do
+Acordo de Cooperação Técnica nº 39/2025, celebrado entre ambas as
+partes.
+Art. 4º - Esta Resolução entrará em vigor na data de sua publica-
+ção.
+Rio de Janeiro, 26 de agosto de 2025
+FERNANDO BRAGA MARTINS
+Secretário de Estado de Transformação Digital
+Id: 2673657
+SECRETARIA DE ESTADO DE TRANSFORMAÇÃO DIGITAL
+ATO DO SECRETÁRIO
+*RESOLUÇÃO SETD Nº 96 DE 25 DE AGOSTO DE 2025
+INSTITUI O REGIME DE TELETRABALHO NO
+ÂMBITO DA SECRETARIA DE ESTADO DE
+TRANSFORMAÇÃO DIGITAL, E DÁ OUTRAS
+PROVIDÊNCIAS.
+O SECRETÁRIO DE ESTADO DE TRANSFORMAÇÃO DIGITAL, no
+uso de suas atribuições legais e regulamentares, tendo em vista o
+que consta no Processo n° SEI-430001/007219/2024, e
+
+## Pagina 28
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0032/U0038
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+CONSIDERANDO:
+- os princípios que norteiam a administração pública, dispostos no art.
+37 da Constituição Federal, em especial o da eficiência;
+- as competêcias do Secretário de Estado estabelecidas pelo art. 148,
+inciso I, da Constituição do Estado do Rio de Janeiro;
+- a alteração do art. 6º da Consolidação das Leis do Trabalho (CLT)
+pela Lei Federal nº 12.551, de 15 de dezembro de 2011, equiparando
+os efeitos jurídicos da subordinação exercida por meios telemáticos e
+informatizados à exercida por meios pessoais e diretos de comando,
+controle e supervisão do trabalho;
+- as diretrizes trazidas pela Lei Federal nº 13.709/2018 (Lei Geral de
+Proteção de Dados Pessoais - LGPD) e o Decreto Estadual nº
+48.891/2024 (Política de Governança em Privacidade e Proteção de
+Dados Pessoais do Estado do Rio de Janeiro - PGPPD);
+- as vantagens e os benefícios advindos do teletrabalho para a Ad-
+ministração, para o servidor e para a sociedade, com a possibilidade
+de redução do impacto ambiental e dos custos operacionais da Se-
+cretaria de Estado de Transformação Digital (SETD);
+- a possibilidade de empregar meios tecnológicos que assegurem a
+continuidade da execução de atividades de maneira não presencial e
+a manutenção da qualidade de atendimento aos usuários dos serviços
+públicos prestados pela SETD;
+- a necessidade de regulamentar o teletrabalho no âmbito da SETD,
+de modo a definir critérios e requisitos para a sua prestação, median-
+te controle de acesso e avaliação de desempenho das condições de
+trabalho; e
+- a constante melhoria e racionalização de métodos e procedimentos
+de trabalho na SETD.
+R E S O LV E :
+Art. 1º - Instituir o Regime de Teletrabalho no âmbito da Secretaria de
+Estado de Transformação Digital (SETD), destinado aos servidores cu-
+jo serviço desempenhado seja compatível com este tipo de trabalho e
+que tenham disponibilidade de infraestrutura tecnológica e de comu-
+nicação próprias, adequadas à execução de suas atividades fora das
+dependências das unidades administrativas da SETD.
+CAPÍTULO I
+DAS DISPOSIÇÕES GERAIS DO TELETRABALHO
+Art. 2º - Para efeito desta norma compreende-se:
+I - teletrabalho: Modalidade de trabalho realizada de forma remota, fo-
+ra das dependências físicas da SETD, com a utilização de tecnologias
+de informação e comunicação;
+II - servidor: Ocupante de cargo efetivo, cargo em comissão ou fun-
+ção de confiança, bem como empregado público, em exercício na
+SETD;
+III - chefia Imediata: Servidor responsável pela gestão da unidade ad-
+ministrativa em que o servidor está lotado; e
+IV - plano de Execução do Regime de Teletrabalho: Documentoque
+especifica as atividades a serem desenvolvidas, as metas a serem al-
+cançadas e os resultados esperados no regime de teletrabalho.
+§1º - Não se enquadram no conceito de teletrabalho as atividades
+que, em razão da sua própria natureza, são desempenhadas exter-
+namente às dependências do órgão.
+§2º - A necessidade de execução de atividades presenciais poderá
+ser atendida por rodízio entre os integrantes da unidade, por meio de
+regime de plantão presencial ou medida semelhante, a ser definido
+pela chefia imediata
+Art. 3º - O teletrabalho não exime o servidor do comparecimento pre-
+sencial, inclusive para reuniões, treinamentos, cursos ou participação
+em atividades para as quais for convocado, realizadas dentro ou fora
+das dependências da SETD.
+Art. 4º - A implementação do regime de teletrabalho fica restrita às ati-
+vidades em que seja possível, em função da característica do serviço,
+mensurar objetivamente o desempenho do servidor.
+Parágrafo único. A SETD poderá, a qualquer momento, determinar a
+suspensão do regime de teletrabalho de setores ou de servidores.
+Art. 5º - Poderão aderir ao regime de teletrabalho os servidores ocu-
+pantes de cargos efetivos, comissionados ou empregados públicos,
+desde que não haja impedimento legal ou incompatibilidade com as
+atribuições do cargo ou unidade de lotação.
+Art. 6º - Não poderão ser incluídas no regime de teletrabalho as ati-
+vidades que:
+I - exijam a presença física do servidor para atendimento ao público
+externo;
+II - envolvam o manuseio de documentos sigilosos ou que requeiram
+segurança especial; e
+III - sejam consideradas essenciais para o funcionamento da unidade
+administrativa e não possam ser realizadas remotamente.
+Art. 7º - O teletrabalho objetiva precipuamente aumentar, em termos
+quantitativos e sem prejuízo da qualidade, a produtividade dos traba-
+lhos realizados, e ainda:
+I - promover meios para atrair, motivar e comprometer os servidores
+com os objetivos e projetos da SETD;
+II - economizar tempo e custo de deslocamento dos servidores até o
+local de trabalho;
+III - ampliar a possibilidade de trabalho aos servidores com dificuldade
+de deslocamento;
+IV - possibilitar a melhoria da qualidade de vida dos servidores; e
+V - contribuir para a melhoria de programas ambientais e de susten-
+tabilidade, com a diminuição da emissão de poluentes e a redução do
+consumo de água, esgoto, energia elétrica, papel e outros bens e ser-
+viços disponibilizados nos órgãos estaduais
+CAPÍTULO II
+DAS CONDIÇÕES PARA A REALIZAÇÃO DO TELETRABALHO
+Art. 8º - O regime de teletrabalho ordinário possui adesão facultativa,
+a critério da Chefia Imediata, segundo interesse da Administração,
+não constituindo, portanto, direito ou dever do servidor.
+Art. 9º - Termo de Adesão deverá ser individualizado para cada ser-
+vidor, assinado pelo requerente e pela Chefia Imediata e autuado em
+processo administrativo eletrônico pelo Sistema Eletrônico de Informa-
+ções do Rio de Janeiro (SEI-RJ).
+§1º - O teletrabalho deve ser atribuído aos servidores que tenham de-
+monstrado comprometimento com as tarefas recebidas e habilidades
+de autogerenciamento do tempo e de organização, e desde que não
+haja prejuízo ao pleno atendimento das solicitações dos setores in-
+ternos e ao público externo.
+§2º - Deverá ser respeitado o limite máximo de 70% (setenta por cen-
+to) de servidores em regime de teletrabalho, concomitantemente, por
+setor autorizado.
+§3º - A chefia imediata deverá comunicar a área de Gestão de Pes-
+soas, por meio de suas respectivas Subsecretarias, os nomes dos
+servidores autorizados a aderir o regime de teletrabalho, bem como o
+prazo em que esse se dará, para efeitos de registro, acompanhados
+do respectivo Termo de Adesão para o Regime de Teletrabalho, que
+integra o Anexo I desta Resolução, devidamente preenchido.
+§4º - caso haja demanda de servidores em patamar superior ao es-
+tabelecido no §2º, a Chefia Imediata deverá promover, sempre que
+possível, o revezamento de agentes públicos autorizados a realizar o
+teletrabalho, para que todos possam ter acesso a essa modalidade de
+trabalho.
+Art. 10 - Sempre que houver limitação do número de participantes
+exercentes de mesma função que manifestarem interesse no teletra-
+balho, terão prioridade, nesta ordem:
+I - os agentes públicos portadores de deficiência, na forma da Lei Fe-
+deral nº 13.146/2015 ou portadores de doença grave, na forma da le-
+gislação aplicável;
+II - as gestantes e lactantes;
+III - os agentes públicos que tenham filhos, cônjuge/companheiro ou
+dependentes portadores de deficiência ou portadores de doença gra-
+ve, na forma da legislação aplicável;
+IV - os agentes públicos com dependentes econômicos que constem
+do assentamento funcional com idade até seis anos ou acima de ses-
+senta anos de idade;
+V - os agentes públicos que estavam gozando de licença para acom-
+panhamento de cônjuge/companheiro e optaram pelo regime de tele-
+trabalho, nos termos do §5º, deste artigo;
+VI - os agentes públicos cujos cônjuges ou companheiros residam em
+Município diverso daquele em que reside o próprio ou que residam
+com cônjuge/companheiro em município diverso da lotação em que
+atua;
+VII - os agentes públicos com maior tempo de serviço na unidade de
+lotação em que será realizado o teletrabalho, ainda que descontínuo;
+e
+VIII - os agentes públicos de maior idade.
+§1º - Nas hipóteses acima o agente público deverá apresentar, no
+momento da indicação ou inscrição, os documentos necessários à
+comprovação da condição.
+§2º - As condições previstas nos incisos I e II serão analisadas pelo
+órgão de saúde responsável.
+§3° - Na hipótese de opção pelo regime de revezamento previsto no
+§4º do artigo 9°, e desde que atendidos os requisitos dispostos no
+artigo 10, a Chefia Imediata de cada unidade poderá organizar es-
+calas de dia ou horário de teletrabalho entre os agentes públicos in-
+teressados, sem prejuízo da qualidade do serviço prestado.
+§4º - É obrigatório o rodízio, a cada 1 (um) ano, dos agentes públicos
+em regime de teletrabalho, caso haja na unidade interessados que
+ainda não tenham sido contemplados, com exceção das hipóteses
+previstas nos incisos I a IV deste artigo.
+§5º - O agente público que estiver no gozo de licença por motivo de
+afastamento do cônjuge ou companheiro, previsto no art. 125 do De-
+creto Estadual nº 2.479/1979 ou em legislação específica, e optar pela
+realização das atividades na modalidade de teletrabalho deverá decli-
+nar da licença para voltar ao exercício efetivo do cargo.
+§6º - O agente público beneficiado por redução de carga horária pre-
+vista na Lei Estadual nº 3.807/2004 ou em legislação específica po-
+derá optar pelo teletrabalho, caso em que ficará vinculado às metas
+fixadas no Plano de Execução do Regime de Teletrabalho.
+Art. 11 - São requisitos para a participação no regime de teletraba-
+lho:
+I - apresentar solicitação formal à chefia imediata, acompanhada do
+Termo de Adesão;
+II - possuir infraestrutura tecnológica adequada para a realização do
+trabalho remoto, incluindo equipamentos, softwares e acesso à inter-
+net;
+III - demonstrar capacidade de autogestão, organização e cumprimen-
+to de prazos;
+IV - não ter sofrido penalidades disciplinares nos últimos 2 (dois)
+anos; e
+V - obter aprovação da chefia imediata e da área de gestão de pes-
+soas.
+Art. 12 - O Plano de Execução do Regime de Teletrabalho, que in-
+tegra o Anexo II desta Resolução, conterá obrigatoriamente:
+I - o detalhamento ou descrição das atividades a serem desempenha-
+das, com cronograma de metas e o prazo de execução;
+II - a periodicidade mínima para acompanhamento das metas;
+III - o prazo em que o servidor estará sujeito ao regime de teletra-
+balho, permitida a renovação condicionada à atestação, pela chefia
+imediata e a Subsecretaria, do cumprimento das metas previamente
+estabelecidas;
+IV - o Termo de Adesão ao Teletrabalho, que conterá a concordância
+do servidor ao Plano de Execução do Regime de Teletrabalho e a
+anuência a todos seus termos, cabendo-lhe cumprir com os deveres
+elencados nesta Resolução; e
+V - outras prescrições que se fizerem necessárias.
+§1° - Podem ser ajustados os termos do Plano de Execução do Re-
+gime de Teletrabalho - a exemplo da alteração de atividades e metas
+associadas a partir de acordo entre a chefia imediata e o servidor,
+observada a realização dos registros pertinentes em novo plano de
+teletrabalho a ser formalizado dentro do prazo inicialmente estipulado.
+§2° - O servidor que optar pelo retorno do trabalho presencial deverá
+formalizar pedido por escrito à chefia imediata, preferencialmente, por
+meio do e-mail institucional individual, com antecedência mínima de
+05 (cinco) dias úteis.
+Art. 13 - São passíveis de desempenho fora das dependências da
+SETD as atividades cujo desenvolvimento, contínuo ou em determi-
+nado período, demandarem maior esforço individual e menor interação
+com os outros servidores.
+Art. 14 - Os servidores em regime de teletrabalho terão sua produ-
+tividade avaliada mensalmente pela Chefia Imediata e, para manuten-
+ção deste Plano de Execução, devem apresentar incremento na pro-
+dutividade mensal.
+Art. 15 - A identificação do teletrabalho deverá ser feita na folha de
+ponto, nos dias equivalentes, assinada pelo servidor e pela chefia
+imediata.
+Art. 16 - No caso de descumprimento do prazo fixado para a rea-
+lização das tarefas, o servidor deverá prestar esclarecimento a sua
+Chefia Imediata sobre os motivos da não conclusão dos trabalhos,
+que os repassará aos Subsecretários, Chefe de Gabinete ou Secre-
+tário, conforme o caso.
+§1º - Considerados improcedentes os esclarecimentos prestados, será
+suspensa ou encerrada a participação do servidor no regime de te-
+letrabalho, podendo ser impedido de nova adesão ao regime.
+§2º - No caso de ser aceita a justificativa apresentada pelo servidor,
+poderá, a critério da chefia imediata, ser realizada nova concessão de
+prazo para a conclusão dos trabalhos.
+Art. 17 - O alcance das metas de desempenho pelos servidores em
+regime de teletrabalho equivalerá ao cumprimento da respectiva jor-
+nada de trabalho.
+CAPÍTULO III
+DEVERES DOS SERVIDORES EM REGIME DE TELETRABALHO
+Art. 18 - Constituem deveres do servidor participante do teletrabalho:
+I - possuir as estruturas física e tecnológica necessárias à realização
+do teletrabalho;
+II - assinar o Termo de Adesão para o Regime de Teletrabalho;
+III - assinar o Plano de Execução de Teletrabalho elaborado pela Che-
+fia Imediata;
+IV - cumprir, no mínimo, a meta de desempenho estipulada, mantida
+a qualidade do trabalho;
+V - desenvolver os processos administrativos de imediato e atender
+às convocações para comparecimento às dependências da SETD,
+sempre que houver necessidade;
+VI - manter telefones de contato atualizados e ativos, bem como
+acessar constantemente e dar andamento às demandas apresentadas
+ao seu correio eletrônico institucional, durante o horário de funciona-
+mento ordinário do órgão;
+VII - manter a Chefia Imediata informada, por meio de mensagem di-
+rigida à sua caixa postal de correio eletrônico, acerca da evolução do
+trabalho, bem como indicar eventual dificuldade, dúvida ou informação
+que possa atrasar ou prejudicar o seu andamento;
+VIII - registrar o trabalho desenvolvido no período em planilha própria,
+para fins de monitoramento e controle de teletrabalho;
+IX - elaborar relatório mensal, nos termos do Anexo III desta Reso-
+lução, submetendo-o para a aprovação da Chefia Imediata;
+X - estar disponível para atendimento das solicitações que lhe sejam
+requisitados o atendimento durante o horário de funcionamento ordi-
+nário do órgão, como se presencialmente estivesse;
+XI - garantir a segurança das informações e dos dados a que tiver
+acesso, sob pena de responsabilidade, observando todas as diretrizes
+trazidas pela Lei Federal nº 13.709/2018 (LGPD), o Decreto Estadual
+nº 48.891/2024 (PGPPD), as normas de classificação dos documentos
+e processos administrativos do Sistema Eletrônico de Informações do
+Rio de Janeiro (SEI-RJ), disponibilizadas para consulta por meio do
+link https://wikisei.rj.gov.br/ e seus manuais de utilização, disponíveis
+em https://portalsei.rj.gov.br/manuais; e
+XII - cumprir as normas e procedimentos da SETD.
+CAPÍTULO IV
+DEVERES DA CHEFIA IMEDIATA
+Art. 19 - À Chefia Imediata do servidor participante do teletrabalho
+cabe:
+I - organizar os processos de participação dos servidores que reali-
+zarão suas atividades em teletrabalho, observando as diretrizes, ter-
+mos e condições estabelecidos;
+II - distribuir os processos ou tarefas a serem executadas pelo ser-
+vidor em Teletrabalho;
+III - acompanhar o andamento dos trabalhos e certificar que cada ser-
+vidor em teletrabalho está efetivamente desempenhando suas ativida-
+des laborais;
+IV - avaliar o relatótio mensal de atividades dos servidores da sua
+unidade organizacional em teletrabalho, nos termos do Anexo III desta
+Resolução;
+V - informar à área setorial de gestão de pessoas os nomes dos
+agentes públicos em teletrabalho, para fins de registro em seus as-
+sentamentos funcionais;
+VI - garantir a comunicação e a integração entre os servidores em
+regime de teletrabalho e os demais membros da equipe; e
+VII - zelar pelo cumprimento das normas e procedimentos da SETD.
+CAPÍTULO V
+DOS ASPECTOS PROCEDIMENTAIS
+Art. 20 - O Termo de Adesão e o Plano de Execução do Regime de
+Teletrabalho deverão ser relacionados, pela chefia imediata, em um
+único processo SEI por requerente, e encaminhado à Coordenadoria
+Administrativa e Recursos Humanos (COOADM), para anotação nas
+fichas funcionais dos servidores participantes.
+Art. 21 - Os servidores participantes do teletrabalho, terão o registro
+de controle de frequência e assiduidade preenchido de forma simpli-
+ficada, devendo constar, na Folha de Ponto Mensal, a informação de
+“Te l e t r a b a l h o ”.
+Art. 22 - Os Relatórios de atividades deverão ser arquivados, pela
+chefia imediata, no mesmo processo SEI aberto para solicitação.
+Art. 23 - O agente público será desligado do regime de teletrabalho,
+retornando ao exercício nas dependências do órgão ou entidade, nas
+seguintes hipóteses:
+I - a pedido, mediante requerimento formal à chefia imediata, que terá
+o prazo de 15 (quinze) dias corridos contados do recebimento do re-
+querimento para providenciar seu desligamento;
+II - de ofício, por determinação motivada da chefia imediata;
+III - descumprimento parcial, se motivo justificável, das entregas e me-
+tas individuais estipuladas para cumprimento dentro do mês, caso não
+seja constatada a compensação no mês subsequente;
+
+## Pagina 29
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0032/U0039/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+IV - descumprimento total, sem motivo justificável, das entregas e me-
+tas individuais estipuladas para cumprimento dentro do mês; e
+V - vencimento do prazo de autorização para o cumprimento da jor-
+nada em regime de teletrabalho, caso não ocorra a prorrogação.
+Parágrafo Único - Da decisão que determinar o retorno de ofício do
+agente público caberá recurso sem efeito suspensivo, no prazo de 15
+(quinze) dias, ao chefe da unidade que, se não reconsiderá-la no pra-
+zo de 05 (cinco) dias, encaminhará o recurso à autoridade superior.
+Art. 24 - Nas hipóteses de desligamento do regime de teletrabalho o
+agente público deverá retornar ao trabalho presencial nos seguintes
+prazos:
+I- até o quinto dia útil do mês subsequente àquele em que tenha
+ocorrido a situação prevista nos incisos I e II do artigo antecedente;
+II - até o quinto dia útil do mês subsequente àquele em que tenha
+vencido o prazo para compensação, na situação de que trata os in-
+cisos III e IV do artigo antecedente; e
+III - no primeiro dia útil posterior ao vencimento do prazo de auto-
+rização para o cumprimento da jornada no regime de teletrabalho, na
+situação de que trata o inciso V do artigo antecedente.
+CAPÍTULO VI
+DISPOSIÇÕES FINAIS
+Art. 25 - A SETD viabilizará o acesso remoto aos servidores integran-
+tes do regime de teletrabalho e disponibilizará as funcionalidades tec-
+nológicas de competência do órgão.
+Art. 26 - A Chefia Imediata deverá providenciar a autuação de pro-
+cesso administrativo no SEI-RJ relativo à realização do teletrabalho in-
+dividualizado para cada servidor, no qual constará o termo de adesão,
+plano de trabalho, autorização, indicação dos trabalhos a serem de-
+senvolvidos, metas e relatórios devidamente preenchidos, com acom-
+panhamento até o encerramento do período de regime de teletrabalho
+concedido.
+Parágrafo Único - Não haverá prejuízo aos servidores em regimento
+de teletrabalho referente ao recebimento do vencimento e demais van-
+tagens previstas na legislação.
+Art. 27 - Esta Resolução entrará em vigor na data de sua publica-
+ção.
+Rio de Janeiro, 25 de agosto de 2025
+FERNANDO BRAGA MARTINS
+Secretário de Estado de Transformação Digital
+INSERIR IMAGEM 01,02 e 03 ABAIXO
+*Republicado por incorreção no original publicado no D.O de 27/08/2025.
+Id: 2674028
+Secretaria de Estado de
+Infraestrutura e Obras Públicas
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E OBRAS PÚBLICAS
+ATO DO SECRETÁRIO
+RESOLUÇÃO SEIOP Nº 950 DE 27 DE AGOSTO DE 2025
+DESIGNA SERVIDORES PARA O EXERCÍCIO
+DE GESTÃO E FISCALIZAÇÃO DO CONTRA-
+TO Nº 016/2025, CELEBRADO PELO ESTADO
+DO RIO DE JANEIRO, POR MEIO DA SECRE-
+TARIA DE ESTADO DE INFRAESTRUTURA E
+OBRAS PÚBLICAS - SEIOP E A EMPRESA
+MPE ENGENHARIA E SERVIÇOS S/A.
+O SECRETÁRIO DE ESTADO DE INFRAESTRUTURA E OBRAS
+PÚBLICAS, no uso das atribuições legais, tendo em vista o disposto
+no Processo nº SEI-330001/000414/2024 e,
+CONSIDERANDO o Decreto Estadual nº 48.717, de 24 de novembro
+de 2023,
+R E S O LV E :
+Art. 1º - Designar os servidores abaixo relacionados para exercer as
+funções de Gestor e Fiscais do Contrato nº 016/2025, que tem por
+objeto a CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A
+REALIZAÇÃO DOS SERVIÇOS DE RECUPERAÇÃO DOS EQUIPA-
+MENTOS ELETROMECÂNICOS PARA AS SEIS ESTAÇÕES E INS-
+TALAÇÃO DOS COMPONENTES DO SISTEMA DE TRANSPORTE
+POR CABOS PARA O TELEFÉRICO DO ALEMÃO/RJ, sob a gestão
+da Superintendência de Obras Civis e Saneamento, da Subsecretaria
+de Fiscalização de Obras, Processo Administrativo nº SEI-
+330001/000414/2024:
+- GESTOR:
+Erick Hylario Sabadin da Silva - Id Funcional: 5140891-0;
+Suplente: Igor Martins Carneiro - Id Funcional: 5143901-8.
+- FISCAIS TÉCNICOS:
+Danrlei Braga Gomes - Id Funcional: 5141795-2;
+Izadora dos Anjos Nascimento Coe - Id Funcional: 5143775-9;
+Suplente: Higor Guedes da Gama - Id Funcional: 5141190-3.
+- FISCAL ADMINISTRATIVO:
+Rejane Vasconcelos Cristino - Id Funcional: 5139453-7;
+Suplente: Maria Carolina Vila Verde - Id Funcional: 5137966-0.
+Art. 2º - Esta Resolução entrará em vigor na data da publicação, com
+efeitos a contar de 27 de agosto de 2025, revogando as disposições
+em contrário.
+Rio de Janeiro, 27 de agosto de 2025
+URUAN CINTRA DE ANDRADE
+Secretário de Estado de Infraestrutura e Obras Públicas
+Id: 2673930
+
+## Pagina 30
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0033/U0030
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+ADMINISTRAÇÃO VINCULADA
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E OBRAS PÚBLICAS
+EMPRESA DE OBRAS PÚBLICAS DO ESTADO
+DO RIO DE JANEIRO
+ATO S DO DIRETOR-PRESIDENTE
+PORTARIA EMOP Nº 1478 DE 21 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ , no uso de suas atri-
+buições legais e,
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110102433), constante do processo n° SEI-
+330003/001714/2024.
+R E S O LV E :
+Art. 1º - Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI n.º 1352 de 12 de dezembro de 2024 (89324325), publi-
+cada no DOERJ nº 232-A, pág. 1 (89503885), cuja comissão consiste
+na gestão e fiscalização do Contrato n° 0041/2024 (88688055), tendo
+por objeto a Execução dos Serviços de Reforma do Prédio Sede RIO-
+PREVIDÊNCIA, localizado na Rua da Alfandega nº 08, Centro, no
+Município do Rio de Janeiro/RJ.
+Art. 2º - Designar os servidores Marco Antônio de Vasconcelos Gon-
+çalves, ID Funcional 5119307-8 e Luiz Henrique Ferreira Borges, ID:
+5132325-7 como fiscais, em substituição aos servidores Michel Levy
+Marques da Silva, ID Funcional n° 5122189-6 e Lucas Barcelos da
+Silva, ID Funcional n° 5128170-8.
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+GESTOR DO CONTRATO:
+Rosiene da Silva de Sousa, ID Funcional n° 5148664-4;
+FISCALIZAÇÃO DO CONTRATO:
+Marco Antônio de Vasconcelos Gonçalves, ID Funcional 5119307-8;
+Luiz Henrique Ferreira Borges, ID Funcional 5132325-7.
+Art. 4º - A presente Portaria entrará em vigor na data de sua pu-
+blicação, com efeitos a contar de 01/08/2025, revogadas as disposi-
+ções em contrário.
+Rio de Janeiro, 21 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+PORTARIA EMOP Nº 1487 DE 22 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ, no uso de suas atri-
+buições legais e,
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110171220), constante do processo n° SEI-
+330003/001927/2024.
+R E S O LV E :
+Art.1º- Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI n.º 1351 de 12 de dezembro de 2024 (89322155), publi-
+cada no DOERJ nº 232, pág. 57 de 13/12/2024 (89403924)), cons-
+tante do processo n°SEI-330003/001927/2024, cuja comissão consiste
+na gestão e fiscalização do Contrato n° 052/2024 (89176698), tendo
+por objeto a Execução dos Serviços de Reforma e Restauração da
+Catedral Presbiteriana do Rio de Janeiro, localizada na Rua Silva Jar-
+dim, nº 23, no Centro do município do Rio de Janeiro-RJ.
+Art. 2º - Designar o servidor Marco Antonio de Vasconcelos Gonçal-
+ves ID Funcional n°. 5119307-8, como gestor, em substituição ao ser-
+vidor Rodrigo Goncalves Matias, ID Funcional n°: 5124607-4.
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+GESTOR DO CONTRATO:
+Marco Antônio de Vasconcelos Gonçalves, ID Funcional n° 5119307-
+8;
+FISCALIZAÇÃO DO CONTRATO:
+Leandro de Jesus Lopes de Souza, ID Funcional n°: 5136711-4
+Geraldo Luis Oliveira do Vale, ID Funcional n° 2868801-5;
+Art. 4º - A presente Portaria entrará em vigor na data de sua pu-
+blicação, com efeitos a contar de 01/07/2025, revogadas as disposi-
+ções em contrário.
+Rio de Janeiro, 22 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+PORTARIA EMOP Nº 1488 DE 22 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ, no uso de suas atri-
+buições legais, e
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110165119), constante do processo n° SEI-
+330003/002544/2024.
+R E S O LV E :
+Art. 1º - Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI nº 1420 de 27 de março de 2025 (96851868), publicada
+no DOERJ nº 057, pág.41 (96954240), constante do processo n° SEI-
+330003/002544/2024, cuja comissão consiste na gestão e fiscalização
+do Contrato n° 0004/2025 (95837600), tendo por objeto a execução
+dos serviços de reforma geral do Imóvel Rua Visconde de Marangua-
+pe/Lapa - RIOPREVIDÊNCIA, localizado na rua Visconde de Maran-
+guape nº 21 (Travessa Mosqueiro), Lapa, Rio de Janeiro-RJ.
+Art. 2º - Designar o servidor Marco Antonio de Vasconcelos Gonçal-
+ves ID Funcional n° 5119307-8, como fiscal, em substituição ao ser-
+vidor Lucas Barcelos da Silva, ID Funcional n° 5128170-8
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+G E S TO R :
+Leandro de Jesus Lopes de Souza, ID Funcional n° 5136711-4;
+FISCALIZAÇÃO:
+Marco Antonio de Vasconcelos Gonçalves ID Funcional n° 5119307-8
+Geraldo Luis Oliveira do Valle, ID Funcional n° 2868801-5
+Art. 4º - A presente Portaria entrará em vigor na data de sua pu-
+blicação, com efeitos a contar de 01/08/2025, revogadas as disposi-
+ções em contrário.
+Rio de Janeiro, 22 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+Id: 2673826
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E OBRAS PÚBLICAS
+EMPRESA DE OBRAS PÚBLICAS DO ESTADO
+DO RIO DE JANEIRO
+ATOS DO DIRETOR-PRESIDENTE
+PORTARIA EMOP Nº 1479 DE 21 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ, no uso de suas atri-
+buições legais, e
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110077201), constante do processo n° SEI-
+330003/002482/2024.
+R E S O LV E :
+Art. 1º - Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI n.º 1358 de 16 de dezembro de 2024 (89502409), publi-
+cada no DOERJ n° 236, de 19/12/2024, pág.36 (89821229), cuja co-
+missão consiste na gestão e fiscalização da contratação de empresa
+especializada no ramo de engenharia, para a execução dos serviços
+de reforma no Hotel do Povo (Edifício Pedro II - Central do Brasil),
+localizado na Praça Cristiano Otoni, s/nº - Centro, no município do Rio
+de Janeiro/RJ, referente ao contrato n° 057/2024 (89568832).
+Art. 2º - Designar os servidores Geraldo Luis Oliveira do Vale, ID
+Funcional 28668801-5 e Leandro de Jesus Lopes de Souza, ID Fun-
+cional 5136711-4, em substituição aos servidores Michel Levy Mar-
+ques da Silva, ID Funcional 5122189-6 e Lucas Barcelos da Silva ID
+Funcional 5122189-6.
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+GESTOR DO CONTRATO:
+Rosiene da Silva de Sousa, ID Funcional n° 5148664-4;
+FISCALIZAÇÃO DO CONTRATO:
+Geraldo Luis Oliveira do Vale, ID Funcional n° 2868801-5;
+Leandro de Jesus Lopes de Souza, ID Funcional n° 5136711-4.
+Art. 4º - A presente Portaria entrará em vigor na data de sua publi-
+cação, com efeitos a contar de 01/08/2025, revogadas as disposições
+em contrário.
+Rio de Janeiro, 21 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+PORTARIA EMOP Nº 1481 DE 21 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ, no uso de suas atri-
+buições legais, e
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110066009), constante do processo n° SEI-
+330003/002505/2024.
+R E S O LV E :
+Art. 1º - Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI nº 1427 de 08 de abril de 2025 (97772234), publicada no
+DOERJ n° 065, de 09/04/2025, pág.34 (97835443), cuja comissão
+consiste na gestão e fiscalização da contratação de empresa espe-
+cializada no ramo de engenharia, para a reforma e adequação das
+edificações da Rua Melo e Souza, n°141, bairro de São Cristóvão,
+município do Rio de Janeiro - RJ para implantação da Unidade DE-
+GASE Leopoldina / Anexo CGA, referente ao contrato n° 003/2025
+( 9 5 9 3 7 9 11 ) .
+Art. 2º - Designar os servidores Lillyan de Souza Nunes, ID Funcional
+5128170-8, como gestor, Edilane Rose Pereira Alcântara, ID Funcional
+5124607-4, como fiscal e Geraldo Luis Oliveira do Vale, ID Funcional
+2868801-5, como fiscal em substituição aos servidores Lucas Barcelos
+da Silva, ID Funcional 5128170-8, Rodrigo Gonçalves Matias, ID Fun-
+cional 5124607-4 e Michel Levy Marques da Silva, ID Funcional
+5122189-6.
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+GESTOR DO CONTRATO:
+Lillyan de Souza Nunes, ID Funcional n° 5128170-8;
+FISCALIZAÇÃO DO CONTRATO:
+Edilane Rose Pereira Alcântara, ID Funcional n° 5124607-4;
+Geraldo Luis Oliveira do Vale, ID Funcional n° 2868801-5.
+Art. 4º - A presente Portaria entrará em vigor na data de sua pu-
+blicação, com efeitos a contar de 01/07/2025, revogadas as disposi-
+ções em contrário.
+Rio de Janeiro, 21 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+PORTARIA EMOP Nº 1482 DE 21 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ, no uso de suas atri-
+buições legais, e
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110086578), constante do processo n° SEI-
+330003/002381/2024.
+R E S O LV E :
+Art. 1º - Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI n.º 1356 de 05 de dezembro de 2024 (89403907), publi-
+cada no DOERJ n°236, de 19/12/2024, pág.36 (89821584), constante
+do processo n°SEI-170002/002642/2022, cuja comissão consiste na
+gestão e fiscalização da contratação de empresa especializada para
+execução de serviços de reforma no Conjunto Habitacional Residen-
+cial Cidade de Deus Lote I, localizado no bairro de Jacarepaguá - Rio
+de Janeiro - RJ, referente ao contrato n° 042/2024 (89553123).
+Art. 2º - Designar os servidores Marco Antônio de Vasconcelos Gon-
+çalves, ID Funcional n° 5119307-8, como gestor, Geraldo Luis Oliveira
+do Vale, ID Funcional 28668801-5 e Luiz Henrique Ferreira Borges, ID
+Funcional n° 5132325-7, como fiscais, em substituição aos servidores
+Rodrigo Gonçalves Matias, ID Funcional n° 5124607-4, Michel Levy
+Marques da Silva, ID Funcional 5122189-6 e Lucas Barcelos da Silva
+ID Funcional 5128170-8.
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+GESTOR DO CONTRATO:
+Marco Antônio de Vasconcelos Gonçalves, ID Funcional n° 5119307-
+8;
+FISCALIZAÇÃO DO CONTRATO:
+Geraldo Luis Oliveira do Vale, ID Funcional n° 2868801-5;
+Luiz Henrique Ferreira Borges, ID Funcional n° 5132325-7.
+Art. 4º - A presente Portaria entrará em vigor na data de sua pu-
+blicação, com efeitos a contar de 01/08/2025, revogadas as disposi-
+ções em contrário.
+Rio de Janeiro, 21 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+PORTARIA EMOP Nº 1485 DE 22 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ, no uso de suas atri-
+buições legais, e
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110166713), constante do processo n° SEI-
+330030/000456/2023.
+R E S O LV E :
+Art. 1º - Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI n.º 1282 de 04 de setembro de 2024 (82458012), publi-
+cada no DOERJ n°166, de 05/09/2024, pág.91 (82566390), cuja co-
+missão consiste na gestão e fiscalização da contratação de empresa
+especializada no ramo de engenharia, para a execução dos serviços
+de reforma do Núcleo de Atendimento ao Cidadão localizado à Ave-
+nida Leopoldo Bulhões n° 952 - Manguinhos, RJ (NAC MANGUI-
+NHOS), referente ao contrato n° 024/2024 (82415516).
+Art. 2º - Designar os servidores Lillyan de Souza Nunes, ID Funcional
+n° 5128170-8 como gestor, Luiz Henrique Ferreira Borges, ID Funcio-
+nal n° 5132325-7 e Rosiene da Silva de Sousa , ID Funcional n°
+5148664-4 como fiscais, em substituição aos servidores Rosiene da
+Silva de Sousa, ID Funcional n° 5148664-4 que anteriormente era
+gestora, Rodrigo Gonçalves Matias, ID Funcional nº 5124607-4 e Lu-
+cas Barcelos da Silva ID Funcional 5122189-6.
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+GESTOR DO CONTRATO:
+Lillyan de Souza Nunes, ID Funcional n° 5128170-8;
+FISCALIZAÇÃO DO CONTRATO:
+Luiz Henrique Ferreira Borges, ID Funcional n° 5132325-7;
+Rosiene da Silva de Sousa, ID Funcional n° 5148664-4.
+Art. 4º - A presente Portaria entrará em vigor na data de sua pu-
+blicação, com efeitos a contar de 02/12/2024, revogadas as disposi-
+ções em contrário.
+Rio de Janeiro, 22 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+PORTARIA EMOP Nº 1486 DE 22 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ, no uso de suas atri-
+buições legais, e
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110173881), constante do processo n° SEI-
+170002/002642/2022.
+R E S O LV E :
+Art. 1º - Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI n.º 1355 de 13 de dezembro de 2024 (89402775), publi-
+cada no DOERJ n°236, de 19/12/2024, pág.36 (89821254), cuja co-
+missão consiste na gestão e fiscalização da contratação de empresa
+especializada para execução de serviços de reforma no Conjunto Ha-
+bitacional Residencial Cidade de Deus Lote II, localizado no bairro de
+Jacarepaguá - Rio de Janeiro - RJ, referente ao contrato n° 043/2024
+(89380622).
+
+## Pagina 31
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0033/U0031/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+Art. 2º - Designar os servidores Marco Antônio de Vasconcelos Gon-
+çalves, ID Funcional 5119307-8 como gestor, Geraldo Luis Oliveira do
+Valle, ID Funcional 2868801-5 e Luiz Henrique Ferreira Borges, ID
+Funcional 5132325-7 como fiscais, em substituição aos servidores Ro-
+drigo Gonçalves Matias, ID Funcional 5124607-4, Michel Levy Mar-
+ques da Silva, ID Funcional 5122189-6 e Lucas Barcelos da Silva ID
+Funcional 5122189-6.
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+GESTOR DO CONTRATO:
+Marco Antônio de Vasconcelos Gonçalves, ID Funcional 5119307-8;
+FISCALIZAÇÃO DO CONTRATO:
+Geraldo Luis Oliveira do Vale, ID Funcional n° 2868801-5;
+Luiz Henrique Ferreira Borges, ID Funcional n 5132325-7.
+Art. 4º - A presente Portaria entrará em vigor na data de sua pu-
+blicação, com efeitos a contar de 01/05/2025, revogadas as disposi-
+ções em contrário.
+Rio de Janeiro, 22 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+PORTARIA EMOP Nº 1489 DE 22 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ, no uso de suas atri-
+buições legais, e
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110081117), constante do processo n° SEI-
+330003/000024/2025.
+R E S O LV E :
+Art. 1º - Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI n.º 1425 de 07 de abril de 2025 (97612299), publicada no
+DOERJ n° 064, de 08/04/2025, pág.23 (97725248), cuja comissão
+consiste na gestão e fiscalização da contratação de empresa espe-
+cializada no ramo de engenharia, para a execução dos serviços de
+instalação de cobertura em pontos estratégicos de acesso ao Restau-
+rante do Povo Herbert de Souza - Betinho, localizado na Rua Barão
+de São Félix, s/n° - Centro, no município do Rio de Janeiro / RJ, re-
+ferente ao contrato n° 005/2025 (97118084).
+Art. 2º - Designar os servidores Milena Gabriely de Souza Rufino , ID
+Funcional 5132606-0 como gestora e Rosiene da Silva de Sousa, ID
+Funcional 5148664-4 que passa a ser fiscal, em substituição aos ser-
+vidores Lucas Barcelos da Silva ID Funcional 5122189-6 e Rosiene da
+Silva de Sousa, ID Funcional 5148664-4 que anteriormente era ges-
+tora.
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+GESTOR DO CONTRATO:
+Milena Gabriely de Souza Rufino, ID Funcional 5132606-0;
+FISCALIZAÇÃO DO CONTRATO:
+Geraldo Luis Oliveira do Vale, ID Funcional n° 2868801-5;
+Rosiene da Silva de Sousa, ID Funcional nº 5148664-4.
+Art. 4º - A presente Portaria entrará em vigor na data de sua pu-
+blicação, com efeitos a contar de 02/06/2025, revogadas as disposi-
+ções em contrário.
+Rio de Janeiro, 22 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+PORTARIA EMOP Nº 1490 DE 22 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ, no uso de suas atri-
+buições legais, e
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110089796), constante do processo n° SEI-
+330030/000341/2023.
+R E S O LV E :
+Art. 1º - Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI n.º 1277 de 08 de agosto de 2024 (80616578), publicada
+no DOERJ n°150, de 14/08/2024, pág.25 (80943948), cuja comissão
+consiste na gestão e fiscalização da contratação de empresa espe-
+cializada no ramo de engenharia, para a execução dos serviços de
+reforma do Centro Social Gabinal Margarida, Unidade da Fundação
+Leão XIII, localizada na Rua Daniel, 84, Conjunto Gabinal, Cidade de
+Deus, RJ, referente ao contrato n° 015/2024 (80428188).
+Art. 2º - Designar os servidores Lillyan de Souza Nunes, ID Funcional
+5128170-8 como gestor e Edilane Rose Pereira Alcântara, ID Funcio-
+nal 5124607-4 e Luiz Henrique Ferreira Borges, ID Funcional
+5132325-7 como fiscais, em substituição aos servidores Lucas Barce-
+los da Silva ID Funcional 5122189-6, Rodrigo Gonçalves Matias, ID
+Funcional 5124607-4 e Michel Levy Marques da Silva, ID Funcional
+5122189-6.
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+GESTOR DO CONTRATO:
+Lillyan de Souza Nunes, ID Funcional 5128170-8;
+FISCALIZAÇÃO DO CONTRATO:
+Edilane Rose Pereira Alcântara, ID Funcional 5124607-4;
+Luiz Henrique Ferreira Borges, ID Funcional 5132325-7.
+Art. 4º - A presente Portaria entrará em vigor na data de sua pu-
+blicação, com efeitos a contar de 02/12/2024, revogadas as disposi-
+ções em contrário.
+Rio de Janeiro, 22 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+PORTARIA EMOP Nº 1491 DE 22 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ, no uso de suas atri-
+buições legais, e
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110103303), constante do processo n° SEI-
+170002/000970/2023.
+R E S O LV E :
+Art. 1º - Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI n.º 1434 de 25 de abril de 2025 (98744558), publicada no
+DOERJ n° 075, de 29/04/2025, pág.18 (98935700), cuja comissão
+consiste na gestão e fiscalização da construção da Delegacia de
+Atendimento à Mulher - DEAM de Campo Grande, localizada na Ave-
+nida Cesário de Melo n° 4.138, no bairro de Campo Grande, na Ci-
+dade do Rio de Janeiro/RJ referente ao contrato n° 015/2023
+(59927369).
+Art. 2º - Designar os servidores Edilane Rose Pereira Alcantara Sou-
+za, ID Funcional 5124607-4, em substituição ao servidor Michel Levy
+Marques da Silva, ID Funcional 5122189-6.
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+GESTOR DO CONTRATO:
+Marco Antônio de Vasconcelos Gonçalves, Id, Funcional nº 5119307-
+8;
+FISCALIZAÇÃO:
+Luiz Henrique Ferreira Borges , Id. Funcional nº 5132325-7;
+Edilane Rose Pereira Alcantara Souza, Id Funcional n° 5124607-4.
+Art. 4º - A presente Portaria entrará em vigor na data de sua pu-
+blicação, com efeitos a contar de 01/08/2025, revogadas as disposi-
+ções em contrário.
+Rio de Janeiro, 22 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+PORTARIA EMOP Nº 1492 DE 22 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ, no uso de suas atri-
+buições legais, e
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110079932), constante do processo n° SEI-
+330003/001882/2024.
+R E S O LV E :
+Art. 1º - Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI n.º 1353 de 16 de dezembro de 2024 (89359015), publi-
+cada no DOERJ n° 232, de 13/12/2024, pág.27 (89402763), cuja co-
+missão consiste na gestão e fiscalização da contratação de empresa
+especializada no ramo de engenharia, para a execução dos serviços
+de reforma do Centro Social Pedro I da Fundação Leão XIII - Rea-
+lengo - RJ - Rua Citara, n° 138 -, Rio de Janeiro - RJ, referente ao
+contrato n° 053/2024 (89316834).
+Art. 2º - Designar a servidora Lillyan de Souza Nunes, ID Funcional
+5128170-8 como gestora, em substituição a servidora Rosiene da Sil-
+va de Sousa, ID Funcional 5148664-4.
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+GESTOR DO CONTRATO:
+Lillyan de Souza Nunes, Id. Funcional 5128170-8;
+FISCALIZAÇÃO:
+Leandro de Jesus Lopes de Souza, Id. Funcional nº 5136711-4;
+Geraldo Luis Oliveira do Vale, Id. Funcional nº 2868801-5.
+Art. 4º - A presente Portaria entrará em vigor na data de sua pu-
+blicação, com efeitos a contar de 01/07/2025, revogadas as disposi-
+ções em contrário.
+Rio de Janeiro, 22 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+PORTARIA EMOP Nº 1493 DE 22 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ, no uso de suas atri-
+buições legais, e
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110172821), constante do processo n° SEI-
+330003/001771/2024.
+R E S O LV E :
+Art. 1º - Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI n.º 1327 de 07 de novembro de 2024 (87021739), publi-
+cada no DOERJ n°211, de 08/11/2024, pág.28 (87119029), cuja co-
+missão consiste na gestão e fiscalização da contratação de empresa
+especializada no ramo de engenharia, para a execução dos serviços
+de reforma do Centro Social São Carlos, Unidade da Fundação Leão
+XIII, localizada na Rua Laurindo Rabelo n° 554 - Estácio, Rio de Ja-
+neiro, referente ao contrato n° 040/2024 (86801811).
+Art. 2º - Designar a servidora Milena Gabriely de Souza Rufino, ID
+Funcional 5132606-0 como gestora em substituição ao servidor Michel
+Levy Marques da Silva, ID Funcional 5122189-6.
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+G E S TO R :
+Milena Gabriely de Souza Rufino, Id. Funcional 5132606-0;
+FISCALIZAÇÃO:
+Leandro de Jesus Lopes de Souza, Id. Funcional nº 5136711-4
+Geraldo Luis Oliveira do Vale, Id. Funcional nº 2868801-5
+Art. 4º - A presente Portaria entrará em vigor na data de sua pu-
+blicação, com efeitos a contar de 01/06/2025, revogadas as disposi-
+ções em contrário.
+Rio de Janeiro, 22 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+PORTARIA EMOP Nº 1494 DE 22 DE AGOSTO DE 2025
+ALTERA A COMPOSIÇÃO DA COMISSÃO DE
+GESTÃO E FISCALIZAÇÃO PARA OS FINS
+QUE MENCIONA.
+O DIRETOR-PRESIDENTE DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO - EMOP-RJ , no uso de suas atri-
+buições legais, e
+CONSIDERANDO o estabelecido nos Artigos nos 213 a 216 do Re-
+gulamento de Licitações e Contrato da EMOP, a indicação do Diretor
+de Manutenção (110109705), constante do processo n° SEI-
+330003/001949/2024.
+R E S O LV E :
+Art. 1º - Alterar a composição da Comissão constituída pela Portaria
+EMOP SEI n.º 1346 de 5 de dezembro de 2024 (88770622), publi-
+cada no DOERJ nº 229, pág. 36 (89083913), cuja comissão consiste
+na gestão e fiscalização do Contrato n° 045/2024 (88686369), tendo
+por objeto a execução dos serviços de reforma e modernização da
+emergência do Hospital Central da Polícia Militar, localizado na Rua
+Estácio de Sá - nº 20 - bairro do Estácio, no município do Rio de
+Janeiro/RJ.
+Art. 2º - Designar a servidora Milena Gabriely de Souza Rufino, ID
+Funcional 5132606-0, como gestora e Geraldo Luis Oliveira do Vale,
+ID Funcional 2868801-5 e Luiz Henrique Ferreira Borges, ID:
+5132325-7, como fiscais, em substituição aos servidores Michel Levy
+Marques da Silva, ID Funcional n°: 5122189-6; Lucas Barcelos da Sil-
+va, ID Funcional n°: 5128170-8; Rodrigo Gonçalves Matias, ID Fun-
+cional n°: 5124607-4.
+Art. 3º - A Comissão em questão passa a vigorar com a seguinte
+composição:
+G E S TO R :
+Milena Gabriely de Souza Rufino, ID Funcional 5132606-0;
+FISCALIZAÇÃO:
+Geraldo Luis Oliveira do Valle, ID Funcional n° 2868801-5;
+Luiz Henrique Ferreira Borges, ID: 5132325-7.
+Art. 4º - A presente Portaria entrará em vigor na data de sua pu-
+blicação, com efeitos a contar de 01/07/2025, revogadas as disposi-
+ções em contrário.
+Rio de Janeiro, 22 de agosto de 2025
+ANDRÉ LUIS RIBEIRO BRAGA
+Diretor-Presidente
+Id: 2673741
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E OBRAS PÚBLICAS
+INSTITUTO ESTADUAL DE ENGENHARIA E ARQUITETURA
+DESPACHOS DO PRESIDENTE
+DE 22/08/2025
+PROCESSO Nº SEI-020001/004586/2025 - LUIZ PAULO VIEIRA FER-
+NANDES, Engenheiro, ID. 19327625. CONCEDO, o benefício Abono
+Permanência, tendo em vista ter reunido, de acordo com o artigo 40 §
+1º, inciso II, alínea “a” da Constituição Federal, os requisitos neces-
+sários para a sua aposentadoria a partir de 14/08/2025.
+PROCESSO Nº SEI E-17/500.127/2012 - MAURICIO BRANDÃO CAR-
+NEIRO, Engenheiro, ID. 26973812. TORNA SEM EFEITO o Despacho
+de 20/08/2012, referente à averbação dos períodos 30/03/2001 a
+05/05/2003 e de 11/07/2005 a 30/09/2008, totalizando 1.946 (um mil,
+novecentos e quarenta e seis) dias, publicado no D.O de 31/08/2012.
+Id: 2673830
+FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEM
+ATO DO PRESIDENTE
+DE 25.08.2025
+DESIGNA, a contar de 20/02/2025, os servidores: RAMON AZEVEDO
+DE MELLO , Assessor, Id. Funcional nº 5106747-1, como gestor,
+ADILSON DE JESUS OLIVEIRA , Coordenador de Materiais, Id. Fun-
+cional nº 4401564-0, LUIZ TCHANG MARQUES CAMPOS , Coorde-
+nador de Frotas e Equipamentos, Id. Funcional nº 5115154-5, como
+fiscais, e VITOR PEREIRA DE OLIVEIRA SILVA DE ASSIS , Assis-
+tente II, Id. Funcional nº 5165015-0, como fiscal substituto, instituindo
+a comissão para fins de fiscalização, referente à prestação de ser-
+viços ao objeto do Processo Administrativo nº SEI-
+330002/012738/2024, a favor da HORIZONTE 16 LOCADORA
+DE VEÍCULOS LTDA., relativo ao Contrato nº 012/2025. Processo nº
+SEI-330002/012738/2024.
+Id: 2673893
+FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEM
+DESPACHO DO PRESIDENTE
+DE 26.08.2025
+PROCESSO Nº SEI-330002/026780/2025 - AUTORIZO a Dispensa de
+Licitação visando à contratação direta da empresa ENINCENDIO SIS-
+TEMA DE PROTEÇÃO E COMBATE LTDA, referente à “AQUISIÇÃO
+DE EXTINTORES DE INCÊNDIO”, no valor de R$ 56.382,34 (cin-
+quenta e seis mil, trezentos e oitenta e dois reais e trinta e quatro
+centavos), fundamentado no art. 75, inciso II da Lei 14.133/2021.
+Id: 2673894
+Secretaria de Estado de
+Energia e Economia do Mar
+SECRETARIA DE ESTADO DE ENERGIA E ECONOMIA DO MAR,
+SUPERINTENDÊNCIA DE ADMINISTRAÇÃO E FINANÇAS
+ATO DO SUPERINTENDENTE
+PORTARIA SEENEMAR Nº 84 DE 26 DE AGOSTO CRIA COMIS-
+SÃO DE FISCALIZAÇÃO E GESTÃO PARA ACOMPANHAMENTO
+DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO
+DE VEÍCULOS QUE FAZEM ENTRE SI O ESTADO DO RIO DE JA-
+NEIRO, PELA SECRETARIA DE ESTADO DE ENERGIA E ECONO-
+MIA DO MAR - SEENEMAR E A EMPRESA CS BRASIL FROTAS
+S.A.
+O SUPERINTENDENTE DE ADMINISTRAÇÃO E FINANÇAS DA SE-
+CRETARIA DE ESTADO DE ENERGIA E ECONOMIA DO MAR, no
+uso das atribuições legais e com base na Resolução SEENEMAR nº
+21 de 21 de março de 2024, bem como no Art. 1º, V;
+
+## Pagina 32
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0033/U0032
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+CONSIDERANDO:
+- o disposto no art. 104, inciso III, da Lei nº 14.133/2021, o qual es-
+tabelece o dever-poder de a Administração Pública fiscalizar a exe-
+cução dos contratos administrativos;
+- o disposto no art. 117º da Lei nº 14.133/2021, que determina que
+a fiscalização da execução do Contrato Administrativo far-se-á por
+representantes da Administração Pública especialmente designado;
+- o disposto no Decreto nº 48.817 de 24 de Novembro de 2023;
+- o constante dos autos do processo nº SEI-480001/000628/2025
+R E S O LV E :
+Art. 1º - Cria comissão de fiscalização e acompanhamento do Con-
+trato n.º 009/2025, com objetivo de designar os servidores para as
+suas devidas competências e funções.
+Art. 2 º - A comissão será composta por servidores desta Secretaria
+que possuirão as seguintes funções:
+I - MARCELO SOARES MAGALHÃES - ID 4.377.560-8 (Gestor)
+II - PEDRO MARINHO AZEVEDO - ID 4.234.526-0 (Fiscal Titular)
+III - IGOR GOMES DA PROVIDENCIA - ID 5.160.622-4(Fiscal Titular)
+Art. 3º - Esta Portaria entrará em vigor na data de sua publicação,
+revogando as disposições contrárias.
+Rio de Janeiro, 26 de agosto de 2025
+JONAS FERREIRA GUEDES FILHO Superintendente de Administra-
+ção e Finanças
+Id: 2673635
+ADMINISTRAÇÃO VINCULADA
+AGÊNCIA REGULADORA DE ENERGIA E SANEAMENTO BÁSICO
+DO ESTADO DO RIO DE JANEIRO
+ATO DO CONSELHEIRO-PRESIDENTE
+PORTARIA AGENERSA Nº 938 DE 20 DE AGOSTO DE 2025
+DESIGNA SERVIDORES PARA COMPOR A
+COMISSÃO DE ACOMPANHAMENTO E FIS-
+CALIZAÇÃO DO CONTRATO Nº 014/2022 E
+REVOGA A PORTARIA AGENERSA Nº
+759/2022.
+O CONSELHEIRO-PRESIDENTE DA AGÊNCIA REGULADORA DE
+ENERGIA E SANEAMENTO BÁSICO DO ESTADO DO RIO DE JA-
+NEIRO - AGENERSA , no uso das atribuições legais e regimentais, e
+considerando o disposto no Processo nº SEI-220007/001286/2022;
+R E S O LV E :
+Art. 1º - Ficam designados os seguintes servidores para compor a
+Comissão de Acompanhamento e Fiscalização do Contrato nº
+014/2022, que tem como objeto a prestação de serviços de Biblioteca
+de assinatura digital para acesso ilimitado às normas da ABNT:
+I - FISCAL: Gabriela Del Carmen Sarasa Uribe - ID Funcional
+51447860
+II - FISCAL: Lia Carolina Melo da Silva - ID Funcional 51102099
+III - FISCAL: Lucas Campos Martinho de Almeida - ID Funcional
+51228475
+Art. 2º - Ficam designados os seguintes servidores, respectivamente,
+como Gestor e Gestor Substituto do contrato discriminado no artigo
+anterior:
+I - GESTOR: Wallace Almeida dos Santos - ID Funcional 41860349
+II - GESTOR SUBSTITUTO: Fernando Richard Bustamante Franco
+Ferreira - ID Funcional 51064855
+Art. 3º - Fica revogada a Portaria AGENERSA nº 759, de 05 de ou-
+tubro de 2022.
+Art. 4º - Esta Portaria entrará em vigor na data de sua publicação.
+Rio de Janeiro, 20 de agosto de 2025
+RAFAEL CARVALHO DE MENEZES
+Conselheiro-Presidente
+Id: 2673951
+AGÊNCIA REGULADORA DE ENERGIA E SANEAMENTO BÁSICO
+DO ESTADO DO RIO DE JANEIRO
+DESPACHO DO CONSELHEIRO-PRESIDENTE
+DE 26.08.2025
+PROCESSO Nº SEI-480002/006532/2025 - RATIFICO a inexigibilidade
+de licitação, em conformidade com o art. 74, inciso III, alínea "f" da
+Lei nº 14.133/2021, no valor de R$ 4.690,00 (quatro mil seiscentos e
+noventa reais), para participação no “1º Seminário de Secretariado &
+Assessoria na Administração Pública", em favor da CONSULTRE
+CONSULTORIA E TREINAMENTO LTDA / CNPJ: 36.003.671/0001-
+53.
+Id: 2674043
+AGÊNCIA REGULADORA DE ENERGIA E SANEAMENTO BÁSICO
+DO ESTADO DO RIO DE JANEIRO
+D E S PA C H O DO CONSELHO DIRETOR
+DE 21.08.2025
+PROCESSO Nº SEI-220007/002146/2023 - PRORROGAÇÃO CON-
+TRATUAL: NATURGY E MARLIM-AZUL. O CONSELHO-DIRETOR DA
+AGENERSA, no uso de suas atribuições legais e regimentais, DECI-
+DE, por unanimidade aprovar a PRORROGAÇÃO CONTRATUAL do
+Contrato de Prestação de Serviços firmado entre a Naturgy e a Mar-
+lim Azul desde a data do vencimento anterior (24/08/2025) até a pu-
+blicação de Decisão Definitiva deste Conselho Diretor no Processo
+Regulatório nº SEI-220007/002146/2023.
+Id: 2673940
+AGÊNCIA REGULADORA DE ENERGIA E SANEAMENTO BÁSICO
+DO ESTADO DO RIO DE JANEIRO
+D E S PA C H O DO CONSELHO DIRETOR
+DE 21.08.2025
+PROCESSO Nº SEI-480002/005628/2025 - CONCESSIONÁRIA RIO
+MAIS SANEAMENTO - PRORROGAÇÃO DO SISTEMA TAKE OR
+PAY. O CONSELHO-DIRETOR DA AGENERSA, no uso de suas atri-
+buições legais e regimentais, DECIDE, por unanimidade, de forma
+cautelar, em Reunião Interna, pela prorrogação do sistema Take or
+Pay em relação ao Bloco 3, da Concessionária Rio Mais Saneamento.
+Foi adotado o volume mínimo de vazão de água para o 4º ano da
+concessão, conforme estimado no respectivo EVTE. Essa situação de-
+verá perdurar até a instalação dos medidores e o funcionamento ple-
+no do CCO definitivo.
+Id: 2673941
+Secretaria de Estado da Mulher
+SECRETARIA DE ESTADO DA MULHER
+ATO DA SECRETARIA
+RESOLUÇÃO SEM Nº 65 DE 27 DE AGOSTO DE 2025
+DESIGNA COMISSÃO DE ACOMPANHAMEN-
+TO, GESTÃO E FISCALIZAÇÃO DO CONTRA-
+TO SEM Nº 010/2025, INDICA SEUS MEM-
+BROS, E DÁ OUTRAS PROVIDÊNCIAS.
+A SECRETÁRIA DE ESTADO DA SECRETARIA DA MULHER , no
+uso de suas atribuições legais, e;
+CONSIDERANDO:
+- o disposto no Decreto Estadual nº 48.817, de 24 de novembro de
+2023, que regulamenta a gestão e a fiscalização das contratações da
+Administração Pública Estadual Direta; e
+- o que consta no processo nº SEI-380001/000403/2025;
+R E S O LV E:
+Art. 1º - Instituir a Comissão de Acompanhamento, Gestão e Fisca-
+lização do Contrato SEM Nº 010/2025, no âmbito da Secretaria da
+Mulher, firmado com o INSTITUTO ÁQUILA DE GESTÃO, CNPJ sob
+o n° 14.377.211/0001-52 , composta pelas servidoras abaixo elenca-
+das:
+G E S TO R A :
+ANA CALINE BATISTA BORGES DUARTE - Id. Funcional nº
+5100482-8;
+FISCAIS:
+REBECA CRISTINA DE ALMEIDA OLIVEIRA DOS SANTOS - Id Fun-
+cional nº 5074268-0;
+ALINE BATISTA CASTRO DE MELLO - Id Funcional nº 4434139-3; e
+GESTORA E FISCAL SUBSTITUTA:
+DANIELE APARECIDA CORRÊA BRAGA RODRIGUES - Id Funcional
+nº 5090512-0.
+Art. 2º - A Comissão terá incumbência de gerir, acompanhar, contro-
+lar, fiscalizar e atestar os serviços mensalmente e apresentar relatório
+sucinto sobre a regularidade dos mesmos, em observância ao instru-
+mento contratual.
+Art. 3º - Caberá ao gestor e aos fiscais da comissão os atos con-
+cernentes ao acompanhamento da execução do contrato.
+Art. 4º - Fica estabelecido que em hipótese de exoneração de um
+dos integrantes da Comissão de Fiscalização, deverá de imediato, a
+Comissão, informar o desligamento do servidor e, consequentemente,
+indicar novo servidor para substituição.
+Art. 5º - Esta Resolução entra em vigor na data de sua publicação.
+Rio de Janeiro, 27 de agosto de 2025
+HELOÍSA AGUIAR
+Secretária de Estado da Mulher
+Id: 2674033
+Secretaria de Estado de Defesa do Consumidor
+ADMINISTRAÇÃO VINCULADA
+AUTARQUIA DE PROTEÇÃO E DEFESA DO CONSUMIDOR
+DO ESTADO DO RIO DE JANEIRO
+D E S PA C H O S DE PRIMEIRA INSTÂNCIA
+ADMINISTRATIVA JULGADORA
+DE 15/05/2025
+PROCESSO SEI-240002/003437/2024 - DISTRIBUIDORA S J PRO-
+DUTOS DE LIMPEZA LTDA - FERNANDO MOREIRA DRUMMOND
+TEIXEIRA, OAB/MG N° 108.112
+PROCESSO SEI-240002/003692/2023 - FC ASSESSORIA LTDA -
+Eduardo Damião Gonçalves, OAB/SP N° 132.234.
+PROCESSO SEI-240002/002939/2023 - DECOLAR. COM LTDA. - DA-
+NIEL BATTIPAGLIA SGAI, OAB/SP N° 214.918
+NOTIFICO as empresas supracitadas para, no prazo de 15 (quinze)
+dias, contados a partir da presente publicação, para apresentar RE-
+CURSO contra a decisão de primeira instância que impôs a sanção
+de multa no processo administrativo à epígrafe, na forma do artigo 30
+da Lei Estadual nº.: 6.007 / 2011; OU, em não desejando recorrer,
+deverá o fornecedor efetuar o pagamento do valor da multa em 30
+(trinta) dias corridos, também contados a partir da presente publica-
+ção, sob pena de elaboração da nota de débito e consequente ins-
+crição do débito em Dívida Ativa do Estado do RJ, consoante o dis-
+posto no artigo 45 da Lei Estadual nº.: 6.007 / 2011. As empresas
+que tiverem procuradores citados deverão renovar a habilitação nos
+autos dos respectivos processos, apresentando documentação com
+prazo de validade vigente, autenticadas e com assinaturas digitais
+com a devida certificação digital reconhecida pelo ICP-BRASIL. Tendo
+em vista a tramitação eletrônica do processo, o acesso aos autos ou
+eventuais peticionamentos deverão ser realizados através da platafor-
+ma https://portalsei.rj.gov.br/
+Id: 2674045
+Secretaria de Estado de Segurança Pública
+SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA
+ATO DO SECRETÁRIO
+DE 26/08/2025
+EXONERA, com validade a contar de 25 de agosto de 2025, FA B I O
+VENTURA GUEDES , ID Funcional nº 2494996-5, do cargo em comis-
+são de Assistente III, símbolo DAI-4, na Assessoria de Segurança do
+Gabinete da Secretaria de Estado de Segurança Pública. Processo n°
+SEI-090001/001584/2025.
+Id: 2673904
+ADMINISTRAÇÃO VINCULADA
+SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA
+INSTITUTO DE SEGURANÇA PÚBLICA
+PORTARIA ISP SEI N° 174, DE 25 DE AGOSTO DE 2025
+DELEGA COMPETÊNCIA PARA PRATICAR ATOS DE GESTÃO
+ORÇAMENTÁRIA E FINANCEIRA NO ÂMBITO DO INSTITUTO DE
+SEGURANÇA PÚBLICA - RIOSEGURANÇA E DÁ OUTRAS PROVI-
+DÊNCIAS.
+A DIRETORA-PRESIDENTE DO INSTITUTO DE SEGURANÇA PÚ-
+BLICA - RIOSEGURANÇA, no uso das atribuições que lhe con-
+fere o disposto no inciso IX, e no § 1º, do artigo 82, da Lei Es-
+tadual nº 287/79, de 04.12.79 (Código de Administração Financei-
+ra e Tributária do Estado do Rio de Janeiro) e tendo em vista o
+que consta do Processo nº SEI-160183/000014/2020,
+R E S O LV E :
+Art. 1º - Delegar a competência prevista no § 1º, do artigo 82,
+da Lei Estadual nº 287, de 04/12/1979, à Gerente de Logística do
+Instituto de Segurança Pública, THAIS LUCIEN COSTA PEREIRA
+SABINO ANTÔNIO DO NASCIMENTO, ID Funcional nº 4270689-0,
+para praticar, na qualidade de Ordenadora de Despesas, nos ter-
+mos da legislação vigente, atos de gestão orçamentária e finan-
+ceira, no âmbito do Instituto de Segurança Pública - RIOSEGU-
+RANÇA, tais como:
+I - Autorizar despesas bem como a emissão e a assinatura das
+respectivas Notas de Autorização de Despesa e emissão de No-
+tas de Empenho;
+II - Autorizar abertura, aprovação, adjudicação, homologação, re-
+vogação, anulação, dispensa e inexigibilidade de licitação, assim
+como a aceitação de objeto de contrato;
+III - assinar acordos, convênios e contratos, termos aditivos, ter-
+mos de ajuste, termos de reconhecimento de dívida, bem como
+aplicar as penalidades pecuniárias previstas em lei, quando se
+verificar o descumprimento de obrigação contratual, inclusive
+quanto à inobservância do decurso de prazo nos casos de for-
+necimento de materiais, prestação de serviços ou execução de
+obras;
+IV - Autorizar, isoladamente, a movimentação de recursos finan-
+ceiros, os pagamentos de despesas orçamentárias, a emissão de
+ordens bancárias e de ordens de pagamento, e assinar, isolada-
+mente, cheques nominativos de todas as contas bancárias exis-
+tentes em nome do Instituto de Segurança Pública - RIOSEGU-
+RANÇA, inclusive oriundas de convênios celebrados por esta
+Autarquia, nos termos da Lei Estadual nº 287/79;
+V - Autorizar as despesas referentes a diárias, passagens e
+aquelas realizadas sob a forma de adiantamento; e
+VI - Aprovar as prestações de contas referentes às despesas au-
+torizadas apontadas no inciso anterior, desde que apresentadas
+na forma da legislação em vigor, ou impugná-las, se for o caso.
+Art. 2º - Dê-se conhecimento imediato da presente Portaria, ao
+Tribunal de Contas do Estado e à Secretaria de Estado de Fa-
+zenda, nos termos do parágrafo único do artigo 289, da Lei Es-
+tadual nº 287/79.
+Art. 3º - Esta Portaria entra em vigor a contar de 19 de fevereiro
+de 2025, data em que passou a vigorar a nomeação da Diretora
+Administrativo-Financeira, revogadas as disposições em contrá-
+rio.
+MARCELA ORTIZ QUINTAIROS JORGE
+DIRETORA-PRESIDENTE DO INSTITUTO DE SEGURANÇA PÚBLI-
+CA
+Id: 2673642
+Procuradoria Geral do Estado
+PROCURADORIA GERAL DO ESTADO
+SECRETARIA DE GESTÃO
+DESPACHO DO SUB-PROCURADOR GERAL
+DE 27/08/2025
+PROC. Nº SEI-14/001/001292/2019 .
+DEFIRO.
+Id: 2674051
+PROCURADORIA GERAL DO ESTADO
+SECRETARIA DE GESTÃO
+D E S PA C H O S DO PROCURADOR-ASSISTENTE
+DE 19/08/2025.
+PROC. Nº SEI-140001/047961/2021, PROC. Nº SEI-
+14/001/000767/2019, PROC. Nº SEI-140001/049964/2022,
+PROC. Nº SEI-14/001/028737/2019, PROC. Nº SEI-
+140001/003641/2024, PROC. Nº SEI-14/001/000658/2019,
+PROC. Nº SEI-140001/017713/2020, PROC. Nº SEI-
+140001/024013/2020, PROC. Nº SEI-140001/007663/2023,
+PROC. Nº E-14/0000020288/2008, PROC. Nº SEI-
+14/001/001288/2019, PROC. Nº SEI-14/001/002343/2019,
+PROC. Nº SEI-140001/046598/2020, PROC. Nº SEI-
+14/001/001114/2018, PROC. Nº SEI-14/001/039803/2019,
+PROC. Nº SEI-14/001/001097/2019, PROC. Nº SEI-
+14/001/001100/2018, PROC. Nº SEI-14/001/002012/2019,
+PROC. Nº SEI-14/001/038109/2019, PROC. Nº SEI-
+14/001/001306/2019, PROC. Nº SEI-14/001/012703/2019,
+PROC. Nº SEI-14/001/000423/2019, PROC. Nº SEI-
+14/001/001096/2019, PROC. Nº SEI-14/001/000324/2019,
+PROC. Nº SEI-14/001/012205/2019, PROC. Nº SEI-
+14/001/001296/2019, PROC. Nº SEI-14/001/001281/2019,
+PROC. Nº SEI-14/001/000712/2019, PROC. Nº SEI-
+14/001/001455/2019, PROC. Nº SEI-140001/000253/2022,
+PROC. Nº SEI-14/001/000740/2019, PROC. Nº SEI-
+140001/053165/2021, PROC. Nº SEI-14/001/001291/2019,
+PROC. Nº SEI-140001/052885/2021, PROC. Nº SEI-
+14/001/000221/2019, PROC. Nº SEI-14/001/001546/2019,
+PROC. Nº SEI-14/001/001102/2019, PROC. Nº SEI-
+14/001/004473/2019, PROC. Nº SEI-14/001/000306/2019,
+PROC. Nº SEI-14/001/001313/2019, PROC. Nº SEI-
+14/001/000328/2019, PROC. Nº SEI-14/001/008321/2019,
+PROC. Nº SEI-14/001/016326/2019, PROC. Nº SEI-
+14/001/000440/2019, PROC. Nº SEI-14/001/001110/2019,
+PROC. Nº SEI-14/001/001312/2019, PROC. Nº SEI-
+14/001/001299/2019, PROC. Nº SEI-14/001/001104/2019,
+PROC. Nº SEI-14/001/000648/2019, PROC. Nº SEI-
+140001/005090/2020, PROC. Nº SEI-140001/001575/2021,
+PROC. Nº SEI-14/001/027042/2019, PROC. Nº SEI-
+14/001/010387/2019, PROC. Nº SEI-14/001/010321/2019,
+PROC. Nº SEI-140001/042799/2020, PROC. Nº SEI-
+14/001/001289/2019, PROC. Nº SEI-14/001/001106/2019,
+oprelo.ioerj.com.br
+revistaoprelo
+
+## Pagina 33
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0033/U0033/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+PROC. Nº SEI-14/001/045289/2019, PROC. Nº SEI-
+14/001/001088/2019, PROC. Nº SEI-14/001/001311/2019,
+PROC. Nº SEI-140001/049981/2022, PROC. Nº SEI-
+140001/049965/2022, PROC. Nº SEI-14/001/004527/2019,
+PROC. Nº SEI-140001/049955/2022, PROC. Nº SEI-
+140001/049963/2022, PROC. Nº SEI-14/001/001315/2019,
+PROC. Nº SEI-14/001/001316/2019, PROC. Nº SEI-
+140001/049951/2022, PROC. Nº SEI-140001/002279/2024,
+PROC. Nº SEI-140001/049972/2022, PROC. Nº SEI-
+140001/003461/2020, PROC. Nº SEI-14/001/001300/2019,
+PROC. Nº SEI-140001/049940/2022, PROC. Nº SEI-
+140001/049987/2022, PROC. Nº SEI-140001/000062/2020,
+PROC. Nº SEI-140001/049977/2022, PROC. Nº SEI-
+140001/049959/2022, PROC. Nº SEI-140001/002387/2022,
+PROC. Nº SEI-140001/049962/2022, PROC. Nº SEI-
+14/001/001310/2019, PROC. Nº SEI-140001/011038/2022,
+PROC. Nº SEI-140001/049952/2022, PROC. Nº SEI-
+140001/012794/2022, PROC. Nº SEI-14/001/001328/2019,
+PROC. Nº SEI-14/001/001307/2019, PROC. Nº SEI-
+14/001/001309/2019, PROC. Nº SEI-140001/049970/2022,
+PROC. Nº SEI-140001/049947/2022, PROC. Nº SEI-
+140001/020225/2020, PROC. Nº SEI-140001/049935/2022,
+PROC. Nº SEI-140001/036048/2022, PROC. Nº SEI-
+140001/049967/2022, PROC. Nº SEI-14/001/024399/2019,
+PROC. Nº SEI-140001/049975/2022, PROC. Nº SEI-
+140001/009813/2020, PROC. Nº SEI-140001/049956/2022,
+PROC. Nº SEI-140001/049944/2022, PROC. Nº SEI-
+140001/049934/2022, PROC. Nº SEI-140001/040569/2020,
+PROC. Nº SEI-140001/049958/2022, PROC. Nº SEI-
+140001/041988/2022, PROC. Nº SEI-140001/049939/2022,
+PROC. Nº SEI-140001/049957/2022, PROC. Nº SEI-
+140001/005526/2022, PROC. Nº SEI-140001/045383/2025
+PROC. Nº SEI-140001/054452/2021, PROC. Nº SEI-
+140001/008975/2023, PROC. Nº E-14/0000012586/2009,
+PROC. Nº SEI-140001/007997/2023, PROC. Nº SEI-
+140001/008944/2023, PROC. Nº SEI-14/001/001305/2019,
+PROC. Nº SEI-140001/017376/2021, PROC. Nº SEI-
+140001/007686/2023, PROC. Nº SEI-140001/008201/2023,
+PROC. Nº E-14/001.018860/2018, PROC. Nº SEI-14/001/001318/2019,
+PROC. Nº SEI-140001/008248/2023,
+PROC. Nº SEI-14/001/000578/2019, PROC. Nº SEI-
+140001/054465/2021, PROC. Nº E-14/001.029353/2017,
+PROC. Nº SEI-14/001/000704/2019, PROC. Nº E-14/001.005562/2017,
+PROC. Nº SEI-140001/008946/2023,
+PROC. Nº E-14/001883/2011, PROC. Nº SEI-140001/008292/2024,
+PROC. Nº SEI-14/001/001297/2019,
+PROC. Nº SEI-140001/049982/2022, PROC. Nº SEI-
+140001/049985/2022, PROC. Nº SEI-140001/049937/2022,
+PROC. Nº SEI-14/001/002354/2019, PROC. Nº SEI-
+140001/037313/2022, PROC. Nº SEI-14/001/010724/2019,
+PROC. Nº SEI-140001/038457/2024, PROC. Nº SEI-
+14/001/002702/2019, PROC. Nº SEI-140001/038452/2024,
+PROC. Nº SEI-14/001/002014/2019, PROC. Nº SEI-
+140001/038458/2024, PROC. Nº SEI-140001/038445/2024,
+PROC. Nº SEI-140001/005461/2020, PROC. Nº SEI-
+140001/003678/2024, PROC. Nº SEI-14/001/001095/2019,
+PROC. Nº E-14/001.043814/2016, PROC. Nº SEI-
+140001/038451/2024, PROC. Nº SEI-140001/082733/2024,
+PROC. Nº SEI-140001/003713/2024, PROC. Nº SEI-
+140001/003706/2024, PROC. Nº SEI-140001/049966/2022,
+PROC. Nº SEI-140001/005318/2024, PROC. Nº SEI-
+140001/052437/2022, PROC. Nº SEI-140001/052448/2022,
+PROC. Nº SEI-140001/049984/2022, PROC. Nº SEI-
+140001/003611/2024, PROC. Nº SEI-140001/082747/2024,
+PROC. Nº SEI-140001/049953/2022, PROC. Nº SEI-
+140001/002203/2025, PROC. Nº SEI-140001/003712/2020,
+PROC. Nº SEI-140001/001876/2025, PROC. Nº SEI-
+140001/048660/2025, PROC. Nº SEI-140001/047907/2025,
+PROC. Nº SEI-140001/044055/2025, PROC. Nº SEI-
+140001/044953/2025, PROC. Nº SEI-140001/045019/2025,
+PROC. Nº SEI-140001/047976/2025, PROC. Nº SEI-
+140001/047662/2025, PROC. Nº SEI-140001/044738/2025,
+PROC. Nº SEI-140001/044987/2025, PROC. Nº SEI-
+140001/046951/2025, PROC. Nº SEI-140001/047742/2025,
+PROC. Nº SEI-140001/046793/2025, PROC. Nº SEI-
+140001/047316/2025, PROC. Nº SEI-140001/047938/2025,
+PROC. Nº SEI-140001/048758/2022, PROC. Nº SEI-
+140001/044907/2025, PROC. Nº SEI-140001/046987/2025,
+PROC. Nº SEI-140001/048186/2025, PROC. Nº SEI-
+140001/046760/2025, PROC. Nº SEI-140001/046840/2025,
+PROC. Nº SEI-140001/047756/2025, PROC. Nº SEI-
+140001/057302/2025, PROC. Nº SEI-140001/043207/2025,
+PROC. Nº SEI-140001/047292/2025, PROC. Nº SEI-
+140001/043993/2025, PROC. Nº SEI-140001/044205/2025,
+PROC. Nº SEI-140001/045374/2025, PROC. Nº SEI-
+140001/013031/2023, PROC. Nº SEI-140001/008265/2024,
+PROC. Nº SEI-140001/045382/2025, PROC. Nº SEI-
+14/001/002013/2019, PROC. Nº SEI-140001/049722/2025,
+PROC. Nº SEI-140001/045376/2025, PROC. Nº SEI-
+140001/007999/2023, PROC. Nº SEI-140001/082924/2024,
+PROC. Nº SEI-140001/045380/2025, PROC. Nº SEI-
+140001/052457/2022, PROC. Nº SEI-140001/052466/2022,
+PROC. Nº SEI-140001/052445/2022.
+DEFIRO.
+Id: 2674030
+PROCURADORIA GERAL DO ESTADO
+SECRETARIA DE GESTÃO
+RETIFICAÇÃO
+D.O. DE 20.08.2025
+PÁGINA 93- 2ª COLUNA
+DESPACHO DO PROCURADOR-ASSISTENTE
+DE 27.08.2025
+Proc. nº SEI-140001/006220/2022
+onde se lê ...
+DESPACHO DO PROCURADOR-ASSISTENTE
+DE 07.08.2025
+leia-se: ...
+DESPACHO DO PROCURADOR-ASSISTENTE
+DE 27.08.2025
+Id: 2674050
+AVISOS, EDITAIS E
+TERMOS DE CONTRATOS
+Secretaria de Estado da Casa Civil
+SECRETARIA DE ESTADO DA CASA CIVIL
+EXTRATO DE TERMO
+I N S T R U M E N TO : Termo de Apostilamento ao Contrato SECC nº
+044/2024.
+PA R T E S :SECRETARIA DE ESTADO DA CASA CIVIL e a CS BRA-
+SIL FROTAS S.A.
+O B J E TO : Reajuste contratual com base no subitem 7.4 da Cláusula
+Sétima do Contrato.
+ÍNDICE APLICADO: IPCA - Índice Nacional de Preços ao Consumidor
+Amplo.
+INÍCIO DA APLICAÇÃO PERCENTUAL: 16/04/2025.
+PERCENTUAL DE REAJUSTE UTILIZADO: 5,477190%
+VALOR UNITÁRIO R E A J U S TA D O :R$ 2.569,32 (dois mil, quinhentos
+e sessenta e nove reais e trinta e dois centavos), modelo hatch e R$
+7.404,02 (sete mil, quatrocentos e quatro reais e dois centavos), mo-
+delo pick-up.
+DATA DA ASSINATURA: 27/08/2025.
+FUNDAMENTAÇÃO LEGAL: Art. 136, inciso I, da Lei nº.
+14.133/2021.
+PROCESSO Nº SEI-150001/010428/2024 .
+Id: 2674057
+EXTRATO DE TERMO
+I N S T R U M E N TO : Termo de Cessão de Uso de Imóvel estadual; Índice:
+110361322. PA R T E S : Estado do Rio de Janeiro e o Município de Ni-
+terói; OBJETO: Imóvel, parcela com 4.611,95 m² (área construída de
+756,84 m²), situado na Avenida Washington Luís, nº 366, Centro, Mu-
+nicípio de Niterói. Fundamento do ato: Será destinado, exclusivamen-
+te, para a continuidade da valorização cultural, econômica, social e ur-
+banística da região Central de Niterói, obrigando-se, também, o ente
+federativo a promover intervenções edilícias e instalação de equipa-
+mentos de apoio integrados às atividades do Mercado Municipal de
+Niterói. DATA DA ASSINATURA: 26 de agosto de 2025: PRAZO:2 0
+(vinte) anos. PROCESSO Nº S E I - 1 5 0 1 3 0 / 0 0 11 5 6 / 2 0 2 3 .
+Id: 2673609
+ADMINISTRAÇÃO VINCULADA
+IMPRENSA OFICIAL DO ESTADO DO RIO DE JANEIRO
+AV I S O
+PREGÃO ELETRÔNICO Nº 001/2025
+O B J E TO : Contratação de serviço, de locação sob demanda, de até
+04 (Quatro) unidades de veículos automotores 1.0 ou superiores para
+atender a categoria serviço e 01 (uma) unidade de veículo automotor
+1.4 ou superior para atender a categoria representação, todos do tipo
+sedan, com capacidade de 05 (cinco) pessoas; bicombustível (gaso-
+lina/etanol); potência de 80cv a 110cv; sem motorista, com tanque de
+combustível completo, com quilometragem livre, seguro total sem fran-
+quia, conforme especificado e qualificado no Termo de Referência
+(Anexo I) e na Proposta Detalhe (Anexo II).
+DATA: 11 / 0 9 / 2 0 2 5 .
+HORÁRIO: 10h.
+LOCAL: w w w. l i c i t a c o e s . c a i x a . g o v. b r
+PROCESSO Nº SEI-150012/000204/2025
+O Edital se encontra disponível no endereço eletrônico: www.licita-
+coes.caixa.gov.br, podendo, alternativamente, ser adquirida uma via no
+Sistema Eletrônico de Informações - SEI RJ no endereço eletrônico
+https://portalsei.rj.gov.br/ ou via impressa na COMISLIP, situada à Rua
+Professor Heitor Carrilho, nº 81, Centro, Niterói - RJ, telefone (21)
+2717-4040. Dias e Horário de funcionamento: De segunda a sexta-fei-
+ra, em dias úteis, no horário de 10 às 16 horas.
+Id: 2673990
+SECRETARIA DE ESTADO DA CASA CIVIL
+COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS
+EXTRATO DE INSTRUMENTO CONTRATUAL
+I N S T R U M E N TO : Contrato CEDAE nº 087/2025 (DJU).
+PA R T E S : A COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CE-
+DAE - e a IDESES SOCIEDADE DE ADVOGADOS.
+O B J E TO : SERVIÇO TÉCNICO DE ADVOCACIA PARA O PATROCÍ-
+NIO DE DISSÍDIO COLETIVO EM FACE DOS SINDICATOS REPRE-
+SENTANTES DOS EMPREGADOS, COM O OBJETIVO DE NEGO-
+CIAR AS CLÁUSULAS DO ACORDO COLETIVO DE TRABALHO
+2024/2025, PRINCIPALMENTE EM RELAÇÃO À CLÁUSULA DE GA-
+RANTIA DE EMPREGO.
+PRAZO: 36 (trinta e seis) meses.
+VALOR TOTAL: R$ 3.700.000,00 (três milhões e setecentos mil
+reais).
+DATA DE ASSINATURA: 22/08/2025.
+FUNDAMENTO: PROCESSO Nº SEI-150017/004484/2025 (Inexigibili-
+dade de Licitação n° 002/2025 - DJU).
+Id: 2674156
+SECRETARIA DE ESTADO DA CASA CIVIL
+COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS
+EXTRATO DE INSTRUMENTO CONTRATUAL
+I N S T R U M E N TO : Contrato CEDAE nº 122/2025 (DFI).
+PA R T E S : A COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CE-
+DAE - e a LOCADORA GRILLO E RIBEIRO LTDA.
+O B J E TO : CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA
+PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE VEÍCULOS BLINDA-
+DOS DE REPRESENTAÇÃO TIPO SUV.
+PRAZO: 24 (vinte e quatro) meses.
+VALOR TOTAL: R$ 1.776.000,00 (um milhão, setecentos e setenta e
+seis mil reais).
+DATA DE ASSINATURA: 22/08/2025.
+FUNDAMENTO: PROCESSO Nº SEI-150017/011775/2024 (Pregão
+CEDAE nº 0019/2025).
+Id: 2674157
+SECRETARIA DE ESTADO DA CASA CIVIL
+COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS
+EXTRATO DE TERMO ADITIVO
+I N S T R U M E N TO : Aditivo nº 01 ao Contrato CEDAE nº 095/2022
+(DJU).
+PA R T E S : A COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CE-
+DAE - e a BMG SEGUROS S.A.
+O B J E TO : A renovação da apólice de seguro garantia.
+PRAZO: 36 (trinta e seis) meses.
+VA L O R : R$ 10.509,01 (dez mil, quinhentos e nove reais e um cen-
+tavo).
+DATA DE ASSINATURA: 21/08/2025.
+FUNDAMENTO: PROCESSO Nº SEI-150001/018024/2022 (Pregão
+Eletrônico de Registro de Preços - PERP nº 657/2021).
+Id: 2674158
+SECRETARIA DE ESTADO DA CASA CIVIL
+COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS
+EXTRATO DE TERMO ADITIVO
+I N S T R U M E N TO : Aditivo nº 01 ao Contrato CEDAE nº 111/2023
+(DPR).
+PA R T E S : A COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CE-
+DAE - e a GLOBALMOB - SOLUÇÕES PARA MOBILIDADE S/A.
+O B J E TO : A renovação do prazo contratual.
+PRAZO: 12 (doze) meses.
+VA L O R : R$ 38.978,52 (trinta e oito mil, novecentos e setenta e oito
+reais e cinquenta e dois centavos).
+DATA DE ASSINATURA: 31/07/2025.
+FUNDAMENTO: PROCESSO Nº SEI-150001/010667/2023 (Inexigibili-
+dade de Licitação - IL n. 027/2023 (DPR)).
+Id: 2674159
+SECRETARIA DE ESTADO DA CASA CIVIL
+COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS
+EXTRATO DE TERMO ADITIVO
+I N S T R U M E N TO : Aditivo nº 04 ao Contrato CEDAE nº 056/2015
+(DP).
+PA R T E S : A COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CE-
+DAE - e o escritório de advocacia SACHA CALMON - MISABEL DER-
+ZI, CONSULTORES E ADVOGADOS.
+O B J E TO : A prorrogação do prazo contratual.
+PRAZO: 60 (sessenta) meses.
+VA L O R : Sem valor.
+DATA DE ASSINATURA: 15/08/2025.
+FUNDAMENTO: PROCESSO Nº SEI- E-17/100.354/2015 (Inexigibili-
+dade de Licitação n. 009/2015).
+Id: 2674160
+SECRETARIA DE ESTADO DA CASA CIVIL
+COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS
+EXTRATO DE TERMO ADITIVO
+I N S T R U M E N TO : Aditivo nº 04 ao Contrato CEDAE nº 085/2021
+(DJU).
+PA R T E S : A COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CE-
+DAE - e a FATOR SEGURADORA S.A.
+O B J E TO : A renovação do prazo contratual.
+PRAZO: 12 (doze) meses.
+VA L O R : R$ 597.000,00 (quinhentos e noventa e sete mil reais).
+DATA DE ASSINATURA: 22/08/2025.
+FUNDAMENTO: PROCESSO Nº SEI- E-12/800.701/2020 (Pregão Ele-
+trônico - PE nº 630/2021).
+Id: 2674161
+SECRETARIA DE ESTADO DA CASA CIVIL
+COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS
+GERÊNCIA DE LICITAÇÕES
+AV I S O
+MODALIDADE DE LICITAÇÃO: PREGÃO CEDAE N° 0047/2025
+O B J E TO : FORNECIMENTO COM INSTALAÇÃO DE NOVO SISTEMA
+DE GRADEAMENTO DE RETENÇÃO DE RESÍDUOS SÓLIDOS PA-
+RA AS ELEVATÓRIAS DO BRG (BAIXO RECALQUE DO GUANDU) E
+NBRG (NOVO BAIXO RECALQUE DO GUANDU), COMPREENDEN-
+DO ADEQUAÇÕES CIVIS NECESSÁRIAS.
+ENDEREÇO ELETRÔNICO: w w w. l i c i t a c o e s . c a i x a . g o v. b r
+PROCESSO SEI- SEI-150017/003025/2025
+A Gerência de Licitações comunica que se encontra à disposição dos
+interessados no Portal de Compras Caixa, no endereço eletrônico
+www.licitacoes.caixa.gov.br, a Errata 01 , com as alterações efetuadas
+no edital do Pregão Eletrônico em epígrafe. Comunicamos, ainda, que
+a licitação teve sua data de realização adiada para o dia 10/09/2025,
+às 11:30 horas no mesmo local anteriormente divulgado.
+Id: 2673901
+Secretaria de Estado de Governo
+SECRETARIA DE ESTADO DE GOVERNO
+EXTRATO DE INSTRUMENTO CONTRATUAL
+I N S T R U M E N TO : Contrato SEGOV Nº 011/2025
+PA R T E S : Estado do Rio de Janeiro pela Secretaria de Estado de Go-
+verno, e a empresa CS BRASIL FROTAS S/A
+O B J E TO : Prestação de serviços de empresa especializada no forne-
+cimento dos serviços de locação de veículos de serviços e de veí-
+culos de representação híbridos, sem fornecimento de condutores e
+sem fornecimento de combustíveis - item 1 da ARP SEPLAG nº
+004/2024
+VA L O R : R$ 1.849.910,40 (um milhão, oitocentos e quarenta e nove
+mil novecentos e dez reais e quarenta centavos)
+PRAZO: 36 (trinta e seis) meses, contados a partir da divulgação no
+Portal Nacional de Contratações Públicas - PNCP
+DATA DA ASSINATURA: 26/08/2025
+NOTA DE EMPENHO : 2025NE02719 / 2025NE02720
+F U N D A M E N TO : Lei nº 14.133/2021
+PROCESSO Nº SEI-420001/001606/2025
+Id: 2673670
+Secretaria de Estado de Fazenda
+SUBSECRETARIA DE RECEITA
+AUDITORIA FISCAL ESPECIALIZADA-06
+SUBSTITUIÇÃO TRIBUTÁRIA
+E D I TA L
+Em conformidade com os arts. 214, IV e 216, IV, ambos do Decreto-
+Lei nº 5/75 e, tendo em vista o processo SEI-E-04/154181/2010 , fica
+o contribuinte, abaixo citado, CONVOCADO para que, no prazo de 05
+(cinco) dias úteis, a contar do 15°dia da publicação deste, compareça
+à AFE 06, Rua Presidente Vargas nº 670, Centro, Rio de Janeiro-
+CEP: 20.071-001, para tomar conhecimento de assunto referente ao
+processo supracitado. Favor agendar pelo e-mail: ife06@fazen-
+d a . r j . g o v. b r.
+Nome: MAKADE CONFECCAO E COMERCIO DE ROUPAS LTDA
+Inscrição Estadual: 78.042.419
+CPF/CNPJ: 07.780.876/0001-47
+Endereço: Rua Visconde de Pirajá, nº550- Sala 511- Ipanema, CEP:
+22.410-003- Rio de Janeiro, RJ
+Id: 2673898
+
+## Pagina 34
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0033/U0034
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+SECRETARIA DE ESTADO DA FAZENDA
+E D I TA L
+CONCURSO PÚBLICO PARA O PROVIMENTO DE VAGAS E A
+FORMAÇÃO DE CADASTRO DE RESERVA EM CARGO EFETIVO
+DE AUDITOR FISCAL DA RECEITA ESTADUAL
+O SECRETÁRIO DE ESTADO DE FAZENDA torna público o resul-
+tado final na avaliação biopsicossocial dos candidatos que se decla-
+raram pessoa com deficiência, o resultado final no procedimento de
+verificação da condição declarada para concorrer às vagas reservadas
+aos candidatos negros e indígenas, o resultado final no procedimento
+de verificação da condição declarada dos candidatos que se decla-
+raram hipossuficientes e a convocação para a avaliação de títulos, re-
+ferentes ao concurso público para o provimento de vagas e a forma-
+ção de cadastro de reserva no cargo de Auditor Fiscal da Receita Es-
+tadual.
+1 DO RESULTADO FINAL NA AVALIAÇÃO BIOPSICOSSOCIAL
+DOS CANDIDATOS QUE SE DECLARARAM PESSOA COM DEFI-
+CIÊNCIA
+1.1 Relação final dos candidatos considerados pessoas com deficiên-
+cia na avaliação biopsicossocial, na seguinte ordem: número de ins-
+crição e nome do candidato em ordem alfabética.
+10001860, Adriana Fernandes Carneiro / 10005684, Alcinei Loreti Alei-
+xo / 10006758, Alexandre Crespo Caldas Braga / 10000865, Allan Na-
+varro Cunha / 10003722, Bruno Dias Pereira / 10007002, Carlos Gou-
+veia Riobom Neto / 10004031, Clovis Keizo Kojima / 10002902, Denis
+Paladini / 10006588, Elton da Silva Chelque / 10001765, Fagner Faria
+Fonseca / 10007425, Guilherme de Abreu Pimenta / 10006920, Lilian
+Silveira de Paula Milagres / 10002066, Luan da Silva de Souza /
+10004305, Lucas de Paiva Galvao / 10004328, Melissa Pinheiro San-
+tana / 10001531, Nycholas Trento Lessa de Castro / 10002591, Pedro
+Andre Martins Ramos / 10005751, Romulo Vittorio Benito Vitagliano /
+10004269, Tarcio Roberto Queiroz Ribeiro Costa / 10003035, Thami-
+res Nogueira de Moraes / 10006423, Vitor Felipe Pereira Pinto /
+10009254, Vitor Mendes Ribeiro / 10004727, Winstein Caldeira Mar-
+tins.
+2 DO RESULTADO FINAL NO PROCEDIMENTO DE VERIFICAÇÃO
+DA CONDIÇÃO DECLARADA PARA CONCORRER ÀS VAGAS RE-
+SERVADAS AOS CANDIDATOS NEGROS (PRETO OU PARDO) E
+INDÍGENAS
+2.1 Relação final dos candidatos considerados negros ou indígenas
+no procedimento de verificação da condição declarada, na seguinte
+ordem: número de inscrição e nome do candidato em ordem alfabé-
+tica.
+10000016, Alderio Gerarde Borges Junior / 10003114, Alessandra Ma-
+chado Ferreira / 10004295, Alexandre Carneiro Alves da Silva /
+10004770, Alexandre Dias Linhares / 10005558, Allan Rodrigo Justo
+Balbino dos Reis / 10003457, Ana Maria Torres D Almeida /
+10002552, Anderson Gerson Barboza da Silva / 10005219, Angelo Jo-
+se Morais da Silva / 10002294, Anna Cassia dos Reis da Silveira /
+10000889, Ayrton de Araujo Barbosa do Espirito Santo / 10003243,
+Bianca Sandman da Silva Segura / 10009919, Caio Marcio de Oliveira
+Fernandes / 10000332, Carlos Alberto de Mello Junior / 10006924,
+Carlos Eduardo Sudre Ferreira / 10002703, Cassio Iago Santos Ma-
+rinho / 10007414, Christian Ferreira dos Santos / 10007917, Clarissa
+Abreu Cruz / 10003293, Cristiane Santos de Oliveira Martins /
+10007469, Daniel de Sousa Matos / 10001462, Daniel Guimaraes dos
+Santos / 10006926, Daniele Nonato da Silva Paulino / 10000629, Da-
+niele Souza dos Santos / 10008926, Danilo de Andrade Fernandes /
+10003567, Davi da Silva Teixeira / 10003729, Denize Rafael da Luz /
+10004416, Diego Leopoldo dos Santos / 10004869, Eduardo Nunes
+Santos Junior / 10006588, Elton da Silva Chelque / 10004483, Erick
+Neves Barcellos / 10001214, Erika Nunes Dias / 10006270, Fabiana
+Angelica Morais Pereira / 10001304, Felipe Quirino Andre / 10000160,
+Fernando Jaoar Veloso da Silva / 10008781, Fernando Lucio da Costa
+Barros / 10003940, Frederico Daniel Junqueira Roberto / 10007946,
+Glauber Manoel Azevedo Lima / 10007349, Glauberson de Almada
+Vanderley / 10003794, Herbert Ferreira Conceicao / 10003228, Italo
+Jeronimo do Couto Lopes / 10005520, Italo Pires de Oliveira /
+10007689, Jaison Meneses da Silva / 10004473, Jean Carlos Fernan-
+des Alves / 10004149, Jefferson Emanoel Soares Gama / 10001194,
+Jhonatan Mateus Berco da Cruz Fonseca / 10004838, Joana Ferraz
+Silvares / 10003832, Joao Victor Barbosa Vieira / 10004548, Joao Vic-
+tor Bonfim de Jesus / 10003680, Jorge Roberto Silva dos Santos /
+10002779, Leonardo Luciano de Souza / 10005934, Leonardo Soares
+de Andrade Junior / 10004147, Leonardo Tiago Norato / 10000871,
+Leonardo Tomaz de Souza Neto / 10002066, Luan da Silva de Souza
+/ 10004999, Lucas da Silva Soares / 10001780, Luciano Pimentel Pi-
+nheiro / 10001746, Luiz Gustavo da Silva Palace Oliveira / 10000515,
+Marcello Silva de Paula / 10005233, Marlon Gomes da Mota /
+10000051, Matheus Bezerra Nunes / 10006428, Mendelson da Silva
+Dias / 10000194, Nathalia Cristina Dias dos Santos / 10004853, Na-
+than da Costa Fernandes / 10004634, Patricia Domingas dos Santos /
+10001240, Rafael Augusto Atanazio Goes / 10000916, Rafael Rocha
+Silva / 10007445, Raphael Campos Pereira / 10003414, Ray Fernan-
+do da Silva Andrade / 10001390, Renan Goncalves Barroso /
+10006002, Renan Lopes Pinto / 10001743, Ricardo Frederico Alves /
+10005535, Robson Luiz Vieira de Souza / 10003581, Robson Orozim-
+bo dos Santos / 10002646, Rodrigo Cardoso Paula / 10003472, Ro-
+drigo Domingos Coral / 10000570, Rodrigo Silva de Souza /
+10000848, Samuel Carpenter de Sa / 10005205, Sandro Cassiano da
+Costa / 10004488, Silas de Souza Lima / 10006008, Thiago Fernan-
+des Neves / 10002777, Thiago Silva de Britto / 10008182, Vitor Hugo
+Dantas Mariano / 10005140, Vitor Hugo Uchoa Pires Tavares /
+10000949, Walison de Jesus Pires / 10004640, Willy Pinheiro Perei-
+ra.
+3 DO RESULTADO FINAL NO PROCEDIMENTO DE VERIFICAÇÃO
+DA CONDIÇÃO DECLARADA DOS CANDIDATOS QUE SE DECLA-
+RARAM HIPOSSUFICIENTES
+3.1 Relação final dos candidatos considerados com hipossuficiência
+econômica no procedimento de verificação da condição declarada, na
+seguinte ordem: número de inscrição e nome do candidato em ordem
+alfabética.
+10000980, Cassiano de Miranda Costa / 10000814, Fernanda Wanes-
+sa Moraes de Freitas / 10000151, Jonas de Lima Dias / 10002923,
+Katia Stefani Gomes / 10004812, Quezia Calais Bernardo / 10001034,
+Rodrigo Santos Restine / 10008504, Tobias Expedito Gasparini /
+10009254, Vitor Mendes Ribeiro.
+4 DA CONVOCAÇÃO PARA A AVALIAÇÃO DE TÍTULOS
+4.1 Convocação para a avaliação de títulos, na seguinte ordem: nú-
+mero de inscrição e nome do candidato em ordem alfabética.
+10000617, Abner Santos Feu de Abreu / 10004171, Adel de Almeida
+Maffra Junior / 10001860, Adriana Fernandes Carneiro / 10001012,
+Adriano da Silva Vidal / 10000564, Adriano Lucas Machado Correa
+Schulz e Silva / 10002049, Adriel Augusto Queiroz / 10003184, Alamir
+Costa Louro / 10004412, Alan Cardoso Fernandes / 10005684, Alcinei
+Loreti Aleixo / 10000016, Alderio Gerarde Borges Junior / 10001355,
+Alessandra Inacio Garbo / 10003114, Alessandra Machado Ferreira /
+10008358, Alessandro Novaes Vilaro / 10001412, Alexandra Araujo
+Freitas da Luz Moraes / 10008030, Alexandre Atanasov Acioli /
+10004402, Alexandre Bettoni de Castilho / 10004295, Alexandre Car-
+neiro Alves da Silva / 10006758, Alexandre Crespo Caldas Braga /
+10005933, Alexandre de Castro Pereira / 10007926, Alexandre de
+Sousa Carvalho Gouveia / 10004770, Alexandre Dias Linhares /
+10003017, Alexandre Katsuo Sasaki / 10008016, Alexandre Miguel
+Veiga / 10001553, Alexandre Silva de Oliveira / 10008732, Alice Julia
+Pinto Alvan / 10001163, Aline Avelar Linhares / 10008976, Aline Bar-
+bara Scariotto / 10000613, Aline de Paula Ribeiro / 10000865, Allan
+Navarro Cunha / 10005558, Allan Rodrigo Justo Balbino dos Reis /
+10002743, Allan Santana Gracindo Marques / 10007879, Amalia Cam-
+braia Vaz de Carvalho / 10004832, Amanda Albuquerque Moraes Lo-
+pes / 10001830, Amanda de Oliveira Galvao / 10000134, Amanda
+Gouveia Folly / 10005004, Amanda Saldanha Lima / 10007720, Ana
+Carolina da Silva Santos / 10003145, Ana Carolina Lopes Bernardo /
+10004993, Ana Carolina Pereira Figueiredo de Oliveira / 10003347,
+Ana Caroline Gomes Vargas / 10000943, Ana Cristina Quaresma
+Amaral / 10003457, Ana Maria Torres D Almeida / 10000534, Ana
+Paula Villas da Silva / 10001032, Ananda Romano Neves / 10002552,
+Anderson Gerson Barboza da Silva / 10000657, Anderson Viana de
+Oliveira / 10002311, Andre Correa de Carvalho Pereira / 10001498,
+Andre Lima Lopes / 10002618, Andre Luis da Silva Barbosa Junior /
+10001080, Andre Luis Moreti Franca / 10000242, Andre Luis Nunes /
+10005511, Andre Luiz Cipriano da Conceicao / 10000939, Andre Luiz
+da Silva Coube / 10000775, Andre Luiz Vianna do Amaral Bermond
+Natal / 10003198, Andre Ribeiro Ferreira / 10002467, Andressa Silva
+Climaco das Chagas / 10005219, Angelo Jose Morais da Silva /
+10002294, Anna Cassia dos Reis da Silveira / 10003029, Annie Loui-
+ne Beserra Soares / 10001337, Antonio Eduardo Vale de Azeredo /
+10003945, Arabela de Paula Ferreira Pinto / 10002890, Ariana Andra-
+de de Almeida / 10004202, Aron Santos Mendes / 10005937, Arthur
+Antonio Barbosa Soares Junior / 10003099, Artur Chetto Lima /
+10001901, Augusto Balliana Kock / 10000040, Augusto Cesar Mazza
+Canedo dos Santos / 10000889, Ayrton de Araujo Barbosa do Espirito
+Santo / 10008200, Barbara de Oliveira Brasil Correa / 10005153, Bar-
+bara Valente Castro / 10006510, Beatriz Caluff Canto / 10003777,
+Beatriz de Moura Nogueira Oricoli / 10003129, Bernardo Cardoso
+Magdaleno / 10003367, Bianca Morcillo de Floriani Pozza / 10003243,
+Bianca Sandman da Silva Segura / 10000188, Billy Corte Imperial Be-
+ninca / 10008500, Breno Silva Satalo / 10004125, Bruna Inacio de
+Castro Gallo / 10009502, Bruna Otero Meireles / 10001073, Bruno
+Alexandre Lima / 10000021, Bruno Augusto de Castilho Guilhermino /
+10003989, Bruno da Silva Ferreira / 10007110, Bruno da Silva Lo
+Bianco / 10000621, Bruno da Silva Pires Lima / 10005505, Bruno Da-
+flon Botelho / 10003722, Bruno Dias Pereira / 10009163, Bruno Faria
+Almada / 10008144, Bruno Gomes Reis / 10000487, Bruno Graffino
+de Oliveira / 10007832, Bruno Pereira Costa / 10005293, Bruno Soa-
+res de Barros / 10000233, Caio Girao Rodrigues / 10001341, Caio
+Marcelo Porto Leal / 10009919, Caio Marcio de Oliveira Fernandes /
+10000705, Caio Moreira Michelotti / 10006217, Camila Antonieta de
+Carvalho Machado Bittencourt / 10005922, Camila Beck Pereira /
+10010207, Camila Correa de Lima Moura / 10001431, Camila de Oli-
+veira Vilaca / 10001748, Camila Rodrigues da Costa Jesus /
+10002479, Camila Santana Cunha / 10006091, Camille Asevedo Viana
+/ 10000332, Carlos Alberto de Mello Junior / 10002443, Carlos Eduar-
+do Melo Pereira / 10006924, Carlos Eduardo Sudre Ferreira /
+10004592, Carlos Filipe Ferreira de Souza / 10007002, Carlos Gou-
+veia Riobom Neto / 10002402, Carlos Henrique Rodrigues Monnerat /
+10004246, Carlos Leonardo Freitas Viveiros Franco / 10007528, Car-
+los Magno Palheta de Almeida / 10000383, Carlos Renato Brasil Ju-
+nior / 10005020, Carolina Lima Macedo de Almeida / 10002380, Ca-
+rolina Martins Feitosa / 10000386, Carolina Silva Tristao Moreira /
+10008091, Cary Wainer de Carvalho / 10000980, Cassiano de Miran-
+da Costa / 10002703, Cassio Iago Santos Marinho / 10007414, Ch-
+ristian Ferreira dos Santos / 10005115, Christian Souza de Oliveira /
+10000492, Cintia Casagrande Bocoli / 10003052, Cintia Nunes Mourao
+/ 10004227, Clarice Rangel Gomes Barcelos / 10007917, Clarissa
+Abreu Cruz / 10002164, Clayton Martins do Nascimento / 10004031,
+Clovis Keizo Kojima / 10003293, Cristiane Santos de Oliveira Martins /
+10005752, Cristiano Nogueira dos Santos / 10009986, Daniel Amaro
+de Almeida / 10001130, Daniel Borges Mariano / 10005797, Daniel
+Bruno Feitosa da Silva / 10004067, Daniel Burman / 10007469, Daniel
+de Sousa Matos / 10002481, Daniel de Souza Lucas / 10007014, Da-
+niel Francisco Pereira Ugalde / 10005313, Daniel Graziani Ferreira /
+10001462, Daniel Guimaraes dos Santos / 10000700, Daniel Kummer
+de Oliveira / 10004653, Daniel Mendonca Carvalho / 10005901, Daniel
+Monteiro Figueiredo / 10002154, Daniel Moreira Alves / 10005966, Da-
+niel Pignan da Silva / 10004925, Daniel Pires da Silva / 10002775,
+Daniel Tavares de Melo / 10004822, Daniel Torres Carvello /
+10006926, Daniele Nonato da Silva Paulino / 10000629, Daniele Sou-
+za dos Santos / 10008254, Daniele Veloso de Araujo Silva /
+10001043, Danielle da Costa Monteiro Trindade / 10008926, Danilo de
+Andrade Fernandes / 10001525, Davi da Silva Dias / 10003567, Davi
+da Silva Teixeira / 10008313, David de Freitas Ramirez / 10005013,
+David dos Santos Araujo Junior / 10008039, David Freitas de Guima-
+raes Ferraz / 10007184, David Victor de Andrade / 10000888, Dayane
+Oliveira Narciso / 10004729, Denis Alfradique Taveira da Costa /
+10002902, Denis Paladini / 10003729, Denize Rafael da Luz /
+10004900, Diana de Almeida Pinto Regalla / 10008575, Diego Costa
+Alcantara / 10004263, Diego Costa Machado / 10003160, Diego de
+Oliveira Magalhaes / 10006570, Diego Henrique Duarte Carneiro /
+10004416, Diego Leopoldo dos Santos / 10000895, Diego Machado
+Derossi / 10001075, Diego Nunes Dantas / 10000483, Diogo Camargo
+de Barcellos / 10001683, Diogo Ferreira Pires / 10001397, Diogo Gon-
+calves da Silva / 10003892, Diogo Lopes da Costa de Oliveira Dor-
+nelas / 10006011, Dominique Tito Jardim / 10006263, Douglas dos
+Reis Duarte / 10003928, Edson Henrique de Oliveira Tannus /
+10003265, Eduardo Fontenelle Carvalho Leme / 10005777, Eduardo
+Furtado Goncalves / 10004869, Eduardo Nunes Santos Junior /
+10002393, Eduardo Schimming Mariz / 10003355, Elder Rodrigo Bar-
+bosa Campos / 10005276, Eliel Cavalcanti Revelles / 10002209, Elie-
+zer Gomes do Amaral / 10004421, Elisa Paul Dala Paula / 10004664,
+Elisa Valadao Uchoa Miotti / 10006588, Elton da Silva Chelque /
+10008593, Elvis Eugenio Rocha Lima / 10000404, Emilio Cesar Weba
+Filho / 10008294, Endrizzo Galilei Carmo Braga / 10000770, Eric Ale-
+xander Oliveira Andrade / 10004483, Erick Neves Barcellos /
+10000209, Erik do Nascimento Reboucas / 10005489, Erik Oliveira
+Gameleiro / 10001214, Erika Nunes Dias / 10004655, Erika Varjao
+Santos / 10005841, Evelin dos Santos Pereira / 10006270, Fabiana
+Angelica Morais Pereira / 10003839, Fabio Cukier / 10008566, Fabio
+Dalmeida Oliveira / 10007039, Fabio de Azeredo Rodrigues /
+10000628, Fabio Marcal da Silveira / 10004922, Fabio Muniz Ribeiro /
+10000971, Fabio Pereira Uzeda / 10001517, Fabricio Alves de Souza
+Freitas Lomboni / 10004552, Fabricio de Freitas Cardim / 10001765,
+Fagner Faria Fonseca / 10000133, Fatima Aparecida de Lira /
+10007447, Fatima Rita Quelhas de Freitas Koike / 10005106, Felicio
+Carrico Dal Col / 10003483, Felipe Bezerra Barbosa / 10000545, Fe-
+lipe Campopiano Nakashima / 10002766, Felipe Daniel Cardoso /
+10004688, Felipe de Almeida Rodrigues / 10002152, Felipe de Olivei-
+ra Barbosa / 10003671, Felipe dos Santos Pereira / 10003805, Felipe
+Farias Bravo / 10004499, Felipe Leonardo Sarmento da Silva /
+10000503, Felipe Pelosi da Cruz Gouveia / 10000027, Felipe Portela
+de Lima / 10001304, Felipe Quirino Andre / 10001210, Felipe Ribeiro
+Furtado / 10001645, Felipe Silva Villarino / 10000814, Fernanda Wa-
+nessa Moraes de Freitas / 10004311, Fernando Bonfatti de Figueiredo
+/ 10006727, Fernando Gonzalez Martinez / 10000160, Fernando Jaoar
+Veloso da Silva / 10008781, Fernando Lucio da Costa Barros /
+10004294, Filipe Calheira de Oliveira / 10009413, Filipe Goncalves
+Costa / 10004899, Fillipe Rodrigues de Souza / 10006824, Flavio Gui-
+maraes Chaves / 10001747, Francielly Cristina Goncalves Barbosa /
+10006548, Francisco Jose Gomes Dantas / 10003940, Frederico Da-
+niel Junqueira Roberto / 10000101, Frederico Garcia Cavalcante /
+10003313, Frederico Guedes Macedo / 10000172, Gabriel Amorim Ca-
+margo / 10005743, Gabriel Barbosa Moreira / 10003875, Gabriel Bres-
+sane Silva / 10000424, Gabriel Diniz Tormin / 10009054, Gabriel Fer-
+nandes Santos / 10000699, Gabriel Freire Luiz / 10004658, Gabriel
+Galantini Santanna / 10003315, Gabriel Hecker Evangelho Weiss /
+10005588, Gabriel Henrique Fonseca Miranda / 10005802, Gabriel Mi-
+lanezi Amorim / 10000925, Gabriel Oliveira de Souza Vicente /
+10001899, Gabriel Paulino da Silva de Lima / 10002022, Gabriela de
+Oliveira Foly / 10000451, Gabriela Procopio Coelho / 10004060, Ge-
+nise dos Santos de Castro / 10001865, Geovana Luz Amaral /
+10003008, Giovana dos Santos Gimenes / 10002774, Gisele Vilela Al-
+meida / 10002533, Giselle Gama Torres Ferreira / 10007946, Glauber
+Manoel Azevedo Lima / 10007349, Glauberson de Almada Vanderley /
+10001426, Glaucy Dourado dos Santos / 10002201, Glecyheli da Silva
+Oliveira / 10002926, Graziela de Barros de Figueiredo / 10005888,
+Greyce Melanie de Souza Michel / 10002546, Guilherme Akio Sato /
+10001443, Guilherme Augusto Carpes / 10000008, Guilherme Branco
+Viana / 10002098, Guilherme Dal Castel de Moura / 10007425, Gui-
+lherme de Abreu Pimenta / 10003856, Guilherme Gomes Vilaca /
+10002863, Guilherme Goncalves Brito Cortes / 10004968, Guilherme
+Matheus de Oliveira Aragao / 10000410, Guilherme Pereira Tosta /
+10007176, Guilherme Pires Carneiro de Miranda / 10004247, Guilher-
+me Pontes de Miranda Soares de Souza / 10001993, Guilherme Ri-
+beiro Pecanha / 10008335, Gustavo Augusto Rabelo Fernandes /
+10000605, Gustavo Contin de Melo / 10005828, Gustavo Gurgel No-
+brega / 10006219, Gustavo Henrique Martins Vieira Pires / 10007247,
+Gustavo Rodrigues Barreira Gonzalez / 10008659, Gustavo Rodriguez
+Pecanha / 10004697, Gustavo Vasconcellos de Souza / 10002436,
+Henrique Guedes Oliveira / 10003794, Herbert Ferreira Conceicao /
+10004477, Hesdras Nogueira Almeida / 10002434, Hugo Bernardes
+Araujo / 10003390, Ian Estepha Pereira / 10000678, Ieda Polessa
+Mangiavacchi / 10004405, Igor Ferreyro Nunes da Silva / 10007902,
+Igor Xavier Marques / 10005663, Isabella Cembranelli Viana Landim /
+10000630, Isabella Salim de Carvalho / 10003228, Italo Jeronimo do
+Couto Lopes / 10005520, Italo Pires de Oliveira / 10002527, Iury An-
+tonio Ribeiro Freire de Carvalho / 10004916, Jaciaria Nicacio da Silva
+/ 10003655, Jaciel Rodrigues de Oliveira / 10009486, Jairo Gabriel
+Soares de Sousa / 10000507, Jairo Pimenta da Silva / 10007689, Jai-
+son Meneses da Silva / 10006955, Jaqueline Araujo dos Santos da
+Costa / 10002202, Jario Paiva Sanches / 10005467, Jasmin Oliveira
+Rego / 10004473, Jean Carlos Fernandes Alves / 10000648, Jean da
+Silva Toledo / 10002472, Jean Soares Dantas Miranda / 10006616,
+Jefferson Assis Alvarenga da Silva / 10004149, Jefferson Emanoel
+Soares Gama / 10006908, Jennyfer Pereira Navarro / 10001842, Jes-
+sica Maia Campos / 10003734, Jessica Mitamura Sumita / 10001552,
+Jessica Rabelo do Nascimento / 10005829, Jessica Richards Nasci-
+mento / 10008619, Jezica Cristina de Sa Sousa / 10001194, Jhonatan
+Mateus Berco da Cruz Fonseca / 10003979, Jhony Fernandes Ferreira
+/ 10004838, Joana Ferraz Silvares / 10005368, Joao Carlos Daniel
+Barros / 10004240, Joao Carlos de Medeiros Germano Marques /
+10004033, Joao Daniel Guimaraes de Oliveira / 10001635, Joao Ga-
+briel Figueiredo de Sant Anna / 10001437, Joao Gabriel Vieira Vargas
+/ 10007849, Joao Henrique Rocha Gomes / 10005244, Joao Pedro
+Carvalho de Lima / 10004226, Joao Pedro Rodrigues Gomes /
+10003832, Joao Victor Barbosa Vieira / 10004548, Joao Victor Bonfim
+de Jesus / 10004772, Joao Vitor Barbosa Tavares / 10003726, Joao
+Vitor de Aguiar Mezher / 10001250, Joao Vitor dos Santos /
+10003687, Joao Vitor Gomes Figueiredo de Souza / 10004224, Joci-
+lene Resende da Silva / 10004334, Johnes Dias / 10000151, Jonas
+de Lima Dias / 10003700, Jonatan Silva Brambilla / 10004710, Jona-
+thas Silva Rodrigues / 10004256, Jorge Rafael Mourthe Barbosa /
+10003680, Jorge Roberto Silva dos Santos / 10004291, Jose Guilher-
+me Leopoldo de Melo / 10006323, Jose Luiz de Souza / 10007992,
+Jose Ricardo Santana Rangel Lima / 10001522, Jose Ulisses Silveira
+Lira Junior / 10000920, Juarez Jorge Ferraco Junior / 10005618, Julia
+Berezovoya Assis / 10002744, Julia de Oliveira Barros / 10004121,
+Julia Feldhaus Poubel / 10007055, Julia Vieira Campos / 10004546,
+Juliana Alves da Costa Mendes / 10001762, Juliana Barboza do Nas-
+cimento / 10001413, Juliana Botelho Rodirgues Pinto Coelho /
+10003950, Juliana Goncalves Manhaes / 10006987, Juliane Guima-
+raes Gomes / 10001359, Julio Cesar Simoes Filho / 10000417, Jully
+Moreira Macedo / 10005476, Kaio de Souza Lages / 10007861, Kai-
+que Frias Fidelix / 10003504, Katia Cristine Farias Meireles /
+10001837, Katia Rios Nobrega de Mello / 10002923, Katia Stefani Go-
+mes / 10004321, Kevin Torres Ribeiro / 10003456, Kleber Miranda de
+Araujo / 10003018, Laila Rainho de Oliveira / 10001411, Lais Barbosa
+de Noronha / 10001101, Lais Faria de Oliveira / 10002701, Larissa
+Duarte Fonseca Rocha / 10003128, Lauro Perret Soares / 10005982,
+Leandro Augusto Caldeira Lourenco de Oliveira / 10003678, Leandro
+Marcio Pereira da Costa / 10000175, Leandro Prado de Andrade /
+10004520, Leandro Simoes Martins Soares / 10001945, Leonardo An-
+tonio Yamauti Cruz / 10000984, Leonardo Bitencourt Rocha /
+10000696, Leonardo Cesar de Mello Prado / 10006138, Leonardo Di-
+niz da Silva Nascimento / 10002542, Leonardo Esteves Cortes Salvio
+/ 10004264, Leonardo Lima de Oliveira / 10002779, Leonardo Luciano
+de Souza / 10001310, Leonardo Neves de Almeida / 10003072, Leo-
+nardo Silveira Carneiro da Cunha / 10005934, Leonardo Soares de
+Andrade Junior / 10004147, Leonardo Tiago Norato / 10000871, Leo-
+nardo Tomaz de Souza Neto / 10006920, Lilian Silveira de Paula Mi-
+lagres / 10002737, Lincoln Esteves dos Anjos Silva / 10008223, Livia
+Terra Povoas / 10009137, Lohanne Mariano Santana Ferreira /
+10002421, Lua Braga de Oliveira / 10002066, Luan da Silva de Souza
+/ 10002310, Luana Almeida da Silva Fidelis / 10005925, Lucas Car-
+doso Gomes D Angelo / 10004999, Lucas da Silva Soares /
+10004305, Lucas de Paiva Galvao / 10002966, Lucas Emerique Gif-
+foni / 10000230, Lucas Fernandes Aquino / 10001308, Lucas Jose
+Santos Vasconcelos / 10000212, Lucas Martins Furin / 10005808, Lu-
+cas Neves Magalhaes / 10004594, Lucas Nunes Rosa / 10006266,
+Lucas Reboucas Maia / 10005417, Lucas Texeira Facanha Mendes /
+10003862, Lucas Vicente Reis / 10004054, Luciana Fernandes da Sil-
+va / 10001780, Luciano Pimentel Pinheiro / 10003604, Luiz Augusto
+Ribeiro Menardi / 10000551, Luiz Eduardo Ribeiro Jordane /
+10000530, Luiz Flavio Mathias de Mello Moraes / 10001746, Luiz
+Gustavo da Silva Palace Oliveira / 10006749, Luiz Henrique Amorim
+de Jesus Junior / 10009093, Luiz Klinger Castilhos da Silva /
+10001488, Luiz Octavio Silva Ruas / 10006065, Luiza Carbunck Godoi
+/ 10004158, Luyper Silveira do Amaral / 10007343, Maicon Carvalho
+Maia / 10005298, Marcel Dan Bianchi / 10000077, Marcela Coelho
+Soares / 10004253, Marcela Zampari Caldas / 10008005, Marcele Ba-
+tista Azevedo / 10003727, Marcele Cambeses Martins / 10000515,
+Marcello Silva de Paula / 10007290, Marcelo Cintra Bitencourt /
+10005058, Marcelo Hissao Ekami / 10006875, Marcelo Lobo Maga-
+lhaes / 10002776, Marcelo Pessoa Constantino / 10009796, Marcelo
+Reis de Andrade / 10002248, Marcelo Tadayuki Hiranobe / 10010428,
+Marcelo Vianna Baiao / 10001578, Marcia Elizabeth Costa da Nobrega
+/ 10008973, Marcio de Barros Maia / 10002381, Marcony Vinicius Go-
+mes de Oliveira / 10001831, Marcos Norberto Lima / 10003786, Mar-
+cos Vinicius Farias Monteiro / 10005188, Marcus Gaudino Marini /
+10000099, Marcus Vinicius Cunha dos Santos / 10006662, Marcus Vi-
+nicius dos Santos / 10007405, Marcus Vinicius Pinheiro Barbosa /
+10004767, Maria Amorim Fernandes / 10000771, Maria Ines Lage Ro-
+drigues de Araujo / 10006881, Maria Izabel Ferreira Mendes /
+10002242, Maria Madalena Santos Constantin Raptopoulos /
+10006764, Mariceli da Silva Machado / 10004068, Mariel Mothe de
+Castro / 10007736, Marina Fernandes Monteiro Campos / 10008122,
+Mario Cesar Martins de Lima / 10006507, Mario da Silva Santos Neto
+/ 10002375, Maristella Ranucci Cardoso / 10006467, Marllom Iack Pe-
+res da Fonseca / 10005233, Marlon Gomes da Mota / 10002157, Mar-
+tin Melo Dias / 10005796, Mateus Carvalho de Medeiros / 10003304,
+Mateus Grossi Algayer / 10002798, Mateus Moreira Soares Sobral /
+10007054, Matheus Barbosa de Moraes / 10000841, Matheus Basilio
+Gagliano / 10000051, Matheus Bezerra Nunes / 10003565, Matheus
+da Silva Domingos / 10006303, Matheus Esteves de Sa Nogueira
+Santos / 10006438, Matheus Ribeiro Couto / 10007455, Matheus Ro-
+drigues dos Santos / 10006096, Mauricio Miranda Lobo Leite /
+10006931, Mauro Avila Brigido / 10004328, Melissa Pinheiro Santana /
+10006428, Mendelson da Silva Dias / 10005846, Mirelle Fraga Jun-
+queira de Barros / 10010417, Misael Alves do Nascimento /
+10005037, Monalisa Almeida Prado / 10004718, Murilo Silva Mencu-
+cini / 10004921, Natalia Magalhaes Costa / 10000194, Nathalia Cris-
+tina Dias dos Santos / 10004853, Nathan da Costa Fernandes /
+10006000, Nathan Fernandes de Aguiar / 10003871, Nelson Azoubel
+Ramos / 10001531, Nycholas Trento Lessa de Castro / 10003617,
+Odirley de Araujo Dias / 10002983, Olavo Barroca Neto / 10006932,
+Oscar Haruo Miyake / 10001523, Osman Junior Andrade / 10006357,
+Pablo Garcia Alves / 10002826, Pablo Shimoe Paganoto / 10004019,
+Pamella Regina Rodrigues da Silva / 10004634, Patricia Domingas
+dos Santos / 10000429, Patrick Mendes da Encarnacao / 10001592,
+Paula Kiyomi Okuro / 10003952, Paula Severo Yunes / 10000249,
+Paulo Cesar de Carvalho Monteiro / 10003823, Paulo Jose dos San-
+tos Amancio / 10005008, Paulo Meirelles Salvino / 10002591, Pedro
+Andre Martins Ramos / 10002427, Pedro Augusto Rossi de Camargo /
+10002719, Pedro Braga Rosa Demier / 10005727, Pedro Francisco
+
+## Pagina 35
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0033/U0035/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+Soares Silva / 10004963, Pedro Henrique Carvalho Ferreira /
+10004502, Pedro Henrique Gomes Coelho Marochio / 10003743, Pe-
+dro Maruo Palis / 10002610, Pedro Savary Figueiro / 10001526, Pedro
+Teixeira Ribeiro da Silva / 10008264, Phelipe Augusto Marins /
+10000983, Phyllis Chitayat Machado / 10001259, Priscila Damas Ro-
+setti Mendes / 10005643, Priscylla de Sousa Silva / 10004812, Quezia
+Calais Bernardo / 10005918, Rachel Ferreira Alexandre Luz /
+10007463, Rachel Pinheiro Taranto / 10006905, Rafael Alves de Paula
+/ 10001240, Rafael Augusto Atanazio Goes / 10006671, Rafael Au-
+gusto Masson de Matos / 10004891, Rafael de Almeida Thiengo /
+10005653, Rafael de Azevedo Rosa / 10006523, Rafael Duarte Pinto
+de Oliveira Coelho / 10001216, Rafael Eloi da Silva / 10006440, Ra-
+fael Felipe Santos Ribeiro / 10002820, Rafael Mateus Carvalho de
+Paiva / 10006952, Rafael Oliveira Monteiro / 10000916, Rafael Rocha
+Silva / 10004097, Rafael Rodrigo de Melo / 10005739, Ramon Tava-
+res Correa / 10000163, Ranniery Camilo Silva Damaciano / 10003941,
+Raphael Baptista Teixeira / 10007445, Raphael Campos Pereira /
+10001513, Raphael Carlos Ferreira do Fundo / 10004063, Raphael de
+Oliveira Soares / 10005574, Raphael Motta de Abreu / 10004950, Ra-
+quel Mayumi Kawamoto / 10001723, Raui Dantas Cavalcante Gama e
+Silva / 10005492, Raul Maroja Ferreira / 10003414, Ray Fernando da
+Silva Andrade / 10001923, Rayane Barros de Sousa / 10006509, Re-
+beca Teixeira de Carvalho / 10006849, Reginaldo Barreto Nolasco de
+Souza / 10001390, Renan Goncalves Barroso / 10006002, Renan Lo-
+pes Pinto / 10005629, Renan Menezes da Costa / 10006554, Renand
+Siqueira dos Santos / 10000840, Renata Callegaro / 10000213, Re-
+nata Miranda Gomes / 10005503, Renato de Almeida Nascimento /
+10000644, Renato de Castro Carvalho Coutinho / 10009006, Renato
+do Carmo Sampaio / 10004744, Renato Pereira de Menezes /
+10003443, Rennan Araujo Soares Costa / 10001197, Ricardo Batista
+de Santana / 10003499, Ricardo Durso Marcal / 10001743, Ricardo
+Frederico Alves / 10000028, Ricardo Gabriel Vendruscolo / 10001392,
+Ricardo Loureiro Simao / 10005623, Roberta Obregon de Melo Baena
+/ 10003130, Roberto Marinho Fernandes / 10005535, Robson Luiz
+Vieira de Souza / 10003581, Robson Orozimbo dos Santos /
+10004336, Rodolfo Duarte Alves / 10002008, Rodrigo Almeida Mon-
+nerat Lutterbach / 10006064, Rodrigo Antonio Ribeiro de Almeida /
+10002673, Rodrigo Bomfim Madeira / 10002646, Rodrigo Cardoso
+Paula / 10001434, Rodrigo Carvalho Reis / 10003541, Rodrigo Daniel
+de Paiva / 10003472, Rodrigo Domingos Coral / 10002556, Rodrigo
+Gomes Lemos / 10004392, Rodrigo Klinger de Freitas / 10000604,
+Rodrigo Panarali de Oliveira Turato / 10005929, Rodrigo Ramalho
+Cardoso / 10001034, Rodrigo Santos Restine / 10004911, Rodrigo
+Serpellone / 10000570, Rodrigo Silva de Souza / 10004427, Rodrigo
+Taborda Correa Oliveira / 10000869, Rogerio Abelha de Carvalho Ju-
+nior / 10002605, Rogerio de Oliveira Calsolari / 10007097, Romenildo
+Nascimento da Silva / 10002277, Romulo Feitosa de Almeida /
+10005894, Romulo Pereira Castro / 10005751, Romulo Vittorio Benito
+Vitagliano / 10006330, Ronald de Carvalho Mendes Junior /
+10006030, Ronan de Moraes Sousa / 10007363, Ronny Silva Bastos /
+10001733, Rosilane Aparecida Pimenta Ribeiro / 10005354, Sabrina
+de Almeida Pinto Regalla / 10001760, Sabrina Junqueira Villa Forte /
+10001071, Sabrina Oliveira Lima / 10000848, Samuel Carpenter de Sa
+/ 10005205, Sandro Cassiano da Costa / 10006811, Sandro dos San-
+tos Romualdo / 10002626, Savio Pedro Cavalcante Sousa / 10009125,
+Sebastiao Gomes da Silva Junior / 10004625, Sergio Bittencourt Ma-
+ciel Pereira / 10001877, Sergio de Oliveira Rodrigues Junior /
+10004488, Silas de Souza Lima / 10000049, Silvana Regina Narcizo
+dos Santos / 10004556, Simone Soares Ferreira / 10003527, Sofia
+Philippi Euthymiou / 10005742, Stephanie Campos Fraga / 10000627,
+Suellen Costa Wargas / 10009211, Susana de Cerqueira Lima Oka-
+saki / 10002042, Sylvia Macedo de Oliveira / 10003968, Sylvio Mau-
+ricio Oliveira Cardoso / 10004859, Taissa Kobayashi Cid Maia /
+10004269, Tarcio Roberto Queiroz Ribeiro Costa / 10003441, Tatiane
+Guimaraes dos Santos Antoniolli / 10000019, Thais Borges da Silva
+Guimaraes / 10004850, Thais Gouveia Ferreira / 10003035, Thamires
+Nogueira de Moraes / 10003051, Tharcilio Alexandre de Queiroz Fer-
+reira Neto / 10001246, Thiago Campos Monteiro / 10004778, Thiago
+Colpas Silva / 10005150, Thiago Cymbal / 10004234, Thiago dos Reis
+Martins / 10006008, Thiago Fernandes Neves / 10004230, Thiago
+Goncalves Nihari / 10006106, Thiago Maciel Badin / 10005750, Thiago
+Oliveira Lemos da Silva / 10002777, Thiago Silva de Britto /
+10002757, Tiago Panerai Pereira / 10002379, Tiago Pereira Azevedo /
+10008504, Tobias Expedito Gasparini / 10002394, Tomas Belem Pe-
+queno / 10001247, Tomas Fonseca de Mendonca / 10006487, Tulio
+Cunha Araujo Cotta / 10007948, Ulisses Ferreira de Sousa /
+10003643, Ursula Pfaltzgraff Vasquez / 10005056, Valmir Mezes Ma-
+galhaes / 10006230, Vanessa de Barros Rizzo / 10006628, Victor
+Guahy Pitombo / 10005874, Victor Leal Vitor / 10002705, Victor Silva
+Gaia / 10003491, Victor Soares Marques Ferreira / 10004053, Viktor
+Marinho Mentzingen / 10003002, Vilmar Nunes Vieira / 10000791, Vi-
+nicio da Silva Lopes Avelino / 10002637, Vinicius Carvalho Santos /
+10004272, Vinicius Teixeira de Gusmao Amorim / 10006423, Vitor Fe-
+lipe Pereira Pinto / 10008182, Vitor Hugo Dantas Mariano / 10005140,
+Vitor Hugo Uchoa Pires Tavares / 10009254, Vitor Mendes Ribeiro /
+10000246, Vitor Miniati Dolorico / 10005047, Vitor Padilha Paes /
+10010392, Vitor Tiago Bronzatto / 10005077, Vitor Vieira Petillo /
+10007040, Viviane Ferreira de Sousa Melo / 10002885, Wagner Armin
+Lima da Silva / 10000638, Wagner Senger / 10000949, Walison de
+Jesus Pires / 10000229, Wallas Eccard Salgado da Silva / 10004990,
+Walter Teixeira Ferreira de Almeida / 10000291, Washington Luiz
+Campos Roberto / 10006191, Wender Coelho de Oliveira / 10004178,
+William Pereira de Carvalho / 10004640, Willy Pinheiro Pereira /
+10004727, Winstein Caldeira Martins / 10000761, Yuri Farias da Silva
+/ 10003689, Yuri Machado Rodrigues dos Santos / 10004480, Yuri Ro-
+sendo de Miranda Siva.
+4.1.1 Convocação dos candidatos com deficiência para a avaliação
+de títulos, na seguinte ordem: número de inscrição e nome do can-
+didato em ordem alfabética.
+10001860, Adriana Fernandes Carneiro / 10005684, Alcinei Loreti Alei-
+xo / 10006758, Alexandre Crespo Caldas Braga / 10000865, Allan Na-
+varro Cunha / 10003722, Bruno Dias Pereira / 10007002, Carlos Gou-
+veia Riobom Neto / 10004031, Clovis Keizo Kojima / 10002902, Denis
+Paladini / 10006588, Elton da Silva Chelque / 10001765, Fagner Faria
+Fonseca / 10007425, Guilherme de Abreu Pimenta / 10006920, Lilian
+Silveira de Paula Milagres / 10002066, Luan da Silva de Souza /
+10004305, Lucas de Paiva Galvao / 10004328, Melissa Pinheiro San-
+tana / 10001531, Nycholas Trento Lessa de Castro / 10002591, Pedro
+Andre Martins Ramos / 10005751, Romulo Vittorio Benito Vitagliano /
+10004269, Tarcio Roberto Queiroz Ribeiro Costa / 10003035, Thami-
+res Nogueira de Moraes / 10006423, Vitor Felipe Pereira Pinto /
+10009254, Vitor Mendes Ribeiro / 10004727, Winstein Caldeira Mar-
+tins.
+4.1.2 Convocação dos candidatos negros para a avaliação de títulos,
+na seguinte ordem: número de inscrição e nome do candidato em or-
+dem alfabética.
+10000016, Alderio Gerarde Borges Junior / 10003114, Alessandra Ma-
+chado Ferreira / 10004295, Alexandre Carneiro Alves da Silva /
+10004770, Alexandre Dias Linhares / 10005558, Allan Rodrigo Justo
+Balbino dos Reis / 10003457, Ana Maria Torres D Almeida /
+10002552, Anderson Gerson Barboza da Silva / 10005219, Angelo Jo-
+se Morais da Silva / 10002294, Anna Cassia dos Reis da Silveira /
+10000889, Ayrton de Araujo Barbosa do Espirito Santo / 10003243,
+Bianca Sandman da Silva Segura / 10009919, Caio Marcio de Oliveira
+Fernandes / 10000332, Carlos Alberto de Mello Junior / 10006924,
+Carlos Eduardo Sudre Ferreira / 10002703, Cassio Iago Santos Ma-
+rinho / 10007414, Christian Ferreira dos Santos / 10007917, Clarissa
+Abreu Cruz / 10003293, Cristiane Santos de Oliveira Martins /
+10007469, Daniel de Sousa Matos / 10001462, Daniel Guimaraes dos
+Santos / 10006926, Daniele Nonato da Silva Paulino / 10000629, Da-
+niele Souza dos Santos / 10008926, Danilo de Andrade Fernandes /
+10003567, Davi da Silva Teixeira / 10003729, Denize Rafael da Luz /
+10004416, Diego Leopoldo dos Santos / 10004869, Eduardo Nunes
+Santos Junior / 10006588, Elton da Silva Chelque / 10004483, Erick
+Neves Barcellos / 10001214, Erika Nunes Dias / 10006270, Fabiana
+Angelica Morais Pereira / 10001304, Felipe Quirino Andre / 10000160,
+Fernando Jaoar Veloso da Silva / 10008781, Fernando Lucio da Costa
+Barros / 10003940, Frederico Daniel Junqueira Roberto / 10007946,
+Glauber Manoel Azevedo Lima / 10007349, Glauberson de Almada
+Vanderley / 10003794, Herbert Ferreira Conceicao / 10003228, Italo
+Jeronimo do Couto Lopes / 10005520, Italo Pires de Oliveira /
+10007689, Jaison Meneses da Silva / 10004473, Jean Carlos Fernan-
+des Alves / 10004149, Jefferson Emanoel Soares Gama / 10001194,
+Jhonatan Mateus Berco da Cruz Fonseca / 10004838, Joana Ferraz
+Silvares / 10003832, Joao Victor Barbosa Vieira / 10004548, Joao Vic-
+tor Bonfim de Jesus / 10003680, Jorge Roberto Silva dos Santos /
+10002779, Leonardo Luciano de Souza / 10005934, Leonardo Soares
+de Andrade Junior / 10004147, Leonardo Tiago Norato / 10000871,
+Leonardo Tomaz de Souza Neto / 10002066, Luan da Silva de Souza
+/ 10004999, Lucas da Silva Soares / 10001780, Luciano Pimentel Pi-
+nheiro / 10001746, Luiz Gustavo da Silva Palace Oliveira / 10000515,
+Marcello Silva de Paula / 10005233, Marlon Gomes da Mota /
+10000051, Matheus Bezerra Nunes / 10006428, Mendelson da Silva
+Dias / 10000194, Nathalia Cristina Dias dos Santos / 10004853, Na-
+than da Costa Fernandes / 10004634, Patricia Domingas dos Santos /
+10001240, Rafael Augusto Atanazio Goes / 10000916, Rafael Rocha
+Silva / 10007445, Raphael Campos Pereira / 10003414, Ray Fernando
+da Silva Andrade / 10001390, Renan Goncalves Barroso / 10006002,
+Renan Lopes Pinto / 10001743, Ricardo Frederico Alves / 10005535,
+Robson Luiz Vieira de Souza / 10003581, Robson Orozimbo dos San-
+tos / 10002646, Rodrigo Cardoso Paula / 10003472, Rodrigo Domin-
+gos Coral / 10000570, Rodrigo Silva de Souza / 10000848, Samuel
+Carpenter de Sa / 10005205, Sandro Cassiano da Costa / 10004488,
+Silas de Souza Lima / 10006008, Thiago Fernandes Neves /
+10002777, Thiago Silva de Britto / 10008182, Vitor Hugo Dantas Ma-
+riano / 10005140, Vitor Hugo Uchoa Pires Tavares / 10000949, Wa-
+lison de Jesus Pires / 10004640, Willy Pinheiro Pereira.
+4.1.3 Convocação dos candidatos hipossuficientes para a avaliação
+de títulos, na seguinte ordem: número de inscrição e nome do can-
+didato em ordem alfabética.
+10000980, Cassiano de Miranda Costa / 10000814, Fernanda Wanes-
+sa Moraes de Freitas / 10000151, Jonas de Lima Dias / 10002923,
+Katia Stefani Gomes / 10004812, Quezia Calais Bernardo / 10001034,
+Rodrigo Santos Restine / 10008504, Tobias Expedito Gasparini /
+10009254, Vitor Mendes Ribeiro.
+4.1.4 Convocação dos candidatos sub judice para a avaliação de tí-
+tulos, na seguinte ordem: número de inscrição e nome do candidato
+em ordem alfabética.
+10000523, Fernando Mattoso de Azevedo / 10008238, Raffael Capano
+de Arruda / 10006418, Renato Rage Ferro.
+5 DA AVALIAÇÃO DE TÍTULOS
+5.1 Para a avaliação de títulos, o candidato deverá observar todas as
+instruções contidas no item 10 do Edital nº 1 - SEFAZ/RJ - Auditor
+Fiscal, de 24 de janeiro de 2025, e suas alterações, e neste edital.
+5.2 Os candidatos deverão enviar, no período entre 10 horas do dia
+27 de agosto de 2025 e 18 horas do dia 28 de agosto de 2025
+(horário oficial de Brasília/DF), via upload, por meio de link específico
+no endereço eletrônico http://www.cebraspe.org.br/concursos/se-
+faz_rj_25_auditor, a imagem legível da documentação referente à ava-
+liação de títulos.
+5.2.1 O envio da documentação constante do subitem 5.2 deste edital
+é de responsabilidade exclusiva do candidato. O Cebraspe não se
+responsabiliza por qualquer tipo de problema que impeça a chegada
+dessa documentação a seu destino, seja de ordem técnica dos com-
+putadores, seja decorrente de falhas de comunicação, bem como por
+outros fatores que impossibilitem o envio. Esses documentos, que va-
+lerão somente para esse processo, não serão devolvidos nem deles
+serão fornecidas cópias.
+5.3 O candidato deverá manter aos seus cuidados a documentação
+constante do subitem 5.2 deste edital.
+5.3.1 Caso seja solicitado pelo Cebraspe, o candidato deverá enviar a
+referida documentação por meio de carta registrada, para a confirma-
+ção da veracidade das informações.
+5.4 Receberá nota zero o candidato que não enviar a documentação
+na forma e no prazo estabelecidos no edital de abertura e neste edi-
+tal.
+5.5 Não haverá segunda chamada para a realização da avaliação de
+títulos.
+5.6 Não será aceito o envio de documentação referente à avaliação
+de títulos, em hipótese alguma, fora da data e dos horários prede-
+terminados no subitem 5.2 deste edital.
+6 DAS DISPOSIÇÕES FINAIS
+6.1 As justificativas da banca para o deferimento ou indeferimento dos
+recursos interpostos contra o resultado provisório na avaliação biopsi-
+cossocial dos candidatos que se declararam pessoa com deficiência,
+no procedimento de verificação da condição declarada para concorrer
+às vagas reservadas aos candidatos negros e indígenas e no proce-
+dimento de verificação da condição declarada dos candidatos que se
+declararam hipossuficientes, estarão à disposição dos candidatos a
+partir da data provável de 2 de setembro de 2025 , no endereço ele-
+trônico http://www.cebraspe.org.br/concursos/sefaz_rj_25_auditor.
+6.1.1 O Cebraspe não arcará com prejuízos advindos de problemas
+de ordem técnica dos computadores, de falhas de comunicação, de
+congestionamento das linhas de comunicação e de outros fatores, de
+responsabilidade do candidato, que impossibilitem a visualização das
+justificativas da banca para o deferimento ou indeferimento.
+6.2 O edital de resultado provisório na avaliação de títulos será pu-
+blicado no Diário Oficial do Estado do Rio de Janeiro e divulgado na
+internet, no endereço eletrônico http://www.cebraspe.org.br/concur-
+sos/sefaz_rj_25_auditor, na data provável de 10 de setembro de
+2025.
+PROCESSO SEI-040001/000882/2024
+Id: 2673937
+SECRETARIA DE ESTADO DA FAZENDA
+E D I TA L
+CONCURSO PÚBLICO PARA O PROVIMENTO DE VAGAS E A
+FORMAÇÃO DE CADASTRO DE RESERVA EM CARGOS EFETI-
+VOS DE ANALISTA EM FINANÇAS PÚBLICAS
+O SECRETÁRIO DE ESTADO DE FAZENDA, torna público o resul-
+tado final na avaliação biopsicossocial dos candidatos que solicitaram
+concorrer na condição de pessoa com deficiência, o resultado final no
+procedimento de verificação da condição declarada para concorrer às
+vagas reservadas aos candidatos negros e indígenas, o resultado final
+no procedimento de verificação da condição declarada dos candidatos
+que se declararam hipossuficientes e a convocação para a avaliação
+de títulos, referentes ao concurso público para o provimento de vagas
+e a formação de cadastro de reserva em cargos de Analista em Fi-
+nanças Públicas.
+1 DO RESULTADO FINAL NA AVALIAÇÃO BIOPSICOSSOCIAL
+DOS CANDIDATOS QUE SOLICITARAM CONCORRER NA CONDI-
+ÇÃO DE PESSOA COM DEFICIÊNCIA
+1.1 Relação final dos candidatos considerados pessoas com deficiên-
+cia na avaliação biopsicossocial, na seguinte ordem: cargo/especiali-
+dade, número de inscrição e nome do candidato em ordem alfabé-
+tica.
+1.1.1 CARGO 1: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: ADMINISTRATIVO-FINANCEIRA
+10003793, Rafael Esteves Gomes.
+1.1.2 CARGO 2: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: CONTÁBIL-FINANCEIRA
+10000839, Fagner Faria Fonseca / 10004603, Julio Cesar Martins
+Nascimento.
+1.1.3 CARGO 3: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: ECONÔMICO-FINANCEIRA
+10003435, Nicollas Borges Geron.
+2 DO RESULTADO FINAL NO PROCEDIMENTO DE VERIFICAÇÃO
+DA CONDIÇÃO DECLARADA PARA CONCORRER ÀS VAGAS RE-
+SERVADAS AOS CANDIDATOS NEGROS (PRETO OU PARDO) E
+INDÍGENAS
+2.1 Relação final dos candidatos considerados negros ou indígenas no
+procedimento de verificação da condição declarada, na seguinte or-
+dem: cargo/especialidade, número de inscrição e nome do candidato
+em ordem alfabética.
+2.1.1 CARGO 1: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: ADMINISTRATIVO-FINANCEIRA
+10002811, Anderson Alves Pereira / 10004015, Anna Beatriz Sobral
+Pinto / 10002014, Edimilson Antonio da Silva Junior / 10000212, Fa-
+biano Oliveira de Souza / 10003860, Glaucia Maia Vieira / 10003213,
+Isaac Francisco Gomes dos Santos / 10001421, Leandro Cerqueira da
+Cruz / 10000595, Luciane Bersot Aguiar / 10001547, Raiane Silvana
+Caldas de Jesus.
+2.1.2 CARGO 2: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: CONTÁBIL-FINANCEIRA
+10000651, Alexssander Braga Gomes / 10000042, Alisson Brito San-
+tos de Souza / 10004510, Aroldo Ferreira Sol Neto / 10003339, Fabio
+Cavalheiro Oliveira / 10000630, Henrique Suathe Esteves / 10002579,
+Joao Vitor Andrade Vieira Pereira / 10000155, Nathalia dos Santos
+Peixoto / 10000203, Rodrigo Marques Teixeira / 10002916, Rogeria
+Cristina da Silva Carvalho / 10004179, Rosemberg de Oliveira Soares
+/ 10003611, Vinicius Joviano da Silva.
+2.1.3 CARGO 3: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: ECONÔMICO-FINANCEIRA
+10003608, Elisama Almeida / 10001085, Isabela Nery Lima /
+10002652, Lucas de Aguiar Morais Nascimento / 10002223, Marcela
+Pereira Mendes.
+3 DO RESULTADO FINAL NO PROCEDIMENTO DE VERIFICAÇÃO
+DA CONDIÇÃO DECLARADA DOS CANDIDATOS QUE SE DECLA-
+RARAM HIPOSSUFICIENTES
+3.1 Relação final dos candidatos considerados com hipossuficiência
+econômica no procedimento de verificação da condição declarada, na
+seguinte ordem: cargo/especialidade, número de inscrição e nome do
+candidato em ordem alfabética.
+3.1.1 CARGO 1: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: ADMINISTRATIVO-FINANCEIRA
+10001448, Samuel Silva Pereira.
+3.1.2 CARGO 3: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: ECONÔMICO-FINANCEIRA
+10000172, Paulo Jose Pedrosa Cunha Fernandes.
+4 DO RESULTADO FINAL DOS CANDIDATOS APROVADOS CON-
+FORME SUBITEM 9.9 DO EDITAL DE ABERTURA
+4.1 Resultado final dos candidatos aprovados conforme subitem 9.9
+do edital de abertura, na seguinte ordem: cargo/especialidade, número
+de inscrição e nome do candidato em ordem de classificação, nota e
+classificação final (considerando-se a soma da nota final obtida na
+prova objetiva e da nota final obtida na prova discursiva).
+4.1.1 CARGO 1: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: ADMINISTRATIVO-FINANCEIRA
+10003600, Samuel de Oliveira, 274.67, 1 / 10000827, Fernanda Valle
+Sayao, 270.67, 2 / 10002577, Graziela de Barros de Figueiredo,
+267.62, 3 / 10002920, Roberto Carlos Nascimento Lopes, 264.50, 4 /
+10002644, Jonatas Dutra Gomes, 262.19, 5 / 10002281, Glauco Costa
+Santana, 262.06, 6 / 10000945, Marcos Pontes de Miranda Pereira,
+261.07, 7 / 10003683, Marina Moreira Vicente Gomes, 261.00, 8 /
+10002060, Marcos Correa Abranches, 259.65, 9 / 10002529, Lucas
+Texeira Facanha Mendes, 257.74, 10 / 10000941, Celeste Santos
+Dias, 256.74, 11 / 10001459, Thais Leite Costa da Silva, 254.61, 12 /
+10003928, Maiane Silva de Medina Batista, 253.12, 13 / 10002055,
+Laura Guimaraes Correia Pinto, 252.75, 14 / 10001502, Marcelle Cer-
+queira de Araujo, 252.18, 15 / 10001573, Filipe Souza da Silva,
+252.00, 16 / 10001448, Samuel Silva Pereira, 251.97, 17 / 10002799,
+Ronan de Moraes Sousa, 251.73, 18 / 10002067, Mayrlon Lopes Ro-
+que, 250.75, 19 / 10000212, Fabiano Oliveira de Souza, 249.58, 20.
+4.1.1.1 Resultado final dos candidatos com deficiência , na seguinte
+ordem: número de inscrição, nome do candidato em ordem de clas-
+sificação, nota e classificação final (considerando-se a soma da nota
+final obtida na prova objetiva e da nota final obtida na prova discur-
+siva).
+10003793, Rafael Esteves Gomes, 234.26, 1.
+4.1.1.2 Resultado final dos candidatos negros , na seguinte ordem:
+número de inscrição, nome do candidato em ordem de classificação,
+nota e classificação final (considerando-se a soma da nota final obtida
+na prova objetiva e da nota final obtida na prova discursiva).
+10000212, Fabiano Oliveira de Souza, 249.58, 1 / 10001421, Leandro
+Cerqueira da Cruz, 238.76, 2 / 10003213, Isaac Francisco Gomes dos
+Santos, 232.74, 3 / 10002811, Anderson Alves Pereira, 229.82, 4 /
+10003860, Glaucia Maia Vieira, 227.96, 5 / 10001547, Raiane Silvana
+Caldas de Jesus, 227.03, 6.
+4.1.1.3 Resultado final dos candidatos hipossuficientes , na seguinte
+ordem: número de inscrição, nome do candidato em ordem de clas-
+sificação, nota e classificação final (considerando-se a soma da nota
+final obtida na prova objetiva e da nota final obtida na prova discur-
+siva).
+10001448, Samuel Silva Pereira, 251.97, 1.
+4.1.2 CARGO 2: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: CONTÁBIL-FINANCEIRA
+10004228, Renan Pinheiro da Rocha, 258.13, 1 / 10001707, Tiago da
+Costa Cesconetto, 256.35, 2 / 10001910, Sara de Souza Lopes Mar-
+ques, 253.92, 3 / 10000223, Fabiana Maria de Oliveira Barbosa,
+250.32, 4 / 10001186, Andressa Sigolo da Silva, 249.91, 5 /
+10001410, Guilherme Mendes Cezarette, 249.88, 6 / 10003338, Da-
+niele Farias Eustaquio, 248.07, 7 / 10002732, Carlos Eduardo Rocha
+Vasconcellos, 247.33, 8 / 10001056, Luan Gabriel Martins Oliveira,
+246.77, 9 / 10000978, Sylvia Macedo de Oliveira, 245.52, 10 /
+10003265, Julio Cesar Nascimento Leal Carneiro, 240.68, 11 /
+10002209, Aline Ribeiro Lima, 238.42, 12 / 10003305, Gianluca Pes-
+sanha Boffelli, 236.85, 13 / 10001068, Beatriz Valente de Freitas Reis,
+235.53, 14 / 10000670, Jose Jorge Ferreira, 234.46, 15 / 10003770,
+Joao Victor Fernandes do Nascimento, 231.34, 16 / 10000630, Hen-
+rique Suathe Esteves, 229.24, 17 / 10000776, Humberto Cesar Piz-
+zino de Luca, 228.82, 18 / 10004353, Leonardo de Melo Macedo,
+228.81, 19 / 10000345, Caio Moreira Michelotti, 228.37, 20 /
+10004683, Daniel Caldeira de Castro Faria, 227.41, 21 / 10000839,
+Fagner Faria Fonseca, 226.36, 22 / 10001104, Paula Ribeiro Moura,
+226.28, 23 / 10000955, Marco Vinicius Gomides Bento, 226.19, 24 /
+10001931, Keli Cristina Del Pino Reis, 225.62, 25 / 10001945, Ma-
+riana da Silva Pereira, 223.46, 26 / 10000028, Thamires Raissa Duar-
+te Magalhaes, 222.60, 27 / 10000613, Carolina Ganeff Ribeiro Mo-
+raes, 222.27, 28 / 10000651, Alexssander Braga Gomes, 222.14, 29 /
+10003975, Alef Carvalho Galindo, 221.26, 30 / 10001471, Vitor Maciel
+de Moraes, 220.97, 31 / 10003279, Roberto Tome Alvarenga Gouveia,
+220.11, 32 / 10002308, Dayane Gomes Correa Devillart, 219.59, 33 /
+10003819, Marcos Miguel dos Anjos, 219.07, 34 / 10004151, Carlos
+Felippe Rodrigues Teixeira Moraes, 218.62, 35 / 10004067, Gabriel
+Wellington de Almeida, 218.53, 36 / 10004647, Matheus Venancio dos
+Santos Motta, 217.36, 37 / 10004148, Rachel de Vasconcellos da
+Fonseca, 217.30, 38 / 10003012, Gabriel Hildebrando Duarte, 216.01,
+39 / 10003473, Juliana Pereira de Santana, 215.87, 40 / 10003185,
+Claudia Silva Pinto, 215.66, 41 / 10002267, Denis William dos Santos,
+214.37, 42 / 10001752, Thiago Guimaraes Dias, 213.86, 43 /
+10001130, Caio Foglia Santucci, 212.65, 44 / 10003102, Patricia Ri-
+beiro de Araujo Bueno, 212.16, 45 / 10003367, Roberta Duarte de
+Meira, 211.14, 46 / 10004853, Leandro Brandao Barcia, 211.12, 47 /
+10001106, Rafael Azevedo Leitao, 210.94, 48 / 10002615, Raphael
+Motta de Abreu, 210.86, 49 / 10003339, Fabio Cavalheiro Oliveira,
+210.30, 50 / 10000203, Rodrigo Marques Teixeira, 210.07, 51 /
+10000624, Jone Diainison da Silva, 208.27, 52 / 10002916, Rogeria
+
+## Pagina 36
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0033/U0036
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+Cristina da Silva Carvalho, 208.26, 53 / 10000739, Alecsandro Moreira
+dos Santos, 208.11, 54 / 10002490, Carlos Henrique de Souza Oli-
+veira, 208.08, 55 / 10000042, Alisson Brito Santos de Souza, 207.61,
+56 / 10000041, Marcela Coelho Soares, 206.43, 58 / 10002296,
+Mayella Nelisa dos Reis Barros, 206.39, 59 / 10000186, Natalia Nas-
+cimento dos Santos, 205.28, 60 / 10000037, Fabio Pereira dos San-
+tos, 203.55, 61 / 10002579, Joao Vitor Andrade Vieira Pereira, 203.28,
+62 / 10004784, Andreia Gonzaga Duque, 202.51, 63 / 10002628,
+Wescley Espala Correa de Carvalho, 202.50, 64 / 10001057, Mariana
+de Oliveira Vale Coutinho, 202.39, 65.
+4.1.2.1 Resultado final dos candidatos com deficiência , na seguinte
+ordem: número de inscrição, nome do candidato em ordem de clas-
+sificação, nota e classificação final (considerando-se a soma da nota
+final obtida na prova objetiva e da nota final obtida na prova discur-
+siva).
+10000839, Fagner Faria Fonseca, 226.36, 1 / 10004603, Julio Cesar
+Martins Nascimento, 198.40, 2.
+4.1.2.2 Resultado final dos candidatos negros , na seguinte ordem:
+número de inscrição, nome do candidato em ordem de classificação,
+nota e classificação final (considerando-se a soma da nota final obtida
+na prova objetiva e da nota final obtida na prova discursiva).
+10000630, Henrique Suathe Esteves, 229.24, 1 / 10000651, Alexssan-
+der Braga Gomes, 222.14, 2 / 10003339, Fabio Cavalheiro Oliveira,
+210.30, 3 / 10000203, Rodrigo Marques Teixeira, 210.07, 4 /
+10002916, Rogeria Cristina da Silva Carvalho, 208.26, 5 / 10000042,
+Alisson Brito Santos de Souza, 207.61, 6 / 10002579, Joao Vitor An-
+drade Vieira Pereira, 203.28, 7 / 10003611, Vinicius Joviano da Silva,
+201.76, 8 / 10004179, Rosemberg de Oliveira Soares, 192.05, 9 /
+10000155, Nathalia dos Santos Peixoto, 180.92, 10 / 10004510, Arol-
+do Ferreira Sol Neto, 177.37, 11.
+4.1.2.3 Resultado final dos candidatos sub judice , na seguinte or-
+dem: número de inscrição, nome do candidato em ordem de classi-
+ficação, nota e classificação final (considerando-se a soma da nota fi-
+nal obtida na prova objetiva e da nota final obtida na prova discur-
+siva).
+10002964, Francisco Toniolo de Carvalho, 207.59, 57.
+4.1.3 CARGO 3: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: ECONÔMICO-FINANCEIRA
+10000633, Caio Marcelo Porto Leal, 270.13, 1 / 10002294, Carlos Fi-
+lipe Ferreira de Souza, 264.33, 2 / 10000079, Giovanni Liporace,
+263.84, 3 / 10001991, Eduardo Livio Dinigre Pinto, 263.77, 4 /
+10001108, Artur Faria Navarra Satuf, 262.01, 5 / 10002522, Jonatas
+da Silva Abreu Aarao, 260.58, 6 / 10001461, Joao Vitor Malheiros
+Pinto, 259.00, 7 / 10000949, Joao Pedro Nascimento Ramos, 258.53,
+8 / 10001622, Jorge Luiz Brasileiro Moreira, 256.86, 9 / 10003593,
+Wagner Silva Arrais de Oliveira, 254.30, 10 / 10000179, Vitor Straub
+de Moraes, 253.39, 11 / 10003232, Viviane Ferreira de Sousa Melo,
+253.14, 12 / 10004618, Rodrigo Carneiro Caldas, 251.60, 13 /
+10000187, Daniel de Melo Cardoso, 251.06, 14 / 10000671, Ronnald
+Dias Loureiro, 251.00, 15 / 10001665, Victor Paganini Pires, 250.27,
+16 / 10000081, Alfredo Henrique Caldeira Lustosa Cabral, 248.58, 17
+/ 10002110, Antonio Albano de Freitas, 247.90, 18 / 10002183, Ale-
+xander Canust dos Santos, 247.21, 19 / 10004395, Luis Otavio Nas-
+cimento Soares de Moura, 247.17, 20 / 10002551, Tamires Munique
+Queiroz Leite, 246.76, 21 / 10004349, Matheus Coelho dos Anjos
+Santos Correa, 245.93, 22 / 10003296, Alex Rivelino Alcantara da Sil-
+va Junior, 244.99, 23 / 10003368, Kelli Manhaes Pessanha, 244.39,
+24 / 10001768, Thiago Calvao de Carvalho, 244.27, 25 / 10001759,
+Leonardo Mesquita Class Borges, 243.33, 26 / 10004215, Renan Ra-
+mos Stellet, 243.12, 27 / 10000064, Fernando Jose Gomes Freitas,
+241.39, 28 / 10001561, Matheus Miranda Byrro, 240.05, 29 /
+10001353, Maria Clara Giglio Correa, 238.75, 30 / 10004288, Ana Ca-
+rolina Trindade de Sa, 238.48, 31 / 10001626, Thyago Minerva Cos-
+me, 238.25, 32 / 10004207, Leo Verissimo Fernandes, 238.05, 33 /
+10003435, Nicollas Borges Geron, 237.63, 34 / 10003179, Rogerio do
+Vale Cerqueira Junior, 236.08, 35 / 10001657, Gabriel Rabinovich,
+235.89, 36 / 10003923, Vitor Renato Elias Rocha, 235.88, 37 /
+10004168, Carlos Mamoru Fukuyama Pinto, 234.32, 38 / 10002659,
+Anna Clara Vieira Silva, 234.03, 39.
+4.1.3.1 Resultado final dos candidatos com deficiência , na seguinte
+ordem: número de inscrição, nome do candidato em ordem de clas-
+sificação, nota e classificação final (considerando-se a soma da nota
+final obtida na prova objetiva e da nota final obtida na prova discur-
+siva).
+10003435, Nicollas Borges Geron, 237.63, 1.
+4.1.3.2 Resultado final dos candidatos negros , na seguinte ordem:
+número de inscrição, nome do candidato em ordem de classificação,
+nota e classificação final (considerando-se a soma da nota final obtida
+na prova objetiva e da nota final obtida na prova discursiva).
+10002223, Marcela Pereira Mendes, 219.98, 1 / 10001085, Isabela
+Nery Lima, 212.62, 2 / 10002652, Lucas de Aguiar Morais Nascimen-
+to, 208.59, 3 / 10003608, Elisama Almeida, 207.65, 4.
+4.1.3.3 Resultado final dos candidatos hipossuficientes , na seguinte
+ordem: número de inscrição, nome do candidato em ordem de clas-
+sificação, nota e classificação final (considerando-se a soma da nota
+final obtida na prova objetiva e da nota final obtida na prova discur-
+siva).
+10000172, Paulo Jose Pedrosa Cunha Fernandes, 202.08, 1.
+5 DA CONVOCAÇÃO PARA A AVALIAÇÃO DE TÍTULOS
+5.1 Convocação para a avaliação de títulos, na seguinte ordem: car-
+go/especialidade, número de inscrição e nome do candidato em or-
+dem alfabética.
+5.1.1 CARGO 1: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: ADMINISTRATIVO-FINANCEIRA
+10000941, Celeste Santos Dias / 10000212, Fabiano Oliveira de Sou-
+za / 10000827, Fernanda Valle Sayao / 10001573, Filipe Souza da
+Silva / 10002281, Glauco Costa Santana / 10002577, Graziela de Bar-
+ros de Figueiredo / 10002644, Jonatas Dutra Gomes / 10002055, Lau-
+ra Guimaraes Correia Pinto / 10002529, Lucas Texeira Facanha Men-
+des / 10003928, Maiane Silva de Medina Batista / 10001502, Marcelle
+Cerqueira de Araujo / 10002060, Marcos Correa Abranches /
+10000945, Marcos Pontes de Miranda Pereira / 10003683, Marina Mo-
+reira Vicente Gomes / 10002067, Mayrlon Lopes Roque / 10002920,
+Roberto Carlos Nascimento Lopes / 10002799, Ronan de Moraes
+Sousa / 10003600, Samuel de Oliveira / 10001448, Samuel Silva Pe-
+reira / 10001459, Thais Leite Costa da Silva.
+5.1.1.1 Convocação dos candidatos com deficiência para a avalia-
+ção de títulos, na seguinte ordem: número de inscrição e nome do
+candidato em ordem alfabética.
+10003793, Rafael Esteves Gomes.
+5.1.1.2 Convocação dos candidatos negros para a avaliação de tí-
+tulos, na seguinte ordem: número de inscrição e nome do candidato
+em ordem alfabética.
+10002811, Anderson Alves Pereira / 10000212, Fabiano Oliveira de
+Souza / 10003860, Glaucia Maia Vieira / 10003213, Isaac Francisco
+Gomes dos Santos / 10001421, Leandro Cerqueira da Cruz /
+10001547, Raiane Silvana Caldas de Jesus.
+5.1.1.3 Convocação dos candidatos hipossuficientes para a avalia-
+ção de títulos, na seguinte ordem: número de inscrição e nome do
+candidato em ordem alfabética.
+10001448, Samuel Silva Pereira.
+5.1.2 CARGO 2: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: CONTÁBIL-FINANCEIRA
+10000739, Alecsandro Moreira dos Santos / 10003975, Alef Carvalho
+Galindo / 10000651, Alexssander Braga Gomes / 10002209, Aline Ri-
+beiro Lima / 10000042, Alisson Brito Santos de Souza / 10004784,
+Andreia Gonzaga Duque / 10001186, Andressa Sigolo da Silva /
+10001068, Beatriz Valente de Freitas Reis / 10001130, Caio Foglia
+Santucci / 10000345, Caio Moreira Michelotti / 10002732, Carlos
+Eduardo Rocha Vasconcellos / 10004151, Carlos Felippe Rodrigues
+Teixeira Moraes / 10002490, Carlos Henrique de Souza Oliveira /
+10000613, Carolina Ganeff Ribeiro Moraes / 10003185, Claudia Silva
+Pinto / 10004683, Daniel Caldeira de Castro Faria / 10003338, Da-
+niele Farias Eustaquio / 10002308, Dayane Gomes Correa Devillart /
+10002267, Denis William dos Santos / 10000223, Fabiana Maria de
+Oliveira Barbosa / 10003339, Fabio Cavalheiro Oliveira / 10000037,
+Fabio Pereira dos Santos / 10000839, Fagner Faria Fonseca /
+10003012, Gabriel Hildebrando Duarte / 10004067, Gabriel Wellington
+de Almeida / 10003305, Gianluca Pessanha Boffelli / 10001410, Gui-
+lherme Mendes Cezarette / 10000630, Henrique Suathe Esteves /
+10000776, Humberto Cesar Pizzino de Luca / 10003770, Joao Victor
+Fernandes do Nascimento / 10002579, Joao Vitor Andrade Vieira Pe-
+reira / 10000624, Jone Diainison da Silva / 10000670, Jose Jorge Fer-
+reira / 10003473, Juliana Pereira de Santana / 10003265, Julio Cesar
+Nascimento Leal Carneiro / 10001931, Keli Cristina Del Pino Reis /
+10004853, Leandro Brandao Barcia / 10004353, Leonardo de Melo
+Macedo / 10001056, Luan Gabriel Martins Oliveira / 10000041, Mar-
+cela Coelho Soares / 10000955, Marco Vinicius Gomides Bento /
+10003819, Marcos Miguel dos Anjos / 10001945, Mariana da Silva
+Pereira / 10001057, Mariana de Oliveira Vale Coutinho / 10004647,
+Matheus Venancio dos Santos Motta / 10002296, Mayella Nelisa dos
+Reis Barros / 10000186, Natalia Nascimento dos Santos / 10003102,
+Patricia Ribeiro de Araujo Bueno / 10001104, Paula Ribeiro Moura /
+10004148, Rachel de Vasconcellos da Fonseca / 10001106, Rafael
+Azevedo Leitao / 10002615, Raphael Motta de Abreu / 10004228, Re-
+nan Pinheiro da Rocha / 10003367, Roberta Duarte de Meira /
+10003279, Roberto Tome Alvarenga Gouveia / 10000203, Rodrigo
+Marques Teixeira / 10002916, Rogeria Cristina da Silva Carvalho /
+10001910, Sara de Souza Lopes Marques / 10000978, Sylvia Macedo
+de Oliveira / 10000028, Thamires Raissa Duarte Magalhaes /
+10001752, Thiago Guimaraes Dias / 10001707, Tiago da Costa Ces-
+conetto / 10001471, Vitor Maciel de Moraes / 10002628, Wescley Es-
+pala Correa de Carvalho.
+5.1.2.1 Convocação dos candidatos com deficiência para a avalia-
+ção de títulos, na seguinte ordem: número de inscrição e nome do
+candidato em ordem alfabética.
+10000839, Fagner Faria Fonseca / 10004603, Julio Cesar Martins
+Nascimento.
+5.1.2.2 Convocação dos candidatos negros para a avaliação de tí-
+tulos, na seguinte ordem: número de inscrição e nome do candidato
+em ordem alfabética.
+10000651, Alexssander Braga Gomes / 10000042, Alisson Brito San-
+tos de Souza / 10004510, Aroldo Ferreira Sol Neto / 10003339, Fabio
+Cavalheiro Oliveira / 10000630, Henrique Suathe Esteves / 10002579,
+Joao Vitor Andrade Vieira Pereira / 10000155, Nathalia dos Santos
+Peixoto / 10000203, Rodrigo Marques Teixeira / 10002916, Rogeria
+Cristina da Silva Carvalho / 10004179, Rosemberg de Oliveira Soares
+/ 10003611, Vinicius Joviano da Silva.
+5.1.2.3 Convocação dos candidatos sub judice para a avaliação de
+títulos, na seguinte ordem: número de inscrição e nome do candidato
+em ordem alfabética.
+10002964, Francisco Toniolo de Carvalho.
+5.1.3 CARGO 3: ANALISTA EM FINANÇAS PÚBLICAS - ESPECIA-
+LIDADE: ECONÔMICO-FINANCEIRA
+10003296, Alex Rivelino Alcantara da Silva Junior / 10002183, Ale-
+xander Canust dos Santos / 10000081, Alfredo Henrique Caldeira Lus-
+tosa Cabral / 10004288, Ana Carolina Trindade de Sa / 10002659,
+Anna Clara Vieira Silva / 10002110, Antonio Albano de Freitas /
+10001108, Artur Faria Navarra Satuf / 10000633, Caio Marcelo Porto
+Leal / 10002294, Carlos Filipe Ferreira de Souza / 10004168, Carlos
+Mamoru Fukuyama Pinto / 10000187, Daniel de Melo Cardoso /
+10001991, Eduardo Livio Dinigre Pinto / 10000064, Fernando Jose
+Gomes Freitas / 10001657, Gabriel Rabinovich / 10000079, Giovanni
+Liporace / 10000949, Joao Pedro Nascimento Ramos / 10001461,
+Joao Vitor Malheiros Pinto / 10002522, Jonatas da Silva Abreu Aarao
+/ 10001622, Jorge Luiz Brasileiro Moreira / 10003368, Kelli Manhaes
+Pessanha / 10004207, Leo Verissimo Fernandes / 10001759, Leonar-
+do Mesquita Class Borges / 10004395, Luis Otavio Nascimento Soa-
+res de Moura / 10001353, Maria Clara Giglio Correa / 10004349, Ma-
+theus Coelho dos Anjos Santos Correa / 10001561, Matheus Miranda
+Byrro / 10003435, Nicollas Borges Geron / 10004215, Renan Ramos
+Stellet / 10004618, Rodrigo Carneiro Caldas / 10003179, Rogerio do
+Vale Cerqueira Junior / 10000671, Ronnald Dias Loureiro / 10002551,
+Tamires Munique Queiroz Leite / 10001768, Thiago Calvao de Carva-
+lho / 10001626, Thyago Minerva Cosme / 10001665, Victor Paganini
+Pires / 10003923, Vitor Renato Elias Rocha / 10000179, Vitor Straub
+de Moraes / 10003232, Viviane Ferreira de Sousa Melo / 10003593,
+Wagner Silva Arrais de Oliveira.
+5.1.3.1 Convocação dos candidatos com deficiência para a avalia-
+ção de títulos, na seguinte ordem: número de inscrição e nome do
+candidato em ordem alfabética.
+10003435, Nicollas Borges Geron.
+5.1.3.2 Convocação dos candidatos negros para a avaliação de tí-
+tulos, na seguinte ordem: número de inscrição e nome do candidato
+em ordem alfabética.
+10003608, Elisama Almeida / 10001085, Isabela Nery Lima /
+10002652, Lucas de Aguiar Morais Nascimento / 10002223, Marcela
+Pereira Mendes.
+5.1.3.3 Convocação dos candidatos hipossuficientes para a avalia-
+ção de títulos, na seguinte ordem: número de inscrição e nome do
+candidato em ordem alfabética.
+10000172, Paulo Jose Pedrosa Cunha Fernandes.
+6 DA AVALIAÇÃO DE TÍTULOS
+6.1 Para a avaliação de títulos, o candidato deverá observar todas as
+instruções contidas no item 10 do Edital nº 1 - SEFAZ/RJ - Analista,
+de 24 de janeiro de 2025, e suas alterações, e neste edital.
+6.2 Os candidatos deverão enviar, no período entre 10 horas do dia
+27 de agosto de 2025 e 18 horas do dia 28 de agosto de 2025
+(horário oficial de Brasília/DF), via upload, por meio de link específico
+no endereço eletrônico http://www.cebraspe.org.br/concursos/se-
+faz_rj_25_analista, a imagem legível da documentação referente à
+avaliação de títulos.
+6.2.1 O envio da documentação constante do subitem 6.2 deste edital
+é de responsabilidade exclusiva do candidato. O Cebraspe não se
+responsabiliza por qualquer tipo de problema que impeça a chegada
+dessa documentação a seu destino, seja de ordem técnica dos com-
+putadores, seja decorrente de falhas de comunicação, bem como por
+outros fatores que impossibilitem o envio. Esses documentos, que va-
+lerão somente para esse processo, não serão devolvidos nem deles
+serão fornecidas cópias.
+6.3 O candidato deverá manter aos seus cuidados a documentação
+constante do subitem 6.2 deste edital.
+6.3.1 Caso seja solicitado pelo Cebraspe, o candidato deverá enviar a
+referida documentação por meio de carta registrada, para a confirma-
+ção da veracidade das informações.
+6.4 Receberá nota zero o candidato que não enviar a documentação
+na forma e no prazo estabelecidos no edital de abertura e neste edi-
+tal.
+6.5 Não haverá segunda chamada para a realização da avaliação de
+títulos.
+6.6 Não será aceito o envio de documentação referente à avaliação
+de títulos, em hipótese alguma, fora da data e dos horários prede-
+terminados no subitem 6.2 deste edital.
+7 DAS DISPOSIÇÕES FINAIS
+7.1 As justificativas da banca para o deferimento ou indeferimento dos
+recursos interpostos contra o resultado provisório na avaliação biopsi-
+cossocial dos candidatos que solicitaram concorrer na condição de
+pessoa com deficiência, no procedimento de verificação da condição
+declarada para concorrer às vagas reservadas aos candidatos negros
+e indígenas e no procedimento de verificação da condição declarada
+dos candidatos que se declararam hipossuficientes, estarão à dispo-
+sição dos candidatos a partir da data provável de 2 de setembro de
+2025, no endereço eletrônico http://www.cebraspe.org.br/concursos/se-
+faz_rj_25_analista.
+7.1.1 O Cebraspe não arcará com prejuízos advindos de problemas
+de ordem técnica dos computadores, de falhas de comunicação, de
+congestionamento das linhas de comunicação e de outros fatores, de
+responsabilidade do candidato, que impossibilitem a visualização das
+justificativas da banca para o deferimento ou indeferimento.
+7.2 O edital de resultado provisório na avaliação de títulos será pu-
+blicado no Diário Oficial do Estado do Rio de Janeiro e divulgado na
+internet, no endereço eletrônico http://www.cebraspe.org.br/concur-
+sos/sefaz_rj_25_analista, na data provável de 10 de setembro de
+2025.
+Processo SEI-040001/000882/2024.
+Id: 2674041
+SECRETARIA DE ESTADO DE FAZENDA
+E X T R AT OS DE TERMOS ADITIVOS
+INSTRUMENTO: 1º Termo Aditivo ao Termo de Compromisso de Es-
+tágio nº 002/2025.
+PA R T E S : ESTADO DO RIO DE JANEIRO, através da SECRETARIA
+DE ESTADO DE FAZENDA, o estudante RODRIGO MOREIRA PA-
+CHECO, e a SOCIEDADE DE ENSINO SUPERIOR ESTÁCIO DE
+SÁ.
+O B J E TO : O presente Termo Aditivo destina-se a prorrogar a vigência
+do Termo de Compromisso nº 002/2025, por mais 06 (seis) meses,
+contados a partir de 20/08/2025, dando-se ao termo de compromisso
+o prazo total de 12 (doze) meses.
+PRAZO: 06 (seis) meses, a partir de 20/08/2025.
+VA L O R : R$ 7.200,00 (sete mil e duzentos reais).
+PROGRAMA DE TRABALHO: 04.122.0002.2016.
+NATUREZA DAS DESPESAS: 3390.36.08.
+DATA DA ASSINATURA: 19/08/2025.
+F U N D A M E N TO : Lei n° 11.788/08.
+PROCESSO Nº SEI-040002/004641/2024.
+INSTRUMENTO: 3º Termo Aditivo ao Termo de Compromisso de Es-
+tágio nº 004/2024.
+PA R T E S : ESTADO DO RIO DE JANEIRO, através da SECRETARIA
+DE ESTADO DE FAZENDA, o estudante MATHEUS FERREIRA DA
+SILVA COSTA, e a UNIVERSIDADE FEDERAL DO RIO DE JANEI-
+RO.
+O B J E TO : O presente Termo Aditivo destina-se a prorrogar a vigência
+do Termo de Compromisso nº 004/2024, por mais 06 (seis) meses,
+contados a partir de 28/08/2025, dando-se ao termo de compromisso
+o prazo total de 24 (vinte e quatro) meses.
+PRAZO: 06 (seis) meses, a partir de 28/08/2025.
+VA L O R : R$ 7.200,00 (sete mil e duzentos reais).
+PROGRAMA DE TRABALHO: 04.122.0002.2016.
+NATUREZA DAS DESPESAS: 3390.36.08.
+DATA DA ASSINATURA: 15/08/2025.
+F U N D A M E N TO : Lei n° 11.788/08.
+PROCESSO Nº SEI-040204/000109/2024.
+Id: 2674002
+SECRETARIA DE ESTADO DE FAZENDA
+SUBSECRETARIA DE ESTADO DE RECEITA
+JUNTA DE REVISÃO FISCAL
+AV I S O
+O PRESIDENTE DA JUNTA DE REVISÃO FISCAL , no uso de suas
+atribuições legais, com fundamento no inciso XXVIII do art. 20 da Re-
+solução SER Nº 023, de 16 de maio de 2003, e em cumprimento ao
+artigo 4º, § 2 da Portaria JRF nº 36 de 11 de Maio de 2015, torna
+pública a relação de processos a serem distribuídos no dia 01 de se-
+tembro de 2025, para julgamento, aos Auditores Tributários da Junta
+de Revisão Fiscal. Processo nº SEI-040006/002361/2025.
+Lote Número do processo
+1 SEI/040006/001941/2025
+1 SEI/040006/014249/2025
+1 SEI/040038/000123/2021
+1 SEI/040006/044433/2024
+1 SEI/040006/046523/2024
+1 SEI/040006/044179/2024
+2 SEI/040006/023824/2025
+2 SEI/040006/023815/2025
+2 SEI/040006/015971/2025
+2 SEI/040079/002646/2022
+2 SEI/040006/047218/2024
+2 SEI/040079/010003/2023
+3 SEI/040006/024796/2025
+3 SEI/040006/023141/2025
+3 SEI/040224/004377/2022
+3 SEI/040006/046942/2024
+3 SEI/040006/020853/2024
+3 SEI/040006/020856/2024
+4 SEI/040006/019395/2025
+4 SEI/040006/023475/2025
+4 SEI/040079/009163/2023
+4 SEI/040006/007942/2025
+4 SEI/040006/007948/2025
+4 SEI/040006/010007/2025
+5 SEI/040006/021579/2025
+5 SEI/040006/024629/2025
+5 SEI/040039/000589/2023
+5 SEI/040039/000779/2023
+5 SEI/040039/000783/2023
+5 SEI/040006/006983/2025
+6 SEI/040006/025422/2025
+6 SEI/040006/023642/2025
+6 SEI/040006/032409/2024
+6 SEI/040006/013024/2025
+6 S E I / 0 4 0 0 0 6 / 0 11 8 2 1 / 2 0 2 5
+6 S E I / 0 4 0 0 0 6 / 0 11 8 2 9 / 2 0 2 5
+7 SEI/040006/016599/2025
+7 SEI/040006/048247/2024
+7 SEI/040006/033669/2024
+7 SEI/040006/012562/2025
+7 SEI/040006/013142/2025
+7 SEI/040006/008080/2025
+8 E 0 4 / 2 11 / 0 1 0 4 1 0 / 2 0 2 1
+8 S E I / 0 4 0 0 0 6 / 0 0 111 7 / 2 0 2 5
+8 SEI/040006/034703/2024
+8 SEI/040006/006374/2025
+8 SEI/040006/012199/2025
+8 S E I / 0 4 0 0 0 6 / 0 11 2 6 0 / 2 0 2 5
+9 SEI/040041/003830/2022
+9 SEI/040006/013669/2025
+9 SEI/040006/031749/2024
+9 SEI/040006/037812/2024
+9 SEI/040079/001978/2021
+9 SEI/040006/012207/2025
+10 S E I / 0 4 0 0 0 6 / 0 2 9 5 11 / 2 0 2 4
+10 SEI/040006/017093/2025
+
+## Pagina 37
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0033/U0037/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+10 SEI/040006/038918/2024
+10 SEI/040006/013740/2025
+10 S E I / 0 4 0 0 0 6 / 0 111 9 8 / 2 0 2 5
+10 SEI/040006/013121/2025
+11 SEI/040006/031498/2024
+11 SEI/040006/017419/2025
+11 SEI/040006/034349/2024
+11 SEI/040006/009488/2025
+11 SEI/040006/017627/2025
+11 S E I / 0 4 0 0 7 9 / 0 1 2 3 11 / 2 0 2 3
+12 SEI/040041/006173/2022
+12 SEI/040006/024806/2025
+12 SEI/040006/041982/2024
+12 SEI/040006/017973/2025
+12 SEI/040006/017997/2025
+12 S E I / 0 4 0 0 0 6 / 0 11 8 1 0 / 2 0 2 5
+Id: 2673853
+Secretaria de Estado de Desenvolvimento
+Econômico, Indústria, Comércio e Serviços
+ADMINISTRAÇÃO VINCULADA
+COMPANHIA DE DESENVOLVIMENTO INDUSTRIAL
+DO ESTADO DO RIO DE JANEIRO
+AV I S O
+A COMISSÃO DE PROCEDIMENTO LICITATÓRIO ELETRÔNICO DA
+COMPANHIA DE DESENVOLVIMENTO INDUSTRIAL DO ESTADO
+DO RIO DE JANEIRO torna pública a seguinte licitação:
+PROCEDIMENTO LICITATÓRIO ELETRÔNICO Nº 001/2025
+MODALIDADE: Procedimento Licitatório Eletrônico
+TIPO: Menor preço global
+MODO DE DISPUTA: Aberto e fechado
+DATA: 19/09/2025
+HORA: 11 horas
+LOCAL: w w w. c o m p r a s . r j . g o v. b r
+PROCESSO ELETRÔNICO Nº SEI-220003/000742/2025
+O Edital completo se encontra disponível no endereço eletrônico
+www.compras.rj.br e/ou www.codin.rj.gov.br. Esclarecimentos adicionais
+poderão ser obtidos pelo mesmo canal ou pelo e-mail: licitacao@co-
+d i n . r j . g o v. b r.
+Id: 2673834
+Secretaria de Estado de Polícia Militar
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+EXTRATO DE ATA DE REGISTRO DE PREÇO
+I N S T R U M E N TO : Ata de Registro de Preços n° 0022/2025/510100-02.
+O B J E TO : Registro de Preço para aquisição de antiparasitários.
+PA R T E S : SECRETARIA DE ESTADO DE POLÍCIA MILITAR e a em-
+presa SP E SP SAÚDE PÚBLICA SÃO PAULO DISTRIBUIDORA LT-
+DA, inscrita no CNPJ sob o nº. 47.028.448/0001-87.
+PRAZO: O prazo de validade da Ata de Registro de Preços é de 01
+(um) ano, contado a partir do 1º (primeiro) dia útil subsequente à data
+de divulgação no PNCP.
+GESTORES DA ATA : 3º SGT PM RG 95.583 ERIC MACHADO DE
+OLIVEIRA, CB PM RG 106.494 SÉRGIO LUIZ ELOY e CB PM RG
+107.633 DIEGO BARBOZA DE ANDRADE.
+DATA DE ASSINATURA: 20/08/2025.
+VALOR GLOBAL DA ATA: R$ 72.400,00 (setenta e dois mil e qua-
+trocentos reais).
+F U N D A M E N TO : Processo n° SEI-350062/002476/2023 - Pregão Ele-
+trônico para Sistema de Registro de Preço nº PE SRP - 054/2025.
+Id: 2674031
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+EXTRATOS DE INSTRUMENTOS CONTRATUAIS
+INSTR U M E N TO : Termo de Contrato nº295/2025
+PA R T E S : SEPM e a empresa ANTIBIOTICOS DO BRASIL LTDA (FI-
+LIAL)
+O B J E TO : AQUISIÇÃO DE MEDICAMENTOS
+PRAZO DE VIGÊNCIA: 12 (doze) meses
+VALOR TOTAL : R$ 55.958,00 (cinquenta e cinco mil novecentos e
+cinquenta e oito reais)
+DATA DA ASSINATURA: 22/08/2025
+G E S TO R : BRUNO DE ANDRADE MARCHESE, ID 4428616-3
+GESTOR SUBSTITUTO: BRUNO PEREIRA DA SILVA, ID5096461-5
+FISCAIS: FISCAIS HCPM: CAP PM FARM REBECCA GONÇALVES
+DI LÊU DE CARVALHO RG 89495 / ID 4349917-1 CAP PM FARM
+PATRÍCIA VOLLÚ SILVA RG 89492 / ID4398917-9 TEN PM FARM
+KARINA SENRA VALDIERO RG 3000029 / ID 51153785 SUPLEN-
+TES: TEN CEL PM FARM HERON COREL DE OLIVEIRA RG 76906 /
+ID 2444507-0 MAJ PM FARM MICHELE MARTINS FERNANDES
+REIS RG 89497 / ID 4398751-6
+F U N D A M E N TO : O constante no Processo Administrativo nº SEI-
+350010/005803/2024.
+I N S T R U M E N TO : Termo de Contrato nº296/2025
+PA R T E S : SEPM e a empresa DROGAFONTE LTDA
+OBJETO: AQUISIÇÃO DE MEDICAMENTOS
+PRAZO DE VIGÊNCIA: 12 (doze) meses
+VALOR TOTAL: R$ 372,78 (trezentos e setenta e dois reais e setenta
+e oito centavos)
+DATA DA ASSINATURA: 22/08/2025
+G E S TO R : BRUNO DE ANDRADE MARCHESE, ID 4428616-3
+GESTOR SUBSTITUTO: BRUNO PEREIRA DA SILVA, ID5096461-5
+FISCAIS: FISCAIS HCPM: CAP PM FARM REBECCA GONÇALVES
+DI LÊU DE CARVALHO RG 89495 / ID 4349917-1 CAP PM FARM
+PATRÍCIA VOLLÚ SILVA RG 89492 / ID4398917-9 TEN PM FARM
+KARINA SENRA VALDIERO RG 3000029 / ID 51153785 SUPLEN-
+TES: TEN CEL PM FARM HERON COREL DE OLIVEIRA RG 76906 /
+ID 2444507-0 MAJ PM FARM MICHELE MARTINS FERNANDES
+REIS RG 89497 / ID 4398751-6
+F U N D A M E N TO : O constante no Processo Administrativo nº SEI-
+350010/005803/2024.
+I N S T R U M E N TO : Termo de Contrato nº297/2025
+PA R T E S : SEPM e a empresa HOSPINOVA DISTRIBUIDORA DE
+PRODUTOS HOSPITALARES LTDA
+OBJETO: AQUISIÇÃO DE MEDICAMENTOS
+PRAZO DE VIGÊNCIA: 12 (doze) meses
+VALOR TOTAL: R$ 43.956,00 (quarenta e três mil novecentos e cin-
+quenta e seis reais)
+DATA DA ASSINATURA: 22/08/2025
+G E S TO R : BRUNO DE ANDRADE MARCHESE, ID 4428616-3
+GESTOR SUBSTITUTO: BRUNO PEREIRA DA SILVA, ID5096461-5
+FISCAIS: FISCAIS HCPM: CAP PM FARM REBECCA GONÇALVES
+DI LÊU DE CARVALHO RG 89495 / ID 4349917-1 CAP PM FARM
+PATRÍCIA VOLLÚ SILVA RG 89492 / ID4398917-9 TEN PM FARM
+KARINA SENRA VALDIERO RG 3000029 / ID 51153785 SUPLEN-
+TES: TEN CEL PM FARM HERON COREL DE OLIVEIRA RG 76906 /
+ID 2444507-0 MAJ PM FARM MICHELE MARTINS FERNANDES
+REIS RG 89497 / ID 4398751-6
+F U N D A M E N TO : O constante no Processo Administrativo nº SEI-
+350010/005803/2024.
+I N S T R U M E N TO : Termo de Contrato nº298/2025
+PA R T E S : SEPM e a empresa ONCO PROD DISTR. DE PROD. HOS-
+PITALARES E ONCOLÓGICOS LTDA
+OBJETO: AQUISIÇÃO DE MEDICAMENTOS
+PRAZO DE VIGÊNCIA: 12 (doze) meses
+VALOR TOTAL: R$ 881.740,00 (oitocentos e oitenta e um mil sete-
+centos e quarenta reais).
+DATA DA ASSINATURA: 22/08/2025
+G E S TO R : BRUNO DE ANDRADE MARCHESE, ID 4428616-3
+GESTOR SUBSTITUTO: BRUNO PEREIRA DA SILVA, ID5096461-5
+FISCAIS: FISCAIS HCPM: CAP PM FARM REBECCA GONÇALVES
+DI LÊU DE CARVALHO RG 89495 / ID 4349917-1 CAP PM FARM
+PATRÍCIA VOLLÚ SILVA RG 89492 / ID4398917-9 TEN PM FARM
+KARINA SENRA VALDIERO RG 3000029 / ID 51153785 SUPLEN-
+TES: TEN CEL PM FARM HERON COREL DE OLIVEIRA RG 76906 /
+ID 2444507-0 MAJ PM FARM MICHELE MARTINS FERNANDES
+REIS RG 89497 / ID 4398751-6
+F U N D A M E N TO : O constante no Processo Administrativo nº SEI-
+350010/005803/2024.
+I N S T R U M E N TO : Termo de Contrato nº299/2025
+PA R T E S : SEPM e a empresa DISTRIBUIDORA DE MEDICAMENTOS
+SANTE LTDA
+OBJETO: AQUISIÇÃO DE MEDICAMENTOS
+PRAZO DE VIGÊNCIA: 12 (doze) meses
+VALOR TOTAL: R$ 157.948,00 (cento e cinquenta e sete mil nove-
+centos e quarenta e oito reais)
+DATA DA ASSINATURA: 22/08/2025
+G E S TO R : BRUNO DE ANDRADE MARCHESE, ID 4428616-3
+GESTOR SUBSTITUTO: BRUNO PEREIRA DA SILVA, ID5096461-5
+FISCAIS: FISCAIS HCPM: CAP PM FARM REBECCA GONÇALVES
+DI LÊU DE CARVALHO RG 89495 / ID 4349917-1 CAP PM FARM
+PATRÍCIA VOLLÚ SILVA RG 89492 / ID4398917-9 TEN PM FARM
+KARINA SENRA VALDIERO RG 3000029 / ID 51153785 SUPLEN-
+TES: TEN CEL PM FARM HERON COREL DE OLIVEIRA RG 76906 /
+ID 2444507-0 MAJ PM FARM MICHELE MARTINS FERNANDES
+REIS RG 89497 / ID 4398751-6
+F U N D A M E N TO : O constante no Processo Administrativo nº SEI-
+350010/005803/2024.
+I N S T R U M E N TO : Termo de Contrato nº300/2025
+PA R T E S : SEPM e a empresa GREEN MED DISTRIBUIDORA E IM-
+PORTADORA DE MEDICAMENTOS E PRODUTOS PARA SAUDE LT-
+DA
+OBJETO: AQUISIÇÃO DE MEDICAMENTOS
+PRAZO DE VIGÊNCIA: 12 (doze) meses
+VALOR TOTAL: R$ 47.880,00 (quarenta e sete mil oitocentos e oi-
+tenta reais)
+DATA DA ASSINATURA: 22/08/2025
+G E S TO R : BRUNO DE ANDRADE MARCHESE, ID 4428616-3
+GESTOR SUBSTITUTO: BRUNO PEREIRA DA SILVA, ID5096461-5
+FISCAIS: FISCAIS HCPM: CAP PM FARM REBECCA GONÇALVES
+DI LÊU DE CARVALHO RG 89495 / ID 4349917-1 CAP PM FARM
+PATRÍCIA VOLLÚ SILVA RG 89492 / ID4398917-9 TEN PM FARM
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+EXTRATO DE TERMO
+INSTRUMENTO: Termo de Cooperação.
+PA R T E S :O Estado do Rio de Janeiro por meio da Secretaria de Es-
+tado de Polícia Militar - SEPM e a Companhia Nilza Cordeiro Herdy
+de Educação e Cultura, entidade mantenedora da UNIGRANRIO -
+Universidade do Grande Rio - “Prof. José de Souza”.
+O B J E TO : A concessão aos funcionários / servidores / filiados / repre-
+sentados e / ou seus dependentes (apenas filhos e cônjuge) do Con-
+veniado, desconto sobre o valor das mensalidades do curso de gra-
+duação (exceto medicina, odontologia e medicina veterinária).
+PRAZO: 24 (vinte e quatro) meses, a contar da sua assinatura, po-
+dendo ser prorrogado mediante termo aditivo, sendo vedada sua re-
+novação automática.
+DATA DA ASSINATURA: 26.08.2025.
+PROCESSO Nº SEI-350012/001404/2025.
+Id: 2673694
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+DIRETORIA DE PESSOAL
+AV I S O S
+O SECRETÁRIO DE ESTADO DE POLÍCIA MILITAR no uso de suas
+atribuições, torna público a Relação dos Supervisores, que irão acom-
+panhar a execução do Estágio Obrigatório Não Remunerado no 2º se-
+mestre de 2024, Edital de Chamada Pública de n.º 002/2022, n.º
+001/2023 e n.º 002/2023.
+Objeto: Execução na SEPM, de Estágio Obrigatório não remunerado,
+sob o regime da Lei nº 11.788/08.
+UNIDADE DA SEPM: Hospital da Central da Polícia Militar - HCPM
+Área de Atuação: Fisioterapia.
+Supervisor: Ten Cel PM Fisio. RG.76988 Leandro Miranda de Azere-
+do.
+Proc. nº SEI-350009/0143/2025.
+O SECRETÁRIO DE ESTADO DE POLÍCIA MILITAR no uso de suas
+atribuições, torna público a Relação dos Supervisores, que irão acom-
+panhar a execução do Estágio Obrigatório Não Remunerado no 2º se-
+mestre de 2024, Edital de Chamada Pública de n.º 002/2022, n.º
+001/2023 e n.º 002/2023.
+Objeto: Execução na SEPM, de Estágio Obrigatório não remunerado,
+sob o regime da Lei nº 11.788/08.
+UNIDADE DA SEPM: Hospital da Central da Polícia Militar - HCPM
+Área de Atuação: Fisioterapia.
+Orientador: Robson da Conceição Medeiros; Renata da Silva Leite.
+Proc. nº SEI-350009/0143/2025.
+Id: 2673691
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+DIRETORIA DE RECRUTAMENTO E SELEÇÃO DE PESSOAL
+E D I TA L
+CONCURSO PÚBLICO DE ADMISSÃO AO CURSO DE FORMAÇÃO DE SOLDADOS POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO -
+CFSd/2023
+O SECRETÁRIO DE ESTADO DE POLÍCIA MILITAR , no uso das suas atribuições legais e atendendo à demanda da Diretoria de Recrutamento
+e Seleção de Pessoal, TORNA PÚBLICA a orientação para o cumprimento de decisão judicial, nos autos do processo 0056616-
+16.2025.8.19.0001 que impede o prosseguimento do candidato no Concurso Público de admissão ao Curso de Formação de Soldados da Polícia
+Militar do Estado do Rio de Janeiro - CFSd 2023, mantendo assim reprovação na 5ª etapa do certame. Processo nº SEI-140001/03847 2/2025.
+O r. Insc. Nome Processo Judicial N° Resultado Definitivo 5ª Etapa
+01 1329169 - 0056616-16.2025.8.19.0001 I N A P TO
+Id: 2673860
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+DIRETORIA DE RECRUTAMENTO E SELEÇÃO DE PESSOAL
+E D I TA L
+CONCURSO PÚBLICO DE ADMISSÃO AO CURSO DE FORMAÇÃO DE SOLDADOS DA POLÍCIA MILITAR DO ESTADO DO RIO DE JA-
+NEIRO. CFSd-2023
+O SECRETÁRIO DE ESTADO DE POLÍCIA MILITAR , no uso das suas atribuições legais e atendendo a demanda do Diretor de Recrutamento e
+Seleção de Pessoal, torna pública a convocação do candidato abaixo relacionado, para comparecimento nesta Diretoria de Recrutamento e
+Seleção de Pessoal, 09h do primeiro dia útil após a publicação, com cópia de toda documentação pessoal, para dar cumprimento à ordem
+judicial. Processo nº SEI-350001/012961/2025.
+CPF NOME PROCESSO JUDICIAL N°
+183.227.767-48 FELIPE VANDAMME LIMA DA SILVA 3010237-63.2025.8.19.0001
+Id: 2673870
+KARINA SENRA VALDIERO RG 3000029 / ID 51153785 SUPLEN-
+TES: TEN CEL PM FARM HERON COREL DE OLIVEIRA RG 76906 /
+ID 2444507-0 MAJ PM FARM MICHELE MARTINS FERNANDES
+REIS RG 89497 / ID 4398751-6
+F U N D A M E N TO : O constante no Processo Administrativo nº SEI-
+350010/005803/2024.
+Id: 2673665
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+DIRETORIA DE RECRUTAMENTO E SELEÇÃO DE PESSOAL
+E D I TA L
+CONCURSO PÚBLICO DE ADMISSÃO AO CURSO DE FORMAÇÃO DE SOLDADOS DA POLÍCIA MILITAR DO ESTADO DO RIO DE JA-
+NEIRO. CFSd-2023
+O SECRETÁRIO DE ESTADO DE POLÍCIA MILITAR , no uso das suas atribuições legais e atendendo a demanda do Diretor de Recrutamento e
+Seleção de Pessoal, torna pública a convocação do candidato abaixo relacionado, para comparecimento nesta Diretoria de Recrutamento e
+Seleção de Pessoal, 09h do primeiro dia útil após a publicação, com cópia de toda documentação pessoal, para dar cumprimento à ordem
+judicial. Processo nº SEI-350009/025412/2025.
+CPF NOME PROCESSO JUDICIAL N°
+165.248.357-86 THIAGO ALVES DE SOUZA 3006741-26.2025.8.19.0001
+Id: 2673878
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+DIRETORIA DE RECRUTAMENTO E SELEÇÃO DE PESSOAL
+E D I TA L
+CONCURSO PÚBLICO DE ADMISSÃO AO CURSO DE FORMAÇÃO DE SOLDADOS DA POLÍCIA MILITAR DO
+ESTADO DO RIO DE JANEIRO CFSd-2023
+O SECRETÁRIO DE ESTADO DE POLÍCIA MILITAR, no uso das suas atribuições legais e atendendo a demanda do Diretor de Recrutamento e
+Seleção de Pessoal, torna pública a convocação do candidato abaixo relacionado, para comparecimento nesta Diretoria de Recrutamento e
+Seleção de Pessoal, 09h do primeiro dia útil após a publicação , com cópia de toda documentação pessoal, para dar cumprimento à ordem
+judicial.
+CPF
+NOME PROCESSO JUDICIAL N°
+135.842.337-71 FILLIPE GOMES FERREIRA 0835788-49.2025.8.19.0038
+Processo nº SEI-140001/055416/2025
+Id: 2673890
+
+## Pagina 38
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0033/U0038
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+Secretaria de Estado de Polícia Civil
+SECRETARIA DE ESTADO POLÍCIA CIVIL
+DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS
+SERVIÇO DE PROMOÇÕES
+E D I TA L
+Categoria Funcional: INSPETOR DE POLÍCIA - 4ª CLASSE
+O DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS , através do Serviço de Promoções (SEPROM/DGGP), faz publicar o Edital Provisório de Apuração de Tempo de Serviço de concorrentes, com vistas à promoção
+na categoria funcional de Inspetor de Polícia à 3ª Classe, na validade de 21/04/2023, em cumprimento ao despacho de 26/08/2025, do processo administrativo nº SEI-360008/000689/2025, para ciência e eventuais
+contestações dos interessados, no prazo de 30 (trinta) dias, contados da data da publicação, nos termos da Lei Complementar nº 204/2022.
+O processo administrativo respectivo encontra-se à disposição do servidor no SEPROM/DGGP, para consulta do quesito de desempate por maior idade, em conformidade com a Lei Federal nº 13.709/2018 (Lei Geral de
+Proteção de Dados - LGPD).
+Considerando as informações prestadas pelo Serviço de Controle e Análise de Cargos Efetivos e em Comissão (SCACEC/DGGP), será destinado ao presente certame o total de 19 (dezenove) vagas, sendo 13 (treze)
+destinadas ao critério de antiguidade e 06 (seis) destinadas ao critério de merecimento.
+O recurso de tempo de serviço deverá ser enviado através do SEI, inserindo no campo Tipo de Processo a opção “Recursos Humanos: Promoção e Pro gressão”, e no campo Especificação o texto “RECURSO DE
+TEMPO DE SERVIÇO - INSPETOR DE POLÍCIA À 3ª CLASSE - VALIDADE DE 21/04/2023”.
+O recurso de pontuação deverá ser objetivamente fundamentado e enviado através do SEI, inserindo no campo Tipo de Processo a opção “Recursos Humanos: Promoção e Progressão”, e no campo Especificação o
+texto “RECURSO DE PONTUAÇÃO - INSPETOR DE POLÍCIA À 3ª CLASSE - VALIDADE DE 21/04/2023”, devendo conter as justificativas do pedido de revisão de nota e, se for o caso, anexar todos os documentos que
+julgar convenientes, contemplando os motivos constantes no Decreto nº 3.044/80 e suas posteriores alterações.
+Não serão aceitos recursos encaminhados através de e-mail.
+Tempo de Serviço - Validade 21/04/2023
+Ord.
+Ant.
+D. Funcional Nome Classe
+aa.mm.dd
+Categoria Funcional
+aa.mm.dd
+Serv. Polícia Civil
+aa.mm.dd
+Serv. Público Estadual
+aa.mm.dd
+Serv. Público Geral
+aa.mm.dd
+Pontuação
+1º 50214527 Alex Trisuzzi de Sá 05.00.00 09.04.15 09.04.15 09.05.18 09.05.18 (**)
+2º 50216708 Felipe Maia de Andrades 05.00.00 09.04.15 09.04.15 09.04.15 11 . 11 . 0 8 (**)
+3º 50220845 Rafael da Silva Paulo 05.00.00 09.04.15 09.04.15 09.04.15 11 . 0 9 . 1 9 (**)
+4º 13363751 Marcos Roberto Ferreira Figueiredo 05.00.00 09.04.15 09.04.15 09.04.15 11 . 0 8 . 1 9 (**)
+5º 50220969 Bruno Ramos de Amorim 05.00.00 09.04.15 09.04.15 09.04.15 11 . 0 7 . 1 8 (**)
+6º 50222619 Ed Carlos Pessoa da Silva 05.00.00 09.04.15 09.04.15 09.04.15 11 . 0 6 . 2 5 (**)
+7º 50215051 Gustavo Velasco dos Santos 05.00.00 09.04.15 09.04.15 09.04.15 11 . 0 5 . 2 6 (**)
+8º 50220004 Juliana Giglio da Cruz 05.00.00 09.04.15 09.04.15 09.04.15 11 . 0 4 . 1 5 (**)
+9º 50217283 Thiago da Silva Pio 05.00.00 09.04.15 09.04.15 09.04.15 11 . 0 4 . 1 4 (**)
+10º 42059208 Paulo Leite Pereira Neto 05.00.00 09.04.15 09.04.15 09.04.15 11 . 0 1 . 1 3 (**)
+11 º 50220705 Pedro Paulo Bento Junior 05.00.00 09.04.15 09.04.15 09.04.15 1 0 . 11 . 0 2 (**)
+12º 50126687 Deivisson Villa da Silva 05.00.00 09.04.15 09.04.15 09.04.15 10.07.14 (**)
+13º 50217070 Humberto de Menezes Petrucci 05.00.00 09.04.15 09.04.15 09.04.15 10.07.06 (**)
+14º 50215914 Rafael Esteves Lopes 05.00.00 09.04.15 09.04.15 09.04.15 10.06.29 27,50
+15º 50219871 Josiane Rezende Avila 05.00.00 09.04.15 09.04.15 09.04.15 10.05.28 29,50
+16º 44359098 Alessandro Lopes Santana 05.00.00 09.04.15 09.04.15 09.04.15 10.05.14 29,00
+17º 50216325 Rafael Calomeni Elias 05.00.00 09.04.15 09.04.15 09.04.15 10.05.09 25,00
+18º 50215850 Jorge Raphael de Souza Crocamo 05.00.00 09.04.15 09.04.15 09.04.15 10.05.05 25,50
+19º 50220519 Gustavo Menezes Gomes 05.00.00 09.04.15 09.04.15 09.04.15 10.04.18 25,00
+20º 50220209 Flavio Corado Macedo 05.00.00 09.04.15 09.04.15 09.04.15 10.04.17 26,00
+21º 50219880 Sergio Augusto da Silva Mello 05.00.00 09.04.15 09.04.15 09.04.15 10.04.05 24,50
+22º 50219758 Pollyanna Gomes da Fonseca Abi-Saber Rezende 05.00.00 09.04.15 09.04.15 09.04.15 10.03.29 30,00
+23º 50218530 Igor Fernandes Pio da Fonseca 05.00.00 09.04.15 09.04.15 09.04.15 10.02.22 26,00
+24º 43376665 Dagoberto da Silva Camara 05.00.00 09.04.15 09.04.15 09.04.15 10.02.06 31,00
+25º 50215779 Taissa Guimarães Emilio 05.00.00 09.04.15 09.04.15 09.04.15 10.02.01 25,00
+26º 50215507 Robson Santiago Luciano 05.00.00 09.04.15 09.04.15 09.04.15 10.01.26 34,50
+27º 50228625 Raphaell Oliveira de Vasconcelos 05.00.00 09.04.15 09.04.15 09.04.15 10.01.08 27,25
+28º 50216970 Bernardo Lins de Moura Gomes 05.00.00 09.04.15 09.04.15 09.04.15 10.00.20 30,00
+29º 50222350 Cesar Augusto Andrade da Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.09.15 28,00
+30º 50220675 Rodrigo Carvalho Araujo 05.00.00 09.04.15 09.04.15 09.04.15 09.09.13 24,00
+31º 50214594 Cicero de Carvalho Nunes 05.00.00 09.04.15 09.04.15 09.04.15 09.06.20 28,00
+32º 50219464 Ed Ney Jose de Souza 05.00.00 09.04.15 09.04.15 09.04.15 09.06.18 24,25
+33º 5 0 2 1 8 11 5 Jose Paulo Santos da Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,50
+34º 50221728 Luiz Fernando Sandera Teixeira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,00
+35º 50215337 Jorge Marcelo dos Santos Juca 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 35,25
+36º 50223852 Jorge Luiz Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,75
+37º 50227440 Maria Tereza Gonçalves de Barros 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,50
+38º 50218751 Leonardo Boderone de Azevedo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 36,25
+39º 50224158 Patricia Pereira Barbosa de Sousa 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,75
+40º 50217208 Patricia Claudia Santos Da Silveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,75
+41º 50223135 Mauro Luiz Oliveira Marques 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,50
+42º 50222244 Robson da Fonseca Dieguez 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,50
+43º 5 0 2 2 4 6 11 Chen Li Chuan 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,25
+44º 50222724 Carlos Alberto Paura Junior 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 34,50
+45º 50217127 Cristiane Souza e Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,25
+46º 50220373 William de Sousa Monteiro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,50
+47º 50214497 Mônica da Silva Gonçalves 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 21,50
+48º 50221981 Joaquim Paiva Matos 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 32,75
+49º 50221841 Júlio Werner Keim 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,75
+50º 50216082 Mario Luiz Barreiros Andrade 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,50
+51º 50222120 João Luis Guedes Pinheiro Pereira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 35,75
+52º 5 0 2 1 7 11 9 Marcos Daniel Machado Chaves 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+53º 50218263 Lee Anderson de Carvalho 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,00
+54º 50217437 Raquel Huguenin de Souza 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 35,75
+55º 50215809 Joelma de Mello Ferreira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,00
+56º 14294346 Etienne Montes Ramos 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 20,00
+57º 50212761 Mario Jose Oliveira Bandarrinha 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,50
+58º 50226592 Paulo Afonso Hernandez 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+59º 50220250 Sandro Pereira Paulino 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,50
+60º 50225529 Marcia de Siqueira Franco 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,50
+61º 50217160 Lucinete de Souza Gomes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,25
+62º 50224026 Carlos Alberto Machado Bisker 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+63º 50227513 David de Andrade Resende 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 17,50
+64º 5 0 1 3 11 2 5 Luiz Fernando Mesquita da Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,75
+65º 50227491 Flavio Rodrigues Joao 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,75
+66º 50222910 Fernando Martins Faraco 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,50
+67º 50218808 Carlos Andre Leal Marquete 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,50
+68º 50219766 Wagner de Jesus Conceição 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,50
+69º 50225723 Andre Freire de Sa 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 34,25
+70º 50224239 Wagner Luiz Wanderley Pereira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,25
+71º 50218662 Marius Nunes Brandao * 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 -18,00
+72º 50222775 Jorge Antonio dos Santos Junior 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,00
+73º 50218131 Danielle Mulinari Moraes Costa Lima 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,25
+74º 50216252 Juliana Fernandes Pozino 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,50
+75º 50224328 Carlos Renato da Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,75
+76º 50220330 Marcia Helena de Figueiredo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,75
+77º 50224247 Ronaldo Costa Cottas Gomes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,50
+78º 50224182 Bruno Piedade Lopes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,00
+79º 50228064 Luis Alberto Moreira da Costa 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,75
+80º 50128922 Rodolfo de Carvalho Oliveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,00
+81º 50218816 Flavio de Almeida Santos 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 23,50
+82º 50222201 Cristiano Araujo Alves 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,00
+83º 20870531 Roberto Calleia Kalil Honeim 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 32,00
+84º 50220357 Renata Coimbra Buin de Assis 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,25
+85º 50218824 Anderson da Costa Peixoto 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 35,25
+86º 50227637 Julianna do Couto Lima Pedreira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 22,50
+87º 50221957 Edson Carlos de Jesus Ramos 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,00
+88º 50224280 Anderson Santos da Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 34,00
+89º 50218999 Andrea Pinheiro Eyer 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,00
+90º 50220977 Renato Fernandes Corujo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 20,75
+91º 50222961 Sandro Marcio da Silva Correa 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,75
+92º 50223216 Antonio Alexandre da Silva Ferreira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 14,50
+93º 50221655 Cristiano Lopes Teixeira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,50
+94º 50216155 Jose Ricardo da Conceição 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 23,50
+95º 50215574 Frederico Monnerat Rocha e Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,25
+96º 5 0 2 2 2 5 11 Adriana Regis Schimith da Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,00
+97º 50215515 Marcos Peters Nogueira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,25
+
+## Pagina 39
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0033/U0039/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+98º 50213962 Marcos Vinicius Mohamed Wanous 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+99º 50217755 Gleyson da Silveira Lima 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,75
+100º 50224468 Jadilson Araujo Pereira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,50
+101º 50220853 Juliano Frauches Miro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 20,00
+102º 50220438 Andre de Queiroz Rodrigues Vieira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 9,00
+103º 50219227 Gustavo Figueiredo Gomes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 19,75
+104º 50224212 Glaucilene dos Santos Almeida 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 32,75
+105º 50218778 Hercules Rocha Moreira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,00
+106º 50223410 Marcia Dantas de Azevedo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 23,00
+107º 50214764 Bruno Paes de Andrade e Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,25
+108º 50218336 Clarissa Ribeiro Huguet 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,50
+109º 50228927 João Alberto Fraga Alves 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,25
+11 0 º 50220071 Patricia Pueyo do Amaral 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+111 º 50221680 Raquel da Costa Pinheiro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,25
+11 2 º 50214950 Diogo Gaspar Dias 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,00
+11 3 º 50220837 Gustavo Pirassol Braz de Souza 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,75
+11 4 º 50218450 Lia Fonseca 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,50
+11 5 º 44426348 Aline Castro Barreto 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,50
+11 6 º 50221787 Priscila Chaves Teixeira Segade 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,00
+11 7 º 5 0 2 2 9 11 7 Gilberto Szterenzejer Paesler 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,00
+11 8 º 44232020 Sergio Luís Mendonça 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,00
+11 9 º 50218182 Fabiano Carvalho Rego * 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 22,25
+120º 50216830 Pedro Marcos Alves de Sousa da Silveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,00
+121º 50217933 Hugo de Novaes Almeida 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,00
+122º 50224484 Rafael Silva de Chiara 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,75
+123º 50227335 Luiz Carlos da Silva Carvalho 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,75
+124º 44422148 Luiz Guilherme Coppolecchio Pires 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,50
+125º 50219723 Deolindo Barreto Lima Neto 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+126º 50219936 Felipe Andre Inacio de Rezende 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,50
+127º 50215418 Luciana Carvalho de Oliveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+128º 5950333 João Paulo da Silva Souza 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+129º 50228293 Marcelo Viveiros Cajueiro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 23,25
+130º 50223143 Rodrigo Camaz de Oliveira dos Santos 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 35,50
+131º 50223623 Lucia Maria Leite de Almeida Dias 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,00
+132º 5 0 2 1 3 9 11 Patricia Vianna Castro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,75
+133º 50228722 Viviane Jandira Ferreira Lopes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 21,25
+134º 50217003 Willian Adolfo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,50
+135º 50222830 Bruno Lopes Mariano 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 32,00
+136º 50215302 Marcus Vinicius Santos de Oliveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,25
+137º 50227319 Marcio Claudio Santiago da Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 22,50
+138º 50214934 Victor da Silveira Monteiro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,25
+139º 50217739 Carlos Ramalho Vasconcelos 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,50
+140º 50228900 Alessandro Tadeu Araujo de Aguiar 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+141º 50215043 Henrique Couto Ferreira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,00
+142º 50218859 Romullo de Souza Figueiredo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,25
+143º 50215736 Glaura Charao de Melo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 23,00
+144º 50220713 Eric Schwambach Velloso de Almeida 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 34,50
+145º 50229052 Viviane Aguiar Dias Scheiffer 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,00
+146º 50222945 Marcela Rosa de Souza e Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,75
+147º 50099477 Fabio da Silva Lopes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,50
+148º 50220934 Marcos Paulo Jeronymo de Oliveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+149º 50225685 Vilma Cristiane Trindade de Andrade dos Reis Oliveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 34,50
+150º 50226452 Paulo Cezar Vieira Junior 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,50
+151º 50217593 Leonardo Cardoso Peres 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 23,25
+152º 50222864 Manuelle Freitas Silva Braga 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,50
+153º 50217860 Mariana Pereira Martins dos Santos 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,75
+154º 50214055 Aline Pereira de Aguiar 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+155º 50219413 Cristiana Ribeiro Loureiro Alves Pandim 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,00
+156º 50212850 Patricia da Conceição Figueiredo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+157º 50229079 Frederico Esch Guimaraes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,00
+158º 50220276 Hildamari Lima Carneiro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,25
+159º 50223160 Jose Gelson da Silva Junior 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+160º 50227203 Bruno Montes da Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,75
+161º 50228099 Marcelo Flora de Lemos 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,50
+162º 50218280 Thiago da Silva Tranin 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,25
+163º 50218565 Fernanda de Mello Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,75
+164º 50215060 Carlos Eduardo Ferreira de Miranda 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+165º 50227700 Fernanda Rattes Cardoso Torquato 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,00
+166º 50217690 Christian Camara de Moura 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,00
+167º 50223321 Alexandre Barbosa da Costa Amazonas 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,50
+168º 50222236 Jordana Nogueira Costa 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+169º 50226800 Thiago Valadares de Araujo Santos 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+170º 50224476 Jaqueline Silva de Oliveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,50
+171º 50218948 Diego da Costa Guadelupe 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 38,00
+172º 50226541 Priscilla Mendes Abud 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,50
+173º 50221060 Vanessa dos Santos de Jesus Crepaldi 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,25
+174º 50221914 Patricia Mayworm Ciorlia 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,75
+175º 50226665 Thiago Boiato Pinto 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,25
+176º 50223402 Luis Antonio da Costa Vaz Curvo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,25
+177º 50223909 Anderson Barros Leal 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,50
+178º 50220594 Raphael Frederico Borges Manso 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,00
+179º 50226738 Bruno Jorge Barroso de Oliveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 23,50
+180º 50217798 Raul Blank dos Reis 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,25
+181º 50213130 João Victor Murta Bandeira Moraes dos Santos 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 23,50
+182º 50218158 Glaudimar Brettas Pedroza 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,75
+183º 50219588 Raquel Aparecida França Rocha 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,50
+184º 50230000 Diego Frambach Mendonça 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+185º 50215167 Breno Campbell Truci Faro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,75
+186º 50219790 Vitor de Oliveira Barreiro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,00
+187º 50219480 Jefferson Garcia Ramos 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 37,00
+188º 43915663 Rodolfo Hernandez Filippo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 36,25
+189º 50214306 Valdyr Christani Junior 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,50
+190º 50222074 Gisele Costa Cassus 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,25
+191º 50219405 Maicon Romano Rodrigues 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,25
+192º 50215710 Luana dos Santos Carneiro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,50
+193º 50219537 Delso Santos Rodrigues Junior 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,75
+194º 5 0 2 2 8 11 0 Pedro de Castro Azevedo Costa Egea 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,00
+195º 50213970 Raphael Vasques Jorge Macedo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 43,25
+196º 50213253 Rafael Mateus Martins Henriques 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,50
+197º 50214233 Breno Wohl Bruno 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 32,75
+198º 50217453 Rodrigo Ferreira de Barcelos 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+199º 50214489 Wander Vianna de Carvalho Neto 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,25
+200º 50222015 Rafael de Araujo Matoso Souto 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,00
+201º 50222384 Paulo Roberto Cunha Gomes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,25
+202º 50218069 Marcello Araujo Salles 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,75
+203º 50215370 Sabrina Terra Carvalho Gomes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,25
+204º 50216490 Rodrigo Santos Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,00
+205º 50227599 Rodrigo Trindade de Moraes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,50
+206º 50219634 Augusto Moniz da Carvalho e Miranda 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,25
+207º 50222597 Renan Villares Freinsilber 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,00
+208º 50226983 Gabriel Muller Sarcinelli Luz 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,75
+209º 50218077 Taciana Conte Sanguedo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,75
+210º 50227718 Maxwell Cardoso 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 23,25
+2 11 º 50224271 Victor Engel Gasco 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 37,25
+212º 50215833 Danielle Wanzeller Maciel 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,50
+213º 50220080 Viviane Martins Teixeira Araujo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,50
+214º 50228196 Tallys de Souza Oki 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,50
+215º 50217186 Gabriela de Morais Ferras 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,25
+216º 50215884 Rodrigo Marques Pontes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,50
+217º 50228579 Alvaro Augusto da Silva Junior 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+218º 50228536 Thiago Correa Souza de Oliveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,50
+219º 50227432 Carlos Ronald Santos Freire 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 35,00
+220º 50217097 Josiane Faria Louback 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,00
+221º 50217380 Leonardo Tabajaras 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,75
+222º 50216848 Vanessa Marcelino Monteiro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,00
+223º 50218395 Felipe da Cruz Padilha Soares 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,00
+224º 50219421 Bruno de Lucena Soares 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+225º 50220322 Hevellyn Katarine Milanez Barbosa 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,50
+226º 50222139 Caroline da Costa Faria Valle 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 35,50
+227º 50223607 Juliana Cartaxo de Oliveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,75
+228º 5 0 2 1 7 0 11 Luciana de Oliveira Vieira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,50
+229º 50219162 Jose Francisco Veiga Coutinho 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,00
+
+## Pagina 40
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0034/U0030
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+230º 50219774 Eduardo Augusto Fernandes de Sousa 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,75
+231º 50222635 Roberta do Carmo Fontaina 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 23,50
+232º 50226576 Juliana Ribeiro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+233º 50228510 Pedro Henrique de Paula Pontes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,25
+234º 50228340 Gilles Vicente Oliveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,50
+235º 50222678 Monique Nunes Silva Lobato 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,75
+236º 50218875 Paula Barboza Noah 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 32,50
+237º 50219090 Cristiano Soares Rezende Medeiros 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,50
+238º 50223674 Monique Gonçalves da Neves Braga 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,25
+239º 50218697 Taísa Fonseca Coelho 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,75
+240º 50217151 Giordano Barreto Mota 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,25
+241º 50227424 Huro Araujo de Aguiar Ernesto 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,25
+242º 50213857 Alberto de Barros Rodrigues Barbosa 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 23,00
+243º 50213016 Noema Miranda Duarte de Oliveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 34,50
+244º 50098136 Michelle de Oliveira Lage 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,50
+245º 50226282 Felipe do Monte 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,00
+246º 50216180 Vinicius Encrenazi Rodrigues 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,75
+247º 50225570 Pablo Sant Anna Curty 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,00
+248º 50228668 Tatiana de Azevedo Lopes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,25
+249º 50215140 Camila Vieira Pires 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,50
+250º 50228889 Yara Granado Alvarenga 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,00
+251º 50223968 Daiana dos Santos Monteiro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,50
+252º 50228587 Anderson Rio Branco 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,50
+253º 50227467 Marta Cavalcante de Moura 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,00
+254º 50215523 Marcia Helena Pereira Alves 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,50
+255º 50219049 Graziella dos Santos Lima 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,00
+256º 43674135 Jose Lysandro Gomes Bainha 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,25
+257º 50099426 Eloy Cezar Morgado Dias 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 23,00
+258º 50227823 Tatiana de Lima Oliveira Barreto 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,50
+259º 50220390 Deborah Souza Caetano 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,75
+260º 50228862 Jaime Hércules Santos Ferreira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,25
+261º 50223259 Maria Isabel Silva Tavares 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 33,00
+262º 50218000 Raphael Luiz de Oliveira da Costa 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,75
+263º 50227734 Marcus Henrique de Oliveira Santanna 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+264º 50215094 Fabio da Costa Coelho 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 23,50
+265º 50222708 Aline Ribeiro de Freitas 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,75
+266º 50225588 Gisele da Silva Lessa 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 39,25
+267º 50222228 Paulo Henrique Gelli Ramos 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 34,25
+268º 50222805 Thatiane Campos Suzano 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,00
+269º 4 1 4 6 5 11 3 Renato Correa Lima Junior 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,00
+270º 50222376 Claudio Tonassi Signorelli 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,00
+271º 50217887 Igor Rodrigues Bello 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,25
+272º 50219510 Juliana Freitas Diniz 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,00
+273º 50220608 Rafael Bandeira de Mello Modesto de Almeida 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,75
+274º 50228609 Caio Soares Borda 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,00
+275º 50228838 Daniel Augusto Cezar Sereno 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,75
+276º 50226380 Erick Baptista Amaral de Lara 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,50
+277º 50225731 Bruno Bastos Felicio 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+278º 50225901 Oneir Vitor de Oliveira Guedes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,50
+279º 50221736 Bruno Gomes de Sa Ferraz Pereira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,50
+280º 50227670 Ricardo Silveira Guimaraes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+281º 50191691 Vanessa Araújo Cezar de Menezes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 37,50
+282º 50227165 Lucas Pereira Maciel 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,75
+283º 50222309 Pamela Martins Souza Marques 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,00
+284º 50219928 Nilton Pereira de Araujo Junior 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,50
+285º 50214683 Rafael Pereira Gomes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,50
+286º 50220772 Daniel de Bona Ganzer 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+287º 50216740 Marcelo Couto Fernandes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,00
+288º 50223070 Marcelo Costa Magalhaes de Almeida 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,00
+289º 50214381 Gustavo Arruda 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,75
+290º 50218140 Thatiane Pinto Santoro 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 20,50
+291º 50250540 Rejane Raquel Silva e Souza 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 28,75
+292º 50216660 Rafael Tedeschi de Assis Almeida 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,25
+293º 50217364 Gustavo Ferreira de Almeida 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,75
+294º 50214241 Aline Maria Macedo da Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+295º 50226460 Alan Carlos Costa Coelho 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,50
+296º 50213849 Sebastião Silva Neto 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,25
+297º 50214748 Fabio Baron Levy 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,00
+298º 50223801 Amanda Cordeiro de Souza 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 35,00
+299º 50224832 Gabriel Morais de Brito 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 29,50
+300º 50226878 Rodrigo Torregrosa Oliveira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 18,50
+301º 50227009 Maria Karolina de Souza Braga 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,00
+302º 50227769 Isabela Fernandes Moreira 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,50
+303º 50215434 Camila de Paula Tantos de Araujo Paes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+304º 50221744 Lincoln Gonçalves Vianna 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 24,25
+305º 50213270 Victor Leite Freihof 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+306º 50227750 Mauro Abud Filho 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,75
+307º 50226894 Giselle de Oliveira Peres 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 35,50
+308º 43417884 Pedro Guilherme Valsa de Barros 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 35,00
+309º 50221639 Camilo Leandro Breia 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,25
+310º 50217852 Douglas Correia da Silva 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 36,00
+3 11 º 50222155 Priscila Bride Coelho 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,75
+312º 50226673 Rafael Fialho Pereira da Cunha 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,00
+313º 50220888 Andre Freitas de Almeida 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 26,00
+314º 50221620 Diego Moraes Muniz 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 25,50
+315º 50227106 André Luiz Pacheco Reimão 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+316º 50216945 Raira dos Santos Moreira Muritiba 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 37,00
+317º 50228730 Andre Ricardo Pires Raymundo 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 31,50
+318º 44082762 Leonardo Cussa de Abreu e Lima 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 21,50
+319º 50227220 Claudio Cotrin Lins 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 36,25
+320º 50226657 Fellyphe Cavalcante Rodrigues Gomes 05.00.00 09.04.15 09.04.15 09.04.15 09.04.15 22,00
+321º 50222147 Gustavo Magno Aguiar 05.00.00 09.04.14 09.04.14 09.04.14 09.04.14 26,50
+322º 50256866 Genilson Faria Buzzi 05.00.00 09.01.10 09.01.10 09.01.10 21.05.20 26,25
+323º 50218638 Andre Gustavo Almeida Vieira Freire de Souza 0 4 . 11 . 2 9 09.04.13 09.04.13 09.04.13 09.04.13 29,50
+324º 43214940 Andre Ribeiro da Silva 0 4 . 11 . 2 8 08.08.24 08.08.24 15.03.18 15.03.18 29,25
+325º 50224131 Octávio Martins Junior * 04.07.20 09.00.03 09.00.03 09.00.03 09.00.03 -23,00
+326º 50227610 Carlos Renan Silveira Rosa 04.06.23 10.02.15 10.02.15 10.02.15 10.02.15 21,00
+327º 24312142 Fernando Cavalcante Fernandes de Oliveira 04.06.23 09.04.15 09.04.15 22.06.23 23.06.24 30,50
+328º 50128396 Marcos Vinicios de Freitas Maçana 04.06.23 09.04.15 09.04.15 12.02.08 12.02.08 22,50
+329º 44072694 João Mario Figueiredo de Araujo Lima 04.06.23 09.04.15 09.04.15 12.00.21 12.00.21 18,50
+330º 50219472 Felipe Correia Scovino de Araujo 04.06.23 09.04.15 09.04.15 10.01.20 10.01.20 24,50
+331º 5643945 Alex Moraes Farias 04.06.23 09.04.15 09.04.15 10.00.13 10.00.13 19,50
+332º 5 0 2 1 5 11 6 Flavio Lunguinho de Oliveira 04.06.23 09.04.15 09.04.15 09.04.15 18.01.04 17,75
+333º 50214985 Ana Karina Silva de Sant Anna 04.06.23 09.04.15 09.04.15 09.04.15 16.03.05 28,50
+334º 50218409 Flavia Cristina Sa de Castro 04.06.23 09.04.15 09.04.15 09.04.15 13.04.15 20,75
+335º 50223038 Felipe Martins Medeiros * 04.06.23 09.04.15 09.04.15 09.04.15 0 9 . 11 . 0 8 33,75
+336º 50219707 Raquel Lobao 04.06.23 09.04.15 09.04.15 09.04.15 09.10.23 34,00
+337º 50220225 Andre Luiz Silva Henriques 04.06.23 09.04.15 09.04.15 09.04.15 09.10.17 22,00
+338º 50220810 Elisama Wilson Ferreira Alencar 04.06.23 09.04.15 09.04.15 09.04.15 09.10.13 27,50
+339º 43038271 Igor Delatorre Gonçalves 04.06.23 09.04.15 09.04.15 09.04.15 09.10.10 20,75
+340º 50224557 Maria Jose de Paula Bessa 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+341º 50223305 Marluce Freitas de Sousa 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,50
+342º 5 5 4 11 7 4 Ricardo Lupi Ribeiro Martins 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 25,50
+343º 50223100 Adriana dos Santos Oliveira 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 28,50
+344º 50217402 Isabel Cristina Casasola Monteiro da Silva 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 27,75
+345º 50224751 Frede Uilson Souza De Jesus 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 25,25
+346º 50222473 Anna Karina de Mattos Kerber 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 20,00
+347º 50228226 Eduardo Meireles Neves 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 25,25
+348º 50219570 Elita Marina Neves Norões 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 31,75
+349º 50219944 Daniela de Aguiar Lobão 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,00
+350º 50219308 Eduardo Reis dos Santos Trezena Christino 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 28,50
+351º 50218522 Leonardo Ribeiro de Queiroz 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 17,50
+352º 50224050 Julio Stavale Galrao Leite 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 19,00
+353º 50222660 Bruno Lamego Cavalcante de Souza 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 23,50
+354º 50128400 Marcus Vinicius Souza Andrade 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 31,75
+355º 50216651 Priscila Alves Sa 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,00
+356º 50218905 Kelen Louzada Goulart 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 23,00
+357º 50216902 Luiz Fernando Kuhne de Figueiredo 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 31,75
+358º 50227793 Rafael Obeica Lima Magrani 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 23,75
+359º 50215000 Ayla Fecher Botelho Meireles 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,00
+360º 50215221 Monique Moreira Paiva 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 31,00
+361º 50219359 Geovanne Barbosa da Rocha Vieira de Araujo 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,50
+
+## Pagina 41
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0034/U0031/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+362º 50219626 Romulo Teixeira Carvalho 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 16,00
+363º 50213377 Paula de Azevedo Marques 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 19,75
+364º 50228633 Carlos Diego Ferreira de Carvalho Cunha 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 23,25
+365º 50218298 Romulo de Carvalho Rodrigues 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 17,75
+366º 50222791 Natasha Gomes de Almeida Munhoz 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 18,50
+367º 50222686 Josue da Costa Nunes Junior 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 24,00
+368º 50227033 Rafael Garcia Carvalho 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,00
+369º 50218654 Thiago Fernandez da Fonseca e Silva 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 33,00
+370º 50219316 Alexandre Maifrede Xavier 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 23,00
+371º 50215990 Thiago Esteff Pereira Horta 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,00
+372º 50226843 Marcella de Sa Mansur 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 26,00
+373º 50216880 Marcelo Ladewig de Araujo Fonseca 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 27,25
+374º 50220586 Patricia Soares do Nascimento Coutinho 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 16,75
+375º 50226746 Cintia de Souza Barbosa 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 34,50
+376º 50224727 Anderson Pereira Fernandes da Silva 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 17,75
+377º 50224433 Roberta Lins Melo 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 23,50
+378º 50214276 Michael Henrique Santos da Costa 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 26,75
+379º 11 5 0 7 9 1 8 Daniel Reis Cortes 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 29,50
+380º 50219952 César Wesley do Couto Filho 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 23,00
+381º 50102451 Roberto Cotta Ramalho dos Santos 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,00
+382º 50229133 Renata Guimaraes Trotta 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 19,00
+383º 42409390 Leandro da Silva Pereira 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 25,25
+384º 50227092 Cleber Moreira Pimenta Junior 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+385º 50216783 Vitor Barata de Araujo Navarro 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 18,00
+386º 50216821 Frederico Guilherme de Carvalho e Carvalho 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 18,00
+387º 50215272 Samantha Ramiro Nunes Barcel 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,50
+388º 50218034 Daniel da Costa Dias 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 23,25
+389º 50222260 Emiliano Vasconcelos Raimundo 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 31,00
+390º 50219448 Raquel da Costa de Freitas Coutinho 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 26,00
+391º 50223585 Leonardo Luiz Galdeano de Oliveira 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,75
+392º 50215310 Vinicius de Moura da Silva Barbosa 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 24,50
+393º 50125176 Elainne Christine Crescente Machado 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,50
+394º 50225936 Raquel Zandonai Ferreira 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 24,75
+395º 50217224 Juliana Lacerda Lorenzi da Costa Leite 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,75
+396º 50225960 Carlos Eduardo Ferreira de Aquino e Castro 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,00
+397º 50215213 Fabio Nami Harbes 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 17,00
+398º 50215841 Juliana Ribeiro da Silva Araujo 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 16,50
+399º 50214101 Jose Romulo de Assis Brito 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,00
+400º 50222210 Eduardo Pereira Ferreira de Rocha 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 27,50
+401º 50223003 Genelson Gomes de Souza Junior 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 24,00
+402º 50219499 Gabriel Couto da Hora 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,25
+403º 50228277 Igor Nascimento de Almeida 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 25,50
+404º 50215949 Artur Correia Carneiro 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,50
+405º 50222392 Jordan Aragao Camelo 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,75
+406º 50220543 Dennis Alexandre Rodrigues Telles 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 19,50
+407º 50228692 Paula Cristina Gouvea Rodopiano dos Santos 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 18,75
+408º 50223690 Dezire Pinheiro de Oliveira Apolinario 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 25,00
+409º 50226916 Gabriela Pereira de Melo 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,00
+410º 50218735 Thiago Signoretti Bueno de Almeida 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 19,00
+4 11 º 50216295 Roberto Jose de Goes Sobral Junior 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 6,00
+412º 50220616 Carolina Serra Nascimento 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 31,25
+413º 50214438 Diego Schuindt de Almeida 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 27,75
+414º 50225928 Izabela Viegas Denys Lima 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,00
+415º 50221850 Karla Macedo 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 24,25
+416º 50227521 Amanda Baptista da Silva 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 24,75
+417º 50226703 Joao Carlos Gonçalves de Oliveira Junior 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 25,25
+418º 50227351 Juliana Correa de Oliveira 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 30,25
+419º 50226967 Jose Eduardo Queiroz Pires de Souza 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+420º 50227084 Rômulo Bessa Magalhães França 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 20,50
+421º 50227483 Janaina de Souza Verly 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 30,50
+422º 44003277 Luciano Perrotta da Silva 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 24,00
+423º 50223224 Marisa Gabriela Nogueira do Nascimento 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 24,50
+424º 50222848 Priscila Gonçalves Santiago 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 28,25
+425º 50228552 Gustavo Henrique Almeida da Silva 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 18,00
+426º 50219324 Pedro Cassunde 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 23,50
+427º 50217615 Roberta Montagna de Freitas Coutinho Cascão 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 20,00
+428º 50221604 Diogo de Souza Rodrigues 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 17,00
+429º 50218301 Aline Silva Fernandes 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 25,25
+430º 50223089 Roberto Guzzo de Paula 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 26,50
+431º 50217062 Claudia Neves da Rocha Blaffeder 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 18,50
+432º 50227041 Daniel Meirelles de Figueiredo 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,25
+433º 50227270 Hugo de Souza Silva 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,00
+434º 50220241 Maite Taufner Acioli Aguilar 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 33,50
+435º 50228676 Ana Rosa Dantas Rehfeld 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,75
+436º 50227017 Fernando da Silva Oliveira 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 20,00
+437º 50212621 Muriel Mendes de Menezes 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 25,50
+438º 50218387 Julia Bianchi Reis Insuela 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,25
+439º 50225740 Roberta Cardoso da Cruz 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 25,50
+440º 50227238 Raiana Medeiros Del Castillo 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 30,75
+441º 50224255 Lucimara de Paula Fraccho Guanabarino 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 25,00
+442º 50219600 Lincoln de Senna Bordini Junior 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 19,00
+443º 15782174 Pedro Henrique Maia da Cunha 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,00
+444º 50217089 Marilia dos Santos Gabriel 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 26,25
+445º 50217178 Douglas de Abreu Bragança 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,25
+446º 50213423 Amanda Mendes Davila 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 27,00
+447º 50222570 Mariana Serta de Onofre 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 18,75
+448º 50225979 Débora Burity Dantas 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 22,50
+449º 50227580 Danielle Franco dos Santos do Monte 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 30,75
+450º 42670896 Felipe Sampaio Saturnino Braga 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 13,00
+451º 50228706 Eduardo Vinicius Costa de Vasconcelos 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 30,50
+452º 50222198 Silvio Antunes da Silva Junior 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,00
+453º 50227459 Guilherme da Nascimento Pereira Junior 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 24,50
+454º 50224085 Aloisio Russo Neto 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 24,00
+455º 50222872 Luan Elenio de Vasconcelos 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,50
+456º 50217658 Jéssica Silvia Littleton Lage Christino 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 29,75
+457º 50227831 Thamara Pessanha de Carvalho 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 29,00
+458º 50217313 Wallace Valle Ribeiro dos Santos 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 25,25
+459º 50220659 Ana Paula Cavalcanti Parpinelli 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 34,00
+460º 50225502 Andre Luiz Rabello Franco 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,50
+461º 50226053 Vanessa de Souza Machado 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 32,50
+462º 50227726 Rafael Carvalho Azevedo 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 26,50
+463º 50223542 Debora Almeida da Cunha Batista Mongelli 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,00
+464º 50217488 Augusto Colbert Miranda Neto 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 31,00
+465º 50213229 Douglas Ruas dos Santos 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 6,00
+466º 50228315 Heitor Silva e Lima 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 33,00
+467º 50217984 João Paulo Ururahy Padua Franco 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 27,25
+468º 50223313 William Thomaz da Conceição 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 20,75
+469º 50221531 Wayner Vigorito Gomide Filho 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 23,00
+470º 50220926 Jeferson Silva do Amaral 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 21,50
+471º 50227505 Monalisa Curvelo Gomes Castro da Costa 04.06.23 09.04.15 09.04.15 09.04.15 09.04.15 24,50
+472º 50219081 Rafael Vieira de Souza 04.06.23 09.04.12 09.04.12 09.04.12 09.04.12 20,00
+473º 50099370 Eddio Polo Coutinho Junior 04.06.23 09.00.21 09.00.21 09.00.21 09.00.21 19,50
+474º 50223194 Edson Pereira da Silva Junior 04.06.23 09.00.16 09.00.16 09.00.16 09.00.16 6,00
+475º 5 0 2 2 0 4 11 Dayana Galdeano de Oliviera 04.06.23 08.09.10 08.09.10 08.09.10 08.09.10 23,00
+476º 50224034 Jaciara Sousa dos Anjos 04.06.23 08.08.27 08.08.27 08.08.27 08.08.27 21,75
+477º 6129501 Carlos Barnabe Santos Souza 04.06.23 08.08.24 08.08.24 25.04.20 25.04.20 25,50
+478º 25094360 Rodrigo Oliveira Guedes 04.06.23 08.08.24 08.08.24 21.08.08 21.08.08 27,75
+479º 41404920 Anderson Pereira Pinto 04.06.23 08.08.24 08.08.24 20.10.23 20.10.23 19,00
+480º 41962958 Luciene de Azeredo Santana 04.06.23 08.08.24 08.08.24 18.07.25 18.07.25 27,50
+481º 41829492 Diego Suisso da Hora 04.06.23 08.08.24 08.08.24 17.10.19 17.10.19 18,50
+482º 42549809 Rodrigo Bigler Gama 04.06.23 08.08.24 08.08.24 16.08.18 16.08.18 19,00
+483º 4 3 0 3 7 0 11 Diogo da Cruz Gabriel 04.06.23 08.08.24 08.08.24 16.00.23 19.05.19 31,75
+484º 43205534 Gustavo Lacerda Freitag 04.06.23 08.08.24 08.08.24 15.03.18 15.03.18 29,50
+485º 43209130 Armando Goncalves de Souza Filho 04.06.23 08.08.24 08.08.24 15.03.18 15.03.18 26,75
+486º 43042864 Monique Mello Pereira 04.06.23 08.08.24 08.08.24 15.03.15 15.03.15 34,25
+487º 23643668 Savio Ferreira de Assis 04.06.23 08.08.24 08.08.24 15.02.26 15.02.26 32,75
+488º 43210716 Deivson Anjos Lima 04.06.23 08.08.24 08.08.24 15.02.21 21.07.09 26,75
+489º 4 3 2 5 8 6 11 Rafael Rodrigues Guimaraes 04.06.23 08.08.24 08.08.24 15.01.18 21.02.30 22,00
+490º 43369278 Diego Ramon de Mello Gonçalves 04.06.23 08.08.24 08.08.24 14.07.10 14.07.10 22,00
+491º 43416888 Silvio Correa da Costa 04.06.23 08.08.24 08.08.24 14.06.06 15.01.05 26,75
+492º 41925432 Rafael de Souza Lira 04.06.23 08.08.24 08.08.24 13.10.19 20.00.08 23,00
+493º 43581269 Josias da Fonseca Costa 04.06.23 08.08.24 08.08.24 13.10.02 13.10.02 21,25
+
+## Pagina 42
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0034/U0032
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+494º 43714730 Leandro de Carvalho Senra 04.06.23 08.08.24 08.08.24 13.04.05 17.05.00 29,00
+495º 43754759 Raphael Araujo Carrilho 04.06.23 08.08.24 08.08.24 13.02.20 13.02.20 20,00
+496º 41967267 Veronica Lacerda Batista Araujo 04.06.23 08.08.24 08.08.24 13.00.28 13.00.28 24,00
+497º 43718795 Adriano Robaina Bondade da Fonseca 04.06.23 08.08.24 08.08.24 12.10.27 12.10.27 28,75
+498º 44006667 Willian Menezes da Cunha 04.06.23 08.08.24 08.08.24 12.02.00 12.02.00 25,75
+499º 44060289 Marcelo Henriques Costa 04.06.23 08.08.24 08.08.24 12.00.21 12.00.21 28,25
+500º 42566622 Leonardo Correa Gonçalves 04.06.23 08.08.24 08.08.24 11 . 0 9 . 0 1 19.10.03 22,25
+501º 44054122 Mauricio Paiva Resnick 04.06.23 08.08.24 08.08.24 11 . 0 7 . 2 4 11 . 0 7 . 2 4 3,00
+502º 50332066 Karine Martins Cordeiro 04.06.23 08.08.24 08.08.24 11 . 0 1 . 2 5 11 . 0 1 . 2 5 21,75
+503º 50332880 Renato Ayres Veiga 04.06.23 08.08.24 08.08.24 10.06.01 10.06.01 32,25
+504º 44314965 Ana Beatriz Rocha Velasque Lima 04.06.23 08.08.24 08.08.24 10.04.28 10.04.28 35,75
+505º 50330730 Paulo Cesar Barbosa Lisboa 04.06.23 08.08.24 08.08.24 10.03.21 10.03.21 31,25
+506º 50098632 Alex Marques de Matos 04.06.23 08.08.24 08.08.24 10.02.17 10.02.17 38,25
+507º 50096893 Luciano Henrique Rocha Lima 04.06.23 08.08.24 08.08.24 10.00.21 10.00.21 16,00
+508º 50125923 Alexandre Rodrigues dos Santos 04.06.23 08.08.24 08.08.24 09.09.24 22.10.14 24,50
+509º 50156080 Felipe Blanco Lopes de Luca 04.06.23 08.08.24 08.08.24 09.08.28 09.08.28 28,00
+510º 50179918 Bruno Viannay dos Santos Fonseca 04.06.23 08.08.24 08.08.24 0 9 . 0 6 . 11 10.08.12 24,00
+5 11 º 42122090 Michelly Souza de Oliveira 04.06.23 08.08.24 08.08.24 09.06.04 11 . 0 3 . 2 1 25,75
+512º 43673341 Fabio Antonio Mello Barroso 04.06.23 08.08.24 08.08.24 09.00.15 13.05.16 19,00
+513º 50206192 Sandro Teixeira Caluza 04.06.23 08.08.24 08.08.24 0 8 . 11 . 1 9 0 8 . 11 . 1 9 27,00
+514º 50331906 Antonio Carlos Moreira de Mattos 04.06.23 08.08.24 08.08.24 08.08.24 2 5 . 11 . 2 0 26,75
+515º 50332090 Aslene Gorza da Cunha Monnerat 04.06.23 08.08.24 08.08.24 08.08.24 23.00.25 19,00
+516º 50330608 Sheila de Andrade Couto 04.06.23 08.08.24 08.08.24 08.08.24 23.00.14 26,75
+517º 50332384 Wandson do Prado Fernandes 04.06.23 08.08.24 08.08.24 08.08.24 2 2 . 11 . 0 3 21,25
+518º 50228528 Igor Silveira Magalhaes de Carvalho 04.06.23 08.08.24 08.08.24 08.08.24 22.00.15 25,75
+519º 50331957 Carlos Eduardo Duarte da Gloria 04.06.23 08.08.24 08.08.24 08.08.24 21.08.27 32,25
+520º 5 0 3 3 111 6 Gi ane Matos Martins 04.06.23 08.08.24 08.08.24 08.08.24 21.07.07 22,25
+521º 50330888 Eduardo Vieira Gato 04.06.23 08.08.24 08.08.24 08.08.24 18.10.22 28,00
+522º 50330179 Norber Graziel Serra 04.06.23 08.08.24 08.08.24 08.08.24 18.08.29 31,75
+523º 50330780 Deividi Douglas Barboza Batista 04.06.23 08.08.24 08.08.24 08.08.24 18.08.28 32,25
+524º 50330810 Fabricio Barbosa Santos 04.06.23 08.08.24 08.08.24 08.08.24 18.05.27 26,00
+525º 5 0 3 3 11 0 8 Paulo Segundo Fontenelle Junior 04.06.23 08.08.24 08.08.24 08.08.24 18.05.23 26,75
+526º 50330098 Norberto Thomaz Lauand 04.06.23 08.08.24 08.08.24 08.08.24 18.03.20 28,50
+527º 50332546 Richard da Costa Galvao 04.06.23 08.08.24 08.08.24 08.08.24 1 7 . 1 0 . 11 25,00
+528º 50330829 Debora Lopes Paes 04.06.23 08.08.24 08.08.24 08.08.24 17.09.15 26,75
+529º 50332783 Edevaldo Gloria de Oliveira 04.06.23 08.08.24 08.08.24 08.08.24 17.03.21 21,75
+530º 50332732 Alexandre Claudio Barreto 04.06.23 08.08.24 08.08.24 08.08.24 17.01.19 19,50
+531º 50329936 Thiago Severo Nunes 04.06.23 08.08.24 08.08.24 08.08.24 1 6 . 11 . 0 1 26,25
+532º 50332465 Andre Rosa Alves 04.06.23 08.08.24 08.08.24 08.08.24 16.07.03 26,25
+533º 50330993 Rodrigo Esteves Rittmeyer 04.06.23 08.08.24 08.08.24 08.08.24 16.03.06 23,50
+534º 50330551 Rosalvo Coelho Tanajura 04.06.23 08.08.24 08.08.24 08.08.24 16.00.15 22,00
+535º 50332198 Bernard Lima Winter 04.06.23 08.08.24 08.08.24 08.08.24 14.10.28 24,75
+536º 50331892 Vinicius Rodrigues Lourenço da Silva 04.06.23 08.08.24 08.08.24 08.08.24 14.08.25 22,00
+537º 50331841 Leonardo Alves Facio Hora 04.06.23 08.08.24 08.08.24 08.08.24 14.00.05 21,25
+538º 50329898 Wilder Fonseca Leite Junior 04.06.23 08.08.24 08.08.24 08.08.24 12.01.14 21,00
+539º 50332163 Vitor Pereira do Nascimento e Silva 04.06.23 08.08.24 08.08.24 08.08.24 11 . 0 8 . 2 4 19,75
+540º 50331060 Giorgio Nascimento de Oliveira 04.06.23 08.08.24 08.08.24 08.08.24 11 . 0 6 . 1 6 25,50
+541º 42085063 Lucas Leal Cadiz 04.06.23 08.08.24 08.08.24 08.08.24 11 . 0 0 . 1 6 21,00
+542º 50329472 José Carlos Pereira Neto 04.06.23 08.08.24 08.08.24 08.08.24 1 0 . 11 . 3 0 34,25
+543º 50330896 Tiago de Oliveira Carvalho 04.06.23 08.08.24 08.08.24 08.08.24 10.05.16 21,00
+544º 50332856 Ricardo Pimenta Fidelis 04.06.23 08.08.24 08.08.24 08.08.24 0 9 . 11 . 11 17,00
+545º 5 0 3 3 11 6 7 Veith Sascha Ignacio de Oliveira Ostefeldt 04.06.23 08.08.24 08.08.24 08.08.24 09.06.30 21,00
+546º 50330144 Haroldo Zacarias Junior 04.06.23 08.08.24 08.08.24 08.08.24 09.05.20 31,50
+547º 50331256 Peterson Luiz de Lima Morais 04.06.23 08.08.24 08.08.24 08.08.24 09.00.30 31,50
+548º 50331647 Rachel Barbosa da Costa 04.06.23 08.08.24 08.08.24 08.08.24 0 8 . 11 . 1 2 26,25
+549º 50330683 Sergio Ricardo Oliveira Pereira 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 30,00
+550º 50332740 Ricardo Pontes Vieira 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 24,25
+551º 50332139 Mauricio de Almeida Cabete 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 33,50
+552º 50331779 Fabio Behrensdorf Coutinho 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 22,00
+553º 50330314 Sirlene de Oliveira dos Santos Silva 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 25,25
+554º 50332449 Mario Augusto Rodrigues 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 27,00
+555º 50331655 Leomar Garcia da Silva 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 20,00
+556º 50330632 Paulo Luiz Neto 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 27,00
+557º 50331663 Claudia Arpon Silva 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 24,25
+558º 50329960 Flavio Augusto Pinto Correa 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 19,25
+559º 50330047 Fernando de Oliveira Gomes 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 33,50
+560º 50332872 Marco Aurelio Francisco Santiago 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 26,00
+561º 50329952 Henrique Rodrigues Merlino 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 28,25
+562º 50222449 Gustavo Faria de Toledo 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 23,25
+563º 50329600 Janaina Aragao da Silva Meira de Souza 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 22,00
+564º 50331949 Leonardo Augusto dos Santos Starling Loureiro 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 19,00
+565º 50332910 Renata da Silveira Aguiar 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 21,00
+566º 5921368 Claudio Roberto Bastos Gonçalves 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 29,25
+567º 50329634 Marcelo Alcantara da Silva 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 26,00
+568º 50329537 Jose Carlos Gonçalves Tavares 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 29,75
+569º 50331370 Leandro Ferreira Leite 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 20,50
+570º 50331884 Robson Batista Dias 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 34,25
+571º 50330152 Fernanda Souza dos Santos 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 26,25
+572º 50331230 Cesar Oliveira de Miranda 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 25,75
+573º 43985718 Diogo Sobral da Cunha 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 33,25
+574º 50330748 Giselle Marques da Fonseca Pereira 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 22,75
+575º 50330713 Romulo de Sousa Colonia 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 32,25
+576º 50329367 Lilian Ribeiro de Andrade 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 29,25
+577º 50330667 Delano Holanda Gonçalves 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 22,25
+578º 50098683 Anderson Magalhaes Testai 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 36,00
+579º 50330225 Fernanda da Silva Dezerto 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 33,25
+580º 50331434 Cristiano Barbosa Antunes 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 23,50
+581º 50329510 Jose Bento Vieira Ferreira Netto 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 18,50
+582º 5 0 3 3 2 5 11 Wellington Couto Bento 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 20,75
+583º 50332643 Ricardo Santiago de Miranda 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 24,75
+584º 50330080 Igor Sekiguchi D'andrea 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 30,75
+585º 50330403 Ryan de Mello Santos 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 31,25
+586º 44459106 Luis Fernando Fernandes Mitigo 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 31,25
+587º 50331353 Victor Couto Huguenin 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 20,00
+588º 50331213 Fabio Manhães Maciel 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 29,00
+589º 50329812 Maicon Dias de Carvalho 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 29,00
+590º 50331795 Meire Mendonça da Silva Reis 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 33,25
+591º 50331639 Francisco Carlos Ramos de Oliveira 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 18,75
+592º 50330420 Silvania Carneiro Martins 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 19,00
+593º 50330659 Giuseppe Hollweg Santalucia 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 27,50
+594º 50329545 Luciana Romero Tappin 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 21,25
+595º 50331426 Victor Franco de Lima 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 26,00
+596º 50329685 Jorge Francisco da Silva Lima 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 21,00
+597º 50332694 Ricardo Sampaio de Queiroz 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 23,00
+598º 50332899 Bruno Mazzei Reis 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 22,25
+599º 50332015 Raphael da Rocha Freitas 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 24,25
+600º 50330853 Cezar Augustus Sebastiao de Souza Silva 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 28,50
+601º 42086574 Raquel Lemos Pinto 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 27,00
+602º 50331396 Rafael Silva Avisk Barbosa 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 27,75
+603º 50330284 Thiago de Almeida Wanderley Chaves 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 28,00
+604º 50332945 Renan Barbosa Santos 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 27,25
+605º 50332007 Lara Lopes Gonzalez 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 21,25
+606º 50331671 Rodolpho Cardozo Pimentel 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 24,00
+607º 50330250 Gustavo Gimenes da Silva 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 25,25
+608º 50331469 Priscila Freitas de Souza 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 24,50
+609º 50332422 Carla Campana Senra 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 25,25
+610º 50330004 Thiago Ribeiro Manhães 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 27,25
+6 11 º 50331930 Camila Amaral Barbosa 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 25,50
+612º 50332686 Raphael Martins de Melo 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 29,00
+613º 50332538 Maria do Nascimento Arcanjo 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 26,25
+614º 50331752 Vinicius Paulino Cesar 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 27,00
+615º 50331809 Robson Vasconcelos Guimaraes Filho 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 23,00
+616º 50331710 Pedro Henrique Maia 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 20,00
+617º 50332481 Roberta Bastos de Freitas Fonseca 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 30,50
+618º 50332368 Bruna Michelle dos Santos Silva 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 18,25
+619º 50331477 Monique Florambel Bastos 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 29,00
+620º 50331400 Priscila Lopes Subtil 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 23,75
+621º 50331493 Catherine Guedes Macchiarulo 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 25,75
+622º 50331612 Saullo de Oliveira Carvalho 04.06.23 08.08.24 08.08.24 08.08.24 08.08.24 23,75
+623º 50330934 Danielly Medeiros França Vieira Oliveira 04.06.23 08.08.22 08.08.22 08.08.22 08.08.22 20,00
+624º 50216333 Fabiane Cristina Mendes da Cruz Moura 04.06.23 08.06.20 08.06.20 08.06.20 08.06.20 24,50
+625º 50217941 Daniela Feijó Ouriques Virgilio 04.06.23 08.05.27 08.05.27 08.05.27 08.05.27 33,50
+
+## Pagina 43
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0034/U0033/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+626º 50218174 Bruna Adnet Grisolia Chazan 04.06.07 09.04.00 09.04.00 09.04.00 09.04.00 23,00
+627º 50216988 Evandro Araujo Farias 04.03.19 08.08.02 08.08.02 08.08.02 17.08.27 21,25
+628º 50220047 Pietro Conti Rodrigues 04.01.18 08.06.03 08.06.03 08.06.03 10.00.06 21,50
+629º 50331868 Rafael Albuquerque Baiense da Silva 04.00.25 08.08.24 08.08.24 08.08.24 08.08.24 20,75
+630º 50224506 Guilherme Wellington da Silva 04.00.00 09.04.15 09.04.15 09.04.15 09.04.15 30,00
+631º 41796748 Joao Paulo Buechem 04.00.00 09.00.04 09.00.04 1 8 . 11 . 11 24.04.03 34,50
+632º 44142765 Rodrigo Santos Mauricio 04.00.00 08.08.24 08.08.24 11 . 0 4 . 11 11 . 0 4 . 11 31,00
+633º 5594707 Charles Alex Marques dos Santos 04.00.00 08.08.24 08.08.24 10.06.13 15.00.03 29,75
+634º 50126660 Deivison Campos Melo 04.00.00 08.08.24 08.08.24 09.09.24 09.09.24 27,00
+635º 50329480 Jorge Vinícius Muniz Magalhães 04.00.00 08.08.24 08.08.24 08.08.24 17.04.26 21,25
+636º 50332376 Andre Oliveira Sena 04.00.00 08.08.24 08.08.24 08.08.24 15.08.27 23,00
+637º 50332414 Raphael da Silva Loureiro 04.00.00 08.08.24 08.08.24 08.08.24 15.08.19 20,25
+638º 42698740 Jordan Robison da Costa Coutinho Junior 04.00.00 08.08.24 08.08.24 08.08.24 15.06.04 26,75
+639º 50331523 Vinicius Azulai Mendes 04.00.00 08.08.24 08.08.24 08.08.24 15.05.06 25,25
+640º 50332767 Bruno de Oliveira Nunes 04.00.00 08.08.24 08.08.24 08.08.24 14.08.10 18,00
+641º 50332040 Leonardo Barbosa Correa 04.00.00 08.08.24 08.08.24 08.08.24 14.06.06 34,50
+642º 50332830 Marcos Argôlo 04.00.00 08.08.24 08.08.24 08.08.24 14.05.29 23,00
+643º 50331450 Fabio Cardoso Ueoka 04.00.00 08.08.24 08.08.24 08.08.24 14.00.30 34,00
+644º 50331302 Fabio dos Santos Borges 04.00.00 08.08.24 08.08.24 08.08.24 13.04.18 24,00
+645º 50330535 Glaucio Alberto de Andrade dos Santos 04.00.00 08.08.24 08.08.24 08.08.24 13.03.27 21,00
+646º 50330381 Osmar de Alvarenga Pereira 04.00.00 08.08.24 08.08.24 08.08.24 12.10.09 21,00
+647º 5 0 3 3 2 11 2 Allan Vitor Marques de Oliveira 04.00.00 08.08.24 08.08.24 08.08.24 11 . 0 9 . 1 7 34,25
+648º 50332627 Alex Gregorio Batista 04.00.00 08.08.24 08.08.24 08.08.24 10.08.24 32,50
+649º 50330624 Ronaldo Luiz Ribeiro Junior 04.00.00 08.08.24 08.08.24 08.08.24 10.06.23 17,00
+650º 44008988 Fausto Ribeiro de Andrade 04.00.00 08.08.24 08.08.24 08.08.24 10.05.09 36,75
+651º 50329650 Luiz Felipe Moço da Silva 04.00.00 08.08.24 08.08.24 08.08.24 09.08.13 20,00
+652º 50329529 Jorge Vieira da Costa Filho 04.00.00 08.08.24 08.08.24 08.08.24 09.08.03 28,25
+653º 50330195 Marcelo Ventura Nogueira 04.00.00 08.08.24 08.08.24 08.08.24 09.05.20 27,50
+654º 50330233 Willian Mattos da Silva 04.00.00 08.08.24 08.08.24 08.08.24 0 8 . 11 . 2 3 28,50
+655º 50332708 Marcos Rodrigues dos Santos 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 24,00
+656º 50332279 Adilson Henriques Guimarães 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 38,25
+657º 50329588 Marcello Geoffroy Granzotto 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 17,25
+658º 50331043 Eduardo Cortes D'aguiar 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 26,25
+659º 5912342 Leandro de Souza Figueiredo 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 22,75
+660º 50329332 Julio Cezar de Oliveira 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 24,25
+661º 50332325 Adriana Ariadne Yegros 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,50
+662º 50332430 Adriana de Carvalho Monteiro 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 34,50
+663º 50329928 Natalia Delgado Barbosa da Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 26,25
+664º 50330640 Eliane Cristina de Abreu Silva Aleixo 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 26,75
+665º 50331388 Fabio Carvalho de Vasconcellos 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 20,50
+666º 50329677 Isabella Goncalves Barreto 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,25
+667º 50329359 Maiko Ferreira Martins 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 18,50
+668º 5 0 3 3 11 5 9 Daniele Dantas Figueira 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 25,25
+669º 50331558 Leandro Macêdo Silveira 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 22,25
+670º 50329340 Leonardo Campos Dantas 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 31,00
+671º 50329839 Jaqueline Fernandes Guimarães Marzo 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,25
+672º 50330870 David Nunes Cardoso 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 20,00
+673º 50331540 Fabio Alves Sampaio 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 20,25
+674º 50332252 Andre Hugo Silveira 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 21,25
+675º 50332333 Ricardo Dourado Lima Brito 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 21,50
+676º 50331531 Cristiane Martins Medeiros 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 26,75
+677º 50332490 Carla Pinto Gonçalves 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 25,00
+678º 43526535 Pedro Azzi Judice Martins 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 16,00
+679º 50329430 Jose Fernando Machado de Souza 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,50
+680º 50331850 Carlos Frederico Stadler Mc Kenzie 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 27,00
+681º 50331051 Paulo Roberto Guimaraes da Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 18,50
+682º 50331990 Virginia Martins Pereira 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 30,75
+683º 6505198 Raquel de Oliveira Chaves 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 32,00
+684º 50332864 Marcos Pinheiro Galvão 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 20,25
+685º 50329987 Flavia Cristina Costa 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 22,25
+686º 50329715 Isabel Nascimento e Mello 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 19,75
+687º 50330616 Felipe Araripe Marinho 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 14,75
+688º 50329421 Leonardo Duraes de Jesus 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 34,50
+689º 50332180 Julio Ferreira da Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 19,00
+690º 50332104 Jussara Fontinele Barreto da Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 17,00
+691º 50330950 Marco Vinicius Ramos Ximenes 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 32,00
+692º 50332228 Marlene Ferreira da Cunha Cardoso 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 26,00
+693º 50330071 Helder da Rocha Lopes 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,00
+694º 50330209 Erica Mota de Albuquerque 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 16,75
+695º 50330799 Fabricio Loureiro Moreira 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 18,00
+696º 50331981 Ana Carina Vieria Faraco 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 33,00
+697º 50330926 Fabio Sambugaro 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,25
+698º 50330268 Otavio Augusto Bianchin 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 31,25
+699º 50332600 Alessiani Ribeiro Matias de Melo 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 24,25
+700º 50332317 Marxuel da Silva Gonçalves 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 30,00
+701º 50330241 Felipe Silva Teixeira de Freitas 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 28,00
+702º 50331248 Leandro de Souza Salgueiro 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 22,50
+703º 50331345 Cecilia Cardoso Amaral Camarano 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 17,50
+704º 50331760 Leonardo Almeida David 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 31,50
+705º 50332589 Alessandra da Silva de Souza 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 27,00
+706º 50330349 Elvis Augusto Siqueira Miranda 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 19,00
+707º 50331329 Monique Miranda de Souza 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 30,00
+708º 50330837 Tiago Andre Mendes Ramos 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,50
+709º 44109474 Andre Luis Pinheiro da Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 27,50
+710º 50329464 Maira de Oliveira Machado 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 27,50
+7 11 º 5 0 3 3 11 7 5 Rafael Hekel Harrigan Duran 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 33,75
+712º 50330101 Fernando da Veiga Silvares Correa 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 33,25
+713º 50331728 Fábia Andrade da Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,00
+714º 50330470 Marcielio Zeferino de Souza Junior 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,50
+715º 50331442 George Franklin Jacinto da Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 24,50
+716º 50329405 Jose Rachid Junior 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 26,50
+717º 50330438 Gleison Garcia da Silva Almeida 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 32,50
+718º 50329723 Jonas Thiago Dutra Moreira 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 21,25
+719º 50331922 Laura Fregonesi de Carvalho 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 24,50
+720º 50332805 Raphael Paixao da Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,25
+721º 50330012 Flavia Carmelita de Paiva Pentagna 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 24,25
+722º 43305083 Janilson Felix Duarte Pinheiro 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 32,75
+723º 50329995 Nathalia Moraes Mendonça 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 21,00
+724º 50329308 Leonardo Jose Rodrigues dos Reis 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 24,00
+725º 50332287 Allan de Albuquerque Mourao 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 26,75
+726º 50330160 Diego Silva de Oliveira 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 25,00
+727º 50330527 Silmara Cristina Peres da Cunha 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 33,25
+728º 50330519 Marcelo Gonçalves da Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,50
+729º 50329561 Luiz Alexandre Carvalho dos Santos 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 19,00
+730º 50330861 Fabíola Medeiros Martins 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,50
+731º 50330764 Fatima Fafinha Lourenço Ferreira Canha 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 27,50
+732º 50331698 Rafhaelly Paes Loures 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 20,00
+733º 50329731 João Marcos Martinez Dourado 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 28,75
+734º 50329375 Josey da Silva Abreu 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,50
+735º 50329642 Jorge Luiz Vieira Fonseca 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 25,25
+736º 50331620 Vinicius Morgado da Costa 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 22,00
+737º 50332260 Bianca Tuler dos Santos 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 25,25
+738º 50330772 Elaine Rodrigues de Oliveira 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 29,00
+739º 50330136 Tabajara Lago Barbosa Neto 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 19,25
+740º 50330985 Daniele Pereira da Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 19,50
+741º 50331701 Carolina Loureiro da Silva Ferreira Lisbôa 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,75
+742º 50329570 Juliana Bucaresky da Fonseca Pinho 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 33,00
+743º 50330276 Erica Maria Falcao da Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 22,75
+744º 50332457 Abner Souza de Almeida 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 26,25
+745º 50332023 Amanda Pereira Soares 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 22,50
+746º 50330497 Diego Luiz Nogueira Correa 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 20,00
+747º 50330578 Diego Awi Machado de Attayde 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 19,00
+748º 50330330 Felipe Ianni Bragança Lima 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 19,50
+749º 50329499 Luciana Bernardes Peçanha 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 30,50
+750º 50333143 Priscilla Pereira Machado 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 17,00
+751º 50330489 Thiago Augusto Teixeira Sales 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 30,75
+752º 50329910 Igor Amaral Santos Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,00
+753º 50330756 Tassio Costa 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 39,00
+754º 50236466 Igor Santos da Mota Fernandes Lima 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 20,25
+755º 50330020 Natalia Ferreira Magano 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 22,00
+756º 50330373 Guilherme França do Nascimento Antunes Ferreira 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 29,00
+757º 5 0 3 3 0 4 11 Diego Marcell Martins de Jesus Afonso 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 30,25
+
+## Pagina 44
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0034/U0034
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+758º 50332562 Bruno Gonçalves Couto 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 22,25
+759º 50329383 Juliana Martins 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 31,50
+760º 50331361 Daniel Davi Silva Froes 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 21,00
+761º 50330390 Felipe Ferraz da Costa 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 27,00
+762º 50329626 Jorge Henrique Lopes de Freitas 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 20,50
+763º 50332082 Vitor Fontinelle Kilins Gehrt 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 31,50
+764º 50332554 Carlos Alexandre Di Lauro Pedreira 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 21,50
+765º 50331736 Rodolfo Paulo de Brito Santos 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 20,75
+766º 50331604 Michele Aparecida Gomes Gonzaga 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 31,50
+767º 50330217 Suellyn Garcia Bento Duarte Hugo 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 17,50
+768º 50329413 Marcelle Cardoso Calixto 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 31,75
+769º 50329774 Jonathan Ribeiro de Sousa 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 20,50
+770º 50330594 Diego Ambrosio Alvarez 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 25,25
+771º 50331744 Michelle Marinho Martins 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 19,00
+772º 50330306 Felipe Santana da Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 19,50
+773º 50098101 Mariana Tavares Vicente 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 18,00
+774º 50331566 Rachel Ornellas de Sousa 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 24,50
+775º 5 0 3 3 11 8 3 Pedro Henrique Dutra Lopes Guarilha 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 14,00
+776º 5 0 3 3 11 3 2 Pedro Henrique Oliveira Azevedo 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 26,25
+777º 50330187 Thiago dos Santos Machado 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,75
+778º 50331035 Paulo Roberto Menezes Russo 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 14,75
+779º 50330128 Erika Oliveira Valerio dos Santos 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 36,25
+780º 50332902 Renato Del Guerso 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 20,00
+781º 50332937 Bruno Gonçalves de Gouvea Dias 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 24,25
+782º 50331833 Camila de Oliveira Ferreira 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 21,50
+783º 50332678 Carlos Augusto da Silva 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 30,75
+784º 50331787 Carolina Coreixas Monteiro 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 27,25
+785º 50331574 Rafael Santos Rangel 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 18,50
+786º 50330039 Taina Guinodi dos Santos 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 23,75
+787º 50329820 Jhenniffer Nardo Lemos 04.00.00 08.08.24 08.08.24 08.08.24 08.08.24 34,00
+788º 50330365 Thiago Barbosa Fonseca Brown 04.00.00 08.08.22 08.08.22 08.08.22 08.08.22 24,75
+789º 50347462 Carla Patricia Novaes da Silva de Melo 04.00.00 08.06.12 08.06.12 08.06.12 08.06.12 15,00
+790º 50214713 Andre Rio Branco 04.00.00 08.00.29 08.00.29 08.00.29 08.00.29 24,00
+791º 50331221 George Zan de Santana 0 3 . 11 . 3 0 08.08.23 08.08.23 08.08.23 12.08.15 25,50
+792º 50217275 Sergio Luiz Freitas de Souza 0 3 . 11 . 2 9 08.04.13 08.04.13 08.04.13 08.04.13 26,25
+793º 50219030 Rafael Cunha Cazes Valentim 03.10.20 08.04.15 08.04.15 08.04.15 08.04.15 22,25
+794º 43182240 Diogo Ferreira de Barros 03.09.24 06.08.20 06.08.20 12.08.26 12.08.26 25,25
+795º 50224301 Geraldo Cassimiro Pereira Neto 03.08.23 0 7 . 11 . 1 6 0 7 . 11 . 1 6 0 7 . 11 . 1 6 0 7 . 11 . 1 6 17,00
+796º 50719270 Rafael Vaz Oliveira 03.06.23 07.10.26 07.10.26 07.10.26 07.10.26 16,50
+797º 50331280 Fábio Ferreira de Mello 03.06.23 07.10.01 07.10.01 07.10.01 13.04.14 21,00
+798º 50216139 William Augusto Bretz Silva 03.06.17 0 7 . 11 . 0 0 0 7 . 11 . 0 0 0 7 . 11 . 0 0 0 7 . 11 . 0 0 16,25
+799º 50330969 Rodrigo Henrique Figueiredo Nascimento 03.05.24 07.07.26 07.07.26 07.07.26 08.01.09 28,25
+800º 50228617 Vinicius Augusto Henrique Faria * 03.05.03 08.06.29 08.06.29 08.06.29 08.06.29 3,00
+801º 50331680 Sara Gabauer Fidalgo 03.02.25 07.04.27 07.04.27 07.04.27 07.04.27 18,25
+802º 50212907 Danielle Rodrigues Coelho dos Santos 03.00.00 07.10.10 07.10.10 07.10.10 07.10.10 13,00
+803º 50215531 Luis Gustavo da Silva Carmello 03.00.00 07.07.25 07.07.25 07.07.25 07.07.25 23,75
+804º 43377777 Rafael Baltar Abrahao 03.00.00 07.01.29 07.01.29 08.06.08 08.06.08 22,50
+805º 50809903 Rodrigo Menezes Rezende de Oliveira 03.00.00 07.01.29 07.01.29 07.01.29 12.08.26 20,50
+806º 42779693 Roberto Muzy de Medeiros 03.00.00 07.00.08 07.00.08 15.10.28 1 6 . 11 . 2 4 15,50
+807º 50821954 Cristiane Mendonça da Costa 03.00.00 07.00.06 07.00.06 07.00.06 17.07.19 7,50
+808º 42699347 Charles do Nascimento Sotero 02.06.23 09.04.15 09.04.15 16.04.06 16.04.06 (***)
+809º 50233343 Daniel Marques Gonçalves * 02.06.23 09.04.15 09.04.15 09.04.15 11 . 0 0 . 1 5 (***)
+810º 50329669 Luis Filipe de Castro Gambarra 02.06.23 08.07.10 08.07.10 08.07.10 08.07.10 (***)
+8 11 º 50097199 Ana Flavia Bernardi Pimenta Rodrigues de Aguiar 02.06.23 06.10.08 06.10.08 06.10.08 06.10.08 (***)
+812º 50838210 Fernanda Matos Carletti 02.06.23 06.09.28 06.09.28 06.09.28 06.09.28 (***)
+813º 50220780 Ana Iris Rabello Garcia da Silva 02.06.23 06.07.28 06.07.28 06.07.28 07.09.04 (***)
+814º 50125605 Renata Maria Zanitti Teixeira Scafutto de Menezes 02.06.23 06.07.26 06.07.26 07.03.13 07.03.13 (***)
+815º 5 0 2 1 8 6 11 Rafael Salgado Martins 02.03.22 05.05.17 05.05.17 05.05.17 05.05.17 (***)
+816º 43266339 Janderson Nascimento de Morais 02.03.21 06.08.00 06.08.00 06.08.00 17.00.13 (***)
+(*) Impedimento - Artigo 54 da Lei Complementar nº 204/2022.
+(**) Pontuação não publicada - O servidor encontra-se, provisoriamente, dentro do número de vagas disponibilizadas para o critério da Antiguidade.
+(***) Pontuação não publicada - O servidor não poderá integrar a lista para promoção por Merecimento, de acordo com o disposto no artigo 49, inciso II, da Lei Complementar nº 204/2022.
+Id: 2673682
+SECRETARIA DE ESTADO POLÍCIA CIVIL
+DEPARTAMENTO - GERAL DE GESTÃO DE PESSOAS
+SERVIÇO DE PROMOÇÃO
+E D I TA L
+Categoria Funcional: PERITO CRIMINAL - 2ª CLASSE
+O DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS , através do Serviço de Promoções (SEPROM/DGGP), faz publicar o Edital Provisório de Apuração de Tempo de Serviço de concorrentes, com vistas à promoção
+na categoria funcional de Perito Criminal à 1ª Classe, na validade de 21/04/2024, em cumprimento ao despacho de 18/08/2025, do processo ad ministrativo nº SEI-360008/002330/2025, para ciência e eventuais con-
+testações dos interessados, no prazo de 30 (trinta) dias, contados da data da publicação, nos termos da Lei Complementar nº 204 /2022.
+O processo administrativo respectivo encontra-se à disposição do servidor no SEPROM/DGGP, para consulta do quesito de desempate por maior idade, em conformidade com a Lei Federal nº 13.709/2018 (Lei Geral de
+Proteção de Dados - LGPD).
+Considerando as informações prestadas pelo Serviço de Controle e Análise de Cargos Efetivos e em Comissão (SCACEC/DGGP), será destinado ao presente certame o total de 02 (duas) vagas, sendo 01 (uma)
+destinada ao critério de antiguidade e 01 (uma) destinada ao critério de merecimento.
+O recurso de tempo de serviço deverá ser enviado através do SEI, inserindo no campo Tipo de Processo a opção “Recursos Humanos: Promoção e Pro gressão”, e no campo Especificação o texto “RECURSO DE
+TEMPO DE SERVIÇO - PERITO CRIMINAL À 1ª CLASSE - VALIDADE DE 21/04/2024”.
+O recurso de pontuação deverá ser objetivamente fundamentado e enviado através do SEI, inserindo no campo Tipo de Processo a opção “Recursos Humanos: Promoção e Progressão”, e no campo Especificação o
+texto “RECURSO DE PONTUAÇÃO - PERITO CRIMINAL À 1ª CLASSE - VALIDADE DE 21/04/2024”, devendo conter as justificativas do pedido de revisão de nota e, se for o caso, anexar todos os documentos que
+julgar convenientes, contemplando os motivos constantes no Decreto nº 3.044/80 e suas posteriores alterações.
+Não serão aceitos recursos encaminhados através de e-mail.
+Tempo de Serviço - Validade 21/04/2024
+Ord.
+Ant.
+Id. Funcional Nome Classe
+aa.mm.dd
+Categoria Funcional
+aa.mm.dd
+Serv. Polícia Civil
+aa.mm.dd
+Serv. Público Estadual
+aa.mm.dd
+Serv. Público Geral
+aa.mm.dd
+Pontuação
+1º 40732363 Claudia Rejane Reis dos Santos 19.06.23 23.01.24 23.01.24 23.01.24 24.06.20 (**)
+2º 29656753 Alexandre Leonardo Rocha Pinto 19.06.23 23.01.24 23.01.24 23.01.24 23.01.24 88,25
+3º 29657148 Daniel Amaral dos Santos 18.00.00 23.01.24 23.01.24 23.01.24 24.01.15 83,00
+4º 29674433 Jairo Silva Esteves 18.00.00 23.01.24 23.01.24 23.01.24 23.01.24 87,00
+5º 29656630 Claudio Marcio Freitas Lourenço 18.00.00 23.01.24 23.01.24 23.01.24 23.01.24 92,50
+6º 29657741 William Gladstone Leite Constant Junior 18.00.00 23.01.24 23.01.24 23.01.24 23.01.24 83,50
+7º 29658969 Cassio Ribeiro 18.00.00 23.01.24 23.01.24 23.01.24 23.01.24 75,00
+8º 32326572 Tito Jose Nogueira de Abreu Fialho * 1 7 . 11 . 1 4 23.01.05 23.01.05 23.01.05 23.01.05 60,00
+9º 29661579 Rosane da Rocha Souza 16.06.23 23.01.24 23.01.24 23.01.24 23.01.24 91,25
+10º 29661340 Renata Araujo de Carvalho 16.06.23 23.01.24 23.01.24 23.01.24 23.01.24 84,00
+11 º 29652561 Ronaldo Coelho Starling 15.06.23 23.01.24 23.01.24 23.01.24 26.07.17 99,00
+12º 29660173 Sergio Carlos dos Santos Saraiva 15.06.23 23.01.24 23.01.24 23.01.24 23.01.24 83,50
+13º 29686725 Luiz Alberto Moreira Coelho 15.06.06 23.01.05 23.01.05 23.01.05 2 3 . 11 . 2 4 95,00
+14º 29692725 Alexandre Firme Maciel 15.00.00 23.01.24 23.01.24 23.01.24 27.01.24 81,00
+15º 29679737 Wellington da Silva Filho 15.00.00 23.01.24 23.01.24 23.01.24 23.01.24 60,00
+16º 29696658 Marcos Aurelio Queiroz 15.00.00 23.01.24 23.01.24 23.01.24 23.01.24 65,00
+17º 29697832 Rhone Alves Amaral 15.00.00 23.01.24 23.01.24 23.01.24 23.01.24 90,00
+18º 35664754 Marcio Araujo Soares 15.00.00 21.04.10 21.04.10 21.04.10 21.04.10 71,00
+19º 29666759 Alberto Silva da Costa 1 4 . 11 . 1 0 23.01.01 23.01.01 23.01.01 23.01.01 63,00
+20º 29660882 Felipe Bento Jung 14.07.17 17.02.17 17.02.17 17.02.17 17.02.17 82,75
+21º 29668026 Elcio Carvalho da Costa 14.06.23 23.01.24 23.01.24 23.01.24 23.01.24 77,00
+22º 29699673 Shirley Ribeiro Farias 13.06.23 23.01.24 23.01.24 23.01.24 23.01.24 71,50
+23º 29658730 Fabio Ferreira Neves 13.06.23 23.01.24 23.01.24 23.01.24 23.01.24 59,25
+24º 4 0 7 3 11 4 6 Helio Martins Junior 13.06.06 23.01.05 23.01.05 23.01.05 23.01.05 77,00
+25º 29656451 Denise Gutman Almada 13.00.00 23.01.24 23.01.24 23.01.24 23.01.24 74,75
+26º 29654840 Decio Nepomuceno da Silva 11 . 0 6 . 2 3 23.01.24 23.01.24 23.01.24 23.01.24 65,75
+27º 5651212 Sergio Rodrigues da Rocha 11 . 0 6 . 2 3 21.05.07 21.05.07 21.05.07 21.05.07 76,00
+28º 32160836 Jose Sergio Meirelles Costa 10.06.23 23.01.24 23.01.24 23.01.24 23.01.24 58,25
+29º 43551440 Helio Ricardo da Fonseca Santos 10.06.23 23.01.24 23.01.24 23.01.24 23.01.24 70,50
+30º 42494826 Roberto Vilela de Oliveira Junior 10.06.23 23.01.24 23.01.24 23.01.24 23.01.24 85,25
+31º 29657857 Alexandre Dias Brandão 09.06.23 23.01.24 23.01.24 23.01.24 23.01.24 55,00
+32º 29679133 Marcos Teixeira Correa 09.00.00 23.01.24 30.06.02 30.06.02 32.02.19 36,00
+
+## Pagina 45
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0034/U0035/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+33º 29670543 Alberto Soares Batista 09.00.00 23.01.24 23.01.24 23.01.24 23.01.24 54,00
+34º 40731677 Jesse Costa Duarte 09.00.00 23.01.24 23.01.24 23.01.24 23.01.24 48,00
+35º 29655340 Edilo Sudo 09.00.00 23.01.24 23.01.24 23.01.24 23.01.24 52,50
+36º 29657920 Jorge Airton Pereira de Resende 09.00.00 23.01.24 23.01.24 23.01.24 23.01.24 56,75
+37º 40731979 Antonio Luiz Coelho 09.00.00 23.01.01 23.01.01 23.01.01 2 5 . 11 . 1 2 68,25
+38º 5647398 Fabio de Oliveira Martinez Alonso 08.08.19 1 9 . 0 8 . 11 1 9 . 0 8 . 11 1 9 . 0 8 . 11 1 9 . 0 8 . 11 55,00
+39º 32328184 Reginaldo Gomes Leal 08.06.23 23.01.24 23.01.24 27.09.19 27.09.19 55,00
+40º 29688442 Joelmir Moreira Portes 08.06.23 23.01.24 23.01.24 23.01.24 27.05.17 39,00
+41º 29698863 Marcelo Louro Silverio 08.06.23 23.01.24 23.01.24 23.01.24 27.02.23 40,25
+42º 43793550 Maria Clara Siqueira Campos Lisboa Telhado 08.06.23 14.00.05 14.00.05 14.00.05 14.05.30 71,75
+43º 41303032 Ricardo Alexandre Sanabria da Silva Borda 08.00.00 2 2 . 11 . 2 3 2 2 . 11 . 2 3 24.10.10 24.10.10 59,00
+44º 43795501 Marcelo Ribeiro 08.00.00 14.00.05 14.00.05 14.00.05 19.01.05 92,00
+45º 43794823 Bruno Cesar Santos de Castro 08.00.00 14.00.05 14.00.05 14.00.05 14.00.05 59,25
+46º 41785665 Andre Sarlo Bernardino 08.00.00 14.00.05 14.00.05 14.00.05 14.00.05 71,00
+47º 43795773 Fernando Bonelli Wanderley 08.00.00 14.00.05 14.00.05 14.00.05 14.00.05 61,00
+48º 43794831 Soraya Rodrigues dos Santos 08.00.00 14.00.05 14.00.05 14.00.05 14.00.05 54,00
+49º 35684534 Andre Souto Jorge Ferreira da Silva * 07.06.23 21.02.12 21.02.12 21.02.12 21.02.12 -62,00
+50º 37951831 Edson Fernandes da Silva 07.06.23 14.00.05 14.00.05 18.02.15 18.02.15 52,50
+51º 43339514 Rafael da Silva Batista 07.06.23 14.00.05 14.00.05 15.09.00 15.09.00 (***)
+52º 43262880 Tatiana Hessab de Castro Aranha 07.06.23 14.00.05 14.00.05 15.08.10 15.08.10 (***)
+53º 43794750 Jorge Luiz Sampaio Morgado 07.06.23 14.00.05 14.00.05 14.05.02 2 1 . 0 9 . 11 (***)
+54º 43796249 Andre da Silva Freitas 07.06.23 14.00.05 14.00.05 14.00.05 15.04.07 (***)
+55º 43795994 Magno Ronan de Oliveira 07.06.23 14.00.05 14.00.05 14.00.05 14.04.12 (***)
+56º 43793967 Rafael Marques de Pinho Beyruth 07.06.23 14.00.05 14.00.05 14.00.05 14.02.06 (***)
+57º 43796150 Marcelo Couto Sanches 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+58º 43793851 Alexandre Alves Catão 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+59º 43793444 Adriana Sousa de Oliveira 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+60º 43793975 Davidson Alencar Diniz 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+61º 43793681 Aline Paula de Oliveira 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+62º 43793649 Pablo Pinto de Souza 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+63º 43794076 Jose Vitor Tomaz Knopp 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+64º 43790739 Kelly Carla Almeida de Souza Borges 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+65º 43796060 Leandro Ribeiro Pinto 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+66º 43302440 Rurik Galimberti Peixoto de Abreu 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+67º 43794718 Felipe Peres Oliveira da Silva 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+68º 43794777 Diogo Jose Melo Sant'Anna 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+69º 43794700 Ana Claudia Lednik 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+70º 43794670 Clara Calil da Costa Alves 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+71º 43793924 Luiza Torres Abrantes 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+72º 43795226 Renato Cesar Godoy Bichara 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+73º 4 3 7 9 3 7 11 Andre Ribeiro Vieira 07.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+74º 44031955 Marcio Ferreira Pinto 07.06.23 13.00.29 13.00.29 13.00.29 13.00.29 (***)
+75º 44031831 Alexsandro de Azevedo da Silva 07.06.23 13.00.29 13.00.29 13.00.29 13.00.29 (***)
+76º 44031920 Priscila Mululo Madela 07.06.23 13.00.29 13.00.29 13.00.29 13.00.29 (***)
+77º 4 4 0 3 2 11 0 Elaine Cristina Galdino Bernardo Marotta 07.06.23 13.00.29 13.00.29 13.00.29 13.00.29 (***)
+78º 43795293 Fagner Luiz de Abreu Tayano Dias 07.00.00 14.00.05 14.00.05 14.00.05 18.10.23 (***)
+79º 5617219 Andrea Rodrigues Garcia Barroso 07.00.00 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+80º 43359469 Luiz Augustus Gonçalves Neves 07.00.00 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+81º 43795358 Felipe Tsuruta Lisboa Cruz 07.00.00 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+82º 42074592 Leandro de Souza Duque 06.06.23 14.00.05 14.00.05 19.02.18 19.02.18 (***)
+83º 42035287 Daniel Pimenta de Menezes 06.06.23 14.00.05 14.00.05 19.01.26 19.01.26 (***)
+84º 43793665 Saulo Moreira da Cunha Sardinha 06.06.23 14.00.05 14.00.05 14.00.05 21.02.27 (***)
+85º 43794874 Mauro Jorge Pisani dos Santos 06.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+86º 43796109 Andre Luis Bontempo Rantigueri 06.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+87º 42090741 Paulo Antonio Paladino Pereira 06.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+88º 43793622 Vitor Consentino Ribeiro 06.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+89º 43794033 Victor Satiro de Medeiros 06.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+90º 43794599 Rui Jose Coelho Junior 06.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+91º 43294820 Rafael Dias Mayer 06.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+92º 43730345 Luciano Heringer Matos 06.06.23 13.00.29 14.03.00 14.03.00 19.01.18 (***)
+93º 44031904 Suelen Marquione Lima de Araújo 06.06.23 13.00.29 13.00.29 13.00.29 13.00.29 (***)
+94º 43793797 Denis Guimarães 06.00.00 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+95º 43794980 Mateus Figueira Gandra 06.00.00 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+96º 6342876 Samila Lustosa da Costa Santos 06.00.00 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+97º 44032064 Danielle Lopes de Almeida 06.00.00 13.00.29 13.00.29 13.00.29 1 7 . 0 8 . 11 (***)
+98º 5593450 Alex Campos de Souza 05.06.23 14.00.05 14.00.05 16.00.24 16.00.24 (***)
+99º 43795161 Maria Jose Andrade da Costa Dourado 05.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+100º 43796036 Cesar de Souza Guimarães 05.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+101º 43795072 Monica Dias Garcia Penteado 05.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+102º 43795935 Sergio Eduardo Goz Vasconcellos 05.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+103º 43795048 Uilian Teodoro de Oliveira Silva 05.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+104º 43795447 Marco Antonio dos Santos Ricciardi Junior 05.00.00 14.00.05 14.00.05 14.00.05 24.05.05 (***)
+105º 43899307 Luciana Silva do Amaral 05.00.00 09.04.20 09.04.20 10.03.24 10.03.24 (***)
+106º 50353845 Ludmilla Carvalho Coutinho 05.00.00 09.04.20 09.04.20 09.04.20 09.04.20 (***)
+107º 43795129 Cinthia Sales Malta 04.06.23 14.00.05 14.00.05 14.00.05 14.00.05 (***)
+108º 43795498 Roberto da Silva Liarth 04.06.23 14.00.00 14.00.00 14.00.00 16.00.05 (***)
+109º 50353853 Isabela Meireles de Souza Ferreira 04.06.23 09.04.20 09.04.20 09.04.20 16.01.02 (***)
+11 0 º 50353993 Nicolle Figueira Robaina 04.06.23 09.04.20 09.04.20 09.04.20 09.04.20 (***)
+111 º 50353764 Marcus Vinicius Cunha dos Santos 04.06.23 09.04.20 09.04.20 09.04.20 09.04.20 (***)
+11 2 º 4 2 4 8 4 111 Priscila Alves Marques Fernandes 04.06.23 08.07.07 08.07.07 08.07.07 11 . 1 0 . 2 9 (***)
+11 3 º 44031777 Thiago Ventura Scoralick Braga 04.00.00 12.08.02 12.08.02 12.08.02 12.08.02 (***)
+11 4 º 43745628 Elvis Alessandro Fernandes de Araujo 04.00.00 09.04.20 09.04.20 1 4 . 0 1 . 11 1 4 . 0 1 . 11 (***)
+11 5 º 43479081 Daniel Busquet de Souza 04.00.00 09.04.20 09.04.20 10.06.22 13.08.04 (***)
+11 6 º 50354787 Wanderson de Freitas Pereira Neto 04.00.00 09.04.20 09.04.20 09.04.20 09.04.20 (***)
+11 7 º 50354833 Andre Vinicius dos Santos Canuto 04.00.00 09.04.20 09.04.20 09.04.20 09.04.20 (***)
+11 8 º 50353772 Livia Fernandes Santos 04.00.00 09.04.20 09.04.20 09.04.20 09.04.20 (***)
+11 9 º 50353799 Rafael Rocha Silva 03.06.23 09.04.20 09.04.20 09.04.20 22.02.17 (***)
+120º 50353810 Thais Prata Terra de Rezende 03.06.23 09.04.20 09.04.20 09.04.20 09.04.20 (***)
+121º 50375822 Camilla Dutra Vieira Machado 03.06.23 08.07.07 08.07.07 08.07.07 08.07.07 (***)
+122º 5 0 3 7 5 9 11 Raquel Greice de Souza Marotta Alfaia 03.00.00 08.07.07 08.07.07 08.07.07 08.07.07 (***)
+123º 50354728 Andre Garcia Pereira 02.06.23 09.04.20 09.04.20 19.09.00 19.09.00 (***)
+124º 43603530 Fernando Gomes de Almeida 02.06.23 09.04.20 09.04.20 14.00.04 14.00.04 (***)
+125º 50353900 Mirian Silveira Cacilhas 02.06.23 09.04.20 09.04.20 09.04.20 16.01.03 (***)
+126º 50353861 Andre Luiz Pereira da Silva 02.06.23 09.04.20 09.04.20 09.04.20 10.05.21 (***)
+127º 50353837 Igor Zanetti Biaes 02.06.23 09.04.20 09.04.20 09.04.20 09.04.20 (***)
+128º 50353950 Renata de Lima Fernandes 02.06.23 09.04.20 09.04.20 09.04.20 09.04.20 (***)
+129º 50353985 Natalia Machado da Fonseca 02.06.23 09.04.20 09.04.20 09.04.20 09.04.20 (***)
+130º 50375750 Ariana dos Santos 02.06.23 08.07.07 08.07.07 08.07.07 08.07.07 (***)
+131º 44322895 Enio Carlos do Amaral 02.00.00 09.04.20 09.04.20 11 . 0 1 . 1 9 19.05.09 (***)
+(*) Impedimento - Artigo 54 da Lei Complementar nº 204/2022.
+(**) Pontuação não publicada - O servidor encontra-se, provisoriamente, dentro do número de vagas disponibilizadas para o critério da Antiguidade.
+(***) Pontuação não publicada - O servidor não poderá integrar a lista para promoção por Merecimento, de acordo com o disposto no artigo 50, inciso I, da Lei Complementar nº 204/2022.
+Id: 2673683
+SECRETARIA DE ESTADO POLÍCIA CIVIL
+D E PA R TA M E N TO - GERAL DE GESTÃO DE PESSOAS
+SERVIÇO DE PROMOÇÃO
+E D I TA L
+Categoria Funcional: PERITO LEGISTA - 2ª CLASSE
+O DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS , através do Serviço de Promoções (SEPROM/DGGP), faz publicar o Edital Provisório de Apuração de Tempo de Serviço de concorrentes, com vistas à promoção
+na categoria funcional de Perito Legista à 1ª Classe, na validade de 21/04/2024, em cumprimento ao despacho de 18/08/2025, do processo adm inistrativo nº SEI-360008/002311/2025, para ciência e eventuais con-
+testações dos interessados, no prazo de 30 (trinta) dias, contados da data da publicação, nos termos da Lei Complementar nº 204 /2022.
+O processo administrativo respectivo encontra-se à disposição do servidor no SEPROM/DGGP, para consulta do quesito de desempate por maior idade, em conformidade com a Lei Federal nº 13.709/2018 (Lei Geral de
+Proteção de Dados - LGPD).
+Considerando as informações prestadas pelo Serviço de Controle e Análise de Cargos Efetivos e em Comissão (SCACEC/DGGP), serão destinadas ao presente certame o total de 7 (sete) vagas, sendo 5 (cinco)
+destinadas ao critério de antiguidade e 2 (duas) destinadas ao critério de merecimento.
+O recurso de tempo de serviço deverá ser enviado através do SEI, inserindo no campo Tipo de Processo a opção “Recursos Humanos: Promoção e Progressão”, e no campo Especificação o texto “RECURSO DE
+TEMPO DE SERVIÇO - PERITO LEGISTA À 1ª CLASSE - VALIDADE DE 21/04/2024”.
+O recurso de pontuação deverá ser objetivamente fundamentado e enviado através do SEI, inserindo no campo Tipo de Processo a opção “Recursos Humanos: Promoção e Progressão”, e no campo Especificação o
+texto “RECURSO DE PONTUAÇÃO - PERITO LEGISTA À 1ª CLASSE - VALIDADE DE 21/04/2024”, devendo conter as justificativas do pedido de revisão de nota e, se for o caso, anexar todos os documentos que julgar
+convenientes, contemplando os motivos constantes no Decreto nº 3.044/80 e suas posteriores alterações.
+Não serão aceitos recursos encaminhados através de e-mail.
+
+## Pagina 46
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0034/U0036
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+Tempo de Serviço - Validade 21/04/2024
+Ord.
+Ant.
+Id. Funcional Nome Classe
+aa.mm.dd
+Categoria Funcional
+aa.mm.dd
+Serv. Polícia Civil
+aa.mm.dd
+Serv. Público Estadual
+aa.mm.dd
+Serv. Público Geral
+aa.mm.dd
+Pontuação
+1º 6 11 7 8 9 9 Elcio Carneiro Carvalho Junior 09.00.00 22.01.03 22.01.03 22.01.03 29.01.20 (**)
+2º 5646804 Flavia Cristina Fontes Mello de Almeida 09.00.00 22.01.03 22.01.03 22.01.03 26.09.05 (**)
+3º 31973159 João Ferreira Neto 09.00.00 22.01.03 22.01.03 22.01.03 22.01.03 (**)
+4º 19766327 Marcia Jupira Freicheiras Simão 09.00.00 22.01.03 22.01.03 22.01.03 22.01.03 (**)
+5º 5646618 Claudia Roberta Rodrigues Santos 09.00.00 22.01.03 22.01.03 22.01.03 22.01.03 (**)
+6º 5646863 Marcos Cesar da Costa Duarte 09.00.00 22.01.03 22.01.03 22.01.03 22.01.03 39,75
+7º 5646731 Ricardo Henrique do Carmo Coimbra 09.00.00 22.00.27 22.00.27 22.00.27 22.00.27 43,00
+8º 41772784 Gustavo Cerqueira de Carvalho 09.00.00 20.02.29 20.02.29 20.02.29 20.02.29 41,75
+9º 30477158 Alfredo de Carvalho Maio Filho 08.06.23 22.01.03 22.01.03 22.01.03 23.00.30 39,50
+10º 5647240 Jose Carlos Ismerio 08.06.23 22.01.03 22.01.03 22.01.03 22.01.03 45,50
+11 º 5647096 Paulo Cesar Alves da Silva Filho 08.06.23 22.01.03 22.01.03 22.01.03 22.01.03 35,75
+12º 5708931 Bruna Zacharias Fortunato 08.06.23 21.02.03 21.02.03 21.02.03 21.02.03 41,00
+13º 5647193 Alberto Jorge de Souza Carvalho 07.06.23 22.01.03 22.01.03 22.01.03 22.01.03 35,25
+14º 5647274 Paulo Fidelis Teixeira 07.06.23 22.01.03 22.01.03 22.01.03 22.01.03 34,50
+15º 5646723 Claudio Alberto Pinto Moreira 07.06.23 22.01.03 22.01.03 22.01.03 22.01.03 28,00
+16º 41377931 Gustavo Figueira Rodrigues 07.06.23 22.01.03 22.01.03 22.01.03 22.01.03 32,25
+17º 5647231 Monica Aparecida Santos Coutinho 07.06.23 22.00.25 22.00.25 22.00.25 24.06.20 40,25
+18º 31607306 Wagner Teixeira 07.06.23 22.00.22 22.00.22 22.00.22 22.00.22 33,00
+19º 41383699 Monica Christina Rodrigues Carvalho 07.06.23 21.02.03 21.02.03 21.02.03 21.02.03 33,00
+20º 24449865 Eduardo Lerner 07.06.23 21.02.03 21.02.03 21.02.03 21.02.03 33,75
+21º 30206375 Marcos Ulysses Meinicke Freres 07.06.23 20.10.05 20.10.05 30.01.10 30.01.10 37,50
+22º 32354444 Paulo Roberto Pinheiro 07.06.23 20.10.05 20.10.05 29.07.20 29.07.20 48,25
+23º 41772750 Marcio Eduardo Braga 07.06.23 20.10.05 20.10.05 20.10.05 27.10.04 45,25
+24º 41772660 Leonardo Garcia Wernersbach 07.06.23 20.10.05 20.10.05 20.10.05 20.10.05 31,00
+25º 24440639 Fabio Gomes de Sousa 07.06.23 20.10.05 20.10.05 20.10.05 20.10.05 38,25
+26º 5659930 Lilian Alves Vieira 07.00.00 21.02.03 21.02.03 21.02.03 21.02.03 37,00
+27º 6152961 Frederico D'Andrea Varella 07.00.00 20.10.05 20.10.05 22.10.05 24.09.05 40,50
+28º 41772695 Ricardo Jose Villar Sarmento 07.00.00 20.10.05 20.10.05 20.10.05 39.06.29 35,50
+29º 30142261 Roberto Leonardo Zuccarello Freire 07.00.00 20.10.05 20.10.05 20.10.05 20.10.05 46,25
+30º 5500788 Marcos Augusto de Jesus 07.00.00 19.08.10 19.08.10 25.01.01 25.01.01 33,25
+31º 5646936 Guilherme de Medeiros Barcelos da Silva 06.10.01 2 1 . 11 . 0 3 2 1 . 11 . 0 3 2 1 . 11 . 0 3 2 1 . 11 . 0 3 33,00
+32º 41772687 Fernanda de Lima Cardoso 06.06.23 20.09.29 20.09.29 20.09.29 20.09.29 27,00
+33º 50099892 Vanessa Moreira Andrade 06.06.23 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 53,00
+34º 5660416 Leonardo Dias Ribeiro 06.00.00 16.10.00 16.10.00 16.10.00 16.10.00 44,00
+35º 50099906 Paulo Maurício de Santa Martha 06.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 22.00.20 31,75
+36º 50099809 Christian Abreu Stibich 06.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 20.06.20 27,75
+37º 50100610 Helio de Castro Junior 06.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 1 8 . 11 . 2 5 41,00
+38º 50100068 Gustavo da Silveira Maciel 06.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 1 6 . 0 7 . 11 35,00
+39º 43745385 Fernando Marotta Junior 06.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 13.04.04 29,00
+40º 50100491 Braz Schettino 06.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 33,25
+41º 50099779 Hector Alberto Flores Medina 06.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 30,50
+42º 50099990 Raquel Cenachi Madalosso 06.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 38,25
+43º 50099760 Helio Nobre da Silva Ramos 06.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 10,25
+44º 30154367 Marcelo Alves da Silva 05.09.01 16.07.02 16.07.02 16.07.02 16.07.02 -82,00
+45º 50100033 Luciana Madalena Loriato de Lima Pires 05.06.23 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 1 0 . 2 1 37,50
+46º 50100440 Vivian Arasy Pinheiro Bejarano 05.06.23 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 35,25
+47º 5 0 1 0 0 2 11 Pedro Filgueiras Hidalgo 05.06.23 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 22,00
+48º 19835213 Fabio Dias da Rocha 05.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 25.06.20 25.06.20 22,75
+49º 6151400 Marcelo Augusto Entringes 05.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 21.03.19 24.04.17 20,00
+50º 42776007 Raphael Camara Medeiros Parente 05.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 16.09.29 12,00
+51º 50100017 Alipio Dos Santos Rocha 05.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 13.01.06 (***)
+52º 50100645 Carlos Rogerio Monnerat de Carvalho 05.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 (***)
+53º 50100122 Diego Rissi Carvalhosa 05.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 (***)
+54º 50099965 Luis Henrique de Almeida Zanini 05.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 (***)
+55º 50099787 Arthur de Mello Prates 05.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 (***)
+56º 50099930 Eliza Cristiana Faria de Oliveira 05.00.00 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 11 . 0 4 . 0 4 (***)
+57º 50230069 Taynara Aguiar de Azeredo 05.00.00 10.04.12 10.04.12 10.04.12 10.04.12 (***)
+58º 5649315 Ricardo Campos Barcellos 05.00.00 10.00.07 22.00.20 22.00.20 22.00.20 (***)
+59º 50100548 Anderson de Oliveira Teixeira 04.06.23 09.01.20 09.01.20 09.01.20 09.01.20 (***)
+60º 4 3 5 111 9 8 Juli ano Souza de Abreu Hidd 04.06.23 08.03.02 08.03.02 08.03.02 08.03.02 (***)
+61º 5646910 Carlos Alberto Simões 04.00.00 21.09.07 21.09.07 21.09.07 21.09.07 (***)
+62º 5647142 Eduardo da Costa Rodrigues 02.09.22 15.10.18 15.10.18 15.10.18 15.10.18 (***)
+(*) Impedimento - Artigo 54 da Lei Complementar nº 204/2022.
+(**) Pontuação não publicada - O servidor encontra-se, provisoriamente, dentro do número de vagas disponibilizadas para o critério da Antiguidade.
+(***) Pontuação não publicada - O servidor não poderá integrar a lista para promoção por Merecimento, de acordo com o disposto no artigo 50, inciso I, da Lei Complementar nº 204/2022.
+Id: 2673684
+Operator50816349SECRETARIA DE ESTADO POLÍCIA CIVIL
+DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS
+SERVIÇO DE PROMOÇÕES
+E D I TA L
+CATEGORIA FUNCIONAL: INVESTIGADOR POLICIAL - 2ª CLASSE
+O DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS , através do Serviço de Promoções (SEPROM/DGGP), faz publicar o Edital Provisório de Apuração de Tempo de Serviço de concorrentes, com vistas à promoção
+na categoria funcional de Investigador Policial à 1ª Classe, na validade de 29/09/2024, em cumprimento ao despacho de 26/08/2025, do processo administrativo nº SEI-360008/002421/2025, para ciência e eventuais
+contestações dos interessados, no prazo de 30 (trinta) dias, contados da data da publicação, nos termos da Lei Complementar nº 204/2022.
+O processo administrativo respectivo encontra-se à disposição do servidor no SEPROM/DGGP, para consulta do quesito de desempate por maior idade, em conformidade com a Lei Federal nº 13.709/2018 (Lei Geral de
+Proteção de Dados - LGPD).
+Considerando as informações prestadas pelo Serviço de Controle e Análise de Cargos Efetivos e em Comissão (SCACEC/DGGP), será destinado ao presente certame o total de 50 (cinquenta) vagas, sendo 33 (trinta e
+três) destinadas ao critério de antiguidade e 17 (dezessete) destinadas ao critério de merecimento.
+O recurso de tempo de serviço deverá ser enviado através do SEI, inserindo no campo Tipo de Processo a opção “Recursos Humanos: Promoção e Pro gressão”, e no campo Especificação o texto “RECURSO DE
+TEMPO DE SERVIÇO - INVESTIGADOR POLICIAL À 1ª CLASSE - VALIDADE DE 29/09/2024”.
+O recurso de pontuação deverá ser objetivamente fundamentado e enviado através do SEI, inserindo no campo Tipo de Processo a opção “Recursos Humanos: Promoção e Progressão”, e no campo Especificação o
+texto “RECURSO DE PONTUAÇÃO - INVESTIGADOR POLICIAL - VALIDADE DE 29/09/2024”, devendo conter as justificativas do pedido de revisão de nota e, se for o caso, anexar todos os documentos que julgar
+convenientes, contemplando os motivos constantes no Decreto nº 3.044/80 e suas posteriores alterações.
+Não serão aceitos recursos encaminhados através de e-mail.
+Tempo de Serviço - Validade 29/09/2024
+Ord.
+Ant.
+ID. Funcional Nome Classe
+aa.mm.dd
+Categoria Funcional
+aa.mm.dd
+Serv. Polícia Civil
+aa.mm.dd
+Serv. Público Estadual
+aa.mm.dd
+Serv. Público Geral
+aa.mm.dd
+Pontuação
+1º 4 3 2 11 7 5 5 Flavia Ferreira Brandão 02.00.00 05.04.02 05.04.02 16.07.29 16.07.29 (**)
+2º 51038137 Thiago Lima da Costa 02.00.00 05.01.10 05.01.10 05.01.10 05.01.10 (**)
+(*) Impedimento - Artigo 54 da Lei Complementar nº 204/2022.
+(**) Pontuação não publicada - O servidor se encontra dentro do número de vagas disponibilizadas para o critério da Antiguidade .
+(***) Pontuação não publicada - O servidor não poderá integrar a lista para promoção por Merecimento, de acordo com o disposto no artigo 49, inciso II, da Lei Complementar nº 204/2022.
+Id: 2674037
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+D E PA R TA M E N TO -GERAL DE GESTÃO DE PESSOAS
+SERVIÇO DE PROMOÇÕES
+E D I TA L
+CATEGORIA FUNCIONAL: INVESTIGADOR POLICIAL - 2ª CLASSE
+O DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS , através do Serviço de Promoções (SEPROM/DGGP), faz publicar o Edital Provisório de apuração de Tempo de Serviço de concorrentes, com vistas à promoção
+de Investigador Policial à 1ª Classe, na validade de 21/04/2025, em cumprimento ao despacho de 27/08/2025 do Processo nº SEI-360008/002447/2025, para ciência e eventuais contestações dos interessados, no prazo
+de 30 (trinta) dias, nos termos da Lei Complementar nº 204/2022.
+O processo administrativo respectivo encontra-se à disposição do servidor no SEPROM/DGGP, para consulta do quesito de desempate por maior idade, em conformidade com a Lei Federal nº 13.709/2018 (Lei Geral de
+Proteção de Dados - LGPD).
+Considerando as informações prestadas pelo Serviço de Controle e Análise de Cargos Efetivos e em Comissão (SCACEC/DGGP), será destinado ao presente certame o total de 56 (cinqüenta e seis) vagas, sendo 37
+(trinta e sete) destinadas ao critério de antiguidade e 19 (dezenove) destinadas ao critério de merecimento.
+O recurso de tempo de serviço deverá ser enviado através do SEI, inserindo no campo Tipo de Processo a opção “Recursos Humanos: Promoção e Pro gressão”, e no campo Especificação o texto “RECURSO DE
+TEMPO DE SERVIÇO - INVESTIGADOR POLICIAL À 1ª CLASSE - VALIDADE DE 21/04/2025”.
+O recurso de pontuação deverá ser objetivamente fundamentado e enviado através do SEI, inserindo no campo Tipo de Processo a opção “Recursos Humanos: Promoção e Progressão”, e no campo Especificação o
+texto “RECURSO DE PONTUAÇÃO - INVESTIGADOR POLICIAL À 1ª CLASSE - VALIDADE DE 21/04/2025”, devendo conter as justificativas do pedido de revisão de nota e, se for o caso, anexar todos os documentos
+que julgar convenientes, contemplando os motivos constantes no Decreto nº 3.044/80 e suas posteriores alterações.
+Não serão aceitos recursos encaminhados através de e-mail.
+
+## Pagina 47
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0034/U0037/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+Tempo de Serviço - Validade 21/04/2025
+Ord.
+Ant.
+ID. Funcional Nome Classe
+aa.mm.dd
+Categoria Funcional
+aa.mm.dd
+Serv. Polícia Civil
+aa.mm.dd
+Serv. Público Estadual
+aa.mm.dd
+Serv. Público Geral
+aa.mm.dd
+Pontuação
+NÃO HÁ CONCORRENTES
+Id: 2674053
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+EXTRATO DE TERMO ADITIVO
+I N S T R U M E N TO : Primeiro Termo Aditivo ao Convênio nº 004/2024.
+PA R T E S : Secretaria de Estado de Polícia Civil e o Município de Ma-
+caé.
+O B J E TO : Prorrogar o prazo de vigência do Convênio, renovável, atra-
+vés de outros Termos Aditivos.
+PRAZO: Pelo presente instrumento fica prorrogado o prazo de vigên-
+cia do convênio por 12 (doze) meses, iniciando em 28/08/2025 e fi-
+nalizando em 28/08/2026, podendo ser renovado por iguais períodos,
+na forma da lei, dando-se ao convênio o prazo total de 24 (vinte e
+quatro) meses.
+VA L O R : R$ 1.303.936,32 (um milhão, trezentos e três mil, novecentos
+e trinta e seis reais e trinta e dois centavos) por doze meses de vi-
+gência.
+DATA DA ASSINATURA: 22/08/2025.
+PROCESSO Nº SEI-360101/000094/2023. Id: 2673639
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+EXTRATO DE TERMO ADITIVO
+I N S T R U M E N TO : 1º Termo Aditivo ao Termo de Cooperação Técnica
+nº 24/2023
+PA R T E S : O Estado do Rio de Janeiro, por intermédio da Secretaria
+de Estado de Polícia Civil - SEPOL e a Empresa Gabriel Tecnologia
+LT D A .
+O B J E TO : Fica prorrogado o prazo de vigência deste Termo de Co-
+operação Técnica pelo período de 24 (vinte e quatro) meses, a partir
+do dia 28/08/2025, podendo ser renovado por iguais períodos, na for-
+ma da lei.
+VIGÊNCIA: O presente Termo de Cooperação Técnica vigerá pelo pe-
+ríodo de 24 (vinte e quatro) meses, a partir de 28/08/2025.
+VA L O R : presente Termo de Cooperação Técnica é celebrado a título
+gratuito, não implicando compromissos financeiros ou transferência de
+recursos entre os Partícipes e não gerando direito à indenização, ca-
+bendo a cada uma das Partes arcar com eventuais despesas decor-
+rentes de suas atividades.
+DATA DA ASSINATURA: 22/08/2025.
+F U N D A M E N TO : Processo SEI-360030/000100/2023. Id: 2673640
+Secretaria de Estado de Defesa Civil
+SECRETARIA DE ESTADO DE DEFESA CIVIL
+CORPO DE BOMBEIROS MILITAR DO ESTADO
+DO RIO DE JANEIRO
+EXTRATO DE INSTRUMENTO CONTRATUAL
+I N S T R U M E N TO : Termo de Adesão.
+PA R T E S : O Estado do Rio de Janeiro, através do Corpo de Bom-
+beiros Militar do Estado do Rio de Janeiro, e a empresa SAAE AN-
+GRA DOS REIS.
+SECRETARIA DE ESTADO DE DEFESA CIVIL
+CORPO DE BOMBEIROS MILITAR DO ESTADO
+DO RIO DE JANEIRO
+E X T R ATO S DE INSTRUMENTOS CONTRATUAIS
+I N S T R U M E N TO : Termo de Contrato nº 078/2025
+PA R T E S : O Estado do Rio de Janeiro, através do Corpo de Bom-
+beiros Militar do Estado do Rio de Janeiro, e a empresa DIMORVAN
+DAVI MENEGUSSO LTDA.
+O B J E TO : O objeto do presente instrumento é a contratação de em-
+presa para aquisição de equipamentos de combate a incêndios flo-
+restais.
+VIGÊNCIA: O prazo de vigência do contrato será de 12 (doze) me-
+ses, contados a partir da data de publicação deste instrumento no
+DOERJ.
+VALOR TOTAL: Dá-se a este contrato o valor total de R$ 60.690,00
+(sessenta mil seiscentos e noventa reais).
+DATA DA ASSINATURA: 25/07/2025
+GESTOR TÉCNICO OPERACIONAL: CAP BM QOC/14 MARCUS VI-
+NICIUS DE SOUZA DE OLIVEIRA, RG: 49.186, ID Funcional:
+50276522.
+GESTOR TÉCNICO OPERACIONAL SUBSTITUTO: 1º TEN BM
+QOC/17 MARLLON DO ESPIRITO SANTO OLIVEIRA, RG: 53.413, ID
+Funcional: 50881272.
+MEMBROS: 2º TEN BM QOC/19 JEAN BRENNO MARTINS DE AL-
+MADA, RG: 53.492, ID Funcional: 51067218 e Asp Of BM QOC/21
+VINICIUS XAVIER DA SILVA, RG: 53.714, ID Funcional: 51239957.
+MEMBRO SUBSTITUTO: 2º Ten BM QOC/19 SERGIO MURILO DE
+LIMA SOUZA, RG: 53.491, ID Funcional: 51067196.
+F U N D A M E N TO : Processo nº SEI-270005/000892/2025.
+I N S T R U M E N TO : Termo de Contrato nº 079/2025
+PA R T E S : O Estado do Rio de Janeiro, através do Corpo de Bom-
+SECRETARIA DE ESTADO DE DEFESA CIVIL
+CORPO DE BOMBEIROS MILITAR DO ESTADO
+DO RIO DE JANEIRO
+EXTRATO DE TERMO ADITIVO
+I N S T R U M E N TO : 2º Termo Aditivo ao Contrato nº 086/2023.
+PA R T E S : Estado do Rio de Janeiro, através do Corpo de Bombeiros
+Militar do Estado do Rio de Janeiro, e a empresa UTN - UNIDADE
+DE TRATAMENTO NEFROLÓGICO E SERVIÇOS LTDA.
+O B J E TO : Termo Aditivo de prorrogação do contrato nº 086/2023, re-
+lativo à contratação de empresa especializada na prestação de ser-
+viço de diálise e plasmaferese (terapia renal substitutiva) para o sis-
+tema de saúde do Corpo de Bombeiros Militar do Estado do Rio de
+Janeiro (CBMERJ), conforme Termo de Referência, com fundamento
+no art. 57, inciso II, da Lei nº 8.666/93 e na Cláusula Segunda, Pa-
+rágrafo Primeiro do contrato, assim como a concessão do reajuste
+contratual, com fundamento no art. 55 inciso III, da Lei n° 8.666/93, e
+no Parágrafo Oitavo da Cláusula Nona do contrato.
+VIGÊNCIA: O prazo de vigência do contrato por 12 (doze) meses a
+contar de 24/08/2025.
+VALOR TOTAL: Dá-se ao termo aditivo o valor de R$ 960.533,09
+(novecentos e sessenta mil quinhentos e trinta e três reais e nove
+centavos).
+DATA DA ASSINATURA: 21/08/2025.
+F U N D A M E N TO : Processo nº SEI-270003/001681/2025.
+Id: 2673743
+CORPO DE BOMBEIROS MILITAR DO ESTADO
+DO RIO DE JANEIRO
+RETIFICAÇÃO
+D.O. DE 27/08/2025
+PÁGINA 29 - 1ª COLUNA
+E D I TA L
+Processo nº SEI-270001/002890/2025
+Onde se lê:
+EXONERAÇÃO
+GRADUAÇÃO NOME RG ID FUNCIONAL TA R E FA L O TA Ç Ã O
+... ... ... ... ... ...
+SUBTENENTE BM CARLOS JOSE DE ARAUJO SAMPAIO 9.43Ex0 2619457-0 Administração DGAS
+... ... ... ... ... ...
+NOMEAÇÃO
+GRADUAÇÃO NOME RG ID FUNCIONAL TA R E FA L O TA Ç Ã O
+SUBTENENTE BM LUIZ MARTINGIL RAMOS 5.088 2616833-2 Manutenção e Serviços Gerais (Obra) 11º GBM
+... ... ... ... ... ...
+Leia-se:
+EXONERAÇÃO
+GRADUAÇÃO NOME RG ID FUNCIONAL TA R E FA L O TA Ç Ã O
+... ... ... ... ... ...
+SUBTENENTE BM CARLOS JOSE DE ARAUJO SAMPAIO 9.430 2619457-0 Administração DGAS
+... ... ... ... ... ...
+NOMEAÇÃO
+GRADUAÇÃO NOME RG ID FUNCIONAL TA R E FA L O TA Ç Ã O
+2º SARGENTO BM LUIZ MARTINGIL RAMOS 5.088 2616833-2 Manutenção e Serviços Gerais (Obra) 11º GBM
+... ... ... ... ... ...
+Id: 2673911
+O B J E TO : Contrato de prestação de serviço público de fornecimento
+de água e esgotamento sanitário.
+VIGÊNCIA: Termo celebrado por prazo indeterminado.
+VALOR TOTAL: R$ 23.284,81 (vinte e três mil duzentos e oitenta e
+quatro reais e oitenta e um centavos).
+DATA DA ASSINATURA: 07/04/2025.
+F U N D A M E N TO : Processo nº SEI-270006/010629/2024.
+Id: 2673750
+beiros Militar do Estado do Rio de Janeiro, e a empresa ITURRI
+S.A.
+O B J E TO : O presente CONTRATO tem por objeto a AQUISIÇÃO DE
+COTURNOS DE COMBATE A INCÊNDIO.
+VIGÊNCIA: O prazo de vigência do contrato será de 12 (doze) meses,
+contados a partir da data de publicação deste instrumento no
+DOERJ.
+VALOR TOTAL : Dá-se a este contrato o valor total de R$
+1.319.500,00 (um milhão, trezentos e dezenove mil e quinhentos
+reais).
+DATA DA ASSINATURA: 25/08/2025
+GESTOR TÉCNICO OPERACIONAL: MAJOR BM QOC/08 LEANDRO
+CORREA DOS SANTOS SILVA, RG: 40.884, ID Funcional: 4332043-
+0.
+GESTOR TÉCNICO OPERACIONAL SUBSTITUTO: MAJOR BM
+QOC/09 FABIANO PAIXÃO DA SILVA, RG: 45.313, ID Funcional:
+4359901-0.
+MEMBROS: CAPITÃO BM QOC/13 IGOR MOTTA DE MATTOS COS-
+TA, RG: 49.129, ID Funcional: 5027671-0 e 1º TENENTE BM QOC/17
+DIEGO LOPES BERNARDES, RG: 53.391, ID Funcional: 50880217.
+MEMBRO SUBSTITUTO: SUBTENENTE BM Q00/98 LUIZ CLAUDIO
+TEIXEIRA DA SILVA, RG: 18.780, ID Funcional: 2637641-5.
+F U N D A M E N TO : Processo nº SEI-270005/000992/2025.
+Id: 2673758
+Secretaria de Estado de Saúde
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE GESTÃO ESTRATÉGICA
+ASSESSORIA TÉCNICA DE PROCESSAMENTO
+DE SANÇÕES DAS OSS
+AV I S O
+DÁ CIÊNCIA a Organização Social de Saúde HOSPITAL PSIQUIA-
+TRICO ESPÍRITA MAHATMA GANDHI , inscrita no CNPJ sob o nº
+47.078.019/0001-14, da decisão de segunda instância administrativa
+no processo apuratório nº SEI-080001/009810/2022, acerca da Ges-
+tão, Operacionalização e Execução da Unidade de Pronto Atendimen-
+to (UPA) 24H Marechal Hermes, regido pelo Contrato de Gestão nº
+015/2019, que: "[...] CONHEÇO do Recurso Administrativo interposto
+pela Organização Social de Saúde Hospital Psiquiátrico Espirita
+Mahatma Gandhi e, no mérito, julgo PARCIALMENTE PROCEDENTE,
+reduzindo a multa aplicada pelo julgador de primeiro grau para R$
+3.000,00 (três mil reais).
+Id: 2673880
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE GESTÃO ESTRATÉGICA
+ASSESSORIA TÉCNICA DE PROCESSAMENTO
+DE SANÇÕES DAS OSS
+AV I S O
+DÁ CIÊNCIA à Organização Social de Saúde HOSPITAL PSIQUIÁ-
+TRICO ESPÍRITA MAHATMA GANDHI , inscrita no CNPJ sob o nº
+47.078.019/0001-14, da decisão de segunda instância administrativa
+no processo apuratório nº SEI-080001/024489/2022, acerca da Ges-
+tão, Operacionalização e Execução no Hospital de Traumatologia e
+Ortopedia Dona Lindú, regido pelo Contrato de Gestão nº 016/2020,
+que: "[...] CONHEÇO do Recurso Administrativo interposto pela Orga-
+nização Social de Saúde Hospital Psiquiátrico Espírita Mahatma
+Gandhi e, no mérito, julgo PARCIALMENTE PROCEDENTE, reduzindo
+a multa aplicada pelo julgador de primeiro grau para R$ 2.500,00
+(dois mil e quinhentos reais). Id: 2673881
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA EXECUTIVA
+SUPERINTENDÊNCIA DE COMPRAS E LICITAÇÕES
+COORDENAÇÃO DE LICITAÇÃO
+AV I S O
+A COORDENAÇÃO DE LICITAÇÃO/SES, torna pública a seguinte li-
+citação:
+PREGÃO ELETRÔNICO Nº 189/25.
+O B J E TO : Registro de Preços para aquisição de insumo nutricional
+(MILNUTRI PREMIUM SOJA/ LATA DE 800G), para atender à Asses-
+soria de Atendimento às Demandas Judiciais, na forma estabelecida
+neste Edital e seus anexos.
+ABERTURA DAS PROPOSTAS: 10/09/2025, às 09:00 horas.
+ETAPA DE LANCES: 10/09/2025, às 09:00 horas.
+PROCESSO Nº SEI-080001/005887/2025.
+O edital encontra-se à disposição dos interessados nos sites:
+www.compras.rj.gov.br, https://sei.fazenda.rj.gov.br e
+www.gov.br/pncp/pt-br. Podendo também ser retirado de forma impres-
+sa, na Coordenação de Licitação, mediante a entrega de 01 (uma)
+resma de papel tamanho A4, sito à Rua Barão de Itapagipe, 225, 7º
+Andar - Rio Comprido - Rio de Janeiro - RJ - CEP 20261-901, de 2ª
+a 6ª feira, das 10:00 às 16:00 hs, informações pelo e-mail: licita-
+c a o @ s a u d e . r j . g o v. b r. Id: 2673955
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE GESTÃO ESTRATÉGICA
+ASSESSORIA TÉCNICA DE PROCESSAMENTO
+DE SANÇÕES DAS OSS
+AV I S O
+DÁ CIÊNCIA a Organização Social de Saúde INSTITUTO DE DE-
+SENVOLVIMENTO, ENSINO E ASSISTÊNCIA À SAÚDE- IDEAS ,
+
+## Pagina 48
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0034/U0038
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+CNPJ nº 24.006.302/0004-88, da decisão de primeira instância admi-
+nistrativa no processo apuratório nº SEI-080001/000072/2025, acerca
+da Gestão, Operacionalização e Execução no COMPLEXO ESTA-
+DUAL DE SAÚDE HOSPITAL ESTADUAL ALBERTO TORRES/ HOS-
+PITAL ESTADUAL JOÃO BATISTA CÁFFARO/ UPA SÃO GONÇALO I
+, regido pelo Contrato de Gestão nº 002/2022, que: "... aplico o valor
+total da multa em R$ 2.775,00 ( dois mil, setecentos e setenta e cinco
+reais, em respeito ao princípio da razoabilidade e proporcionalidade,
+bem como ao limite máximo de 5% (cinco por cento) estipulados nos
+contratos de gestão. Ficando desde já ciente a referida Organização
+Social de Saúde (OSS), que é facultada a apresentação de Recurso
+Administrativo em atendimento ao art. 5º, LV, da CRFB de 1988 c/c
+com o art. 5ª da Resolução SES nº 2324/2021, no prazo de 15 (quin-
+ze) dias úteis. O presente prazo será computado na forma do que
+dispõem o art. 224 da Lei nº13.105 de 2015.
+Id: 2673882
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA EXECUTIVA
+SUPERINTENDÊNCIA DE COMPRAS E LICITAÇÕES
+COORDENAÇÃO DE LICITAÇÃO
+AV I S O
+A COORDENAÇÃO DE LICITAÇÃO/SES, torna pública a seguinte li-
+citação:
+PREGÃO ELETRÔNICO Nº 190/25.
+O B J E TO : Registro de Preços para aquisição de medicamento (TOCI-
+LIZUMABE 162MG/0,9ML - SERINGA PREENCHIDA), para atender à
+Assessoria de Atendimento às Demandas Judiciais, na forma estabe-
+lecida neste Edital e seus anexos.
+ABERTURA DAS PROPOSTAS: 10/09/2025, às 10:00 horas.
+ETAPA DE LANCES: 10/09/2025, às 10:00 horas.
+PROCESSO Nº SEI-080001/009889/2025.
+O edital encontra-se à disposição dos interessados nos sites:
+www.compras.rj.gov.br, https://sei.fazenda.rj.gov.br e
+www.gov.br/pncp/pt-br. Podendo também ser retirado de forma impres-
+sa, na Coordenação de Licitação, mediante a entrega de 01 (uma)
+resma de papel tamanho A4, sito à Rua Barão de Itapagipe, 225, 7º
+Andar - Rio Comprido - Rio de Janeiro - RJ - CEP 20261-901, de 2ª
+a 6ª feira, das 10:00 às 16:00 hs, informações pelo e-mail: licita-
+c a o @ s a u d e . r j . g o v. b r.
+Id: 2673956
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA EXECUTIVA
+SUPERINTENDÊNCIA DE COMPRAS E LICITAÇÕES
+COORDENAÇÃO DE LICITAÇÃO
+AV I S O
+A COORDENAÇÃO DE LICITAÇÃO/SES, torna pública a seguinte li-
+citação:
+PREGÃO ELETRÔNICO Nº 191/25.
+O B J E TO : Registro de Preços para aquisição de medicamento (BIS-
+SULFATO DE CLOPIDOGREL 75MG - COMPRIMIDO REVESTIDO),
+para atender à Assessoria de Atendimento às Demandas Judiciais, na
+forma estabelecida neste Edital e seus anexos.
+ABERTURA DAS PROPOSTAS: 10/09/2025, às 14:00 horas.
+ETAPA DE LANCES: 10/09/2025, às 14:00 horas.
+PROCESSO Nº SEI-080001/009618/2025.
+O edital encontra-se à disposição dos interessados nos sites:
+www.compras.rj.gov.br, https://sei.fazenda.rj.gov.br e
+www.gov.br/pncp/pt-br. Podendo também ser retirado de forma impres-
+sa, na Coordenação de Licitação, mediante a entrega de 01 (uma)
+resma de papel tamanho A4, sito à Rua Barão de Itapagipe, 225, 7º
+Andar - Rio Comprido - Rio de Janeiro - RJ - CEP 20261-901, de 2ª
+a 6ª feira, das 10:00 às 16:00 hs, informações pelo e-mail: licita-
+c a o @ s a u d e . r j . g o v. b r.
+Id: 2673957
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE GESTÃO ESTRATÉGICA
+ASSESSORIA TÉCNICA DE PROCESSAMENTO
+DE SANÇÕES DAS OSS
+AV I S O
+DÁ CIÊNCIA à Organização Social de Saúde INSTITUTO DE DE-
+SENVOLVIMENTO, ENSINO E ASSISTÊNCIA À SAÚDE (OSS
+IDEAS), inscrita no CNPJ sob o nº 24.006.302/0004-88, da decisão
+de segunda instância administrativa no processo apuratório nº SEI-
+080001/012819/2022, acerca da Gestão, Operacionalização e Execu-
+ção da Unidade INSTITUTO ESTADUAL DO CÉREBRO PAULO NIE-
+MEYER - IECPN, regido pelo Contrato de Gestão nº 001/2022, que:
+"[...] CONHEÇO do Recurso Administrativo interposto pelo Instituto de
+Desenvolvimento, Ensino e Assistência à Saúde - IDEAS e, no mérito,
+julgo IMPROCEDENTE, mantendo na íntegra as sanções administra-
+tivas de multa, na ordem de R$ 2.870,00 (dois mil oitocentos e se-
+tenta reais), aplicada pelo primeiro grau administrativo no presente ex-
+pediente.
+Id: 2673883
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA DE GESTÃO ESTRATÉGICA
+SUPERINTENDÊNCIA DE RECURSOS HUMANOS
+AV I S O
+A SUPERINTENDENTE DE RECURSOS HUMANOS, com base nos
+autos do Processo Administrativo n° SEI-E-08/221143/2012, tendo em
+vista o disposto no Art. 22, §3º e §4° da Lei Estadual n° 5.427/09,
+FAZ SABER ao servidor RENATO ANTUNES PEREIRA, Técnico de
+Laboratório, Id. Funcional n° 3118895-8, vínculo 01, matrícula n°
+265.783-1, que deverá comparecer à sede da Secretaria de Estado de
+Saúde, situada na Rua Barão de Itapagipe 225, Bloco B 2º Andar -
+Bairro Rio Comprido, Rio de Janeiro/RJ, CEP 20261-005, (Coordena-
+ção de Administração de Recursos Humanos), no prazo de 07 (sete)
+dias a contar da publicação deste Edital, no horário de 09:00 às 16:30
+horas, a fim de tomar ciência do teor do processo supracitado e re-
+gularização funcional.
+Id: 2673884
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA EXECUTIVA
+SUPERINTENDÊNCIA DE COMPRAS E LICITAÇÕES
+COORDENAÇÃO DE LICITAÇÃO
+AV I S O
+A COORDENAÇÃO DE LICITAÇÃO/SES, torna pública a seguinte li-
+citação:
+PREGÃO ELETRÔNICO Nº 192/25.
+O B J E TO : Registro de Preços para aquisição de medicamento (TRI-
+FLURIDINA 15MG + TIRIPACILA 7,065MG - COMPRIMIDO REVES-
+TIDO e TRIFLURIDINA 20MG + TIRIPACILA 9,420MG - COMPRIMI-
+DO REVESTIDO), para atender à Assessoria de Atendimento às De-
+mandas Judiciais, na forma estabelecida neste Edital e seus anexos.
+ABERTURA DAS PROPOSTAS: 10/09/2025, às 10:00 horas.
+ETAPA DE LANCES: 10/09/2025, às 10:00 horas.
+PROCESSO Nº SEI-080001/009150/2025.
+O edital encontra-se à disposição dos interessados nos sites:
+www.compras.rj.gov.br, https://sei.fazenda.rj.gov.br e
+www.gov.br/pncp/pt-br. Podendo também ser retirado de forma impres-
+sa, na Coordenação de Licitação, mediante a entrega de 01 (uma)
+resma de papel tamanho A4, sito à Rua Barão de Itapagipe, 225, 7º
+Andar - Rio Comprido - Rio de Janeiro - RJ - CEP 20261-901, de 2ª
+a 6ª feira, das 10:00 às 16:00 hs, informações pelo e-mail: licita-
+c a o @ s a u d e . r j . g o v. b r.
+Id: 2673958
+SECRETARIA DE ESTADO DE SAÚDE
+SUBSECRETARIA EXECUTIVA
+SUPERINTENDÊNCIA DE COMPRAS E LICITAÇÕES
+COORDENAÇÃO DE LICITAÇÃO
+AV I S O
+A COORDENAÇÃO DE LICITAÇÃO/SES, torna pública a seguinte li-
+citação:
+PREGÃO ELETRÔNICO Nº 193/25.
+O B J E TO : Registro de Preços para aquisição de medicamentos (MA-
+VACANTENO 5MG - CÁPSULA DURA), para atender à Assessoria de
+Atendimento às Demandas Judiciais, na forma estabelecida neste Edi-
+tal e seus anexos.
+ABERTURA DAS PROPOSTAS: 10/09/2025, às 10:00 horas
+ETAPA DE LANCES: 10/09/2025, às 10:00 horas.
+PROCESSO Nº S E I - 0 8 0 0 0 1 / 0 11 6 6 3 / 2 0 2 5 .
+O edital encontra-se à disposição dos interessados nos sites:
+www.compras.rj.gov.br, https://sei.fazenda.rj.gov.br e
+www.gov.br/pncp/pt-br. Podendo também ser retirado de forma impres-
+sa, na Coordenação de Licitação, mediante a entrega de 01 (uma)
+resma de papel tamanho A4, sito à Rua Barão de Itapagipe, 225, 7º
+Andar - Rio Comprido - Rio de Janeiro - RJ - CEP 20261-901, de 2ª
+a 6ª feira, das 10:00 às 16:00 hs, informações pelo e-mail: licita-
+c a o @ s a u d e . r j . g o v. b r. Id: 2673959
+INSTITUTO VITAL BRAZIL S.A
+EXTRATO DE INSTRUMENTO CONTRATUAL
+INSTRUMENTO: Contrato nº 006/2025.
+PA R T E S : INSTITUTO VITAL BRAZIL S.A. e CS BRASIL FROTAS S.
+A.
+O B J E TO : prestação de serviços de empresa especializada no forne-
+cimento dos serviços de locação de veículos de serviços e de veí-
+culos de representação híbridos, sem fornecimento de condutores e
+sem fornecimento de combustíveis, para atender as necessidades do
+Órgãos e Entidades do Estado do Rio de Janeiro, a serem execu-
+tados nas condições estabelecidas no Termo de Referência e nos
+anexos deste Contrato.
+VA L O R : R$ 1.448.767,44 (um milhão, quatrocentos e quarenta e oito
+mil setecentos e sessenta e sete reais e quarenta e quatro centa-
+vos).
+PRAZO: 36 (trinta e seis) meses.
+DATA DA A S S I N AT U R A : 27/08/2025.
+PROCESSO IVB N° SEI-080004/000202/2025. Id: 2673913
+INSTITUTO VITAL BRAZIL S.A
+EXTRATO DE INSTRUMENTO CONTRATUAL
+INSTRUMENTO: Contrato nº 024/2025.
+PA R T E S : INSTITUTO VITAL BRAZIL S.A. e PRÓ-ANÁLISE QUÍMICA
+E DIAGNÓSTICA LTDA.
+O B J E TO : aquisição de 01 (uma) micropipeta monocanal repetidora,
+01 (uma) micropipeta multicanal de 10 a 100 ul e 01 (uma) micro-
+pipeta multicanal de 0,5 a 10 ul com Certificação de Calibração RBC
+(itens 01, 03 e 04).
+VA L O R : R$ 13.597,13 (treze mil, quinhentos e noventa e sete reais e
+treze centavos).
+PRAZO: 12 (doze) meses.
+DATA DA A S S I N AT U R A : 26/08/2025.
+PROCESSO IVB N° SEI-080004/000553/2025. Id: 2673780
+INSTITUTO VITAL BRAZIL S.A
+EXTRATO DE INSTRUMENTO CONTRATUAL
+INSTRUMENTO: Contrato nº 025/2025.
+PA R T E S : INSTITUTO VITAL BRAZIL S.A. e BIO RESEARCH DO
+BRASIL INSTRUMENTACAO CIENTIFICA LTDA.
+O B J E TO : aquisição de 01 (uma) micropipeta multicanal 100 a 1200 ul
+com Certificação de Calibração RBC (item 02).
+VA L O R : R$ 9.544,00 (nove mil, quinhentos e quarenta e quatro
+reais).
+PRAZO: 12 (doze) meses.
+DATA DA A S S I N AT U R A : 26/08/2025.
+PROCESSO IVB N° SEI-080004/000553/2025. Id: 2673781
+SECRETARIA DE ESTADO DE SAÚDE
+FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO
+EXTRATO DE INSTRUMENTO CO N T R AT U A L
+*I N S T R U M E N TO : Contrato n° 005/2025. Processo Eletrônico de Dis-
+pensa nº 001638/2024.
+PA R T E S : Fundação Saúde do Estado do Rio de Janeiro e a empresa
+TUISE GESTÃO INTEGRADA LTDA.
+O B J E TO : Contratação de empresa especializada para a prestação de
+serviços assistenciais a serem executados no Hospital Estadual Dr.
+Ricardo Cruz - HERCRUZ, nas condições estabelecidas no Termo de
+Referência SEI nº 69443440 e proposta nº 85058895.
+VIGÊNCIA: 01 (um) ano, contados a partir da data de assinatura des-
+te Contrato.
+VALOR TOTAL: R$ 71.525.118,48 (setenta e um milhões, quinhentos
+e vinte e cinco mil cento e dezoito reais e quarenta e oito centavos).
+NOTA DE EMPENHO: 2025NE00051.
+DATA DA ASSINATURA: 22/01/2025.
+F U N D A M E N TA Ç Ã O : Art. 75, inciso VIII da Lei nº 14.133, de 11 de
+abril de 2021. Parecer 4134/2024/FS/DIRJUR (89570927) e Autoriza-
+ção do Ordenador de Despesa doc. SEI 90340083.
+PROCESSO Nº SEI-080002/003055/2024.
+*Omitido no D.O. de 28/01/2025.
+Id: 2673831
+SECRETARIA DE ESTADO DE SAÚDE
+FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO
+EXTRATO DE INSTRUMENTO C O N T R AT U A L
+*INSTRUMENTO: Contrato n° 511/2024. Processo Eletrônico de Dis-
+pensa nº. 01110/2024.
+PA R T E S : Fundação Saúde do Estado do Rio de Janeiro e TUISE
+GESTAO INTEGRADA LTDA.
+O B J E TO : contratação de empresa especializada para a prestação de
+serviços de apoio técnico assistencial no Hospital Estadual Azevedo
+Lima (HEAL).
+VIGÊNCIA: 1 (um) ano, contados a partir da data de assinatura, na
+forma do art. 94, § 1º, da Lei nº 14.133/2021.
+VALOR TOTAL: R$ 80.401.350,36 (oitenta milhões, quatrocentos e
+um mil trezentos e cinquenta reais e trinta e seis centavos).
+NOTA DE EMPENHO: 2024NE14222.
+DATA DA ASSINATURA: 01/01/2025.
+F U N D A M E N TA Ç Ã O : Artigo 75, inciso VIII, da Lei nº 14.133/2021 e
+suas alterações. Parecer 3855/2024/FS/DIRJUR (SEI Nº 88402373) e
+Autorização do Ordenador de Despesa doc. SEI nº 89949839.
+PROCESSO Nº SEI-080002/001712/2024.
+*Omitido no D.O. de 17/01/2025.
+Id: 2673832
+SECRETARIA DE ESTADO DE SAÚDE
+FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO
+EXTRATO DE INSTRUMENTO CO N T R AT U A L
+I N S T R U M E N TO : Contrato n° 138/2025. Pregão Eletrônico N°
+95/2025.
+PA R T E S : Fundação Saúde do Estado do Rio de Janeiro e a empresa
+DAVITA RIEN SERVIÇOS DE NEFROLOGIA LTDA.
+O B J E TO : prestação de serviços de Terapia Renal Substitutiva - TRS,
+a serem executados nas condições estabelecidas no Termo de Re-
+ferência do Edital de Licitação nº 144(100123982), Proposta
+(102528513.
+VIGÊNCIA: 12 (doze) meses, contados da divulgação no Portal Na-
+cional de Contratações Públicas.
+VALOR TOTAL: R$ 21.596.814,68 (vinte e um milhões quinhentos e
+noventa e seis mil oitocentos e quatorze reais e sessenta e oito cen-
+tavos)
+NOTA DE EMPENHO: 2025NE08228.
+DATA DA ASSINATURA: 26/08/2025.
+F U N D A M E N TA Ç Ã O : Lei nº 14.133, de 1º de abril de 2021. Parecer
+767/2025/FS/DIRJUR (97220510) e Autorização do Ordenador de
+Despesa doc. SEI 106069583.
+PROCESSO Nº SEI-080002/002438/2025.
+Id: 2673833
+SECRETARIA DE ESTADO DE SAÚDE
+FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO
+E X T R ATO S DE TERMOS
+INSTRUMENTO: Termo de Ajuste de Contas nº 1167/2025.
+PARTES: Fundação Saúde do Estado do Rio de Janeiro e a empresa
+RYC GARRA PATRIMONIAL LTDA.
+OBJETO: Tem por objeto a indenização pela prestação de serviços
+de apoio administrativo e operacional, para UPA 24h Ilha do Gover-
+nador, no período de 01/06/2025 à 30/06/2025, conforme solicitado e
+comprovado através da apresentação das notas fiscais devidamente
+atestadas, tendo sua viabilidade jurídica confirmada pelo Parecer nº
+1813 (SEI-105831108).
+VALOR TOTAL: R$ 263.066,43 (duzentos e sessenta e três mil, ses-
+senta e seis reais e quarenta e três centavos).
+DATA DA ASSINATURA: 26/08/2025.
+FUNDAMENTO: Decidido no Processo Administrativo nº SEI-
+080002/015154/2025.
+INSTRUMENTO: Termo de Ajuste de Contas nº 1244/2025.
+PARTES: Fundação Saúde do Estado do Rio de Janeiro e a empresa
+ECO RIO COMÉRCIO E SERVIÇOS LTDA.
+OBJETO: Tem por objeto a indenização pela prestação de serviços
+de apoio assistencial, para o Hospital Estadual Rabello, no período de
+01/06/2025 a 30/06/2025, conforme solicitado e comprovado através
+da apresentação das notas fiscais devidamente atestadas, tendo sua
+viabilidade jurídica confirmada pelo Parecer nº 1898 (SEI-106282015).
+VALOR TOTAL: R$ 929.487,79 (novecentos e vinte e nove mil, qua-
+trocentos e oitenta e sete reais e setenta e nove centavos).
+DATA DA ASSINATURA: 26/08/2025.
+FUNDAMENTO: Decidido no Processo Administrativo nº SEI-
+080002/017814/2025.
+INSTRUMENTO: Termo de Ajuste de Contas nº 1277/2025.
+PARTES: Fundação Saúde do Estado do Rio de Janeiro e a empresa
+JESBAN SERVIÇOS DE CONSTRUÇÕES LTDA.
+OBJETO: Tem por objeto a indenização pela prestação de serviços
+de manutenção preventiva e corretiva predial, incluindo mão de obra e
+material, para o Instituto Estadual de Cardiologia Aloysio de Castro -
+IECAC, no período de 01/06/2025 à 30/06/2025, conforme solicitado e
+comprovado através da apresentação das notas fiscais devidamente
+atestadas, tendo sua viabilidade jurídica confirmada pelo Parecer nº
+1953 (SEI-106585113).
+VALOR TOTAL: R$ 448.193,18 (quatrocentos e quarenta e oito mil,
+cento e noventa e três reais e dezoito centavos).
+DATA DA ASSINATURA: 26/08/2025.
+FUNDAMENTO: Decidido no Processo Administrativo nº SEI-
+080002/018551/2025.
+INSTRUMENTO: Termo de Ajuste de Contas nº 1335/2025.
+PARTES: Fundação Saúde do Estado do Rio de Janeiro e a empresa
+APPA SERVIÇOS TEMPORÁRIOS E EFETIVOS LTDA.
+OBJETO: Tem por objeto a indenização pela prestação de serviços
+de apoio administrativo e operacional, para a FS - SEDE, CET/PET,
+HECC, HEMORIO, HESM, IEDE, IEDS, IETAP e LACENN, no período
+de 01/07/2025 à 31/07/2025, conforme solicitado e comprovado atra-
+vés da apresentação das notas fiscais devidamente atestadas, tendo
+sua viabilidade jurídica confirmada pelo Parecer nº 2038 (SEI-
+11 0 3 6 1 3 5 8 ) .
+VALOR TOTAL: R$ 4.019.456,57 (quatro milhões, dezenove mil, qua-
+trocentos e cinquenta e seis reais e cinquenta e sete centavos).
+DATA DA ASSINATURA: 26/08/2025.
+FUNDAMENTO: Decidido no Processo Administrativo nº SEI-
+080002/020139/2025.
+Id: 2673855
+FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO
+AV I S O
+A COORDENAÇÃO DE LICITAÇÃO/FS, torna público o resultado do
+julgamento referente ao PREGÃO ELETRÔNICO Nº 086/25, Processo
+n° SEI-080002/004781/2024, destinado a Contratação de empresa pa-
+ra a LOCAÇÃO de equipamento laboratorial- ANALISADOR MULTICA-
+NAL (IMUNOLOGIA/HORMÔNIO) - junto ao fornecimento de INSU-
+MOS E REAGENTES, assistência técnica/manutenções preventivas e
+corretivas, consumíveis, soluções de lavagens, controles e calibrado-
+res, software de interfaceamento, transmissão de dados de processa-
+mento de exames até a emissão e transmissão resultados para rea-
+lização de exames imunológicos e hormonais no Instituto Estadual de
+Hematologia Arthur Siqueira Cavalcanti - IEHE/HEMORIO, e atender à
+demanda da Unidade por um período de 01 (um) ano, conforme as
+especificações contidas no Termo de Referência. A presente licitação
+restou FRACASSADA.
+Id: 2674061
+Secretaria de Estado de Educação
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+EXTRATO DE INSTRUMENTO CONTRATUAL
+I N S T R U M E N TO : Contrato SEEDUC nº 35/2025
+PA R T E S : O Estado do Rio de Janeiro, pela Secretaria de Estado de
+Educação e a empresa DISLIV DISTRIBUIDORA DE LIVROS EIRELI-
+ME., CNPJ: 16.721.754/0001-70
+O B J E TO : Aquisição de material de apoio pedagógico com o intuito de
+promover a história e a valorização dos povos afro-brasileiros e in-
+dígenas, nas suas mais variadas formas, dentro do âmbito das Uni-
+dades Escolares da Rede Estadual de Ensino do Rio de Janeiro, atra-
+vés do Projeto de Educação Afro-Brasileira e Indígena, por meio de
+livros paradidáticos e iniciativas desenvolvidas especialmente para es-
+ta finalidade.
+DATA DA ASSINATURA: 22/08/2025
+PRAZO: O prazo de vigência do Contrato é de 12 (doze) meses, con-
+tado a partir da publicação em Diário Oficial do Estado do Rio de Ja-
+neiro, desde que previamente divulgado no Portal Nacional de Con-
+tratações Públicas.
+DATA DE DIVULGAÇÃO NO PNCP (Portal Nacional de Contrata-
+ções Públicas): 25/08/2025
+VALOR: R$ 29.457.711,25 (vinte e nove milhões, quatrocentos e cin-
+quenta e sete mil setecentos e onze reais e vinte e cinco centavos)
+PROGRAMA DE TRABALHO: 2318
+CÓDIGO DE DESPESAS: 33903201
+FONTE DE RECURSOS: 1.500.100
+NOTA DE EMPENHO: 2025NE16146
+FUNDAMENTO: Lei nº 14.133, de 1º de abril de 2021
+PROCESSO Nº S E I - 0 3 0 0 0 1 / 0 11 6 0 7 / 2 0 2 5 .
+Id: 2673293
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+COORDENADORIAGERAL DE INSPEÇÃO ESCOLAR,
+CERTIFICAÇÃO E ACERVO
+E D I TA I S
+A COORDENADORIA GERAL DE INSPEÇÃO ESCOLAR, CERTIFI-
+CAÇÃO E ACERVO , nos termos da Deliberação CEE nº 366/2017 e,
+tendo em vista a comprovação da regularidade dos Cursos de: 2º
+Grau, 1º Grau, Ensino Fundamental, Ensino Médio e Curso Técnico,
+ADMINISTRAÇÃO VINCULADA
+
+## Pagina 49
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0034/U0039/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+realizados nos estabelecimentos de ensino extintos, inframencionados,
+torna público os nomes dos alunos concluintes. Processo nº SEI-
+030029/000787/2022.
+1 - COLÉGIO JOAN MIRÓ - Niterói
+ENSINO MÉDIO NA MODALIDADE EDUCAÇÃO DE JOVENS E
+ADULTOS À DISTÂNCIA
+Processo nº SEI-030001/057157/2024
+Jefferson Franco dos Santos - 2004
+2 - COLÉGIO COC ICARAÍ - Niterói
+ENSINO MÉDIO
+Processo nº SEI-030001/078360/2025
+Maria Eduarda Santiago Sppozido - 2017
+3 - SISTEMA EDUCACIONAL PAI INTELIGENTE - Niterói
+ENSINO MÉDIO NA MODALIDADE EDUCAÇÃO DE JOVENS E
+ADULTOS À DISTÂNCIA
+Processo nº SEI-030001/082421/2025
+Ana Caroline Alves Varjão - 2014
+4 - COLÉGIO SÃO GONÇALO - São Gonçalo
+1º GRAU - SUPLETIVO
+Processo nº SEI-030001/086429/2025
+João Batista Kloper Barbosa - 1982
+5 - EDUCANDÁRIO CECÍLIA MEIRELLES - São Gonçalo
+ENSINO MÉDIO
+Processo nº SEI-030001/085225/2025
+Beatriz de Oliveira dos Santos - 2003
+ENSINO MÉDIO NA MODALIDADE DE EDUCAÇÃO DE JOVENS E
+A D U LTO S
+Processo nº SEI-030001/085122/2025
+Kamili da Conceição de Aguiar - 2024
+Processo nº SEI-030001/086435/2025
+Beatriz Nascimento do Amaral - 2024
+6 - CENTRO EDUCACIONAL MENDES DUARTE - São Gonçalo
+ENSINO MÉDIO
+Processo nº SEI-030001/075508/2025
+Nathalia Faria de Lima Melo - 2019
+7 - CENTRO EDUCACIONAL NOSSA SENHORA APARECIDA - São
+Gonçalo
+ENSINO MÉDIO
+Processo nº SEI-030001/086182/2025
+Julia Pimenta Martins - 2020
+8 - CENTRO EDUCACIONAL FERREIRA NASCIMENTO - São Gon-
+çalo
+ENSINO MÉDIO NA MODALIDADE DE EDUCAÇÃO DE JOVENS E
+A D U LTO S
+Processo nº SEI-030001/085169/2025
+Ruan Rodrigues de Sousa - 2014
+9 - CURSO CENTRAL - São Gonçalo
+ENSINO MÉDIO NA MODALIDADE DE EDUCAÇÃO DE JOVENS E
+A D U LTO S
+Processo nº SEI-030001/085385/2025
+Carlos Henrique Santos de Oliveira - 2016
+10 - CENTRO EDUCACIONAL FREIRE CARDOSO - São Gonçalo
+ENSINO MÉDIO NA MODALIDADE DE EDUCAÇÃO DE JOVENS E
+A D U LTO S
+Processo nº SEI-030001/085164/2025
+Keila de Souza Almeida - 2023
+Processo nº SEI-030001/085208/2025
+Erik José Nunes Machado - 2024
+Processo nº SEI-030001/087240/2025
+Fabiana Costa dos Santos - 2024
+11 - SOCIEDADE EDUCACIONAL CALIFÓRNIA - São Gonçalo
+2º GRAU - TÉCNICO EM CONTABILIDADE
+Processo nº SEI-030001/085154/2025
+Patrícia da Silva Marques - 1994
+12 - INSTITUTO EDUCACIONAL BRASIL VIANNA - Itaboraí
+2º GRAU - FORMAÇÃO DE PROFESSORES PARA O ENSINO DE 1º
+GRAU DE 1ª A 4ª SÉRIE
+Processo nº SEI-030001/075110/2025
+Késia de Freitas Martins - 1984
+13 - COLÉGIO WAKIGAWA - Rio de Janeiro
+ENSINO MÉDIO - MODALIDADE DE EDUCAÇÃO DE JOVENS E
+A D U LTO S
+Processo nº SEI-030001/022601/2025
+Andréa Marques Ferreira - 2002
+14 - ESCOLA ESTADUAL DE ENSINO SUPLETIVO PRESIDENTE
+ARTHUR DA COSTA E SILVA - Rio de Janeiro
+ENSINO FUNDAMENTAL NA MODALIDADE DA EDUCAÇÃO DE JO-
+VENS E ADULTOS
+Processo nº SEI-030001/088760/2025
+Diogo Moreira Sant'Anna - 2009
+15 - COLÉGIO CENECISTA COELHO NETO - Rio de Janeiro
+ENSINO MÉDIO NA MODALIDADE DE EDUCAÇÃO DE JOVENS E
+A D U LTO S
+Processo nº SEI-030001/008363/2025
+Andrea Pereira Garcia de Souza - 2009
+A COORDENADORIAGERAL DE INSPEÇÃO ESCOLAR, CERTIFI-
+CAÇÃO E ACERVO , nos termos da Deliberação CEE nº 366/2017 e,
+tendo em vista a comprovação da regularidade dos Cursos de: 2º
+Grau, 1º Grau, Ensino Fundamental, Ensino Médio e Curso Técnico,
+realizados nos estabelecimentos de ensino extintos, inframencionados,
+torna público os nomes dos alunos e seus respectivos estudos rea-
+lizados. Processo nº SEI-030029/000787/2022.
+1 - CAIC PREFEITO SEVERINO ANANIAS DIAS - Vassouras
+FASE V- ENSINO FUNDAMENTAL NA MODALIDADE EDUCAÇÃO
+DE JOVENS E ADULTOS
+Processo nº SEI-030001/087147/2025
+Carla Mota Ferreira - 2010
+2 - CIEP 150 PROFESSORA AMÉLIA FERREIRA DOS SANTOS
+GABINA - Cabo Frio
+5º ANO DO ENSINO FUNDAMENTAL
+Processo nº SEI-030001/067959/2025
+Cristiane da Silva Rosa - 2001
+3 - SOCIEDADE EDUCACIONAL CRISMOGALI - Niterói
+4º ANO DO ENSINO FUNDAMENTAL
+Processo nº SEI-030001/085135/2025
+Danilo da Silva Vicente - 2015
+4 - INSTITUTO EDUCACIONAL BRASIL VIANNA - Itaboraí
+FASE III DO ENSINO MÉDIO NA MODALIDADE DE EDUCAÇÃO DE
+JOVENS E ADULTOS
+Processo nº SEI-030001/077326/2025
+Patrícia Maria Gomes da Silva - 2001
+A COORDENADORIA GERAL DE INSPEÇÃO ESCOLAR, CERTIFI-
+CAÇÃO E ACERVO, nos termos das Resoluções SEE nº 2349, de
+11.12.2000 e nº 2355 de 18.01.2001, torna pública a relação nominal
+de candidatos que foram aprovados no Ensino Médio, ENEM - Exame
+Nacional do Ensino Médio. Processo nº Processo nº SEI-
+030029/000787/2022.
+2º SEMESTRE - ANO: 2011
+01- Fernanda Mendonça de Paiva Caputo Durao
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+AV I S O S
+O SUBSECRETÁRIO DE GESTÃO ADMINISTRATIVA , com base nos
+autos do Processo Administrativo nº SEI-030001/016031/2024, tendo
+em vista o disposto no art. 75 do Decreto-Lei n° 220, de 18 de julho
+de 1975, FAZ SABER à servidora CLAUDIA MOTTA DE CASTRO
+DUARTE, Professor Docente I 18h, nível C, referência 4, ID Funcional
+n° 37493736, vínculo 01, matrícula n° 826163-8, que deverá compa-
+recer à sede da Secretaria de Estado de Educação, situada à Rua
+Joaquim Palhares, nº 40, Cidade Nova, Rio de Janeiro/RJ, 2º andar
+(Coordenadoria de Movimentação e Frequência - COOMOF), no ho-
+rário de 11h às 16h, a fim de tomar ciência do teor do processo su-
+pracitado, que se encontra na iminência de seu desfecho, com pos-
+sível exoneração ex ofício em razão de apuração de 10 (dez) faltas
+consecutivas, nos termos do disposto no art. 52, inciso V, § 1° do
+Decreto-Lei n° 220/75.
+O SUBSECRETÁRIO DE GESTÃO ADMINISTRATIVA , com base nos
+autos do Processo Administrativo SEI-030029/004917/2021, tendo em
+vista o disposto no art. 75 do Decreto-Lei n° 220, de 18 de julho de
+1975, FAZ SABER ao servidor JOÃO SILVIO BRANDÃO SILVA , Pro-
+fessor Docente I, nível D, referência 5, ID Funcional nº 4349009-3,
+matrícula nº 950523-1, vínculo 01, que deverá comparecer à sede da
+Secretaria de Estado de Educação, situada à Rua Joaquim Palhares,
+nº 40, Cidade Nova, Rio de Janeiro/RJ, 2º. andar (Coordenadoria de
+Movimentação e Frequência - COOMOF), no horário de 11h às 16h, a
+fim de tomar ciência do teor do processo supracitado, que se encon-
+tra na iminência de seu desfecho, com possível exoneração ex ofício
+em razão de apuração de 10 (dez) faltas consecutivas, nos termos do
+disposto no art. 52, inciso V, § 1° do Decreto-Lei n° 220/75.
+Id: 2673896
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+E D I TA I S
+MIGRAÇÃO DE CARGA HORÁRIA DE PROFESSOR DOCENTE I - 18H PARA 30H
+A SECRETÁRIA DE ESTADO DE EDUCAÇÃO , no uso das atribuições que lhe são conferidas, tendo em vista a autorização contida no Decreto nº 49.026 de 02 de abril de 2024 e as normas prevista s na Resolução
+SEEDUC nº 6.254 de 19 de abril de 2024 e Resolução SEEDUC nº 6265 de 24 de maio de 2024, torna pública a relação dos aprovados no Processo Seletivo Interno para a Migração da carga horária de Professor
+Docente I - 18 horas para 30 horas semanais. Os candidatos deverão se apresentar à Coordenadoria Regional de Gestão de Pessoas da Regional de lotação, no dia e horário fixados neste edital. Processo nº SEI-
+030001/050008/2024.
+REGIONAL NORTE FLUMINENSE
+Praça da República, nº 06, Centro - Campos dos Goytacazes-RJ
+CAMPOS DOS GOYTACAZES
+D ATA / H O R A ID FUNCIONAL/VÍNC NOME DISCIPLINA PROCESSO
+01/09/2025 às 9h 50164392/1 MARIA EDUARDA DE SOUSA MANHAES LÍNGUA PORTUGUESA SEI-030001/088041/2025
+REGIONAL SUL FLUMINENSE
+Rua São João, nº 651, São João - Volta Redonda-RJ
+BARRA MANSA
+D ATA / H O R A ID FUNCIONAL/VÍNC NOME DISCIPLINA PROCESSO
+01/09/2025 às 9h 41981731/3 SABRINA SILVA FERREIRA NUNES TEIXEIRA LINGUA PORTUGUESA SEI-030001/088160/2025
+MIGRAÇÃO DE CARGA HORÁRIA DE PROFESSOR DOCENTE I - 18H PARA 30H
+O SUPERINTENDENTE DE GESTÃO DE PESSOAS , no uso das atribuições que lhe são conferidas pela legislação em vigor, torna pública a desclassificação do candidato abaixo relacionado, do Processo Seletivo
+Interno para a Migração da carga horária de Professor Docente I - 18 horas para 30 horas semanais, pelas situações diversas contidas no Processo Administrativo citado. Processo nº SEI-030001/050008/2024.
+REGIONAL NORTE FLUMINENSE
+Praça da República, nº 06, Centro - Campos dos Goytacazes-RJ
+MACAÉ
+INSCRIÇÃO DISCIPLINA PROCESSO
+5065 BIOLOGIA SEI-030001/088042/2025
+Id: 2673923
+A COORDENADORIA GERAL DE INSPEÇÃO ESCOLAR, CERTIFI-
+CAÇÃO E ACERVO, nos termos das Resoluções SEE nº 2349, de
+11.12.2000 e nº 2355, de 18.01.2001, torna pública a relação nominal
+de candidatos que foram aprovados no Ensino Médio, ENCCEJA -
+Exame Nacional para Certificação de Competências de Jovens e
+Adultos. Processo nº SEI-030029/000787/2022.
+2º SEMESTRE - ANO: 2007
+01- Jailson Souza da Silva
+A COORDENADORIA GERAL DE INSPEÇÃO ESCOLAR, CERTIFI-
+CAÇÃO E ACERVO , nos termos do art. 52, III da Lei Estadual nº
+5.427/2009, combinado com o art. 8º da Deliberação CEE nº
+366/2017, e o voto do relator no Parecer CEE (N) nº 84/2018, DE-
+FERE a convalidação dos estudos do curso ENSINO MÉDIO NA MO-
+DALIDADE DE EDUCAÇÃO DE JOVENS E ADULTOS, EDUCAÇÃO
+À DISTÂNCIA de ERIKA FEITOSA DA ROCHA, ano 2010. Processo
+nº SEI-030001/059814/2024.
+A COORDENADORIA GERAL DE INSPEÇÃO ESCOLAR, CERTIFI-
+CAÇÃO E ACERVO , nos termos da Deliberação CEE nº 366/2017,
+Art.10, combinado com a Resolução SEEDUC nº 6.064 de 23 de mar-
+ço de 2022, art. 29, § 1º e Portaria CECIERJ nº 569/2022, art. 31,
+DEFERE a regularização de vida escolar do Curso de Ensino Médio
+na Modalidade da Educação de Jovens e Adultos, de THOMAS GAR-
+CIA DE CASTRO LOTTI, ano 2011. Processo nº SEI-
+030001/095879/2024.
+A COORDENADORIA GERAL DE INSPEÇÃO ESCOLAR, CERTIFI-
+CAÇÃO E ACERVO , nos termos da Deliberação CEE nº 366/2017,
+Art.10, combinado com a Resolução SEEDUC nº 6.064 de 23 de mar-
+ço de 2022, art. 29, § 1º e Portaria CECIERJ nº 569/2022, art. 31,
+DEFERE a regularização de vida escolar do Curso de Ensino Médio
+na Modalidade da Educação de Jovens e Adultos, de PEDRO GA-
+BRIEL ERNESTO DA SILVA CARNEIRO, ano 2012. Processo nº SEI-
+030001/025574/2024.
+A COORDENADORIA GERAL DE INSPEÇÃO ESCOLAR, CERTIFI-
+CAÇÃO E ACERVO , nos termos da Deliberação CEE nº 366/2017,
+Art.10, combinado com a Resolução SEEDUC nº 6.064 de 23 de mar-
+ço de 2022, art. 29, § 1º e Portaria CECIERJ nº 569/2022, art. 31,
+DEFERE a regularização de vida escolar do Curso de Ensino Médio
+na Modalidade da Educação de Jovens e Adultos, de ROGÉRIO
+ARAUJO FRANCO, ano 2005. Processo nº SEI-030001/032696/2025.
+Id: 2673914
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+COORDENADORIA DE INSPEÇÃO ESCOLAR SERRANA I
+CIEP 137 CECÍLIA MEIRELES
+E D I TA L
+O DIRETOR DO CIEP 137 CECÍLIA MEIRELES , Censo Escolar
+33041210 - torna pública a seguinte listagem de concluintes: Curso
+Ensino Médio na Modalidade Educação de Jovens e Adultos, Ano
+2025/1º semestre: Cleverson da Silva Santos, Daniel Ferreira, Edineil-
+da Maria do Nascimento França, Jenifer Ferreira dos Santos, Lucas
+Fernandes de Carvalho Pitzer. Diretor Adriano de Carvalho Fecher,
+designado no DOERJ de 31/03/2025, página 30, Secretário Escolar
+Rose Nogueira Mendes, designada no DOERJ de 17/06/2025, página
+23, 3ª coluna. Servidores responsáveis pela publicação Aline Nunes
+da Cruz, ID. Funcional nº 4324889-6 e Renata Cristina de Melo Leite
+Moreira, ID. Funcional nº 4391016-5. Processo nº SEI-
+030001/086570/2025.
+Id: 2673765
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+COORDENADORIA DE INSPEÇÃO ESCOLAR SERRANA I
+CEJA PETRÓPOLIS
+E D I TA L
+O DIRETOR DO CEJA PETRÓPOLIS , Censo Escolar 33040060, tor-
+na pública a seguinte listagem de concluintes do CURSO DE ENSINO
+MÉDIO NA MODALIDADE EDUCAÇÃO DE JOVENS E ADULTOS, no
+CEJA MAGÉ vinculado ao CEJA PETRÓPOLIS, no ANO LETIVO DE
+2025: Allana Keli Silva Campos; Augusto Sergio Morais Araujo da Sil-
+va; Daniele de Oliveira Sant'Anna; Júlia de Souza Pinto; Juliana San-
+tos de Barcellos; Laryssa dos Santos Macedo; Luana Maria da Silva
+Sales; Matheus Rezende Gama; Talita Gaia da Silva; Vanessa Con-
+ceição de Carvalho; William dos Santos Conceição Júnior. Diretor
+Hudson Camara Delduque, designado no DOERJ de 28/03/2025,
+pág.35, 1ª coluna. Secretária Talita Sousa Alves de Siqueira, desig-
+nada no DOERJ de 22/09/2023, pág. 19, 1ª coluna. Servidores res-
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+COORDENADORIA DE INSPEÇÃO ESCOLAR SERRANA I
+COLÉGIO ESTADUAL PROFESSORA ALVINA VALÉRIO DA SILVA
+E D I TA L
+O DIRETOR DO COLÉGIO ESTADUAL PROFESSORA ALVINA VA-
+LÉRIO DA SILVA , Censo Escolar nº 33051100 - torna pública a se-
+guinte listagem de concluintes: CURSO DE ENSINO MÉDIO NA MO-
+DALIDADE EDUCAÇÃO DE JOVENS E ADULTOS, no ANO 2025,
+Turma: NEJA IV 01, 1º SEMESTRE: Alessandro Lucas da Silva Ro-
+drigues, Ana Lúcia Eduardo Gomes, Anna Clara Dias de Almeida, Ca-
+mila Lechinievski Leo Pardo, Carlos Henrique de Vasconcellos Abreu,
+ponsáveis pela publicação: Luciana da Costa Duarte, ID. 4188442-6 e
+Luiz Fernando Saraiva da Silva, ID. 4207812-1. Processo nº SEI-
+030001/078988/2025.
+Id: 2673823
+
+## Pagina 50
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0035/U0030
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+Erlon Leite Ribeiro, Hercules Valerio Rosa Macedo, Ianne Cristina Pe-
+reira de Medeiros, Kauã Marins da Silva, Kelly Rodrigues de Jesus,
+Larissa Figueira da Rocha, Laryssa de Andrade Souza, Marcelo do
+Espirito Santo, Maria das Graças Conceição Silva Santos, Maria
+Eduarda da Silva Gomes, Nicoly Alves Gorinoff, Tamara Barros da Sil-
+va, Vanessa Alves Guimarães, Viviane dos Santos Soares, Yasmim
+Getrudes Figueira Rocha. Diretora: Sonia Marinhos Cordeiro, designa-
+da no DOERJ de 04/02/2009, página 13, 3ª coluna. Secretária Esco-
+lar: Sidléa Mendes Ferreira, designada no DOERJ de 04/08/1998, pá-
+gina 16, 3ª coluna. Servidores responsáveis pela publicação: Andrea
+Teixeira Lopes de Araujo. ID. 4183692-8 e Josélia Lopes Oliveira Jo-
+sélia Lopes Oliveira, ID. 4329158-9. Processo nº SEI-
+030001/082317/2025.
+RETIFICAÇÃO
+D.O. DE 11.02.2025
+PÁGINA 31 - 2ª COLUNA
+E D I TA L
+Processo nº SEI-030001/082317/2025
+CURSO: ENSINO MÉDIO NA MODALIDADE EDUCAÇÃO DE JO-
+VENS E ADULTOS
+TURMA: NEJA IV 2º SEMESTRE
+Onde se lê: Klgelo Márcio Tito de Oliveira
+Leia-se: Angelo Márcio Tito de Oliveira
+Onde se lê: Juliana dos Santos
+Leia-se: Juliana dos Santos Ferreira
+RETIFICAÇÃO
+D.O. DE 02.04.2002
+PÁGINA 61 - 2ª COLUNA
+E D I TA L
+Processo nº SEI-030001/082317/2025
+CURSO: FORMAÇÃO GERAL
+TURMA: 3001
+Onde se lê: Vanusa dos Santos Moraes
+Leia-se: Vanusa dos Santos Farias
+Id: 2673915
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+COORDENADORIA DE INSPEÇAO ESCOLAR SUL FLUMINENSE
+CEJA PROFESSOR JAIR NATALINO ESPÍNDOLA TRAVASSOS
+E D I TA L
+A DIRETORA DA UNIDADE CEJA PROFESSOR JAIR NATALINO
+ESPÍNDOLA TRAVASSOS, Censo Escolar 33139830, torna pública a
+seguinte listagem de concluintes do CURSO DE ENSINO FUNDA-
+MENTAL NA MODALIDADE DE EDUCAÇÃO DE JOVENS E ADUL-
+TOS, no ANO LETIVO DE 2025: Adriana Ponciano Corrêa, Alex San-
+dro de Araújo Garcia, Angelica Pereira Gomes, Arlete de Sousa Pi-
+menta, Avanderson Allyson da Silva, Carina Pereira de Mello, Danielle
+de Assis Xavier, Deusdete Costa, Iracema Angélica Rosa Veríssimo,
+Jéssica Raimundo Oliveira Nunes, João Paulo de Oliveira da Sil-
+va,Maria Cristina de Oliveira Moraes, Mauricio Ferreira Tavares, Ra-
+dolfe Nunes Porciuncula, Robson Carvalho Travassos, Viviane Guima-
+rães de Azevedo, Thiago Alcantara. CURSO DE ENSINO MÉDIO NA
+MODALIDADE DE EDUCAÇÃO DE JOVENS E ADULTOS, no ANO
+LETIVO DE 2025: Adriana Martins de Moraes, Angélica de Fátima da
+Silva, Cláudia Faria Machado de Sant'Ana, Isabel Cristina Alves Fer-
+reira de Souza, Leonardo Pereira Coêlho, Luís Eduardo Berude da
+Silva, Millene Cirilo da Silva, Miriam Martins Araújo, Nei Júnior Ramos
+de Oliveira, Nicolas Almeida Pedrosa, Rosenilda da Silva Vanderley,
+Valmir dos Santos Pereira, Walace do Carmo Dutra. Diretora Geral:
+Maria Elisa de Andrade Sant'Anna, designada no DOERJ de
+07/08/2013, página 12, 1ª coluna. Secretária Escolar: Viviane Alves
+Siqueira, designada no DOERJ de 05/10/2018, página 13, 3ª coluna.
+Servidores responsáveis pela publicação: Ana Maria Alves Sales, ID.
+04324123-9 e Regiane Gabriel Alves, ID Funcional 4324127-1. Pro-
+cesso SEI-030001/076754/2025.
+Id: 2673311
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+COORDENADORIA DE INSPEÇÃO ESCOLAR METROPOLITANA II
+CEJA SÃO GONÇALO
+E D I TA L
+O DIRETOR DO CEJA SÃO GONÇALO , Censo Escolar 33088691,
+torna pública a seguinte listagem de concluintes: CURSO DE ENSINO
+FUNDAMENTAL NA MODALIDADE EDUCAÇÃO DE JOVENS E
+ADULTOS. Ano 1999: Jackson Barbosa Calderini. Ano 2013: Cláudio
+José Barbosa da Luz; José Carlos Coelho. Ano 2014: Lucas Mesquita
+de Carvalho; Yasmin da Conceição Lima. Ano 2025: Ana Beatriz Cou-
+tinho Baptista da Silva; André Luiz de Almeida Rodrigues; Bruno Fi-
+deles da Silva Carvalho; Caio Nascimento Silva; Cauã de Melo dos
+Santos; David Pinheiro Fernandes; Emanuelly da Silva Freitas; Erick
+dos Santos Oliveira; Kaio Sampaio de Mendonça; Kauã Venancio Sil-
+va; Leandro de Almeida Noia; Lucas Dias Soares; Maria Helena Tei-
+xeira Cabral Ribeiro; Marina Ferreira Souto; Mateus de Araujo Pessoa;
+Matheus Anastácio Pereira; Monique Alves Lima. CURSO DE ENSINO
+MÉDIO NA MODALIDADE EDUCAÇÃO DE JOVENS E ADULTOS.
+Ano 2015: Lucas Paraizo de Sá. Ano 2017: Luiz Fernando Silva de
+Mesquita. Ano 2019: Antonio Correia de Lima. Ano 2025: Alexsandro
+de Jesus Lopes; Breno Pinheiro Magalhães; Bruna de Brito Chacon;
+Caio Santos de Moraes; Conceição Aparecida da Silva Santos; Cris-
+tina Pereira Santos; Enilde Alves Alcantara; Eric da Silva Santos; Fa-
+biano Barreto Gomes; Gabriela Amanda dos Santos da Silva; Geor-
+gina da Silva Furtuoso; Juan Chaves Ribeiro; Julya Lima Nogueira;
+Karen Cristina Castilho Barreto; Larissa dos Anjos de Lima; Leonardo
+Hugo de Souza; Leticia Bernado de Souza; Luis Fillipe Backer Faria;
+Luiz Fabiano Ribeiro Campos; Matheus de Sousa Leal Antunes; Pa-
+trícia Ayumi Inoue; Raissa Loureiro de Souza; Rodrigo dos Santos Pa-
+checo; Rosimar de Fátima Vieira; Vanilda Miranda Brigido. Secretária
+Escolar: Darly da Silva Borges, designada no DOERJ de 27/04/2007,
+página 37, 2ª coluna. Diretora: Rita de Cássia Melo Veiga Dutra, de-
+signada no DOERJ de 20/03/2014, página 29, 1ª coluna. Servidores
+responsáveis pela publicação: Marcia Lhamas Barga, ID. 4329252-6 e
+Andrea de Souza Fontes Brandão, ID. 4329268-2. Processo SEI-
+030001/081776/2025 Id: 2673632
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+COORDENADORIA DE INSPEÇÃO ESCOLAR METROPOLITANA IV
+CIEP BRIZOLÃO 386 GUILHERME DA SILVEIRA FILHO
+E D I TA L
+O DI R E TO R DO CIEP BRIZOLÃO 386 GUILHERME DA SILVEIRA
+FILHO, Censo Escolar nº 33106614, torna pública a seguinte listagem
+de concluintes: CURSO DE ENSINO MÉDIO NA MODALIDADE EDU-
+CAÇÃO DE JOVENS E ADULTOS; ANO 2025 - 1º SEMESTRE: Anna
+Cassya Mariano Rodrigues; Camilla Sabino Teixeira; Cecilia Dantas de
+Oliveira; Davi Viana Santos; Drielle Vieira; Franciane Marques de
+Amorim; Juliane Ribeiro Melo; Lariza Ludgero da Silva Santos; Renata
+Candido da Silva; Vitoria Barbosa da Silva. ANO 2021 - 2º SEMES-
+TRE: Israel de Oliveira José. ANO 2016 - 1º SEMESTRE: Rafaela
+Mathias de Andrade. Diretora: Rizocleide Santos Gonçalo da Silva,
+designada no DOERJ de 29/01/2024, página 60, 2ª coluna. Secretária
+Escolar: Georgete Ferreira das Neves, designada no DOERJ de
+10/03/2003, página 15, 3ª coluna. Servidores que autorizaram a pu-
+blicação: Tarciane Azevedo Correia, ID. Funcional nº 4368508-0 e Li-
+lian de Santana Guedes, ID. Funcional nº 4428419-5. Processo nº
+SEI-030001/017608/2025.
+Id: 2673628
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+COORDENADORIA DE INSPEÇÃO ESCOLAR METROPOLITANA IV
+COLÉGIO ESTADUAL PROFESSORA JUREMA PEÇANHA GIRAUD
+E D I TA L
+OD  I R E TO R DO COLÉGIO ESTADUAL PROFESSORA JUREMA PE-
+ÇANHA GIRAUD , Censo Escolar nº 33082359, torna pública a se-
+guinte listagem de concluintes: CURSO DE ENSINO MÉDIO - ANO
+2007: Helton Lopes Silva. CURSO DE ENSINO MÉDIO NA MODA-
+LIDADE EDUCAÇÃO DE JOVENS E ADULTOS - ANO 2025/1º SE-
+MESTRE, Turma de origem NEJA-IV01/2024/2º: Lohany Tavares Vian-
+na do Nascimento. Diretora: Carla Veronica Batista Benetti de Oliveira,
+designada no DOERJ de 07/02/2025, página 35. Secretária Escolar:
+Kesia Alencar de Albuquerque Alves, designada no DOERJ de
+23/05/2024, página 15, 2ª coluna. Servidores responsáveis pela publi-
+cação: Tarciane Azevedo Correia, ID. Funcional nº 4368508-0 e Lilian
+de Santana Guedes, ID. Funcional nº 4428419-5. Processo nº SEI-
+030001/024889/2025.
+Id: 2673637
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+COORDENADORIA DE INSPEÇÃO ESCOLAR METROPOLITANA IV
+COLÉGIO ESTADUAL PROFESSORA VILMA ATANÁZIO
+E D I TA L
+O DIRETOR DO COLÉGIO ESTADUAL PROFESSORA VILMA ATA-
+NÁZIO, Censo Escolar 33136424, torna pública a seguinte listagem
+de concluintes: CURSO ENSINO MÉDIO, ANO LETIVO DE 2007:
+Priscilla Magon Nogueira. Diretora: Elaine Lopes Isaías Folena, desig-
+nada no DOERJ de 19/05/2021, página 35, 1ª coluna. Secretária Es-
+colar: Viviane dos Santos Martins Sodré, designada no DOERJ de
+16/05/2022, página 26, 2ª coluna. Servidores responsáveis pela publi-
+cação: Amanda Ferreira Santos Braga, ID. Funcional nº 4372231-8 e
+Keller Ferreira da Silva, ID. Funcional nº 4428434-9. Processo nº SEI-
+030001/042195/2025. Id: 2673651
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
+COORDENADORIA DE INSPEÇÃO ESCOLAR METROPOLITANA IV
+COLÉGIO ESTADUAL DALVA DE OLIVEIRA
+E D I TA IS
+O DIRETOR DO COLÉGIO ESTADUAL DALVA DE OLIVEIRA , Cen-
+so Escolar 33079706, torna pública a seguinte listagem de concluin-
+tes: CURSO ENSINO MÉDIO, NO ANO DE 2014, TURMA DE ORI-
+GEM 2003/2008: Felipe Dantas de Souza, Matricula
+200928450075499. Diretor: Carlos Artur de Araújo, designado no
+DOERJ de 10/01/2018, página 20. Secretária Escolar: Lurimar Con-
+ceição Alvarenga Teixeira, designada no DOERJ de 17/12/2016, pá-
+gina 10, 2ª coluna. Servidores autorizantes: Selma Regina Carvalho
+de Macedo, ID. Funcional nº 4329312-3 e Amanda Ferreira Santos
+Braga, ID. Funcional nº 4372231-8. Processo nº SEI-
+030036/003784/2023.
+O DIRETOR DO COLÉGIO ESTADUAL DALVA DE OLIVEIRA , Cen-
+so Escolar 33079706, torna pública a seguinte listagem de concluin-
+tes: CURSO ENSINO MÉDIO, ANO 2009; TURMA 3001: Irani de Oli-
+veira Gomes. Diretor: Carlos Artur de Araújo, designado no DOERJ de
+10/01/2018, página 20. Secretária Escolar: Lurimar Conceição Alvaren-
+ga Teixeira, designada no DOERJ de 17/12/2016, página 10, 2ª co-
+luna. Servidores autorizantes: Selma Regina Carvalho de Macedo, ID.
+Funcional nº 4329312-3 e Amanda Ferreira Santos Braga, ID. Funcio-
+nal nº 4372231-8. Processo nº SEI-030036/003784/2023 .
+Id: 2673650
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+COORDENADORIA DE INSPEÇÃO ESCOLAR M E T R O P O L I TA N A
+VII
+CEJA PROFESSORA ROSA SOARES
+E D I TA IS
+O DIRETOR DA UNIDADE CEJA PROFESSORA ROSA SOARES -
+Censo Escolar 33057982, torna pública a seguinte listagem de con-
+cluintes: CURSO DE ENSINO FUNDAMENTAL, NA MODALIDADE
+EDUCAÇÃO DE JOVENS E ADULTOS, ANO LETIVO DE 2025 : Aga-
+tha Souza dos Santos, Ana Olívia Santos, Davi Lima de Souza, Elizeu
+de Souza da Silva, Felipe Borges, Jorge Fernandes da Silva, Larissa
+Santos Eugenio, Lúcio Fernandes de Assis, Márcio Faria, Marilin Oda-
+ra dos Santos Paula de Castro, Raissa Emilly dos Santos de Santana,
+Raquel Victória da Fonseca Pinto, Renê Luiz Sampaio, Simone Fon-
+tão Neiva, Suzie Lane da Silva Santos. CURSO DE ENSINO MÉDIO,
+NA MODALIDADE EDUCAÇÃO DE JOVENS E ADULTOS, ANO LE-
+TIVO DE 2025 : André Luiz Galiza de Souza, Andréa Carla Albino de
+Souza, Adriano da Silva Guimarães, Alessandra Coelho Bicalho de
+Oliveira, Alexander da Silva, Beatriz Trindade Ventura, Bianca Fragoso
+Santos, Cainã Samuel Sousa de Aquino, Carlos Eduardo Silva de Oli-
+veira, Dalmo Garrido Girão, Eliane Dias Vassoler , Enzo Sant'Anna
+Moreira da Costa, Helen Rose de Oliveira, Jaqueline Brandão Silva,
+Júlio de Sousa Tôrres, Luciane da Silva Torres Sousa, Marta Rezende
+do Nascimento Santiago, Matias do Nascimento Miranda Neto, Mau-
+rício Jorge Pereira, Mirella Cristine do Nascimento Duarte, Mônica Me-
+nezes de Jesus Dias, Roberto Oliveira Jordão, Tania de Cassia Ra-
+mos da Silva, Tatiane Soares da Silva, Thiago Bezerra da Silva. Di-
+retor: Luís Carlos Henriques Monteiro, designado no DOERJ de
+06/02/2025, página 51, Anexo Único. Secretária Escolar: Luci Maria
+da Silva Dornelles, designada no DOERJ de 17/11/2020, página 20,
+1ª coluna. Servidor responsável pela publicação: Ana Paula Soares
+Fagundes, ID. 4327910-4. Processo nº SEI- 030001/078801/2025.
+O DIRETOR DA UNIDADE CEJA PROFESSORA ROSA SOARES -
+BELFORD ROXO - Censo Escolar 33057982, torna pública a seguinte
+listagem de concluintes: CURSO DE ENSINO FUNDAMENTAL, NA
+MODALIDADE EDUCAÇÃO DE JOVENS E ADULTOS, ANO LETIVO
+DE 2025: Ana Rita dos Reis dos Santos, Carla Ribeiro Gasperoni Al-
+ves, Talissa Brenda Cortes de Oliveira. ANO DE LETIVO DE 2025
+CURSO DE ENSINO MÉDIO, NA MODALIDADE EDUCAÇÃO DE JO-
+VENS E ADULTOS. Ana Carolina de Souza Oliveira, Camila Martins
+Floriano, Daniel Angelo Constant Cercilier, Danilo José Cardoso Lucio,
+Érica de Souza Gomes, Jurema Peixoto de Oliveira, Ketelen Grazielen
+Martins de Paula Dantas, Rayanne Barbosa Gern Pereira. Diretor:
+Luis Carlos Henriques Monteiro, designado no DOERJ de 06/02/2025,
+página 51, Anexo Único. Secretária Escolar: Luci Maria da Silva Dor-
+nelles, designada no DOERJ de 17/11/2020, página 20, 1ª coluna.
+Servidor responsável pela publicação: Ana Paula Soares Fagundes,
+ID. 4327910-4. Processo nº SEI- 030001/078801/2025.
+Id: 2673866
+Secretaria de Estado de
+Ciência, T ecnologia e Inovação
+S E C R E TA R I A DE E S TA D O DE CIÊNCIA, TECNOLOGIA
+E I N O VA Ç Ã O
+FUNDAÇÃO DE APOIO À ESCOLA TÉCNICA
+E X T R ATO DE I N S T R U M E N TO C O N T R AT U A L
+INSTRUMENTO: Termo de Contrato n° 011/2025.
+PA R T E S : Fundação de Apoio à Escola Técnica do Estado do Rio de
+Janeiro FAETEC e SOBERANA COMERCIO E SERVIÇOS LTDA
+OBJETO: O objeto do presente instrumento é a aquisição de e uni-
+formes padrão Le Cordon Bleu para os alunos do curso CordonTec de
+2025/2026, nas condições estabelecidas no Termo de Referência e
+nos anexos deste Contrato.
+PRAZO: A vigência do Contrato é de 12 (doze) meses, contado da
+data da divulgação no Portal Nacional de Contratações Públicas.
+DATA DA ASSINATURA: 21/08/2025
+VALOR: O valor total do Contrato é de R$ 189.400,00 (cento e oi-
+tenta e nove mil e quatrocentos reais).
+FUNDAMENTO: Lei nº 14.133, de 1º de abril de 2021.
+PROCESSO ADMINISTRATIVO Nº SEI-260005/008993/2024.
+Id: 2673671
+SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA
+E INOVAÇÃO
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+E X T R ATO S DE INSTRUMENTOS C O N T R AT U A IS
+*I N S T R U M E N TO : Contrato 192/2025. PA R T E S : UERJ e MEDI-GLOBE
+BRASIL LTDA. O B J E TO : Aquisição de material de uso hospitalar (al-
+ça de polipectomia), para atender à PPC. PRAZO: 12 meses. VA -
+LOR: R$ 9.600,00. NOTA DE EMPENHO: 2025NE03970. NOMEA-
+ÇÃO: Portaria 021/PPC/2025. DATA DA ASSINATURA : 06/08/2025.
+FUNDAMENTO DO ATO: PE 277/2025, Processo SEI-
+260006/014924/2025.
+*I N S T R U M E N TO : Contrato 187/2025. PA R T E S : UERJ e DONEGATE
+DISTRIBUIDORA LTDA. O B J E TO : Aquisição de material de consumo
+de uso médico-hospitalares (Equipo Infusão, frasco aspiração secre-
+ção, etc.), para atender ao Serviço de Almoxarifado da PPC. PRAZO:
+12 meses. VA L O R : R$ 7.992,00. NOTA DE EMPENHO:
+2025NE04289. NOMEAÇÃO: Portaria 020/PPC/2025. DATA DA AS-
+S I N AT U R A : 05/08/2025. FUNDAMENTO DO ATO: PE 19/2025, Pro-
+cesso SEI-260006/035682/2024.
+*I N S T R U M E N TO : Contrato 188/2025. PA R T E S : UERJ e TARGET ME-
+DICAMENTOS E PROD.HOSPITALARES LTDA. O B J E TO : Aquisição
+de material de consumo de uso médico-hospitalares (Equipo Infusão,
+frasco aspiração secreção, etc.), para atender ao Serviço de Almoxa-
+rifado da PPC. PRAZO: 12 meses. VA L O R : R$ 12.814,20. NOTA DE
+EMPENHO: 2025NE04290. NOMEAÇÃO: Portaria 020/PPC/2025. DA-
+TA DA ASSINATURA : 05/08/2025. FUNDAMENTO DO ATO: PE
+19/2025, Processo SEI-260006/035682/2024.
+*I N S T R U M E N TO : Contrato 189/2025. PA R T E S : UERJ e DBV CO-
+MÉRCIO IMPORTAÇÃO E EXPORTAÇÃO DO BRASIL LTDA. OBJE-
+TO : Aquisição de material de consumo de uso médico-hospitalares
+(Equipo Infusão, frasco aspiração secreção, etc.), para atender ao
+Serviço de Almoxarifado da PPC. PRAZO: 12 meses. VA L O R : R$
+23.328,00. NOTA DE EMPENHO: 2025NE04291. NOMEAÇÃO: Por-
+taria 020/PPC/2025. DATA DA ASSINATURA : 05/08/2025. FUNDA-
+MENTO DO ATO: PE 19/2025, Processo SEI-260006/035682/2024.
+*Omitidos no D.O. de 21/08/2025.
+Id: 2673678
+SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA
+E INOVAÇÃO
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+EXTRATO DE TERMO
+I N S T R U M E N TO : Termo de Rerratificação ao Contrato 104/2025.
+PA R T E S : UERJ e SOARES & MARINS.PAES LTDA.
+O B J E TO : Retificação da Cláusula Primeira e Quinta ao Contrato nº.
+104/2025.
+VA L O R TO TA L : R$ 2.156,00.
+DATA DA ASSINATURA: 26/08/2025.
+FUNDAMENTO DO ATO: Proc. nº SEI-260006/009499/2025.
+Id: 2673995
+SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA
+E INOVAÇÃO
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
+E D I TA L
+CONCURSO PÚBLICO PARA O CARGO DE TÉCNICO UNIVERSI-
+TÁRIO I, PERFIL ASSISTENTE ADMINISTRATIVO - REGIÃO: RIO
+DE JANEIRO
+O SUPERINTENDENTE DE GESTÃO DE PESSOAS , em conformida-
+de com o Edital do Concurso Público em epígrafe e com o Proc. SEI
+nº SEI-260006/027616/2025, torna pública a eliminação do(a) candi-
+dato(a) RAIANNE GALIZA MARCOLINO DOS SANTOS , 107º classi-
+ficado(a) nas vagas reservadas para negros e/ou indígenas, por de-
+sistência da vaga, e convoca em substituição o(a) candidato(a) RE-
+BECA VITORIA OLIVEIRA DE SOUZA , 108º classificado(a) nas va-
+gas reservadas para negros e/ou indígenas, na vacância gerada pela
+ampliação de vagas, autorizada pela Magnífica Reitora.
+Os documentos deverão ser encaminhados em formato digital, por in-
+termédio de e-mail, sendo a verificação dos originais feita posterior-
+mente. O(A) candidato(a) convocado(a) deverá aguardar o recebimen-
+to do comunicado de convocação com as informações sobre o cum-
+primento das etapas de entrega de documentação e realização de
+exame médico admissional, conforme Proc. nº SEI-E-
+26007/4654/2015.
+Id: 2673690
+SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA
+E INOVAÇÃO
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+CENTRO DE TECNOLOGIA E CIÊNCIAS
+FACULDADE DE CIÊNCIAS EXATAS E ENGENHARIAS
+E D I TA L
+CONCURSO PÚBLICO PARA PROFESSOR ADJUNTO, DO DEPAR-
+TAMENTO NAVAL E PESCA (DEPNAPE), ÁREA ENGENHARIA NA-
+VAL E OCEÂNICA, NOS TERMOS DA LEI n.º 5.343/2008, DECRE-
+TOS nº 43.876/2012 e 43.007/2011, da RESOLUÇÃO UERJ n.º
+03/91, dos ATOS EXECUTIVOS DA REITORIA nº 45/1993 e
+021/2011. Proc. SEI-260007/051677/2022.
+A UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO - UERJ torna
+público a RETOMADA do Edital de Concurso Público para provimento
+imediato sob o regime estatutário, para o Cargo de professor adjunto,
+área de Engenharia Naval e Oceânica, de acordo com a 37ª Reunião
+Ordinária do Conselho Departamental da Faculdade de Ciências Exa-
+tas e Engenharias da Universidade do Estado do Rio de Janeiro, ba-
+seada na manifestação 562 da PGUERJ09, documento 96180532,
+processo SEI-260007/051677/2022, e CONVOCA a candidata inscrita
+MARICRUZ AURELIA FUN SANG CEPEDA , para a realização da
+prova escrita seguindo o cronograma disposto no Anexo 1.
+CRONOGRAMA:
+A retomada do Concurso obedecerá ao seguinte calendário:
+a) Divulgação da composição da Comissão Examinadora -
+09/09/2023, até às 18h.
+b) Sorteio do ponto para a prova escrita - 23/09/2025, às 14h.
+c) Prova escrita - 23/09/2025, das 15h às 18h.
+d) Leitura da prova escrita - 23/09/2025, às 18h.
+e) Resultado da prova escrita - 24/09/2025, até 13h.
+f) Divulgação da lista de pontos para a prova de aula - 24/09/2025,
+às 14h. Obs.: havendo mais de um candidato, nessa data serão di-
+vulgados o dia e a hora do sorteio do ponto e da realização da pro-
+va de aula de cada candidato.
+g) Sorteio do ponto para a prova de aula - 24/09/2025, às 14h.
+h) Prova de aula - 25/09/2025, às 14h30.
+i) Resultado da prova de aula - 25/09/2025, até às 22h
+j) Entrega de Títulos e Trabalhos - 26/09/2025, às 14h. Id: 2673646
+SECRETARIA DE ESTADO DE CIÊNCIA TECNOLOGIA
+E INOVAÇÃO
+FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+AV I S O S
+PREGÃO ELETRÔNICO Nº 341/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que a licitação para AQUISIÇÃO DE VITREÓ-
+FAGO E ETC anteriormente marcada para 19/08/2025 às 10:00h, FI-
+CA ADIADA PARA 09/09/2025 às 10h. Proc. SEI-
+260008/000381/2023.
+PREGÃO ELETRÔNICO Nº 336/2025 R1
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 09/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE CATETER PARA TROMBECTOMIA.
+Proc. SEI-260007/006173/2025.
+ADMINISTRAÇÃO VINCULADA
+
+## Pagina 51
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0035/U0031/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+PREGÃO ELETRÔNICO Nº 344/2025 R1
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 09/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE PEGASPARGASE. Proc. SEI-
+260007/006895/2025.
+PREGÃO ELETRÔNICO Nº 382/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 09/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO CONJUNTO DRENAGEM E ETC. Proc.
+SEI-260007/008841/2025.
+PREGÃO ELETRÔNICO Nº 383/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 09/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE MEDICAMENTOS PARA PPC. Proc.
+SEI-260006/029708/2025.
+PREGÃO ELETRÔNICO Nº 384/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 09/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE INSTRUMENTAIS CIRURGICOS. Proc.
+SEI-260007/007451/2025.
+PREGÃO ELETRÔNICO Nº 385/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 09/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE MEDICAMENTOS. Proc. SEI-
+260007/008754/2025.
+PREGÃO ELETRÔNICO Nº 386/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 10/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE CATETERES DIAGNOSTICO. Proc.
+SEI-260007/003983/2025.
+PREGÃO ELETRÔNICO Nº 387/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 10/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE AMINOACIDOS PEDIÁTRICOS E ETC.
+Proc. SEI-260007/008724/2025.
+PREGÃO ELETRÔNICO Nº 388/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 10/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE INTRODUTOR DIAGNOSTICO E ETC.
+Proc. SEI-260007/006287/2025.
+PREGÃO ELETRÔNICO Nº 389/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 10/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE MEIOS DE CULTURA E ETC. Proc.
+SEI-260007/004218/2024.
+PREGÃO ELETRÔNICO Nº 390/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 10/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE PLACA ORTOPÉDICA E ETC. Proc.
+SEI-260007/001745/2025.
+PREGÃO ELETRÔNICO Nº 391/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 10/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE CARDIOTOCOGRAFO. Proc. SEI-
+260007/016952/2024.
+PREGÃO ELETRÔNICO Nº 392/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 11/09/2025 às 10:00h, a
+licitação para SERVIÇO DE COLETA, TRANSPORTE E ETC DE RE-
+SIDUOS DE INFECTANTES. Proc. SEI-260006/021282/2024.
+PREGÃO ELETRÔNICO Nº 393/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 11/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE AGULHAS HIPODERMICAS E ETC.
+Proc. SEI-260007/009171/2025.
+PREGÃO ELETRÔNICO Nº394/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 11/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE CURATIVOS E ETC. Proc. SEI-
+260007/004655/2025.
+PREGÃO ELETRÔNICO Nº 395/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 11/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE FIXAÇÃO OCCIPTO CERVICAL. Proc.
+SEI-260007/004549/2025.
+PREGÃO ELETRÔNICO Nº 396/2025
+A FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+- UERJ torna público que realizará no dia 11/09/2025 às 10:00h, a
+licitação para AQUISIÇÃO DE ENDOPROTESE E ETC. Proc. SEI-
+260007/008807/2025.
+Editais e anexos disponíveis no site: www.compras.rj.gov.br
+Id: 2673584
+Secretaria de Estado de
+T ransporte e Mobilidade Urbana
+COMPANHIA DE TRANSPORTES SOBRE TRILHOS
+DO ESTADO DO RIO DE JANEIRO
+EXTRATO DE INSTRUMENTO CONTRATUAL
+I N S T R U M E N TO : Contrato nº 009/2025.
+PA R T E S : Companhia de Transportes Sobre Trilhos do Estado do Rio
+de Janeiro - RIOTRILHOS e Centro de Integração Empresa - Escola -
+CIEE/RJ.
+O B J E TO : Contratação de empresa especializada nos serviços de
+Agente de Integração, conforme previsto na Lei nº 11.788/2008, para
+auxiliar na administração do programa de concessão de vagas de es-
+tágio no âmbito da RIOTRILHOS.
+DATA DA A S S I N AT U R A : 22/08/2025.
+VA L O R : R$ 11.670,00 (onze mil, seiscentos e setenta reais).
+PRAZO: 12 (doze) meses, contados a partir da publicação.
+PROGRAMA DE TRABALHO : 31.730.0.26.122. 0002. 2016.
+NATUREZA DAS DESPESAS : 339039.
+FONTE DE RECURSOS : 100.
+NOTA DE EMPENHO : 2025NE00440.
+F U N D A M E N TO : Lei Estadual nº 287/1979 e de seu Regulamento,
+aprovado pelo Decreto nº 3.149/1980, Lei Federal nº 13.303/ 2016 e
+RILC/RIOTRILHOS.
+PROCESSO Nº SEI-100002/000244/2025. Id: 2673924
+AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS
+CONCEDIDOS DE TRANSPORTES AQUAVIÁRIOS,
+FERROVIÁRIOS E METROVIÁRIOS E DE RODOVIAS
+DO ESTADO DO RIO DE JANEIRO
+EXTRATO DE TERMO
+I N S T R U M E N TO : Termo de Compromisso de Estágio.
+PA R T E S : Agência Reguladora de Serviços Públicos Concedidos de
+Transportes Aquaviários, Ferroviários e Metroviários e de Rodovias do
+Estado do Rio de Janeiro - AGETRANSP, e a estudante Talita Chaye-
+ne Vicente e a - Pontifícia Universidade Católica do Rio de Janeiro -
+PUC-Rio.
+O B J E TO : Estágio.
+ÁREA DE CONCENTRAÇÃO: Direito
+DATA DA ASSINATURA: 25/08/2025
+FUNDAMENTO LEGAL: Lei Federal nº 11.788/2008.
+PROCESSOS NºS SEI E-12/010.186/2008 E SEI-
+100003/000934/2025
+Id: 2674054
+Secretaria de Estado do
+Ambiente e Sustentabilidade
+SECRETARIA DE ESTADO DO AMBIENTE E S U S T E N TA B I L I D A D E
+EXTRATO DE INSTRUMENTO CONTRATUAL
+*INSTRUMENTO: Contrato 024/2025.
+PA R T E S : O Estado do Rio de Janeiro pela da Secretaria de Estado
+do Ambiente e Sustentabilidade e a empresa Esfera Brasil Ltda.
+OBJETO: Contratação de quota de patrocínio do evento Seminário
+Brasil Hoje 2025 - Sustentabilidade como estratégia de futuro, a ser
+realizado no Palácio Tangará/SP.
+VA L O R : R$ 2.100.000,00 (dois milhões e cem mil reais).
+VIGÊNCIA: 90 (noventa) dias contados da assinatura.
+DATA DE ASSINATURA: 25/08/2025.
+FUNDAMENTO LEGAL: Processo nº SEI-070001/002186/2025.
+*Omitido no D.O. de 26/08/2025.
+Id: 2673476
+SECRETARIA DE ESTADO DO AMBIENTE E SUSTENTABILIDADE
+RETIFICAÇÃO
+D.O. DE 25/08/2025
+PÁGINA 72 - 2ª COLUNA
+AV I S O
+Concorrência Eletrônica nº 002/2025.
+Processo nº SEI-070001/000073/2025
+Onde se lê:
+D ATA: 03/10/2025 às 10:00h.
+Leia-se:
+DATA: 16/10/2025 às 10:00h.
+Id: 2674094
+SECRETARIA DE ESTADO DO AMBIENTE E SUSTENTABILIDADE
+RETIFICAÇÃO
+D.O. DE 22/08/2025
+PÁGINA 63 - 2ª COLUNA
+AV I S O
+Concorrência Eletrônica nº 002/2025.
+Processo nº SEI-070001/001240/2024
+Onde se lê:
+D ATA: 19/09/2025, às 10:00h
+Leia-se:
+DATA: 02/10/2025 às 10:00h.
+Id: 2674097
+ADMINISTRAÇÃO VINCULADA
+INSTITUTO ESTADUAL DO AMBIENTE
+EXTRATO DE TERMO ADITIVO
+I N S T R U M E N TO : Terceiro Termo Aditivo ao Contrato nº 33/2021
+PARTES: INSTITUTO ESTADUAL DO AMBIENTE - INEA E A EM-
+PRESA CLARO S.A
+OBJETO: Constitui objeto do presente instrumento a alteração (quan-
+titativa) do Contrato nº 33/2021, relativo à 01 novo link na unidade
+APA Tamoios, 01 novo link na unidade UC REVIS Lagoa da Turfeira e
+aditivo de velocidade na unidade Marechal, com fundamento no inciso
+I, alínea (indicar se a ou b) do art. 65, c/c art. 58, inciso I, da Lei nº
+8.666/93, para melhor adequação às finalidades de interesse público
+VA L O R :Dá-se ao termo aditivo o valor de R$ 73.533,93 (setenta e
+três mil quinhentos e trinta e três reais e noventa e três centavos),
+totalizando o contrato o valor de R$ 5.072,029,55 (cinco milhões, se-
+tenta e dois mil, vinte e nove reais e cinquenta e cinco centavos).
+PRAZO: Não se aplica
+DATA DE ASSINATURA: 25/08/2025
+PROCESSO Nº SEI-070002/003254/2021.
+Id: 2673861
+INSTITUTO ESTADUAL DO AMBIENTE
+E D I TA I S
+O INSTITUTO ESTADUAL DO AMBIENTE - INEA nos termos do art.
+14, § 4°, da Lei Estadual n° 3.467, de 14/09/2000 e tendo em vista a
+Notificação n°: GEFISNOT/01135371, em 15/05/2024. Processo nº SEI
+E-07/002.323/2016
+CONVOCA:
+NOME: A S NUNES MADEIRAS ME. CNPJ/CPF Nº: 11.294.773/0001-
+44. ENDEREÇO: AVENIDA COELHO DA ROCHA, 1345 - ROCHA
+SOBRINHO - MESQUITA.
+O convocado ou seu representante legal deverá comparecer no INEA,
+no prazo de 20 dias para tomar ciência do processo, à Rua Vene-
+zuela, 110 sala 413 4° andar - Saúde - Rio de Janeiro - RJ. O pro-
+cesso terá continuidade independente do comparecimento do convo-
+cado.
+O INSTITUTO ESTADUAL DO AMBIENTE - INEA nos termos do art.
+14, § 4°, da Lei Estadual n° 3.467, de 14/09/2000 e tendo em vista a
+Notificação n° GEFISNOT/01136902, em 07/08/2024. Processo nº SEI
+E-07/002.7795/2019
+CONVOCA:
+NOME: BWA TRANSPORTES ESPECIALIZADOS LTDA . CNPJ/CPF
+Nº: 40.433.401/0001-50. ENDEREÇO: EST JOSE RICARDO MUSICO
+Nº 165 - BANGU - RIO DE JANEIRO.
+O convocado ou seu representante legal deverá comparecer no INEA,
+no prazo de 20 dias para tomar ciência do processo, à Rua Vene-
+zuela, 110 sala 413 4° andar - Saúde - Rio de Janeiro - RJ. O pro-
+cesso terá continuidade independente do comparecimento do convo-
+cado.
+O INSTITUTO ESTADUAL DO AMBIENTE - INEA, nos termos do art.
+14, § 4°, da Lei Estadual n° 3.467, de 14/09/2000 e tendo em vista o
+Auto de Infração N° GEFISEAI/00162019 emitido com a sanção de
+Multa Simples R$ 6.627,78 em 25 de março de 2025, com enqua-
+dramento no artigo 64 da mesma Lei. Processo nº SEI-
+070002/009087/2024.
+CONVOCA:
+NOME OU RAZÃO SOCIAL: ANTONIO CARLOS BARBEITO MEN-
+DES. CNPJ/CPF N° 020.938.457-33. ENDEREÇO: RODOVIA RIO
+SANTOS, KM 48,5, ITAOCAIA, MANGARATIBA, RJ.
+O convocado ou seu representante legal deverá comparecer no INEA,
+no prazo de 20 dias para tomar ciência do processo, à Rua Vene-
+zuela, 110 sala 413 4° andar - Saúde - Rio de Janeiro - RJ. O pro-
+cesso terá continuidade independente do comparecimento do convo-
+cado.
+O INSTITUTO ESTADUAL DO AMBIENTE - INEA nos termos do art.
+14, § 4°, da Lei Estadual n° 3.467, de 14/09/2000 e tendo em vista a
+Notificação n° GEFISNOT/01140709, em 15/05/2025. Processo nº SEI
+E-07/002.16180/2014
+CONVOCA:
+NOME: CONSTRUCAP CCPS ENGENHARIA E COMÉRCIO S/A.
+CNPJ/CPF Nº: 61.584.223/0007-23 ENDEREÇO: ESTRADA REAL DE
+MAUÁ, S/N - MAUÁ - MAGÉ.
+O convocado ou seu representante legal deverá comparecer no INEA,
+no prazo de 20 dias para tomar ciência do processo, à Rua Vene-
+zuela, 110 sala 413 4° andar - Saúde - Rio de Janeiro - RJ. O pro-
+cesso terá continuidade independente do comparecimento do convo-
+cado.
+Id: 2673626
+INSTITUTO ESTADUAL DO AMBIENTE
+E D I TA IS
+O INSTITUTO ESTADUAL DO AMBIENTE - INEA, nos termos do
+art. 14, § 4°, da Lei Estadual n° 3.467, de 14/09/2000 e tendo em
+vista o Auto de Infração N° GEFISEAI/00161914 emitido com a san-
+ção de Advertência em 07 de março de 2025, com enquadramento
+no artigo 46 E 57 da mesma Lei. Processo nº SEI-
+070002/003086/2024.
+CONVOCA:
+NOME OU RAZÃO SOCIAL: LADY FERNANDA OUVERNEY AL-
+VES. CNPJ/CPF N° 110.427.147-89. ENDEREÇO: EST. MACAÉ DE
+CIMA, SÍTIO PARAÍSO DO SOINHO, APÓS SITIO DO JUIR EM,
+MACAÉ DE CIMA - MURY,
+NOVA FRIBURGO, RJ.
+O convocado ou seu representante legal deverá comparecer no
+INEA, no prazo de 20 dias para tomar ciência do processo, à Rua
+Venezuela, 110 sala 413 4° andar - Saúde - Rio de Janeiro - RJ. O
+processo terá continuidade independente do comparecimento do con-
+vocado
+O INSTITUTO ESTADUAL DO AMBIENTE - INEA, nos termos do
+art. 14, § 4°, da Lei Estadual n° 3.467, de 14/09/2000 e tendo em
+vista o Auto de Infração N° GEFISEAI/00162039 emitido com a san-
+ção de Multa Simples Valor: R$ 6.813,41 em 27 de março de 2025,
+com enquadramento no artigo 81 da mesma Lei. Processo nº SEI-
+0 7 0 0 0 2 / 0 11 8 0 1 / 2 0 2 4 .
+CONVOCA:
+NOME OU RAZÃO SOCIAL: SIMPLÍCIUS COLETA E REMOÇÃO
+DE RESÍDUOS EIRELI. CNPJ/CPF N° 11.937.243/0001-77. ENDERE-
+ÇO: AVENIDA MONTE CASTELO, 522 - LOTE 45, QUADRA 192 -
+JARDIM GRAMACHO -
+DUQUE DE CAXIAS, RJ.
+O convocado ou seu representante legal deverá comparecer no
+INEA, no prazo de 20 dias para tomar ciência do processo, à Rua
+Venezuela, 110 sala 413 4° andar - Saúde - Rio de Janeiro - RJ. O
+processo terá continuidade independente do comparecimento do con-
+vocado.
+O INSTITUTO ESTADUAL DO AMBIENTE - INEA, nos termos do
+art. 14, § 4°, da Lei Estadual n° 3.467, de 14/09/2000 e tendo em
+vista o Auto de Infração N° GEFISEAI/00160833 emitido com a san-
+ção de Multa Simples R$ 7.791,70 em, 06 de agosto de 2024, com
+enquadramento no artigo 64 da mesma Lei. Processo nº SEI-
+070002/013724/2024.
+CONVOCA:
+NOME OU RAZÃO SOCIAL: VALMIR ANTUNES E SOUZA.
+CNPJ/CPF N° 109.210.637-50. ENDEREÇO: ESTRADA DO NONÔ,
+Nº 06, RIO CLARO, RIO CLARO, RJ.
+O convocado ou seu representante legal deverá comparecer no
+INEA, no prazo de 20 dias para tomar ciência do processo, à Rua
+Venezuela, 110 sala 413 4° andar - Saúde - Rio de Janeiro - RJ. O
+processo terá continuidade independente do comparecimento do con-
+vocado. Id: 2673641
+INSTITUTO ESTADUAL DO AMBIENTE
+E D I TA IS
+O INSTITUTO ESTADUAL DO AMBIENTE - INEA , nos termos do art.
+14, § 4°, da Lei Estadual n° 3.467, de 14/09/2000 e tendo em vista o
+Auto de Infração N° GEFISEAI/00161754 emitido com a sanção de
+Advertência em 05 de fevereiro de 2025, com enquadramento no ar-
+tigo 76 da mesma Lei. Processo nº SEI-070002/013057/2024.
+CONVOCA:
+NOME OU RAZÃO SOCIAL: ISAIAS VICENTE DOS SANTOS .
+CNPJ/CPF N° 912.272.167-34. ENDEREÇO: BECO AVENIDA ISABEL
+DOMINGUES, Nº 1 LOTE 20 QUADRA 3, GARDÊNIA AZUL, RIO DE
+JANEIRO, RJ.
+O convocado ou seu representante legal deverá comparecer no INEA,
+no prazo de 20 dias para tomar ciência do processo, à Rua Vene-
+zuela, 110 sala 413 4° andar - Saúde - Rio de Janeiro - RJ. O pro-
+cesso terá continuidade independente do comparecimento do convo-
+cado.
+O INSTITUTO ESTADUAL DO AMBIENTE - INEA , nos termos do art.
+14, § 4°, da Lei Estadual n° 3.467, de 14/09/2000 e tendo em vista o
+Auto de Infração N° GEFISEAI/00159376 emitido com a sanção de
+Multa Simples Valor: R$ 17.548,78 em 31 julho de 2023, com enqua-
+dramento no artigo 64 E 70 da mesma Lei. Processo nº SEI-
+070029/000150/2023
+CONVOCA:
+NOME OU RAZÃO SOCIAL: ALEXANDRE FUNARI NEGRAO .
+CNPJ/CPF N° 623.468.908-63. ENDEREÇO: PRAIA DE GRAGOATA -
+SACO DO MAMANGUA, CENTRO,
+PARATY, RJ.
+O convocado ou seu representante legal deverá comparecer no INEA,
+no prazo de 20 dias para tomar ciência do processo, à Rua Vene-
+zuela, 110 sala 413 4° andar - Saúde - Rio de Janeiro - RJ. O pro-
+cesso terá continuidade independente do comparecimento do convo-
+cado.
+O INSTITUTO ESTADUAL DO AMBIENTE - INEA , nos termos do art.
+14, § 4°, da Lei Estadual n° 3.467, de 14/09/2000 e tendo em vista o
+Auto de Infração N° GEFISEAI/00161548 emitido com a sanção de
+Multa Simples Valor: R$ 39.617,26 em 08 de janeiro de 2025, com
+enquadramento no artigo 63 E 64 da mesma Lei. Processo nº SEI-
+070002/018079/2024.
+CONVOCA:
+NOME OU RAZÃO SOCIAL: DUEFRATELLI TRANSPORTES LTDA .
+CNPJ/CPF N° 77.792.174/0001-69. ENDEREÇO: RODOVIA GOVER-
+NADOR MARIO COVAS (BR 101, KM 438), SÃO BRÁS, MANGARA-
+TIBA, RJ.
+O convocado ou seu representante legal deverá comparecer no INEA,
+no prazo de 20 dias para tomar ciência do processo, à Rua Vene-
+zuela, 110 sala 413 4° andar - Saúde - Rio de Janeiro - RJ. O pro-
+cesso terá continuidade independente do comparecimento do convo-
+cado. Id: 2673867
+INSTITUTO ESTADUAL DO AMBIENTE
+AV I S O
+O INSTITUTO ESTADUAL DO AMBIENTE solicita as empresas inte-
+ressadas e do ramo, o envio de cotação preços para o objeto: FOR-
+NECIMENTO, INSTALAÇÃO E MANUTENÇÃO DE (02) SISTEMAS
+DE RADAR DO TIPO BANDA-X DE DUPLA POLARIZAÇÃO, Prazo
+para Manifestação: 20 dias a contar da data de publicação podendo
+ser prorrogado por mais 10 dias. Para mais informações, entre em
+contato pelo e-mail anexocooexec@inea.rj.gov.br ou telefo-
+ne:21980130696. Processo nº SEI-070002/013638/2024.
+Id: 2673629
+ADMINISTRAÇÃO VINCULADA
+
+## Pagina 52
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0035/U0032
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+INSTITUTO ESTADUAL DO AMBIENTE
+DESPACHO DO ORDENADOR DE DESPESAS
+DE 27.08.2025
+PROCESSO Nº SEI-070002/006107/2025 - Considerando a manifes-
+tação da Diretoria de Recuperação Ambiental deste Instituto, acostada
+ao processo administrativo n° SEI-070002/006107/2025 através do do-
+cumento SEI nº110582006, DETERMINO a REVOGAÇÃO da Concor-
+rência Eletrônica nº006/2025, cujo objeto versa sobre a contratação
+de empresa especializada para prestação de serviço de “OBRAS PA-
+RA DRENAGEM E PAVIMENTAÇÃO ASFÁLTICA NAS RUAS DO
+BAIRRO VALE DAS PEDRINHAS - GUAPIMIRIM - RJ”.
+Id: 2673858
+INSTITUTO ESTADUAL DO AMBIENTE
+AV I S O
+AUTO DE INFRAÇÃO Nº INEA/COOBGAI/15/2025
+NOME: INSTITUTO SANTO AMARO LTDA CNPJ/CPF:
+27.530.005/0001-82 ENDEREÇO: Rua Rubem Risemberg, 114 quadra
+27 - Piratininga - NITERÓI - RJ DESCRIÇÃO: Por não atendimento à
+notificação n° SUPBGNOT/01138876, recebida em 22 de novembro de
+2024, com fulcro no Art. 76 da Lei Estadual 3467/2000. Por essa con-
+duta lesiva ao meio ambiente, fica V.Sa. sujeito à penalidade de multa
+simples, prevista no art. 2º, inciso II, da Lei Estadual nº 3.467/00.
+Aplicação de Penalidades - Multa Simples Valor: R$ 2.182,39 PRO-
+CESSO Nº SEI-070002/011192/2025.
+Id: 2673869
+Secretaria de Estado de Desenvolvimento
+Regional do Interior, Pesca e Agricultura Familiar
+ADMINISTRAÇÃO VINCULADA
+SECRETARIA DE ESTADO DE DESENVOLVIMENTO REGIONAL
+DO INTERIOR, PESCA E AGRICULTURA FAMILIAR
+EMPRESA DE ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL
+DO ESTADO DO RIO DE JANEIRO
+EXTRATO DE TERMO
+* I N S T R U M E N TO : Primeiro Termo Aditivo ao Contrato nº 036/2024.
+PA R T E S : EMPRESA DE ASSISTÊNCIA TÉCNICA E EXTENSÃO RU-
+RAL DO ESTADO DO RIO DE JANEIRO - EMATER-RIO E FASP CO-
+MERCIAL E SERVIÇOS EIRELI.
+O B J E TO : Prorrogação do prazo de vigência do Contrato nº 036/2024,
+por mais 12 (Doze) meses, a contar de 30 de agosto de 2025, re-
+lativo à aquisição de materiais de consumo para a recuperação/ma-
+nutenção de estradas vicinais, vinculadas ao programa Estradas Agro
+RJ, nos Municípios de Santa Maria Madalena, Conceição de Macabu
+e Trajano de Moraes, na forma do Termo de Referência e do instru-
+mento convocatório.
+VA L O R : R$ 3.139.006,00 (três milhões, cento e trinta e nove mil seis
+reais).
+SECRETARIA DE ESTADO DE DESENVOLVIMENTO REGIONAL
+DO INTERIOR, PESCA E AGRICULTURA FAMILIAR
+EMPRESA DE ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL
+DO ESTADO DO RIO DE JANEIRO
+EXTRATO DE TERMO
+* I N S T R U M E N TO : Primeiro Termo Aditivo ao Contrato nº 034/2024.
+PA R T E S : EMPRESA DE ASSISTÊNCIA TÉCNICA E EXTENSÃO RU-
+R A LD OE S T A D OD OR I OD E  J A N E I R O-E M A T E R - R I OEAG L X
+DE ITAOCARA COMERCIO E SERVIÇOS EIRELI.
+O B J E TO : Prorrogação do prazo de vigência do Contrato nº 034/2024,
+por mais 12 (Doze) meses, a contar de 28 de agosto de 2025, re-
+lativo à aquisição de materiais de consumo para a recuperação/ma-
+nutenção de estradas vicinais, vinculadas ao programa Estradas Agro
+RJ, nos Municípios de Laje do Muriaé, Miracema e Santo Antônio de
+Pádua, na forma do Termo de Referência e do instrumento convoca-
+tório.
+VA L O R : R$ 955.379,06 (Novecentos e cinquenta e cinco mil, trezen-
+tos e setenta e nove reais e seis centavos).
+DATA DA ASSINATURA: 22/08/2025.
+F U N D A M E N TO : Art. 71 da Lei 13.303/2016 e no parágrafo primeiro
+da cláusula segunda do contrato.
+PROCESSO Nº SEI-020002/000963/2024.
+*Omitido do D.O. de 27.08.2025.
+Id: 2673829
+Secretaria de Estado deCultura e Economia Criativa
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+EXTRATO DE TERMO
+I N S T R U M E N TO : Termos de Execução Cultural numerados conforme planilha abaixo.
+PA R T E S : Estado do Rio de Janeiro por meio da Secretaria de Estado de Cultura e Economia Criativa - SECEC RJ e proponentes conforme pl anilha.
+CNPJ N° Conforme planilha.
+O B J E TO : Execução do Projeto mencionado na planilha abaixo.
+PRAZO PARA EXECUÇÃO: Até 90 dias da publicação do Extrato de Termo.
+VIGÊNCIA: 24 meses após a publicação do Extrato Termo
+VALOR POR PROJETO : conforme planilha.
+DATA DA ASSINATURA: conforme planilha.
+F U N D A M E N TO : Lei Estadual no 7035/2015. Edital nº 01/2025 “ARRAIÁ CULTURAL RJ 2025” Categoria A - LOTE 6.
+PROCESSO Nº SEI-180001/002589/2025
+P R O J E TO PROPONENTE D O C U M E N TO N.º DO TERMO DE DE EXECU-
+ÇÃO CULTURAL
+DATA DE ABERTURA DO PRO-
+CESSO
+VALOR UNITÁRIO
+70416 50.391.674 ROBERT DE AZEVEDO
+MANHAES
+50391674000132 ACR5 10210/2025 15/08/2025 R$ 50.000,00
+Id: 2673668
+DATA DA ASSINATURA: 22/08/2025.
+F U N D A M E N TO : Art. 71 da Lei 13.303/2016 e no parágrafo primeiro
+da cláusula segunda do contrato.
+PROCESSO: Nº. SEI-020002/001046/2024.
+*Omitido do D.O. de 27.08.2025. Id: 2674004
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+EXTRATO DE TERMO
+I N S T R U M E N TO : Termos de Execução Cultural numerados conforme planilha abaixo.
+PA R T E S : Estado do Rio de Janeiro por meio da Secretaria de Estado de Cultura e Economia Criativa - SECEC RJ e proponentes conforme pl anilha.
+CNPJ N° Conforme planilha.
+O B J E TO : Execução do Projeto mencionado na planilha abaixo.
+PRAZO PARA EXECUÇÃO: Até 90 dias da publicação do Extrato de Termo.
+VIGÊNCIA: 24 meses após a publicação do Extrato Termo
+VALOR POR PROJETO : conforme planilha.
+DATA DA ASSINATURA: conforme planilha.
+F U N D A M E N TO : Lei Estadual no 7035/2015. Edital nº 01/2025 “ARRAIÁ CULTURAL RJ 2025 ” Categoria A - LOTE 2. 1ª Chamada de Suplentes
+PROCESSO Nº SEI-180001/002621/2025
+P R O J E TO PROPONENTE D O C U M E N TO N.º DO TERMO DE DE EXECU-
+ÇÃO CULTURAL
+DATA DE ABERTURA DO
+PROCESSO
+VALOR UNITÁRIO
+68413 46.507.400 ERNANI ALMEIDA MARTINS JUNIOR 46507400000199 ACR5 10326/2025 19/08/2025 R$ 50.000,00
+68526 TADZIO JORGE WAM LUME SOUZA 04430534721 46499889000102 ACR5 10303/2025 19/08/2025 R$ 50.000,00
+70204 22.067.038 FERNANDA ANDRE DE SOUZA 2 2 0 6 7 0 3 8 0 0 0 11 4 ACR5 10310/2025 19/08/2025 R$ 50.000,00
+70332 GRUPO CULTURAL CIA DA LUA 09665022000145 ACR5 10311/2025 19/08/2025 R$ 50.000,00
+Id: 2673669
+ADMINISTRAÇÃO VINCULADA
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO ANITA MANTUANO DE ARTES DO ESTADO
+DO RIO DE JANEIRO
+EXTRATO DE INSTRUMENTO CONTRATUAL
+I N S T R U M E N TO : CONTRATO DE PRESTAÇÃO DE SERVIÇO Nº
+180021/453/2025.
+PA R T E S : FUNARJ e a EMPRESA FIREGUARD ENGENHARIA INS-
+TALAÇÕES E SERVIÇOS LTDA.
+O B J E TO : A prestação de serviços comuns de engenharia de manu-
+tenção preventiva e vistoria técnica pontual do sistema fixo de com-
+bate a incêndio por dióxido de carbono (CO2) do Museu de História e
+Arte do Estado do Rio de Janeiro - MHAERJ.
+PRAZO: 12 (doze) meses, contados a partir da data estabelecida na
+Ordem de Início para início da execução do objeto.
+VA L O R : R$ 24.200,00 (vinte e quatro mil e duzentos reais).
+NOTA DE EMPENHO : 2025NE01479.
+DATA DA ASSINATURA: 26/08/2025.
+F U N D A M E N TO : Lei nº 14.133, de 1º de abril de 2021.
+PROCESSO N° SEI-180002/001388/2025. Id: 2673754
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO ANITA MANTUANO DE ARTES DO ESTADO
+DO RIO DE JANEIRO
+EXTRATO DE INSTRUMENTO CONTRATUAL
+I N S T R U M E N TO : CONTRATO DE PRESTAÇÃO DE SERVIÇO Nº
+180021/451/2025.
+PA R T E S : FUNARJ e a SELVÁTICA AÇÕES ARTÍSTICAS LTDA.
+O B J E TO : A prestação de serviços de “NIGGA”, para realização de 02
+(duas) apresentações do espetáculo "CORAZÓN ABIERTO: FIESTA Y
+DOLOR!", como parte da programação do projeto “CABARE DO
+GLAUCIO”, no Teatro Glaucio Gill, nos dias 26 e 27 de agosto de
+2025.
+PRAZO: 03 (três) meses, devendo ser observada a sua divulgação no
+Portal Nacional de Contratações Públicas, sob pena de nulidade.
+VA L O R : R$ 500,00 (quinhentos reais).
+NOTA DE EMPENHO : 2025NE01579.
+DATA DA ASSINATURA: 27/08/2025.
+F U N D A M E N TO : Lei nº 14.133, de 1º de abril de 2021.
+PROCESSO N° SEI-180002/002375/2025. Id: 2673777
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO ANITA MANTUANO DE ARTES DO ESTADO
+DO RIO DE JANEIRO
+EXTRATO DE INSTRUMENTO CONTRATUAL
+I N S T R U M E N TO : CONTRATO DE PRESTAÇÃO DE SERVIÇO Nº
+180021/455/2025.
+PA R T E S : FUNARJ e a EMPRESA FORA DE MODA PRODUÇÕES
+ARTÍSTICAS LTDA.
+O B J E TO : A prestação de serviços de apresentação de pocket show
+musical pelo artista GUSTAVO MIOTO, para uma apresentação no
+projeto “GIRO CULTURAL”, no município de Barra do Piraí, em
+30.08.2025.
+PRAZO: 03 (três) meses, devendo ser observada a sua divulgação no
+Portal Nacional de Contratações Públicas, sob pena de nulidade.
+VA L O R : R$ 250.000,00 (duzentos e cinquenta mil reais).
+NOTA DE EMPENHO : 2025NE01522.
+DATA DA ASSINATURA: 27/08/2025.
+F U N D A M E N TO : Lei nº 14.133, de 1º de abril de 2021.
+PROCESSO N° SEI-180002/002302/2025. Id: 2673859
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO ANITA MANTUANO DE ARTES DO
+ESTADO DO RIO DE JANEIRO
+EXTRATO DE TERMO
+I N S T R U M E N TO : ACORDO DE COOPERAÇÃO TÉCNICA nº
+059/2025. PA R T E S : FUNARJ e MUNICÍPIO DE NILÓPOLIS O B J E TO :
+A mútua cooperação para a formalização de compromissos e parceria
+institucional entre as partes signatárias com o propósito de fomentar a
+cultura, sob a perspectiva da produção cultural, em ações e atividades
+a serem implementadas no município de NILÓPOLIS. PRAZO: 09 (no-
+ve) meses contados da assinatura. VA L O R : Não há. DATA DA AS-
+S I N AT U R A : 26/08/2025. F U N D A M E N TO : Proc. SEI-
+180002/002470/2025. Id: 2673647
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO ANITA MANTUANO DE ARTES DO
+ESTADO DO RIO DE JANEIRO
+EXTRATO DE TERMO
+I N S T R U M E N TO : TERMO DE PERMISSÃO DE USO N.º
+180022/267/2025 PA R T E S : FUNARJ e EMPRESA AVANTE PORTES
+PRODUÇÕES ARTÍSTICAS LTDA O B J E TO : Permissão de Uso a uti-
+lização, a título precário, do TEATRO GLÁUCIO GILL, para a reali-
+zação do espetáculo “ NÃO É UMA PEÇA - APRESENTA NOITE DE
+ESTREIA”, nos dias 10, 17 e 24 de setembro de 2025. DATA DA AS-
+S I N AT U R A : 26/08/2025. VA L O R : 15% sobre a receita bruta das ven-
+das de ingressos. F U N D A M E N TO : Processo nº SEI-
+180002/002371/2025.
+Id: 2673649
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO ANITA MANTUANO DE ARTES DO ESTADO
+DO RIO DE JANEIRO
+EXTRATO DE TERMO
+I N S T R U M E N TO : ACORDO DE COOPERAÇÃO TÉCNICA nº
+056/2025.
+PA R T E S : FUNARJ e Prefeitura de BARRA DO PIRAÍ.
+O B J E TO : A mútua cooperação para a formalização de compromissos
+e parceria institucional entre as partes signatárias com o propósito de
+fomentar a cultura, sob a perspectiva da produção cultural, em ações
+e atividades a serem implementadas no município de BARRA DO PI-
+RAÍ.
+PRAZO: 12 (doze) meses contados da assinatura.
+VA L O R : Não há.
+DATA DA ASSINATURA: 20/08/2025.
+F U N D A M E N TO : Processo n° SEI-180002/002258/2025.
+Id: 2673745
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO ANITA MANTUANO DE ARTES DO
+ESTADO DO RIO DE JANEIRO
+EXTRATO DE TERMO
+*I N S T R U M E N TO : ACORDO DE COOPERAÇÃO TÉCNICA nº
+038/2025. PA R T E S : FUNARJ e MUNICÍPIO DE MESQUITA O B J E TO :
+A mútua cooperação para a formalização de compromissos e parceria
+institucional entre as partes signatárias com o propósito de fomentar a
+cultura, sob a perspectiva da produção cultural, em ações e atividades
+a serem implementadas no MUNICÍPIO DE MESQUITA. PRAZO: 12
+(doze) meses contados da assinatura. VA L O R : Não há. DATA DA
+A S S I N AT U R A : 23/06/2025. F U N D A M E N TO : Proc. SEI-
+1 8 0 0 0 2 / 0 0 11 7 2 / 2 0 2 5 .
+*Omitido no D.O. de 12/07/2025.
+Id: 2673909
+SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
+FUNDAÇÃO ANITA MANTUANO DE ARTES
+DO ESTADO DO RIO DE JANEIRO
+AV I S O
+A COMISSÃO DE FISCALIZAÇÃO do contrato 180021/214/2024, fir-
+mado entre a Fundação Anita Mantuano de Artes do Estado do Rio
+de Janeiro e a Empresa Ágil LTDA, referente a prestação de serviço
+de recepcionista, vem REITERAR A NOTIFICAÇÃO que consta do
+SEI, index (110485779) sobre o descumprimento das responsabilida-
+des contratuais por parte dessa empresa.
+Comunicamos, por meio deste, que, em decorrência da inexecução
+parcial do Contrato nº 180021/214/2024, conforme apurado nos autos
+do Processo SEI-180002/001464/2023, considerando os fundamentos
+apresentados, devidamente autorizado a aplicação integral das medi-
+das sugeridas, nos seguintes termos:
+1- Aplicação cumulativa de multa, em montante dobrado, equivalente
+a R$ 31.080,00 (trinta e um mil e oitenta reais), em razão da rein-
+cidência, nos termos da alínea "e" do §7º da Cláusula Décima Ter-
+ceira do contrato e do art. 87, II, da Lei nº 8.666/1993;
+2- Suspensão do direito de licitar e contratar com o Estado do Rio de
+Janeiro, suas Autarquias e Fundações, pelo prazo de até 01 (um)
+ano, nos termos da Cláusula Décima Terceira, §2º, alínea "c", e §8º,
+alínea "c", bem como do art. 87, III, da Lei nº 8.666/1993 e do art. 7º
+da Lei nº 10.520/2002, devendo posteriormente ser submetida à apre-
+
+## Pagina 53
+
+/U0044/U0049Á/U0052/U0049/U004F/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0041 /U004E /U004F/U004C /U0049/U002D/U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0035/U0033/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+ciação da Secretaria de Estado de Cultura e Economia Criativa - SE-
+CEC/RJ, em conformidade com a Cláusula Décima Terceira, §5º, alí-
+nea "b", c/c art. 35 do Decreto nº 3.149/1980.
+Face á decisão sancionatória, concede-se o prazo de 5 (cinco) dias
+úteis para interposição de possível recurso administrativo.
+Id: 2673664
+Secretaria de Estado de T urismo
+SECRETARIA DE ESTADO DE TURISMO
+EXTRATO DE TERMO CONTRATUAL
+I N S T R U M E N TO : TERMO DE CONTRATO Nº 090/2025.
+PA R T E S : Secretaria de Estado de Turismo e CASA BRASIL - ASSO-
+CIAÇÃO ASSISTENCIA SOCIAL E PROMOCAO DA CULTURA, DES-
+PORTO, EDUCACAO E SAUDE.
+O B J E TO : O CONTRATO tem por objeto reger o patrocínio concedido
+pelo ESTADO em favor do PATROCINADO para o evento CIRCUITO
+CENTRO CULTURAL RAIZES do RJ, que ocorrerá no período entre
+17 de agosto a 15 de novembro de 2025, bem como a execução das
+contrapartidas decorrentes da concessão do patrocínio.
+PRAZO: O prazo contratual deverá ser de 60 (sessenta) dias, con-
+tados da data de sua assinatura.
+A S S I N AT U R A :15/08/2025.
+VA L O R : R$ 2.100.000.000,00 (dois milhões e cem mil reais)
+F U N D A M E N TO : Lei nº 14.133, de 1º de abril de 2021, no art. 74 ca-
+put e pelos normativos estaduais aplicáveis, todos disponíveis no en-
+dereço eletrônico redelog.rj.gov.br/redelog/legislação-licitacoes.
+PROCESSO ADMINISTRATIVO Nº SEI-050001/001037/2025.
+Id: 2671292
+ADMINISTRAÇÃO VINCULADA
+SECRETARIA DE ESTADO DE TURISMO
+COMPANHIA DE TURISMO DO ESTADO DO RIO DE JANEIRO
+EXTRATO DE TERMO ADITIVO
+I N S T R U M E N TO : Terceiro Termo Aditivo ao Contrato nº 02/2022.
+PA R T E S : TurisRio e a CLARO S/A.
+O B J E TO : Renovação do contrato de prestação de serviços de tele-
+fonia móvel.
+VIGÊNCIA: 29/08/2025 a 28/08/2026.
+VALOR TOTAL: R$ 88.966,89.
+DATA DA ASSINATURA: 26/08/2025.
+FUNDAMENTO LEGAL : Lei Federal nº 13.303/16 e 14.133/21.
+PROCESSO Nº SEI-050002/000118/2022.
+Id: 2673759Controladoria Geral do Estado
+CONTROLADORIA GERAL DO ESTADO
+CORREGEDORIA GERAL DO ESTADO
+COMISSÃO DE PROCESSOS ADMINISTRATIVOS DE RESPONSA-
+BILIZAÇÃO
+E D I TA L
+O PRESIDENTE DA COMISSÃO DE PROCESSO ADMINISTRATIVO
+DE RESPONSABILIZAÇÃO, designada pela Portaria nº 137, de 13
+de dezembro de 2021 do Controlador Geral do Estado, nos autos do
+PAR de nº SEI-320001/004609/2021, nos termos do Decreto Estadual
+nº 46.366, de 19 de julho de 2018, alterado pelo Decreto Estadual nº
+46.788, de 14 de outubro de 2019, que regulamentou no âmbito do
+Poder Executivo Estadual a Lei nº 12.846, de 1º de agosto de 2013,
+C I TA , pelo presente Edital de Citação/Notificação, a empresa WA L -
+SAM CONSTRUÇÕES E LOCAÇÃO LTDA (CNPJ: 05.969.476.0001-
+59), para apresentar Defesa no prazo de 30 (trinta) dias, uma vez que
+foi indiciada por ato lesivo diferente em relação ao Estado do Rio de
+Janeiro, conforme o Parecer nº 15/2022/CGE/ASSJUR (INDEX
+28555745) e o Termo de Notificação de Indiciação de Empresa de IN-
+DEX 102027906, do mencionado PAR. Rio de Janeiro, 22 de agosto
+de 2025.
+Id: 2672785
+CONTROLADORIA GERAL DO ESTADO
+CORREGEDORIA GERAL DO ESTADO
+SUPERINTENDÊNCIA DE RESPONSABILIZAÇÃO
+DE AGENTES PÚBLICOS
+3ª COMISSÃO PERMANENTE DE PROCESSO
+A D M I N I S T R AT I V O DISCIPLINAR
+E D I TA L
+O PRESIDENTE DA 3ª COMISSÃO PERMANENTE DE PROCESSO
+ADMINISTRATIVO DISCIPLINAR, no uso de suas atribuições nos au-
+tos do processo administrativo disciplinar nº SEI-320001/001768/2025,
+instaurado por força da Portaria PORTARIA CG/CORREG Nº 1314,
+datada de 22/07/2025, publicada no DOERJ em 25/07/2025,e, tendo
+em vista o disposto no artigo 22 , § 4p da Lei Estadual nº 5427/09 e
+a aplicação analógica artigo 75 do Decreto-Lei n° 220/75, FAZ SA-
+BER a servidora LUCILENE REIS BORGES GRATIVOL, identidade
+funcional nº 50174169, professor docente I, matrícula nº 30474605,
+vínculo 1, que está sendo Notificada a comparecer à sede da Comis-
+são Processante, situada na Avenida Erasmo Braga, 118, 12º andar,
+Sala das Comissões - Centro - Rio de Janeiro/RJ, telefone (21)
+23331887 E-mail: rrnunes@cge.rj.gov.br; acoliveira@cge.rj.gov.br; me-
+pereira@cge.rj.gov.br ou wfirmino@cge.rj.gov.br, às quartas e sextas-
+feiras, no horário de 10 às 16 horas, para esclarecer os motivos da
+ausência ao serviço público por 10 dias consecutivos, noticiadas no
+PAD a que responde, dentro do prazo de 20 (vinte) dias, a contar da
+primeira publicação do presente Edital.
+Id: 2673439
+CONTROLADORIA GERAL DO ESTADO
+CORREGEDORIA GERAL DO ESTADO
+SUPERINTENDÊNCIA DE RESPONSABILIZAÇÃO
+DE AGENTES PÚBLICOS
+3ª COMISSÃO PERMANENTE DE PROCESSO
+A D M I N I S T R AT I V O DISCIPLINAR
+E D I TA L
+O PRESIDENTE DA 3ª COMISSÃO PERMANENTE DE PROCESSO
+ADMINISTRATIVO DISCIPLINAR, com base no Processo Administra-
+tivo Disciplinar n.º SEI-320001/002907/2024, instaurado por intermédio
+da Portaria CGE/CORREG Nº 1160, datada de 18 de dezembro de
+2024, publicada no DOERJ de 20/12/2024, tendo os seus integrantes
+deliberado, na forma do Artigo 70, do Decreto Lei nº 220/75, por
+transgressão ao artigo 52, inciso V, Parágrafo 1º, do Decreto Lei nº
+220/75, disciplinado e regulamentado pelo R.E.F.P.C., aprovado pelo
+Decreto 2479/79, com redação alterada pela Lei Complementar nº
+85/96, por ter se ausentado do serviço, sem justa causa, por 10 (dez)
+dias consecutivos, a partir de 28/03/2024, conforme o Processo SEI-
+030001/047324/2024 anexado no index 88795625, indiciar e C I TA pe-
+lo presente EDITAL o servidor GUILHERME CARDOSO ESTEVES
+RAMOS FRANCO , Professor Docente I, Matrícula 0913.265-5, ID.
+Funcional n.º 5.144.2868-01, para comparecer a Sede da referida Co-
+missão Processante, situada nesta Cidade, na Avenida Erasmo Braga,
+n 118, 12º Andar, Sala das Comissões, Centro, Rio de Janeiro, RJ,
+Tel. 23331887, no horário das 10:00 as 1600 horas, e-mail:wfirmi-
+no@cge.rj.gov.br, no prazo de 10 dias, a partir da última publicação,
+quando terá vista dos autos na Sede da Comissão, ficando Vossa Se-
+nhoria citada para apresentar Defesa Escrita em 02(duas) vias, no
+prazo de 10(dez) dias, a contar do presente.
+Id: 2673473
+Secretaria de Estado de T ransformação Digital
+SECRETARIA DE ESTADO DE TRANSFORMAÇÃO DIGITAL
+EXTRATO DE TERMO
+INSTRUMENTO: Acordo de Cooperação Técnica N.º 39/2025 . PAR-
+TES: O ESTADO DO RIO DE JANEIRO, POR MEIO DA SECRETA-
+RIA DE ESTADO DE TRANSFORMAÇÃO DIGITAL E O MUNICÍPIO
+DE VASSOURA. OBJETO: O presente Acordo de Cooperação Téc-
+nica (ACT), em conformidade com o PROGRAMA RJ DIGITAL MU-
+NICÍPIOS, do Governo do Estado do Rio de Janeiro, tem por objeto a
+adesão e implantação do PORTAL DE SERVIÇOS RJ DIGITAL MU-
+NICIPIOS, bem como a prestação de suporte técnico e negocial por
+parte do ESTADO DO RIO DE JANEIRO ao PARTÍCIPE. Como con-
+trapartida, o PARTÍCIPE disponibilizará ao ESTADO DO RIO DE JA-
+NEIRO dados públicos municipais relevantes para o monitoramento de
+indicadores, tais como os referentes aos Objetivos de Desenvolvimen-
+to Sustentável (ODS) e o Índice de Dados Abertos, e disponibilizará,
+durante a vigência deste ACT.
+VIGÊNCIA: O prazo de vigência do Acordo de Cooperação Técnica é
+de 12 (doze) meses. VALOR: Sem valor. DATA DA ASSINATURA :
+25/08/2025. PROCESSO Nº SEI-430001/003676/2025
+Id: 2673654
+SECRETARIA DE ESTADO DE TRANSFORMAÇÃO DIGITAL
+EXTRATO DE TERMO
+INSTRUMENTO: Acordo de Cooperação Técnica N.º 53/2025 . PAR-
+TES: O ESTADO DO RIO DE JANEIRO, POR MEIO DA SECRETA-
+RIA DE ESTADO DE TRANSFORMAÇÃO DIGITAL E O MUNICÍPIO
+DE CARDOSO MOREIRA. OBJETO: O presente Acordo de Coope-
+ração Técnica, em conformidade com o PROGRAMA RJ DIGITAL
+MUNICÍPIOS, do Governo do Estado do Rio de Janeiro, tem por ob-
+jeto a disponibilização e sustentação do Sistema Eletrônico de Infor-
+mações (SEI), bem como, a prestação de suporte técnico e negocial
+por parte do ESTADO DO RIO DE JANEIRO à PREFEITURA, que,
+como contrapartida, disponibilizará ao ESTADO DO RIO DE JANEIRO
+dados públicos municipais relevantes para o monitoramento de indi-
+cadores, tais como, os referentes aos Objetivos do Desenvolvimento
+Sustentável (ODS) e o Índice de Dados Abertos.
+VIGÊNCIA: O prazo de vigência do Acordo de Cooperação Técnica é
+de 60 (sessenta) meses. VALOR: Sem valor. DATA DA ASSINATU-
+RA: 20/08/2025. PROCESSO Nº SEI-430001/004147/2025.
+Id: 2673660
+Secretaria de Estado de
+Infraestrutura e Obras Públicas
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E OBRAS PÚBLICAS
+EXTRATO DE INSTRUMENTO CONTRATUAL
+INST R U M E N TO : Contrato 016/2025
+PA R T E S : Secretaria de Estado de Infraestrutura e Obras Públicas -
+SEIOP e a empresa MPE ENGENHARIA E SERVIÇOS S/A.
+O B J E TO : Execução de Obra Pública com vistas à Contratação de
+empresa especializada para a realização dos serviços de recuperação
+dos equipamentos eletromecânicos para as seis estações e instalação
+dos componentes do sistema de transporte por cabos para o Telefé-
+rico do Alemão/RJ, na forma da proposta detalhe e do instrumento
+convocatório.
+DATA DE ASSINATURA: 27.08.2025
+PRAZO: 210 (duzentos e dez) dias corridos e contados a partir da
+autorização para início das obras.
+VA L O R : R$ 116.500.000,00 (cento e dezesseis milhões e quinhentos
+mil reais).
+F U N D A M E N TO : Lei nº 14.133, de 1º de abril de 2021, e pelos nor-
+mativos estaduais aplicáveis e do instrumento convocatório nº
+016/2025.
+PROCESSO Nº SEI-330001/000414/2024.
+Id: 2673931
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E OBRAS PÚBLICAS
+EXTRATO DE TERMO ADITIVO
+I N S T R U M E N TO : 4º Termo Aditivo de Alteração Subjetiva ao Contrato
+nº 030/2023.
+PA R T E S : Secretaria de Estado de Infraestrutura e Obras Públicas -
+SEIOP e a Sociedade Empresária Statled Brasil Construtora e Par-
+ticipações S/A.
+O B J E TO : Alteração Subjetiva do Contrato nº 030/2023, “Em razão da
+cessão contratual da SOCIEDADE EMPRESÁRIA STATLED BRASIL
+CONSTRUTORA E PARTICIPAÇÕES S/A, para subsidiária integral da
+empresa STATLED BRASIL CONSTRUTORA I LTDA, a figurar no po-
+lo passivo do contrato em tela”.
+DATA DE ASSINATURA: 27/08/2025
+F U N D A M E N TO : Lei nº 8.666, de 1993 e suas alterações.
+PROCESSO Nº SEI-330018/001148/2022
+Id: 2673991
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E OBRAS PÚBLICAS
+EXTRATO DE TERMO ADITIVO
+I N S T R U M E N TO : 5º Termo Aditivo ao Contrato nº 002/2023.
+PA R T E S : Secretaria de Estado de Infraestrutura e Obras Públicas -
+SEIOP e a Empresa Statled Brasil Construtora e Participações S.A.
+O B J E TO : A Prorrogação de prazo de vigência do Contrato nº
+002/2023, relativo à “Elaboração de Projeto Executiv o e a Execução
+de Obras de Revestimentî Asfáltico e Drenagem Pluvial de Logradou-
+ros Públicos do Bairro Valverde - Nova Iguaçu/RJ”.
+DATA DE ASSINATURA: 13/08/2025.
+PRAZO: 150 (cento e cinquenta) dias.
+VALOR DO TERMO ADITIVO : A prorrogação não resultará alteração
+no valor do contrato.
+FUNDAMENTO: No art. 191, parágrafo único, da Lei nº 14.133/2021
+c/c art. 57, § 1º, inciso I e II, da Lei nº 8.666, de 1993, para melhor
+adequação às finalidades de interesse público.
+PROCESSO Nº SEI-330018/000675/2022.
+Id: 2673932
+ADMINISTRAÇÃO VINCULADA
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E OBRAS PÚBLICAS
+EMPRESA DE OBRAS PÚBLICAS DO ESTADO
+DO RIO DE JANEIRO
+EXTRATO DE INSTRUMENTO CONTRATUAL
+I N S T R U M E N TO : Contrato nº 0033/2025. PA R T E S : Empresa de Obras
+Públicas do Estado do Rio de Janeiro - EMOP-RJ como contratante e
+a empresa ANRX Engenharia e Soluções LTDA, como contratada OB-
+J E TO : Contratação de empresa para elaboração de projeto e execu-
+ção de reforma da quadra poliesportiva com instalação de cobertura
+metálica e construção de sanitários da quadra da Joaquim Méier, con-
+forme condições, quantidades e exigências estabelecidas neste instru-
+mento e seus anexos. VA L O R : R$ 824.484,80 (oitocentos e vinte e
+quatro mil quatrocentos e oitenta e quatro reais e oitenta centavos).
+PRAZO: 360 (trezentos e sessenta) dias. DATA DA ASSINATURA:
+26/08/2025. FUNDAMENTO: Processo nº SEI-330003/001617/2025.
+Id: 2673655
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E OBRAS PÚBLICAS
+EMPRESA DE OBRAS PÚBLICAS DO ESTADO
+DO RIO DE JANEIRO
+EXTRATO DE TERMO
+I N S T R U M E N TO : 1º (primeiro) Termo de Apostilamento ao Contrato n°
+025/2024.
+PA R T E S : Empresa de Obras Públicas do Estado do Rio de Janeiro -
+EMOP-RJ e a empresa Midas Engenharia Ltda.
+O B J E TO : formalização do Reinício de Obra e Execução do Contrato
+nº 025/2024, relativo à Contratação de empresa especializada no ra-
+mo de Engenharia, para a construção de edificação para a Divisão de
+Saúde Operacional no Complexo do Comando de Operações Espe-
+ciais- COE da Polícia Militar do Estado do Rio de Janeiro.
+DATA DA ASSINATURA: 26/08/2025.
+F U N D A M E N TO : Processo nº SEI-330030/000313/2023.
+Id: 2673748
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E OBRAS PÚBLICAS
+EMPRESA DE OBRAS PÚBLICAS DO ESTADO
+DO RIO DE JANEIRO
+COMISSÃO DE PREGÃO ELETRÔNICO
+AV I S O
+A COMISSÃO DE PREGÃO DA EMPRESA DE OBRAS PÚBLICAS
+DO ESTADO DO RIO DE JANEIRO , nos termos da Lei nº 13.303/16,
+do Regulamento de Licitações e Contratos da EMOP, e subsidiaria-
+mente da Lei nº 14.133 de 01/04/2021, do Decreto Estadual nº
+31.864, de 16/09/2002, torna público e comunica aos interessados
+que a sessão para a realização da licitação na modalidade de Pregão
+Eletrônico nº 021/2025, O B J E TO : Contratação de empresa especia-
+lizada no ramo de engenharia, para execução da obra de reforma dos
+equipamentos e da infraestrutura do sistema de climatização, grupo
+gerador e subestação do Centro Cultural João Nogueira, localizado na
+Rua Dias da Cruz, s/nº, bairro do Méier, município de Rio de Janeiro
+- RJ, conforme condições, quantidades e exigências estabelecidas
+neste instrumento e seus anexos . Anteriormente marcado para dia
+27/08/2025 às 11:00 horas, fica REMARCADO para o dia 29/08/2025
+às 11:00 horas devido a inconsistências do sistema de licitações da
+Caixa Econômica Federal. PROC. ADMINISTRATIVO N° SEI-
+330003/001708/2025.
+Id: 2674046
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E OBRAS PÚBLICAS
+INSTITUTO ESTADUAL DE ENGENHARIA E ARQUITETURA
+EXTRATO DE TERMO
+I N S T R U M E N TO : 1°Termo Apostilamento ao Contrato n° 005/2024.
+PA R T E S :INSTITUTO ESTADUAL DE ENGENHARIA E ARQUITETU-
+RA - IEEA e o AVANTE MARKETINK E LOGÍSTICA LTDA.
+O B J E TO : O presente Termo de Apostilamento tem por objeto o rea-
+juste dos preços do Contrato n°005/2024 em 5,477190%, correspon-
+dente à variação do Índice Nacional de Preços ao consumidor Amplo
+(IPCA) relativo ao período de abril/2024 a março/2025. O valor global
+do Contrato n°005/2024 passa de R$ 189.343,08 (cento e oitenta e
+nove mil trezentos e quarenta e três reais e oito centavos) para
+R$197.399,75 (cento e noventa e sete mil trezentos e noventa e nove
+reais e setenta e cinco centavos) referente a parcela mensal que se
+modifica de R$ 5.259,53 (cinco mil duzentos e cinquenta e nove reais
+e cinquenta e três centavos) para o valor de R$ 5.547,60 (cinco mil
+quinhentos e quarenta e sete reais sessenta centavos), passando a
+vigorar a partir de 18 de agosto de 2025.
+PROGRAMA DE TRABALHO: 53330.04.122.0002.2016
+NATUREZA DE DESPESA: 3390.3914
+FONTE DE RECURSOS: 1.500.100
+NOTA DE EMPENHO: 2 0 2 5 N E 0 0 11 5
+DATA DE ASSINATURA: 26/08/2025
+PROCESSO N° SEI-330004/000395/2024
+Id: 2673677
+FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEM
+EXTRATO DE INSTRUMENTO CONTRATUAL
+INSTRUMENTO: Contrato de Prestação de Serviços nº 020/2025.
+PARTES: DER/RJ e ENEX CONSTRUÇÕES LTDA.
+O B J E TO : Execução de construção de nova travessia de pedestres,
+recuperação de ponte e travessia existente (DONANA), na RJ-216 no
+KM 04 - em Campos dos Goytacazes.
+PRAZO: 03 (três) meses.
+VALOR: R$ 900.663,15 (novecentos mil, seiscentos e sessenta e três
+reais e quinze centavos).
+DATA DA ASSINATURA: 12/08/2025.
+FUNDAMENTAÇÃO LEGAL: Lei Federal n° 14.133/2021 e demais al-
+terações.
+PROCESSO Nº SEI-330022/002261/2022.
+Id: 2673891
+FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEM
+EXTRATO DE INSTRUMENTO CONTRATUAL
+INSTRUMENTO: Contrato de Prestação de Serviços nº 022/2025.
+PARTES: DER/RJ e JKN ASSESSORIA E SERVIÇOS LTDA.
+O B J E TO : Execução de obra emergencial de restauração da passarela
+de pedestres, em estrutura mista (metálica e concreto armado) na RJ-
+106 - Rodovia Amaral Peixoto em Arsenal - Km 2 Município de São
+Gonçalo, no Estado do Rio de Janeiro.
+PRAZO: 12 (doze) meses.
+VALOR: R$ 710.469,30 (setecentos e dez mil, quatrocentos e sessen-
+ta e nove reais e trinta centavos).
+DATA DA ASSINATURA: 20/08/2025.
+FUNDAMENTAÇÃO LEGAL: Lei Federal n° 14.133/2021 e demais al-
+terações.
+PROCESSO Nº SEI-330002/022044/2025.
+Id: 2673892
+FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEM
+COMISSÃO DE PREGÃO ELETRÔNICO
+AV I S O
+A COMISSÃO DE PREGÃO DA FUNDAÇÃO DEPARTAMENTO DE
+ESTRADAS DE RODAGEM - DER/RJ , torna público que fará realizar
+no Portal Sistema Integrado de Gestão de Aquisições - SIGA
+(www.compras.rj.gov.br), a licitação abaixo mencionada:
+MODALIDADE: Pregão Eletrônico nº 018/2025
+CRITÉRIO DE JULGAMENTO: Menor preço global
+MODO DE DISPUTA: Aberto e fechado
+DATA DA ABERTURA: 15/09/2025
+PRAZO PARA RECEBIMENTO DAS PROPOSTAS: até 10h30min
+HORA PARA OFERECIMENTO DE LANCES: 11 h
+LOCAL: w w w. c o m p r a s . r j . g o v. b r
+O B J E TO : Contratação via certame licitatório, de empresa especializa-
+da nos serviços de manutenção predial das instalações civis e hidráu-
+licas nos edifícios sede da Fundação Departamento de Estradas de
+Rodagem, localizados no Rio de Janeiro e em Niterói.
+VALOR ESTIMADO: R$ 17.619.333,52 (dezessete milhões, seiscentos
+e dezenove mil trezentos e trinta e três reais e cinquenta e dois cen-
+tavos).
+PROCESSO Nº SEI-330002/028957/2024.
+O Edital e seus anexos encontram-se disponíveis no endereço eletrô-
+nico: w w w. c o m p r a s . r j . g o v. b r, no Portal Nacional de Contratações Pú-
+blicas - PNCP e no site do DER-RJ: w w w. d e r. r j . g o v. b r. Informações:
+Tel.: (21) 2202-5757 ou l i c c p @ d e r. r j . g o v. b r.
+Id: 2673895
+
+## Pagina 54
+
+/U0044/U0049Á/U0052/U0049/U004F /U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056/U004F/U004F/U0046/U0049/U0043/U0049/U0041/U004C
+/U0044/U004F /U0045/U0053/U0054/U0041/U0044/U004F /U0044/U004F /U0052/U0049/U004F /U0044/U0045 /U004A/U0041/U004E/U0045/U0049/U0052/U004F
+/U0035/U0034
+/U0041/U004E/U004F /U004C/U0049 /U002D /U004E
+/U006F/U002D/U0031/U0035/U0036 /U002D /U0050 /U0041/U0052/U0054/U0045 /U0049
+/U0051/U0055/U0049/U004E/U0054/U0041/U002D/U0046/U0045/U0049/U0052/U0041 /U002D /U0032/U0038 /U0044/U0045 /U0041/U0047/U004F/U0053/U0054/U004F /U0044/U0045 /U0032/U0030/U0032/U0035
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E OBRAS PÚBLICAS
+INSTITUTO DE TERRAS E CARTOGRAFIA
+DO ESTADO DO RIO DE JANEIRO
+RETIFICAÇÃO
+D.O. DE 27/08/2025
+PÁGINA 40 - 2ª COLUNA
+EXTRATO DE ATA DE REGISTRO DE PREÇOS
+PROCESSO nº SEI-330005/000036/2025
+Onde se lê:
+...ATLANTIC COMERCIO E SERVICOS LTDA.
+...JBT INDUSTRIA E COM. DE IMP. EXP. LTDA.
+...LAGOSMAXX COMÉRCIO LTDA.
+...REAL MIX COM. E ADM. DE VEND. LTDA.
+Leia-se:
+...ATLANTIC COMERCIO E SERVICOS LTDA, CNPJ 57-
+787.394/0001- 58.
+...JBT INDÚSTRIA E COM. DE IMP. EXP. LTDA, CNPJ
+27.168.027/0001-44.
+...LAGOSMAXX COMÉRCIO LTDA, CNPJ 37.595.787/0001-91.
+...REAL MIX COM. E ADM. DE VEND. LTDA, CNPJ 07.157.789/0001-
+45.
+Id: 2673960
+Secretaria de Estado de
+Energia e Economia do Mar
+SECRETARIA DE ESTADO DE ENERGIA E ECONOMIA DO MAR
+EXTRATO DE INSTRUMENTO CONTRATUAL
+INSTRUMENTO: Contrato NI N° 009/2025
+PARTES: SECRETARIA DE ESTADO DE ENERGIA E ECONOMIA
+DO MAR E A EMPRESA CS BRASIL FROTAS S.A.
+O B J E TO : O objeto do presente Contrato é a prestação de serviços de
+empresa especializada no fornecimento dos serviços de locação de
+veículos de serviços e de veículos de representação híbridos, sem for-
+necimento de condutores e sem fornecimento de combustíveis, para
+atender as necessidades do Órgãos e Entidades do Estado do Rio de
+Janeiro, a serem executados nas condições estabelecidas no Termo
+de Referência e nos anexos deste Contrato.
+PRAZO: O prazo de vigência do Contrato é de 36 (trinta e seis) me-
+ses, contado da divulgação no Portal Nacional de Contratações Pú-
+blicas.
+VALOR TOTAL: R$ 619.698,96 (seiscentos e dezenove mil seiscentos
+e noventa e oito reais e noventa e seis centavos)
+DATA DA ASSINATURA: 26/08/2025.
+F U N D A M E N TO : Processo nº SEI-480001/000628/2025.
+Id: 2673672
+Secretaria de Estado de
+Habitação de Interesse Social
+ADMINISTRAÇÃO VINCULADA
+SECRETARIA DE ESTADO DE HABITAÇÃO
+DE INTERESSE SOCIAL
+COMPANHIA ESTADUAL DE HABITAÇÃO DO RIO DE JANEIRO
+EXTRATO DE TERMO ADITIVO
+I N S T R U M E N TO : Termo Aditivo II ao Contrato de Prestação de Ser-
+viços nº 072/2023.
+PA R T E S : CEHAB-RJ e a empresa L.F.O. PERES MANUTENÇÃO E
+S E RV I Ç O S .
+O B J E TO : Prorrogação de prazo de vigência, com reajuste ao contrato
+inicial da prestação de serviços de vigilância desarmada nas depen-
+dências da CEHAB-RJ, com fulcro no art.71 da Lei 13.303/2016, §1º
+da Cláusula Segunda combinado com o §.8º ao §12º da Cláusula No-
+na.
+PRAZO: 12 (doze) meses, dando-se ao contrato o prazo total de 36
+(trinta e seis) meses,
+VA L O R : R$ 362.400,00 (trezentos e sessenta e dois mil, quatrocentos
+reais).
+DATA DA ASSINATURA: 18/08/2025.
+REGISTRO INTERNO: Nº 027/2025.
+F U N D A M E N TO : Despacho exarado no Processo nº SEI-
+490002/001174/2023, Lei Federal nº 13.303/2016, Lei Estadual nº
+287/1979, e Decreto Estadual nº 46.188/2017.
+PROCESSO Nº SEI-490002/003040/2025.
+Id: 2673768
+Secretaria de Estado das Cidades
+SECRETARIA DE ESTADO DAS CIDADES
+EXTRATO DE INSTRUMENTO CONTRATUAL
+I N S T R U M E N TO : Contrato nº 024/2025.
+PA R T E S : A Secretaria de Estado das Cidades - SECID e a Empresa
+MMS PINOVA Equipamentos e Instalações Esportivas S.A.
+O B J E TO : Execução de obra pública, com vistas à contratação de em-
+presa para execução da CONSTRUÇÃO DO ESPAÇO ESPORTIVO
+COMUNITÁRIO, no bairro São Jorge , município de Japeri - RJ, na
+forma da proposta e do instrumento convocatório.
+DATA DA ASSINATURA: 26/08/2025.
+PRAZO: 120 (cento e vinte) dias corridos, contados a partir da data
+estabelecida na Ordem de Início.
+VA L O R : R$ 1.255.000,00 (um milhão e duzentos e cinquenta e cinco
+mil reais).
+F U N D A M E N TO : Lei nº 14.133, de 1º de abril de 2021, e pelos nor-
+mativos estaduais aplicáveis.
+PROCESSO ADMINISTRATIVO Nº SEI-510001/000045/2025.
+Id: 2674015
+Secretaria de Estado de Segurança Pública
+ADMINISTRAÇÃO VINCULADA
+SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA
+INSTITUTO DE SEGURANÇA PÚBLICA
+EXTRATO DE TERMO
+I N S T R U M E N TO : Acordo de Cooperação Técnica N° 12/2025
+PA R T E S : Instituto de Segurança Pública e o Instituto Rio Metrópole
+(IRM)
+OBJETO: Desenvolvimento de atividades interinstitucionais de nature-
+za técnica, visando subsidiar a atuação de ambos os participantes no
+campo da Segurança Pública, com destaque para o Intercâmbio de
+informações e dados entre as partes. Ainda, em relação ao portal
+ISPGeo - módulo convênios, o ISP fornecerá até 02 (duas) senhas
+institucionais que permitirão acesso às aplicações gráficas e georre-
+ferenciadas.
+PRAZO DE VIGÊNCIA: 60 (sessenta) meses, a contar da data de
+assinatura.
+VA L O R : Não haverá transferência voluntária de recursos financeiros
+ou doação de bens entre os partícipes. As despesas necessárias à
+plena consecução do objeto acordado, tais como: pessoal, desloca-
+mentos, comunicação entre os órgãos e outras que se fizerem ne-
+cessárias, correrão por conta das dotações específicas constantes
+nos orçamentos dos partícipes.
+DATA DA ASSINATURA: 25/08/2025
+F U N D A M E N TO : PROCESSO N° SEI-150018/000342/2025
+MARCELA ORTIZ QUINTAIROS JORGE
+DIRETORA-PRESIDENTE DO INSTITUTO DE SEGURANÇA PÚBLI-
+CA
+Id: 2673636
+SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA
+INSTITUTO DE SEGURANÇA PÚBLICA
+EXTRATO DE TERMO ADITIVO
+I N S T R U M E N TO : Termo Aditivo ao Acordo de Cooperação Técnica N°
+03/2021
+PA R T E S : Instituto de Segurança Pública - ISP/RIOSEGURANÇA e a
+Secretaria de Estado de Governo do Rio de Janeiro - SEGOV.
+O B J E TO : Estabelecer a prorrogação do prazo de vigência do Acordo
+de Cooperação Técnica, que possibilita o compartilhamento e inter-
+câmbio de informações atinentes à segurança pública entre as insti-
+tuições envolvidas.
+PRAZO DE VIGÊNCIA : 12 (doze) meses, contando a partir de sua
+publicação em Diário Oficial, podendo ser prorrogado, até o prazo
+máximo de 60 (sessenta) meses, com a devida anuência dos partí-
+cipes.
+VA L O R : Não envolve a transferência de recursos financeiros ou or-
+çamentários entre os partícipes.
+DATA DA ASSINATURA: 26/08/2025
+F U N D A M E N TO : PROCESSO N° SEI-120239/000003/2021
+MARCELA ORTIZ QUINTAIROS JORGE
+DIRETORA-PRESIDENTE DO INSTITUTO DE SEGURANÇA PÚBLI-
+CA
+Id: 2673928
+GESTÃO
+DOCUMENTAL
+Qualidade 
+do serviço
+Guarda
+Digitalização
+Indexação e 
+Gerenciamento
+Sistema 100% 
+em nuvem
+(21) 2717-6209
+rjdoc@ioerj.rj.gov.br
+O VALOR DA
+SEGURANÇA
+PUBLICOUNAIMPRENSA,É
+OFICIAL

@@ -145,6 +145,40 @@ class BaseGazetteCollector:
 
     def extract_pdf_text_to_markdown(self, pdf_path: Path) -> str:
         try:
+            return self.extract_pdfium_text_to_markdown(pdf_path)
+        except Exception as exc:
+            print(
+                f"pypdfium2 falhou em {pdf_path.name}; usando pypdf: {exc}",
+                file=sys.stderr,
+            )
+            return self.extract_pypdf_text_to_markdown(pdf_path)
+
+    def extract_pdfium_text_to_markdown(self, pdf_path: Path) -> str:
+        try:
+            import pypdfium2 as pdfium
+        except ImportError as exc:
+            raise RuntimeError("pypdfium2 nao esta instalado.") from exc
+
+        document = pdfium.PdfDocument(str(pdf_path))
+        pages: list[str] = []
+        try:
+            for index in range(len(document)):
+                page = document.get_page(index)
+                try:
+                    text_page = page.get_textpage()
+                    try:
+                        text = text_page.get_text_range() or ""
+                    finally:
+                        text_page.close()
+                finally:
+                    page.close()
+                pages.append(f"## Pagina {index + 1}\n\n{text.strip()}")
+        finally:
+            document.close()
+        return "\n\n".join(pages).strip()
+
+    def extract_pypdf_text_to_markdown(self, pdf_path: Path) -> str:
+        try:
             from pypdf import PdfReader
         except ImportError as exc:
             raise RuntimeError("pypdf nao esta instalado; nao foi possivel aplicar fallback de texto.") from exc

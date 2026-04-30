@@ -105,6 +105,28 @@ flowchart TD
 | `fonte_url` | URL da pagina oficial consultada. |
 | `arquivo_markdown` | Caminho do Markdown gerado pelo Docling. |
 
+## Analises temporais
+
+Para gerar uma serie temporal por pessoa e identificar retornos apos exoneracao:
+
+```powershell
+python analise_temporal/analisar_movimentacoes.py --uf RJ
+```
+
+O script le os CSVs anuais em `saida/UF` e grava:
+
+```text
+saida/analises/movimentacoes_pessoas.csv
+saida/analises/retornos_apos_exoneracao.csv
+saida/analises/resumo_pessoas.csv
+```
+
+Para marcar mudancas de governo ou outros marcos politicos na serie temporal:
+
+```powershell
+python analise_temporal/analisar_movimentacoes.py --uf RJ --marco-governo 2023-01-01:Governo_2023
+```
+
 ## Observacoes
 
 O parser atual e heuristico. Ele foi feito para iniciar a coleta com rastreabilidade, nao para prometer 100% de precisao. A validacao humana, amostragens e testes com diferentes anos/cadernos devem guiar os proximos ajustes.
