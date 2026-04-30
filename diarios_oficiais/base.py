@@ -248,6 +248,9 @@ class BaseGazetteCollector:
     def year_complete_marker_path(self, year: int) -> Path:
         return self.lake_dir / self.state / str(year) / ".year_complete"
 
+    def is_year_complete(self, year: int) -> bool:
+        return self.year_complete_marker_path(year).exists()
+
     def mark_year_complete(self, year: int) -> None:
         marker_path = self.year_complete_marker_path(year)
         marker_path.parent.mkdir(parents=True, exist_ok=True)

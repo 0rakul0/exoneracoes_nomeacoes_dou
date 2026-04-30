@@ -265,7 +265,14 @@ def collect_rj() -> int:
     total_new_acts = 0
     current_year = date.today().year
     active_year: int | None = None
+    skipped_years: set[int] = set()
     for item in dates:
+        if collector.is_year_complete(item.year):
+            if item.year not in skipped_years:
+                print(f"Pulando {item.year}: marcador .year_complete encontrado.", file=sys.stderr)
+                skipped_years.add(item.year)
+            continue
+
         if active_year is not None and item.year != active_year and active_year < current_year:
             collector.mark_year_complete(active_year)
         active_year = item.year
