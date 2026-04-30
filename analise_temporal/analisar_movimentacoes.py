@@ -91,6 +91,7 @@ NAME_SUFFIX_RE = re.compile(
     r"(?:\s*[-,;]\s*|\s+)(?:MATR(?:ICULA)?\.?|ID\.?\s*(?:FUNCIONAL)?|RG|CPF)\b\s*[: NºNO.]*\s*[\w.\-/]+.*$",
     re.I,
 )
+CSV_YEAR_RE = re.compile(r"(?:^|_)(?P<year>20\d{2})(?:\.csv)?$", re.I)
 
 
 @dataclass(frozen=True)
@@ -197,12 +198,40 @@ def parse_government_milestone(value: str) -> GovernmentMilestone:
     return GovernmentMilestone(milestone_date, label)
 
 
-def input_csv_paths(root: Path, state: str | None) -> list[Path]:
+def csv_year(path: Path) -> int | None:
+    match = CSV_YEAR_RE.search(path.stem)
+    return int(match.group("year")) if match else None
+
+
+def is_complete_year_csv(path: Path, today: date | None = None) -> bool:
+    year = csv_year(path)
+    if year is None:
+        return True
+    today = today or date.today()
+    return year < today.year
+
+
+def input_csv_paths(root: Path, state: str | None, complete_years_only: bool = True) -> list[Path]:
     if state:
         paths = sorted((root / state).glob("*.csv"))
     else:
         paths = sorted(path for path in root.glob("*/*.csv") if "analises" not in path.parts)
-    return [path for path in paths if path.is_file()]
+    paths = [path for path in paths if path.is_file()]
+    if complete_years_only:
+        paths = [path for path in paths if is_complete_year_csv(path)]
+    return paths
+
+
+def discover_states(root: Path, complete_years_only: bool = True) -> list[str]:
+    if not root.exists():
+        return []
+    return sorted(
+        path.name.upper()
+        for path in root.iterdir()
+        if path.is_dir()
+        and path.name.lower() != "analises"
+        and any(input_csv_paths(root, path.name, complete_years_only=complete_years_only))
+    )
 
 
 def read_rows(paths: Iterable[Path], nlp: Any | None, spacy_mode: str) -> list[dict[str, str]]:
@@ -218,12 +247,15 @@ def read_rows(paths: Iterable[Path], nlp: Any | None, spacy_mode: str) -> list[d
                 row["_nome_limpo"] = clean_person_name(row.get("nome", ""))
                 row["_nome_normalizado"] = normalize_text(row["_nome_limpo"])
                 row["_nome_rejeicao"] = name_rejection_reason(row["_nome_limpo"])
-                row["_spacy_pessoa"], row["_spacy_entidades"] = spacy_person_validation(row["_nome_limpo"], nlp)
+                row["_spacy_pessoa"] = row.get("spacy_pessoa", "")
+                row["_spacy_entidades"] = row.get("spacy_entidades", "")
+                if nlp is not None or not row["_spacy_pessoa"]:
+                    row["_spacy_pessoa"], row["_spacy_entidades"] = spacy_person_validation(row["_nome_limpo"], nlp)
                 if (
                     spacy_mode == "filtrar"
-                    and nlp is not None
                     and not row["_nome_rejeicao"]
                     and row["_spacy_pessoa"] != "sim"
+                    and row["_spacy_pessoa"] != "indisponivel"
                 ):
                     row["_nome_rejeicao"] = "spacy_nao_confirmou_pessoa"
                 row["_cargo_normalizado"] = normalize_text(row.get("cargo", ""))
@@ -400,13 +432,92 @@ def write_csv(path: Path, rows: list[dict[str, str]]) -> None:
         writer.writerows(rows)
 
 
+def generate_temporal_analysis(
+    input_dir: Path = Path("saida"),
+    output_dir: Path = Path("saida/analises"),
+    state: str | None = None,
+    government_milestones: Iterable[str] = (),
+    spacy_model_name: str = "pt_core_news_sm",
+    spacy_mode: str = "filtrar",
+    disable_spacy: bool = False,
+    complete_years_only: bool = True,
+) -> dict[str, int | str]:
+    paths = input_csv_paths(input_dir, state, complete_years_only=complete_years_only)
+    if not paths:
+        detail = " de ano completo" if complete_years_only else ""
+        raise FileNotFoundError(f"Nenhum CSV{detail} encontrado em {input_dir}")
+
+    milestones = sorted(
+        (parse_government_milestone(value) for value in government_milestones),
+        key=lambda item: item.date,
+    )
+    nlp = load_spacy_model(spacy_model_name, enabled=not disable_spacy)
+    rows = read_rows(paths, nlp, spacy_mode)
+    timeline_rows = build_timeline_rows(rows, milestones)
+    return_rows = [row for row in timeline_rows if row["retorno_apos_exoneracao"] == "sim"]
+    summary_rows = build_summary_rows(timeline_rows)
+    rejected_name_rows = build_rejected_name_rows(rows)
+
+    write_csv(output_dir / "movimentacoes_pessoas.csv", timeline_rows)
+    write_csv(output_dir / "retornos_apos_exoneracao.csv", return_rows)
+    write_csv(output_dir / "resumo_pessoas.csv", summary_rows)
+    write_csv(output_dir / "nomes_suspeitos.csv", rejected_name_rows)
+
+    return {
+        "csvs_lidos": len(paths),
+        "atos_analisados": len(timeline_rows),
+        "pessoas_analisadas": len(summary_rows),
+        "retornos_apos_exoneracao": len(return_rows),
+        "registros_com_nome_suspeito": len(rejected_name_rows),
+        "spacy": "desativado" if disable_spacy else spacy_model_name if nlp is not None else "indisponivel",
+        "saida": str(output_dir),
+        "anos_csv": ",".join(str(year) for year in sorted({csv_year(path) for path in paths if csv_year(path)})),
+    }
+
+
+def generate_temporal_analysis_for_states(
+    input_dir: Path = Path("saida"),
+    output_dir: Path = Path("saida/analises"),
+    states: Iterable[str] | None = None,
+    government_milestones: Iterable[str] = (),
+    spacy_model_name: str = "pt_core_news_sm",
+    spacy_mode: str = "filtrar",
+    disable_spacy: bool = False,
+    complete_years_only: bool = True,
+) -> list[dict[str, int | str]]:
+    state_list = (
+        [state.upper() for state in states]
+        if states is not None
+        else discover_states(input_dir, complete_years_only=complete_years_only)
+    )
+    if not state_list:
+        detail = " de ano completo" if complete_years_only else ""
+        raise FileNotFoundError(f"Nenhuma UF com CSV{detail} encontrada em {input_dir}")
+
+    results: list[dict[str, int | str]] = []
+    for state in state_list:
+        result = generate_temporal_analysis(
+            input_dir=input_dir,
+            output_dir=output_dir / state,
+            state=state,
+            government_milestones=government_milestones,
+            spacy_model_name=spacy_model_name,
+            spacy_mode=spacy_mode,
+            disable_spacy=disable_spacy,
+            complete_years_only=complete_years_only,
+        )
+        result["uf"] = state
+        results.append(result)
+    return results
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(
         description="Gera serie temporal de nomeacoes/exoneracoes por pessoa."
     )
     parser.add_argument("--entrada", type=Path, default=Path("saida"), help="Pasta com CSVs anuais.")
     parser.add_argument("--saida", type=Path, default=Path("saida/analises"), help="Pasta de saida da analise.")
-    parser.add_argument("--uf", default=None, help="Filtra uma UF, por exemplo RJ.")
+    parser.add_argument("--uf", default=None, help="Filtra uma UF, por exemplo RJ. Se omitir, roda todas as UFs em --entrada.")
     parser.add_argument(
         "--marco-governo",
         action="append",
@@ -429,35 +540,51 @@ def main() -> int:
         action="store_true",
         help="Desativa a validacao por spaCy e usa apenas as regras heuristicas.",
     )
+    parser.add_argument(
+        "--incluir-ano-atual",
+        action="store_true",
+        help="Inclui CSVs do ano corrente na analise. Por padrao, usa apenas anos fechados.",
+    )
     args = parser.parse_args()
 
-    paths = input_csv_paths(args.entrada, args.uf)
-    if not paths:
-        raise SystemExit(f"Nenhum CSV encontrado em {args.entrada}")
+    try:
+        if args.uf:
+            results = [
+                generate_temporal_analysis(
+                    input_dir=args.entrada,
+                    output_dir=args.saida,
+                    state=args.uf,
+                    government_milestones=args.marco_governo,
+                    spacy_model_name=args.spacy_modelo,
+                    spacy_mode=args.spacy_modo,
+                    disable_spacy=args.sem_spacy,
+                    complete_years_only=not args.incluir_ano_atual,
+                )
+            ]
+            results[0]["uf"] = args.uf.upper()
+        else:
+            results = generate_temporal_analysis_for_states(
+                input_dir=args.entrada,
+                output_dir=args.saida,
+                government_milestones=args.marco_governo,
+                spacy_model_name=args.spacy_modelo,
+                spacy_mode=args.spacy_modo,
+                disable_spacy=args.sem_spacy,
+                complete_years_only=not args.incluir_ano_atual,
+            )
+    except FileNotFoundError as exc:
+        raise SystemExit(str(exc)) from exc
 
-    milestones = sorted(
-        (parse_government_milestone(value) for value in args.marco_governo),
-        key=lambda item: item.date,
-    )
-    nlp = load_spacy_model(args.spacy_modelo, enabled=not args.sem_spacy)
-    rows = read_rows(paths, nlp, args.spacy_modo)
-    timeline_rows = build_timeline_rows(rows, milestones)
-    return_rows = [row for row in timeline_rows if row["retorno_apos_exoneracao"] == "sim"]
-    summary_rows = build_summary_rows(timeline_rows)
-    rejected_name_rows = build_rejected_name_rows(rows)
-
-    write_csv(args.saida / "movimentacoes_pessoas.csv", timeline_rows)
-    write_csv(args.saida / "retornos_apos_exoneracao.csv", return_rows)
-    write_csv(args.saida / "resumo_pessoas.csv", summary_rows)
-    write_csv(args.saida / "nomes_suspeitos.csv", rejected_name_rows)
-
-    print(f"CSVs lidos: {len(paths)}")
-    print(f"Atos analisados: {len(timeline_rows)}")
-    print(f"Pessoas analisadas: {len(summary_rows)}")
-    print(f"Retornos apos exoneracao: {len(return_rows)}")
-    print(f"Registros com nome suspeito: {len(rejected_name_rows)}")
-    print(f"spaCy: {'desativado' if args.sem_spacy else args.spacy_modelo if nlp is not None else 'indisponivel'}")
-    print(f"Arquivos gerados em: {args.saida}")
+    for result in results:
+        print(f"UF: {result['uf']}")
+        print(f"CSVs lidos: {result['csvs_lidos']}")
+        print(f"Anos analisados: {result['anos_csv']}")
+        print(f"Atos analisados: {result['atos_analisados']}")
+        print(f"Pessoas analisadas: {result['pessoas_analisadas']}")
+        print(f"Retornos apos exoneracao: {result['retornos_apos_exoneracao']}")
+        print(f"Registros com nome suspeito: {result['registros_com_nome_suspeito']}")
+        print(f"spaCy: {result['spacy']}")
+        print(f"Arquivos gerados em: {result['saida']}")
     return 0
 
 

@@ -7,7 +7,7 @@ from dataclasses import dataclass
 from datetime import date
 from functools import lru_cache
 from pathlib import Path
-from typing import Iterable
+from typing import Any, Iterable
 
 import requests
 
@@ -34,6 +34,9 @@ class Act:
     excerpt: str
     source_url: str
     text_path: str
+    spacy_person: str = ""
+    spacy_entities: str = ""
+    name_parse_reliable: str = ""
 
 
 @lru_cache(maxsize=2)
@@ -68,6 +71,25 @@ def get_docling_converter(enable_ocr: bool = False):
     )
 
 
+@lru_cache(maxsize=2)
+def get_spacy_model(model_name: str) -> Any | None:
+    try:
+        import spacy
+    except ImportError:
+        print("spaCy nao instalado; a coleta vai apenas anotar validacao indisponivel.", file=sys.stderr)
+        return None
+
+    try:
+        return spacy.load(model_name)
+    except OSError:
+        print(
+            f"Modelo spaCy '{model_name}' nao encontrado; "
+            f"instale com: python -m spacy download {model_name}",
+            file=sys.stderr,
+        )
+        return None
+
+
 class BaseGazetteCollector:
     state = ""
     gazette_code = ""
@@ -85,6 +107,9 @@ class BaseGazetteCollector:
 
     markdown_parse_block_size = config.MARKDOWN_PARSE_BLOCK_SIZE
     markdown_parse_overlap_size = config.MARKDOWN_PARSE_OVERLAP_SIZE
+    enable_spacy_validation = config.ENABLE_SPACY_VALIDATION
+    spacy_model_name = config.SPACY_MODEL
+    spacy_mode = config.SPACY_MODE
 
     def __init__(
         self,
@@ -95,6 +120,9 @@ class BaseGazetteCollector:
         self.max_attempts = max_attempts if max_attempts is not None else self.http_max_attempts
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": self.user_agent})
+        self.spacy_model = (
+            get_spacy_model(self.spacy_model_name) if self.enable_spacy_validation else None
+        )
 
     def fetch_text(self, url: str) -> str:
         data = self.fetch_bytes(url)
@@ -217,6 +245,44 @@ class BaseGazetteCollector:
     def yearly_csv_path_for(self, publication_date: date) -> Path:
         return self.output_dir / self.state / f"{self.gazette_code}_{publication_date:%Y}.csv"
 
+    def validate_person_name_with_spacy(self, person_name: str) -> tuple[str, str, str]:
+        if not self.enable_spacy_validation:
+            return "desativado", "", "indisponivel"
+        if self.spacy_model is None:
+            return "indisponivel", "", "indisponivel"
+        if not person_name.strip():
+            return "nao", "", "nao"
+
+        normalized_name = self.normalize_entity_text(person_name)
+        entities: list[str] = []
+        variants = [person_name, person_name.title()]
+
+        for variant in variants:
+            doc = self.spacy_model(variant)
+            for entity in doc.ents:
+                entity_text = entity.text.strip()
+                label = entity.label_.upper()
+                if not entity_text:
+                    continue
+                entities.append(f"{entity_text}:{label}")
+                normalized_entity = self.normalize_entity_text(entity_text)
+                if label in {"PER", "PERSON"} and (
+                    normalized_entity == normalized_name
+                    or normalized_entity in normalized_name
+                    or normalized_name in normalized_entity
+                ):
+                    return "sim", "|".join(dict.fromkeys(entities)), "sim"
+
+        return "nao", "|".join(dict.fromkeys(entities)), "nao"
+
+    @staticmethod
+    def normalize_entity_text(value: str) -> str:
+        import unicodedata
+
+        value = unicodedata.normalize("NFKD", value or "")
+        value = "".join(char for char in value if not unicodedata.combining(char))
+        return " ".join(value.upper().split())
+
     def write_csv(self, path: Path, acts: Iterable[Act]) -> int:
         path.parent.mkdir(parents=True, exist_ok=True)
         fieldnames = [
@@ -226,6 +292,9 @@ class BaseGazetteCollector:
             "caderno",
             "tipo_ato",
             "nome",
+            "spacy_pessoa",
+            "spacy_entidades",
+            "nome_parse_confiavel",
             "cargo",
             "orgao",
             "trecho",
@@ -239,6 +308,14 @@ class BaseGazetteCollector:
             with path.open(newline="", encoding="utf-8") as file:
                 for row in csv.DictReader(file):
                     normalized_row = {field: row.get(field, "") for field in fieldnames}
+                    if not normalized_row["spacy_pessoa"] and normalized_row["nome"]:
+                        (
+                            normalized_row["spacy_pessoa"],
+                            normalized_row["spacy_entidades"],
+                            normalized_row["nome_parse_confiavel"],
+                        ) = self.validate_person_name_with_spacy(normalized_row["nome"])
+                    if self.spacy_mode == "filter" and normalized_row["spacy_pessoa"] == "nao":
+                        continue
                     key = (
                         normalized_row["data_publicacao"],
                         normalized_row["tipo_ato"],
@@ -250,6 +327,16 @@ class BaseGazetteCollector:
 
         new_count = 0
         for act in acts:
+            spacy_person = act.spacy_person
+            spacy_entities = act.spacy_entities
+            name_parse_reliable = act.name_parse_reliable
+            if not spacy_person and not name_parse_reliable:
+                spacy_person, spacy_entities, name_parse_reliable = self.validate_person_name_with_spacy(
+                    act.person_name
+                )
+            if self.spacy_mode == "filter" and spacy_person == "nao":
+                continue
+
             row = {
                 "estado": act.state,
                 "diario": act.gazette,
@@ -257,6 +344,9 @@ class BaseGazetteCollector:
                 "caderno": act.section,
                 "tipo_ato": act.action_type,
                 "nome": act.person_name,
+                "spacy_pessoa": spacy_person,
+                "spacy_entidades": spacy_entities,
+                "nome_parse_confiavel": name_parse_reliable,
                 "cargo": act.role,
                 "orgao": act.agency,
                 "trecho": act.excerpt,

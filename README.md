@@ -33,7 +33,7 @@ Rode o coletor:
 python main.py
 ```
 
-O `main.py` nao recebe argumentos. Ele procura as datas da IOERJ da mais recente para a mais antiga e percorre as edicoes disponiveis do caderno de Poder Executivo. Para cada edicao, baixa o PDF apenas como arquivo temporario quando o Markdown ainda nao existe, converte com Docling, apaga o PDF e salva os dados encontrados no CSV anual correspondente.
+O `main.py` nao recebe argumentos. A lista de UFs a coletar fica em `STATES_TO_COLLECT`, dentro do proprio arquivo. Para `RJ`, ele procura as datas da IOERJ da mais recente para a mais antiga e percorre as edicoes disponiveis do caderno de Poder Executivo. Para cada edicao, reutiliza o Markdown quando ele ja existe; quando precisa converter, reaproveita PDFs em `.cache/diarios` antes de baixar novamente. Ao final da coleta, ele percorre automaticamente as UFs encontradas em `saida` e gera os CSVs de analise temporal para cada uma.
 
 O padrao dos arquivos Markdown e:
 
@@ -61,6 +61,16 @@ saida/RJ/DOERJ_2026.csv
 
 Se o `.md` da edicao ja existir no repositorio, o coletor usa esse arquivo diretamente e nao baixa nem converte o PDF de novo. O CSV anual e atualizado em `saida/RJ`, sem duplicar atos ja gravados.
 
+Durante a gravacao do CSV anual, o coletor pode usar spaCy para validar se o nome extraido parece uma pessoa. Esses campos sao gravados junto do ato:
+
+```text
+spacy_pessoa
+spacy_entidades
+nome_parse_confiavel
+```
+
+As chaves ficam em `diarios_oficiais/config.py`: `ENABLE_SPACY_VALIDATION`, `SPACY_MODEL` e `SPACY_MODE`. O modo padrao e `annotate`, que apenas anota a validacao sem bloquear a coleta.
+
 Por padrao, o Docling usa o texto embutido no PDF, sem OCR, para manter a coleta mais rapida. Para edicoes escaneadas, altere a constante `ENABLE_OCR` em `diarios_oficiais/config.py`.
 
 As configuracoes compartilhadas de coleta, cache, saida, Docling e parse em blocos ficam em `diarios_oficiais/config.py`. A classe base para novos extratores fica em `diarios_oficiais/base.py`.
@@ -69,7 +79,7 @@ As configuracoes compartilhadas de coleta, cache, saida, Docling e parse em bloc
 
 ```mermaid
 flowchart TD
-    A["python main.py"] --> B["main.py chama diarios_oficiais.rj_ioerj.main()"]
+    A["python main.py"] --> B["main.py percorre STATES_TO_COLLECT"]
     B --> C["Reporta PyTorch/CUDA disponivel"]
     C --> D["Busca calendario da IOERJ"]
     D --> E["Ordena datas do DOERJ do mais recente ao mais antigo"]
@@ -77,16 +87,17 @@ flowchart TD
     F --> G["Filtra caderno: Poder Executivo"]
     G --> H{"Markdown da edicao ja existe em LAKE/RJ/ano/mes?"}
     H -- "Sim" --> I["Usa Markdown existente"]
-    H -- "Nao" --> J["Baixa PDF oficial em .cache temporario"]
-    J --> K["Docling converte PDF para Markdown"]
-    K --> L["Salva somente o .md em LAKE/RJ/ano/mes"]
-    L --> M["Apaga PDF temporario"]
+    H -- "Nao" --> J["Reaproveita ou baixa PDF oficial em .cache/diarios"]
+    J --> K["Converte PDF para Markdown"]
+    K --> L["Salva o .md em LAKE/RJ/ano/mes"]
+    L --> M["Mantem PDF em cache"]
     I --> N["Parser procura atos NOMEAR e EXONERAR no Markdown"]
     M --> N
     N --> O["Atualiza CSV anual em saida/RJ"]
     O --> P{"Ainda ha datas no calendario?"}
     P -- "Sim" --> F
-    P -- "Nao" --> Q["Execucao termina"]
+    P -- "Nao" --> Q["Percorre UFs em saida"]
+    Q --> R["Gera analises temporais em saida/analises/UF"]
 ```
 
 ## Estrutura do CSV
@@ -112,6 +123,31 @@ Para gerar uma serie temporal por pessoa e identificar retornos apos exoneracao:
 ```powershell
 python analise_temporal/analisar_movimentacoes.py --uf RJ
 ```
+
+O `main.py` ja executa essa analise automaticamente ao final da coleta quando existir pelo menos um CSV de ano completo. Por padrao, um ano so entra na serie quando ele ja fechou; por exemplo, durante 2026 o arquivo `DOERJ_2026.csv` ainda nao entra, mas `DOERJ_2025.csv` entra.
+
+Para regerar as analises de todas as UFs sem coletar novamente:
+
+```powershell
+python analise_temporal/analisar_movimentacoes.py
+```
+
+Se quiser incluir tambem o ano corrente em uma analise manual:
+
+```powershell
+python analise_temporal/analisar_movimentacoes.py --incluir-ano-atual
+```
+
+Nesse modo, a saida fica em:
+
+```text
+saida/analises/RJ/movimentacoes_pessoas.csv
+saida/analises/RJ/retornos_apos_exoneracao.csv
+saida/analises/RJ/resumo_pessoas.csv
+saida/analises/RJ/nomes_suspeitos.csv
+```
+
+Use `--uf RJ` apenas quando quiser gerar uma UF especifica diretamente na pasta passada em `--saida`.
 
 Por padrao, o script usa spaCy para validar nomes de pessoas quando o modelo estiver instalado. Para preparar o ambiente:
 
