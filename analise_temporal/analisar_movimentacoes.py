@@ -8,7 +8,7 @@ from collections import defaultdict
 from dataclasses import dataclass
 from datetime import date, datetime
 from pathlib import Path
-from typing import Iterable
+from typing import Any, Iterable
 
 
 ACTION_ORDER = {"exoneracao": 0, "nomeacao": 1}
@@ -99,6 +99,25 @@ class GovernmentMilestone:
     label: str
 
 
+def load_spacy_model(model_name: str, enabled: bool) -> Any | None:
+    if not enabled:
+        return None
+    try:
+        import spacy
+    except ImportError:
+        print("spaCy nao instalado; usando apenas filtros heuristicos de nomes.")
+        return None
+
+    try:
+        return spacy.load(model_name)
+    except OSError:
+        print(
+            f"Modelo spaCy '{model_name}' nao encontrado; "
+            f"instale com: python -m spacy download {model_name}"
+        )
+        return None
+
+
 def normalize_text(value: str) -> str:
     value = unicodedata.normalize("NFKD", value or "")
     value = "".join(char for char in value if not unicodedata.combining(char))
@@ -138,6 +157,35 @@ def name_rejection_reason(value: str) -> str:
     return ";".join(reasons)
 
 
+def spacy_person_validation(value: str, nlp: Any | None) -> tuple[str, str]:
+    if nlp is None:
+        return "indisponivel", ""
+    if not value:
+        return "nao", ""
+
+    normalized_name = normalize_text(value)
+    entities: list[str] = []
+    variants = [value, value.title()]
+
+    for variant in variants:
+        doc = nlp(variant)
+        for entity in doc.ents:
+            entity_text = entity.text.strip()
+            label = entity.label_.upper()
+            if not entity_text:
+                continue
+            entities.append(f"{entity_text}:{label}")
+            normalized_entity = normalize_text(entity_text)
+            if label in {"PER", "PERSON"} and (
+                normalized_entity == normalized_name
+                or normalized_entity in normalized_name
+                or normalized_name in normalized_entity
+            ):
+                return "sim", "|".join(dict.fromkeys(entities))
+
+    return "nao", "|".join(dict.fromkeys(entities))
+
+
 def parse_date(value: str) -> date:
     return datetime.strptime(value, "%Y-%m-%d").date()
 
@@ -157,7 +205,7 @@ def input_csv_paths(root: Path, state: str | None) -> list[Path]:
     return [path for path in paths if path.is_file()]
 
 
-def read_rows(paths: Iterable[Path]) -> list[dict[str, str]]:
+def read_rows(paths: Iterable[Path], nlp: Any | None, spacy_mode: str) -> list[dict[str, str]]:
     rows: list[dict[str, str]] = []
     for path in paths:
         with path.open(newline="", encoding="utf-8") as file:
@@ -170,6 +218,14 @@ def read_rows(paths: Iterable[Path]) -> list[dict[str, str]]:
                 row["_nome_limpo"] = clean_person_name(row.get("nome", ""))
                 row["_nome_normalizado"] = normalize_text(row["_nome_limpo"])
                 row["_nome_rejeicao"] = name_rejection_reason(row["_nome_limpo"])
+                row["_spacy_pessoa"], row["_spacy_entidades"] = spacy_person_validation(row["_nome_limpo"], nlp)
+                if (
+                    spacy_mode == "filtrar"
+                    and nlp is not None
+                    and not row["_nome_rejeicao"]
+                    and row["_spacy_pessoa"] != "sim"
+                ):
+                    row["_nome_rejeicao"] = "spacy_nao_confirmou_pessoa"
                 row["_cargo_normalizado"] = normalize_text(row.get("cargo", ""))
                 row["_orgao_normalizado"] = normalize_text(row.get("orgao", ""))
                 rows.append(row)
@@ -241,6 +297,8 @@ def build_timeline_rows(
                 "tipo_ato": action_type,
                 "nome": row.get("_nome_limpo", ""),
                 "nome_original_csv": row.get("_nome_original", ""),
+                "spacy_pessoa": row.get("_spacy_pessoa", ""),
+                "spacy_entidades": row.get("_spacy_entidades", ""),
                 "cargo": row.get("cargo", ""),
                 "orgao": row.get("orgao", ""),
                 "caderno": row.get("caderno", ""),
@@ -315,6 +373,8 @@ def build_rejected_name_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]
                 "motivo_rejeicao": row["_nome_rejeicao"],
                 "nome_original_csv": row.get("_nome_original", ""),
                 "nome_limpo": row.get("_nome_limpo", ""),
+                "spacy_pessoa": row.get("_spacy_pessoa", ""),
+                "spacy_entidades": row.get("_spacy_entidades", ""),
                 "estado": row.get("estado", ""),
                 "data_publicacao": row.get("data_publicacao", ""),
                 "tipo_ato": row.get("tipo_ato", ""),
@@ -353,6 +413,22 @@ def main() -> int:
         default=[],
         help="Marco no formato YYYY-MM-DD ou YYYY-MM-DD:rotulo. Pode repetir.",
     )
+    parser.add_argument(
+        "--spacy-modelo",
+        default="pt_core_news_sm",
+        help="Modelo spaCy usado para validar nomes de pessoas.",
+    )
+    parser.add_argument(
+        "--spacy-modo",
+        choices=["filtrar", "anotar"],
+        default="filtrar",
+        help="Em 'filtrar', remove nomes nao confirmados pelo spaCy quando o modelo estiver disponivel.",
+    )
+    parser.add_argument(
+        "--sem-spacy",
+        action="store_true",
+        help="Desativa a validacao por spaCy e usa apenas as regras heuristicas.",
+    )
     args = parser.parse_args()
 
     paths = input_csv_paths(args.entrada, args.uf)
@@ -363,7 +439,8 @@ def main() -> int:
         (parse_government_milestone(value) for value in args.marco_governo),
         key=lambda item: item.date,
     )
-    rows = read_rows(paths)
+    nlp = load_spacy_model(args.spacy_modelo, enabled=not args.sem_spacy)
+    rows = read_rows(paths, nlp, args.spacy_modo)
     timeline_rows = build_timeline_rows(rows, milestones)
     return_rows = [row for row in timeline_rows if row["retorno_apos_exoneracao"] == "sim"]
     summary_rows = build_summary_rows(timeline_rows)
@@ -379,6 +456,7 @@ def main() -> int:
     print(f"Pessoas analisadas: {len(summary_rows)}")
     print(f"Retornos apos exoneracao: {len(return_rows)}")
     print(f"Registros com nome suspeito: {len(rejected_name_rows)}")
+    print(f"spaCy: {'desativado' if args.sem_spacy else args.spacy_modelo if nlp is not None else 'indisponivel'}")
     print(f"Arquivos gerados em: {args.saida}")
     return 0
 

@@ -113,12 +113,26 @@ Para gerar uma serie temporal por pessoa e identificar retornos apos exoneracao:
 python analise_temporal/analisar_movimentacoes.py --uf RJ
 ```
 
+Por padrao, o script usa spaCy para validar nomes de pessoas quando o modelo estiver instalado. Para preparar o ambiente:
+
+```powershell
+python -m pip install -r requirements.txt
+python -m spacy download pt_core_news_sm
+```
+
+Se quiser rodar sem spaCy:
+
+```powershell
+python analise_temporal/analisar_movimentacoes.py --uf RJ --sem-spacy
+```
+
 O script le os CSVs anuais em `saida/UF` e grava:
 
 ```text
 saida/analises/movimentacoes_pessoas.csv
 saida/analises/retornos_apos_exoneracao.csv
 saida/analises/resumo_pessoas.csv
+saida/analises/nomes_suspeitos.csv
 ```
 
 Para marcar mudancas de governo ou outros marcos politicos na serie temporal:
