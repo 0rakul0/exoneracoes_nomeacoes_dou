@@ -135,17 +135,17 @@ Ceres Pimenta Diretora Industrial
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 rintendência  de Promoção  Social -  Metropolitana, da  Vice-Presidência de Assistência Social,  da Fundação Leão XIII.  Processo nº SEI310003/000366/2026.
 
@@ -356,17 +356,17 @@ O  SECRETÁRIO  DE  ESTADO  DE  FAZENDA , no  uso  de  suas  atribuições  lega
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 -  que em  07 de  março de  2024, o  Conselho de  Supervisão do  Regime de Recuperação  Fiscal do Estado do Rio  de Janeiro aprovou, por unanimidade,  conforme Ata de Decisão  encaminhada pelo Ofício SEI Nº  15136/2024/MF, a  proposta de compensação  financeira apresentada pela SEFAZ/RJ para a implementação da gratificação por presença  para os  08  (oito)  membros que  compõem  o Conselho  Administrativo  de  Uniformização Tributária  -  CAUT,  criado pelo  Decreto  nº 48.659/2023;
 -  o  disposto  no  Decreto  nº  49.050,  de  16  de  abril  de  2024  e  as  alterações  previstas  no  Decreto  nº  50.230,  de  18  de  março  de  2026;
@@ -435,39 +435,39 @@ PROCESSO  SEI-040008/000116/2026  -  RECONHEÇO a  dívida  de Despesas de Exerc
 
 Id:  2724313
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0035/U0035
+055
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0032/U0036
+26
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
 SECRETARIA DE ESTADO DE FAZENDA SUBSECRETARIA DE ESTADO DE RECEITA SUPERINTENDÊNCIA DE BENEFÍCIOS FISCAIS TRIBUTÁRIOS DE ICMS
 
@@ -543,7 +543,7 @@ Rio  de  Janeiro,  24  de  março  de  2026
 
 Id:  2724034
 
-/U0033
+3
 
 <!-- image -->
 
@@ -609,17 +609,17 @@ INSTITUI  GRUPO DE TRABALHO DESTINADO À ELABORAÇÃO  DO PLANO  ANUAL DE CORREI
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE FAZENDA SUBSECRETARIA DE ESTADO DE RECEITA SUPERINTENDÊNCIA DE TRIBUTAÇÃO
 
@@ -769,17 +769,17 @@ Id:  2724106
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 SECRETARIA DE ESTADO DE FAZENDA FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO DIRETORIA DE SEGURIDADE GERÊNCIA DE RELACIONAMENTO COM O SEGURADO E PENSÃO
 
@@ -944,7 +944,7 @@ EXONERA ,  com validade  a contar  de 04  de março  de 2026,  o TEN CEL  PM  RG
 
 EXONERA ,  com validade  a contar  de 05  de março  de 2026,  o TEN CEL PM  RG 67875  LEONARDO DA  SILVEIRA GOMES ,  ID. Funcional 24456853,  do cargo em comissão  de Comandante, símbolo DAS-6, do  18º Batalhão de Polícia  Militar (18° BPM), do  2° Comando
 
-/U0036
+6
 
 de  Policiamento  de  área,  da  Subsecretaria  de  Gestão  Operacional,  da Subsecretaria  Geral  de  Polícia  Militar,  da  Secretaria  de  Estado  de  Polícia  Militar.  Processo  nº  SEI-350009/009030/2026
 
@@ -1002,17 +1002,17 @@ LICENCIA a  pedido  o  3º  SARGENTO PM, RG 50.008 ROBSON DOS SANTOS  RIBEIRO , 
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 disposto na  Emenda Constitucional n° 20/1998,  que estabelece restrições a  acumulação de  cargos públicos, passando  o Militar  à condição  de  Reserva  Não  Remunerada,  a  contar  da  data  de  publicação deste  ato, conforme  acórdão  n° 3296/2025,  constante  no Processo  n° E-12/224/48/2019.
 
@@ -1174,17 +1174,17 @@ Id:  2724084
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL
 
@@ -1357,17 +1357,17 @@ Id:  2724250
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA PENAL SUBSECRETARIA DE GESTÃO OPERACIONAL
 
@@ -1541,17 +1541,17 @@ BRUNA DA  COSTA DO AMOR  DIVINO , Professor Docente  I, matricula  nº 942.993-7
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 CAMILA  MATHEUS RODRIGUES  DA  SILVA ,  Professor Docente  I, matricula nº  974.913-6 e nº  920.615-2, ID Funcional  nº 4212007-1, sem contato direto e permanente  com aluno, podendo exercer a regência de turma por período de até 30 dias no trimestre por um prazo de  24 meses,  cessando todo  e qualquer  licenciamento na  data desta publicação.  Processo  nº  SEI-030030/001075/2021.
 
@@ -1603,25 +1603,25 @@ PROCESSO  Nº  SEI-210001/132354/2025 - EDISON  AZEVEDO  VALLADÃO JUNIOR, Inspe
 
 Id:  2724156
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0035/U0035
+055
 
-/U002D
+-
 
-/U006F
+o
 
 ## ADMINISTRAÇÃO VINCULADA
 
@@ -1689,41 +1689,41 @@ DESIGNA JAQUELINE MARCELINO DA S  I  LVA  MARTINS ,  Prof.  Doc. I, ID  4376264-
 
 <!-- image -->
 
-/U0039
+9
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0035
+055
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0032/U0036
+26
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 DISPENSA , a  pedido, K  E  L  L Y   C  O  S  TA  ROCHA CORRÊA ,  Prof. Doc. II, ID  3551742-5/1, da  função de  Diretor Adjunto  do CIEP  343 Prof.ª Emília Diniz Ligiero, U.A. 118201031105525, Município de Laje do Muriaé,  da  Secretaria de  Estado  de  Educação, designada  provisoriamente  através  do  ato  de  10/12/2025,  publicado  no  DOERJ  de  12/12/2025. Processo  nº  SEI-030001/024729/2026.
 
@@ -1767,17 +1767,17 @@ DISPENSA ,  a  pedido, W  E  L  L  I  N  G  TO  N  REIS DA S  I  LVA ,  Prof.  D
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 DESIGNA RALPH DE MACEDO KELLER ,  Prof. Doc. I, ID 42028272/1,  para exercer  a função  de  Coordenador Pedagógico  do CIEP  460 Thiophyla  Bragança, U.A.  118201030105548,  Tipo  D, Município  de Araruama, da  Secretaria de  Estado de  Educação, em  vaga anteriormente ocupado por Wellington Reis da Silva, ID 4417447-0/2. Processo  nº  SEI-030001/016323/2026.
 
@@ -1923,17 +1923,17 @@ PROCESSO  Nº  SEI-030001/114139/2025CONCEDO o benefício Abono de Permanência 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 nido, na  forma dos arts.  6° e 7°  da Lei Complementar  195/2021, os requisitos necessários para a sua aposentadoria a partir de 1  9  / 11  /  2  0 2  3  .
 
@@ -2015,39 +2015,39 @@ PROCESSO  Nº SEI-030001/026595/2026 -DANIELA  BAETA  DOS SANTOS, Identidade Fun
 
 PROCESSO Nº SEI-030001/025252/2026 HADRIELLE  RODRIGUES DE  AQUINO, Identidade  Funcional 50935950/01,  matrícula 3107232-5 , Professor Docente I 18h. Tendo  em vista o atendimento aos pressupostos estabelecidos na  Lei nº 5.539 de 10/09/2009,  no Decreto nº 42.160 de 02/12/2009, na Lei nº 1.614 de 26/01/1990 e na Resolução
 
-/U0041/U004E/U004F
+ANO
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0035/U0035
+055
 
-/U002D
+-
 
-/U0049
+I
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0032/U0036
+26
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
 SEEDUC nº 4.379 de 07/01/2010, o servidor FAZ JUS ao adicional de qualificação  (Mestrado),  a  partir  de  05/03/2026.
 
@@ -2107,17 +2107,17 @@ Id:  2724346
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA COORDENADORIA GERAL DE INSPEÇÃO ESCOLAR, CERTIFICAÇÃO E ACERVO
 
@@ -2347,17 +2347,17 @@ PROCESSO Nº SEI-030001/031672/2025 - JOSE  AUGUSTO RODRIGUES PEREIRA, Prof. Doc
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº S  E  I  -  0  3  0  0  0  1  /  11  3  6  7  2  /  2  0  2  5 -  JANE  DE SOUZA  COSTA E  SILVA,  Prof.  Doc.  I,  ID  Funcional  3285832-9/1,  mat.  0831814-9,  períodos base de 10/06/2005 a 09/06/2010, de 10/06/2010 a 09/06/2015, de  10/06/2015  a  09/06/2020  e  de  10/06/2020  a  09/06/2025.
 
@@ -2543,17 +2543,17 @@ Id:  2724320
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS DEPARTAMENTO DE GESTÃO E ACOMPANHAMENTO FUNCIONAL
 
@@ -2765,17 +2765,17 @@ O  PRESIDENTE DA  COMISSÃO  ESTADUAL  DE CONTROLE  AMBIENTAL - CECA, DA SECRETA
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 buições que lhe  são conferidas pela Lei Estadual n° 1.356, de 03/10/1988, pelo  Decreto Estadual nº  21.287, de 23/01/1995,  pela Lei Estadual nº 5.101,  de 04/10/2007, pelo Decreto  Estadual nº 48.690, de  14/09/2023,  e  pelo  Decreto  Estadual  nº  46.890,  de  23/12/2019,  e
 
@@ -2851,39 +2851,39 @@ PROCESSO Nº E-07/101525/2007 - TORNO SEM  EFEITO a  publicação da contagem  e
 
 Id:  2724221
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0030/U0035/U0035
+055
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0032/U0036
+26
 
-/U002D
+-
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 ## INSTITUTO ESTADUAL DO AMBIENTE CONSELHO DIRETOR
 
@@ -2932,23 +2932,23 @@ I  terior  da  Resex  marinha  de  Itaipu. II  pescadores  amadores  que  pratic
 
 quisa  científica  no  interior  de  unidades  de  conservação.
 
-/U0031/U0035
+15
 
 <!-- image -->
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Parágrafo Único Todos os usuários da Resex Marinha de Itaipu deverão cumprir as regras estabelecidas na legislação ambiental vigente sob pena de responderem por seus atos, conforme a Lei Estadual n° 3.467, de 31  de  setembro  de  2000,  que  dispõe  sobre  as  sanções  administrativas  derivadas  de  condutas  lesivas  ao  meio  ambiente  no  estado  do  Rio  de  Janeiro. Art.  6º -As atividades  e usos  praticados pelos  usuários estabelecidos  por esta  Resolução deverão  respeitar  e priorizar  as atividades  praticadas pelos  pescadores beneficiários  da RESEX  Marinha de  Itaipu no  que concerne  à  utilização  da  área  desta  unidade  de  conservação.
 
@@ -3011,17 +3011,17 @@ PROCESSO  SEI-180001/002473/2024  APROVO ,  a  prestação  de contas  do  proje
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 96  José  Gois  de  Carvalho  Linha  de  mão  97  José  Ricardo  Rodrigues  Lopes  Linha  de  mão  /  mariscagem  98  Josué  Siqueira  de  Lima  Mariscagem  99  Jurandi  Vitorino  do  Amparo  Ta  r   r   a   f  a  100  Jurandi  Vitorino  do  Amparo  Filho  Ta  r   r   a   f  a  101  Leandro  de  Almeida  Monteiro  Linha  de  mão  102  Lucio  de  Almeida  Arrastão  de  Praia/  Rede  103  Luiz  Carlos  da  Silva  Junior  Linha  de  Mão  104  Marcelo  de  Souza  Gonçalves  Mariscagem  105  Marcilio  da  Costa  Rodrigues  Ta  r   r   a  f  a  /  M  o  l   i   n  e   t  e  106  Marcio  Nunes  de  Souza  Mergulho  107  Marcos  Lopes  do  Nascimento  Arrastão  de  praia  108  Marcos  Vinicius  Rodrigues  de  Brito  Malha  109  Maria  de  Fatima  dos  Anjos  Linha  de  mão  11  0  Marlon  Luiz  Delfino  Lopes  Linha  de  mão  111  Moises  Tavares  Alexandre  Ta  r   r   a   f  a  11  2  Murilo  Borges  de  Souza  Arrastão  de  Praia/Mergulho/  Molinete/  Mariscagem  11  3  Paulo  Cesar  Dutra  Linha  de  mão  11  4  Renato  Barbosa  de  Mello  Linha  de  mão  11  5  Renato  Carlos  Gomes  Linha  de  mão  11  6  Roberto  Carlos  do  Amparo  Ta  r   r   a   f  a  11  7  Sebastião  Jorge  Lopes  Arrastão  de  praia  11  8  Thiago  Rodrigues  Santos  Rede de espera  /  Linha  de  mão  11  9  Valter  Delfino  de  Oliveira  Rede de espera  120  Vanderléa  Maria  de  Souza  Mexilhão  121  Vinicio  Francisco  de  Brito  Rede de espera  INCLUSÃO BENEFICIÁRIO PIRATININGA  122  Alysson  de  Souza  Menezes  Rede de espera  123  Celso  Mendonça  Arrastão  de  Praia  /  Mariscagem  124  Damião Rodrigues  Lopes  Arrastão  de  praia  125  Gilmar  Berriel  Nascimento  Arrastão  de  praia  126  Gilson  do  Amparo  Arrastão  de  Praia/  Tarrafa/Caceia  127  Giselio  dos  Anjos  de  Lima  Nascimento  Arrastão  de  Praia  /Tarrafa/Puçá/Molinete  128  José  Fernandes  da  Costa  Linha  de  mão  /  mariscagem  129  Jozias  Antonio  da  Silva  Ta  r   r   a  f  a  /  P  u   ç   á   /  M  o  l   i  n  e   t  e  /  M  a  r   i   s  c   a   g   e  m  130  Kayo  Vieira  de  Miranda  Arrastão  de  Praia/  Mergulho/  Mariscagem  131  Marcelo  Guimarães  Castrioto  Molinete  /  Linha  de  mão  132  Marco  Antonio  Picoli  Mariscagem/  Linha  de  mão  133  Marcos  Vinicius  B.  de  Brito  Rede de espera  134  Mario  Sergio  do  Conceição  de  Souza  Arrastão  de  praia  135  Meriton  Garcia  Ferreira  Arrastão  de  praia/Tarrafa/Puça/Molinete  136  Moises  da  Silva  Thomé  Linha  de  mão  137  Paulo  Sergio  da  Silva  Barbosa  Linha  de  Mão  138  Ranieri  Alves  de  Souza  Feitosa  Arrastão  de  Praia/Linha  de  mão  139  Raphael  Martins  de  Araujo  Ta  r   r   a   f  a  140  Ricardo  Chaves  da  Silva  Linha  de  mão  141  Robson Rspes da Silva  Mergulho  142  Selmo  José  Nascimento  Arrastão  de  praia/  Tarrafa/Rede  de  espera  143  Sergio  Alexandre  de  Carvalho  Fernandes  Linha  de  Mão  144  Sidnei  José  de  Souza  Arrastão  de  praia  145  Uilian  Fonseca  Dias  Mergulho  146  Vagner  Carvalho  Gonçalves  Rede de espera  147  Waldossan  da  Costa  Arrastão  de  praia  148  Wanderley  Joaquim  Dias  Arrastão  de  Praia/  Tarrafa   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3186,17 +3186,17 @@ PROCESSO  Nº  SEI-E-18/007/1018/2019  - APROVO a  prestação de contas do proj
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 latório  de  Análise  de  Prestação  de  Contas  -  ICMS  (119025623)  e  pela Resolução SECEC nº 266 de 23 de Março de 2023, bem como a Resolução  nº  19  de  20  de  Março  de  2019  e  pela  Lei  Estadual  nº  8.266, de 26  de dezembro  de 2018,  pela Lei  Estadual nº  7.035, de  7 de julho  de  2015,  pelo  decreto  nº  46.538,  de  27  de  dezembro  de  2018.
 
@@ -3436,17 +3436,17 @@ Id:  2724147
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ## Gabinete de Segurança Institucional do Governo do Estado do Rio de Janeiro
 
@@ -3476,41 +3476,41 @@ GABINETE DE SEGURANÇA INSTITUCIONAL DO GOVERNO
 
 PROCESSO Nº SEI-390002/000658/2026 - AUTORIZO ,  sem  ônus  para  o Estado,  com  base no  Art.  1º  do Decreto  Estadual  n.º 44.251,  de 17.06.2013. Id:  2723630
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0035/U0035
+055
 
-/U002D
+-
 
-/U0049
+I
 
-/U006F
+o
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0032/U0036
+26
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0031 /U0039
+1 9
 
 GABINETE DE SEGURANÇA INSTITUCIONAL DO GOVERNO DO ESTADO DO RIO DE JANEIRO DIRETORIA GERAL DE ADMINISTRAÇÃO E FINANÇAS
 
@@ -3690,17 +3690,17 @@ O SECRETÁRIO  DE ESTADO  DE INFRAESTRUTURA  E OBRAS PÚBLICAS ,  no uso  das  a
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 CONSIDERANDO o  Decreto  Estadual  nº  48.817,  de  24  de  novembro de  2023;
 
@@ -3916,17 +3916,17 @@ PROCESSO SEI E-24/004/5733/2013-TRES AMIGOS COMERCIO DE ALIMENTOS LTDA
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO SEI E-24/004/5759/2015-BANCO BRADESCARD S.A. PROCESSO SEI E-22/014/95/2020-VENBO COMERCIO DE ALIMENTOS LTDA PROCESSO SEI-240002/003895/2023-QUARUP COMBUSTIVEIS LTDA PROCESSO SEI-220013/000794/2020-COMPANHIA BRASILEIRA DE DISTRIBUICAO PROCESSO SEI E-24/004/5234/2014-BANCO DO BRASIL S/A PROCESSO SEI-220013/000589/2020-CASAS GUANABARA COMESTIVEIS  LTDA PROCESSO SEI E-15/003/502/2018-C&amp;A MODAS S.A PROCESSO SEI E-12/129917/2009-DISK-LAV PECAS PARA ELETRODOMESTICOS LTDA PROCESSO SEI E-35/57467/2006-CARION BRASIL ADMINISTRADORA DE CONSORCIOS LTDA PROCESSO SEI-240002/000547/2023-POSTO DE GASOLINA FHC LT  D  A PROCESSO SEI-240002/001815/2023-POSTO CARESTIATO DE FRIBURGO LTDA PROCESSO SEI-240002/003727/2023-AUTO POSTO BARILOCHE DE CAXIAS LTDA PROCESSO SEI-240002/000814/2023-LIGHT-SERVICOS DE ELETRICIDADE S.A PROCESSO SEI-240002/001395/2022-SOCIEDADE UNIVERSITARIA R  E  D  E  N  TO  R PROCESSO SEI-240002/000729/2023-AMPLA ENERGIA E SERVICOS S.A PROCESSO SEI-240002/003731/2023-LWAC MERCEARIA LTDA PROCESSO SEI-240002/000359/2023-SUPERMERCADOS RIO SUL DE AUSTIN LTDA PROCESSO SEI-240002/000360/2023-CASAS GUANABARA COMESTIVEIS  LTDA PROCESSO SEI E-15/003/101290/2018-POSTO DE GASOLINA SAO JERONIMO DO ANIL LTDA PROCESSO SEI-240002/000881/2021-DROGARIA PACHECO S.A PROCESSO SEI-240002/003608/2023-NATURA COMERCIAL LTDA PROCESSO SEI-240002/001818/2023-CEREAIS BRAMIL LTDA PROCESSO SEI-240002/001304/2022-VIA VAREJO S.A PROCESSO SEI-240002/000440/2022-BANCO BRADESCO S/A PROCESSO SEI E-15/003/978/2018-CAIXA ECONOMICA FEDERAL PROCESSO SEI E-15/003/1051/2018-MF 2008 COMERCIAL MODAS LT  D  A PROCESSO SEI E-15/003/100635/2018-SOLDI PROMOTORA DE VENDAS LTDA PROCESSO SEI E-15/003/100625/2018-GLOBAL DISTRIBUICAO DE BENS DE CONSUMO LTDA. PROCESSO SEI E-12/132273/2010-BCP S/A PROCESSO SEI E-15/003/380/2018-VESTE S.A ESTILO PROCESSO SEI E-24/004/6877/2014-BANCO BMG S.A PROCESSO SEI E-24/004/3165/2014-BONOTEL ADMINISTRACAO DE HOTEIS LTDA PROCESSO SEI E-15/003/228/2019-BANCO OLE BONSUCESSO CONSIGNADO S.A PROCESSO SEI E-15/003/378/2017-DROGARIA SAO PAULO S.A PROCESSO SEI E-15/003/385/2018-LIGHT S/A PROCESSO SEI E-15/003/100360/2018-BANCO DO BRASIL SA PROCESSO SEI-220013/000739/2020-MERCADO DE CARNES SAO THIAGO LTDA PROCESSO SEI-220013/000499/2020-MATERIAL MEDICO E ORTOPEDICO DE NOVA IGUACU LTDA ME PROCESSO SEI E-15/003/455/2019-CLASSICOS COMERCIO DE ALIMENTOS LTDA PROCESSO SEI E-15/003/100227/2018-POSTO DE GASOLINA SHOW DE BOLA LTDA PROCESSO SEI E-15/003/371/2019-BANCO SANTANDER (BRASIL) S.A PROCESSO SEI E-24/004/4660/2015-ESPACO VITAL COMERCIO DE BEBIDAS E LANCHES LTDA PROCESSO SEI E-15/003/100945/2018-HORTIGIL HORTIFRUTI S.A PROCESSO SEI E-24/004/6088/2015-CASA VELHA LANCHES LTDA PROCESSO SEI E-12/082/2083/2013-VIP VIDROS INTELIGENTES COMERCIO E INSTALACOES LTDA PROCESSO SEI E-12/131811/2010-REAL LIFE ASSISTENCIA MEDICA PROCESSO SEI E-12/147088/2012-VITALLE SERVICOS E TRANSPORTES LTDA PROCESSO SEI E12/082/720/2013-CAMP HOUSE-COMERCIO DE EQUIPAMENTOS DE SEGURANCA LTDA PROCESSO SEI E-24/004/475/2013-OCEANO AZUL COMERCIO DE ROUPAS LTDA PROCESSO SEI-240002/000446/2022-BANCO BRADESCO S/A PROCESSO SEI-240002/000581/2021-BANCO BRADESCO-S/A PROCESSO SEI E-15/003/374/2019-BANCO BRADESCO-S/A PROCESSO SEI-220013/000455/2021-BANCO BRADESCO-S/A PROCESSO SEI E-15/003/1002/2016-CAFE E BAR POLUX LTDA EPP PROCESSO SEI E-15/003/7/2019-VENBO COMERCIO DE ALIMENTOS LTDA PROCESSO SEI E-24/004/1752/2016-GOL LINHAS AEREAS S.A PROCESSO SEI-220013/001646/2021-SUPERMERCADO RIO SUL LAUREANO LTDA PROCESSO SEI-240002/003880/2022-BANCO AGIBANK S.A PROCESSO SEI E-15/003/461/2017-PIZZARIA DOS JOSEFA LTDA PROCESSO SEI E-22/014/74/2019-SAMSUNG ELETRONICA AMAZONICA LTDA PROCESSO SEI E-24/004/4164/2015-VIVIANI VAZZOLER ME PROCESSO SEI-220013/000650/2021-POSTO DE LUBRIFICACAO VISTA  ALEGRE LTDA EPP PROCESSO SEI-220013/001426/2021-CAIXA ECONOMICA FEDERAL PROCESSO SEI E-15/003/825/2018-PILARES DE MARICA SUPERMERCADO LTDA PROCESSO SEI-240002/003468/2025-COMPANHIA BRASILEIRA DE DISTRIBUICAO-DENNER B. MASCARENHAS BARBOSA-OAB/RJ 220028 PROCESSO SEI-220013/000484/2020-CASAS GUANABARA COMESTIVEIS  LTDA PROCESSO SEI E-15/003/1004/2016-PADARIA E CONFEITARIA CAICARAS LTDA ME PROCESSO SEI E-24/004/1784/2016-GALETO CALA O BICO LTDA ME PROCESSO SEI-220013/001862/2020-BANCO DO BRASIL S/A PROCESSO SEI E-15/003/465/2019-AIRBNB SERVICOS DIGITAIS LT  D  A PROCESSO SEI-220013/000687/2021-POSTO DE ABASTECIMENTO COSTA TROPICAL LTDA PROCESSO SEI E-15/003/80/2017-LT NOVA AMERICA COMERCIO DE ROUPAS E ACESSORIOS LTDA ME PROCESSO SEI-240002/001943/2025-COMPANHIA BRASILEIRA DE DISTRIBUICAO-DENNER B. MASCARENHAS BARBOSA OAB/RJ 220028 PROCESSO SEI-240002/003130/2024-MULTI ANGRA 3 MERCADO LT  D  A PROCESSO SEI-240002/000696/2022-SOL SERVICOS DE INTERMEDIACAO S.A PROCESSO SEI-240002/003475/2022-B2W COMPANHIA DIGITAL PROCESSO SEI-240002/000547/2021-AMIL ASSISTENCIA MEDICA INTERNACIONAL PROCESSO SEI-240002/001589/2025-CORAIS DE COPA RESTAURANTE LTDA PROCESSO SEI E-24/004/3383/2015-LOJAS AMERICANAS S.A. PROCESSO SEI E-15/003/133/2018-VILA GALE BRASIL-ATIVIDADES HOTELEIRAS LTDA PROCESSO SEI-220013/001929/2020-NATURA COMERCIAL LTDA PROCESSO SEI-220013/001096/2021-YELLOW MOUTAIN DISTRIBUIDORA DE VEICULOS LTDA PROCESSO SEI-240002/000846/2021-CVC BRASIL OPERADORA E AGENCIA DE VIAGENS S.A
 
@@ -4132,17 +4132,17 @@ PROCESSO SEI E-12/126443/2008-MULTILASER INDUSTRIAL LTDA PROCESSO SEI E-24/004/2
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 PROCESSO SEI E-24/004/538/2014-KOMMFORT LINE ASSISTENCIA  TECNICA COMERCIAL LTDA
 
@@ -4451,17 +4451,17 @@ Id:  2724291
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## PROCURADORIA GERAL DO ESTADO CENTRO DE ESTUDOS JURÍDICOS
 
@@ -4533,21 +4533,21 @@ Art.  1º  Admitir  os  candidatos  abaixo  relacionados,  aprovados  em Exame d
 
 SEDE: ANA BEATRIZ FERNANDES DE SOUZA ANA CAROLINA DA SILVA LISBOA DA COSTA ANISIA  SAMPAIO DO NASCIMENTO ANNA CAROLINA RODRIGUES CAMILLO PINTO ANTONIO PEDRO MATTOS GONZALEZ BRUNA FONTOURA FELIX CAROLINA DE MORAES SAMPAIO DEBORA RESELS ASHTON EYSHILA CRISTINE FERREIRA DO SÊRRO FELIPE CUMEIRA PAIVA FELIPE SILVA CRUZ FELIPE VIANNA PIMENTEL GOMES GABRIEL FARIA ALBANO GABRIELA DOS SANTOS ALVES TEIXEIRA GABRIELA LIMA CARNEIRO GABRIELLE PRADO CARDOSO GIOVANA SILVA DE AVELAR
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0032/U0036
+26
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 GUILHERME MARONY PORTO NEVES SANTOS HANNY VYCTORIA DA SILVA SANTOS OLIVEIRA JACÓ SENA SOARES DE SOUZA JOÃO PEDRO DE ALMEIDA E SILVA JULIA  SMITH  NASCIMENTO JULIANA LEITE QUINTAN LARISSA BORGES CARDOSO LIZ  VIEIRA  PECLAT LORENZO DORIA PREVATTO LUCIANA COSTA GAMA RODRIGUES LUIZA  LO  FEUDO  DE  SOUZA MARCOS ANTONIO FRAGUITO GONCALVES GAMA MARIA ISABELA SILVA FERREIRA MARIA PAULA DOS SANTOS RAMALHO MATHEUS LUÍS VILLELA HUMMEL DOS SANTOS MATHEUS MARTINS ARAGÃO PONTES MATHEUS TELIS DA COSTA FIDELIS MATHEUS VIANA DE PAULO MÔNICA DE OLIVEIRA PEÇANHA NATAN DE JESUS SOUZA AMORIM RENAN MARTINS DE MENEZES RODRIGO JALLES DE CARVALHO VERAS RYAN DA ROCHA ANDRADE SOPHIA YUMI MACIEL SANO THAIS REIS OLIVEIRA DA SILVA RODRIGUES VALMIR DOMINGOS DOS SANTOS VITORIA PEREIRA CRESCENCIO YCARO THOMAZ RIBEIRO DA COSTA
 
@@ -4617,41 +4617,41 @@ PROCESSO  Nº SEI-140001/002591/2022 -  JULIA SILVA  ARAUJO CARNEIRO, Procurador
 
 PROCESSO  Nº SEI-140001/002591/2022 -  JULIA SILVA  ARAUJO CARNEIRO, Procurador(a) do Estado, ID Funcional n.º 50143808, correspondente  ao  período  de  13/02/2026  a  18/02/2026  (6  dias).
 
-/U0032/U0034
+24
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0035/U0035
+055
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U0032/U0036
+26
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
 PROCESSO  Nº SEI-140001/002591/2022 -JULIA  SILVA ARAUJO CARNEIRO, Procurador(a) do Estado, ID Funcional n.º 50143808, correspondente  ao  período  de  20/02/2026  a  28/02/2026  (9  dias).
 
@@ -4719,17 +4719,17 @@ PROCESSO  Nº  S  E  I  -  1  4  0  0  0  1  /  0  11  9  3  0  /  2  0  2  2 -M
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
 - PROCESSO  Nº  S  E  I  -  1  4  0  0  0  1  /  0  11  9  3  0  /  2  0  2  2 -MARCELO  ROCHA  DE MELLO MARTINS, Procurador(a) do Estado, ID Funcional n.º 19234872, correspondente ao período de 10/02/2026 a 28/02/2026 (19 dias).
 - PROCESSO Nº SEI-140001/003222/2022 -MARCELO SANTINI BRANDO, Procurador(a)  do Estado,  ID Funcional n.º  42650208, correspondente  ao  período  de  01/02/2026  a  09/02/2026  (9  dias).
@@ -4923,17 +4923,17 @@ PROC. Nº SEI-140001/044003/2025,  PROC.  Nº  SEI140001/047711/2025,  PROC.  N�
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 PROC. Nº SEI-140001/047786/2025,  PROC.  Nº  SEI140001/088960/2025,  PROC.  Nº  SEI-140001/088984/2025,
 
@@ -5233,17 +5233,17 @@ PROC. Nº SEI-14/001/001319/2019,  PROC.  Nº  SEI140001/052431/2022,  PROC.  N�
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROC. Nº SEI-140001/005526/2022,  PROC.  Nº  SEI14/001/000704/2019,  PROC.  Nº  E-14/001.018860/2018,
 
@@ -5497,19 +5497,19 @@ A  JUNTA DE  REVISÃO FISCAL divulga dados  estatísticos do  bimestre SETEMBRO 
 | Auditor  Tributário  Matrícula  I  II  III  IV  V  Agricio  Ribeiro  Sampaio  de  Menezes  0966027-5  44  0  0  0  0  Alexandre  Marcos  Paravizo  0963676-2  55  36  2  0  5  Aline  Coutinho  da  Cunha  0955852-9  44  37  0  0  6  Andre  Oliveira  C.  da  Silva  0294745-5  65  18  1  0  1  Antonio  H.  F.  Coutinho  0294561-6  55  48  0  0  14  Bruno  Velloso  Durão  0943979-5  58  36  1  0  11  Eliane  Pissinatti  B.  da  Silva  0955838-8  58  0  0  0  0  Flavia  Torquetti  Magalhaes  0955804-0  55  27  0  0  2  Francis  Pacheco  Rodrigues  0949518-5  55  29  0  0  4  Gabriela  Berro  Marins  Franco  0955849-5  65  25  0  0  0  Leonardo  F.  O.  Cosenza  0949536-7  54  35  2  0  6  Leonardo  P.  de  Souza  0943989-4  55  31  0  0  9   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U0032/U0036
+26
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 <!-- image -->
 
@@ -5636,17 +5636,17 @@ ONDE SE LÊ:
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 O  B  J  E  TO  : Concessão  de reajuste  pelo IPCA/IBGE no  percentual de 4,44%  sobre  o  valor  dos  serviços , relativos  ao  período  de  12  (doze) meses, conforme previsão  da Cláusula 16.4 do  Contrato nº 001/2024. VA  L  O  R  : O  valor  do  reajuste  é de  R$1.588,32  (um  mil  quinhentos  e oitenta  e  oito  reais  e  trinta  e dois  centavos),  passando  o  valor  do  2º Termo Aditivo  ao  Contrato  n°  001/2024,  de  R$  35.761,92  (trinta  e  cinco  mil setecentos  e sessenta  e um  reais e  noventa e  dois centavos) para  R$  37.350,24  (trinta  e  sete  mil  trezentos  e  cinquenta  reais  e  vinte  e  quatro  centavos).  O  valor  total  do  contrato  nº  001/2024  passa  de R$ 80.926,62  (oitenta mil novecentos  e vinte  e seis reais  e sessenta e  dois centavos)  para  R$ 82.514,94  (oitenta e  dois  mil quinhentos  e quatorze  reais  e  noventa  e  quatro  centavos).
 
@@ -5715,17 +5715,17 @@ o  v.  b  r.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | ITEM  ID  DESCRIÇÃO  UN  QUANT  PREÇO UNITÁ-  RIO  PREÇO TOTAL  1  23390  COLETOR MATERIAL PERFUROCORTANTE,SACOLA INTERNA: COM SACOLA, CAPACIDADE: 13 L, MATE-  RIAL:  PAPELAO  ONDULADO,  MATERIAL  SACOLA:  N/D,  DESCONECTADOR  AGULHA:  N/D,  ACESSORIO:  N/D  Código  do  Item:  6515.066.0004  (ID  -  23390)  MARCA:Fabricante: DESCARBOX  UN  FUNESPOM-5000  R$  5,0900  R$  30.692,70  FUNESBOM-1030  TOTAL= 6030  2  23392  COLETOR  MATERIAL PERFUROCORTANTE,SACOLA  INTERNA:  COM SACOLA,  CAPACIDADE:  7,0 L,  MA-  TERIAL:  PAPELAO  ONDULADO,  MATERIAL  SACOLA:  N/D,  DESCONECTADOR  AGULHA:  N/D,  ACESSORIO:  N/D Código  do  Item:  6515.066.0006  (ID  -  23392)  MARCA:  Fabricante:  DESCARBOX  UN  FUNESPOM- 862 FU-  NESBOM- 340  R$  3,7400  R$  4.495,48  TO  TA  L  =  1  2  0  2  19  150206  DRENO TUBULARES (HOSPITAL),TIPO: TORACICO, MATERIAL: PVC, CALIBRE: 22, FORMA FORNECIMEN-  TO:  UNIDADECódigo do Item:  6515.094.0043  (ID  -  150206)  MARCA:  MEDSHARP  UN  FUNESPOM- 200  R$  3,6100  R$  722,00   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5767,17 +5767,17 @@ SECRETARIA DE ESTADO DE POLÍCIA CIVIL ACADEMIA ESTADUAL DE POLÍCIA SYLVIO TERR
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | STELLA MARIS NEVES NOROES  96  MARIA CRISTINA DE QUEIROZ CAMARGO  82  LILIAN  VILLA  MELO  DE  MOURA  81  CELINO DUTRA E MELLO JUNIOR  74  EDSON JORGE ALEXANDRE DE MOURA  66  ALINE BASTOS CAVALCANTE  64  RAMON CARLOS GALASSO MATHIAS  60  AMANDA CORDEIRO DE SOUZA  55  SILVIA  MARIA  DE  ALVES  NUNES  52  JULIANA SÁ VIANNA DO NASCIMENTO MU-  NIZ  51  ALESSANDRA FERREIRA BARBOSA  49  RAQUEL CARDOZO PEREIRA  47  ALEXANDRA DA SILVA RIBEIRO MELO  46  NAUTILIO OLIVEIRA PEDROZA  45  DANIELE ROSA DE OLIVEIRA  35  DÉBORA MORAES MARQUES  35  TATIANA MARSELHA LINS GARCIA  35  LARISSA BRUM MARQUES FRAGOSO  25  LEANDRO FERREIRA DE SOUZA  25  ARTUR PEREIRA DE OLIVEIRA  21  CAROLINE RIBEIRO BARRETO  15  KAUÃ BARBOSA SANTIAGO LIMA  15  PAULO SICILIANO AIETA  15   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5812,19 +5812,19 @@ SECRETARIA DE ESTADO DE POLÍCIA CIVIL ACADEMIA ESTADUAL DE POLÍCIA SYLVIO TERR
 | NOME  PONTUAÇÃO  MIGUEL ANGELO DUARTE TICOM  177  WILSON LUIZ PALERMO FERREIRA  146  FRANCISCO CHAO DE LA TORRE  127  EUCLIDES DUARTE RAMOS  107  RAPHAEL VAROTTO FERRARI  106  MARCIO GARCIA LIÑARES  103  STELLA MARIS NEVES NOROES  96  RODRIGO CALDAS POLLA  87  BRUNO GILABERTE FREITAS  82  PAULO HENRIQUE GELLI RAMOS  75  FABIO OLIVEIRA LIMA  72  RODRIGO DA SILVA ALVES  70  MARCELO JOSÉ BORDA CARREGOSA  66  RAMON CARLOS GALASSO MATHIAS  56  ALESSANDRA FERREIRA BARBOSA  50  ANA CAROLINA DE MAGALHÃES OTTONI DA  S  I  L VA  50  JULIANA SÁ VIANNA DO NASCIMENTO MU-  NIZ  49  AMANDA CORDEIRO DE SOUZA  45  ALVARO DE OLIVEIRA GOMES  40  MARCOS LOPES DE ARAUJO  40  DOUGLAS MONTEIRO DA ROCHA GONÇAL-  VES DIAS  40  AUGUSTO LAGO GARCIA  35  CYLLFARNEY AMORIM SILVA  35  IASMINY PEREIRA DE OLIVEIRA VERGETTI  35  JULIANA SANTOS THOMPSON BLOISE SER-  RA  35  MARIA LUIZA ARMINIO MACHADO  35   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U0032/U0036
+26
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 | DANIELE ROSA DE OLIVEIRA  25  JARDS MEDEIROS SANTOS  23  ALINE CASTRO BARREO  20  ALANDELON SALVADOR MORAIS MACHADO  17  MARCELLUS MELO NUNES  15  IGOR SILVA MARINHO PINTO  15   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5866,41 +5866,41 @@ SECRETARIA DE ESTADO DE POLÍCIA CIVIL ACADEMIA ESTADUAL DE POLÍCIA SYLVIO TERR
 | NOME  PONTUAÇÃO  RAPHAEL VAROTTO FERRARI  106  PAULO HENRIQUE GELLI RAMOS  75  FRANCISCO CHAO DE LA TORRE  70  THIAGO DE MENDONÇA CAMPOS  36  IASMINY PEREIRA DE OLIVEIRA VERGETTI  35  MARCELLUS MELO NUNES  15   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0033/U0030
+30
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0035
+055
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0032/U0036
+26
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## METODOLOGIA DE INVESTIGAÇÃO DE ROUBOS, FURTOS E R  E  C  E  P  TA  Ç  Õ  E  S
 
@@ -5969,17 +5969,17 @@ OUTRAS METODOLOGIAS (CRIMES CONTRA A FAZENDA PÚBLICA E CONTRA A ADMINISTRAÇÃO
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## FERRAMENTAS ESPECIAIS DE INVESTIGAÇÃO (PRISÕES CAUTELARES)
 
@@ -6064,17 +6064,17 @@ SISTEMAS DE CONTROLE OPERACIONAL - SCO (DELEGADO DE POLÍCIA)
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | RHOXANE ROGERIA TELES DE ARAUJO  106  LUIZ  PAULO  SILVA  FERNANDES  84  CRISTINE DE CARVALHO CAMPOS MAUÉS  83  VINÍCIUS  CARVALHO DO ESPÍRITO SANTO  67  RAQUEL CARDOZO PEREIRA  52  LILIAN  VILLA  MELO  DE  MOURA  50  NATÁLIA ALVES RIBEIRO  46  AMANDA CORDEIRO DE SOUZA  42  ANDRÉA PRUCOLI RODRIGUES  35  EDSON JORGE ALEXANDRE DE MOURA  29  ROBERTO ALVES CORRÊA  29  MICHELINA COLUCCI  25  IGOR FERNANDES PIO DA FONSECA  21   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6094,41 +6094,41 @@ SISTEMAS DE CONTROLE OPERACIONAL - SCO (DELEGADO DE POLÍCIA)
 | NOME  PONTUAÇÃO  MIGUEL ANGELO DUARTE TICOM  191  LILIAN  VILLA  MELO  DE  MOURA  109  JORGE LUIZ RIBEIRO DOS SANTOS  107  ROGERIO LIMA DE SOUZA  96  RHOXANE ROGERIA TELES DE ARAUJO  94  MARCIO GARCIA LIÑARES  89  EDSON JORGE ALEXANDRE DE MOURA  81  STELLA MARIS NEVES NOROES  74  LEANDRO DE SOUSA PONTES  63  VÂNIA MATTOS SALIBA  63  GLORIA JANE PINHEIRO DA SILVA  62  CLÁUDIA BORDINHÃO DE PAIVA TICOM  60  JULIO  CESAR BEZERRA DE ARAUJO  59  MARCELO ROLLIN PINHEIRO  56  RAMON CARLOS GALASSO MATHIAS  55  AMINNE BARBOSA MAIA  55  CRISTINE DE CARVALHO CAMPOS MAUÉS  52  THALITA BOUERES PIEDADE  52  ELIANA SOUZA VAZ SIQUARA  50  BÁRBARA TEIXEIRA DE AGUIAR  48  RAQUEL CARDOZO PEREIRA  47  ARTHUR GIAMPAOLI LUNA  45  JANAINA DE SOUZA VERLY  45  AMANDA CORDEIRO DE SOUZA  44  JULIANA BENTO VIANNA  44  IVI  GABRIELE  SOUZA  CABRAL  43  MARINALVA CARVALHO LEITE  42  CAROLINE DA COSTA FARIA VALLE  42  MARINA GUIDO FERNANDES  40  NATHALIA CORREIA DOS SANTOS  40  DOUGLAS MONTEIRO DA ROCHA GONÇAL-  VES DIAS  40  RAQUEL PINHEIRO ARAGÃO  39  JANEIDE MESQUITA RODRIGUES  37  AMANDA MENDES DAVILA  37  JOÃO PEDRO VIANA CUNHA  36  NATÁLIA ALVES RIBEIRO  36  THIAGO DE MENDONÇA CAMPOS  36  ALEXANDRA DA SILVA RIBEIRO MELO  35  ERICK DE LIMA LEITE  35  JORGE EDUARDO ROCHA SILVA  35  NAUTILIO OLIVEIRA PEDROZA  35  RODRIGO EDUARDO CORREIA SILVERIO  35  ANDRÉA PRUCOLI RODRIGUES  35  CLÁUDIA PAOLA MACCADORO  35  VAGNER DE OLIVEIRA REGO  31  ALESSANDRA DOS SANTOS SILVA  30  ANA CAROLINA DE MAGALHÃES OTTONI DA  S  I  L VA  30  DIRCEU CAMPOS BUZZI  30  LEONARDO BARBOSA CORRÊA  30  MÁRCIA CRISTINA DA SILVA SANTOS  30  GINA MARIA JOSÉ DE AZEVEDO  29  PATRICIA GUIMARÃES FERNANDES  29  REJANE DE ANDRADE BUNHEIRÃO  29  ROBERTO ALVES CORRÊA  29  ALINE MOREIRA DA COSTA REQUEJO  27   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0035
+055
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U0032/U0036
+26
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0033/U0031
+31
 
 | VINÍCIUS  CARVALHO DO ESPÍRITO SANTO  27  DANIELE ROSA DE OLIVEIRA  25  PRISCILA DUARTE DA SILVA  25  CAROLINE RIBEIRO BARRETO  25  EDUARDO BEZERRA COELHO  25  GUILHERME GOMES DE ALMEIDA SERODIO  25  LIDIANE  SOL  DA  SILVA  COSTA  25  VELUMA SILVA SOUZA  24  IGOR FERNANDES PIO DA FONSECA  21  ALINE CASTRO BARREO  20  ALVARO DE OLIVEIRA GOMES  20  RACHEL BRITO LOPES  20  MARCELO DE FIGUEREDO MENDES  20  ADRIANA ARIADNE YEGROS  15  DIEGO DA CRUZ ALEGRIO  15  MICHELINA COLUCCI  15  WALLACE SANTOS DE MELO  15  DANIELLE FELIX GARCIA  10   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6168,41 +6168,41 @@ SISTEMAS DE CONTROLE OPERACIONAL - SCO (DELEGADO DE POLÍCIA)
 | NOME  PONTUAÇÃO  MIGUEL ANGELO DUARTE TICOM  11  4  RAPHAEL VAROTTO FERRARI  106  THIAGO SANTOS LOURES  66   |
 |--------------------------------------------------------------------------------------------------------------|
 
-/U0033/U0032
+32
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0035
+055
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0032/U0036
+26
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 | STELLA MARIS NEVES NOROES  65  RICARDO DO BOMFIM PANTOJA  62  EUGENIO MANUEL FERNANDES RIBEIRO  56  CLAUDIO GOMES DE BRITO  37  ERICK DE LIMA LEITE  35   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6244,17 +6244,17 @@ G  E  O  R  R  E  F  E R  E  N  C  I  A  M  E  N  TO
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## ANÁLISE DE CENÁRIOS
 
@@ -6371,17 +6371,17 @@ OPERADOR DE FUZIL POLICIAL
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | RYAN DE MELLO SANTOS  30  SAULO VITAL DA CONCEIÇÃO  30  RAMON LUIZ MENEZES DE LAMONICA  30  TASSIO COSTA  30  RAPHAEL FERRETI DE SOUZA  26  ROBERTO BOREL DOS SATOS  22  TIAGO VAZ DE SOUZA  21  MARCOS ANTONIO LEANDRO DA SILVA  20  UMBERTO LUIZ BONAVITA  20   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6416,39 +6416,39 @@ TÉCNICAS PREPARATÓRIAS DE AUTO-DEFESA
 | NOME  PONTUAÇÃO  LEANDRO HENRIQUE DE ALMEIDA DA SIL-  VA  227  MARCO AUGUSTO DUARTE TICOM  177  MARCO GARRITANO  125  GUSTAVO LUIZ DA ROCHA SILVA  85  LEONARDO VAZ DE MELLO ROZENTUL  82  RAFAEL FERRAZ DA COSTA  76  MONIQUE MOREIRA PAIVA  75  GUILHERME COELHO LARANGEIRA  73  CLAUDIO AFONSO  69  MARCONE SILVA MENDANHA  69  DIEGO FREDERICO DA SILVA BASTOS  63  RICARDO MITROPOULOS GUTERRES  63   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0032/U0036
+26
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0035
+055
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 | JUAN JASMIN ALMEIDA FARIA  58  PAULO AUGUSTO PEREIRA DA MATTA  57  PATRICIA DE ALMEIDA DA SILVA  56  DIEGO AMBROSIO ALVAREZ  50  JOÃO FRANCISCO FERREIRA LEITE QUA-  RESMA  50  ROBERTO BOREL DOS SATOS  47  SURAYA PIAU CURY  42  RODRIGO BARBOSA VIANNA  28   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6488,17 +6488,17 @@ ABORDAGEM DE PESSOAS E VEÍCULOS
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | HENRIQUE DE OLIVEIRA PACHECO  40  RENATO WAGNER LADEIRA DOS ANJOS  40  THALLES GUIMARAES BOTELHO  40  TYAGO SEVERO  38  BERNARDO TARRAGÓ BONVINI MATHEUS  37  ALBERTO JOSE VANDESTEEN  35  GUILHERME BRAZÃO CABRAL JUNIOR  35  JEAN PIERRE ROSA DA SILVA  35  LEONARDO OLYMPIO DIAS BACKX  35  CARLOS HENRIQUE DA SILVA  33  BRUNO NEVES DA SILVA  30  BRUNO PEREIRA DE ANDRADE FERNAN-  DES  30  GILBERTO CRAVEIRO DE ALMEIDA JUNIOR  30  IGOR SALDANHA DOS SANTOS  30  JOSE GELSON DA SILVA JUNIOR  30  MATHEUS DE MEDEIROS FERREIRA  30  ANDRE LUIS CERQUEIRA NOVAES FERREI-  RA  29  FILLIPE  DA  SILVA  JUSTO  29  LUCAS ALVES TEIXEIRA  20  MARCELO DO CARMO NUNES  20  DIOGO FERREIRA DE BARROS  18   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6545,17 +6545,17 @@ O  B  J  E  TO  : O  ESTADO  reconhece  que  a  CONTRATADA  prestou  forneciment
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | ANDRE LUIS CERQUEIRA NOVAES FERREI-  RA  29  LEANDRO FREITAS DE CASTRO  25  RAPHAEL AMATO SALGADO GASPAR  23  LUCAS ALVES TEIXEIRA  20  MARCELO DO CARMO NUNES  20  PEDRO FERRAZ XAVIER  20  RUBEM SANTOS DE FIGUEIREDO JUNIOR  18  MARCOS PASTANA DE LUGAO  10   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6650,41 +6650,41 @@ Processo  nº  SEI-270002/000733/2024
 
 Id:  2724294
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0033/U0035
+35
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0032/U0036
+26
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0035
+055
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 <!-- image -->
 
@@ -6781,17 +6781,17 @@ Id:  2724207
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE SAÚDE FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO
 
@@ -6899,17 +6899,17 @@ ENSINO MÉDIO Processo  nº  SEI-030001/028778/2026 Stefany  de  Souza  Caldas  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 7-  CENTRO EDUCACIONAL FREIRE CARDOSO - São Gonçalo ENSINO MÉDIO  NA MODALIDADE DE EDUCAÇÃO  DE JOVENS E A  D  U  LTO  S Processo  nº  SEI-030001/026148/2026 Isabelly  Damasceno  da  Conceição  -  2024 Processo  nº  SEI-030001/023593/2026 Rayssa  de  Almeida  Monteiro  -  2024
 
@@ -6975,37 +6975,37 @@ A  COORDENADORIA GERAL  DE  INSPEÇÃO ESCOLAR,  CERTIFICAÇÃO E ACERVO ,  nos 
 
 A  COORDENADORIA DE  INSPEÇÃO  ESCOLAR DA  REGIONAL METROPOLITANA  VI , CONVOCA o  Representante  Legal da  CENTRO DE APERFEIÇOAMENTO PROFISSIONAL EVANDRO RABELLO DE CASTRO,  CNPJ: 34.052.217/0001-67, situado à  Rua Barão de Sertório,  nº  75,  Rio  Comprido,  Município do Rio de Janeiro, Estado do Rio de Janeiro/RJ, mantido  por  ASSOCIAÇÃO BRASILEIRA  DE ODONTOLOGIA,  CNPJ  nº  34.052.217/0001-67, comparecer  às  quintas-feiras de 9:30 à 16:30, na Coordenadoria de Inspeção Escolar Metropolitana  VI, sito  Rua Regente  Feijó, 63,  Centro, Rio  de Janeiro/RJ no prazo de  30 dias, para ciência do processo  de Recolhimento de Acervo  Escolar,  com  entrega  imediata  do  Arquivo  Escolar,  sob  pena de  comunicação  aos  órgãos  competentes  com  vistas  à  adoção  das medidas próprias de responsabilização. Processo nº SEI0  3  0  0 0  1  / 11  4  7  3  5  / 2  0  2  5   .
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0035/U0035
+055
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U0032/U0036
+26
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
 ## RETIFICAÇÃO D.O.  DE  13/03/2026 PÁGINA 38 - 2ª  COLUNA
 
@@ -7053,9 +7053,9 @@ O  DIRETOR DO  COLÉGIO ESTADUAL  GANDHI , Censo  Escolar 33136483, torna  públ
 
 Id:  2724121
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0033/U0037
+37
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA COORDENADORIA DE INSPEÇÃO ESCOLAR METROPOLITANA IV CEJA SENAI PACIÊNCIA
 
@@ -7103,17 +7103,17 @@ DA , Censo Escolar 33067678 -  torna pública a seguinte listagem de concluintes
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 Rodrigues, Jénniffer  Rodrigues Cunha  Ezequiel, João  Gabriel Marins Malafaia,  João Guilherme  Campos Miranda  Neves, Jonas  Cunha de Oliveira, Kamilly  Bastos Figueiredo,  Kauã Henrique  Clemente Felipe, Leidiane Barrozo dos Santos Firmino, Leiliane Maize da Silva de Lima, Letícia Vidal  da Silva,  Lucas Cleisson Souza,  Lucas Couto  da Silva, Marcela  Rodrigues  de Araujo,  Marcia  Teixeira  Frangelli de  Moraes, Maria  Alice  Barrozo Silva,  Maria  Beatris  Batista Duarte,  Maria  Édna dos Santos  de Oliveira, Maria  Eduarda Lemos Medeiros,  Maria Lya dos  Santos, Matheus  Cavalcante  Dominguez, Matheus  Nunes de  Lima,  Milena Bento  da  Silva,  Pamela Gomes da Silva,  Rafael Alves  Vitorino, Rhayane Larice de Jesus  Trindade, Sueli Ferreira Garcia, Ubirajara  Alevato, Valmir  Monteiro,  Vera Antonia  Mathias Huguenin,  Vítor Henrique de Souza do Nascimento,  Vytor Bernardo Alves de Souza, Wanderson Kleiton  Martins de Souza. Diretora:  Luciane Barboza de Souza,  designada no  DOERJ  de  07/07/2025, páginas  47  e 48,  Anexo Único,  Secretária Escolar:  Ana Mara  Assis Barrozo,  designada no DOERJ de  01/08/2013, página  13, 3ª  coluna. Servidores  que autorizaram a publicação:  Marcia Lima de Freitas Rocha,  ID 4326378-0 e Zélia Moreira de Moraes, ID 4326381-0. Processo nº SEI030001/120962/2025.
 
@@ -7427,17 +7427,17 @@ O DIRETOR DA FACULDADE DE CIÊNCIAS MÉDICAS torna  público Id:  2724076
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E  INOVAÇÃO FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
 
@@ -7669,17 +7669,17 @@ Fundamento:  Art.  30,  VI  da  Lei  Federal  nº  13.019/2014.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Turismo
 
@@ -7977,17 +7977,17 @@ FUN  D  A  M  E  N  TO :  Processo  nº  SEI-330003/000919/2025.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
 ## FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEM COORDENADORIA DE AQUISIÇÕES
 
@@ -8095,19 +8095,19 @@ E  OBRAS PÚBLICAS INSTITUTO DE TERRAS E CARTOGRAFIA DO ESTADO DO RIO DE JANEIRO
 
 Termos Administrativos de Reconhecimento de Posse e Moradia TA  R  P  M , de imóveis em  fase de regularização fundiária, pelo Estado do  Rio  de  Janeiro,  através  do  Instituto  de  Terras  e  Cartografia  do  Estado  do  Rio  de  Janeiro  -  ITERJ,  em  favor  dos  destinatários  abaixo relacionados, com  base na Lei (F)  nº 13.465/2017, tendo em  vista o contido  na  Portaria  PRES/ITERJ  nº 195/2019  alterada  pela  Portaria PRES/ITERJ nº 282/2022 e nos Processos Administrativos nº SEI-SEI-
 
-/U002D
+-
 
-/U0032/U0036
+26
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
 330005/000927/2024 e 002200.000219/2026-25 ,  originário do  Município  do  Rio  de  Janeiro,  no  qual  se  processa  a  Reurb:
 

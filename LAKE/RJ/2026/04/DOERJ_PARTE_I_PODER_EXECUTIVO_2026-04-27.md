@@ -120,35 +120,35 @@ Serviço de Atendimento ao Cliente da Imprensa Oficial do Estado do Rio de Janei
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Id:  2730746
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## DESPACHO DO GOVERNADOR EM EXERCÍCIO EXPEDIENTE DE 27 DE MARÇO DE 2026
 
@@ -158,347 +158,79 @@ DE ACORDO. PUBLIQUE-SE
 
 <!-- image -->
 
-/U0033
+3
 
 <!-- image -->
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
-
-<!-- image -->
-
-/U0044/U004F
-
-/U0044/U0045
-
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+RIO
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+DO
 
-/U0044/U004F
+DE
 
-<!-- image -->
-
-/U0044/U004F
-
-/U0052/U0049/U004F
-
-/U0044/U0045
-
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
-
-/U0035
+JANEIRO
 
 <!-- image -->
 
-<!-- image -->
+ESTADO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
-
-/U0044/U004F
-
-/U0052/U0049/U004F
+DO
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+DE
 
-<!-- image -->
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
-
-/U0044/U004F
-
-/U0052/U0049/U004F
-
-<!-- image -->
-
-/U0044/U004F
-
-<!-- image -->
-
-/U0044/U0045
-
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+5
 
 <!-- image -->
 
 <!-- image -->
 
-<!-- image -->
+ESTADO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+DO
 
-/U0044/U004F
-
-/U0052/U0049/U004F
+RIO
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
-
-<!-- image -->
-
-/U0045/U0053/U0054/U0041/U0044/U004F
-
-/U0044/U004F
-
-/U0052/U0049/U004F
+JANEIRO
 
 <!-- image -->
 
-/U0041/U004E/U004F
+ESTADO
 
-/U004C/U0049/U0049
+DO
 
-/U002D
-
-/U004E
-
-/U006F
-
-/U002D
-
-/U0030/U0037/U0032
-
-/U002D
-
-/U0050 /U0041/U0052/U0054/U0045
-
-/U0049
-
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
-
-/U002D
-
-/U0032/U0037
-
-/U0044/U0045
-
-/U0041/U0042/U0052/U0049/U004C
-
-/U0044/U0045
-
-/U0032/U0030/U0032/U0036
+RIO
 
 <!-- image -->
 
-/U0044/U004F
-
-/U0044/U0045
-
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
-
-/U0041/U004E/U004F
-
-/U004C/U0049/U0049
-
-/U002D
-
-/U004E
-
-/U006F
-
-/U002D
-
-/U0030/U0037/U0032
-
-/U002D
-
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
-
-/U002D
-
-/U0050 /U0041/U0052/U0054/U0045
-
-/U0032/U0037
-
-/U0044/U0045
-
-/U0049
-
-/U0041/U0042/U0052/U0049/U004C
-
-/U0044/U0045
-
-/U0032/U0030/U0032/U0036
+DO
 
 <!-- image -->
 
-/U0044/U004F
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
-
-/U0044/U004F
-
-/U0052/U0049/U004F
-
-/U0044/U0045
-
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
-
-<!-- image -->
-
-<!-- image -->
-
-/U0045/U0053/U0054/U0041/U0044/U004F
-
-/U0044/U004F
-
-/U0052/U0049/U004F
-
-<!-- image -->
-
-<!-- image -->
-
-/U0044/U004F
-
-/U0044/U0045
-
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
-
-/U0041/U004E/U004F
-
-/U004C/U0049/U0049
-
-/U002D
-
-/U004E
-
-/U006F
-
-/U002D
-
-/U0030/U0037/U0032
-
-/U002D
-
-/U0050 /U0041/U0052/U0054/U0045
-
-/U0049
-
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
-
-/U002D
-
-/U0032/U0037
-
-/U0044/U0045
-
-/U0041/U0042/U0052/U0049/U004C
-
-/U0044/U0045
-
-/U0032/U0030/U0032/U0036
-
-<!-- image -->
-
-/U0045/U0053/U0054/U0041/U0044/U004F
-
-/U0044/U004F
-
-/U0052/U0049/U004F
-
-<!-- image -->
-
-/U0044/U004F
-
-/U0044/U0045
-
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
-
-<!-- image -->
-
-/U0045/U0053/U0054/U0041/U0044/U004F
-
-/U0044/U004F
-
-/U0052/U0049/U004F
-
-<!-- image -->
-
-/U0041/U004E/U004F
-
-/U004C/U0049/U0049
-
-/U002D
-
-/U004E
-
-/U006F
-
-/U002D
-
-/U0030/U0037/U0032
-
-/U002D
-
-/U0050 /U0041/U0052/U0054/U0045
-
-/U0049
-
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
-
-/U002D
-
-/U0032/U0037
-
-/U0044/U0045
-
-/U0041/U0042/U0052/U0049/U004C
-
-/U0044/U0045
-
-/U0032/U0030/U0032/U0036
-
-<!-- image -->
-
-/U0044/U004F
-
-/U0044/U0045
-
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
-
-<!-- image -->
-
-<!-- image -->
-
-/U0045/U0053/U0054/U0041/U0044/U004F
-
-/U0044/U004F
-
-/U0052/U0049/U004F
-
-<!-- image -->
-
-<!-- image -->
-
-/U0044/U004F
-
-/U0044/U0045
-
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
-
-<!-- image -->
-
-/U0045/U0053/U0054/U0041/U0044/U004F
-
-/U0044/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -506,47 +238,315 @@ DE ACORDO. PUBLIQUE-SE
 
 <!-- image -->
 
-/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+DO
 
-/U0044/U0045
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+<!-- image -->
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+DO
 
-/U002D
+DE
 
-/U0032/U0037
+JANEIRO
 
-/U0044/U0045
+<!-- image -->
 
-/U0041/U0042/U0052/U0049/U004C
+ESTADO
 
-/U0044/U0045
+DO
 
-/U0032/U0030/U0032/U0036
+RIO
 
-/U0031/U0035
+<!-- image -->
+
+ANO
+
+LII
+
+-
+
+N
+
+o
+
+-
+
+072
+
+-
+
+P ARTE
+
+I
+
+SE GUNDA-FEIRA
+
+-
+
+27
+
+DE
+
+ABRIL
+
+DE
+
+2026
+
+<!-- image -->
+
+DO
+
+DE
+
+JANEIRO
+
+ANO
+
+LII
+
+-
+
+N
+
+o
+
+-
+
+072
+
+-
+
+SE GUNDA-FEIRA
+
+-
+
+P ARTE
+
+27
+
+DE
+
+I
+
+ABRIL
+
+DE
+
+2026
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
 
 <!-- image -->
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
+
+RIO
 
 <!-- image -->
 
-/U0044/U004F
+<!-- image -->
 
-/U0052/U0049/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
+
+ANO
+
+LII
+
+-
+
+N
+
+o
+
+-
+
+072
+
+-
+
+P ARTE
+
+I
+
+SE GUNDA-FEIRA
+
+-
+
+27
+
+DE
+
+ABRIL
+
+DE
+
+2026
+
+<!-- image -->
+
+ESTADO
+
+DO
+
+RIO
+
+<!-- image -->
+
+DO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+ESTADO
+
+DO
+
+RIO
+
+<!-- image -->
+
+ANO
+
+LII
+
+-
+
+N
+
+o
+
+-
+
+072
+
+-
+
+P ARTE
+
+I
+
+SE GUNDA-FEIRA
+
+-
+
+27
+
+DE
+
+ABRIL
+
+DE
+
+2026
+
+<!-- image -->
+
+DO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+ESTADO
+
+DO
+
+RIO
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+ESTADO
+
+DO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+SE GUNDA-FEIRA
+
+-
+
+27
+
+DE
+
+ABRIL
+
+DE
+
+2026
+
+15
+
+<!-- image -->
+
+<!-- image -->
+
+ESTADO
+
+DO
+
+<!-- image -->
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
 
 ## Secretaria de Estado da Casa Civil
 
@@ -594,17 +594,17 @@ EXONERAR  UALLACE BARBOSA  DA  SILVA ,  ID FUNCIONAL  Nº 51529360/1, do cargo e
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 EXONERAR  VANDACI ASSIS  DA  FONSECA ,  ID FUNCIONAL  Nº 51522250/1,  do  cargo  em  comissão de  Assessor,  símbolo  DAS-7,  do Núcleo  de  Assistência  Ao  Cidadão  -  Bangu,  da  Coordenação  Geral Dos Núcleos de Assistência Ao Cidadão, da Superintendência de Prevenção e Enfrentamento Ao Desaparecimento de Pessoas e Acesso À Documentação  Básica,  da  Subsecretaria  de Promoção,  Defesa  e  Garantia Dos Direitos  Humanos, da Secretaria de  Estado de Desenvolvimento Social e de Direitos Humanos. Processo nº  SEI-310001/001711/2026.
 
@@ -648,39 +648,39 @@ EXONERAR , com validade a contar de 20 de abril de 2026, CAIO NOGUEIRA GOMES DA 
 
 EXONERAR , com validade a contar de 20 de abril de 2026, CLAYTON LUIZ DE SOUZA GOMES ,  ID  FUNCIONAL Nº 51220687/2, do  cargo  em  comissão  de  Assistente  II,  símbolo  DAI-6,  da  Assessoria de Comunicação, da Secretaria de  Estado de Defesa do Consumidor. Processo  nº  SEI-240001/000246/2026.
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037/U0032
+072
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## APOSTILAS DO SECRETÁRIO DE 22 DE ABRIL DE 2026
 
@@ -722,39 +722,39 @@ PROCESSO Nº SEI-030001/033331/2026 ANA CRISTINA ALENCAR DE SOUZA DA COSTA, ID F
 
 PROCESSO  Nº SEI-030001/026928/2026 -CARLA CASTRO  DE ABREU, ID Funcional 43285953, Professor  Docente I - 18 horas, vín-
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0030/U0037/U0032
+072
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0049
+I
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
 culo 1  (SEEDUC) e Prof  I-Artes Plasticas, matrícula  284.433-0 (Prefeitura  Rio).
 
@@ -836,17 +836,17 @@ INÍCIO: 10h  e  50min. TÉRMINO: 12h  e  50min.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## PRESIDÊNCIA: Rodrigo  Viana  da  Cunha.
 
@@ -1170,41 +1170,41 @@ Rio  de  Janeiro,  15  de  abril  de  2026
 
 O CORREGEDOR GERAL DO DEPARTAMENTO DE TRÂNSITO DO ESTADO DO  RIO DE JANEIRO  - DETRAN/RJ , no uso  das atribuições  legais,  e
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0031 /U0039
+1 9
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0037/U0032
+072
 
-/U0049
+I
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 CONSIDERANDO o disposto  no Decreto Estadual nº  7.526/1984 e o que  consta  no  processo  administrativo  SEI-150016/221810/2025.
 
@@ -1314,41 +1314,41 @@ Art.  1º -Instaurar  Sindicância  Punitiva, para  apurar  possível  irregular
 
 Art.  2º -Designar  a  servidora ISABEL  ALVES  DOS SANTOS, Id. Func. nº 5034973-2, para  a  realização  da  Sindicância.
 
-/U0032/U0030
+20
 
-/U002D
+-
 
-/U0030/U0037/U0032
+072
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0037
+27
 
-/U0032/U0030/U0032/U0036
+2026
 
 Art.  3º - O prazo de conclusão das investigações é de 30 (trinta) dias a  contar da  data  da  publicação da  presente  Portaria, conforme  Art. 317,  do  Decreto  nº 2.479/1979.
 
@@ -1446,17 +1446,17 @@ Rio  de  Janeiro,  15  de  abril  de  2026
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## PORTARIA DETRAN-RJ / CORREG Nº 2027 DE 15 DE ABRIL DE 2026
 
@@ -1698,17 +1698,17 @@ Art.  3º -As Oficinas  Credenciadas deverão  executar o  serviço de Atualiza�
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Art.  4º  Durante  a  execução  do  serviço  de  Atualização  de  Tarifa  que trata  este  Capítulo,  as  Oficinas Credenciadas  deverão  recolher  os  lacres, selos  subsequentes e  demais itens  relativos à  anterior verificação.
 
@@ -1778,39 +1778,39 @@ O PRESIDENTE DO INSTITUTO DE PESOS E MEDIDAS DO ESTADO DO RIO DE JANEIRO - IPEM-
 | Processo Administrativo  Contratada  Objeto  Gestor  Fiscais  SEI-150014/000049/2026  Águas  do  Rio  4  SPE  S.A  Prestação  de  Serviço  Fornecimento  de  Água,  Trata-  mento  de  Esgoto  e  Recursos  Hídricos  -  SEDE  Samuel Sodre da Silva,  ID  Funcional  nº  6191088  Marcos  José  Francisco  dos  Santos,  ID  Funcional  nº  50839098  José  Carlos  Ferreira  do  Nascimento,  ID  Funcional  nº  44417306   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0037/U0032
+072
 
-/U0049
+I
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0037
+27
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 -  o  disposto  no  Processo  nº  SEI-150014/000681/2026.
 
@@ -1887,39 +1887,39 @@ Rio  de  Janeiro,  22  de  abril  de  2026
 
 ## KENNEDY MARTINS Presidente
 
-/U0032/U0031
+21
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0037/U0032
+072
 
-/U0049
+I
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0032/U0037
+27
 
 ## Secretaria de Estado de Fazenda
 
@@ -1997,7 +1997,7 @@ Rio  de  Janeiro,  20  de  abril  de  2026
 
 ## PEDRO HENRIQUE PORCIÚNCULA BARRADAS Superintendente  de  Compras  e  Contratos
 
-/U0032/U0030/U0032/U0036
+2026
 
 Id:  2730571
 
@@ -2017,17 +2017,17 @@ A  SUPERINTENDENTE DE  AQUISIÇÕES  E  CONTRATOS DE  TIC DA  SUBSECRETARIA DE  
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 676 DE 09  DE JULHO DE 2024,  bem como o art.  2° da RESOLUÇÃO SEFAZ Nº 815 de 09 DE SETEMBRO DE 2025.
 
@@ -2244,17 +2244,17 @@ Id:  2730716
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Recurso nº 83912 - Processo nº SEI-040039/000770/2023 - Recorrente:  JUNTA DE REVISÃO FISCAL - Interessada: DROGARIAS PACHECO S/A -  Relator: Conselheiro Rodrigo Barreto de Faria  Pinho - DECISÃO: por  unanimidade de votos,  foi negado provimento  ao recurso de ofício,  nos termos do  voto do  Conselheiro Relator. -  Acórdão nº 20439  -  EMENTA: ICMS  -  RECURSO  DE  OFÍCIO. Confirmada  a  decisão  do  julgador  de  Primeira  Instância,  pelos  seus  próprios  motivos  e fundamentos.  RECURSO DE OFÍCIO DESPROVIDO.
 
@@ -2290,19 +2290,19 @@ Recurso  nº 83887.  Processo  nº SEI-040006/014294/2025.  Recorrente:  JUNTA D
 
 Recurso  nº 77573.  - Processo  nº SEI-E-04/211/004066/2020.  - Recorrente: ARLANXEO  BRASIL S/A. -Recorrida:  JUNTA DE REVISÃO FISCAL. -  Relator: Conselheiro  Marcelo Habib Carvalho.  - DECISÃO: Pelo  voto de  qualidade, foi  dado parcial  provimento ao  recurso voluntário,  nos termos  do voto  do Conselheiro  Relator. Vencidos  os Conselheiros Antonio Lopes Caetano  Lourenço e Ricardo Nunes Ramos, que davam total provimento ao recurso. - Acórdão nº 21.186. - EMENTA: ICMS. CRÉDITO INDEVIDO. ENTRADA DE MERCADORIAS. MATERIAL DE USO  E CONSUMO. Produtos objeto  da autuação: amônia, produtos  utilizados no tratamento  de águas (água  industrial e água potável),  em torres  de resfriamento e  no tratamento  de efluentes.  Floculante, querosene,  oxigênio  líquido,  ácido sulfúrico,  GenGard, biodispersante,  alcalinizante,  biocida, inibidor  corrosão,  antiespumante, hidróxido de sódio, hipoclorito de  sódio, sulfato de alumínio, biocida oxidante,  inibidor  corrosão,  biocida  Spectrus. Para  que  um  bem  seja reconhecido  como  insumo,  apto  a  gerar direito  crédito  do  ICMS  pela sua  entrada  no estabelecimento  do  contribuinte,  é necessário  que possua  participação intrínseca  no processo  produtivo,  o que  se dá  ou pela incorporação  ao produto final  ou pelo seu consumo  integral e imediato no  referido processo, requisitos que  decorrem da aplicação do  princípio  da  não-cumulatividade  do  ICMS,  previsto  no  art.  155,  parágrafo 2º, inc. I da CRFB/88, e também são tratados no Parecer Normativo  nº 10/75.  O atendimento  a  esses requisitos  não ocorreu  no presente caso. Conclui-se  que os produtos objeto  da autuação se
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 classificam como  material de  uso ou  consumo na  aplicação mencionada, razão  pela qual,  no momento da  ocorrência dos  fatos geradores, o direito a  crédito somente estaria permitido a partir  de 1º de janeiro  de  2020, nos  termos  do  art.  83, inc.  I  da  Lei nº  2.657/96,  com redação  da  Lei  nº  5.935/11,  estando  correta  a  glosa  efetuada.  Devem ser  excluídos  da  autuação  os  créditos  que  já  foram  objeto  de  discussão em auto de infração lavrado em momento anterior. Adota-se a tabela  demonstrativa resultante  da diligência,  na qual  foram excluídas as  duplicidades.  RECURSO  PROVIDO EM PARTE. AUTO DE INFRAÇÃO PROCEDENTE EM PARTE.
 
@@ -2360,39 +2360,39 @@ Processo  de  Publicação  nº  SEI-20071-001/000011/2020. *NOTA  EXPLICATIVA: 
 
 Id:  2730691
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037/U0032
+072
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE FAZENDA CONSELHO DE CONTRIBUINTES TERCEIRA CÂMARA
 
@@ -2440,17 +2440,17 @@ CONCEDE a JORGE FRANCISCO DE SOUZA ,  na  qualidade  de  VIÚVO  da  ex-segurada
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 5.260/2008, combinado com o art. 14 da Lei 5.260/2008, com validade a contar de 05/09/2025. Processos nº SEI-040014/042384/2025 e SEI040014/042385/2025.
 
@@ -2542,17 +2542,17 @@ Id:  2730627
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 ## Secretaria de Estado de Polícia Militar
 
@@ -2623,41 +2623,41 @@ Gestor: 1°  TEN PM  RG 78.236  FÁBIO ESTEVÃO  BARROS, ID FUNC. 593520-2- UPPM
 
 Art.  2º -É  de  responsabilidade  do Gestor  e  Gestor  Substituto o  pre-
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0032/U0035
+25
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0037/U0032
+072
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0032/U0037
+27
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
 paro,  coordenação, acompanhamento,  conclusão  e demais  atividades gerenciais,  técnicas  e  operacionais  que  compõem  a  celebração  do contrato,  execução do  seu objeto  e  gestão durante  sua vigência,  devendo zelar pelo cumprimento das cláusulas contratuais, cabendo, para  tanto, observar  o  Decreto Estadual  nº 48.817,  de  24 de  novembro de  2023. Firecebimento  de  Notas  Fiscais,  sendo  res-
 
@@ -2753,17 +2753,17 @@ Id:  2730420
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 sição  em  edital  e  em  contrato; X -  determinar  ações  complementares  às  dos  fiscais  do  contrato, quando  verificada a  insuficiência ou  inadequação dos  procedimentos por  eles  empregados,  com  vistas ao  acompanhamento  eficiente  da execução  do  objeto; XI -  promover  o  controle  das garantias  contratuais,  inclusive  no  que se  refere à  juntada  de  comprovante de  recolhimento  e adequação  da sua vigência e do seu valor, bem como nos casos de necessidade de complementação,  assim como  verificar, quando  das contratações  com dedicação exclusiva de  mão de obra, a cobertura  das verbas trabalhistas  e previdenciárias  quando apresentada  na modalidade  seguro garantia; XII -  propor,  formalmente, à autoridade competente, a liberação da garantia  contratual  em  favor  da  contratada  nos  prazos  regulamentares; XIII -documentar  nos  autos  todos os  fatos  dignos  de interesse  administrativo; XIV -  registrar as  informações e  incluir documentos  necessários nos sistemas  informatizados utilizados  pelo Poder  Executivo do  Estado do Rio  de  Janeiro  e  mantê-los  atualizados; XV -  instruir  o  processo  com  informações,  dados,  requerimento  e  manifestação  da  contratada, pertinentes  à  alteração  de valores  do  contrato,  em  razão  de  reequilíbrio  econômico-financeiro,  ou  alteração  do objeto, para acréscimo ou supressão, com posterior análise fundamentada  e  encaminhá-lo  à  autoridade  superior  para  decisão;
 
@@ -2900,17 +2900,17 @@ Id:  2730727
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 ROGERIO  MAGNO  GOMES  DOS  SANTOS, Subtenente  PM  RG 71.795, do  QP-1/Q-I, praça de 08.12.2000,  com mais de 31  anos de serviço, a contar de 23/02/2026. Processo nº SEI-350025/009840/2026.
 
@@ -2961,19 +2961,19 @@ PROCESSO Nº SEI-350010/014027/2024 SUBTENENTE PM RR RG 59.605 JARDEL  REZENDE D
 
 Id:  2730562
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0037
+27
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 PROCESSO  Nº SEI-350019/009655/2026 -  AUTORIZO , em  conformidade com o  Art. 1º, do Decreto nº  44.2 51, de 17 de  junho de 2013, e  Resolução  SEPM  nº  12,  de  28  de  janeiro  de  2019.
 
@@ -3041,41 +3041,41 @@ Id:  2729796
 
 PROCESSO  Nº  SEI-350006/002081/2026 - CONCEDE ao  encarregado do  Processo Administrativo  Sancionatório de PORTARIA  SEPM º 001 de 24 de fevereiro de 2026, o SD PM RG 110.753 Alessandra da Silva  Conceição  de  Melo,  da  DLC, 30  (trinta)  dias  de  prorrogação  de prazo,  a  contar  do  dia  23/04/2026, para  conclusão  dos  trabalhos  do referido  PAS. Id:  2730697
 
-/U0032/U0038
+28
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0037/U0032
+072
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0032/U0037
+27
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR DIRETORIA DE LICITAÇÕES E CONTRATOS
 
@@ -3156,17 +3156,17 @@ O SECRETÁRIO  DE ESTADO DE  POLÍCIA CIVIL , no uso  das atribuições  legais,
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
 belecendo  que a  presidência e  a  secretaria executiva  do Fundo  Estadual de Investimentos  e Ações de Segurança  Pública e Desenvolvimento  Social  -  FISED  são exercidas  alternadamente,  a  cada  dois anos,  pelas  Secretaria  de  Estado  de Polícia  Militar  -  SEPM  e  Secretaria  de  Estado  de  Polícia  Civil  -  SEPOL;
 
@@ -3383,17 +3383,17 @@ Id:  2730602
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL CORREGEDORIA-GERAL
 
@@ -3460,41 +3460,41 @@ A  P  O  S  E  N  TA voluntariamente, ADRIANA  ALMEIDA VERISSIMO, INSPETOR  DE  
 
 Id:  2730557
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0032/U0039
+29
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0030/U0037/U0032
+072
 
-/U0049
+I
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 no  Caput do  artigo  5º da  Emenda Constitucional  Estadual  de n  º 90/2021.  Processo  SEI  -  210001/037791/2026. FIXA os  proventos tendo por  base a última remuneração  integral do cargo  efetivo  e  sendo  reajustado  pela  paridade. Discriminação  das  parcelas: PROVENTO - Lei 6841/2014, c/c a Lei 9436/2021,  e  Lei  9952/2023-------------------------R$  7.676,91 TRIÊNIO -Lei Estadual 1608/1990 -45% -----------------------R$ 3.454,61 GVP - Lei  Estadual  9632/2022  ---------------------------------- R$  1.535,38 Proventos  ------------------------------------------------------------R$  12.666,90
 
@@ -3688,17 +3688,17 @@ PROCESSO Nº SEI-210001/153122/2025- ARQUIVE-SE
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 DE 13.04.2026
 
@@ -3914,17 +3914,17 @@ PROCESSO  N°  SEI-080001/021594/2025 -RECONHEÇO A  DÍVIDA DE  EXERCÍCIO ANTE
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE SAÚDE SUBSECRETARIA DO FUNDO ESTADUAL DE SAÚDE
 
@@ -4042,17 +4042,17 @@ CONCEDO 03 (três) meses de  licença prêmio aos servidores, de acordo  com os 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 plantão,  cessando todo  e qualquer  licenciamento na  data desta  publicação.  Processo  nº  SEI-080001/012965/2026.
 
@@ -4095,17 +4095,17 @@ CONCEDO 03  (três)  meses  de  licença  prêmio  aos  servidores,  de  acordo 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | SEI  E-01/152069/2002  AIRTON MARQUES ALVES  AUXILIAR OPER SERV SAUDE  30407583  15/01/2021  A  20/01/2026  SEI  E-08/602465/2011  MICHELLE BARRETO SANTOS  AUX. ENFERMAGEM  30889456  21/10/2020  A  08/01/2026  SEI  E-08/600836/2003  RENATA CAMPOS VELASQUE  F  I   S  I  O  T  E  R  A  P  E  U  TA  30080053  17/02/2021  A  15/02/2026  SEI  E-08/602506/2001  NAILA RANGEL DE OLIVEIRA ARAUJO (INATIVA)  MEDICO  20359055 Vínc.  02  13/04/2014  A  11/04/2019  SEI  E-08/603435/1999  SONIA BENAYON  MEDICO  31431534  12/01/2021  A  10/01/2026  SEI  E-08/606337/2010  CRISTIANE OLIVEIRA DA SILVA  ASSISTENTE SOCIAL  42156912  31/07/2020  A  06/08/2025  SEI  E-08/604313/2005  IRENE RIBEIRO SILVA  AUX. ENFERMAGEM  30658950  07/01/2021  A  05/01/2026  SEI  E-08/604209/1998  ROBSON LUIZ FERREIRA LOPES  AUX. ENFERMAGEM  30630568  24/07/2018  A  22/07/2023  SEI  E-08/604917/2006  ELIANE MARTINIANO PARADELA  MEDICO  30279224  31/12/2020  A  29/12/2025  SEI  E-08/30477271  ANA CRISTINA MAGALHAES FERNANDES  PSICOLOGO  30477271  17/11/2020  A  15/11/2025  SEI  E-08/605888/2006  JOSE ROBERTO DA SILVA ROCHA JUNIOR  TEC.  LABORATORIO  31041221  28/10/2016  A  26/10/2021  SEI  E-08/601922/2001  SONIA MARIA GONÇALVES DA SILVA  AUX. ENFERMAGEM  31288553  04/06/2020  A  02/06/2025  SEI  E-08/604053/2004  DENISE GERVAZONI BARBOSA  F  I   S  I  O  T  E  R  A  P  E  U  TA  30293243  26/04/2020  A  01/05/2025  SEI  E-08/601008/1996  EUNICE OLIVEIRA BARBOZA  AGENTE AUX ADMIN SAUDE  30510465  02/02/2021  A  31/01/2026  SEI  E-08/603754/1998  SONIA DE PAULA GONCALVES  AGENTE AUX ADMIN SAUDE  31239072  22/02/2021  A  20/02/2026  SEI  E-08/606341/2006  LUCIMAR DA SILVA  AUX. ENFERMAGEM  3  11  5  9  8  5  0  13/09/2016  A  11/09/2021  SEI  E-08/606119/1996  CLAUDIA MARCOS DA SILVA  ASSISTENTE ADMIN SAUDE  31387713  29/03/2021  A  27/03/2026  SEI  E-08/603872/2004  ANA EMILIA SANTOS CONCEICAO  AUX. ENFERMAGEM  30512867  18/03/2021  A  16/03/2021  SEI  E-08/605840/2010  BRUNO CELSO DE JESUS MOREIRA  ENFERMEIRO  41523733  21/01/2021  A  19/01/2026   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -4318,17 +4318,17 @@ Art. 1º Dispensar o servidor Paulo Roberto dos Santos, ID Funcional nº 4327429
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 sis  e designar  em seu  lugar,  na mesma função, o  servidor Michel  Vicente  Passos  Franco,  ID  Funcional  nº  50344960.
 
@@ -4476,17 +4476,17 @@ PROCESSO Nº  SEI-030001/064363/ 2025 - A  COORDENADORIA DE INSPEÇÃO ESCOLAR  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 CATIVO TIA SANDRA mantida  pelo ESPAÇO EDUCATIVO TIA SANDRA  LTDA-ME-  CNPJ:  32.607.127/0001-60,  localizada  na  Rua  Otávio Salles,  nº  05-Bairro  Campo  Grande-CEP:  23.075-076,  município  do Rio  de  Janeiro/RJ,  referente  a  oferta  do  curso-  ENSINO  FUNDAMENTAL  ANOS INICIAIS  1º  AO  5º  ANO. DEFIRO.
 
@@ -4508,7 +4508,7 @@ PROCESSO Nº  SEI-030036/003841/2021  A  COORDENADORA  GERAL DE INSPEÇÃO ESCOL
 
 PROCESSO Nº  SEI-030001/074199/2025  A  COORDENADORA  GERAL DE INSPEÇÃO ESCOLAR, CERTIFICAÇÃO E ACERVO , nos termos do  § 1º  do  Artigo  29 da  Deliberação  CEE  nº 388/2020, CADASTRA a alteração da Equipe Técnico-Administrativo-Pedagógica - ETAP, da  Instituição  de Ensino  COLEGIO  E  CURSO PROGRESSAO,  mantida  por  CURSO  PROGRESSAO  CAMPO  GRANDE  LTDA,  CNPJ: 21.606.107/0001-58, Endereço: RUA  GREGORIO DA FONSECA, 40, CAMPO GRANDE, RIO DE JANEIRO-RJ. CEP: 23.052-050. Dados da Equipe Técnico-Administrativo-Pedagógica:Diretor(a):  FABIANA COUTO DE SOUSA  TENÓRIO DA SILVA, CPF:  ***.012.**7-47 em subs-
 
-/U0049
+I
 
 tituição a ROSANA MELLO DE ARAUJO, cadastrado pelo: 036.D.63434.158.0243.0421, com vigência a partir de 01/07/2025. Sob o  registro  COOIEMIV.CAD06.004597.2026. DEFIRO.
 
@@ -4544,41 +4544,41 @@ PROCESSO Nº SEI-030001/120772/2025 -  A  COORDENADORIA REGIONAL  DE  INSPEÇÃO
 
 A  COORDENADORIA  GERAL  DE INSPEÇÃO  ESCOLAR,  CERTIFICAÇÃO  E ACERVO,  nos  termos  do Artigo  22  e  58 da  Deliberação CEE nº 388/2020, torna público o PARECER FAVORÁVEL ,  datado  de 01/04/2026,  o  qual autoriza  para  todos  os  fins, o  SISTEMA  PENTÁGONO,  mantido por  COLÉGIO EQUIPE  CASTELINHO LTDA,  CNPJ nº 02.740.193/0002-23,  localizada na rua  Barão de Salusse,  nº 1933 CEP  26.553-210,  Centro  -  Mesquita/RJ  a  oferta  do(s)  curso(s):  ENSINO  FUNDAMENTAL  DO  1º  AO 9º  ANO  DE  ESCOLARIDADE  com capacidade  máxima  de matrículas  de  416  alunos, distribuída  em  02
 
-/U0033/U0036
+36
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0041/U004E/U004F
+ANO
 
-/U0030/U0037/U0032
+072
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 (dois)  turnos  de  funcionamento,  com eficácia  a  partir  de  01/04/2026. Ficam  convalidados os  estudos  dos alunos  matriculados no  período de  05/02/2024  a  31/03/2026,  conforme  Artigo  58,  §  3º,  alínea  "a".  Regimento Escolar  registrado sob  o nº  10426 LIVRO  B -  131, DE 21/11/2024;  11047  LIVRO B  -  135  FLS  280/286 DE  04/03/2026  CARTÓRIO DO  2º OFÍCIO DE MESQUITA/RJ.  Laudo Conclusivo emitido em  01/04/2026 pelos servidores: Rosimara Carvalho Peixoto, ID. 04368337-1;  Aldinei Ferreira  Cardozo,  ID.  04275976-5; Vanessa  do Nascimento  Iglesias  e  Souza,  ID.  04370051-9.
 
@@ -4648,17 +4648,17 @@ PROCESSO  Nº SEI-030001/035742/2026 -MEIREANE  APARECIDA PEREIRA  DA SILVA  DE 
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 PROCESSO Nº SEI-030001/041470/2026 -  SELMA  REGINA DE  SÃO JOSÉ ADÃO DE SOUZA, Inspetor de Aluno, matricula 0278107-8, ID. Funcional  n°  33048533/1.
 
@@ -4898,17 +4898,17 @@ Id:  2730475
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA DIRETORIA REGIONAL ADMINISTRATIVA - METROPOLITANA V
 
@@ -5127,17 +5127,17 @@ Seção IV
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 - Art.  14. O  órgão  deve  definir quais  são  suas atividades  críticas,  com o  objetivo de  subsidiar  a elaboração  de um  Programa  de Continuidade  de Negócios  que identifique  processos  críticos, avalie  impactos de  interrupções, bem  como desenvolva  planos de  resposta e  recuperação. O  programa deverá definir  responsabilidades, testes periódicos  e atualizações constantes,  além de  assegurar que os  ativos tecnológicos  possuam redundância  suficiente para  operar continuamente  em  situações  disruptivas.
 - §  1º  A  definição  clara  de  responsabilidades  para  a  execução dos  planos  de resposta  e  recuperação,  bem como  um  plano de comunicação  robusto que  estabeleça os fluxos  de informação e os responsáveis pela comunicação interna e externa em caso de falha.
@@ -5324,17 +5324,17 @@ PROCESSO N° SEI-030002/009084/2024 - INDEFIRO o  Recurso Hierárquico interpost
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - unidade de  lotação, respeitando  o processo de  controle de acesso  regulamentado  pela  ASSTIC;
 - V  Responsabilizar-se  pelos  acessos realizados  com seu login , uma vez que  essa credencial é  única, pessoal  e intransferível;
@@ -5410,41 +5410,41 @@ Rio  de  Janeiro,  17  de  abril  de  2026
 
 V  I  C  TO  R  POUBEL Diretor-Geral  -  DEGASE
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0037/U0032
+072
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0033/U0039
+39
 
 Art.  50. A  Política de Segurança da  Informação deverá ser revisada ou ratificada sempre que necessário, não excedendo o  período  máximo  de  2  (dois)  anos. Art.  51. Os  casos omissos e as dúvidas  sugeridas na aplicação desta Política serão solucionados pelo Diretor Geral do DEGASE. Art.  52. Esta  portaria  entra  em  vigor  na  data  de  sua  publicação.
 
@@ -5605,17 +5605,17 @@ Art. 2 º  Instaurar Sindicância,  para apurar possível  irregularidade objeto
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 a contar da  data da publicação da presente  Portaria, conforme artigo no  317,  do  Decreto  nº  2.479/79.
 
@@ -5859,17 +5859,17 @@ Id:  2730721
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 procedimentos relativos ao Pregão Eletrônico CENTRAL-RJ nº PE0001/26, cujo  objeto consiste em  Contratação de Serviço  de Instalação de  Aros para as Rodas  dos Bondes de Santa  Teresa, e ADJUDICO o Objeto  à empresa ALT &amp; RAILTECO RAIL  S/A (CNPJ nº 18.816.049/0001-82),  pelo  valor total  de  R$  945.000,00 (novecentos  e quarenta  e  cinco  mil  reais).
 
@@ -6043,37 +6043,37 @@ Id:  2730608
 
 Id:  2730688
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0049
+I
 
-/U002D
+-
 
-/U0030/U0037/U0032
+072
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 ## Controladoria Geral do Estado
 
@@ -6105,7 +6105,7 @@ Rio  de  Janeiro,  16  de  abril  de  2026
 
 ALLAN COSTA DOS REIS Corregedor-Geral  do  Estado
 
-/U0032/U0030/U0032/U0036
+2026
 
 Id:  2730666
 
@@ -6154,17 +6154,17 @@ PORTARIA PRODERJ/PRE Nº 1.422 DE 01 DE ABRIL DE 2026 ALTERA E CONSOLIDA A COMIS
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 Processo  nº  SEI-12/211/000059/2019: Onde se  lê: I -  Gestor: Rafaela Pinheiro  de Castro, ID  Funcional n° 4  4  11  8  0  5  -   3  ; Leia-se: I -  Gestor: Rafaela  Pinheiro de  Castro, ID  Funcional n° 4  4  11  8  9  5  -   3  ;
 
@@ -6354,17 +6354,17 @@ O CONSELHEIRO - PRESIDENTE DA AGÊNCIA REGULADORA DE ENERGIA  E  SANEAMENTO  BÁ
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## CONSIDERANDO:
 
@@ -6392,37 +6392,37 @@ RAFAEL CARVALHO DE MENEZES Conselheiro-Presidente Id:  2730568
 
 <!-- image -->
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0030/U0037/U0032
+072
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
 ## Secretaria de Estado de Habitação de Interesse Social
 
@@ -6504,21 +6504,21 @@ PROCESSO Nº SEI-140001/089617/2025, PROCESSO Nº SEI140001/044306/2025,  PROCES
 
 PROCESSO Nº SEI-140001/088150/2025, PROCESSO Nº SEI140001/048732/2022,  PROCESSO Nº SEI-140001/002136/2024,
 
-/U0032/U0030/U0032/U0036
+2026
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
 - PROCESSO Nº SEI-140001/049062/2022, PROCESSO Nº SEI140001/007146/2023,  PROCESSO Nº SEI-140001/049077/2022,
 - PROCESSO Nº SEI-140001/089624/2025, PROCESSO Nº SEI140001/007228/2023,  PROCESSO Nº SEI-140001/005591/2024,
@@ -6962,17 +6962,17 @@ Id:  2730705
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE FAZENDA SUBSECRETARIA DE ESTADO DE RECEITA JUNTA DE REVISÃO FISCAL
 
@@ -7025,23 +7025,23 @@ Id:  2730468
 
 I  N  S  T  R  U  M  E  N  TO :  Ata  de  Registro  de  Preços  n°  0006/2026/510100-01. PA  R  T  E  S : SECRETARIA DE ESTADO DE  POLÍCIA MILITAR e a empresa GRANÁ  298 DISTRIBUIDORA DE ALIMENTOS  LTDA, inscrita no  CNPJ  sob  o  nº.  02.768.278/0001-39.
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0034/U0035
+45
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0032/U0037
+27
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
 O  B  J  E  TO :  Registro  de  Preços  para a  eventual  contratação  de  forne- cimento  contínuo  de  água  mineral  envasada  de  1,5L.
 
@@ -7179,37 +7179,37 @@ GESTOR SUBSTITUTO: FELIPE SANTANA POMPEU, ID 44062788 FUNDAMENTO: O constante no
 
 Id:  2729494
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0030/U0037/U0032
+072
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
 ## Secretaria de Estado de Polícia Civil
 
@@ -7234,7 +7234,7 @@ Id:  2730525
 
 PROCESSO Nº SEI-360018/000123/2026
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR DIRETORIA GERAL DE SAÚDE
 
@@ -7260,17 +7260,17 @@ Id:  2730695
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 | CPF  ## NOME  PROCESSO JUDICIAL N°  145.575.857-44  BRUNO GOMES DA SILVA  3001802-52.2026.8.19.0038   |
 |-------------------------------------------------------------------------------------------------------|
@@ -7486,17 +7486,17 @@ Id:  2730597
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## ADMINISTRAÇÃO VINCULADA
 
@@ -7562,25 +7562,25 @@ Id:  2730563
 
 INSTRUMENTO: Contrato  SEEDUC  nº  01/2026 PARTES: O ESTADO DO RIO DE JANEIRO, PELA SECRETARIA DE ESTADO DE EDUCAÇÃO, COM O SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL - SENAI, CNPJ: 03.848.688/0001-52 OBJETO: Prestação de  serviços especializados  de natureza  predominantemente intelectual  para realização  de Formação Técnica  e Profissional  aos  estudantes  da  1ª  série  do  Ensino  Médio  progredindo, gradativamente, a 2ª e 3ª séries em 4 (quatro) unidades escolares selecionadas por esta  Secretaria de Estado de Educação  com o fornecimento  de  Kits  de  Tecnologia  de  Informação  (TI)
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0037/U0032
+072
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U006F
+o
 
 DATA DA ASSINATURA: 03/02/2026 PRAZO: O prazo de vigência da contratação será contado da data de assinatura  do  contrato  até  31  de dezembro  de  2028,  desde  que  divulgado  no  Portal  Nacional  de  Contratações  Públicas DATA  DE DIVULGAÇÃO  NO PNCP  (Portal Nacional  de Contratações  Públicas): 03/02/2026 VALOR: R$ 6.195.441,40  (seis milhões, cento e noventa  e cinco mil quatrocentos  e  quarenta  e  um  reais  e  quarenta  centavos) PROGRAMA DE TRABALHO: 1810.12.363.0443.5623 CÓDIGO DE DESPESAS: 33903998 e 44905238 FONTE DE RECURSOS: 1.500.100 NOTA DE EMPENHO: 2026NE00053 e 2026NE00052 FUNDAMENTO: Lei  nº  14.133,  de  1º  de  abril  de  2021
 
@@ -7772,17 +7772,17 @@ Id:  2704145
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 - OBJETO: Prorrogação excepcional  do  prazo de  vigência do  Contrato SEEDUC  nº  04/2021,  sem  renúncia  de  reajuste,  relativo  à  prestação de serviços  de VIGIA  conforme CBO -  Cadastro Brasileiro  de Ocupações,  de  forma  contínua  nas Unidades  Escolares  (Lote  03),  com fornecimento  de materiais,  equipamentos,  uniformes  e demais  insumos
 
@@ -8120,17 +8120,17 @@ Id:  2730326
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 ## S  E  C  R  E  TA  R  I  A  DE E  S  TA  D  O  DE CIÊNCIA, TECNOLOGIA E I  N  O  VA  Ç  Ã  O FUNDAÇÃO DE APOIO À ESCOLA TÉCNICA
 
@@ -8238,27 +8238,27 @@ Tabela  1  -  candidatos  eliminados  ou  colocados  em  final  de  fila
 | Class.  Nome  Situação  589º  BRUNA DIAS CRESPO  ELIMINADO(A)  121º  NI  SAULO DE TARSO DOS SANTOS  SOUZA  FINAL  DE  FILA   |
 |------------------------------------------------------------------------------------------------------------------------------|
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0032/U0037
+27
 
-/U002D
+-
 
-/U0030/U0037/U0032
+072
 
-/U002D
+-
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
 ## Tabela  2  -  candidatos  convocados
 
@@ -8337,17 +8337,17 @@ SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
 
 O SUPERINTENDENTE DE GESTÃO DE PESSOAS ,  em  conformidade  com  o  Edital do  Concurso  Público  em  epígrafe  e com  o  Processo nº  SEI-260006/010135/2026, resolve  eliminar o(a)  candidato(a) ISAAC NICACIO DA  SILVA, 34º  classificado(a), por  não enviar  a documentação  nos  prazos  e,  em  substituição, CONVOCA o(a)  candidato(a) RICARDO MASCARENHAS DA SILVA JUNIOR ,  35º classificado(a),  na vacância gerada  pelo(a) servidor(a)  Paulo Roberto Lopes  de Souza, matrícula 40.663-7, ID 51281325, conforme EXONERAÇÃO no
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0032/U0030/U0032/U0036
+2026
 
 DOERJ do dia 06/02/2026, pág. 17, col. 03, e portaria 146/SGP/2026.
 
@@ -8427,17 +8427,17 @@ Id:  2730466
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E  INOVAÇÃO UNIVERSIDADE ESTADUAL DO NORTE FLUMINENSE DARCY RIBEIRO
 
@@ -8714,17 +8714,17 @@ do  proponente Instituto  Joias  do  Amanhã
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 IV-  CPF/CNPJ  do  proponente 40.339.510/0001-02 V-  Valor  total  do  projeto (R$) 170.000,00 VI-  Valor  aprovado  para captação  (R$) 170.000,00
 
@@ -8927,39 +8927,39 @@ captação  (R$)
 
 1.363.400,00
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0030/U0037/U0032
+072
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 16 I-  Título  do  projeto ESPECIALMENTE HOJE II-  Número  do  projeto 73985 III-  Nome/Razão  Social do  proponente INSTITUTO MAIS HUMANOS IV-  CPF/CNPJ  do  proponente 17.342.089/0001-77 V-  Valor  total  do  projeto (R$) 248.100,00 VI-  Valor  aprovado  para captação  (R$) 216.100,00
 
@@ -9037,33 +9037,33 @@ captação  (R$)
 
 03 I-  Título  do  projeto FESTU - A Festa do Teatro II-  Número  do  projeto 74075 III-  Nome/Razão  Social do  proponente CMX ASSOCIADOS EIRELI IV-  CPF/CNPJ  do  proponente 13.637.185/0001-91 V-  Valor  total  do  projeto (R$) 1.246.450,00
 
-/U0035/U0031
+51
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0037/U0032
+072
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0037
+27
 
 VI-  Valor  aprovado  para
 
@@ -9071,13 +9071,13 @@ captação  (R$)
 
 1.246.450,00
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0049
+I
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 captação  (R$)
 
@@ -9396,17 +9396,17 @@ nº
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 PA  R  T  E  S  : FUNARJ e  a  EMPRESA  OFICINA DIGITAL  PRODUÇÕES, MARKETING E AGENCIAMENTO DE VIAGENS LTDA O  B  J  E  TO  : A prestação  de  serviços de  apresentação  de show  artístico musical  por SÉRGIO  LOPES, para  uma apresentação  no projeto  'GI- RO CULTURAL', no SALA CECÍLIA MEIRELES em 05.05.2026 PRAZO: 06  (seis) meses,  devendo ser  observada a  sua divulgação no  Portal  Nacional  de  Contratações  Públicas,  sob  pena  de  nulidade. DATA DA ASSINATURA: 20/04/2026. VA  L  O  R  : R$  65.000,00  (sessenta  e  cinco  mil  reais). NOTA DE EMPENHO: 2025NE0498. F  U  N  D  A  M  E  N  TO  : Lei  nº  14.133,  de  1º  de  abril  de  2021.
 
@@ -9635,17 +9635,17 @@ A AGÊNCIA  REGULADORA DE  ENERGIA E  SANEAMENTO BÁSICO DO ESTADO DO RIO DE JAN
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Essa  reunião ocorrerá  no  dia 07  de  maio  de 2026,  às  14h, no  Auditório  da  FIURJ  (Faculdade  Instituto Rio  de  Janeiro),  localizada  na Av.  Rio  Branco,  277  -  4°  andar  -  Centro-Rio  de  Janeiro/RJ.
 
@@ -9741,17 +9741,17 @@ Id:  2730599
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 75  01490  LARISSA GABRIELLA VIEIRA DE LUCENA  50  30  60  90  230  57,5  58  76  01084  LAURA VITORIA DE MORAES ALVES  50  60  30  85  225  56,25  56  77  0  11  3  6  LEONARDO CARNEIRO LIMA  80  55  75  70  280  70  70  78  00376  LEONARDO GOMES QUIRINO CÂMARA  75  100  50  60  285  71,25  71  79  00878  LEONARDO SOUZA SANTOS  25  50  40  95  210  52,5  53  80  02021  LETÍCIA  AUAD  DA  SILVA  50  80  45  67  242  60,5  61  81  02463  LETICIA  SIMOES DE OLIVEIRA GOMES  50  45  50  70  215  53,75  54  82  02121  LETICIA  WALLIER GUIMARAES FERREIRA  40  60  50  70  220  55  55  83  00280  LÍLIAN  CID  SALOMON  55  60  55  75  245  61,25  61  84  0  11  0  0  LÍVIA  DO  COUTO  OLIVIERI  60  60  75  100  295  73,75  74  85  01227  LORENA DE OLIVEIRA SIMÕES E SILVA  50  45  65  80  240  60  60  86  00375  LUAN VITOR GONÇALVES BENTO  45  40  55  62  202  50,5  51  87  00021  LUANA AMBROSIO BEZERRA DOS SANTOS  55  20  80  75  230  57,5  58  88  00494  LUCAS ANDRADE DE CARVALHO SANTOS  30  70  30  75  205  51,25  51  89  00740  LUCAS FERREIRA DE OLIVEIRA  70  20  80  55  225  56,25  56  90  00653  LUCAS FREITAS LETTRÉ  55  40  50  70  215  53,75  54  91  00664  LUÍSA CRISTINA MACHADO RIEKE BORGES  50  35  50  65  200  50  50  92  01986  LUIZA  ANGEL SOARES VIEIRA  70  45  80  55  250  62,5  63  93  02235  LUIZA  FARIA  LIMA  60  55  100  83  298  74,5  75  94  01812  LUIZA  MARANGONI NASCIMENTO SILVA  60  50  45  60  215  53,75  54  95  00631  MARCELO ANTONIO TEIXEIRA FILHO  45  50  45  90  230  57,5  58  96  02192  MÁRCIO HENRIQUE LIMA DA CUNHA  75  85  20  100  280  70  70  97  00230  MARCIO SILVEIRA AZEVEDO  75  60  40  90  265  66,25  66  98  00674  MARIA CÂNDIDA DE CASTRO DO CARMO DIAS  50  40  40  75  205  51,25  51  99  00150  MARIA EDUARDA GUIMARÃES WANDERLEY  75  100  70  100  345  86,25  86  100  00764  MARIA EDUARDA RODRIGUES FONTENELLE  55  55  55  55  220  55  55  101  00330  MARIA PAULA DE ANDRADE LAMOUNIER  25  65  60  65  215  53,75  54  102  01814  MARINA DE OLIVEIRA E CASTRO  50  60  45  90  245  61,25  61  103  01951  MARINA GONÇALVES REIS E SILVA  65  85  70  80  300  75  75  104  01840  MATEUS FERREIRA COELHO AIRES  50  60  40  75  225  56,25  56  105  00806  MATEUS GABRIEL DO NASCIMENTO SOUZA  60  75  65  40  240  60  60  106  02403  MATHEUS FILIPE MODESTO  85  70  75  90  320  80  80  107  00700  MATTHEUS DUARTE ALVES  40  50  75  65  230  57,5  58  108  01562  MAURO MELO DE SOUZA  65  90  70  35  260  65  65  109  01896  MAYARA LOPES DE MELO  80  50  35  80  245  61,25  61  11  0  01926  MELISSA FERREIRA LAFORGUE  50  55  40  75  220  55  55  111  01918  MYLENA SILVA DE CERQUEIRA  65  35  75  65  240  60  60  11  2  02036  OLIVIA  MARIA  CARVALHO RODRIGUES  35  50  35  80  200  50  50  11  3  02482  PAOLA PIZETTA DE OLIVEIRA  50  45  55  75  225  56,25  56  11  4  00971  PATRICIA FERREIRA CARVALHO  55  45  50  96  246  61,5  62  11  5  02447  PATRÍCIA OLIVEIRA DA SILVA  40  50  40  70  200  50  50  11  6  01442  PATRICK LUIZ SAMPAIO DE OLIVEIRA  50  55  40  55  200  50  50  11  7  02042  PAULA STELET ROCHA  60  50  90  75  275  68,75  69  11  8  00896  PEDRO DE GUSSEM BANDEIRA  45  60  70  95  270  67,5  68  11  9  02323  PEDRO HENRIQUE DA SILVA SÁ  50  40  70  60  220  55  55  120  00006  PEDRO HENRIQUE DE LIMA CRUZ CORDEIRO  50  40  45  100  235  58,75  59  121  01783  PEDRO HENRIQUE DIZ DE MATTOS  60  65  75  80  280  70  70  122  00103  PEDRO HENRIQUE MARTINS NUNES  50  20  70  65  205  51,25  51  123  00667  PEDRO IGOR REIS ROMEIRO  55  60  70  80  265  66,25  66  124  00360  PEDRO OCCHIONI LEAL  35  30  55  85  205  51,25  51  125  00884  RAFAEL DE AZEVEDO SOUTO  35  50  85  45  215  53,75  54  126  00100  RAFAEL FREITAS COSTA  55  65  60  75  255  63,75  64  127  01055  RAFAELA ELOISE PINHEIRO MACHADO  65  45  45  95  250  62,5  63  128  00705  RAFAELA HEIDENREICH BUCCI  60  60  60  55  235  58,75  59  129  02108  RAPHAEL GIAMMATTEY MACHADO RICARDO  55  55  80  58  248  62  62  130  00590  RAPHAEL LUIZ RODRIGUES SANTOS  45  45  45  65  200  50  50  131  01381  RAYANNE FERREIRA DE LIMA  35  35  45  100  215  53,75  54  132  02061  RAYANNE NIEMEYER DE CASTRO  30  60  65  60  215  53,75  54  133  00071  RENAN CABRAL GUIMARÃES  70  70  50  85  275  68,75  69  134  00970  RENATA HOLANDA DE SA  50  45  50  65  210  52,5  53  135  00883  RICARDO BORGES DE MENEZES FILHO  40  65  50  60  215  53,75  54  136  00168  SORAYA LOPES CARDOSO  40  50  90  25  205  51,25  51  137  00258  TALLES SANTOS MANHAES  65  20  30  85  200  50  50  138  01785  THIAGO MAGALHÃES REIS DE CARVALHO  45  40  50  75  210  52,5  53  139  00203  THIAGO ROCHA DE LIMA  80  65  100  95  340  85  85  140  00904  THOMAZ MARTINS DE FIGUEIREDO MENDES  25  50  75  80  230  57,5  58  141  01646  VICTOR COUTO MARI  50  40  65  90  245  61,25  61  142  01893  VICTOR FÖLDES GUIMARÃESTELLES  70  85  60  85  300  75  75  143  00090  VICTOR LUIZ DE AZEVEDO VITARI FERREIRO  50  50  50  65  215  53,75  54  144  00910  VINICIUS  DE  MORAES CARVALHO  25  90  50  60  225  56,25  56  145  01810  VÍTOR ALEXANDRE MARTINS DO VALE  35  55  50  75  215  53,75  54  146  00843  VITÓRIA BRANDÃO FERNANDES  70  45  50  80  245  61,25  61  147  00456  VITÓRIA DA SILVA CHAGAS  70  55  25  60  210  52,5  53  148  00881  VITÓRIA DUARTE REGUINE TORRES  40  40  80  90  250  62,5  63  149  02054  VITORIA PEREIRA CRESCENCIO  50  55  65  45  215  53,75  54  150  00131  WELLINGTON SOARES DE LIMA  50  30  60  75  215  53,75  54  151  02389  YASMIN GUAPYASSÚ TEIXEIRA DO NASCIMENTO  45  45  40  95  225  56,25  56   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9763,87 +9763,87 @@ II  -  CANDIDATOS  REPROVADOS:
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 41  00182  30  50  10  0  90  22,5  23  42  00186  15  35  15  40  105  26,25  26  43  00194  50  20  40  10  120  30  30  44  00196  10  10  0  65  85  21,25  21  45  00198  45  0  5  50  100  25  25  46  00199  55  40  15  18  128  32  32  47  00200  15  30  0  15  60  15  15  48  00201  25  15  10  65  11  5  28,75  29  49  00204  30  30  10  10  80  20  20  50  00205  20  60  35  50  165  41,25  41  51  00206  12  30  25  40  107  26,75  27  52  00209  5  50  25  50  130  32,5  33  53  0  0  2  1 1  0  10  10  0  20  5  5  54  00214  45  40  50  55  190  47,5  48  55  00215  40  45  20  0  105  26,25  26  56  00220  30  40  45  47  162  40,5  41  57  00225  15  5  5  13  38  9,5  10  58  00227  10  20  50  50  130  32,5  33  59  00233  20  30  15  15  80  20  20  60  00234  50  25  25  34  134  33,5  34  61  00236  0  10  0  20  30  7,5  8  62  00238  35  20  60  25  140  35  35  63  00243  20  35  30  15  100  25  25  64  00244  5  0  0  0  5  1,25  1  65  00245  20  35  55  15  125  31,25  31  66  00250  35  10  15  20  80  20  20  67  00251  40  60  15  75  190  47,5  48  68  00252  10  20  40  70  140  35  35  69  00254  25  20  10  15  70  17,5  18  70  00255  15  30  10  15  70  17,5  18  71  00256  35  30  20  55  140  35  35  72  00262  40  30  20  10  100  25  25  73  00263  50  35  40  55  180  45  45  74  00265  45  40  30  45  160  40  40  75  00268  35  45  30  70  180  45  45  76  00272  30  0  0  15  45  11  ,  2  5  11  77  00277  25  30  50  60  165  41,25  41  78  00284  25  35  25  60  145  36,25  36  79  00288  20  0  10  0  30  7,5  8  80  00294  55  5  40  45  145  36,25  36  81  00297  30  50  25  30  135  33,75  34  82  00300  0  30  0  15  45  11  ,  2  5  11  83  00302  0  35  25  18  78  19,5  20  84  00317  25  30  0  25  80  20  20  85  00318  35  35  15  40  125  31,25  31  86  00320  50  25  20  45  140  35  35  87  00321  35  25  25  55  140  35  35  88  00327  45  70  40  40  195  48,75  49  89  00334  25  15  40  20  100  25  25  90  00335  15  60  50  55  180  45  45  91  00338  10  10  15  29  64  16  16  92  00340  10  20  15  10  55  13,75  14  93  00345  10  35  20  10  75  18,75  19  94  00347  25  50  20  55  150  37,5  38  95  00348  20  50  15  15  100  25  25  96  00353  35  50  70  15  170  42,5  43  97  00355  0  20  5  15  40  10  10  98  00362  0  20  20  0  40  10  10  99  00363  10  40  25  60  135  33,75  34  100  00364  45  50  30  55  180  45  45  101  00366  10  0  10  40  60  15  15  102  00372  30  20  0  30  80  20  20  103  00378  35  0  10  40  85  21,25  21  104  00392  40  10  55  35  140  35  35  105  00397  25  20  30  60  135  33,75  34  106  00399  0  50  15  45  11  0  27,5  28  107  00401  0  30  15  75  120  30  30  108  00412  0  25  40  30  95  23,75  24  109  00418  55  20  35  50  160  40  40  11  0  00422  50  35  15  42  142  35,5  36  111  00424  50  40  60  45  195  48,75  49  11  2  00425  50  60  20  50  180  45  45  11  3  00430  10  35  0  10  55  13,75  14  11  4  00433  0  50  10  20  80  20  20  11  5  00441  35  30  5  15  85  21,25  21  11  6  00443  5  10  10  20  45  11  ,  2  5  11  11  7  00445  50  20  40  45  155  38,75  39  11  8  00447  65  30  30  45  170  42,5  43  11  9  00448  20  20  5  20  65  16,25  16  120  00449  25  15  20  40  100  25  25  121  00450  20  50  35  60  165  41,25  41  122  00458  50  40  20  55  165  41,25  41  123  00459  5  0  30  0  35  8,75  9  124  00460  50  35  50  60  195  48,75  49  125  00465  10  0  5  19  34  8,5  9  126  00467  30  0  40  26  96  24  24  127  00468  15  35  40  35  125  31,25  31  128  00471  45  15  20  70  150  37,5  38  129  00472  30  40  60  10  140  35  35  130  00476  40  40  15  15  11  0  27,5  28  131  00477  35  0  20  0  55  13,75  14  132  00482  35  10  30  25  100  25  25  133  00483  15  35  50  60  160  40  40  134  00485  30  25  10  30  95  23,75  24  135  00486  40  30  40  55  165  41,25  41  136  00491  0  45  20  30  95  23,75  24  137  00492  30  20  20  10  80  20  20  138  00493  0  15  15  65  95  23,75  24  139  00496  5  50  35  60  150  37,5  38  140  00499  10  10  5  15  40  10  10  141  00502  25  30  15  20  90  22,5  23  142  00503  35  35  40  55  165  41,25  41  143  00505  60  20  40  55  175  43,75  44  144  00507  35  35  5  15  90  22,5  23  145  00508  5  0  0  15  20  5  5  146  00515  65  40  30  0  135  33,75  34  147  00516  25  20  40  50  135  33,75  34  148  00517  0  0  40  20  60  15  15  149  00519  50  40  30  50  170  42,5  43  150  00521  40  50  30  65  185  46,25  46  151  00522  50  30  70  30  180  45  45  152  00528  20  55  0  65  140  35  35  153  00531  30  65  40  40  175  43,75  44  154  00532  55  40  45  15  155  38,75  39  155  00533  20  45  40  42  147  36,75  37  156  00536  50  30  35  34  149  37,25  37  157  00538  10  30  35  50  125  31,25  31  158  00539  30  10  0  10  50  12,5  13  159  00540  5  10  15  10  40  10  10  160  00542  30  25  20  30  105  26,25  26  161  00544  5  20  25  0  50  12,5  13  162  00545  35  70  20  40  165  41,25  41  163  00549  5  40  15  55  11  5  28,75  29   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0035/U0036
+56
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037/U0032
+072
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 164  00550  50  0  60  65  175  43,75  44  165  00553  20  35  45  70  170  42,5  43  166  00559  30  10  15  35  90  22,5  23  167  00560  50  30  10  10  100  25  25  168  00562  10  0  5  10  25  6,25  6  169  00564  15  40  5  40  100  25  25  170  00571  18  10  15  40  83  20,75  21  171  00572  0  0  5  0  5  1,25  1  172  00574  43  15  5  40  103  25,75  26  173  00577  20  30  30  30  11  0  27,5  28  174  00581  25  20  15  40  100  25  25  175  00586  10  30  15  15  70  17,5  18  176  00594  20  35  5  10  70  17,5  18  177  00595  10  10  5  20  45  11  ,  2  5  11  178  00603  0  15  0  40  55  13,75  14  179  00605  10  0  5  10  25  6,25  6  180  00606  25  40  10  55  130  32,5  33  181  00613  0  0  5  10  15  3,75  4  182  00624  40  20  50  30  140  35  35  183  00626  25  50  55  35  165  41,25  41  184  00627  25  0  20  38  83  20,75  21  185  00635  0  5  15  27  47  11  ,  7  5  12  186  00637  10  0  0  37  47  11  ,  7  5  12  187  00642  60  55  35  41  191  47,75  48  188  00643  20  20  45  40  125  31,25  31  189  00647  40  35  50  43  168  42  42  190  00649  10  5  5  5  25  6,25  6  191  00654  5  45  0  15  65  16,25  16  192  00656  20  15  35  35  105  26,25  26  193  00657  35  10  45  5  95  23,75  24  194  00658  20  45  35  60  160  40  40  195  00662  30  55  50  45  180  45  45  196  00665  45  20  55  55  175  43,75  44  197  00668  10  40  50  70  170  42,5  43  198  00670  5  10  25  20  60  15  15  199  00677  35  0  45  10  90  22,5  23  200  00686  20  30  40  35  125  31,25  31  201  00687  45  5  10  30  90  22,5  23  202  00689  10  25  25  10  70  17,5  18  203  00691  40  30  35  10  11  5  28,75  29  204  00693  0  5  35  55  95  23,75  24  205  00695  20  70  15  20  125  31,25  31  206  00696  25  10  10  5  50  12,5  13  207  00697  50  40  20  55  165  41,25  41  208  00698  15  10  15  0  40  10  10  209  00704  0  20  15  20  55  13,75  14  210  00710  30  30  30  10  100  25  25  2  11  00714  25  55  45  50  175  43,75  44  212  00717  0  20  25  5  50  12,5  13  213  00720  0  0  0  15  15  3,75  4  214  00727  50  35  45  0  130  32,5  33  215  00733  10  30  25  30  95  23,75  24  216  00735  20  50  45  30  145  36,25  36  217  00737  35  15  35  30  11  5  28,75  29  218  00739  0  20  30  25  75  18,75  19  219  00741  20  0  20  10  50  12,5  13  220  00742  55  60  30  20  165  41,25  41  221  00743  10  35  20  55  120  30  30  222  00750  35  45  20  30  130  32,5  33  223  00752  15  30  15  35  95  23,75  24  224  00762  5  10  15  10  40  10  10  225  00763  0  10  5  15  30  7,5  8  226  00766  20  45  40  45  150  37,5  38  227  00778  0  5  0  12  17  4,25  4  228  00800  50  20  25  50  145  36,25  36  229  00804  20  70  30  60  180  45  45  230  00819  50  10  50  30  140  35  35  231  00820  25  30  30  40  125  31,25  31  232  00824  20  35  45  50  150  37,5  38  233  00835  5  25  0  25  55  13,75  14  234  00837  40  35  50  45  170  42,5  43  235  00844  25  30  15  60  130  32,5  33  236  00850  45  30  60  40  175  43,75  44  237  00851  25  10  5  15  55  13,75  14  238  00852  50  0  15  10  75  18,75  19  239  00856  35  30  45  55  165  41,25  41  240  00857  35  20  45  45  145  36,25  36  241  00858  10  0  5  5  20  5  5  242  00859  15  10  10  43  78  19,5  20  243  00862  20  25  10  14  69  17,25  17  244  00865  5  5  25  35  70  17,5  18  245  00871  35  30  50  50  165  41,25  41  246  00872  30  45  35  10  120  30  30  247  00874  20  20  15  40  95  23,75  24  248  00889  50  30  35  15  130  32,5  33  249  00892  10  25  25  30  90  22,5  23  250  00902  45  20  25  65  155  38,75  39  251  00905  40  20  20  15  95  23,75  24  252  00907  25  10  10  14  59  14,75  15  253  00909  60  30  40  35  165  41,25  41  254  00916  10  0  15  10  35  8,75  9  255  00918  20  25  50  40  135  33,75  34  256  00919  30  10  10  5  55  13,75  14  257  00924  0  0  0  30  30  7,5  8  258  00935  20  30  35  51  136  34  34  259  00936  10  45  0  0  55  13,75  14  260  00937  40  10  25  45  120  30  30  261  00938  25  20  10  35  90  22,5  23  262  00941  15  35  15  55  120  30  30  263  00945  0  10  0  0  10  2,5  3  264  00946  30  25  45  25  125  31,25  31  265  00950  30  30  30  60  150  37,5  38  266  00954  0  30  25  35  90  22,5  23  267  00961  40  20  40  54  154  38,5  39  268  00964  20  45  15  15  95  23,75  24  269  00965  35  40  15  50  140  35  35  270  00966  15  45  20  20  100  25  25  271  00972  50  40  15  47  152  38  38  272  00973  25  10  20  20  75  18,75  19  273  00979  40  40  30  30  140  35  35  274  00980  20  30  30  46  126  31,5  32  275  00982  10  5  0  35  50  12,5  13  276  00984  30  30  40  40  140  35  35  277  00985  20  25  50  20  11  5  28,75  29  278  00986  0  20  0  48  68  17  17  279  00988  5  5  5  10  25  6,25  6  280  00992  15  10  5  35  65  16,25  16  281  00997  25  20  35  30  11  0  27,5  28  282  01000  25  40  45  30  140  35  35  283  01014  35  25  50  35  145  36,25  36  284  01016  5  0  20  12  37  9,25  9  285  01018  5  40  25  30  100  25  25  286  01024  35  60  40  60  195  48,75  49   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 287  01025  15  0  65  60  140  35  35  288  01028  0  40  10  5  55  13,75  14  289  01029  20  40  0  15  75  18,75  19  290  01035  20  30  40  10  100  25  25  291  01037  35  45  40  35  155  38,75  39  292  01039  10  30  0  5  45  11  ,  2  5  11  293  01041  35  10  25  5  75  18,75  19  294  01053  45  5  5  10  65  16,25  16  295  01063  20  65  20  43  148  37  37  296  01070  15  30  0  9  54  13,5  14  297  01071  55  10  45  50  160  40  40  298  01075  35  30  45  85  195  48,75  49  299  01076  25  55  50  30  160  40  40  300  01086  30  25  40  46  141  35,25  35  301  01088  65  20  30  25  140  35  35  302  01094  30  20  30  45  125  31,25  31  303  01096  55  10  15  40  120  30  30  304  01099  20  10  5  75  11  0  27,5  28  305  0  11  0  5  0  0  0  0  0  0  0  306  0  11  0  6  15  30  20  40  105  26,25  26  307  0  11  0  7  60  20  20  15  11  5  28,75  29  308  0  111  0  30  30  70  50  180  45  45  309  0  111  2  50  40  20  30  140  35  35  310  0  11  2  4  50  0  30  25  105  26,25  26  3  11  0  11  2  7  15  20  40  25  100  25  25  312  0  11  2  9  30  55  60  30  175  43,75  44  313  0  11  3  0  55  30  35  36  156  39  39  314  0  11  3  1  50  50  25  15  140  35  35  315  0  11  3  2  40  50  25  27  142  35,5  36  316  0  11  3  8  40  50  50  35  175  43,75  44  317  0  11  4  3  20  30  30  55  135  33,75  34  318  0  11  4  5  55  20  40  50  165  41,25  41  319  0  11  5  5  25  50  20  45  140  35  35  320  0  11  6  1  50  10  45  20  125  31,25  31  321  0  11  7  0  25  60  50  55  190  47,5  48  322  0  11  7  8  5  10  10  0  25  6,25  6  323  0  11  8  0  25  10  20  30  85  21,25  21  324  01206  50  25  60  45  180  45  45  325  01207  30  55  30  31  146  36,5  37  326  01209  25  40  25  20  11  0  27,5  28  327  01210  35  60  20  55  170  42,5  43  328  0  1  2  1 1  55  10  50  40  155  38,75  39  329  01212  30  35  20  35  120  30  30  330  01216  10  0  10  7  27  6,75  7  331  01220  15  20  40  30  105  26,25  26  332  01221  20  20  10  35  85  21,25  21  333  01226  10  25  30  46  111  27,75  28  334  01238  40  30  25  30  125  31,25  31  335  01250  5  20  20  30  75  18,75  19  336  01252  15  20  10  35  80  20  20  337  01263  25  40  60  10  135  33,75  34  338  01264  25  30  25  43  123  30,75  31  339  01270  35  55  10  75  175  43,75  44  340  01274  15  0  25  25  65  16,25  16  341  01275  0  25  25  10  60  15  15  342  01280  5  20  20  40  85  21,25  21  343  01288  35  40  20  40  135  33,75  34  344  01299  30  30  50  70  180  45  45  345  01304  0  25  5  15  45  11  ,  2  5  11  346  01305  30  40  60  40  170  42,5  43  347  01313  7  15  5  25  52  13  13  348  01325  15  35  0  60  11  0  27,5  28  349  01327  5  5  20  28  58  14,5  15  350  01330  25  40  35  65  165  41,25  41  351  01335  35  25  15  36  111  27,75  28  352  01336  35  10  20  20  85  21,25  21  353  01339  15  20  20  45  100  25  25  354  01342  35  10  30  20  95  23,75  24  355  01351  10  20  25  35  90  22,5  23  356  01355  5  30  15  15  65  16,25  16  357  01362  40  10  60  61  171  42,75  43  358  01364  20  30  45  15  11  0  27,5  28  359  01367  30  20  10  10  70  17,5  18  360  01377  8  30  15  20  73  18,25  18  361  01380  30  30  35  30  125  31,25  31  362  01384  40  40  35  25  140  35  35  363  01386  50  40  15  62  167  41,75  42  364  01387  20  20  45  25  11  0  27,5  28  365  01395  0  30  0  25  55  13,75  14  366  01401  15  65  25  46  151  37,75  38  367  01404  0  0  15  6  21  5,25  5  368  01406  40  60  30  53  183  45,75  46  369  01412  0  30  5  12  47  11  ,  7  5  12  370  01413  40  10  50  53  153  38,25  38  371  01414  45  10  45  50  150  37,5  38  372  01419  35  25  45  65  170  42,5  43  373  01423  15  0  20  65  100  25  25  374  01429  15  20  50  35  120  30  30  375  01432  0  35  10  50  95  23,75  24  376  01433  10  50  35  5  100  25  25  377  01437  40  30  60  45  175  43,75  44  378  01440  30  10  10  45  95  23,75  24  379  01447  10  0  25  8  43  10,75  11  380  01455  0  15  0  15  30  7,5  8  381  01461  10  55  30  30  125  31,25  31  382  01465  10  25  15  50  100  25  25  383  01466  40  35  65  10  150  37,5  38  384  01467  15  10  5  18  48  12  12  385  01476  50  20  35  35  140  35  35  386  01482  0  0  0  0  0  0  0  387  01484  20  5  25  10  60  15  15  388  01486  35  30  35  60  160  40  40  389  01495  20  35  75  60  190  47,5  48  390  01497  0  0  0  11  11  2,75  3  391  01505  15  25  35  35  11  0  27,5  28  392  01506  40  40  30  60  170  42,5  43  393  01507  10  40  20  50  120  30  30  394  01510  0  10  0  5  15  3,75  4  395  01514  45  15  10  55  125  31,25  31  396  01516  15  20  20  15  70  17,5  18  397  01520  0  10  5  17  32  8  8  398  01521  45  35  25  80  185  46,25  46  399  01524  45  20  35  15  11  5  28,75  29  400  01529  20  20  35  50  125  31,25  31  401  01533  0  20  0  0  20  5  5  402  01534  10  25  10  0  45  11  ,  2  5  11  403  01536  5  20  20  3  48  12  12  404  01538  25  50  40  50  165  41,25  41  405  01541  0  0  25  45  70  17,5  18  406  01542  20  50  25  35  130  32,5  33  407  01548  25  30  35  40  130  32,5  33  408  01551  50  5  15  50  120  30  30  409  01552  15  20  45  72  152  38  38   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9855,17 +9855,17 @@ II  -  CANDIDATOS  REPROVADOS:
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 533  01969  25  45  25  35  130  32,5  33  534  01975  30  50  35  20  135  33,75  34  535  01980  0  15  0  10  25  6,25  6  536  01981  20  5  5  15  45  11  ,  2  5  11  537  01982  0  15  25  26  66  16,5  17  538  01985  10  0  10  15  35  8,75  9  539  01996  40  45  60  20  165  41,25  41  540  01997  35  25  0  40  100  25  25  541  01999  65  35  35  35  170  42,5  43  542  02001  15  45  20  53  133  33,25  33  543  02017  25  20  25  28  98  24,5  25  544  02022  45  20  45  40  150  37,5  38  545  02026  30  15  15  35  95  23,75  24  546  02030  45  35  30  45  155  38,75  39  547  02032  40  15  10  43  108  27  27  548  02033  50  25  25  62  162  40,5  41  549  02039  10  10  5  11  36  9  9  550  02045  35  20  70  60  185  46,25  46  551  02048  15  60  30  64  169  42,25  42  552  02052  50  40  45  25  160  40  40  553  02055  5  25  5  5  40  10  10  554  02057  45  30  30  25  130  32,5  33  555  02058  15  20  5  8  48  12  12  556  02065  30  30  30  50  140  35  35  557  02077  30  30  35  30  125  31,25  31  558  02078  5  10  0  10  25  6,25  6  559  02079  15  30  55  55  155  38,75  39  560  02084  20  0  20  40  80  20  20  561  02088  30  50  25  65  170  42,5  43  562  02090  15  30  10  25  80  20  20  563  02091  18  35  20  55  128  32  32  564  02094  0  0  20  27  47  11  ,  7  5  12  565  02098  5  10  10  20  45  11  ,  2  5  11  566  02099  20  15  15  40  90  22,5  23  567  02101  30  25  25  55  135  33,75  34  568  02122  5  40  15  45  105  26,25  26  569  02125  40  40  45  55  180  45  45  570  02134  25  40  15  35  11  5  28,75  29  571  02138  0  10  35  40  85  21,25  21  572  02139  5  35  15  35  90  22,5  23  573  02143  5  35  5  0  45  11  ,  2  5  11  574  02145  40  25  15  60  140  35  35  575  02146  20  60  25  50  155  38,75  39  576  02147  35  50  25  50  160  40  40  577  02149  10  35  30  10  85  21,25  21  578  02150  0  10  45  65  120  30  30  579  02151  50  50  45  35  180  45  45  580  02154  15  40  10  45  11  0  27,5  28  581  02160  50  20  50  55  175  43,75  44  582  02163  25  0  20  35  80  20  20  583  02164  5  25  55  50  135  33,75  34  584  02165  0  5  0  21  26  6,5  7  585  02171  25  5  60  65  155  38,75  39  586  02174  50  40  25  30  145  36,25  36  587  02175  30  40  25  50  145  36,25  36  588  02179  15  20  40  45  120  30  30  589  02180  35  40  50  50  175  43,75  44  590  02186  45  35  40  25  145  36,25  36  591  02187  5  40  10  0  55  13,75  14  592  02188  50  40  25  30  145  36,25  36  593  02196  45  15  40  25  125  31,25  31  594  02199  30  40  30  45  145  36,25  36  595  02201  15  30  30  20  95  23,75  24  596  02202  50  30  65  35  180  45  45  597  02208  0  0  40  50  90  22,5  23  598  0  2  2  1 1  10  40  30  50  130  32,5  33  599  02216  5  30  5  0  40  10  10  600  02236  15  25  15  32  87  21,75  22  601  02242  33  60  30  60  183  45,75  46  602  02254  10  30  10  25  75  18,75  19  603  02257  10  0  30  0  40  10  10  604  02258  10  0  20  0  30  7,5  8  605  02260  20  20  0  30  70  17,5  18  606  02262  10  25  45  60  140  35  35  607  02263  30  10  50  25  11  5  28,75  29  608  02264  35  40  20  53  148  37  37  609  02265  0  45  35  50  130  32,5  33  610  02266  30  20  35  10  95  23,75  24  6  11  02267  20  65  30  65  180  45  45  612  02274  20  55  65  55  195  48,75  49  613  02275  25  35  60  35  155  38,75  39  614  02277  40  25  40  40  145  36,25  36  615  02281  45  25  20  45  135  33,75  34  616  02286  40  40  30  28  138  34,5  35  617  02287  25  25  20  43  11  3  28,25  28  618  02291  45  20  20  20  105  26,25  26  619  02298  15  20  50  35  120  30  30  620  02303  30  20  30  60  140  35  35  621  02304  10  30  0  30  70  17,5  18  622  02306  30  10  15  0  55  13,75  14  623  02307  25  30  5  30  90  22,5  23  624  02308  35  20  45  45  145  36,25  36  625  02309  25  40  30  63  158  39,5  40  626  02310  10  35  35  55  135  33,75  34  627  02313  25  0  0  0  25  6,25  6  628  02314  10  40  10  20  80  20  20  629  02315  10  10  10  60  90  22,5  23  630  02320  10  0  20  36  66  16,5  17  631  02322  45  30  35  65  175  43,75  44  632  02326  45  30  35  45  155  38,75  39  633  02331  15  50  60  40  165  41,25  41  634  02332  55  40  30  65  190  47,5  48  635  02333  10  10  15  0  35  8,75  9  636  02338  15  20  0  25  60  15  15  637  02340  25  10  20  45  100  25  25  638  02346  15  40  25  50  130  32,5  33  639  02347  55  55  50  30  190  47,5  48  640  02350  40  25  50  60  175  43,75  44  641  02353  10  30  30  25  95  23,75  24  642  02355  30  0  0  20  50  12,5  13  643  02358  45  25  55  60  185  46,25  46  644  02361  30  20  5  28  83  20,75  21  645  02371  20  20  40  30  11  0  27,5  28  646  02373  35  10  10  20  75  18,75  19  647  02374  12  35  5  20  72  18  18  648  02375  50  50  20  50  170  42,5  43  649  02379  10  25  20  32  87  21,75  22  650  02380  25  60  40  30  155  38,75  39  651  02386  30  35  15  40  120  30  30  652  02391  30  50  0  50  130  32,5  33  653  02392  20  10  25  60  11  5  28,75  29  654  02393  50  40  40  16  146  36,5  37  655  02396  35  20  0  5  60  15  15   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

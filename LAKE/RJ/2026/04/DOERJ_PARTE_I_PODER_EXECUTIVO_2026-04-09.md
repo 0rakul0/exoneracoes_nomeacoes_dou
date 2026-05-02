@@ -305,17 +305,17 @@ Deverão ser dirigidas, por escrito, ao Diretor-Presidente da Imprensa Oficial d
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 Art.  3º - O Poder Executivo,  por meio dos órgãos  competentes, será responsável  pela implementação  e  coordenação  da Política  Estadual de  Conscientização, podendo  adotar  medidas,  planos e  programas destinados  à  execução  de  suas  diretrizes, de  acordo  com  a  disponibilidade  orçamentária e  as  prioridades definidas  nas políticas  públicas de  saúde  e  educação,  tais  como:
 
@@ -397,17 +397,17 @@ Id:  2727653
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 PORTARIA SECC/SUPCC Nº 1060 DE 07 DE ABRIL DE 2026
 
@@ -607,17 +607,17 @@ DESIGNA RAPHAEL LOPES  DA  ROSA, Gerente, como  Presidente, ANDREA  LEITE RIBEIR
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 referente  a 'CONTRATAÇÃO  DOS  SERVIÇOS  DE GARANTIA  JUDICIAL  -  LOTE  01:  SEGURO GARANTIA:  SEGURADO  SETOR  PÚBLICO  DEMANDAS  JUDICIAIS/ADMINISTRATIVAS  GERAIS,  REF.  PROCESSO JUDICIAL Nº. 0101097-84.2018.5.01.0058, MOVIDO POR ALCELI DE SOUZA CATOJO. -APÓLICE N.: 0306920239907751034694000  - conforme  Ata  de  Registro de  Preços 001/2023,  autuada no  Processo  SEI-150001/016544/2022 ' - Processo SEI-150001/027018/2023. Contrato CEDAE n°165/2023 (DJU). Revoga a  Ordem de  Serviço P/FIS  n° 31.616-01  de 26  de fevereiro  de 2025. Ordem de Serviço  P/FIS  N°  31.616-02.
 
@@ -807,17 +807,17 @@ Id:  2727243
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 ponsável  (doc.SEI nº126052271), APROVO ,  com  ressalvas, a  prestação  de contas  de adiantamento  em nome  do servidor  Richarles Ramenzoni  da Silva,  Id.  Funcional 5158721-1,  inscrito no  CPF  sob o  nº 095.713.387-10 no valor  de R$11.981,20 (onze mil,  novecentos e oitenta  e um  reais e  vinte  centavos), com  a respectiva  baixa na  responsabilidade  do  servidor.
 
@@ -1046,17 +1046,17 @@ Id:  2727419
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## SECRETARIA DE ESTADO DE FAZENDA FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO DIRETORIA DE SEGURIDADE
 
@@ -1308,17 +1308,17 @@ Id:  2727459
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 12/2026  SEI-040006/010648/2025  Nota  Fiscal  Fatura  Eletrônica  de  Serviços  de  Comunicação  -  NFCom,  modelo  62.  Ajuste  SINIEF  07/2022;  Portaria  Sucief  nº  143/2023.  Livros  VI  e  X  do  RICMS  RJ  -  Decreto  nº  27.427/2000  Anexo  XVI  da  Parte  II  da  Resolução  SEFAZ  nº  720/2014  16/03/2026  13/2026  SEI-040006/040434/2025  Fundo  Orçamentário  Temporário  (FOT)  Lei  nº  8.645/2019  Decreto  nº  47.057/2020  16/03/2026  14/2026  SEI-040006/047492/2025  Aplicação  do  disposto  no  caput  e  no  §7º  do  art.  10  do  Decreto  nº  29.042/2001,  em operações  de  transferência  interestadual  de produtos  industrializados  deriva-  dos  do  leite,  para  estabelecimento  de  mesma  titularidade.  Art.  10  do  Decreto  nº  29.042/2001.  §  4º  do  artigo  12  da  Lei  Complementar  nº  87/1996.  Convênio  ICMS  109/2024;  Decreto  nº  49.566/2025  23/03/2026  15/2026  Recurso  Voluntário  SEI-040006/029638/2025  Aplicabilidade  da  prorrogação  do  benefício  previsto  no  Convênio  ICMS 01/1999  pelo  Convênio  ICMS  78/2025  Convênios ICMS 01/1999 e 78/2025.  16/03/2023  16/2026  SEI-040006/024018/2024  DIFAL-Consumidor  Final  em operações  interestaduais  com mercadorias  do  Pro-  cesso  Produtivo  Básico  - PPB  Inciso  IX  do  artigo  14  da  Lei  2.657/1996;  Lei  Federal  n.º  8.248/1991  23/03/2026  17/2026  SEI-430001/004610/2025  ICMS  - Substituição  tributária  -  Autopeças  -  Aplicação de  margem de  valor agre-  gado  reduzida.  Decreto  nº  27.427/2000  -  Livro  II,  Anexo  I,  Item  7.  Protocolo  ICMS  41/2008.  Lei  nº  6.729/1979.  23/03/2026  18/2026  SEI-040006/005381/2026  ICMS.  Importação.  Diferimento  parcial.  Decreto  nº  46.781/2019.  Decreto  nº  49.595/2025.  30/03/2026  19/2026  SEI-040006/044992/2025  ITD.  Aluguéis  decorrentes  de  períodos  locatícios  posteriores  ao  falecimento.  Lei  nº  1.427/1989.  Lei  nº  7.174/2015.  30/03/2026  20/2026  SEI-040006/030346/2025  ICMS.  Jerked  beef.  Charque.  Cesta  básica.  Decreto  nº  32.161/2002.  Lei  nº  5.172/1966  (CTN).  30/03/2026   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1419,41 +1419,41 @@ Recurso  nº  84.136  (OFÍCIO)  -  Processo  nº  SEI-040006/028238/2025  Recor
 
 Recurso nº 83.395 (VOLUNTÁRIO) -Processo nº SEI040006/019392/2024  -  Recorrente:  MAGAZZINO  DISTRIBUIDORA  DE ALIMENTOS LTDA  - Recorrida:  JUNTA DE  REVISÃO FISCAL  Relatora: Conselheira  Fabia Trope  de Alcantara  Representante  da Fazenda:  Silvia  Faber  Torres.
 
-/U0038
+8
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0033
+063
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U0039
+9
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE FAZENDA CONSELHO DE CONTRIBUINTES TERCEIRA CÂMARA
 
@@ -1495,17 +1495,17 @@ PROCESSO Nº SEI-140001/005752/2022 - RECONHEÇO a dívida  de despesa  de  exer
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº SEI-260007/015953/2023 - RECONHEÇO a dívida  de despesa  de  exercícios  anteriores,  referente  ao  encerramento  de  folha do  ex-servidor, da  SEPM e  UERJ, MOACYR  JOSE DA  COSTA JUNIOR,  no  valor  total  de  R$  3.044,85  (três  mil  e  quarenta  e  quatro reais  e  oitenta  e cinco  centavos),  não  paga  até  então, em  favor  de seus  herdeiros  EULÁLIA BRITO  DA  COSTA,  SANDRO BRITO  DA COSTA e MARCO AURELIO BRITO DA COSTA.
 
@@ -1675,39 +1675,39 @@ Rio  de  Janeiro,  01  de  abril  de  2026
 
 Id:  2727550
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0036/U0033
+063
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0039
+9
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR ATO DO SECRETÁRIO
 
@@ -1872,17 +1872,17 @@ Id:  2727261
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -2057,17 +2057,17 @@ Id:  2727390
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL
 
@@ -2227,39 +2227,39 @@ PROC.  Nº  SEI-360177/000036/2023  ALINE  CASTRO  BARRETO, Oficial  de  Políci
 
 ANOTE-SE para  fins  de  aposentadoria,  o  tempo  de  serviço  de  efetivo exercício  em  atividades  vinculadas  ao  regime  da  Previdência  Social.
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0033
+063
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0039
+9
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 PROC. Nº SEI-360177/000036/2023  ALINE  CASTRO  BARRETO, Oficial  de  Polícia  Civil,  ID  Funcional  n°  4.442.634-8  TORNA  SEM E  F  E  I  TO o  despacho de  09/09/2025, publicado no  DORJ n°  166 de 11/09/2025, a averbação de tempo de serviço de 2.616 dias prestados em atividades ao regime da  Previdência Social, através do processo nº  SEI  360177/000036/2025,  para  regularização.
 
@@ -2293,17 +2293,17 @@ REGULAMENTA  E  DISCIPLINA A  ENTRADA DE ALIMENTOS, MATERIAIS E OBJETOS PERMITID
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 -  o  que dispõe  ainda  o  art.  13 da  Lei  de  Execução Penal,  "o  estabelecimento  prisional  disporá  de  instalações  e  serviços  que  atendam aos  presos nas  suas necessidades  pessoais, além  de locais  destinados a  venda de produtos e  objetos permitidos e não  fornecidos pela Administração.";
 -  a necessidade  de padronizar  e  disciplinar os  procedimentos de  entrega  e recebimento  de materiais,  alimentos e  objetos entregues  na unidade  prisional por  intermédio de  serviços e-commerce  realizados mediante  licitação  e  denominados  como  'cesta  de  custódia'; e
@@ -2383,17 +2383,17 @@ Id:  2727384
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 2.24  LIXA  DE  UNHA  PAPELÃO  10  UNIDADES  2.25  ESMALTE DE UNHA  10  ML  2.26  ÁGUA OXIGENADA 40 VOLUME  70ML  2.27  BATOM LABIAL  UNIDADE  2.28  CREME DEPILATÓRIO  120  G  2.29  BRINCO BIJUTERIA (QUE NÃO ULTRAPASSE O LÓBULO DA ORELHA)  PA  R  2.30  PINÇA PARA DEPILAÇÃO  UNIDADE  2.31  REMOVEDOR DE ESMALTE SEM ACETONA  100  ML  2.32  ALISANTE DE CABELO  80ML  2.33  BASE LÍQUIDA PARA ROSTO  30  ML  2.34  SABONETE EM BARRA  85  g  2.35  ESPONJA PARA MAQUIAGEM  80  g   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2517,17 +2517,17 @@ Art.  1º -Alterar  a  composição da  comissão  para o  acompanhamento, gest�
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 VA  RODOVIA 2007  LTDA EPP,  de  prestação de  serviços de  fornecimento  de refeições  completas  para os  internos  custodiados e  para os  servidores  do  Sistema  Penitenciário  do  Estado  do  Rio  de  Janeiro. Art.  2ºDesignar  KÁTIA  CARDOSO DOS  SANTOS,  ID:  1918198-1, Diretora  da Divisão  de Alimentação,  para a  função de  gestora titular; e  THAIS ALBUQUERQUE  MARTINS,  ID:  5154409-1, Assistente,  para a  função  de  gestora  substituta;  e  a  fiscalização  caberá  aos  servidores de  cada  Unidade,  relacionados  no  Anexo  Único  desta  Portaria; Art. 3ºOs servidores designados no artigo anterior e no Anexo Único desta  Portaria deverão  praticar todos  os atos  concernentes ao  acompanhamento da execução do contrato, além do previsto nos artigos 12 e  13  do  Decreto  Estadual  n.  45.600/2016,  incumbindo-lhe: I -  verificar se  a execução  do contrato está  sendo realizada  em conformidade  com  o  objeto  do  mesmo; II  -  anotar,  em  registro  próprio,  todas  as  ocorrências  relacionadas  com a execução do contrato, determinando  o que for necessário à regularização  das  faltas  ou  impropriedades  observadas; III  -  adotar,  no  limite  de  sua  competência,  as  providências  que  julgar necessárias à  preservação dos  interesses do Estado,  promovendo a atestação  dos  documentos  fiscais  e  praticando  os  demais  atos  indispensáveis à boa e regular  execução do contrato sob sua responsabilidade; IV  -  solicitar  a  seus  superiores,  em  tempo  hábil,  para  a  adoção  das medidas  cabíveis, as  providências  que  ultrapassarem a  competência da  Comissão. Art.  4º -  Esta Portaria  entrará em  vigor na  data de  sua publicação, revogadas as disposições contidas na PORTARIA SEAP SUBADM N.º 599, DE 30 DE JULHO DE 2025, publicada no DOERJ de 11  /  0  8 /  2 0  2  5  .
 
@@ -2744,17 +2744,17 @@ Id:  2727451
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 MARCELO MARQUES  FRAGA -Inspetor  de Policia Penal  ID. 50101544,  Chefe  de  Seção  da  Turma  I; VAGNER  PIRES  DE  SOUZA -Inspetor de Policia Penal -ID. 50279823,  Chefe  de  Seção  da  Turma  II; RODRIGO DE CARVALHO FERNANDES -  Inspetor  de  Policia  Penal  ID.44072627,  Chefe  de  Seção  da  Turma  III; ICARO  ROSSI PEREIRA  DE AMORIM -Inspetor  de Policia  Penal -ID.  50753843,  Chefe  de  Seção  da  Turma  IV.
 
@@ -2830,39 +2830,39 @@ DESIGNA, como Sindicante, o Inspetor de Polícia Penal DIEGO CARNEIRO, ID 515387
 
 Id:  2727423
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0036/U0033
+063
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0039
+9
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 ## SECRETARIA DE ESTADO DE POLÍCIA PENAL CORREGEDORIA GERAL
 
@@ -2948,7 +2948,7 @@ AGREGA ao respectivo  Quadro de  Oficiais do  Corpo de  Bombeiros Militar  do  E
 
 Id:  2727190
 
-/U0031/U0035
+15
 
 Id:  2727422
 
@@ -2956,39 +2956,39 @@ Id:  2727441
 
 Id:  2727515
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0033
+063
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U0039
+9
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE DEFESA CIVIL DESPACHO DO ORDENADOR DE DESPESAS DE 07.04.2026
 
@@ -2998,17 +2998,17 @@ Id:  2727408
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE DEFESA CIVIL SUPERINTENDÊNCIA ADMINISTRATIVA DIRETORIA GERAL DE ADMINISTRAÇÃO E FINANÇAS
 
@@ -3148,17 +3148,17 @@ Id:  2727491
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 Art. 4º -  Os  créditos orçamentários descentralizados não utilizados pelo  executante  serão  devolvidos  à  concedente.
 
@@ -3254,39 +3254,39 @@ PT  2961.10.302.0461.2894  Realização  de  Resgate  Aéreo para  Urgência/Eme
 
 Id:  2727493
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U002D
+-
 
-/U0030/U0036/U0033
+063
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0039
+9
 
-/U0049
+I
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 ND:  3390  Fonte:  1.500.100/1.761.122/  1.500.107 Valor:  R$  1.454.751,89
 
@@ -3434,17 +3434,17 @@ Id:  2727377
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE SAÚDE SUBSECRETARIA DO FUNDO ESTADUAL DE SAÚDE
 
@@ -3556,17 +3556,17 @@ CANDICE  SATHLER CARDOSO ,  Professor  Docente  I, matricula  nº 3.032.597-1,  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 CARLA VANESSA RODRIGUES DOS SANTOS MARTINS ,  Professor Docente  I, matricula  nº  3.058.358-7, ID  Funcional  nº 4253912-9,  sem contato direto e  permanente com aluno, podendo  exercer a regência de turma por período de até 30 dias no trimestre por um prazo de 24 meses, cessando  todo e  qualquer licenciamento  na data  desta publicação.  Processo  nº  SEI-080001/010937/2026.
 
@@ -3612,41 +3612,41 @@ CAMILA VIEIRA FARIAS DE  ALMEIDA ,  Professor  Docente  I,  matricula  nº 3.089
 
 NUBIA CRISTINA VIEIRA ,  Professor  Docente  I,  matricula  nº  957.7230,  ID  Funcional  nº  4379717-2,  sem  esforço  físico,  devendo  manter  atividades pedagógicas através de  ensinamento das regras do desporto e jogos  que desenvolvam  a psicomotricese ou  outras competências, cessando  todo e  qualquer licenciamento  na data  desta publicação. Processo  nº  SEI-030001/014004/2026. ROSANE GREICE DA COSTA GOMES DA SILVA ,  Professor  Docente I,  matricula  nº  3.059.959-1,  ID  Funcional  nº  4437516-6,  sem  contato direto  e  permanente  com  aluno,  podendo exercer a regência de turma por período  de até  30 dias  no trimestre  por um  prazo de  24 meses,
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0031 /U0039
+1 9
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0033
+063
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0039
+9
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 cessando todo  e qualquer  licenciamento na data  desta publicação. Processo  nº  SEI-030001/012970/2026. SYLVANA  DE OLIVEIRA  NASCIMENTO , Professor  Docente I,  matricula nº  829.819-2, ID  Funcional nº 3827612-7,  sem contato  direto e permanente com aluno, podendo exercer a regência de turma por período de até 30 dias no trimestre  por um prazo de 24 meses, cessando  todo  e qualquer  licenciamento  na  data desta  publicação.  Processo  nº  SEI-030001/003120/2026.
 
@@ -3690,39 +3690,39 @@ SELMA  CONCEIÇAO DE  MOURA , Professor  Inspetor Escolar,  matricula  nº956.39
 
 VIVIANA CLAUDINO CHAPETTA ,  Oficial  de  Polícia  Civil,  matricula  nº 888.842-2,  ID  Funcional nº  571122-3,  fora  das diligencias  policiais, serviços leves, em local que não implique em movimentação individual mais  do que  10%do peso  corporal, cessando  todo e  qualquer licenciamento na data desta publicação. Processo nº SEI360229/000036/2023.
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0036/U0033
+063
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0039
+9
 
 ## SECRETARIA DE ESTADO DE SAÚDE CORREGEDORIA- GERAL
 
@@ -3807,17 +3807,17 @@ Id:  2727475
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ## FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO D  I  R  E  TO  R  IA  EXECUTIVA
 
@@ -4003,17 +4003,17 @@ A  SUBSECRETÁRIA  DE  PLANEJAMENTO E  AÇÕES  ESTRATÉGICAS ,  no  uso  de  su
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 -  o  Decreto  n° 45.600  de  16  de  março  de 2016,  que  regulamenta  a gestão  e  a  fiscalização  das  contratações  da  Administração;
 
@@ -4094,19 +4094,19 @@ Id:  2727349
 
 DISPENSA ,  a  pedido, GRAZIELA BAPTISTA MONTECHIARI DE ANDRADE ,  Prof.  Doc.  I,  ID  42537517/2, da  função  de  Agente  de  Pes-
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0039
+9
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 soal  do Núcleo  Simples do  CIEP 308  Pascoal Carlos  Magno, U.A. 118201030505524, Município de Itaboraí,  da Secretaria de Estado de Educação.  Processo  nº  SEI-030001/010109/2026.
 
@@ -4216,17 +4216,17 @@ PROCESSO Nº SEI-030001/069778/2025 ANA MARIA DE OLIVEIRA GUARDIN, Professor Doc
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 tidade Funcional  n° 43236995,  vínculo 1,  matrícula n°  937819-1. FIXADOS os proventos  mensais de inatividade a  contar de 25/11/2025, ficando  esclarecido  que o  inativo  a  quem  se  refere o  presente  título faz  jus a  Proventos  Média equivalente  ao percentual  de  74% da  média aritmética simples das remunerações  a partir da eficácia da aposentadoria,  no  valor  de  R$  2.722,77 (dois  mil  setecentos  e  vinte  e dois  reais  e  setenta  e  sete  centavos) .
 
@@ -4338,17 +4338,17 @@ PROCESSO Nº  SEI-030001/033094/2025 A  COORDENADORA GERAL DE INSPEÇÃO ESCOLAR
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 005.SE.49774.168.196.0419, com vigência a partir de 06/01/2025. Sob o  registro  COIEMI.CAD06.004378.2026. DEFIRO.
 
@@ -4396,41 +4396,41 @@ PROCESSO Nº SEI-030001/093511/2025 - A  Coordenadoria Regional de Inspeção  E
 
 PROCESSO  Nº  SEI-030001/044093/202  A  COORDENADORA  GERAL DE INSPEÇÃO ESCOLAR, CERTIFICAÇÃO E ACERVO , nos ter-
 
-/U0032/U0034
+24
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U0030/U0036/U0033
+063
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U002D
+-
 
-/U0039
+9
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 mos  do §  1º  do Artigo  29  da Deliberação  CEE  nº 388/2020 ,  CADASTRA a alteração da Equipe Técnico-Administrativo-Pedagógica - ETAP, da  Instituição  de  Ensino  Não  possui  nome  fantasia,  mantida  por  CENTRO EDUCACIONAL ESPAÇO INTEGRADO LTDA, CNPJ: 40.293.748/0001-44,  Endereço:  Rua  Professor  Ferreira  Rosa,  150/161, Barra da Tijuca Município do Rio de Janeiro/RJ, CEP: 22.611-230. Dados  da  Equipe  Técnico-Administrativo-Pedagógica:  Diretor(a)  substituto(a):  Sérgio  Ricardo  Abreu,  CPF: ***.6.4.**.-60  em substituição a Cristiane Cavalcanti Cunha Braga, cadastrado pelo: 038.DS.17742.144.0185.0320.,  com  vigência  a  partir  de  01/04/2025. Coordenador(a)  Pedagógico(a):  André  Nepomuceno  Cirilo  da  Silva, CPF: ***.148.**2-2, em substituição a Carla Vitalina Chaves Basso, cadastrado pelo:  038.CP.85319.144.0189.0420., com  vigência a  partir de 01/04/2025.  Sob  o  registro  COOIEMVI.CAD06.004555.2026. DEFIRO.
 
@@ -4492,17 +4492,17 @@ Id:  2727202
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA DIRETORIA REGIONAL ADMINISTRATIVA METROPOLITANA II
 
@@ -4706,17 +4706,17 @@ PROCESSO Nº SEI-260005/012625/2025 - FIXADOS, com validade  a contar  de 23  de
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 identidade funcional nº  20926731, vínculo 1, cargo  de Professor FAETEC  I -  40h,  referência DOC  40HM12,  de  acordo com  o  artigo 4º,  § 1º,  e do  seu §  2º, inciso  I, da  Emenda Constitucional  Estadual nº 90/2021, no valor de R$ 15.648,75 (Quinze mil, seiscentos e quarenta e  oito  reais  e  setenta  e  cinco  centavos).
 
@@ -4852,39 +4852,39 @@ Id:  2727221
 
 PORTARIA  Nº 040/DAF/2026 -SUBSTITUI o servidor FRANCISCO JOSÉ BEZERRA DA SILVA -  mat.  37.427-2,  anteriormente  designado
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0036/U0033
+063
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0039
+9
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 como  fiscal  do  Contrato  nº  79/2022/HURHC,  referente  à  prestação  de serviços de solução continuada  de impressão, cópia e digitalização corporativa  -  estações  digitais  de serviço  (EDS)  departamentais,  integrada  a sistemas  corporativos e  à rede  de dados,  compreendendo a cessão  de direito  de uso  de equipamentos,  incluindo a  prestação de serviços  de  manutenção  preventiva  e  corretiva,  fornecimento  de  peças e  consumíveis necessários  (exceto  papel), assim  como serviços  de gestão, controle e operacionalização  da solução e treinamento, firmado junto  à empresa  DADY ILHA SOLUÇÕES  INTEGRADAS LTDA, pelo  servidor FLAVIO DE  CARVALHO  DE  OLIVEIRA JUNIOR -  mat. 41.763-4.  Esta portaria  entrará em  vigor  na data  de sua  publicação, revogadas as disposições em contrário. Processo n° SEI260007/036593/2022.
 
@@ -4946,17 +4946,17 @@ Ti  t u  l a  r  e  s : JOSÉ ROBERTO MACHADO E SILVA -  UERJ; NÁDIA LIMA DA SI
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA
 
@@ -5190,17 +5190,17 @@ Art.  1º -Considerar  inexistente  qualquer  responsabilidade  da  Concessioná
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 Art. 2º  Determinar  à Secretaria Executiva  - SECEX  que, cumpridas todas as formalidades administrativas necessárias, e ocorrendo o trânsito em julgado  da presente decisão, proceda  ao arquivamento dos autos;
 
@@ -5268,41 +5268,41 @@ Rio  de  Janeiro,  17  de  março  de  2026
 
 MURILO LEAL Conselheiro  Relator CHARLLES BATISTA Conselheiro VICENTE LOUREIRO Conselheiro ADOLPHO KONDER Conselheiro-Presidente Id:  2727211
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0036/U0033
+063
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U006F
+o
 
-/U0039
+9
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0037
+27
 
 AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS CONCEDIDOS DE TRANSPORTES AQUAVIÁRIOS, FERROVIÁRIOS E  METROVIÁRIOS E DE RODOVIAS DO ESTADO DO RIO DE JANEIRO
 
@@ -5450,17 +5450,17 @@ Art.  1º  Oficiar  as  concessionárias  Supervia  e  MetrôRio  para  que,  no
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 envolvidos  na operação;  b) Detalhamento  das ações  de comunicação sonora e  visual a  serem implementadas em  trens e  estações, com prazos para  início; c) Cronograma  para a completa adequação  da sinalização  visual  (adesivagem)  de  todos  os  carros  exclusivos.
 
@@ -5558,9 +5558,9 @@ V  para a  avaliação  das  Unidades  de  Conservação, nos  índices  de Áre
 
 §  2º -Quando  observado  pelo  corpo  técnico  avaliador  qualquer  desacordo com o  estabelecido nesta Resolução e na  Nota Técnica as informações  encaminhadas serão  desconsideradas para  a avaliação, salvo quando se tratar de  itens compartilhados entre Unidades de Conservação.
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 ## CAPÍTULO IV RECURSOS HÍDRICOS Seção I Índice  de  Mananciais  de  Abastecimento
 
@@ -5640,17 +5640,17 @@ Art.  16 -Para a  pontuação relativa à Coleta  Seletiva -Fator  da Reciclagem
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 de coleta seletiva e ratificada  pelo representante legal do órgão responsável  pelo  referido  programa.
 
@@ -5733,41 +5733,41 @@ III  para a pontuação no  item 'Vazadouro  Remediado  com  Termo  de Encerrame
 
 Parágrafo  Único -As informações prestadas no que  se refere ao
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0030/U0036/U0033
+063
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0039
+9
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0032/U0039
+29
 
 cumprimento  das  condicionantes  da  licença ambiental,  bem  como  da qualidade técnica das obras e serviços de remediação de vazadouros, serão discutidas  e validadas  junto ao  INEA e  seus setores  de licenciamento,  fiscalização  e  pós-licença.
 
@@ -5938,17 +5938,17 @@ Parágrafo  Único -Os  Municípios que possuem  a comissão  de implantação e
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 Art.  34 Os  Municípios  que já  possuem  ProMEA implementado  deverão  enviar:
 
@@ -6162,17 +6162,17 @@ Id:  2727517
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DO AMBIENTE E SUSTENTABILIDADE INSTITUTO ESTADUAL DO AMBIENTE
 
@@ -6220,17 +6220,17 @@ Id:  2727518
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
 ## Secretaria de Estado de Desenvolvimento Regional do Interior, Pesca e Agricultura Familiar
 
@@ -6512,17 +6512,17 @@ Id:  2727238
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE ESPORTE E LAZER
 
@@ -6604,39 +6604,39 @@ Art.  3º  Caberá  ao Gestor e aos fiscais da  comissão os atos concernentes  
 
 Art.  4º  O agente  público  responde  civil,  penal  e  administrativamente pelo exercício irregular  das  atribuições  que  lhe  são  confiadas,  estando sujeito  às  penalidades  previstas  nas  normas  em  vigor.
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0036/U0033
+063
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0039
+9
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
 Art.  5º -Esta Portaria  entrará em  vigor na  data da  sua publicação, revogadas  as  disposições  em  contrário.
 
@@ -6733,17 +6733,17 @@ Id:  2727425
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ## CONTROLADORIA GERAL DO ESTADO CORREGEDORIA GERAL DO ESTADO
 
@@ -6928,17 +6928,17 @@ CONSIDERANDO:
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 -  com  base  no  art.  10  e  11  do  Decreto  Estadual  nº  48.817,  de  2023  que versa sobre a gestão  e fiscalização de atos administrativos no âmbito  do  Estado  do  Rio  de  Janeiro;  e -  a  necessidade  de  gestão e  fiscalização,  garantindo  eficiência  dos atos administrativos no âmbito da  Secretaria de Estado de Energia e Economia do Mar.
 
@@ -7014,41 +7014,41 @@ A SUPERINTENDENTE DE ADMINISTRAÇÃO E FINANÇAS DA SECRETARIA  DE  ESTADO  DE  
 
 - Os papéis de integrante demandante e integrante técnico dedetenham  conhecimento sobre contratado,  nos termos do  Decreto  nº  48.650/2023.
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0036/U0033
+063
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0039
+9
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0033/U0035
+35
 
 Art.  4º  Esta  Portaria  entrará  em  vigor  na  data  de  sua  publicação.
 
@@ -7208,17 +7208,17 @@ Id:  2727556
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 ## AUTARQUIA DE PROTEÇÃO E DEFESA DO CONSUMIDOR DO ESTADO DO RIO DE JANEIRO
 
@@ -7480,17 +7480,17 @@ Parágrafo  Único  As  capacitações  e  campanhas  educativas  terão caráte
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 Oficial  de  Campanhas  de Conscientização',  sendo  consideradas  atividade  funcional  relevante.
 
@@ -7684,39 +7684,39 @@ Id:  2727206
 
 Id:  2727525
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0049
+I
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0033
+063
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0039
+9
 
-/U002D
+-
 
 ## DEPARTAMENTO DE TRÂNSITO DO ESTADO DO RIO DE JANEIRO
 
@@ -7770,17 +7770,17 @@ O  FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE  JANEIRO -  RIOPREVID
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 trativo  SEI  Nº  PD-04/148.70/2018, CONVOCA o(a)  beneficiário(a) MARIA APPARECIDA RIBEIRO BARRETO ,  portador(a)  do  I.D.  50938509,  a  entrar  em  contato  com o Rioprevidência, por meio do e-mail ciencia@rioprevidencia.rj.gov.br  para tratar  de  assunto  de seu  interesse, no prazo  máximo de  15(quinze) dias úteis,  a contar  da publicação deste  edital.
 
@@ -7963,17 +7963,17 @@ GH
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - Requerimento  de Credenciamento  devidamente preenchido  através do formulário  constante no  Anexo I  deste edital,  ou por  intermédio de correspondência  eletrônica:  estagio\_dppmerj@pmerj.rj.gov.br. 9.2-  Sendo  o  último  dia  do  período  de  inscrição  não  útil,  prorrogar-se-
 - 10.1  -  O  resultado,  para  o  semestre  vigente,  será  publicado  em  Diário Oficial  do  Estado  do  Rio  de  Janeiro  -  DOERJ,  com  divulgação  no  site oficial  da  SEPM,  contendo  as  instituições  que  tenham  encaminhado os  documentos de  credenciamento, em  até 02(dois)  dias úteis  antecedentes a  data de  Publicação do  Resultado Parcial,  informada no Anexo  II  do  presente  edital.
@@ -8201,39 +8201,39 @@ O convocado ou seu representante  legal deverá comparecer na sede da  DV/AJD, �
 
 Id:  2725854
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0033
+063
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0039
+9
 
 A  contar  de  30.03.2026.  Processo  nº  SEI-350003/001612/2026.
 
@@ -8414,7 +8414,7 @@ ANEXO I
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 RG
 
@@ -8424,9 +8424,9 @@ RG
 
 52366
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
 ID
 
@@ -8444,29 +8444,29 @@ FUNÇÃO
 
 AUXILIAR NA AREA DE PESSOAL
 
-/U0044/U004F
+DO
 
 Id:  2727208
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 Id:  2727559
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 51  43823971  ALADIM SILVA FAGUNDES  0  52  43412890  ALAN DIAS DA SILVA  0  53  4  3  2  1 1  5   0  0  ALAN FABIANO NUNES FILGUEIRAS  0  54  5  0  0  1 1  7   4  0  ALAN SAMPAIO MOREIRA  161,5  55  50002708  ALBERTINO SOUTO DA SILVA  137,5  56  42190452  ALBERTO AUGUSTO PINHEIRO FILHO  0  57  5  0  0  1 1  5   2  9  ALBERTO CASTELO VIVAS  0  58  42639271  ALBERTO SANTOS LAVINAS  0  59  42697212  ALCIBERTO DE SOUSA PAIVA  219,5  60  42523559  ALCIDES BARBOSA DE ABREU  0  61  43715230  ALDINELIO NASCIMENTO E SILVA JUNIOR  167  62  50098608  ALEKSANDRO DOS SANTOS ROSA  0  63  43546358  ALESSANDRA ANDRADE DE PAULA  0  64  50028855  ALESSANDRA ARAGAO DE CARVALHO  222,5  65  50096214  ALESSANDRA SILVA DOS SANTOS  150  66  50098616  ALESSANDRE QUINTINO DA SILVA  224  67  50098624  ALESSANDRO BISPO KAPPLER  0  68  43544894  ALESSANDRO DA SILVA ALMEIDA  0  69  43715931  ALESSANDRO DE ARAUJO DO NASCIMENTO  0  70  43930050  ALESSANDRO FERNANDES DA SILVA  138,5  71  42527902  ALESSANDRO GUIMARAES DE AZEVEDO  0  72  43931901  ALESSANDRO VIANA DA SILVA  160,5  73  43825133  ALEX ALEXANDRE SOUZA DE LIMA  0  74  43207332  ALEX BARBOSA DA COSTA  167,5  75  43209742  ALEX CARDOSO DE FREITAS  240  76  50002929  ALEX DA COSTA RODRIGUES  11  7  77  5703050  ALEX DA CRUS CARDOSO  0  78  50008412  ALEX DA SILVA BARBOSA  0  79  43931286  ALEX LAURENTINO DA SILVA  0  80  43209670  ALEX PESSOA RODRIGUES  174  81  5  0  0  1 1  6   4  2  ALEX PROENCA AUGUSTO  0  82  43933033  ALEX RAMOS CABRAL  0  83  43824960  ALEX RONI DE SOUZA MARTINS  221,5  84  43377068  ALEX SANDRO CAMPOS GRIGORIO  0  85  43825940  ALEX SANDRO DE OLIVEIRA NUNES  202  86  42645166  ALEX SANDRO FARIA  198,5  87  41961625  ALEX SANDRO MEDEIROS DA COSTA  0  88  42838088  ALEX SANDRO SANTOS DE LIMA  11  0  ,  5  89  42191378  ALEXANDER ARRUDA DE AMORIM  0  90  4  1  9  6   11  8  8  ALEXANDER COIMBRA PEREIRA  0  91  42190649  ALEXANDER CUSTODIO LEOTERIO  0  92  42699738  ALEXANDER FLORENTINO DE SOUZA  0  93  43825796  ALEXANDER JOSE RUFINO DA SILVA  0  94  42646316  ALEXANDER PENNA DOS SANTOS  0  95  50002244  ALEXANDRE BARBOSA DE OLIVEIRA  0  96  50001540  ALEXANDRE BRAGA DAMATO  0  97  42698901  ALEXANDRE BRANCO SEPULVEDA  0  98  4  1  9  6   2  3  11  ALEXANDRE BRANDAO DE FREITAS  351,5  99  41962320  ALEXANDRE CALDERIN IAVECCHIA  0  100  43182135  ALEXANDRE CARMO DOS SANTOS  0  101  43368590  ALEXANDRE CARVALHO FERREIRA  0  102  43215327  ALEXANDRE CLEITON DOS SANTOS MARQUES  196,5  103  42523460  ALEXANDRE DA SILVA PINHEIRO  0  104  43369294  ALEXANDRE DA SILVA SANTOS  196  105  5  0  0  1 1  9   2  8  ALEXANDRE DE CALDAS BRITTO  0  106  43928102  ALEXANDRE DE OLIVEIRA DOS SANTOS  0  107  43929680  ALEXANDRE DE OLIVEIRA E SILVA  130,5  108  43182917  ALEXANDRE DE SOUZA BURICHE E SANTOS  0  109  42816025  ALEXANDRE DOS SANTOS DANTAS  0  11  0  41817567  ALEXANDRE DOS SANTOS GASPAR  0  111  43823947  ALEXANDRE DOS SANTOS MOREIRA  133  11  2  43715958  ALEXANDRE DOS SANTOS PEREIRA  0  11  3  4  3  2  1 1  4   4  5  ALEXANDRE DUARTE SOARES  0  11  4  41960831  ALEXANDRE FELIX DE VASCONCELOS  0  11  5  5  0  0  1 1  7   0  7  ALEXANDRE FERNANDES DA SILVA  0  11  6  50001060  ALEXANDRE FERNANDO DA SILVA  169  11  7  43815154  ALEXANDRE FLORES GUERRA  176  11  8  4  3  9  3   11  9  7  ALEXANDRE FONTES SILVA  0  11  9  43547435  ALEXANDRE FULY DA CONCEICAO  0  120  43546765  ALEXANDRE JARDIM LIMA  0  121  50001302  ALEXANDRE JORGE SILVA DUARTE  0  122  5707595  ALEXANDRE JOSE WAGNER BOTELHO  0  123  42816750  ALEXANDRE LIMA COSTA ABREU  257,5  124  42699827  ALEXANDRE LUCIANO SIMOES DE SOUZA  0  125  43935753  ALEXANDRE MARTINS DE FREITAS  0  126  4  3  5  4   7  3  11  ALEXANDRE PAIVA MARTINS  169  127  50001868  ALEXANDRE PEREIRA DOS SANTOS  0  128  43369936  ALEXANDRE RODRIGUES DA SILVA  0  129  50008749  ALEXANDRE RODRIGUES DAS CHAGAS  164,5  130  50009761  ALEXANDRE SALES PIRES  194,5  131  41961641  ALEXANDRE WASHINGTON DE OLIVEIRA ROSA  306  132  43931227  ALEXANDRO GONCALVES DA SILVA  0  133  4  3  2  1 1  5   7  7  ALEXANDRO LOPES DOS SANTOS  193  134  43182577  ALEXIS DE ANDRADE GODINHO  0  135  50009400  ALEXSANDER COELHO LOPES  0  136  41960572  ALEXSANDER MOURO ISEPON  0  137  50106627  ALEYNE CRISTINA SILVA SOUZA  0  138  50002325  ALFREDO JULIO PIEDADE MORAES CARNEIRO  C  O  S  TA  0  139  43367399  ALFREDO SANTIAGO FILHO  149  140  43826300  ALFREDO SOARES RIBEIRO  0  141  50097130  ALINE COUTO RIBEIRO  191,5  142  41962109  ALINE CUPERTINO DOS SANTOS  0  143  50006886  ALINE DA SILVA COUTO  0  144  43818617  ALINE DA SILVA PIMENTA DA SILVA  142,5  145  43818820  ALINE DAS NEVES PINHEIRO  11  6  ,  5  146  50000896  ALINE OLIVEIRA DA SILVA  160,5  147  41960530  ALINE SOUTO AREIAS  0  148  5  0  0  1 1  6   1  8  ALISSON LIMA MATTOS  0  149  42191220  ALLAN BARBOSA DA SILVA  250  150  50098659  ALLAN CHRISTIANO DOURADO HUGUINIM  0  151  42699525  ALOISIO SACRAMENTO  0  152  50103652  ALVARO DOS SANTOS CARVALHO  0  153  42700582  AMANDA ELLIOT MAFRA  218,5  154  50002961  AMARILDO MACEDO DOS SANTOS  0  155  43714846  AMARO LUIS MARTINS DA SILVA  0  156  43183026  AMAURY ARRUDA DE SOUZA JUNIOR  0  157  5  0  0  0   11  8  3  AMILTON FONTES CABADA  0  158  43420168  AMILTON MATIAS DOS SANTOS  0  159  43717519  ANA CAROLINA DE MIRANDA GONCALVES  GALDINO  0  160  43818692  ANA CAROLINA OLIVEIRA DA SILVA  204  161  50097172  ANA CLAUDIA CABRAL RODRIGUES  0  162  50000683  ANA CLAUDIA DOS SANTOS JORGE  187  163  50000659  ANA CRISTINA DA SILVA ALMEIDA  133,5  164  43894038  ANA CRISTINA RODRIGUES COUTINHO  0  165  43714684  ANA LUIZA BARBOSA COSTA  189,5  166  43213057  ANA LUIZA DO NASCIMENTO  172,5  167  42698243  ANA MARIA DA SILVA MASULO  0  168  41960386  ANA MARIA RODRIGUES DOS SANTOS  144,5  169  43717616  ANA PAULA BARBOSA  11  7  170  50006819  ANA PAULA BITTENCOURT ROMEIRO  0  171  43367550  ANA PAULA DA COSTA OLIVEIRA  0   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8476,17 +8476,17 @@ Id:  2727559
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 293  42530954  AUGUSTO CESAR COSTA DE ALVARENGA  0  294  43547354  AUGUSTO CESAR CYRILLO DE SOUSA  173  295  42696844  AUGUSTO CESAR GAMA DE SOUZA  0  296  50000764  BARBARA CHRISTIANE CAMPOS OLIVEIRA  265,5  297  41960548  BARBARA LIMA SILVA CARVALHO DE MATTOS  0  298  50098853  BERNARDO COELHO CARVALHO  0  299  50009010  BERNARDO DA SILVA COSTA COUTINHO  0  300  41961714  BERNARDO PINTO DA SILVA JUNIOR  0  301  50003267  BIANCA DE OLIVEIRA ACHUR  170  302  43853900  BIANCA LOPES DA SILVA  0  303  43716105  BIANCA PACHECO DA SILVA  151,5  304  50001922  BILI  LIMA  ABBOUD  0  305  17991986  BRENO SLADE FARIA  0  306  43545289  BRUNA GUIMARAES DO CARMO  206,5  307  50098896  BRUNO ANDRADE PINHEIRO  0  308  50098900  BRUNO BANDEIRA GONCALVES E SILVA  94  309  50098918  BRUNO BARBOSA NINI  0  310  43301592  BRUNO BRANDAO  0  3  11  42699002  BRUNO CABRAL LIMA  0  312  43715842  BRUNO DA CUNHA ALELUIA FREITAS  0  313  41961730  BRUNO DA MATTA ARAUJO  0  314  50106686  BRUNO DOS SANTOS MACEDO  0  315  50008609  BRUNO ELIAS NASCIMENTO  296,5  316  50106694  BRUNO ELOY BRITO  0  317  6032591  BRUNO LIMA DE CARVALHO  189,5  318  4  3  3  6   8  6  11  BRUNO LOPES DO COUTO  207  319  50002414  BRUNO MARIANO VIANA ALVES  0  320  5  0  0  1 1  8   4  7  BRUNO MEIRA DE VASCONCELOS  0  321  43715303  BRUNO MELO PEREIRA  163,5  322  43274579  BRUNO NOGUEIRA DOS SANTOS  0  323  43210791  BRUNO OLIVEIRA DO NASCIMENTO  0  324  50012045  BRUNO PASSOS ALVES  0  325  41961226  BRUNO PEDRO OLIVEIRA  126  326  4  3  2  1 1  2   8  3  BRUNO QUEYROI BERTIN  0  327  50096176  BRUNO RIBEIRO SILVESTRE  0  328  50008382  BRUNO RIZZO SANTOS  269,5  329  50099043  BRUNO SABINO BRITO  0  330  43547303  BRUNO SANTOS DE OLIVEIRA  0  331  42755476  BRUNO VIEIRA LEITE RIBEIRO BITENCOURT  285,5  332  41830334  CAMILA DE ALBUQUERQUE  0  333  50105680  CAMILLA SABINO CARDOSO  0  334  42406390  CARLAILE DE AZEVEDO  159,5  335  43715052  CARLISON BREDA DA COSTA  0  336  43182534  CARLLO RODRIGO MONTE DA SILVA  0  337  43927041  CARLOS ALBERTO ALCOFORADO ARAUJO  0  338  43930107  CARLOS ALBERTO DA COSTA FERREIRA  105  339  5  0  0  1 1  9   9  5  CARLOS ALBERTO DOS SANTOS  153,5  340  50009745  CARLOS ALBERTO FERREIRA DE ARAUJO  11  0  ,  5  341  43824196  CARLOS ALBERTO PEREIRA  0  342  4  3  2  1 1  7   2  0  CARLOS ALBERTO SIRINO SANTOS  0  343  43927203  CARLOS ARTUR VIEIRA DANTAS  131,5  344  42697980  CARLOS AUGUSTO MOREIRA DE FREITAS  0  345  50012096  CARLOS BARRETTO FERREIRA  199,5  346  43368859  CARLOS EDUARDO AZARIS DE QUEIROZ  0  347  43931316  CARLOS EDUARDO BRAGA  134  348  50002490  CARLOS EDUARDO DE FREITAS  120,5  349  50099086  CARLOS EDUARDO DE OLIVEIRA BENET  0  350  50002899  CARLOS EDUARDO DE OLIVEIRA BORGES  0  351  42525527  CARLOS EDUARDO DE SOUSA GOULART  0  352  23689021  CARLOS EDUARDO DE SOUZA SILVA GONCAL-  VES  228,5  353  43144527  CARLOS EDUARDO FEITOSA DE SOUZA  0  354  50002821  CARLOS EDUARDO MEDEIROS DOS SANTOS  0  355  43931324  CARLOS EDUARDO MOURA FERREIRA  144,5  356  43368476  CARLOS EDUARDO PEDROSA VITAL  11  4  357  43676014  CARLOS EDUARDO SMITH  0  358  4  3  2  1 1  0   11  CARLOS EDUARDO VIANA DA SILVA  0  359  43825508  CARLOS ESTEVES PEREIRA  0  360  42762901  CARLOS GUILHERME DE OLIVEIRA JUNIOR  0  361  50035150  CARLOS HENRIQUE DAVID  0  362  43368824  CARLOS HENRIQUE DE ANDRADE MENDES  0  363  42699673  CARLOS HENRIQUE LESSA MOTA  0  364  50103784  CARLOS HENRIQUE LUIS DOS SANTOS  0  365  50001663  CARLOS HENRIQUE REIS SILVA  0  366  50099108  CARLOS HENRIQUE SILVA DE MENEZES  175  367  50009710  CARLOS HENRIQUE TEIXEIRA ROXO  0  368  43930395  CARLOS JOSE AGRA SOARES  127  369  43376428  CARLOS JOSE DA SILVA JUNQUEIRA  149,5  370  50002848  CARLOS JOSE DOS SANTOS PASCHOAL  0  371  43930212  CARLOS JOSE FELIPE  0  372  43814646  CARLOS LEONARDO SOARES  201  373  20019262  CARLOS LUIZ CORREIA  0  374  4  3  2  1 1  5   4  2  CARLOS MAGNO ARAUJO DE OLIVEIRA JU-  NIOR  0  375  43374506  CARLOS MARCELO CADILHE MONTEIRO  0  376  41962362  CARLOS MARIO FREIRE TEIXEIRA  0  377  43936571  CARLOS MAX SOUZA DA CUNHA JUNIOR  0  378  50105833  CARLOS MAYCON ALVES DE ANDRADE  0  379  41961234  CARLOS MONTEBELLO ESTEVES  206  380  43927092  CARLOS RENATO LIMA FERREIRA ANTUNES  142  381  43044700  CARLOS ROBERTO MAGALHAES  0  382  43142087  CARLOS WAGNER DA MATTA DIAS  0  383  50006967  CARMEN LUCIA FREITAS SILVA  172,5  384  43718159  CASILDA REIS DE ANDRADE  0  385  50106643  CASSIA CRISTINA DE SOUZA SIQUEIRA  0  386  5  0  0  0   11  2  4  CASSIA REGINA DE SALES FREIRE  256,5  387  4  3  2  1 1  2   0  8  CASSIO ARAUJO GONCALVES  0  388  5  0  111  5  6  6  CASSIO PORTHUS PEIXOTO OLIVEIRA  0  389  43933904  CATIA CRISTINA SCUCATO NUNES CHEBLE DE  ANDRADE  11  3  ,  5  390  42699207  CECILIA  SARTO BASTOS ALVES  0  391  43933637  CELIO LOUREIRO BAPTISTA  0  392  43369090  CELSO ALVES DA COSTA  0  393  5707730  CELSO ALVES DE AZEVEDO  0  394  50105841  CELSO LUIZ TEIXEIRA ABREU MAIA  169.5  395  5707749  CELSO SERRANO NONATO JUNIOR  0  396  42560241  CESAR HENRIQUE FRUTUOSO ANTAS  0  397  43328466  CHARLES DOUGLAS LOURENCO  80,5  398  50001582  CHARLES FIRMINO DE MIRANDA  252  399  43871259  CHARLES GEOVANE ANTUNES DA SILVA  0  400  24093955  CHARLES HENRIQUE DOS SANTOS  0  401  43935567  CHEYENNE MATTOS AMORIM  170,5  402  43813674  CHRISTIAN ANDRE DA SILVA SOARES  177,5  403  50000845  CHRISTIANE CARVALHO PINHEIRO  0  404  43219829  CID  RUBENS BATISTA  184,5  405  50000756  CIDALIA  PAIVA  RIBEIRO  0  406  50002805  CILLAS EDUARDO FIGUEREDO DO AMARAL  0  407  43207138  CINTIA  CRISTINA  LOURENCO DE MORAES  0  408  43547338  CIRIO  MARTINS PINTO  0  409  43822525  CLARENCE WILLIAM DE OLIVEIRA MARTINS  0  410  43367895  CLAUDIA ALVES DE OLIVEIRA  0  4  11  42171210  CLAUDIA GOMES ALMEIDA MATHEUS  0  412  50001051  CLAUDIA LUCIA FERNANDES TAVARES  291,5   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8496,17 +8496,17 @@ Id:  2727559
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 534  41988361  EDMAX SOUZA DE SALES  0  535  50002988  EDMILSON DE JESUS TEIXEIRA  135  536  43369782  EDNALDO MOISES DA SILVA  267,5  537  50099388  EDSON CAMARA DA COSTA  101  538  43602940  EDSON CARLOS DOS SANTOS  0  539  43369839  EDSON DA SILVA SOUZA  0  540  42528216  EDSON DE LIMA PEREIRA  243  541  50002520  EDSON DOS SANTOS COSTA  0  542  50105868  EDSON JORGE SILVA JUNIOR  102  543  50009427  EDSON ORLANDO DE FREITAS JUNIOR  0  544  19902662  EDSON POVILL DIAS  0  545  43715818  EDSON SANTIAGO DOS SANTOS  0  546  41974360  EDSON SOARES BRAGA JUNIOR  97  547  42698049  EDUARDO ALMEIDA DA SILVA  0  548  4  3  4  1 1  2   1  5  EDUARDO ALVES RIBEIRO  139,5  549  42502330  EDUARDO ANDRADE DE SOUZA  0  550  50001973  EDUARDO CAMILO FERNANDES  0  551  5  0  0  1 1  7   7  4  EDUARDO DA SILVA PEREIRA  147  552  50008544  EDUARDO DE AZEVEDO SOUZA  0  553  43929060  EDUARDO DE JESUS MARTINS DA COSTA  184,5  554  50001876  EDUARDO DE SOUZA COUTO  165  555  4  3  2  1 1  7   4  7  EDUARDO DOS SANTOS JUNIOR  230,5  556  43182410  EDUARDO FACIOLI RIBEIRO  0  557  50099396  EDUARDO FELIPE DE SOUSA CARVALHO  100  558  5929636  EDUARDO FERREIRA LOPES  143,5  559  41961293  EDUARDO FERREIRA TAVARES  0  560  42699800  EDUARDO GARDEL FERREIRA  0  561  43544797  EDUARDO LUIS ABEND  198,5  562  50105876  EDUARDO MACIEL FERREIRA  0  563  43825540  EDUARDO ROQUE OLIVEIRA MOISES  0  564  43367836  EDUARDO ROSA DE MORAIS  166,5  565  50008650  EDUARDO SILVA CARDOSO  0  566  42645247  EDUARDO SILVA GUIMARAES  183  567  42698170  EDUARDO VALERIO CRAVO DO NASCIMENTO  0  568  41960947  EDUARDO VIEIRA DOS SANTOS  0  569  24748528  EDWAYNE FERREIRA DOS SANTOS  0  570  43715125  ELAINE FERREIRA MARQUES  133  571  42697310  ELAINE ROSA TENORIO  0  572  12815055  ELAINE SANTOS DE ANDRADE  155,5  573  43714315  ELDA CRISTINA MIRANDA DA SILVA  0  574  43368620  ELI  ANTONIO  DINIZ  137,5  575  50006975  ELIA  DE  SOUZA  SANT  ANNA  0  576  41960688  ELIALBERTO RODRIGUES DA SILVA  0  577  50009869  ELIALDO DOS SANTOS REVELLES  0  578  43714889  ELIANDRO BARRETO CUNHA  0  579  43818749  ELIANE CRISTINA AVILA PEREIRA DE OLIVEIRA  193,5  580  43819028  ELIANE DA COSTA ALVES  145,5  581  43714765  ELIANE DA SILVA LIMA  230,5  582  41960270  ELIANE NASCIMENTO DA CRUZ  0  583  42699150  ELIANO DIAS DA CRUZ  0  584  50002660  ELIAS  FRANCISCO FREIRE  184,5  585  50099418  ELIAS  RODOLFO DO CARMO  142,5  586  43379591  ELIEL  MESQUITA DE TOLEDO  0  587  4  3  2  1 1  8   7  9  ELIEL  OGAWA DE FIGUEIREDO JUNIOR  221  588  43715885  ELIESIO BRAGA DOS SANTOS  0  589  43287255  ELIEZER DA SILVA CEZAR  0  590  50105884  ELIEZER DA SILVA CORREA  185  591  41974530  ELIEZER NUNES DE MELO  0  592  43824668  ELIO  CELSO MIRANDA JUNIOR  0  593  50001655  ELIO  JOSE  DOS  SANTOS  0  594  43818838  ELISANGELA BARCELOS MACEDO  0  595  50000950  ELISANGELA CORREIA CAMPOS LOPES  150,5  596  43716253  ELISANGELA DOS SANTOS FRANCISCO  0  597  50007157  ELISANGELA SOARES DA SILVA  134,5  598  50000691  ELISE  ALVES  292,5  599  42697190  ELISETE ROSA HENRIQUES  0  600  24786080  ELISEU LIBORIO DOS SANTOS  145,5  601  50000942  ELIZABETH DA SILVEIRA BEM  0  602  5702984  ELIZABETH ROMANO  0  603  43368263  ELLEN DE CARVALHO MEDEIROS DA CRUZ  0  604  43375782  ELOISA HELENA ROSA DOS SANTOS  194,5  605  43368603  EMERSON CORREA CAVALCANTE  182  606  43710816  EMERSON DOS SANTOS LOPES  89,5  607  42553407  EMERSON SANTOS DE OLIVEIRA  0  608  42699754  EMMANUEL LEONARDO FERREIRA PINTO  0  609  43933300  ERASMO CAMPOS PEREIRA  0  610  43928854  ERIC LUCENA TAVARES PIANURA  0  6  11  50012010  ERICH FABRICIO OLIVEIRA DE SOUZA  0  612  50001310  ERLON ASSIS DE ARAUJO  161,5  613  41962150  ESTEFANIA MORGADO  0  614  50099434  ESTEVAN FRANCO MAGALHAES RAYA DE OLI-  VEIRA  147,5  615  43377467  ESTEVAO LEANDRO PURIFICACAO DA LUZ  0  616  41961307  EVANDRO DA SILVA DOS SANTOS  0  617  43931812  EVANDRO SOARES RIBEIRO  0  618  5928001  EVERALDO LIMA COELHO JUNIOR  0  619  43715672  EWALDO FERREIRA DA SILVA NETO  183  620  43931413  EWERTON ESPINDOLA FELIX  0  621  50104276  EZEQUIEL DE OLIVEIRA SANTOS  0  622  50006959  FABIANA CORREIA MOREIRA  120  623  41960360  FABIANA DELGADO DA SILVA AFFONSO DE  OLIVEIRA  0  624  50097580  FABIANA GONCALVES DE SOUZA  0  625  50097628  FABIANA HONORIO LIMA CHAVES  0  626  43928552  FABIANO FERREIRA DE ARAUJO  0  627  43209360  FABIANO KIRCHPFENNIG RIBEIRO  0  628  43928390  FABIANO MARICATO VIDAL  0  629  43369898  FABIANO RODRIGUES PACHECO  134,5  630  50001230  FABIO ABRANTES VIEIRA  169,5  631  50008420  FABIO ANDRE VIEIRA SIQUEIRA  190  632  42762456  FABIO ANTONIO COSTA HOLANDA  0  633  50099442  FABIO APPARECIDO CATALAO  0  634  50099450  FABIO ASSIS TOTTI  0  635  43715630  FABIO BAIENSE DE SOUZA  0  636  50003003  FABIO BARBOSA DE MELO  0  637  43369820  FABIO CESAR NUNES DE CASTRO  0  638  50099469  FABIO DA SILVA DOS REIS  0  639  43927483  FABIO DANTAS CRUZ  0  640  42698065  FABIO DE ALMEIDA TRUTA  130  641  50001418  FABIO DE ANDRADE PAIVA  0  642  42698693  FABIO DE ARAUJO NEVES  0  643  43210929  FABIO DE ASSIS RANGEL  0  644  50099485  FABIO DE BARROS FELIX  11  8  645  43823459  FABIO DE FREITAS PEREIRA  96  646  5  0  0  1 1  5   4  5  FABIO DE MELO SIMAO  0  647  43208100  FABIO DE MENEZES PINTO  162,5  648  43379095  FABIO DE OLIVEIRA DA SILVA GOMES  231,5  649  50008900  FABIO DIAS ALMEIDA DE LIMA  0  650  50104357  FABIO DIAS NEVES  0  651  43714250  FABIO DIOGO DA CRUZ  200,5  652  4  3  2  1 1  5   5  0  FABIO DO ESPIRITO SANTO GOMES DA SILVA  180  653  41962400  FABIO DO NASCIMENTO BITTENCOURT  0  654  42699541  FABIO FERNANDES DE ARAUJO COSTA  0   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8514,23 +8514,23 @@ Id:  2727559
 | 655  43820565  FABIO FERRAZ SODRE  0  656  42702950  FABIO FIGUEIRA BERNARDO  221,5  657  24765384  FABIO FREITAS ANDOLPHI  0  658  50099493  FABIO GOMES DE VASCONCELOS  0  659  43377017  FABIO JESUS DA SILVEIRA  213,5  660  43547079  FABIO JOSE DA SILVA  0  661  50001736  FABIO JOSE DOS SANTOS MORAES  0  662  43929036  FABIO JOSE TORRES GOUVEA  210,5  663  50009460  FABIO LEANDRO NEVES NUNES  0  664  43547095  FABIO LUIS DA SILVA POLIDORO  0  665  43701884  FABIO LUIZ DA SILVA MAGHELLY  0  666  50028871  FABIO LUIZ RIBEIRO  135,5  667  4  3  2  1 11  7  8  FABIO MARQUES DOS SANTOS  0  668  50099531  FABIO MOUZINHO DE ARAUJO  157,5  669  43715982  FABIO OLIVEIRA DOS SANTOS  124  670  43715443  FABIO PIRES MIRANDA PORTO  0  671  4  3  2  1 1  6   1  5  FABIO RANGEL DA SILVA  0  672  42356261  FABIO ROCHA DE SOUZA BEZERRA  0  673  4  3  2  1 11  9  4  FABIO RODRIGUES MARQUES  109,5  674  41383605  FABIO RUSSO RODRIGUES  0  675  43934587  FABIO SOARES  0  676  43182356  FABIO SOUZA DA SILVA  0  677  43714218  FABIO TARQUINO DA COSTA  0  678  5  0  0  1 1  6   3  4  FABIO VASCONCELOS BARROSO  0  679  43209106  FABIO VIEIRA GOMES  0  680  50008897  FABIO VIEIRA PASSOS  134  681  43208614  FABRICIO DA SILVA GUERREIRO  267,5  682  50099540  FABRICIO JOSE DE JESUS FERREIRA DE OLI-  VEIRA  0  683  50099558  FABRICIO MACEDO SILVA  0  684  50009419  FABRICIO MAIA GOMES  0  685  43383289  FABRICIO PENNA BERTOLOSSI  0  686  50008919  FAGNER SOUZA DOS SANTOS  0  687  43377572  FARME SILVARES GONCALVES  183,5  688  41801865  FATIMA ANDREIA DE SOUZA FALQUE  0  689  5931495  FELIPE AUGUSTO DE CASTRO ALVES FAGUN-  DES  0  690  5703085  FELIPE CAVALCANTE GALVAO  0  691  50099566  FELIPE DAVID AZEVEDO DE CASTRO  0  692  42696518  FELIPE DE ARAUJO SCUDIERE PALHANO  217,5  693  43934463  FELIPE FERREIRA CARDOSO  0  694  43935222  FELIPE INACIO DA CUNHA  0  695  43935974  FELIPE LOPES BISSOLI  0  696  42698472  FELIPE LUIZ PINHO RIBEIRO DE SOUZA  0  697  42647770  FELIPE PECANHA GOMES  0  698  50012100  FELIPE SOARES DA ROCHA MEDEIROS  0  699  50002163  FELIPE SOARES MENDES  0  700  43715869  FELIPE VARGAS DA FONSECA  0  701  43823351  FELIPE VEIGO PIMENTEL  228,5  702  50099574  FELLIPE FIGUEIREDO CORDEIRO DE OLIVEIRA  93  703  50099582  FELYPPE MORENO SALES GOMES  120  704  43460410  FERNANDA BARBOSA DOS SANTOS KLEUVER  DA SILVA  273,5  705  50097644  FERNANDA BRUM DOS SANTOS SERRANO  0  706  43480861  FERNANDA GUEDES COELHO  0  707  43534996  FERNANDA GUIMARAES MOURA  127,5  708  43227759  FERNANDA TROVAO DOS SANTOS  0  709  43660487  FERNANDO ALBERTO TEIXEIRA CHAVES JU-  NIOR  111  710  41960971  FERNANDO ALESSANDRO KLEUVER DA SILVA  0  7  11  5936209  FERNANDO AMADO DIAS DE CARVALHO  0  712  50099590  FERNANDO CAMARA DA SILVA  187  713  43369855  FERNANDO DE MORAES CABRAL  0  714  43208193  FERNANDO DE SIQUEIRA  0  715  50009737  FERNANDO FELES  202,5  716  43884660  FERNANDO LEITE MASCARENHAS TIMBO  0  717  4  3  2  1 1  0   2  0  FERNANDO LEO DE ASSUNCAO TEIXEIRA  201,5  718  41961870  FERNANDO LIMA DE FARIAS  0  719  43928900  FERNANDO OLIVEIRA DA CONCEICAO  0  720  24350966  FERNANDO PEREIRA DE SOUZA  0  721  43151280  FERNANDO RODRIGUES MAIA  203,5  722  43210937  FERNANDO SANTANA DA SILVA  210  723  43369014  FERNANDO VIANA WELFFGRANSCER  122  724  42699070  FILIPE  DAVIES  DE  ARAUJO  0  725  50099604  FILIPE  DOS  SANTOS JACINTO  0  726  43213340  FILLIPE  VALENTE  FERNANDES  0  727  50096249  FLAVIA DUARTE DE SOUSA RIBEIRO  175,5  728  50001094  FLAVIA FERREIRA PINHEIRO  169,5  729  50001019  FLAVIA MARIA PAESLER  0  730  42748968  FLAVIA SANTANA DOS SANTOS  0  731  43928706  FLAVIO CARDOSO DE SOUZA  0  732  43376819  FLAVIO CRUZ VALVIESSE DA MOTTA  0  733  43187803  FLAVIO FERREIRA DA ROCHA  236,5  734  50012037  FLAVIO GOMES DO NASCIMENTO  0  735  24970565  FLAVIO GONCALVES RODRIGUES  0  736  43375855  FLAVIO MIRANCOS FERNANDES JUNIOR  0  737  5946883  FLAVIO PEREIRA DA SILVA  0  738  50000675  FRANCINE FIGUEIREDO PACHECO  0  739  43367747  FRANCISCA CRISTINA FERREIRA GIOVANELLI  198,5  740  19660367  FRANCISCO ANTONIO PIO DE SOUSA  0  741  43720331  FRANCISCO CAVALCANTI DE OLIVEIRA  11  2  742  50002180  FRANCISCO DA CUNHA CRESPO JUNIOR  131  743  41960696  FRANCISCO DE ASSIS DA SILVA  173,5  744  42696887  FRANCISCO DE ASSIS DA SILVA ARAUJO  11  8  745  50099612  FRANCISCO DE ASSIS SOUZA BEZERRA  175  746  43331750  FRANCISCO HENRIQUE DO NASCIMENTO SAN-  TO  S  0  747  50001590  FRANCISCO JOSE MARTINS DE SOUZA  0  748  43545807  FRANCISCO JOSE SOARES FLORENZANO  156  749  43928951  FRANCISCO PAULA DA SILVA JUNIOR  0  750  19083874  FRANCISCO VANDERLEY LIMA  222,5  751  41961331  FRANKLIN COUTO DOS SANTOS  0  752  41834720  FRANKLIN MARCOS DA SILVA  185,5  753  50009109  FULVIO LOPES DOS SANTOS RIBEIRO  0  754  50099620  GABRIEL DE OLIVEIRA MACHADO DA SILVA  0  755  43935524  GABRIEL DOS SANTOS ROBERTO ESCOVEDO  0  756  42138191  GABRIEL FRANCISCO DE OLIVEIRA  192,5  757  43547125  GABRIEL GUINLE  0  758  50097768  GABRIELA MARCONDES PINEDA PEREIRA  0  759  50097784  GABRIELE DE SOUZA CORREA  131  760  43930131  GELCIO GOMES DE OLIVEIRA PARDINI  134  761  50009680  GENILDO DUARTE DO NASCIMENTO  209,5  762  43377386  GENIVALDO BISPO FERNANDES  0  763  43367500  GEORGE DA SILVA ARAUJO  150,5  764  42196906  GEORGE TADEU SILVA PESTANA  0  765  43367984  GEOVANI ERNANI DA SILVA  0  766  43932207  GEOVANI MALAFAIA DA FONSECA  0  767  50001566  GEOVANNE FELIX  0  768  43934340  GERALDO CESAR MOREIRA DA SILVA  0  769  43933270  GERCEMIR TORRES SOARES  0  770  50002554  GERMANO BAPTISTA MACEDO FILHO  0  771  50002058  GERSON LUIS BRAZIL DE ALMEIDA  0  772  43815480  GESSE BARBOSA TOLENTINO JUNIOR  0   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0049
+I
 
 <!-- image -->
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 773  5631017  GESSICA MACHADO DOS SANTOS MESQUITA  0  774  42698006  GETULIO FLORINDO DE AMORIM  148  775  50012185  GETULIO FONSECA DOS SANTOS JUNIOR  0  776  42816360  GILBER DE SOUZA CARDOSO  171  777  50003313  GILBERTO DE SOUZA  193,5  778  50001345  GILBERTO DEJOSS DA SILVA  222,5  779  50012169  GILBERTO FERNANDES RODRIGUES DE AMO-  RIM  0  780  43714820  GILBERTO PORFIRIO LUZ  0  781  43818463  GILBLANIO ALVES DE LIMA  0  782  50104381  GILCIMAR BARBOSA DOS SANTOS  0  783  43376169  GILMARQUES DOMINGOS DE OLIVEIRA  0  784  43928323  GILSON CASTRO DOS SANTOS JUNIOR  171.5  785  50099639  GILSON DIAS DA SILVA  0  786  43714277  GILSON GONCALVES DE MENEZES  0  787  42816084  GILSON GOUVEA  0  788  41961536  GISELLE BIONDINE SILVA DE OLIVEIRA  AGUIAR  0  789  5  0  0  9   7  9  11  GISELLE BRAGA CLEMENTE  191  790  42698464  GIUSEPPE ZAMBELLI  0  791  50099647  GIVANILDO DE SOUZA DEVANIL  0  792  50001515  GLAUBER JOSE SILVEIRA  132  793  43383327  GLAUBER MENDES DOS SANTOS  0  794  50105809  GLAUCER DA CRUZ LIPPI  0  795  43714722  GLAUCIANE NOGUEIRA DE OLIVEIRA  0  796  43566367  GLAUCO BALTHOR DO AMARAL  192,5  797  50008773  GLAUCO JACYNTHO DOS SANTOS  0  798  43182437  GLEICE CRISTINA NASCIMENTO DE OLIVEIRA  0  799  44209720  GLEICE RENATA MARTINS DA COSTA MENE-  ZES DOS SANTOS  239,5  800  43933947  GRACIELE ALVES BARAUNA  151  801  50099655  GUILHERME GONCALVES BERNARDINO  202,5  802  50099663  GUILHERME PEREIRA OLIVEIRA SILVA  0  803  41961390  GUSTAVO ANDRE VIEIRA LISBOA  0  804  43715893  GUSTAVO BRAGA ESCH  0  805  43369049  GUSTAVO GARCEZ DE ARAUJO SOUZA  0  806  43714757  GUSTAVO GONCALVES DA LUZ  0  807  42699720  GUSTAVO JACOB BARROSO COSTA  243,5  808  43799329  GUSTAVO PEREGRINO GUEDES DE OLIVEIRA  0  809  41960700  GUSTAVO RIENTE DOS SANTOS  0  810  50099671  HARRY RAMOS HAMMING  0  8  11  50001752  HEBERT RAU PONTES  0  812  50002147  HEITOR JORGE DE PENNAFORT CALDAS  0  813  50008595  HEITOR VAZ DOS SANTOS  155,5  814  50023748  HELIANA MARA SOARES FIGUEIREDO  184,5  815  50001329  HELIO DANTAS DE SALES  194,5  816  50009001  HELIOS HENRIQUE SILVA DOS SANTOS  0  817  22142258  HELISON BACELAR LIMA  0  818  50099957  HELON GOMES ROSA  0  819  43182348  HENRIQUE DANIEL GONCALVES THINNES  0  820  43369138  HENRIQUE DE OLIVEIRA FURTADO  0  821  43718256  HERBERT GUSTAVO NUNES DOS SANTOS  151  822  5546710  HERNANE PAES CASTANHEIRA  0  823  43545920  HUGO LEONARDO DA SILVA BATISTA  0  824  50104454  HUGO LEONARDO REIS DA PAIXAO  0  825  41960629  IALDO SANTOS DE SOUZA FILHO  0  826  50099981  IAN  ANDERSON TORRES MALANCHINI  0  827  43822290  ICARO SILVA DOS SANTOS  142,5  828  43932185  IGOR FERREIRA CABRAL DE MELO  0  829  42487293  IGOR PINHEIRO  0  830  50009079  IGOR RENTE DE PINHO  102  831  43823670  IGOR SOARES JUSTO DA SILVA  222,5  832  50106260  IGOR UHL FREITAS SILVA  0  833  50100025  ILAN  COUTO DE PAULA  0  834  43819052  INGRID SILVA ROCHA SODRE  182  835  50008889  IRANILDO OLIVEIRA DE LIMA  0  836  43369421  ISAAC BRITO DOS SANTOS  224,5  837  50008854  ISAAC MENECHINI DE AZEVEDO  0  838  43714293  ISABEL GOMES RIBEIRO  161,5  839  43544517  ISABELE PINHEIRO DE OLIVEIRA  193,5  840  43367763  ISABELLY BARBETTO LOPES  248,5  841  43369103  ISAIAS  PEDRO ALVES  123  842  50009729  ISRAEL SOARES  0  843  43820573  ITALO  BRUNO TAVARES RODRIGUES  0  844  43546838  ITALO  CARVALHO DOS SANTOS  286,5  845  50100041  IURI  JOSE  DE  MORAES  FERREIRA  0  846  21923965  IVAN  DE  MATOS  BRAGA  150,5  847  50002562  IVAN  PORTELLA PAIM  0  848  42816726  IVANILDA PEREIRA DE CARVALHO SOUZA  107  849  43822266  IVANILDO FRANCA JULIAO  0  850  50002538  IVO  GONCALVES DA COSTA NETO  0  851  43935893  IVONETE PEREIRA DA SILVA  162,5  852  43936008  JACIARA ARAUJO DA SILVEIRA  0  853  43718671  JACKCILENE GURGEL CORREIA  187,5  854  50000730  JACQUELINE DOS SANTOS COSTA  0  855  43715834  JACSON JOSE SAMPAIO  0  856  43548750  JADSON BOEK FERREIRA  159  857  43932010  JAHYR JOSE NARCISO FILHO  0  858  19662467  JAILSON COSME GOMES MACHADO  0  859  43668704  JAIME VITOR BORGES PIRES  0  860  43791760  JAIR  DA  SILVA  SIMAS  105  861  43701299  JAIRO ANTONIO DE SOUZA JUNIOR  0  862  50104470  JAIRO DA SILVA MARTINS  130,5  863  43212417  JAMES LUCIO CABRAL  0  864  42772370  JANAINA FERNANDES PIRES DOS SANTOS  380,5  865  50007033  JANAINA LONGO  125,5  866  41883403  JANAINA RIBEIRO CATARINA MACEDO  0  867  43209807  JANDINEI IANGA GOMES DA SILVA  0  868  43547559  JANETE SILVA  0  869  43935982  JANIA  MARIA  FERNANDES DE OLIVEIRA  0  870  5  0  0  0   11  5  9  JANILDE FERNANDES DE OLIVEIRA  0  871  50100050  JANSE DOS SANTOS RAMOS  97  872  50006827  JAQUELINE DA PENHA MARTINS  0  873  50104497  JAQUISANDRO QUIRINO SALES  0  874  42697506  JARED CALHEIROS DA SILVA FILHO  0  875  41383621  JASIEL  FERNANDES  0  876  43818331  JEAN CARLOS LOPES FERNANDES  242  877  50009800  JEAN CLAUDIO MAIA DA SILVA  0  878  43715826  JEAN CLEBER DE MENEZES SOARES  0  879  50100076  JEAN LENGRUBER CASACA  189  880  43714560  JEFFERSON DOS SANTOS RIBEIRO  297,5  881  41879210  JEFFERSON LUIZ DA SILVA  156,5  882  50001680  JEFFERSON VENANCIO DOS SANTOS E SILVA  0  883  5  0  0  1   2  11  8  JHONNE COSTA OLIVEIRA  0  884  43934714  JOAO ALMEIDA NETO  130,5  885  43368190  JOAO BAPTISTA DOMINGUES CHAGAS  0  886  50001604  JOAO BENEDITO DO NASCIMENTO DE DEUS  0  887  43377360  JOAO BONFIM MONTEIRO  0  888  42697999  JOAO CARLOS ALVES MAGALHAES  0  889  41383613  JOAO CARLOS CASAIS  0  890  42525322  JOAO CARLOS MIRANDA CORREA  0  891  50100106  JOAO CARLOS OLIVEIRA DA SILVA  0  892  43946658  JOAO CARLOS SOUZA DOS SANTOS  90   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8540,17 +8540,17 @@ Id:  2727559
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 1012  43182550  LAZARO BENTO LOPES GUIMARAES  210,5  1013  42502365  LEANDRO ALVES CERQUEIRA  246  1014  50100254  LEANDRO ALVES DE MOURA  98,5  1015  43376185  LEANDRO BRASCHER DE PAULA  0  1016  5938813  LEANDRO DE FREITAS DA SILVA  0  1017  50104632  LEANDRO DOS SANTOS CRISTO  0  1018  43715877  LEANDRO DUARTE DOS SANTOS  0  1019  43714641  LEANDRO FABIANO DA SILVA LOPES  0  1020  42700345  LEANDRO FERREIRA GARCEZ  0  1021  50100270  LEANDRO FIDELIS CORDEIRO  192  1022  50084313  LEANDRO GIL PINTO ARTIGLIRI  0  1023  42494125  LEANDRO HENRIQUE GONCALVES ROSAS  0  1024  43369154  LEANDRO JOSE CORREIA DA SILVA SANTOS  216,5  1025  4  3  7  1   6  11  3  LEANDRO LIMA  62  1026  19854161  LEANDRO MAGALHAES  0  1027  50100289  LEANDRO MANHAES DA SILVA  0  1028  43826792  LEANDRO MESQUITA DE ALMEIDA  0  1029  43210678  LEANDRO MOURA SANTOS  2  11  1030  43546943  LEANDRO NUNES DOS SANTOS SILVA  0  1031  50100297  LEANDRO PEREIRA DUARTE  0  1032  50100300  LEANDRO PINHEIRO DE LUCENA BELSHOFF  0  1033  41960483  LEANDRO ROSA BRAZ  0  1034  43930255  LEANDRO SABINO FARIA  133  1035  4  3  2  1 1  5   6  9  LEANDRO VITOR DRIUSSO DE OLIVEIRA  201  1036  43545823  LECYMAR PARAGUASSU BATISTA SANTOS LA  RUBIA  194,5  1037  2  0  11  4  6  5  6  LEDA MARIA DOS SANTOS  0  1038  50001027  LEILA  MARIA  DE  CARVALHO PEREIRA  225,5  1039  43368751  LENON TAVARES PALMA  210,5  1040  43369723  LEONARD TOPINI DE ALMEIDA  0  1041  43182313  LEONARDO ALVES DA SILVA FILHO  126  1042  50100319  LEONARDO BITTENCOURT SOUTO TEIXEIRA  0  1043  50002783  LEONARDO BORGES DANTAS  0  1044  50002759  LEONARDO CALIXTO DE CAMARGO  0  1045  43927661  LEONARDO CAMPOS DE SENNA  0  1046  43202888  LEONARDO CANTANHEDE DA COSTA  0  1047  21794545  LEONARDO DA SILVA OLIVEIRA  11  7  ,  5  1048  43547052  LEONARDO DE QUEIROZ RIBEIRO  208,5  1049  42697328  LEONARDO ERNESTO DOS SANTOS  0  1050  42696798  LEONARDO EZEQUIEL DOS SANTOS CARVA-  LHO  0  1051  50001205  LEONARDO FERNANDES NOGUEIRA  0  1052  50100696  LEONARDO FERREIRA RIBEIRO  130,5  1053  43368999  LEONARDO GROSSI FERREIRA  171  1054  50009532  LEONARDO GUIMARAES TEIXEIRA  125,5  1055  50023977  LEONARDO JOSE DE SANT ANNA  169  1056  43815472  LEONARDO JOSE SILVA GUEDES  0  1057  41961439  LEONARDO LESTAYO AZEVEDO FIGUEIREDO  0  1058  50106716  LEONARDO LOPES  0  1059  43368794  LEONARDO LOPES DE ASSUNCAO  0  1060  43827047  LEONARDO LUIZ DE OLIVEIRA LAGE  0  1061  4  3  2  1 1  9   3  3  LEONARDO LUIZ SOUTO MEIRA  218,5  1062  42698332  LEONARDO MATOS DA SILVA  0  1063  4  3  2  1 1  8   0  1  LEONARDO MAZZEI PINTO  131  1064  42104424  LEONARDO OLIVEIRA NASCIMENTO  0  1065  50100718  LEONARDO RIZO FERREIRA  163,5  1066  43547184  LEONARDO SOUZA SOARES  159  1067  42538122  LEONARDO TEIXEIRA DE LEMOS  0  1068  43440363  LEONARDO TIAGO DE SOUZA  140,5  1069  6144268  LEONARDO TOMAZ DOS SANTOS  11  8  ,  5  1070  5  0  0  1 1  7   9  0  LEVI  DOS  SANTOS RODRIGUES  0  1071  43368417  LIANA GAMMA REIS VASQUEZ  130,5  1072  42192153  LIGIA  MARTINS  DA  FONSECA  217,5  1073  42697387  LILIAN  VIANNA  LESSA  0  1074  50007041  LILIANE  CONCEICAO DIAS  0  1075  4  2  6  9   9  11  8  LILIANE  SOUZA BORGATTE  0  1076  50097997  LILIANE  VERA  CRUZ  DE  OLIVEIRA  160,5  1077  43379540  LISSANDRO BARBOSA DE ARAUJO  244  1078  50098004  LIVIA  DA  SILVA  TERRA  0  1079  42060214  LIVIO  HUGO FRANCO REZENDE  246,5  1080  43933815  LIZ  FERREIRA  BARBOZA  322,5  1081  43932541  LOURIVAL BARBOSA MENDES  0  1082  43227732  LUANA SANTOS DE OLIVEIRA  161  1083  42698839  LUCAS JOSE SILVA DOS SANTOS  0  1084  43367801  LUCIA CRISTINA DE SOUZA AZEVEDO SANTOS  210  1085  43368409  LUCIANA BRUNO COSTA TEIXEIRA  227,5  1086  50098055  LUCIANA DE CARVALHO MANSUR  0  1087  41962125  LUCIANA GONCALVES DE LIMA  0  1088  41961544  LUCIANA OLIVEIRA DE MELO  0  1089  43822720  LUCIANE DE ASSIS NARCIZO SOUZA  0  1090  50008501  LUCIANO ALBERTO RAMOS LOMBA  0  1091  43927637  LUCIANO ALVES BARROS  0  1092  43187862  LUCIANO ANDRE DA COSTA  234,5  1093  50100769  LUCIANO CAMILLO DOS SANTOS  0  1094  50100785  LUCIANO DE LIMA MAGALHAES  133  1095  43927246  LUCIANO DE OLIVEIRA PIMENTA  0  1096  43715435  LUCIANO DE SOUZA CARDOSO  204,5  1097  43929354  LUCIANO GOMES DE OLIVEIRA  0  1098  43369677  LUCIANO MENDES MOURA DA SILVA  0  1099  43209378  LUCIANO MORGADO NAGIB  0  11  0  0  42698723  LUCIANO PEREIRA MATHEUS  0  11  0  1  43412467  LUCIANO REIS DE AGUIAR CARDOSO  162,5  11  0  2  50009320  LUCIANO TORRES DE MEDEIROS  140  11  0  3  41960424  LUCILENE LUZIA LACERDA MENDES  0  11  0  4  43367950  LUCIMAR PECANHA DE LAVOR  0  11  0  5  43208282  LUDIMILA ARACOELE ROSA DE AQUINO  0  11  0  6  43424589  LUDMILA DE SOUZA E SILVA  0  11  0  7  43369472  LUIS  ANTONIO DE OLIVEIRA  206  11  0  8  43203663  LUIS  ANTONIO DE SA CLEMENTE  0  11  0  9  5  0  0  1 1  8   7  1  LUIS  CARLOS FERREIRA DE OLIVEIRA  187  111  0  43369375  LUIS  CLAUDIO DE ANDRADE SOARES  205,5  1111  43188290  LUIS  EVANGELISTA DE MELO  0  111  2  43379630  LUIS  FELIPE  ANACLETO DA CRUZ  0  111  3  50002970  LUIS  FELIPE  MOCARZEL DE KANEL  0  111  4  43932533  LUIS  FERNANDO DA COSTA  0  111  5  43718299  LUIS  GUSTAVO PALACIOS  158,5  111  6  5  0  0  0   2  5  11  LUIS  HENRIQUE RIBEIRO DE ALBUQUERQUE  0  111  7  50008579  LUIS  MATHEUS LEITE CALDEIRA  0  111  8  43208835  LUIS  PATRIC  MOREIRA LOPES  209,5  111  9  43929516  LUIS  RENATO FERNANDES SA  0  11  2  0  43449271  LUIS  ROGERIO BARBOSA DA SILVA  0  11  2  1  50001892  LUISANDRO JOSE NOGUEIRA  199  11  2  2  43209424  LUISE AZEREDO OMENA  152  11  2  3  26315785  LUIZ  ALBERTO DA SILVA TEIXEIRA  0  11  2  4  50001981  LUIZ  ANDRE ROSA BICUDO  0  11  2  5  50002600  LUIZ  AUGUSTO CANELLAS  181,5  11  2  6  50012231  LUIZ  CARLOS BATISTA JUNIOR  0  11  2  7  50001647  LUIZ  CARLOS DE OLIVEIRA JUNIOR  0  11  2  8  43492380  LUIZ  CARLOS MOURA DE OLIVEIRA  0  11  2  9  42530610  LUIZ  CARLOS RIBEIRO DA SILVA JUNIOR  0  11  3  0  41831330  LUIZ  CLAUDIO ATAIDE DE ALBUQUERQUE  0  11  3  1  5708133  LUIZ  CLAUDIO DE VILLELA COUTINHO  0  11  3  2  43376355  LUIZ  CLAUDIO FARIA  137   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8564,17 +8564,17 @@ Id:  2727559
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 1255  42698090  MARCO AURELIO CEZAR MALDONADO  0  1256  43715192  MARCO AURELIO DE OLIVEIRA  11  7  1257  5708192  MARCO AURELIO DE OLIVEIRA ROSA  0  1258  42696917  MARCO AURELIO DO AMARAL PIRES  266  1259  43209831  MARCO GONCALVES DOS REMEDIOS  0  1260  50002953  MARCO RAFAEL GUIMARAES NASCIMENTO  120  1261  43369324  MARCOS ALEXANDRE LIMA MOREIRA  0  1262  50002406  MARCOS ALEXANDRE MOREIRA PINTO  131  1263  43567703  MARCOS ANDRE DE LIMA MALHEIROS  197  1264  43715524  MARCOS ANDRE DOS SANTOS MENEZES  11  8  1265  4  3  2  1 1  8   2  8  MARCOS ANDRE LIMA DE AZEVEDO  0  1266  50000993  MARCOS ANTONIO DE ASSIS ANDRADE  131,5  1267  43368840  MARCOS ANTONIO DE OLIVEIRA  240  1268  43825516  MARCOS ANTONIO FREITAS DE PAIVA  189,5  1269  43463665  MARCOS ANTONIO LHAMAS HERNANDES  0  1270  41961072  MARCOS ANTONIO LISBOA FILHO  0  1271  43547257  MARCOS ANTONIO SILVA DE BARCELOS  258,5  1272  43935109  MARCOS ANTONIO SILVA DOS REIS  11  8  ,  5  1273  43931910  MARCOS AURELIO DE MACEDO NOBREGA  0  1274  43714714  MARCOS AURELIO DOS SANTOS RAMOS  0  1275  50002090  MARCOS AURELIO FIORAVANTE LISBOA  140  1276  50001477  MARCOS AURELIO GOMES DA SILVA  136,5  1277  43379206  MARCOS DA SILVA MAGALHAES  0  1278  43187820  MARCOS DA SILVA SANTOS  0  1279  4  3  2  1 1  9   2  5  MARCOS DE ARAUJO BASTOS  0  1280  43182658  MARCOS GOMES ROCHA  260,5  1281  22135863  MARCOS LUIZ DE AZEVEDO AMARAL  0  1282  43929192  MARCOS MELO DE MENEZES  0  1283  42527546  MARCOS MONTEIRO DAMASCENO  0  1284  43368727  MARCOS PAULO ATAN DE ARAUJO  0  1285  50001884  MARCOS PAULO DA SILVA RIBEIRO  167,5  1286  50002473  MARCOS PAULO MONTEIRO COELHO  202,5  1287  50008455  MARCOS PEREIRA BENTES  126  1288  50008331  MARCOS PESSANHA MANHAES VIANA  0  1289  41962591  MARCOS RICARDO RODRIGUES DE AZEVEDO  0  1290  5  0  0  1 1  5   8  8  MARCOS ROBERTO DE FRANCA  0  1291  43824412  MARCOS RODRIGUES  141,5  1292  24378224  MARCOS SILVA BUENO  0  1293  50012215  MARCOS VALADARES PACHECO  0  1294  43714781  MARCOS VINICIOS SILVA DOS SANTOS  0  1295  43182569  MARCOS VINICIUS BASTOS MAIA  0  1296  50003100  MARCOS ZANONI VIEIRA DOS SANTOS JUNIOR  0  1297  50008340  MARCUS ANDRE MARQUES  0  1298  4  3  3  7   7  11  4  MARCUS VINICIUS COUTINHO DE CARVALHO  149  1299  50101714  MARCUS VINICIUS DA SILVA FERREIRA  0  1300  43209165  MARCUS VINICIUS DAS CHAGAS SANTIAGO  229,5  1301  43182364  MARCUS VINICIUS DE ARAUJO  0  1302  42698448  MARCUS VINICIUS DUQUE DOS SANTOS  0  1303  4  3  5  4   7  11  7  MARCUS VINICIUS E SILVA DOS SANTOS  0  1304  50001299  MARCUS VINICIUS FERREIRA DA COSTA  0  1305  41961080  MARCUS VINICIUS RIBEIRO MOISES  185  1306  50007220  MARGARETH MACIEL RANGEL  0  1307  50006916  MARIA APARECIDA DE OLIVEIRA GOMES  153  1308  50098080  MARIA CAROLINA CAMPELLO BITTAR DA MAT-  TA  0  1309  42697344  MARIA DANIELE LINDOLPHO DOS SANTOS  0  1310  41962273  MARIA HELENA DE MELO GARCEZ  0  1  3  11  43935176  MARIA INES PEREIRA DA CONCEICAO  0  1312  50098098  MARIA JOSE BIZERRA DOS SANTOS  159,5  1313  50000713  MARIA STELLA OLIVEIRA ARAUJO QUEIROZ  11  8  ,  5  1314  43375766  MARIANA LOURENCO PERES  0  1315  50009230  MARINO DE ALMEIDA  0  1316  43815375  MARIO DE SOUZA JUNIOR  0  1317  4  3  2  1 1  6   7  4  MARIO HENRIQUE DE JESUS COSTA  0  1318  5708214  MARIO MARCIO ALVES DA SILVA  0  1319  41961935  MARIO MARCIO CIMA  0  1320  43927815  MARIO SERGIO THOMAZ LYRIO  170,5  1321  41980247  MARISA OLIVEIRA BARBOSA  0  1322  43192610  MARISE LEANDRO RANGEL  209,5  1323  50001442  MARLON RIBEIRO DO ROSARIO  124,5  1324  50012240  MARLUS PIROTTI BEZERRA  155,5  1325  43368395  MAURICIO AZEVEDO JUNIOR  0  1326  43824030  MAURICIO CESAR PONCE  0  1327  43827128  MAURICIO DE MATOS SILVESTRE  150,5  1328  41962494  MAURICIO DE OLIVEIRA JUNIOR  0  1329  43449247  MAURICIO JOSE DE SOUZA JUNIOR  0  1330  50008706  MAURICIO JULIANO PARREIRA  0  1331  43369413  MAURICIO MEIRELES DOS SANTOS  0  1332  43928307  MAURICIO PAZ MONTEIRO DE CASTRO JU-  NIOR  0  1333  50009044  MAURICIO QUIRINO DE SOUZA  195,5  1334  43822223  MAURO ALVES MOURAO  0  1335  43203671  MAURO DO NASCIMENTO SOUZA  0  1336  43367755  MAURO DORNELLAS MACHADO  0  1337  41902386  MAURO JOSE PEREIRA DOS REIS  0  1338  43545688  MAURO LAUDIER VILAMOR  0  1339  50101749  MAURO SERGIO GOMES CATRINGUE  0  1340  50105957  MAXIMILIANO DE OLIVEIRA LOPES DA SILVA  0  1341  50003046  MAXWILLIAM SILVA FRANCO DA ROSA  157  1342  43913814  MAYCO VINICIO RODRIGUES DA SILVA  151  1343  16716086  MERLYN MANA  169,5  1344  43186033  MERY HELLEN DA SILVEIRA SALERMO  0  1345  43369022  MICHAEL DE SOUZA COSTA  2  11  1346  19802765  MICHAEL MARTINS ALVARENGA  0  1347  50001426  MICHEL DE SOUZA JACINTO  0  1348  43825184  MICHEL FREITAS IGNACIO  0  1349  42509742  MICHEL MARCOS DE OLIVEIRA  0  1350  5  0  0  9   8  11  0  MICHELE DE PONTES GUIMARAES DE OLIVEI-  RA  131,5  1351  50023829  MICHELE FRANCO CEZARIO RIBEIRO  157,5  1352  43367429  MICHELLE BATISTA MESQUITA TEIXEIRA  251,5  1353  43934269  MICHELY CRISTINE APARECIDA SANCHES FER-  NANDES  0  1354  43929362  MIGUEL KUPERMAN GARCIA  0  1355  43213499  MIKE BRENNON MATTOS PEREIRA  183,5  1356  50101846  MILTON GAIAO E SILVA JUNIOR  0  1357  41961951  MILTON RODRIGUES DOS SANTOS FILHO  0  1358  43546080  MIRIAM GENEROSA THEODORO  0  1359  43719155  MONICA CRISTINA LINHARES PINTO  0  1360  42730414  MONICA DE OLIVEIRA ADMIRAL MEIRELES  0  1361  43818773  MONICA SUELI CARDOSO DOS SANTOS  0  1362  42697280  MONIQUE DA CUNHA NUNES  132,5  1363  42697964  MONIQUE PIRES DA SILVA  132,5  1364  50098144  MONIQUE SANTOS NAZARIO  0  1365  43182747  MORGANA PAIVA DE ANDRADE  0  1366  50104705  MURILO CESAR DE CARVALHO  0  1367  41960769  MURILO DA MOTTA NOBREGA  0  1368  43815251  NATALIA ARETUSA VIEIRA SILVA  0  1369  43935010  NATALIA LUIZA SANTOS DE FREITAS  224,5  1370  43935702  NATALIA PEREIRA RAMOS  0  1371  43932509  NEILTON PEREIRA DA SILVA  0  1372  43825338  NEIMAR JUSTINO DA SILVA  0  1373  50105710  NEIVA LIMA DE ARAUJO CAVALCANTE  164,5   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8584,17 +8584,17 @@ Id:  2727559
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 1495  43545874  RENATA DA SILVA NEVES BARBOZA  188,5  1496  50006843  RENATA DE SOUZA LUPI  151,5  1497  50007084  RENATA DOS SANTOS BATISTA  237,5  1498  43866000  RENATA FRANCIS DE OLIVEIRA  194,5  1499  43546471  RENATA LOPES DE OLIVEIRA NEVES  197  1500  50106651  RENATA LUCAS DE SANTANA DOS ANJOS  0  1501  50096281  RENATA NAHON SANTOS  0  1502  41473825  RENATA SESSA DE OLIVEIRA  0  1503  42699126  RENATO BOMFIM ESPINDOLA  0  1504  4  3  4  1 1  8   5  1  RENATO COSTA FRANCISCA  264,5  1505  50001221  RENATO COSTA VALVERDE  0  1506  42531330  RENATO DA CRUZ DE LIMA  219  1507  43719228  RENATO DA SILVA ISIDORO  0  1508  43206450  RENATO DE JESUS RIBEIRO  130  1509  43369332  RENATO DE OLIVEIRA SILVA  139,5  1510  50102222  RENATO DE PAULA OLIVEIRA  0  1  5  11  42696879  RENATO DOS SANTOS LEMOS  0  1512  4  3  2  1 1  9   7  6  RENATO FERREIRA MOREIRA  0  1513  43931995  RENATO FRANCA MACHADO  0  1514  50001990  RENATO HADDAD AQUINO FILHO  183,5  1515  50102427  RENATO LISBOA DE CASTRO  171,5  1516  43430295  RENATO MARTINS DE FIGUEIREDO  124  1517  50002015  RENATO SANTANA JUVENAL  0  1518  43210961  RENATO VERDAN TAVARES  0  1519  42696453  REND CHARL ALVES DA SILVA  0  1520  50069721  RHEURY LAYME SCHEIDEGGER CONTSAYFFER  ANDRADE E SOUZA  123  1521  50002350  RICARDO CARDOSO  0  1522  4  3  2  1 1  3   3  0  RICARDO CHEBLE DE ANDRADE  0  1523  42696585  RICARDO CRUZ FERNANDES CARNEIRO  0  1524  43367879  RICARDO DA SILVA PINHO  0  1525  50002643  RICARDO DANTAS  0  1526  41404750  RICARDO DE BARROS MAXIMIANO  0  1527  50012134  RICARDO DE OLIVEIRA CAETANO  0  1528  42699797  RICARDO EDUARDO CUSTODIO  0  1529  50002104  RICARDO GONZAGA CORDEIRO  0  1530  5  0  0  1 1  6   2  6  RICARDO GOUVEIA FOLLY  0  1531  43377734  RICARDO JOSE DA SILVA  0  1532  42816041  RICARDO LUIZ DIAS DA CUNHA ALEGRE  174,5  1533  43825273  RICARDO MONTALDI DE CASTRO ANDRADE  231,5  1534  50002716  RICARDO SETUBAL RODRIGUES  164,5  1535  43182720  RICARDO SILVA DE MENEZES  167,5  1536  5708290  RICARDO SOUZA MONTEIRO  0  1537  50102435  RICARDO VALBERTO DOS SANTOS  105  1538  43377653  RICHARD QUEIROZ LOUREIRO  0  1539  5  0  0  0   9  3  11  RILDO DE AGUIAR MARTINS  0  1540  43928897  RILDO MARTINS PEREIRA  120,5  1541  43768202  ROBERT HALFOUN JUNIOR  0  1542  43717713  ROBERTA LOPES DE OLIVEIRA NEVES DE  BRAGANCA  138,5  1543  5703069  ROBERTO CARLOS DA SILVA  0  1544  50009265  ROBERTO CEZAR PEREIRA DOS SANTOS  90,5  1545  43814964  ROBERTO COSTA CORDEIRO  0  1546  43815138  ROBERTO DA PAIXAO TAVEIRA MARTINS  0  1547  43546900  ROBERTO FERNANDES DA SILVA JUNIOR  165  1548  42525705  ROBERTO GONCALVES NOBRE  0  1549  43928676  ROBERTO SOARES DE SOUZA  0  1550  50002872  ROBISOM CARDOSO DA SILVA  0  1551  43377610  ROBSON CARLOS DE FARIA NOBREGA  0  1552  42525560  ROBSON CORREA MARTINHO  0  1553  4  2  11  4  5  0  0  ROBSON DA MOTTA REIS  99,5  1554  43182771  ROBSON DE SOUSA DO AMARAL  0  1555  43368697  ROBSON FELIX PEREIRA  0  1556  41960777  ROBSON FERREIRA SANTOS  0  1557  43368212  ROBSON JOSE DE BRITO  0  1558  43932312  ROBSON LISBOA DE SOUSA  0  1559  43369456  ROBSON MOURA LESSA  0  1560  5  7  0  8   3  11  ROBSON TEIXEIRA ARAGAO  302,5  1561  5  0  0  1 1  9   7  9  RODERJAN LUCAS DE ANDRADE  143,5  1562  43369812  RODNEY SILVA DE CASTRO  0  1563  43547273  RODRIGO ABREU SOARES  0  1564  50008870  RODRIGO ARTUR FREITAS DA SILVA  247,5  1565  43368786  RODRIGO AUGUSTO DA SILVA  176,5  1566  43928030  RODRIGO BARBOSA CARLOS  0  1567  50001485  RODRIGO BENTO MENEZES DE CARVALHO  0  1568  50102478  RODRIGO CANDIDO MACHADO MONTEIRO  147  1569  43715338  RODRIGO COUTINHO CARRIJO  0  1570  50009494  RODRIGO DE ASSIS DE SOUZA NOLASCO  0  1571  43720307  RODRIGO DE BARROS PINHEIRO  124,5  1572  21858438  RODRIGO DE OLIVEIRA SAMPAIO SOARES  144,5  1573  50009559  RODRIGO DE PAULA ALMEIDA  0  1574  50102508  RODRIGO DE SOUZA ABREU  122  1575  5  0  0  1 1  8   1  2  RODRIGO DE SOUZA SANTOS  0  1576  50024000  RODRIGO DUARTE DE SANTANA  0  1577  41960785  RODRIGO FERNANDES  0  1578  50023969  RODRIGO LUIS FONTES DOS SANTOS  0  1579  50002880  RODRIGO LUIS GOMES NOGUEIRA  0  1580  43369383  RODRIGO MARQUES COSTA  0  1581  50008838  RODRIGO MUSAUER  0  1582  50012088  RODRIGO NEGREIROS BEZERRA  11  0  ,  5  1583  50102583  RODRIGO OCTAVIO DE BRITTO NOBRE  245,5  1584  43369359  RODRIGO PEIXOTO DO PRADO  0  1585  43207910  RODRIGO PEREIRA DA SILVA GUIMARAES  0  1586  4  2  5  2   4  9  11  RODRIGO PIETRE BIAGGIO  0  1587  41530322  RODRIGO SALVADOR COSTA  0  1588  42135265  RODRIGO SANTOS DE MACEDO  0  1589  5931681  RODRIGO SOUZA DE LIMA  0  1590  41961986  RODRIGO VELOSO GALVAO DE SOUZA  0  1591  50009036  RODRIGO VIANNA CESARIO  182,5  1592  50012053  RODRIGO VIEIRA MARQUES  155,5  1593  43717659  RODRIGO VILLAS AGEITOS  234,5  1594  41960637  ROGERIO ALVES BRAGA  0  1595  5  0  0  0   11  6  7  ROGERIO BARROSO DA CONCEICAO  177,5  1596  5  0  0  1 1  6   8  5  ROGERIO CARDOSO LAGO  0  1597  50002856  ROGERIO CHEDID  150,5  1598  50002066  ROGERIO DA SILVA OLIVEIRA  162,5  1599  50102656  ROGERIO DE PAULA SANTOS  0  1600  43368026  ROGERIO FRANCA DOS SANTOS  0  1601  43823408  ROGERIO GONCALVES  0  1602  43927831  ROGERIO MESQUITA DA SILVA  0  1603  43547109  ROGERIO NASCIMENTO DE PAULA  0  1604  43205917  ROGERIO SANTOS DA SILVA  0  1605  50002546  ROGERIO SANTOS SILVA  11  3  1606  41961579  ROGERIO SOUZA FERREIRA  0  1607  5708508  ROGERIO VIEIRA DE ABREU  0  1608  43368484  ROMEL CORREA RIBEIRO  0  1609  43463088  ROMERITO ALVES FRANCA  0  1610  42565464  ROMMEL DOS SANTOS PAES LEME  0  1  6  11  43927998  ROMULO BESFOR PEREIRA DA SILVA  0  1612  50012258  ROMULO CEZAR AGUIAR DOS SANTOS  154,5  1613  24862150  ROMULO FERREIRA DA COSTA  164,5  1614  4  3  2  1 1  8   9  5  ROMULO GASPAR DIAS  0  1615  43818340  RONALD DE CASTRO MELLO  0   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8606,20 +8606,20 @@ Id:  2727559
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 | 1736  42560179  THIAGO BRUNO ALVES PACHECO DOS SAN-  TO  S  316  1737  43927033  THIAGO CARDOSO DE SOUZA  94,5  1738  43928617  THIAGO DA SILVA CRUZ  0  1739  50002171  THIAGO DA SILVA PEREIRA  0  1740  43931880  THIAGO DE MOURA MACHADO  0  1741  50102826  THIAGO DE SA OLIVEIRA  153,5  1742  43546986  THIAGO DE SOUZA DO NASCIMENTO  173,5  1743  50107461  THIAGO FERREIRA CORREA  0  1744  43715206  THIAGO FERREIRA SALVANY  0  1745  50001795  THIAGO FRANCO LOPES  0  1746  43207081  THIAGO FREDERICO MARTINS DE OLIVEIRA  0  1747  43547133  THIAGO GARCEZ FERREIRA  0  1748  43815189  THIAGO GOMES COUTO  0  1749  50102850  THIAGO MARQUES FERREIRA  94,5  1750  4  3  2  1 1  4   9  6  THIAGO MATOS ANDREZA  148  1751  50104853  THIAGO MAX MELO DE OLIVEIRA  170  1752  50102877  THIAGO MOREIRA DO ESPIRITO SANTO  0  1753  43190626  THIAGO PIRES DE MESQUITA  203  1754  43363989  THIAGO ROBERTO DA FONSECA LUIZ  0  1755  43929435  THIAGO SANTOS CORREA  151  1756  50102885  THIAGO SANTOS MEDEIROS  0  1757  50103245  THIAGO SANTOS RAINHO  0  1758  42696470  THIAGO VIANNA DE SOUZA  0  1759  43547141  THIAGO VIDAL ANTUNES  256  1760  43929508  THIAGO VINICIUS DA SILVA NASCIMENTO  123  1761  43929656  THIAGO ZANCATTI DOS SANTOS  0  1762  42698030  THOMAZ FRANCO PEREIRA  0  1763  44184166  TIAGO RODRIGO DIAS DE SOUSA  0  1764  43715257  TIENY GUSMAO FERREIRA  310,5  1765  50104900  TULIO SOARES LOPES  182,5  1766  41961617  TYAGO FIGUEIRA DE MELLO  0  1767  42696429  UBIRATAN PEREIRA DOS SANTOS  243  1768  50001043  UBIRATAN PIMENTA SALATIEL  0  1769  43932002  ULADIMIR CAVALCANTE LEITE JUNIOR  0  1770  43282962  ULISSES DOMICIANO CUNHA  0  1771  43380000  ULISSES ELESBAO GOMES DE MELLO  152,5  1772  43368980  UZIEL  VASCONCELOS  169  1773  43545394  VAGNE LOPES GONCALVES  226,5  1774  50002902  VAGNER ALEX DA SILVA GOMES  0  1775  50005103  VAGNER COUTO DE JEZUZ  0  1776  42524830  VAGNER DE AZEVEDO SILVA  0  1777  50012207  VAGNER DOS SANTOS  0  1778  50103296  VAGNER GARCIA DA SILVA  95  1779  50103318  VAGNER LAU DA SILVA MACEDO  0  1780  4  1  9  6   11  4  5  VAGNER MENDES RODRIGUES  0  1781  43182950  VAGNER PESSOA E SILVA  0  1782  19949650  VAGNER RAMOS DOS SANTOS  181  1783  42698642  VAGNER THOMAZ PAIXAO DA FONSECA  0  1784  50104918  VALDEMAR RIBEIRO DA SILVA  0  1785  43934285  VALDENI CANDIDO ALVES  134,5  1786  50007181  VALERIA LEAL VALENTIM  0  1787  5708427  VALKIR ALMEIDA  0  1788  42699169  VALMIR DE ARAUJO FERNANDES JUNIOR  0  1789  50105736  VALQUIRIA CARDOSO GOMES  283,5  1790  50104926  VALTER BARBOSA  147  1791  41834771  VALTER LUIZ LOURENCO DOS SANTOS  0  1792  50008510  VALTER SILVA DE SOUZA  0  1793  4  3  2  1 1  4   2  9  VALTER SIQUEIRA GONCALVES FILHO  0  1794  50008951  VANDER DOS SANTOS SANTA ANA  0  1795  50009184  VANDER FERREIRA DA SILVA  0  1796  43928153  VANDER GUIMARAES  129  1797  43368670  VANDERLEI MARQUES DA SILVA  284  1798  43182909  VANDERLEI RICARDO DE SOUZA  0  1799  42699908  VANDERSON MOREIRA MARTINS  0  1800  14031248  VANESSA MARIA DE LIMA SANTANA  258,5  1801  50006908  VANESSA VIEIRA ALVES  0  1802  50098292  VANIA CRISTINA LIMA DA SILVA  312,5  1803  41962141  VANILZA HANG DA SILVA SANTOS  0  1804  43820468  VERA REGINA CORREA DA SILVA  193,5  1805  43934862  VERONICA ARAUJO CIPRIANO CAMPOS  0  1806  42697093  VERONICA LUCIA SILVA  0  1807  43182291  VICTOR EMANUEL FERREIRA DO NASCIMENTO  0  1808  43209602  VICTOR FELIX VIEIRA BARBOSA  0   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 1809  42532620  VICTOR HUGO MARQUES LINS  0  1810  50002910  VICTOR HUGO SANTOS SANT ANNA  176,5  1  8  11  43933483  VICTOR MAIA DE SOUZA  0  1812  50103377  VICTOR MONTEIRO MARTIN  0  1813  5  0  0  1 1  5   5  3  VINCENZO MONTONE JUNIOR  96  1814  4  2  6  9   7  6  11  VINICIUS  BORBA BRITO  0  1815  50103407  VINICIUS  DA  SILVA  VIANNA  0  1816  50003038  VINICIUS  DE  SOUZA  TANNER  0  1817  50105965  VINICIUS  LUIZ  DE  SOUZA  0  1818  42697379  VINICIUS  PIRES  VAZ  DE  AZEVEDO  0  1819  50103431  VINICIUS  QUEIROZ RODRIGUES  0  1820  4  3  2  1 11  5  1  VINICIUS  RAFAEL PINHEIRO LOPES  0  1821  43369910  VINICIUS  RODRIGUES DA SILVA  0  1822  43932088  VITOR DELANO DE MORAES  0  1823  19634471  VITOR HUGO PEYROTON ESTEVES  0  1824  43714471  VITOR LUIZ MARCAL VIEIRA  0  1825  42696534  VITOR MIGUEL SOUZA MONTEIRO  0  1826  43379621  VITOR WAYNNE BARRETO FERREIRA  239,5  1827  43182623  VIVIAN  MARIA  VOLTES DE SOUZA  210  1828  43819338  VIVIANE ALVES PEREIRA SOUZA COSTA  235  1829  50098306  VIVIANE BARROS SANTOS MAGALHAES  0  1830  50000829  VIVIANE CARVALHO FAGUNDES  0  1831  43368310  VIVIANE DE SANT ANNA MESQUITA  0  1832  42657393  VIVIANO ANTONIO MARTINS MENDES  194  1833  50006924  VIVIEN  KELY  FERREIRA DE AZEVEDO BRAGA  120,5  1834  43718680  VIVILANE PEREIRA FERREIRA  0  1835  41962540  WAGNER CASTRO MELLO  0  1836  43931952  WAGNER DOS SANTOS PINHEIRO  0  1837  41962559  WAGNER JARDIM DIAS  0  1838  43368719  WAGNER JOSE FERREIRA DA SILVA  0  1839  43813763  WAGNER LUIS DE FREITAS VIEIRA  0  1840  43413781  WAGNER LUIZ ALMEIDA DA SILVA  218,5  1841  41960564  WAGNER LUIZ GANDRA  0  1842  43209289  WAGNER MARINS ELIAS  0  1843  4  2  8  1   8  3  11  WAGNER MARTINS PADILHA  0  1844  43720285  WAGNER MONTEIRO DE SOUZA  0  1845  50001620  WAGNER OLIVEIRA DE ALMEIDA  166  1846  43933351  WALBER CRISTIANO DE OLIVEIRA  0  1847  43928013  WALDEMIR TARGINO DA SILVA  150  1848  5  0  0  0   11  0  8  WALESCA MEDEIROS PEREIRA  105  1849  50104942  WALLACE DA SILVA  0  1850  43932304  WALLACE DE SOUZA SANTOS  0  1851  43929214  WALLACE GOMES DIAS  203,5  1852  43368808  WALLACE MENDONCA DE FRANCA  0  1853  43412173  WALLIN FRANCISCO DA SILVA E SILVA  0  1854  50009788  WALTER DE ALMEIDA JUNIOR  0  1855  42697441  WANDER ROBERTO MOREIRA LIMA  0  1856  50009176  WANDERLEI ONOFRE GONCALVES  0  1857  50002740  WANDERLEY AULAIR DA SILVA  0  1858  43715907  WANDERLEY DEBAQUER DA SILVA  0  1859  50001370  WANDERSON ALVES VIEIRA  179,5  1860  42525365  WANDERSON CESAR DA SILVA ALVES  0  1861  42698715  WANDERSON KLEIN CARVALHO  0  1862  50104950  WANDERSON REIS HENRIQUE  137,5  1863  43192920  WASHINGTON ALMADA BESERRA JUNIOR  156,5  1864  43694845  WASHINGTON AMARO PEREIRA  11  3  1865  42697921  WASHINGTON DE ASSIS GOMES  0  1866  5708443  WASHINGTON LUIZ DE SOUZA  0  1867  43815731  WELLINGTON LUIZ SOARES DE SOUZA  0  1868  43715753  WELLINGTON NUNES DA SILVA  227  1869  50001248  WENDEL DOS SANTOS PORTELLA  151  1870  50002279  WENSTEN TORRES DA SILVA  0  1871  43182518  WESLEY DA CONCEICAO ROSAS  0  1872  50002589  WESLEY RODRIGO LOURENCO GOMES  152  1873  43715419  WILIAN XAVIER DA SILVA NAZARETH  171,5  1874  43816061  WILLIAM CONCEICAO DOS SANTOS  0  1875  50103458  WILLIAM DOS SANTOS PIMENTEL  0  1876  43935699  WILLIAM MOREIRA DOS SANTOS  0  1877  34664734  WILLIAM RODRIGUES LOPES  0  1878  43714900  WILLIAN ALMEIDA DA SILVA  0  1879  43928820  WILLIAN APPOLINARIO  168,5  1880  50009060  WILLIAN DOMINGOS DE ALMEIDA BORBA  0  1881  50103474  WILLIAN RAFAEL BRAGA DE LIMA  321,5  1882  5  0  0  1 1  9   6  0  WILSON BATISTA JUNIOR  0  1883  50028863  WILSON DE ARAUJO CARVALHO  200,5  1884  50002368  WILSON LEONARDO D ARAUJO DIAS  0  1885  50001558  WILSON MORAES DE SOUZA NETO  0  1886  5  0  0  1 1  8   9  8  WILTON JOSE DA SILVA  0  1887  43814603  WLADEMIR DE ARAUJO SOARES FERREIRA  0  1888  43932240  WOLKER DA SILVA MAFFRA JUNIOR  0  1889  50103539  YURI MENESES NASCIMENTO GOMES  0   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8650,17 +8650,17 @@ SECRETARIA DE ESTADO DE DEFESA CIVIL CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO
 
 ## EXTRATO DE TERMO ADITIVO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 <!-- image -->
 
@@ -8807,21 +8807,21 @@ FUNDAMENTAÇÃO: Nos termos  da Lei  Federal nº  14.133, de  1º de abril  de  
 
 Id:  2727379
 
-/U0044/U0045
+DE
 
-/U0034/U0039
+49
 
-/U0049
+I
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0039
+9
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 ## SECRETARIA DE ESTADO DE SAÚDE SUBSECRETARIA EXECUTIVA SUPERINTENDÊNCIA DE COMPRAS E LICITAÇÕES COORDENAÇÃO DE LICITAÇÃO
 
@@ -9005,17 +9005,17 @@ I  N S  T  R  U  M  E  N  TO  : Termo  de Ajuste  de Contas nº  185/2026. PA  R
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 I  N S  T  R  U  M  E  N  TO  : Termo  de Ajuste  de Contas nº  233/2026. PA  R  T  E  S  : Fundação Saúde  do Estado do  Rio de  Janeiro e a  empresa BRAVO ASSESSORIA  E SERVIÇOS  EMPRESARIAIS  LTDA. O  B  J  E  TO  : Te  m por  objeto a  indenização pela  prestação  de serviços  de apoio  assistencial,  para  a  Central  Estadual  de Regulação  -  CER,  no  período  de 01/12/2025 à  31/12/2025, conforme  solicitado e  comprovado através da  apresentação  das notas  fiscais  devidamente  atestadas, tendo  sua viabilidade jurídica  confirmada pelo  Parecer n.º  291 (SEI-124079873). VALOR TOTAL: R$ 27.753,75 (vinte e sete mil, setecentos e cinquenta  e  três  reais  e  setenta  e  cinco  centavos). F  U  N  D  A  M  E  N  TO  : Decidido no  processo  administrativo  SEI-080002/033020/2025. DATA DA ASSIN  AT  U  R  A  : 06/04/2026.
 
@@ -9127,17 +9127,17 @@ ENSINO MÉDIO - FORMAÇÃO DE PROFESSORES DE 1ª A 4ª SÉRIES DO 1º GRAU Proce
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 ## 9  -  SISTEMA  ELITE  DE  ENSINO  -  Nova  Iguaçu
 
@@ -9326,17 +9326,17 @@ Id:  2727296
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## CEJA JOSÉ CARLOS BRANDÃO MONTEIRO
 
@@ -9620,17 +9620,17 @@ G  E  S  TO  R  : Luiz  Fernando  Ventura  de  Souza  -  matrícula  nº  36.229
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 FISCAIS: Suzete  Henrique da Silva  - matrícula nº 851.957-1  e Wil- liams  Guerreiro  Guerra  Filho  -  matrícula  nº  38.338-0. NOMEAÇÃO : Portaria  nº  HUPE/2573/2026. DATA DA ASSINATURA: 07  de  abril  de  2026. FUNDAMENTO DO ATO: Processo  nº  SEI-260007/016533/2025. I  N  S  T  R  U  M  E  N  TO : Contrato  nº  190/2026/HUPE. PA  R  T  E  S : UERJ/HUPE e DLW COMERCIAL DISTRIBUIDORA LTDA. OBJETO: Aquisição  de  material  de  OPMES  para  a  UDA  de  Cardio- logia  do  HUPE. VIGÊNCIA: 12  (doze)  meses. FUNDAMENTAÇÃO  DA  DESPESA: Artigo 75  - Inciso III, a, da Lei Federal  nº  14.133/2021. VALOR: R$  7.515,00  (sete  mil  quinhentos  e  quinze  reais). N.E: 2026NE01287. G  E  S  TO  R  : João  Antônio  Petito  do  Rio  Verde  -  matrícula  nº  35.696-4. FISCAL: Victor  Vergette  de  Almeida  -  matrícula  nº  41.847-5 NOMEAÇÃO : Portaria  nº  HUPE/2577/2026. DATA DA ASSINATURA: 07  de  abril  de  2026. FUNDAMENTO DO ATO: Processo  nº  SEI-260007/000396/2026.
 
@@ -9706,7 +9706,7 @@ A R  E  I  TO  R  A DA  UNIVERSIDADE  ESTADUAL  DO NORTE  FLUMINENSE DARCY RIBEI
 
 Editais  e  anexos  disponíveis  no  site:  www.compras.rj.gov.br
 
-/U0049
+I
 
 em até 60 (sessenta) dias contados  a partir da publicação deste Edital,  as  inscrições para  o  Concurso  Público  de  Provas e  Títulos  para provimento  de  01  (uma)  vaga para  Professor  Associado,  em  virtude da  aposentadoria  de  RICARDO  MOREIRA DE  SOUZA,  publicada  no DOERJ de 11/07/2025, com  carga  horária  de  40 (quarenta)  horas  semanais,  com  Dedicação Exclusiva  e  Tempo  Integral,  na área  de  Fitopatologia.
 
@@ -9834,17 +9834,17 @@ A  SECRETÁRIA DE  ESTADO DE  CULTURA E  ECONOMIA CRIATIVA DO RIO  DE JANEIRO , 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 06 Processo  nº SEI  180001/000906/2026 Projeto: Rio  Fashion  Week Produção: Proponente: Nacional IMM MODA LTDA. CPF/CNPJ: Patrocinador: 29.938.443/0002-90 Lojas  Riachuelo  S.A. CNPJ: Valor  Total  Incentivado: 33.200.056/0073-13 R$  11  0  .  0  0  0  ,  0  0 Destinação  Obrigatória  (1/5  do  Valor Incenti-vado): R$  22.000,00
 
@@ -9878,7 +9878,7 @@ CPF/CNPJ: Patrocinador: 29.938.443/0002-90 Lojas  Riachuelo  S.A. CNPJ: Valor  T
 
 20 Processo  nº SEI  180001/000906/2026 Projeto: Rio  Fashion  Week Produção: Proponente: Nacional IMM MODA LTDA. CPF/CNPJ: Patrocinador: 29.938.443/0002-90 Lojas  Riachuelo  S.A. CNPJ: Valor  Total  Incentivado: 33.200.056/0291-20 R$  60.000,00
 
-/U0050/U004F/U0044/U0045/U0052 /U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+PODER EXECUTIV O
 
 Destinação  Obrigatória  (1/5  do  Valor Incenti-vado): R$  12.000,00
 
@@ -9902,17 +9902,17 @@ Destinação  Obrigatória  (1/5  do  Valor Incenti-vado): R$  12.000,00
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 30 Processo  nº SEI  180001/000906/2026 Projeto: Rio  Fashion  Week Produção: Proponente: Nacional IMM MODA LTDA. CPF/CNPJ: Patrocinador: 29.938.443/0002-90 Lojas  Riachuelo  S.A. CNPJ: Valor  Total  Incentivado: 33.200.056/0547-45 R$  20.000,00 Destinação  Obrigatória  (1/5  do  Valor Incenti-vado): R$  4.000,00
 
@@ -9936,39 +9936,39 @@ Destinação  Obrigatória  (1/5  do  Valor Incenti-vado): R$  12.000,00
 
 40
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0033
+063
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U002D
+-
 
-/U0039
+9
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0032/U0030/U0032/U0036
+2026
 
 Processo  nº SEI  180001/000906/2026 Projeto: Rio  Fashion  Week Produção: Proponente: Nacional IMM MODA LTDA. CPF/CNPJ: Patrocinador: 29.938.443/0002-90 IGUASPORT LTDA. CNPJ: Valor  Total  Incentivado: 02.314.041/0052-28 R$  130.000,00 Destinação  Obrigatória  (1/5  do  Valor Incenti-vado): R$  26.000,00
 
@@ -9984,7 +9984,7 @@ Processo  nº SEI  180001/000906/2026 Projeto: Rio  Fashion  Week Produção: Pr
 
 Processo  nº SEI  180001/000906/2026 Projeto: Rio  Fashion  Week Produção: Proponente: Nacional IMM MODA LTDA. CPF/CNPJ: Patrocinador: 29.938.443/0002-90 Ponteland  Distribuição  S.A. CNPJ: Valor  Total  Incentivado: 04.247.792/0001-54 R$  200.000,00 Destinação  Obrigatória  (1/5  do  Valor Incenti-vado): R$  40.000,00
 
-/U0035/U0035
+55
 
 Id:  2727337
 
@@ -10016,41 +10016,41 @@ INSTRUMENTO: Termo  de  autorização  de  uso  de  imagem  e  de  reprodução 
 
 Id:  2727237
 
-/U0035/U0036
+56
 
-/U004E
+N
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0036/U0033
+063
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0049/U004E/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUINT A-FEIRA
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0039
+9
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA FUNDAÇÃO THEATRO MUNICIPAL DO ESTADO DO RIO DE JANEIRO
 
@@ -10114,17 +10114,17 @@ PROCESSO N° SEI-180005/000125/2026.
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 obriga-se o  AUTORIZATÁRIO o pagamento do  valor de R$1.000,00 (mil  reais). FUNDAMENTO: Lei  nº  9.610/98,  artigo  79. DATA DA ASSINATURA: 26/03/2026
 

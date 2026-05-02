@@ -263,17 +263,17 @@ Ceres Pimenta Diretora Industrial
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº SEI-040001/000404/2025  - AUTORIZO a  prorrogação da  cessão  do  servidor Napoleão  Ramos de  Brito  Segundo,  Id.  Funcional  nº  5028966-7,  do  Quadro  de Pessoal  da  Secretaria  de  Estado de Fazenda,  no Tribunal Regional  do Trabalho da 13ª  Região, por mais  01 (um)  ano,  a contar  de  20.06.2026, a  fim  de continuar  exercendo a  Função Comissionada de  Calculista -  FC-04, da 6ª  Vara do Trabalho  de  Campina  Grande,  com  ônus  para  o  órgão  cessionário.
 
@@ -458,17 +458,17 @@ Superintendente  de  Contratos  e  Compras Id:  2726564
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## ADMINISTRAÇÃO VINCULADA
 
@@ -489,7 +489,7 @@ Art.  1º  Ficam designados, pelo prazo de 01 (um) ano, os servidores abaixo rel
 | NOME  Id.  Func.  nº  Adimilson  Martins  de  Oliveira  20680554  Adriana  De  Vasconcellos  Ribeiro  Sobrinho  44013450  Adriano  Figueredo  de  Almeida  50097610  Adriano  Quintanilha  Torres  43799310  Alessandra  Fernandes  de  Souza  50295454  Alexandre  Falseth  50295500  Alexsandre  Ferrari  Barbosa  50351753  Aline  Oliveira  dos  Santos  50280856  Allan  da  Cruz  Rodrigues  Souza  50295705  Alocir  dos  Santos  Veiga  44230524  Alvaro  Luis  Marcondes  Stoppa  20662335  Ana  Carolina  Luz  Ferreira  44000782  Ana  Lucia  de  Avilez  Fonseca  da  Silva  50323369  Ana  Paula  Barbosa  Andrade  Martins  50309986  Anderson  Jose  da  Costa  44000090  Andre  Luiz  Ferreira  Costa  50281852  Andre  Luiz  Melo  Brites  50308335  Andre  Mendes  Freitas  Britto  50295870  Andreza  Pereira  Fernandes  50304399  Arnaldo  Lopes  Furtado  50296108  Arquimedes  Nunes  Machado  50322184  Aryane  Cunha  Alschefesky  44000332  Beatriz  de  Oliveira  Garcia  50304372  Bianca  Fransoine  Vitor  da  Silva  44230362  Bruna  Fagundes  dos  Santos  44000618  Brunna  Barbosa  de  Assis  50304348  Bruno  Almeida  Jacinto  Mendes  50324950  Bruno  de  Oliveira  Ribeiro  Moraes  50257218  Bruno  Silva  Maciel  Amorim  44000367  Carlo  Magno  de  Lemos  Casado  21956537  Carlos  Espirito  Santo  de  Andrade  50308459  Celso  Jose  Tinta  50296728  Charles  de  Oliveira  Rodrigues  50296809  Cid  Leonardo  Reis  Pinto  50308467  Cintia  de  Moraes  da  Silva  44230907  Ciron  da  Silva  Castro  44091648  Claiton  Pereira  Ramos  50308483  Claudia  Castro  Cuellar  Martins  43840540  Cleber  Barros  Barreto  41807642  Cleber  Batista  de  Almeida  Nobre  20706480  Cleilton  Lima  20636253  Clovis  Bastos  de  Mattos  44002629  Cristiana  de  Pontes  Leite  50310135  Cristiano  Andrade  de  Souza  50296868  Cristiano  da  Silva  Fernandes  43802303  Cristiano  Machado  44030002  Cristina  Santos  Marcos  50296892  Daniele  Ferreira  Lopes  50296949  Deivid  Alves  Farias  44091931  Diego  Monteiro  Schuenck  50297384  Diego  Oliveira  Ribeiro  50309749  Diogo  Souza  de  Farias  do  Carmo  43799230  Djalma  Martins  de  Moura  50321560  Ebla  Mahin  Marcondes  de  Oliveira  5  0  3  2   6  11  2  Edielson  Gomes  Pimentel  5  0  3  2   8  11  5  Edilson  Alves  de  Souza  50318217  Edilson  da  Silva  Ribeiro  50297430  Edimara  Carbone  da  Silva  50326147  Edlaine  Bosco  da  Silva  Ferreira  50283405  Eduardo  da  Conceição  Vila  Nova  44000545  Elenilso  Stofel  Pereira  de  Souza  4  4  2  3   2  11  0  Eliane  Mello  Lopes  50326180  Eliene  Marinho  dos  Santos  43609473  Elisa  Saad  Nascentes  50282476  Elisangela  Ximenes  Trindade  50282549  Ellen  Maria  Soares  Alves  50282646  Erica  Quadros  Wanderley  50297643  Erlon  Ribeiro  de  Matos  44005440  Evandro  Candido  da  Silva  4  4  2  3   11  5  6  Evandro  Garcia  Rodrigues  43339395  Evandro  Pacheco  Casemiro  44000839  Fabiana  da  Silva  Dias  4  3  8  1 1  7   0  1  Fabiano  Lanas  Domingos  50309900  Fabio  da  Silva  Muniz  50325027  Fabio  dos  Santos  Gonçalves  50309854  Fabio  Gomes  dos  Reis  44231350  Fabio  Rodrigues  Marins  50326252  Fabiola  Balbino  Gonçalves  43799736  Fabricio  Furtado  Marques  44155859  Fabricio  Lotufo  Corbelino  50282530  Fatima  Cristina  Carvalho  50297244  Felipe  Jose  Santos  Fabião  50309242  Felipe  Santos  Lamim  de  Almeida  50325515  Felipe  Veronese  de  Mello  Menezes  50309307  Fernando  Cesar  Britto  de  A  do  Carmo  50297317  Fernando  da  Silva  Aguiar  50297325  Fernando  José  Martins  Junior  44158920  Filipe  dos  Santos  Nunes  50297376  Flávia  Moutinho  Gonçalves  44231245  Franciele  Eller  Sangy  50297546  Gabriel  Vaz  Araújo  de  Souza  43747574  Gabriel  Viana  de  Freitas  50283600  Gabrielle  Sant'anna  dos  Santos  50297902  Geraldo  Luiz  de  Paula  20619332  Giordano  Marques  da  Costa  50313002  Giovana  Franco  Berni  de  Azevedo  50283936  Gustavo  Casamasso  Andriolo  44230079  Gustavo  da  Silva  Dias  43802591  Harison  Augusto  do  Amparo  50285696   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0033
+3
 
 <!-- image -->
 
@@ -551,17 +551,17 @@ Id:  2726620
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO  Nº SEI-150016/058414/2025 -RENOVO pelo prazo  de 01  (um) ano  o credenciamento  da empresa  GOLD TRANS  CLINICA DE  MEDICINA  E  PSICOLOGIA  DE  TRAFEGO  LTDA , Registro  DH 36203 , no endereço  funcional Rua Otavio Tarquino, 74 -  Ap 1002 Centro  Nova  Iguaçu -  RJ,  para realização  de exame  de aptidão  física  e  mental  e  de  avaliação  psicológica  para  o  processo  de  habilitação  de  candidatos  e  de  condutores.
 
@@ -753,17 +753,17 @@ Id:  2726524
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE FAZENDA
 
@@ -960,17 +960,17 @@ Recurso  nº  842.29  (OFÍCIO)  -  Processo  nº  SEI-040006/022709/2025  Recor
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 Recurso  nº 72.769  (OFÍCIO)  -  Processo nº  SEI-E-04/010/000103/2017 -  Recorrente: FAZENDA ESTADUAL - Interessada: MEDALHA DE OURO ATACADO  DE CEREAIS LTDA -  Relatora: Conselheira Luciana Dornelles  do  Espírito  Santo  -  Representante  da  Fazenda:  Silvia  Faber To  r   r   e   s  .
 
@@ -1178,17 +1178,17 @@ Id:  2726532
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 empresa  NOAH TERAPIAS  INTEGRAS LTDA,  CNPJ sob o n° 46.133.301/0001-94,  contrato nº  432/2025  firmado  com a  empresa GRUPO THECON TERAPIA E CONSULTORIA LTDA ME - CNPJ sob o  n° 14.582.676/0001-45,  contrato  nº 368/2024  firmado  com a  empresa  COINTE  CLÍNICA  INTEGRADA DE TERAPIAS LTDA, CNPJ sob o n°  40.828.905/0001-79, contrato  nº563/2024  firmado  com a  empresa COINTE CLÍNICA INTEGRADA DE TERAPIAS LTDA, CNPJ sob o n° 40.828.905/0002-50 contrato nº 467/2025 firmado com a empresa NÚCLEO PEDAGÓGICO SEMEANDO FLORES  LTDA, CNPJ sob o n° 22.008.648/0001-47.
 
@@ -1248,7 +1248,7 @@ III  autorizar licitações, aprovar  e homologar os resultados, inclusive aceit
 
 IV  assinar  acordos,  convênios  e  contratos,  bem  como  aplicar  as  penalidades pecuniárias  previstas em lei, quando  verificado o descumprimento de  compromisso ou obrigação, nos  casos de fornecimento, obras,  aquisição  ou  prestação  de  serviço;
 
-/U0037
+7
 
 V editar normas de rotina  no âmbito da Subsecretaria  de Comando e  Controle;
 
@@ -1416,17 +1416,17 @@ Id:  2726608
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR DIRETORIA GERAL DE ADMINISTRAÇÃO E FINANÇAS
 
@@ -1715,27 +1715,27 @@ I  N  S  TA  U  R  A a Sindicância Administrativa Disciplinar  (SAD) nº  40700
 
 Id:  2726365
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0031
+061
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0039
+9
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL DEPARTAMENTO-GERAL DE ADMINISTRAÇÃO E FINANÇAS
 
@@ -1829,17 +1829,17 @@ Id:  2726525
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº SEI-360006/001387/2026 -  RITA  DE CÁSSIA  COSTA DA  SILVA,  Oficial de  Polícia  Civil,  ID  Funcional  n° 5.171.143-5  -  603 dias  ao  Governo  de  Minas  Gerais.
 
@@ -1925,17 +1925,17 @@ DESIGNA , como  Sindicante, o Inspetor de  Polícia Penal ,  ANTÔNIO DE  SOUZA 
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 ## CADEIA PÚBLICA COTRIM NETO
 
@@ -2023,43 +2023,43 @@ DESIGNA , como  sindicante, o  Inspetor de Polícia  Penal THIAGO SANTOS  RAINHO
 
 DESIGNA ,  como  Sindicante,  o  Inspetor  de  Policia  Penal JADSON BOEK FERREIRA, ID:  4354875-0.  Fixa o  prazo de  30  (trinta) dias,  a partir da  data da publicação,  para a conclusão dos  trabalhos. Processo  n.º  SEI-210001/031557/2026.
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0036/U0031
+061
 
-/U002D
+-
 
-/U006F
+o
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0031
+1
 
-/U0031
+1
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0037
+7
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 ## CADEIA PÚBLICA INSPETOR JOSÉ ANTONIO DA COSTA BARROS
 
@@ -2289,17 +2289,17 @@ INSTITUTO PENAL EDGARD COSTA
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 ## DESPACHOS DO DIRETOR DE 06.03.2026
 
@@ -2546,17 +2546,17 @@ Art.  1º -Descentralizar  a  execução  do  crédito orçamentário  na  forma
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
 - I  -  OBJETO :  Repasse de recursos oriundos de fonte federal, referente à  produção da  Policlínica  Universitária  Piquet Carneiro-PPC,  prevista
 - Art.  7º -  Esta Resolução  conjunta entrará em  vigor na  data de  sua publicação,  produzindo  efeitos  a  contar  de  1º  de  janeiro  de  2026. Rio  de  Janeiro,  18  de  março  de  2026
@@ -2621,7 +2621,7 @@ Id:  2726602
 
 A  SECRETÁRIA  DE ESTADO  DE  SAÚDE  E O  DIRETOR  EXECUTIVO  DA  FUNDAÇÃO SAÚDE  DO  ESTADO  DO RIO  DE  JANEIRO , no uso de suas atribuições legais e tendo em vista o disposto no processo  SEI-080001/026084/2025,  de acordo  com  a  Lei nº  10.899,  de 21  de julho  de  2025,  que dispõe  sobre  as  diretrizes para  elaboração da Lei  do Orçamento Anual de  2026, e dá outras  providências; a Lei Orçamentária  Anual  n°  11.098  de  08  de  janeiro  de  2026,  estima  a  receita e fixa  a despesa do Estado  do Rio de Janeiro  para o exercício financeiro  de 2026;  a  Lei n°  11.097  de  08 de  janeiro  de 2026,  que dispõe sobre a revisão 2026 do Plano Plurianual do Estado do Rio de Janeiro -  PPA para  o período  de 2024-2027,  instituído pela  Lei n°
 
-/U0049
+I
 
 10.276 de 09  de janeiro 2024; o  Decreto n° 50.102 de  14 de janeiro de  2026,  que  estabelece  normas de  programação  e  execução  orçamentária, financeira e  contábil para o exercício de 2026  e dá outras providências,  e  o  Decreto  nº  42.436,  de  30  de  abril  de  2010,  que  dispõe sobre  a Descentralização da Execução  de Créditos Orçamentários.
 
@@ -2764,17 +2764,17 @@ Id:  2726709
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Tempo de Serviço - MTS. Considerando as determinações contidas na Resolução SES nº 1.344 de 08  de março de 2016 - MARNEILI PEREIRA MARTINS,  Enfermeiro, matrícula nº 297.256-0,  ID 3007965-9, FAZ JUS ao  Abono  de  Permanência  a  partir  de  14/02/2021.
 
@@ -2929,17 +2929,17 @@ Id:  2726258
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO D  I  R  E  TO  R  IA A  D  M  I  N  I   S   T  R  AT  I  V  A FINANCEIRA
 
@@ -2991,7 +2991,7 @@ DISPENSA ,  a pedido, GILMARA  BORGES  DA SILVA  RODRIGUES , Prof.  Doc.  II,  I
 
 DISPENSA ,  a  pedido, PRISCILLA SOARES DE OLIVEIRA ,  Prof.  Doc. I, ID  50351290/1, da função  de Diretor  Adjunto do C.E.  Prof.ª Dalila
 
-/U0049
+I
 
 de  Oliveira  Costa,  U.A.  118201030505578,  Município  de  São  Gonçalo, da  Secretaria de  Estado de  Educação, designada  provisoriamente através do ato  de 21/08/2025, publicado no  DOERJ de 22/08/2025. Processo  nº  SEI-030001/029070/2026.
 
@@ -3089,17 +3089,17 @@ PROCESSO Nº  SEI-E-03/90148/2010 ANDRE SALAZAR  DE MOURA, ID.  Funcional nº 19
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 RETIFICAÇÃO D.O.  DE  31/03/2026 PÁGINA 22 2ª COLUNA
 
@@ -3199,17 +3199,17 @@ Id:  2726488
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO CORREGEDORIA INTERNA
 
@@ -3226,17 +3226,17 @@ O CORREGEDOR INTERNO INTERINO ,  no  uso  da  atribuição  que  lhe  confere  o
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | LUCIANA LOPES MARINHO  5663067/2  PROFESSOR DOC. I  LUCIENE RODRIGUES AMBROSIO  33003440/1  PROFESSOR DOC. I  LUCIO DIAS BRAGA  41738977/4  PROFESSOR DOC. I  LUIZ  ADOLFO VAZ MORAIS  39333710/1  S  E  RV  E  N  T  E  LUIZ  ANTONIO ANDRADE OLIVEIRA  43767630/2  PROFESSOR DOC. I  LYGIA PINHEIRO DE AGUIAR  36765244/1  PROFESSOR DOC. I  MAGDA CRISTIANE ELIAS SILVA  36614513/1  PROFESSOR DOC. II  MAÍRA ALCANTARA MEYBERG  43793827/2  PROFESSOR DOC. I  MAIRA FERREIRA LIMA  43750281/2  PROFESSOR DOC. I  MANOEL ALEXANDRE NETO  32876726/1  AGENTE AUXILIAR ADMINISTRATIVO  MARCELA DE AZEVEDO CASTILHO  51376954/1  PROFESSOR DOC. I  MARCELO MARTINS GIFFONI  41904176/2  PROFESSOR DOC. I  MARCIA ANGELICA MONTEIRO DA SILVA  43354467/1  PROFESSOR DOC. I  MARCIA CRISTINA DE SOUZA MENEGUITE LOPES  50206869/2  PROFESSOR DOC. I  MARCIO ROGERIO DA COSTA  5557127/1  PROFESSOR DOC. I  MARCITO DE JESUS TEIXEIRA  5  1  4  1 1  4  7  4  /   1  PROFESSOR DOC. I  MARCO ANTONIO GUERRA DE OLIVEIRA  43686303/1  PROFESSOR DOC. I  MARCO AURELIO MACHADO  5592445/1  PROFESSOR DOC. I  MARCOS BARBOSA TORRES  1996436/1  PROFESSOR DOC. I  MARGARETH DE OLIVEIRA MAIA  36459658/1  PROFESSOR DOC. I  MARIA ALICE GOMES PINTO  42805350/1  PROFESSOR DOC. I  MARIA CLAUDIA WEYDTT DA CRUZ  34900039/1  PROFESSOR DOC. I  MARIA DAS GRACAS TEIXEIRA BRAGA  43644082/2  PROFESSOR DOC. I  MARIA GLORIA DA SILVA MATOS  43954707/1  PROFESSOR DOC. I  MARIA IZABEL BRAGA GONCALVES  42100968/3  PROFESSOR DOC. I  MARIA LUCIA DE LIMA  42612152/4  PROFESSOR DOC. I  MARIANA DE OLIVEIRA BURGOS  50246836/1  PROFESSOR DOC. I  MARINA RODRIGUES LISBOA  43317332/1  PROFESSOR DOC. I  MARIO FERNANDES  35680156/1  S  E  RV  E  N  T  E  MAURICIO DE OLIVEIRA PENCHEL MADEIRA  41996585/1  PROFESSOR DOC. I  MAURICIO TENORIO MARQUES BARROS  41996658/1  PROFESSOR DOC. I  MICHEL BERNARDO MARTINS DE ALMEIDA  42523621/1  PROFESSOR DOC. I  MICHELE DE LIMA GONCALVES  44126980/2  PROFESSOR DOC. I  MIRIAN ALVES FERREIRA  42598788/2  PROFESSOR DOC. I  MONICA REIS FELIZOLA  36175846/1  PROFESSOR DOC. I  MONIQUE SARAIVA LEITAO  51377179/1  PROFESSOR DOC. I  NICOLE SILVA CALIMAN MONTEIRO  51378965/1  PROFESSOR DOC. I  OLIVIA  MARIA  RODRIGUES GALVAO  35712279/1  PROFESSOR DOC. I  PAMELA FERREIRA DA FONSECA  43434681/1  PROFESSOR DOC. I  PAULINA DE SOUZA MACHADO ROCHA  39686647/1  PROFESSOR DOC. II  PAULO HUMBERTO AZEVEDO PONTE JUNIOR  50782797/1  PROFESSOR DOC. I  PAULO JOSE DOS SANTOS  42101247/3  PROFESSOR DOC. I  PAULO RENATO DE FARIAS PORTO FILHO  50063456/1  PROFESSOR DOC. I  PEDRO AUGUSTO CARELLI DE CASTRO CHAVES  43945929/1  PROFESSOR DOC. I  PEDRO PAULO BARBOSA DE SA  32265654/5  PROFESSOR DOC. I  PENHA CRISTINA LIMA LOUREIRO  5677106/4  PROFESSOR DOC. I  PRISCILA SOARES DA SILVA  43767052/1  PROFESSOR DOC. I  RACHEL HELENA DA SILVA BRITO  50167596/1  PROFESSOR DOC. I  REGINA MARCIA REIS ALVES DE CARVALHO MALHEIROS  39228258/1  PROFESSOR DOC. I  REGINA MARIA DO CARMO NETO  5458218/1  PROFESSOR DOC. I  REGINALDO TOBIAS DE OLIVEIRA  35653388/1  PROFESSOR DOC. I  REJANE DOS SANTOS BARBOSA  42780209/2  PROFESSOR DOC. I  RENATA CABRAL DOS SANTOS  42603315/1  PROFESSOR DOC. I  RENATA EVORA MACHADO E SILVA  44143427/1  PROFESSOR DOC. I  RENATA RENOVATO MARTINS  44137338/1  PROFESSOR DOC. I  RENATA SIMONEK FERNANDES  50184768/1  PROFESSOR DOC. I  RITA  DE  CASSIA  FERREIRA  PEDROSO  33269149/1  PROFESSOR DOC. I  ROBERTO ALVES SIMOES  39263576/1  PROFESSOR DOC. I  ROBSON LIMA ALVES DA SILVA  50257005/2  PROFESSOR DOC. I  ROGERIO ALVAREZ  43457380/1  PROFESSOR DOC. I  ROMULO FLORES DIAS BOLIVAR  43042759/1  PROFESSOR DOC. I  RONISK BENTO FERREIRA  38306743/1  PROFESSOR DOC. I  ROSEMERE NUNES DE SANTANA BAQUEIRO  50761307/1  PROFESSOR DOC. I  ROSICLEIDE DA SILVA FLOR  43251692/1  PROFESSOR DOC. I  SANCREY RODRIGUES ALVES  42040930/2  PROFESSOR DOC. I  SANDOVAL DA SILVA VIANA FILHO  42737192/1  PROFESSOR DOC. I  SANDRA REGINA ALBINANTE  42785413/2  PROFESSOR DOC. I  SANDRO SIQUEIRA DA SILVA  5486289/1  AGENTE AUXILIAR ADMINISTRATIVO  SERGIO LEITAO VASCO  3  5  6  2  11  6  8  /   2  PROFESSOR DOC. I  SERGIO RICARDO COIMBRA NOVAES  5554667/1  PROFESSOR DOC. I  SERGIO SOARES SARABANDA  42634830/1  PROFESSOR DOC. I  SHEILA REGINA OLIVEIRA BOTELHO  43687377/1  PROFESSOR DOC. I  SHIRLEY CARDIAS MACIEL  5533767/1  PROFESSOR DOC. II  SILVIA  DE  SOUZA  ROCHA  43923801/1  PROFESSOR DOC. I  SILVIA  REGINA  DOS  SANTOS E CASTRO  35121963/1  PROFESSOR DOC. I  SILVIO  DE  CARVALHO REIS JUNIOR  50809717/1  PROFESSOR DOC. I  SIMONE DE OLIVEIRA THEODORO MACHADO  50733087/1  PROFESSOR DOC. I  SOLANGE NEMESIO DE ALBUQUERQUE  43477518/1  PROFESSOR DOC. I  SONIA MARIA SANT ANNA PINTO  5565286/1  PROFESSOR DOC. I  SUZANA HENRIQUE DA SILVA  34505610/1  PROFESSOR DOC. I  TACIANA NOVELLO GATTO  51377535/1  PROFESSOR DOC. I  THAIS SOARES PICULO  42562732/1  PROFESSOR DOC. I  THIAGO FERNANDES DA SILVA  44005628/2  PROFESSOR DOC. I  THIAGO MARTINHO ROCHA  50766198/1  PROFESSOR DOC. I  VANESSA CALAIS OLIVEIRA  43517250/2  PROFESSOR DOC. I  VANESSA DE ANDRADE LIRA DOS SANTOS  43814280/2  PROFESSOR DOC. I  VANESSA DOS SANTOS  43042040/1  PROFESSOR DOC. I  VANESSA SOARES MATOS  43578691/1  PROFESSOR DOC. I  VERONICA DE ALMEIDA SOARES  39729451/1  PROFESSOR DOC. I  VINICIUS  ROSA CONSTANT  50809253/1  PROFESSOR DOC. I  VIVIANE BRAGA SALES DE SOUZA  42635357/3  PROFESSOR DOC. I  WASHINGTON JOSÉ FERNANDES FORMIGA  51277948/1  PROFESSOR DOC. I  WILLIAM GARCIA DOS SANTOS  50923501/1  PROFESSOR DOC. I  WONG WAI LEE PANTALEAO  32882904/1  PROFESSOR DOC. I  ADRIANA JORDAO BICALHO ROGOGINSKY  42132541/2  PROFESSOR DOC. I  ANA CAROLINA REYES  42571618/2  PROFESSOR DOC. I  ARTUR EMILIO NUNES  32944187/1  PROFESSOR DOC. I  BIANCA COURA GARNIER  43826865/2  PROFESSOR DOC. I  BRUNO ALVES BAIAO  43374018/1  PROFESSOR DOC. I  CLAUDIA GERK DE AZEVEDO  43493742/1  PROFESSOR DOC. I  DENISE MOREIRA RIBEIRO DA SILVA  38318962/1  PROFESSOR DOC. I  ELIDA DE ALCANTARA ROXO  32836333/1  PROFESSOR DOC. Ii  FERNANDA PAIXAO MOREIRA  50243063/2  PROFESSOR DOC. I  FREDERICO CIDADE SOARES  50273337/1  ASSISTENTE EXECUTIVO  GUSTAVO ALBERTO OTSUKA OLIVEIRA DE MENEZES  42002397/1  PROFESSOR DOC. I  JENNIFFER DE PAULA OLIVEIRA BELLO  43539564/2  PROFESSOR DOC. I  JULIANA LEITE DA SILVA  50352970/1  PROFESSOR DOC. I  LISE  LOTTE  FERRAZ PIMENTEL  43887015/1  PROFESSOR DOC. I  MARCELO FIGUEIREDO GUIMARAES DE OLIVEIRA  50357565/1  ASSISTENTE EXECUTIVO  MARCIA VALERIA TRINDADE SOUZA  50300156/1  INSPETOR DE ALUNOS 2º G  MARCO RODOLFO CAMPOS RIBEIRO  36549738/1  PROFESSOR DOC. I  MARCUS FELIPPE OLIVEIRA DA SILVA  42759650/1  PROFESSOR DOC. I  MARIA ANGELICA B DE OLIVEIRA  3  2  9  1  4  9  11  /   1  PROFESSOR DOC. II  MARIANA G MONTEIRO DE BARROS  41966716/2  PROFESSOR DOC. I  RAFAEL CAMARATTA SANTOS  50760947/1  PROFESSOR DOC. I  RAFAEL PEREIRA DA SILVA MENDES  50812904/1  PROFESSOR DOC. I  RODRIGO CORREA DE SA E BENEVIDES  43303242/1  PROFESSOR DOC. I  ZANONI GOLIAS FRANCA  32932049/1  S  E  RV  E  N  T  E  MARCIA BARRETO MAGALHAES  40627101/1  PROFESSOR DOC. I  APARECIDA CONCEICAO BERTO DE MELLO DOS SANTOS  36097829/1  PROFESSOR DOC. I  CARLOS ALBERTO DUARTE  41796829/1  PROFESSOR DOC. I  ELIANE MARIA MAGNO  32851642/1  PROFESSOR DOC. I  MARCELLE FREITAS DA SILVA  43677150/1  PROFESSOR DOC. I   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3287,17 +3287,17 @@ PROCESSO  Nº SEI-260005/002965/2026 -MAYRA  CRISTINA GUIMARÃES  AVERBURG, carg
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | MARCUS HERBERT SILVA TEIXEIRA  41902262/4  PROFESSOR DOC. I  TATIANE CRISTINA MARTINS DE SENA  43306284/3  PROFESSOR DOC. I  VANDERLEI ROSA DE CARVALHO  34672168/1  PROFESSOR DOC. I  MARCOS ZARAHI AMARAL SILVA  5554306/1  PROFESSOR DOC. I  RICARDO CONCEIÇAO DE AZEVEDO  5690030/2  PROFESSOR DOC. I  SALVADOR DA SILVA BRUNO  42038880/1  PROFESSOR DOC. I  SANDRA MARIA ALMADA RODRIGUES  4  2  0  1 11  8  3  /   1  PROFESSOR DOC. I  RAPHAEL SILVARES LOPES  50363956/1  PROFESSOR DOC. I   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3399,7 +3399,7 @@ Rio  de  Janeiro,  06  de  abril  de  2026
 
 Id:  2726640
 
-/U0049
+I
 
 junto  Nível  3, nos  termos  da  Resolução nº  01/2024,  complementada pela  Resolução 21/2024,  da Deliberação  nº  40/2025, do  Decreto n  º 44.788/2014 e da Lei nº 5.343/2008, com nova redação dada pela Lei nº  7.423/2016.  Processo  nº  SEI-260006/002528/2026.
 
@@ -3445,17 +3445,17 @@ Id:  2726333
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 tr.  nº  43.624-6  UERJ  e  UFRJ,  matr.  nº  1227826, Professor  do  Magistério  Superior,  na  forma  do  art.  1º  do  AEDA/UERJ  nº  49/2012.
 
@@ -3643,17 +3643,17 @@ Id:  2726337
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE TRANSPORTE
 
@@ -3679,41 +3679,41 @@ A  SECRETÁRIA DE  ESTADO  DE  TRANSPORTE E  MOBILIDADE URBANA, no  uso de suas 
 
 Art.  1º  Altera  o  Art.  2º,  inciso  I,  da  RESOLUÇÃO  SETRAM  N.º1866 DE  06 DE  OUTUBRO  DE 2025,  publicada no  DOERJ  nº 185  de 08/10/2025, alterando  os representantes que compõem  o Grupo de
 
-/U0041/U004E/U004F
+ANO
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0032/U0031
+21
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0031
+061
 
-/U002D
+-
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0037
+7
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 Trabalho  destinado  à  análise,  construção  e  acompanhamento  das  medidas a serem adotadas pela  Secretaria de Estado de Transporte e Mobilidade  Urbana, em  conjunto  com o  Consórcio  Barcas Rio,  relativas aos  serviços de  estabilização do sistema  afeto à  prestação do Serviço  Público  de  Transporte  Aquaviário  de  Passageiros:
 
@@ -3877,17 +3877,17 @@ CARLOS FELIPE QUADRIO CRUZICK
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DO AMBIENTE E SUSTENTABILIDADE SUBSECRETARIA EXECUTIVA DIRETORIA GERAL DE ADMINISTRAÇÃO E FINANÇAS COORDENADORIA DE PESSOAL
 
@@ -4105,17 +4105,17 @@ Andreza  Lima  Farinha  -  Assistente  -  ID  5161086-8 Thomás da Silva  Santos
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 fatura de  competência de  janeiro de 2025,  em razão  do pagamento ter  sido  feito  após  o  vencimento,  cujo  objeto  é  a  prestação  de  serviço de  COMUNICAÇÃO DE DADOS DE LONGA DISTÂNCIA (WAN), CONEXÃO INTERNET PARA REDE GOVERNO E SERVIÇOS COMPLEMENTARES DE TECNOLOGIA DA INFORMAÇÃO , no  valor  total  de R$ 106,36 (cento  e seis reais e trinta e  seis centavos). Conforme consta  dos autos,  os serviços  foram regularmente  executados, de acordo com o atestado de realização do serviço 128269337 em estrita conformidade  com as  especificações  contratuais  pactuadas entre  as partes. Neste  sentido,  declara-se  que: -  houve  a  efetiva  execução  do  objeto  contratual,  com  atendimento  às condições  estabelecidas; -há  comprovação documental suficiente  da prestação dos  serviços e da  liquidação  da  despesa; -a  despesa atende  ao interesse  público, no  âmbito das  ações institucionais; -o não pagamento no  exercício financeiro próprio decorreu de questões  administrativas, não  havendo indícios  de irregularidade  na execução; -  a  ausência  de  quitação  implicaria  enriquecimento  sem  causa  da  Administração, em afronta aos princípios  da boa-fé, da moralidade administrativa  e  da  segurança  jurídica. Diante do exposto, reconheço a dívida e autorizo o pagamento do valor acima  indicado, condicionando-se  à prévia verificação  da regularidade  fiscal do  credor, à  adequada instrução  processual e  à dispo-
 
@@ -4201,39 +4201,39 @@ Id:  2726435
 
 nibilidade  orçamentária,  nos  termos  da  legislação  vigente.
 
-/U0041/U004E/U004F
+ANO
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0036/U0031
+061
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0037
+7
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
 de  irregularidade descrita  no processo  supracitado, o  qual tramitará nos  autos  do  processo SEI-320001/000845/2026,  por  descumprimento ao  Decreto-Lei  n.º 220  de  18  de  julho de  1975,  o  qual instituiu  o  Regime  Jurídico  dos Funcionários  Públicos  Civis  do Poder  Executivo  do Estado  do Rio  de Janeiro  (regulamentado  pelo Decreto  n.º 2.479,  de 08  de março  de  1979,  alterado pela  Lei  Complementar  n.º 85/96)  e demais  normativos  aplicáveis.
 
@@ -4354,17 +4354,17 @@ FÁBIO PARAVIDINO DA SILVA Secretário  de  Habitação  de  Interesse  Social I
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Defesa do Consumidor
 
@@ -4538,17 +4538,17 @@ I  -  OBJETO: Execução  das  ações previstas  nos  eixos  de  "Redução de 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 bem  como  da  apuração  do  superávit  de  2025  e  os  recursos  referentes  à  suplementação do repasse de 2025 dada pela Portaria MJSP n° 1  . 11  0  /  2 0  2  5  .
 
@@ -4556,41 +4556,41 @@ II  -  VIGÊNCIA : A  contar  da  publicação desta  Portaria  até  31 de  dez
 
 III  -  DE/Concedente: 21640  -  Fundo  Estadual  de  Segurança  Pública do  Estado  do  Rio  de  Janeiro UO: 26670 - Fundo Estadual de Segurança Pública do Estado do Rio de  Janeiro UG:  216400 -  Fundo Estadual  de Segurança  Pública do  Estado do Rio  de  Janeiro
 
-/U0032/U0035
+25
 
-/U0041/U004E/U004F
+ANO
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U0049
+I
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0031
+061
 
-/U002D
+-
 
-/U006F
+o
 
-/U0037
+7
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
 IV  -  PARA/Executante: 26020  -  Secretaria  de  Estado  de  Segurança Pública UO:  26010  -  Secretaria  de  Estado  de  Segurança  Pública UG:  260200  -  Secretaria  de  Estado  de  Segurança  Pública
 
@@ -4819,17 +4819,17 @@ Id:  2726307
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 senvolvimento Industrial  do Estado  do Rio de  Janeiro -  CODIN, para fins de  implementação da  Zona de  Processamento de  Exportação -ZPE no Porto  Açu;
 
@@ -5012,17 +5012,17 @@ Id:  2726538
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 no  prazo de  30 (trinta)  dias, a  contar da  data desta  publicação, a  fim de  tratar  assunto  do  seu  interesse.
 
@@ -5058,39 +5058,39 @@ SUBTEN PM  RR RG  45.136 SERGIO AURELIO  DE SOUZA -  CPF Nº  933.XXX.XXX-XX  - 
 
 SUBTEN  PM RR  RG  46.081 MARCIO LUIS  DA  SILVA -CPF  Nº 828.XXX.XXX-XX - ID.  FUNC.:  2328972-4.
 
-/U0041/U004E/U004F
+ANO
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0031
+061
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0037
+7
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 nais  de  atendimento do  Rioprevidência  (www.rj.gov.br/rioprevidencia), no prazo  de 30  (trinta) dias,  a contar  da data  desta publicação,  a fim de  tratar  assunto  do  seu  interesse.
 
@@ -5149,39 +5149,39 @@ O convocado ou seu representante  legal deverá comparecer na sede Rio  de assun
 
 1º  SGT PM  REF  RG 60.255  MARCELO  FERNANDES RIBEIRO -CPF Nº 032.XXX.XXX-XX - ID. FUNC.: 2268824-2 O convocado ou seu representante  legal deverá comparecer na sede da  DVP/AJD, à  Rua Eduardo  Prado nº  22 -  São Cristóvão  Rio  de
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0030/U0036/U0031
+061
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0037
+7
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 Janeiro, no prazo de 05 dias  para tomar ciência de assunto de seu interesse,  em  referência  na  SEI-350019/032583/2024.
 
@@ -5265,17 +5265,17 @@ Id:  2725984
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Janeiro, no  prazo de 05 dias  para tomar ciência de  assunto de seu interesse,  em  referência  na  SEI-350019/039092/2024.
 
@@ -5338,17 +5338,17 @@ O DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS ,  através  do Serviço de  Promoç�
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 15 (quinze) dias corridos, contados da data da publicação, nos termos do  artigo 47  da Lei  Complementar nº  204/2022, alterada  pela Lei Complementar nº  224/2025.
 
@@ -5373,17 +5373,17 @@ Não serão  aceitos  recursos  encaminhados  através  de  e-mail.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 105º  51025965  Juliana  de  Almeida  Fernandes  Fonseca  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  106º  51026031  Vinicius  Machado  de  Souza  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  107º  51026929  Pedro  Paulo  da  Silva  Peçanha  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  108º  51027127  Silvia  de  Andrade  Cardoso  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  109º  50792350  Igor  Soares  Groba  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  11  0  º  44001010  Diego  Alex  de  Souza  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  111  º  50106520  Leandro  Lima  Freitas  Fernandes  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  11  2  º  51026481  Danilo  Susini  Haddad  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  11  3  º  50783432  Fernanda  Kappel  Almeida  dos  Santos  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  11  4  º  50098934  Bruno  de  Souza  Ignacio  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  11  5  º  50832697  Bruno  Ramalho  Amalio  da  Silva  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  11  6  º  50129171  Thiago  Carlos  Guimarães  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  11  7  º  50107747  Leda  Caroline  Santos  Rocha  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  11  8  º  51031833  Rafael  Marques  de  Jesus  Pinto  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  11  9  º  51031884  Breno  Vinicius  Ramos  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  120º  51026040  Natália  Araujo  Touza  dos  Santos  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  121º  51025841  Gustavo  Amaral  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  122º  51027097  Rosiele  Souza  da  Silva  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  123º  5  1  0  2   7  0  11  Willian  Siqueira  Martins  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  124º  51025876  Fernanda  Sampaio  Marra  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  125º  51025973  Mario  Jorge  da  Motta  Solano  Athayde  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  126º  51026910  Felipe  da  Costa  Dias  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  127º  51026562  Natalia  Cardoso  Nielsen  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  128º  51026937  Pedro  Albuquerque  Moreira  de  Araujo  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  129º  51027046  Samantha Achouche  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  130º  51031906  Alan  Gonçalves  da  Silva  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  131º  51025981  Bruna  Ignacio  Neves  Taquette  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  132º  51027208  Stephanie  Treiber  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  133º  44206941  Renan da Costa Vall  Lloveras  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  134º  51025884  Fabio  da  Silva  Hiramoto  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  135º  51031876  Estephania  Evellin  Aguiar  de  Medeiros  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  136º  51031795  Rachel  Montalvao  Aurencao  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  137º  51031850  Juan  Jasmin  Almeida  Faria  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  138º  44407858  Natasha  Tancman  Candido  da  Silva  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  139º  51026074  Cristiano  Barreto  de  Azevedo  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  140º  51026066  Filipe  Leonardo  de  Souza  Alves  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  141º  5  1  0  2   7  11  9  Vinicius  Motta  Bize  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  142º  51026970  Fernanda  Jazbik  Barbosa  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  143º  51027348  Natalia  Estefan  Motta  Silveira  Alvarenga  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  144º  51027020  Thalles  Guimaraes  Raposo  Botelho  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  145º  51031868  Fernando  Burock  Inacio  03.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  146º  51026503  José  Lucio  Coelho  Torres  03.00.00  06.02.06  06.02.06  06.02.06  06.02.06  (***)  147º  50771060  Thiago  de  Bastos  Bindi  02.08.12  06.02.20  09.00.22  09.00.22  09.00.22  (***)  148º  50961616  Rafael  Augusto  Rocha  Alves  02.05.27  06.00.07  06.00.07  06.00.07  06.00.07  (***)  149º  44181442  Sharliton  Magalhães  de  Souza  02.05.08  06.02.24  09.02.08  09.02.08  13.07.21  (***)  150º  44017596  Marcos  Vinicius  Alves  Novaes  02.05.08  06.02.24  06.02.24  14.02.00  14.02.00  (***)  151º  50893319  Michel  Carvalho  de  Sousa  02.05.08  06.02.24  06.02.24  08.02.21  08.02.21  (***)  152º  50969951  Marcella  David  Camara  da  Silva  02.05.08  06.02.24  06.02.24  06.10.06  08.03.29  (***)  153º  51026104  Marcus  Vinicius  Borges  de  Souza  02.05.08  06.02.24  06.02.24  06.02.24  23.02.21  (***)  154º  51026287  Rodrigo  Lopes  Muniz  Santos  02.05.08  06.02.24  06.02.24  06.02.24  08.06.16  (***)  155º  51026120  Ana  Paula  Sant'Anna  Coelho  02.05.08  06.02.24  06.02.24  06.02.24  08.03.08  (***)  156º  5  1  0  2   6  11  2  Luciana  Alvarez  Escaneo  Ribeiro  02.05.08  06.02.24  06.02.24  06.02.24  08.01.06  (***)  157º  51026686  Edson  Nora  Camacho  02.05.08  06.02.24  06.02.24  06.02.24  06.02.24  (***)  158º  51026007  Claudia  da  Silva  Rolim  02.05.08  06.02.24  06.02.24  06.02.24  06.02.24  (***)  159º  51027330  Michel  Rufino  Silveira  02.05.08  06.02.24  06.02.24  06.02.24  06.02.24  (***)  160º  51027259  Luciana  Robaina  Pimentel  02.05.08  06.02.24  06.02.24  06.02.24  06.02.24  (***)  161º  50146319  Luciano  Fernandes  da  Conceicao  02.05.08  06.02.24  06.02.24  06.02.24  06.02.24  (***)  162º  51026023  Daniel  Ovidio  dos  Santos  Machado  02.05.08  06.02.24  06.02.24  06.02.24  06.02.24  (***)  163º  51026961  Wesley  Gomes  de  Mattos  02.05.08  06.02.24  06.02.24  06.02.24  06.02.24  (***)  164º  51026996  Thiago  Gonçalves  Pinheiro  02.05.08  06.02.24  06.02.24  06.02.24  06.02.24  (***)  165º  50832620  Bruno  Vargas  Ferreira  02.05.08  06.02.24  06.02.24  06.02.24  06.02.24  (***)  166º  51026058  Gabriel  Franklin  Fazenda  Sansao  Assad  02.05.08  06.02.24  06.02.24  06.02.24  06.02.24  (***)  167º  51026082  Ramon Barra Azeredo da Silva  02.05.08  06.02.24  06.02.24  06.02.24  06.02.24  (***)  168º  51026139  Rafael  Mageski  Cavalcanti  02.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  169º  51026473  Jefferson  Carlos  Pereira  Soares  de  Souza  02.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  170º  41962265  Gabriela  Mayumi  Hirabae  02.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)  171º  51026252  Rafaela  de  Azevedo  Fernandes  02.00.00  06.02.24  06.02.24  06.02.24  06.02.24  (***)   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5457,17 +5457,17 @@ Id:  2726531
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Defesa Civil
 
@@ -5665,17 +5665,17 @@ I  N S  T  R  U  M  E  N  TO  : Termo de Ajuste  de Contas nº 370/2026. PA  R  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ção das notas fiscais devidamente atestadas, tendo sua viabilidade jurídica  confirmada  pelo  Parecer  n.º  513  (SEI-125439677). VALOR TOTA  L  : R$  12.624,93  (doze  mil,  seiscentos  e  vinte  e  quatro  reais  e  noventa e  três centavos). F  U  N  D  A  M  E  N  TO  : Decidido  no processo administrativo n° SEI-080002/002358/2026. DATA DA ASSINATURA: 01/04/2026.
 
@@ -5896,17 +5896,17 @@ Onde se lê:  Vinicius  Roberto  Ramos  Calda Leia-se:  Vinicius  Roberto  Ramos
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 VALOR  TOTAL  ESTIMADO: R$  3.109.918,56 (três milhões, cento e nove  mil  novecentos  e  dezoito  reais  e  cinquenta  e  seis  centavos). VALOR MENSAL  ESTIMADO: R$  259.159,88 (duzentos  e cinquenta e  nove  mil  cento  e  cinquenta  e  nove  reais  e  oitenta  e  oito  centavos). DATA DE ASSINATURA: 27/03/2026.
 
@@ -6062,19 +6062,19 @@ AV  I  S  O
 
 *Omitido  do  D.O.  de  01/04/2026
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U0037
+7
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 OBJETO: Aquisição  de material  de  OPMES  em regime  de  consigna- ção  para  o  HUPE.
 
@@ -6242,17 +6242,17 @@ FUNDAMENTO DO ATO: Processo  nº  SEI-260007/010988/2024.
 
 INSTRUMENTO: Primeiro  Termo  Aditivo  ao  Contrato nº  260/2025/HUPE. PARTES: HUPE/UERJ e  MARTELL  COMÉRCIO DE  PRODUTOS HOSPITALARES LTDA. OBJETO: Acréscimo de  24,5%  aos itens  02  e 03  do  valor inicial  do contrato. VALOR DO ADITIVO: R$  9.849,90 (nove mil  oitocentos e  quarenta e
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 <!-- image -->
 
@@ -6534,17 +6534,17 @@ Id:  2726599
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## INSTITUTO ESTADUAL DO AMBIENTE
 
@@ -6673,17 +6673,17 @@ NOME : Ubee Colégio Marista São Jose CNPJ/CPF N° : 17.200.684/0017-35 ENDERE�
 
 ## AUTO DE INFRAÇÃO N °:  GERFISAI/1113/2025
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 <!-- image -->
 
@@ -7016,17 +7016,17 @@ Id:  2726311
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 2.  CATEGORIA B - LINHA B.2- GRUPO 1 - AMPLA CONCORRÊNCIA - PROPONENTE ELIMINADO POR DESISTÊNCIA
 
@@ -7360,17 +7360,17 @@ FUN  D  A  M  E  N  TO :  Processo.  SEI-330003/002381/2024
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 to de areia lavada, material  amplamente utilizado nas obras de conserva e pavimentação das vias estaduais sob responsabilidade do Departamento de Estradas e Rodagem - DER/RJ, (lote 1, lote 2, lote 3 e lote 4). DATA  DA  ASSINATURA: 18/03/2026. F  U  N  D  A  M  E  N  TA  Ç  Ã  O LEGAL: Lei nº  8.666/93  e demais  alterações. PROCESSO  Nº SEI330002/002019/2026.
 
@@ -7460,17 +7460,17 @@ uso  de suas  atribuições CONVOCA os candidatos  abaixo relacionados, aprovado
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## 1.1.1  CARGO:  ANALISTA  PROCESSUAL
 
@@ -7550,7 +7550,7 @@ VIII. Comprovação do grau de instrução  exigido  para  o  cargo;
 
 <!-- image -->
 
-/U0049
+I
 
 <!-- image -->
 

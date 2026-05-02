@@ -1,7 +1,9 @@
 from __future__ import annotations
 
+import traceback
 from typing import Callable
 
+from diarios_oficiais.base import preload_ocr_models
 from diarios_oficiais.rj_ioerj import collect_rj
 from diarios_oficiais.rj_ioerj import report_torch_cuda
 
@@ -23,6 +25,7 @@ def collect_state(state: str) -> int:
 
 def main() -> int:
     report_torch_cuda()
+    preload_ocr_models()
 
     total_by_state: dict[str, int] = {}
     for state in STATES_TO_COLLECT:
@@ -37,4 +40,13 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    while True:
+        try:
+            raise SystemExit(main())
+        except SystemExit as exc:
+            if exc.code in (None, 0):
+                raise
+            print(f"Erro ao executar main(): {exc}. Tentando novamente...")
+        except Exception:
+            traceback.print_exc()
+            print("Erro ao executar main(). Tentando novamente...")

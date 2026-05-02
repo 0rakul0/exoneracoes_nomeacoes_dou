@@ -318,17 +318,17 @@ Ceres Pimenta Diretora Industrial
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado da Casa Civil
 
@@ -480,17 +480,17 @@ EXONERAR LUIZ CLAUDIO TABOADA CLEFFS DE SOUZA , ID FUNCIONAL Nº 51629046/1, do 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 NOMEAR  ALINE LUCIA LEAL DE OLIVEIRA , ID  FUNCIONAL Nº 51725568/1, para exercer, com  validade a contar de 17 de março de 2026, o cargo  em comissão de Ajudante I, símbolo DAI-1, da Secretaria de Estado de Esporte e Lazer,  em vaga resultante  da transformação  estabelecida pelo  Decreto nº  50.138, de 11 de  fevereiro de 2026,  e considerá-la  exonerada do cargo  em comissão de  Assistente, símbolo DAS-6,  do mesmo Órgão.  Processo nº SEI-300001/001943/2026.
 
@@ -538,7 +538,7 @@ PROCESSO  Nº SEI-280001/000428/2025  -  AUTORIZO a cessão  do servidor,  Inspe
 
 PROCESSO Nº SEI-100002/000178/2026 - AUTORIZO a permanência da  cessão  do  servidor  Rogério  Antonio  Almenteiro  Gomes,  Matrícula n°5293,  ID 2712517-3,  do  Quadro de  Pessoal  da Companhia  de Transportes  sobre  Trilhos  do  Estado  do Rio  de  Janeiro  -  RIOTRILHOS, para a Prefeitura  Municipal  de  Maricá,  com  ônus  para  o  órgão cessionário.
 
-/U0033
+3
 
 PROCESSO Nº SEI-360005/000998/2026  - AUTORIZO a  prorrogação da  mobilização  das  servidoras  Rosana  Marcelli  Rodrigues  Grossi,  Perito Criminal, ID 5.037.548-2,  e Selma Matias Ximenes, Papiloscopista Policial, ID  4.218.304-9, do  Quadro de Pessoal  da Secretaria  de Estado  de Polícia  Civil  -  SEPOL, para  a  Secretaria  Nacional de  Segurança Pública-SENASP/MJSP/Diretoria da Força Nacional de Segurança Pública, pelo período de 365 (trezentos e sessenta e cinco) dias, a contar  de  05  de  abril  de  2026, consoante  os  termos  do  Convênio  de Cooperação  Federativa  nº  30/2017.
 
@@ -640,17 +640,17 @@ CONSIDERANDO o  Decreto  nº  48.449  de  04  de  abril  de  2023,  o  Decreto n
 
 Art.  1º  Designar o servidor Roberto Rocha Pinto  ID: 4.435.839-3, sem aumento de  despesa e sem prejuízo de  suas atribuições, como
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 <!-- image -->
 
@@ -918,17 +918,17 @@ SECRETARIA DE ESTADO DE POLÍCIA MILITAR SUBSECRETARIA DE GESTÃO DE PESSOAS
 
 NOMEIA na  Prestação  Tarefa  por  Tempo  Certo,  conforme  o  Art.  21, da  Resolução  SEPM  nº  5.491,  de  16  de  fevereiro  de  2024,  com  início  de  09  de  março  de  2026,  com  término  em  09  de  março  de 2028,  podendo  ser  prorrogado  por  dois  períodos  iguais  a  critério  da Administração,  o  servidor  abaixo:  Processo  nº  SEI350009/007907/2026,  conforme  tabela:
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 <!-- image -->
 
@@ -1073,17 +1073,17 @@ Art.  3º -  Fica  sob  a  responsabilidade  da  UNIDADE BENEFICIADA pelo  contr
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 I  manter,  sempre, no mínimo, 2 (dois) membros  da comissão fiscalizadora  em  condições  de  analisar, conferir,  atestar  ou  validar  a atestação  das  notas  fiscais  do  contrato  relacionado;
 
@@ -1210,17 +1210,17 @@ DESIGNA SERVIDORES PARA COMISSÃO DE GESTÃO  E  FISCALIZAÇÃO  E  DÁ  OUTRAS 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - execução contratual,  praticando,  para  isso,  todos  os  atos  inerentes  ao exercício  dessa  função,  incluindo,  além  daqueles  elencados  no  art.  13 do  Decreto  Estadual  nº  45.600,  de  16  de  março  de  2016:
 
@@ -1354,17 +1354,17 @@ Ordenador  de  Despesas  Secundário Id:  2721519
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -1504,17 +1504,17 @@ Art.  1º -  Ficam designado  a  contar de  15  de setembro  de 2025  os servido
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 manter os  Gestores do  contrato atualizados  sobre o  desempenho da execução contratual,  praticando,  para  isso,  todos  os  atos  inerentes  ao exercício  dessa  função,  incluindo,  além  daqueles  elencados  no  art.  13 do  Decreto  Estadual  nº  45.600,  de  16  de  março  de  2016: I  a  atestação das  notas fiscais  relativas ao  contrato, por  dois servidores  membros  da  comissão; II  encaminhamento,  ao  gestor do  contrato,  de  toda  documentação comprobatória da boa execução e o termo de recebimento do serviço, bem como os relatórios  circunstanciados contendo as alterações observadas (se houver),  respeitados os prazos contratuais  e legais, juntamente  com  respectivas  notas  fiscais; III  prestação, ao  Gestor, de  todas as  informações relativas  a execução  do  contrato  que  o  mesmo  necessitar; IV  comunicação,  ao  Gestor do  contrato, de  todas  as alterações  na execução do  ajuste contratual  para fins  de adoção  das providências administrativas  cabíveis,  o  mais  breve  possível; V  efetuar  a  glosa  nas  notas fiscais  por  eventuais  falhas  durante  a execução  do  contrato; VI abrir  processo de liquidação com as notas fiscais relativas ao serviço,  conforme previsão  contratual,  inserindo  um despacho  relatando todas as  falhas observadas na  execução contratual de modo  a municiar o  gestor com as  informações necessárias  a fim de  notificar a contratada visando à apuração e a aplicação das devidas sanções administrativas  por  descumprimento  de  contrato.
 
@@ -1554,27 +1554,27 @@ O  ORDENADOR  DE  DESPESAS  SECUNDÁRIO, no  uso  das  suas atribuições legais
 
 Art.  1º -  Ficam  designado  a  contar de  23  de  dezembro  de  2025  os servidores 1º TEN PM  47.101 ADERBAL RODRIGUES AGUIAR ID Funcional  2426385-0, 2º  TEN  PM 66.416  ALEX  BEZERRA DA  SILVA ID  Funcional 2476982-7,  1º  SGT PM  81.951 GLAUCIO  FIDLARCZYK ID Funcional 4249281-5,  3º SGT PM 89.890  LUCIO DOS SANTOS JUNIOR  ID Funcional  4401139-3,  CB PM  60.740 VANILTON  BERNARDES LIMA WERNECK ID Funcional  2343806-1 e o SD PM 109.356  LUCAS PIRES  SANTOS  ID Funcional  5109238-7 na  Comissão de Fiscalização  do 17º BPM, com o objetivo  de fiscalizar o Contrato  nº 083/2025,  oriundo  do  Processo SEI-350011/002361/2025  firmado  com a  empresa  CONSÓRCIO  RJ VIGILÂNCIA  INTELIGENTE. Fica composta a comissão de fiscalização do contrato da seguinte forma: 1º TEN  PM 47.101 ADERBAL RODRIGUES  AGUIAR, ID Funcional 2426385-0 2º TEN  PM 66.416  ALEX BEZERRA  DA SILVA, ID Funcional 2476982-7 1º  SGT  PM  81.951  GLAUCIO  FIDLARCZYK,  ID  Funcional  4249281-5 3º  SGT  PM  89.890  LUCIO DOS  SANTOS  JUNIOR,  ID  Funcional 4  4  0  1 1  3 9  -   3 CB PM 60.740 VANILTON BERNARDES LIMA WERNECK, ID Funcional  2343806-1 SD PM 109.356 LUCAS PIRES SANTOS, ID Funcional 5109238-7 Art.  2º -  Os servidores  designados  no artigo  anterior deverão  acompanhar e fiscalizar  a  execução  do  contrato  e  seus  aditivos,  bem  como manter os  Gestores do  contrato atualizados  sobre o  desempenho da execução contratual,  praticando,  para  isso,  todos  os  atos  inerentes  ao exercício  dessa  função,  incluindo,  além  daqueles  elencados  no  art.  13 do  Decreto  Estadual  nº  45.600,  de  16  de  março  de  2016: I  a  atestação das  notas fiscais  relativas ao  contrato, por  dois servidores  membros  da  comissão; II -  encaminhamento,  ao  gestor do  contrato,  de  toda  documentação comprobatória da boa execução e o termo de recebimento do serviço, bem como os relatórios  circunstanciados contendo as alterações observadas (se houver),  respeitados os prazos contratuais  e legais, juntamente  com  respectivas  notas  fiscais; I II  prestação, ao  Gestor, de  todas as  informações relativas  a exe-
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0034/U0039
+049
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0039
+9
 
 cução  do  contrato  que  o  mesmo  necessitar; IV  comunicação,  ao Gestor  do contrato,  de todas  as alterações  na execução do  ajuste contratual para  fins de adoção  das providências administrativas  cabíveis,  o  mais  breve  possível; V  efetuar  a glosa  nas  notas  fiscais  por  eventuais falhas  durante  a execução  do  contrato; VI abrir  processo de liquidação com as notas fiscais relativas ao serviço,  conforme previsão  contratual, inserindo  um despacho  relatando todas as falhas  observadas na execução contratual de  modo a municiar o  gestor com as informações  necessárias a fim de  notificar a contratada visando à apuração e a aplicação das devidas sanções administrativas  por  descumprimento  de  contrato.
 
@@ -1636,39 +1636,39 @@ APOSENTA MARCELLO JUNQUEIRA GARCEZ BARBOSA DE OLIVEIRA ,  identidade funcional  
 
 Id:  2721804
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0030/U0034/U0039
+049
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U002D
+-
 
-/U0031/U0038
+18
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 ## 9 SECRETARIA DE ESTADO DE POLÍCIA CIVIL
 
@@ -1773,17 +1773,17 @@ DESIGNA ,  conforme processo SE-360343/000008/2024, os servidores abaixo relacio
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 Resolução SECC  nº 91, de  28/03/2023, DOERJ de  29/03/2023, contendo  atualização monetária  com base  na UFIR-RJ  de 2026,  relativa às férias e licenças prêmio não gozadas, no valor total  de  R$ 438.857,24  (quatrocentos  e trinta  e  oito  mil  oitocentos e  cinquenta  e sete reais e vinte e quatro centavos), em favor de ALOIZIO SUITA, Id. Funcional  2.987.400-9,  Oficial  de  Polícia Civil,  Classe  Comissário  de Polícia,  CPF  672.440.507-63.
 
@@ -1908,17 +1908,17 @@ Id:  2721436
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA ATO  S DA SECRETÁRIA DE 12.03.2026
 
@@ -2067,39 +2067,39 @@ PROCESSO Nº SEI-210001/024872/2026 ARQUIVE-SE.
 
 PROCESSO Nº SEI-210001/017453/2026 ARQUIVE-SE.
 
-/U0041/U004E/U004F
+ANO
 
-/U0030/U0034/U0039
+049
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0049
+I
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0031/U0038
+18
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA CORREGEDORIA
 
@@ -2183,17 +2183,17 @@ PROCESSO Nº SEI-270006/006483/2026 - AUTORIZO a  despesa  em favor  da empresa 
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 e  sessenta  centavos),  visando  à aquisição  de  CLONAZEPAM,  a  fim de atender  a demanda  da Diretoria  Geral de  Saúde da  Secretaria de Estado Defesa Civil, conforme Ata de Registro de Preços n° 041/2025,  consolidada pelo  CORPO  DE  BOMBEIROS MILITAR  DO ESTADO DO RIO DE JANEIRO, PE nº 011/2025, com fundamentação legal  art.  82,  inciso  VII  §1º  lei  287  de  04  de  Dezembro  de  1979  e  no art.  64  da  lei  Federal  nº  4320  de  1964.
 
@@ -2331,17 +2331,17 @@ Art.  1° -  Fica  autorizada  a  assunção  pela  Fundação  Saúde  do  Esta
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 MATERIAL  E ESTERILIZAÇÃO,  cuja  prestação  dos serviços  será acompanhada e avaliada  pela  SES. §2º -A  Fundação Saúde  adotará as  providências administrativas  e técnico-assistenciais  para  assegurar  a implantação  e  operacionalização  dos  serviços,  evitando  interrupções e  eventuais  danos  ao  atendimento  populacional,  em  observância  aos  princípios  do  SUS.
 
@@ -2429,37 +2429,37 @@ VI  Secretaria  de Estado de Assistência Social  e Direitos Humanos (SEASDH/RJ)
 
 VII  Ministério  Público  do  Estado  do  Rio  de  Janeiro  (MPERJ)
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0030/U0034/U0039
+049
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0031/U0038
+18
 
-/U002D
+-
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 Titular:  Denise  da  Silva  Vidal Suplente:  Cristiana  Cavalcante  Benites
 
@@ -2530,13 +2530,13 @@ A  SECRETÁRIA  DE ESTADO  DE  SAÚDE ,  no  uso de  suas  atribuições legais,
 -  a  2º  Reunião  Ordinária  da  CIB/RJ  realizada  em  12/03/2026;
 -  a  documentação  anexada  ao  processo  n.º  SEI-080001/000509/2026.
 
-/U002D
+-
 
 Id:  2722033
 
 <!-- image -->
 
-/U0031 /U0034
+1 4
 
 ## R  E  S  O  LV  E :
 
@@ -2619,17 +2619,17 @@ Art.8º -  Caso  os  recursos  recebidos  não  sejam  totalmente  executados no
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 rerão por conta do PT: 2961.10.302.0508.4865- ED: 3340.41.01 - Fonte:  1.500.100/  1.761.122,  via  transferência  do  Fundo  Estadual  de  Saúde  para  os  Fundos  Municipais  de  Saúde.
 
@@ -2893,41 +2893,41 @@ Parágrafo único -  O  município fará constar do Relatório Resumido da Execu
 
 Pelo
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0030/U0034/U0039
+049
 
-/U0049
+I
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U006F
+o
 
-/U0031/U0038
+18
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0031/U0035
+15
 
 II  assistência à saúde que não atenda ao princípio da universalidade (clientela  fechada);
 
@@ -3144,7 +3144,7 @@ IV  saneamento básico;
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
 - V  limpeza  urbana;
 
@@ -3217,15 +3217,15 @@ A  PRESIDENTE DA  COMISSÃO  INTERGESTORES  BIPARTITE E  A PRESIDENTE  DO CONSEL
 
 Id:  2722019
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 -  a  Resolução  CIT  nº  4,  de  19 de  julho  de  2012,  que  dispõe  sobre  a pactuação  tripartite acerca  das regras  relativas às  responsabilidades sanitárias  no  âmbito  do  Sistema  Único  de  Saúde;
 -  a Portaria  de Consolidação  do  SUS nº  2,  de 28  de setembro  de 2017, em seu XXVI, Política Nacional de Atenção Hospitalar (PNHOSP), tendo como origem a Portaria GM/MS nº 3.390, de 30 de dezembro  de  2013, que  Institui  a  Política  Nacional de  Atenção  Hospitalar (PNHOSP)  no âmbito  do Sistema Único  de Saúde  (SUS), estabelecendo - se as diretrizes para a organização do componente hospitalar  da  Rede  de  Atenção  à  Saúde  (RAS);
@@ -3380,17 +3380,17 @@ Id:  2721727
 
 PROCESSO  N°  SEI-080001/000034/2026 - RECONHEÇO as  dívidas das despesas  realizadas em exercícios anteriores  relacionadas na listagem do 19º lote, com base no Decreto nº 41.880 de 25 de maio de 2009,  publicado  no DOE de 26 de  maio de  2009,  inciso  VI, art.  14  e no Relatório da Comissão de Sindicância Administrativa designada pela Portaria SUBFES  nº 04, de 13 de junho  de 2025, publicada no D.O.  de  18  de  junho  de  2025.
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 <!-- image -->
 
@@ -3437,25 +3437,25 @@ Parágrafo Único -  No  ato  da  assinatura  do  Termo  de  Compromisso  o gest
 
 Id:  2721723
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0034/U0039
+049
 
-/U002D
+-
 
-/U006F
+o
 
 - Art.  8º -  O  monitoramento  será  realizado  por  equipe  técnica  da  Secretaria  de Estado  de Saúde,  que ficará  responsável pela  verificação do funcionamento  do estabelecimento,  se mantém em  atividade, por meio  da  produção  informada  pelo hospital  no  Sistema  Informações Hospitalares  -  SIH.
 
@@ -3525,17 +3525,17 @@ Id:  2721731
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE SAÚDE SUBSECRETARIA DE GESTÃO ESTRATÉGICA SUPERINTENDÊNCIA DE RECURSOS HUMANOS
 
@@ -3639,17 +3639,17 @@ Id:  2721875
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | Sindicato  dos  Trabalhadores  nas  em-  presas  de  Saneamento  e  Meio  Am-  biente  do  Rio  de  Janeiro  -  SINTSA-  MA-RJ  José  Pereira  de  Lima  Sindicato  dos  Servidores  das  Autar-  quias  de  Fiscalização  Profissional  e  Entidades  Coligadas  No  Estado  do  Rio  de  Janeiro  Yasmine  Diniz  Rabello  Aline  Cordeiro  Peçanha  Fórum Intersindical  Saúde  Trabalho  Direito  -  RJ  Norma Bomfim  Conselho  Municipal  de  Saúde  de  Queimados  Iris  da  Conceição  Josué  Silva  da  Costa   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3802,17 +3802,17 @@ EXONERA a pedido,  nos termos  do art.  54, inciso  I, do  Decreto nº 2479/79, 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 EXONERA a pedido,  nos termos  do art.  54, inciso  I, do  Decreto nº 2479/79, o  servidor CLESIDE FERREIRA DA SILVA ,  Professor  Docente I 18h, nível C,  referência 5, Identidade Funcional n° 44166206, vínculo 1,  matrícula n° 971407-2, do  Quadro I, da Secretaria  de Estado  de  Educação,  com  validade  a  contar  de  12/01/2026.  Processo  nº SEI-030001/021281/2026.
 
@@ -3976,17 +3976,17 @@ Art. 1° -  Designar os  servidores, abaixo  discriminados, para  exercer gerên
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 Gerente titular:  Caio  Cesar Kiebitz Martins, matrícula nº 3059788-4, Id. Funcional  nº  5027059-8;
 
@@ -4043,39 +4043,39 @@ Art. 1° -Designar os  servidores, abaixo discriminados, para exercer gerência,
 
 Id: 2721784
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0030/U0034/U0039
+049
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0049
+I
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0031/U0038
+18
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 Gerente  titular:  Carlos Alberto  Lima  dos  Santos Filho,  matrícula  nº 0927988-6,  ID  nº  4255526-4;
 
@@ -4200,39 +4200,39 @@ Id: 2721647
 
 Id: 2721565
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0034/U0039
+049
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0031/U0038
+18
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
 ## DEPARTAMENTO GERAL DE AÇÕES SOCIOEDUCATIVAS CORREGEDORIA
 
@@ -4354,17 +4354,17 @@ Id: 2721646
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ## DEPARTAMENTO GERAL DE AÇÕES SOCIOEDUCATIVAS CORREGEDORIA
 
@@ -4572,17 +4572,17 @@ Id: 2721707
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE TRANSPORTE E MOBILIDADE URBANA
 
@@ -4666,39 +4666,39 @@ PROCESSO REGULATÓRIO: FATO RELEVANTE DA OPERAÇÃO ACESSO INDEVIDO -ENTRE AS  E
 
 O CONSELHO DIRETOR DA AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS CONCEDIDOS DE TRANSPORTES AQUAVIÁRIOS, FERROVIÁRIOS E METROVIÁRIOS E DE RODOVIAS DO ESTADO DO RIO DE JANEIRO - AGETRANSP, no  uso  de  suas  atribuições  legais e regimentais,  tendo em vista o que consta  no Processo Regulatório nº. E-12/004.160/2018, na  Nota Técnica de Evidências CATRA
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0030/U0034/U0039
+049
 
-/U0049
+I
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0031/U0038
+18
 
 nº  NTEV  043/2024  (79227423)  e no  Parecer  259  (88280338)  emitido pela  Procuradoria  Geral  desta  AGETRANSP, e as razões do voto proferido  pelo  relator,  por  unanimidade  dos  Conselheiros;
 
@@ -4862,17 +4862,17 @@ Art. 1º Não responsabilizar  a  Concessionária  CCR  Via  Lagos  diante ao ev
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 Art. 2º Reconhecer  o cumprimento,  por parte  da Concessionária CCR  VIA  LAGOS, dos requisitos  constantes  na Resolução  AGETRANSP  n° 09/2011,  com redação  alterada pela  Resolução AGETRANSP  n° 21/2014,  quanto  às exigências  constantes  do tempo  de comunicação  do  evento.
 
@@ -5135,17 +5135,17 @@ Art. 1º -Constituir  a  Equipe  de  Planejamento,  para a  elaboração  do Est
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 Art. 2º -Designar os  servidores Marcos  Vitor de  Araújo Lopes,  Id. Funcional:  5135143-9 e  Tayana  Santos de Oliveira Id. Funcional: 5148902-3,  para  compor  a  Equipe  de  Planejamento  desta  Fundação.
 
@@ -5229,41 +5229,41 @@ Diretora-Geral  de  Administração  e  Finanças Id: 2721670
 
 PROCESSO Nº SEI-320001/000680/2026 - AUTORIZO a  inexigibilidade de  licitação, com  fundamento na alínea  f, inciso III,  do art.  74 da Lei nº 14.133/2021, regulamentada pelo Decreto Estadual nº 48.820/2023, em  favor do INSTITUTO NEGOCIOS  PUBLICOS DO BRASIL -  ESTUDOS E PESQUISAS NA  ADMINISTRACAO PUBLICA
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0034/U0039
+049
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0031/U0038
+18
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0035
+25
 
 -INP  LTDA, inscrito no  CNPJ nº 10.498.974/0002-81 ,  no valor de R$  11.970,00  (onze  mil  novecentos  e  setenta  reais),  destinada  à  capacitação  de  dois servidores  lotados  na  Auditoria Geral  do  Estado (AGE),  para  participação  do  evento  8º  Seminário  Nacional  de  Obras Públicas  e  Manutenção  Predial,  a  ser  realizado  entre  os  dias  25  a  27 de  maio  de  2026,  na  modalidade  presencial,  em  Foz  do  Iguaçu/PR.
 
@@ -5439,17 +5439,17 @@ Id: 2721857
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
 ## Secretaria de Estado de Transformação Digital
 
@@ -5689,17 +5689,17 @@ Id: 2721806
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 ## FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEM
 
@@ -5775,41 +5775,41 @@ NOMEIA ,  com validade  a  contar da  data  de publicação, LEONARDO MARTINS AB
 
 Id: 2721748
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U0030/U0034/U0039
+049
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0031/U0038
+18
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0032/U0037
+27
 
 ## FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEM
 
@@ -5961,17 +5961,17 @@ Id: 2721766
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## AUTARQUIA DE PROTEÇÃO E DEFESA DO CONSUMIDOR DO ESTADO DO RIO DE JANEIRO
 
@@ -6133,17 +6133,17 @@ ANEXO I - LISTAGEM DE ELIMINAÇÃO DE DOCUMENTOS SEFAZ nº 01/2025
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 OBJETO: AQUISIÇÃO  DE TUBOS  PARA  AS  ADUTORAS DE  ÁGUA BRUTA E TRATADA DO SISTEMA  DE TRATAMENTO DE ÁGUA DE RIO  D'OURO -  LOTE  02.
 
@@ -6317,17 +6317,17 @@ Id: 2721774
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 ## Secretaria de Estado de Polícia Civil
 
@@ -6640,17 +6640,17 @@ SEI-
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 INSTRUMENTO: Termo  de  Ajuste  de  Contas  nº  275/2026. PARTES: Fundação Saúde do Estado do Rio de Janeiro e a empresa NOVO SABOR DE NILÓPOLIS LTDA. OBJETO: Tem por  objeto  a indenização  pela  prestação de  serviços de preparo  e fornecimento de  alimentação, para UPA  24h Campo Grande II, no período de  01/12/2025 à 31/12/2025, conforme solicitado e comprovado através da  apresentação das notas fiscais devidamente atestadas,  tendo  sua  viabilidade  jurídica  confirmada  pelo  Parecer  nº  347  (SEI-124404989). VALOR TOTAL: R$ 71.069,23  (setenta e um  mil, sessenta  e nove reais  e  vinte  e  três  centavos). DATA DA ASSINATURA: 16/03/2026. FUNDAMENTO: Decidido no Processo Administrativo nº SEI080002/001786/2026.
 
@@ -6806,39 +6806,39 @@ SEI-
 
 SEI-
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0034/U0039
+049
 
-/U006F
+o
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0031/U0038
+18
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 INSTRUMENTO: Termo  de  Ajuste  de  Contas  nº  484/2026. PARTES: Fundação Saúde do Estado do Rio de Janeiro e a empresa RESTAURANTE NOVA RODOVIA 2007 LTDA. OBJETO: Tem por  objeto  a indenização  pela  prestação de  serviços de fornecimento de alimentação, para o Hospital Estadual de Anchieta -HEAN, no  período de 01/01/2026 a  31/01/2026, conforme solicitado e  comprovado através da apresentação das notas fiscais devidamente atestadas,  tendo sua  viabilidade jurídica  confirmada pelo  Parecer nº 691  (SEI-126418311). VALOR TOTAL: R$  190.354,86  (cento  e noventa  mil,  trezentos  e  cinquenta  e  quatro  reais  e  oitenta  e  seis  centavos). DATA DA ASSINATURA: 16/03/2026. FUNDAMENTO: Decidido no Processo Administrativo nº SEI080002/004417/2026.
 
@@ -7020,17 +7020,17 @@ JOVENS  E
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 - 12 - INSTITUTO DE EDUCAÇÃO PROFESSOR CARLOS CAMACHO - Magé
 - 13 - COLÉGIO ESTADUAL MOYSES FURTADO BRAVO - Petrópolis
@@ -7165,17 +7165,17 @@ PROGRESSÃO  PAR-
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 30/04 - QUI Suco  de  goiaba  e  pão  francês  com  manteiga Iogurte  e  banana Salada  verde,  filé  mignon  suíno,  purê  abóbora,  arroz,  feijão. Os cardápios poderão sofrer alterações em razão do abastecimento, sazonalidade e custo dos alimentos. Essas alterações devem ser feitas dentro dos grupos alimentares e não podem prejudicar o valor nutricional das refeições, segundo as recomendações da Resolução SEEDUC nº 5729/2019.
 
@@ -7250,17 +7250,17 @@ O DIRETOR DO CIEP BRIZOLÃO 167 - JARDIM PARAÍSO ,  Censo Escolar  33058199,  t
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## ANEXO V
 
@@ -7399,17 +7399,17 @@ Id: 2721699
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## GOVERNO DO ESTADO DO RIO DE JANEIRO
 
@@ -7469,7 +7469,7 @@ I N  S T  R U  M E  N  TO : Contrato  nº  064/2026/HUPE. PA  R T  E  S : UERJ/H
 
 PROCESSO ADMINISTRATIVO Nº SEI-260005/000051/2022
 
-/U0049
+I
 
 G  E S  TO R  : Carlos  Eduardo  Virgini  Magalhães  -  matrícula  nº  34.110-7. FISCAL: Cristiane  Ferreira de Araujo  Gomes - matrícula  35.617-0 e Felipe  Borges  Fagundes  -  matrícula  35.322-6. NOMEAÇÃO : Portaria  nº  HUPE/2518/2026. DATA DA ASSINATURA: 16  de  março  de  2026. FUNDAMENTO DO ATO: Processo  nº  SEI-260007/011404/2025.
 
@@ -7545,39 +7545,39 @@ I N  S T  R U  M E  N  TO : Contrato  nº  104/2026/HUPE. PA  R T  E  S : UERJ/H
 
 Id: 2721871
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0034/U0039
+049
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0049
+I
 
-/U002D
+-
 
-/U0031/U0038
+18
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
 
@@ -7653,17 +7653,17 @@ VALOR: Dá-se ao Termo Aditivo o valor de R$ 6.240.000,00 (seis milhões,  duzen
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 NATUREZA DAS DESPESAS: 3390.39.38 FONTE DE RECURSO: 1.500.100 PROGRAMA DE TRABALHO: 31.730.0.26.122.0002.2016 NOTA DE EMPENHO: 2026NE00195. FUNDAMENTO: Artigo 71  da  Lei Federal  nº  13.303/2016 e  artigos 140  e  142  do  RILC/  RIOTRILHOS. PROCESSO Nº SEI-100002/000250/2024
 
@@ -7824,17 +7824,17 @@ NOME : Luiza  Coelho Viana CNPJ/CPF N° :  025.106.307-09 ENDEREÇO :  Rua  São
 
 NOME : Restaurante  Fantástico Rodizio  Fusion Food  Ltda CNPJ/CPF N° : 44.281.393/0001-24 ENDEREÇO : Estrada  do Rio  Grande, 1588
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 <!-- image -->
 
@@ -8137,17 +8137,17 @@ captação  (R$)
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - 04 I-  Título  do  projeto EU SOU O RIO ESTÚDIOS II-  Número  do  projeto 71034 III-  Nome/Razão  Social do  proponente AGENCIA SOLD OUT 21 PUBLICIDADE E EVENTOS LTDA IV-  CPF/CNPJ  do  proponente 23.994.244/0001-32 V-  Valor  total  do  projeto (R$) R$  2.000.000,00 VI-  Valor  aprovado  para captação  (R$) R$  2.000.000,00
 - VII  -  Produção  Cultural Nacional
@@ -8498,17 +8498,17 @@ Id: 2721547
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 para  comparecer  à  Sede  da  referida  Comissão,  situada  nesta  cidade, na Avenida  Erasmo Braga, n 118,  12 Andar, Sala das  Comissões -Centro -  Rio de  Janeiro -RJ  Telefone: (21)  23331887 -  E-mail: fesilva@cge.rj.gov.br, rrnunes@cge.rj.gov.br; acoliveira@cge.rj.gov.br; wfirmino@cge.rj.gov.br,  no  horário  das  10:00  as  15:00  horas,  no  prazo de  10  dias,  a  partir  da  última  publicação,  quando  terá  vista  dos  autos na Sede da Comissão, a fim  de apresentar DEFESA ESCRITA, em 2 vias, sob  pena de REVELIA,  por ter sido indiciado  por transgressão ao  art. 52,  inciso  V, §  parágrafo  1º do  Decreto-Lei  n 220/75,  Regulamentado  pelo  R.E.F.P.C.,  aprovado  pelo Decreto  2479/79,  com  redação alterada pela Lei Complementar 85/96, por ter se ausentado do serviço,  sem  justa  causa,  por  10  (dez)  dias  consecutivos,  no  período compreendido  entre 24/04/2025  a  03/05/2025, como  foi verificado  nos autos.
 
@@ -8580,41 +8580,41 @@ I N  S T  R U  M E  N  TO : Primeiro  Termo de Apostilamento ao  CONTRATO N° 00
 
 PARTES: Estado  do  Rio  de  Janeiro,  através  da  Secretaria  de  Estado de  Habitação  de Interesse  Social  -  SEHIS,  e a  empresa  PEDREIRA
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0034/U0039
+049
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0031/U0038
+18
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0033/U0039
+39
 
 forme  os  indexadores  123118862  e  123296437.
 
@@ -8742,17 +8742,17 @@ Id: 2721812
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado da Mulher
 
@@ -8853,17 +8853,17 @@ O  Edital  e seus  anexos  encontram-se  disponíveis nos  endereços  ele- trô
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -8872,34 +8872,34 @@ O  Edital  e seus  anexos  encontram-se  disponíveis nos  endereços  ele- trô
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 2025-CORAR-01/00065  JORGE LUAN DA CRUZ TENO-  RIO  30/06/1994  0,5  0  0  1Negro(a)  124Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00075  CAROLINE DA CONCEICAO  OLIVEIRA  21/09/1996  0,5  0  0  1Negro(a)  125Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00367  IGOR DO ESPIRITO SANTO  VIEIRA  25/10/1996  0,5  0  0  1Negro(a)  126Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00068  DAVI  NASCIMENTO VIRGILIO  2  8  /  11  /  1  9   9  6  0,5  0  0  1Negro(a)  127Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00209  AMANDA RANGEL BITTEN-  C  O  U  RT  05/12/1996  0,5  0  0  1Negro(a)  128Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00374  PAMELA CONCEICAO DA SIL-  VA  27/01/1997  0,5  0  0  1Negro(a)  129Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00304  LUAN VITOR GONCALVES  B  E  N  TO  10/08/1997  0,5  0  0  1Negro(a)  130Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00403  THAINA SA PINHEIRO  21/10/1997  0,5  0  0  1Negro(a)  131Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00041  GIOVANNA EGIDIO FRANKLIN  06/10/1998  0,5  0  0  1Negro(a)  132Classificado  -  Grupo  2  -  (remoto)  2  0  2  5  -  C  O  R  A  R  -  0   1  /  0   0  2  11  LETICIA  DA  SILVA  HERCULA-  NO E LIMA  21/09/1999  0,5  0  0  1Negro(a)  133Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00358  GABRIEL DOS SANTOS COIM-  BRA  26/08/2000  0,5  0  0  1Negro(a)  134Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00145  ELOISA MILENA MAESTRELLO  AMORIM  16/10/2000  0,5  0  0  1Negro(a)  135Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00318  MAURO MELO DE SOUZA  12/01/2001  0,5  0  0  1Negro(a)  136Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00313  LUCAS OLIVEIRA DA LUZ  08/02/2001  0,5  0  0  1Negro(a)  137Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00303  ELIAS  DA  SILVA  RAMIRO  VIEI-  RA  18/04/2001  0,5  0  0  1Negro(a)  138Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00129  THAYS SANTOS DE SOUZA  01/04/2002  0,5  0  0  1Negro(a)  139Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00215  LIGIA  GONCALVES DA COSTA  09/06/1965  0  0  0  0Negro(a)  140Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00226  MARCELO LUIZ RODRIGUES  14/03/1967  0  0  0  0Negro(a)  141Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00377  ALBA VALERIA DA SILVA RI-  BEIRO  11  /  0  8  /  1   9  6  9  0  0  0  0Negro(a)  142Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00400  PATRICIA FELIX DE LIMA PA-  DULA  20/04/1971  0  0  0  0Negro(a)  143Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00255  GISELY RICARDO CERQUEIRA  GOMES DOS SANTOS  16/05/1971  0  0  0  0Negro(a)  144Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00233  WELLINGTON DE OLIVEIRA  2  6  /  11  /  1  9   7  1  0  0  0  0Negro(a)  145Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00354  CATIA REGINA DA SILVA SOA-  RES  04/06/1973  0  0  0  0Negro(a)  146Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00180  CRISTIANE MENDONCA DE  OLIVEIRA  15/02/1975  0  0  0  0Negro(a)  147Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00283  TERESA CRISTINA ROZA PE-  REIRA MONTEIRO  26/04/1975  0  0  0  0Negro(a)  148Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00148  LUCIENE VIEIRA TRIANI  17/10/1975  0  0  0  0Negro(a)  149Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00256  JEAN HERBERT RODRIGUES  DA ROCHA  28/04/1976  0  0  0  0Negro(a)  150Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00272  ELIZA  DA  SILVA  CARDOSO  LOUREDO  01/05/1976  0  0  0  0Negro(a)  151Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00052  ANDRE LUIZ SANTOS SOUZA  14/08/1976  0  0  0  0Negro(a)  152Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00275  DANIEL SOARES DOS SAN-  TO  S  07/10/1976  0  0  0  0Negro(a)  153Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00049  ALDIR DE SANT ANNA SI-  QUEIRA  05/06/1977  0  0  0  0Negro(a)  154Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00078  RICARDO PEREIRA GONZA-  LES  01/12/1977  0  0  0  0Negro(a)  155Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00194  SIMONE HENRIQUE  18/09/1978  0  0  0  0Negro(a)  156Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00091  CLAUDIA GONCALVES  25/10/1978  0  0  0  0Negro(a)  157Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00238  DEISE LUCI ESPIRITO SANTO  DOS SANTOS  24/03/1979  0  0  0  0Negro(a)  158Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00196  KARLOS AUGUSTO PEREIRA  S  I  L VA  0  1  /  11  /  1  9   7  9  0  0  0  0Negro(a)  159Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00199  MARCELO DE SANTANA MAS-  CARENHAS  07/05/1980  0  0  0  0Negro(a)  160Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00159  ANDRE LUIZ NASCIMENTO  11  /  11  /   1  9  8  0  0  0  0  0Negro(a)  161Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00067  CARLOS EDUARDO DE SOU-  ZA  JOSE  12/02/1981  0  0  0  0Negro(a)  162Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00365  MARCOS VINICIUS RODRI-  GUES DA SILVA  18/06/1981  0  0  0  0Negro(a)  163Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00121  DANIELA ROGERIO MENDES  18/01/1982  0  0  0  0Negro(a)  164Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00257  MARGARETE ISABELA SAN-  TOS SOUZA  01/02/1982  0  0  0  0Negro(a)  165Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00093  DAVIDSON PEREIRA  17/08/1982  0  0  0  0Negro(a)  166Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00250  ADRIANA SILVA DE AGUIAR  G  O  N  C  A  LV  E  S  2  7  /  11  /  1  9   8  2  0  0  0  0Negro(a)  167Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00197  MARCIA DE AMURIM DA SILVA  31/03/1983  0  0  0  0Negro(a)  168Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00160  GILCIANE VIEIRA LESSA DE  C  A  RVA  L  H  O  06/06/1983  0  0  0  0Negro(a)  169Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00071  CARLA MOREIRA MARQUES  07/09/1983  0  0  0  0Negro(a)  170Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00285  LUANA SILVEIRA CHAPOT  21/05/1984  0  0  0  0Negro(a)  171Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00031  DAIANA BARROS DE OLIVEI-  RA  23/09/1984  0  0  0  0Negro(a)  172Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00146  ANA PAULA LIMA SANTOS  2  6  /  11  /  1  9   8  5  0  0  0  0Negro(a)  173Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00402  AMANDA FLAUSINO  23/02/1986  0  0  0  0Negro(a)  174Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00198  VIVIAN  VASCONCELOS DOS  REIS SANTOS  19/08/1986  0  0  0  0Negro(a)  175Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00258  GILBERTO GOMES DA SILVA  0  3  /  11  /  1  9   8  6  0  0  0  0Negro(a)  176Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00232  BRUNO ALVES  25/04/1988  0  0  0  0Negro(a)  177Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00395  ALEX SANDRO DA SILVA PE-  REIRA  15/05/1988  0  0  0  0Negro(a)  178Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00332  CRISTIEMILE IZIS  GONCALVES  DE FATIMA  01/09/1988  0  0  0  0Negro(a)  179Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00045  RHAVENNA TROVAO FONSE-  CA ALVES  28/04/1989  0  0  0  0Negro(a)  180Classificado  -  Grupo  2  -  (remoto)  2  0  2  5  -  C  O  R  A  R  -  0   1  /  0   0  11  7  JESSICA BRAZ DOMINGOS  04/07/1989  0  0  0  0Negro(a)  181Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00370  DIEGO BARBOSA DE BARROS  18/02/1992  0  0  0  0Negro(a)  182Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00382  IAGO DOS SANTOS CAVAL-  CANTE  08/10/1992  0  0  0  0Negro(a)  183Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00289  DANILO FELIPE PETRONILHO  DE SOUZA  13/10/1992  0  0  0  0Negro(a)  184Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00137  IRANIR CARDOSO DINIZ  03/03/1993  0  0  0  0Negro(a)  185Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00060  ISABELLE SILVA DE OLIVEIRA  07/06/1993  0  0  0  0Negro(a)  186Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00306  GABRIELA CELESTRINO RI-  BEIRO VIEIRA  20/12/1993  0  0  0  0Negro(a)  187Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00095  BRUNA CRISTINA SOUZA DO  N  A  S  C  I  M  E  N  TO  21/12/1993  0  0  0  0Negro(a)  188Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00142  MAURICIO BORGE DIAS  03/07/1994  0  0  0  0Negro(a)  189Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00372  LORENA SILVA FOGACA  20/12/1994  0  0  0  0Negro(a)  190Classificado  -  Grupo  2  -  (remoto)  2  0  2  5  -  C  O  R  A  R  -  0   1  /  0   0  11  2  PATRICK ASSIS FONSECA  23/01/1995  0  0  0  0Negro(a)  191Classificado  -  Grupo  2  -  (remoto)  2  0  2  5  -  C  O  R  A  R  -  0   1  /  0   0  11  0  THAMIRES SOARES  24/03/1995  0  0  0  0Negro(a)  192Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00059  JORGE ALEXANDRE PINHEI-  RO DE OLIVEIRA  08/08/1996  0  0  0  0Negro(a)  193Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00396  LETICIA  ANDRADE DE OLIVEI-  RA  01/10/1996  0  0  0  0Negro(a)  194Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00393  JOAO HENRIQUE DE LIMA  GABRIEL  03/03/1997  0  0  0  0Negro(a)  195Classificado  -  Grupo  2  -  (remoto)  2  0  2  5  -  C  O  R  A  R  -  0   1  /  0   0  3  11  MARIO GABRIEL DO ROZARIO  V  I  T A  L  I   N  O  27/06/1997  0  0  0  0Negro(a)  196Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00073  EDUARDO BARBOSA AZEVE-  DO SILVA  04/03/1999  0  0  0  0Negro(a)  197Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00151  ANDRESSA ARAUJO DIAS  04/04/1999  0  0  0  0Negro(a)  198Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00032  JOAO PEDRO RODRIGUES  BRAGA  01/06/1999  0  0  0  0Negro(a)  199Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00107  DAVI  ASSIS  CAMARGO DA  S  I  L VA  01/08/1999  0  0  0  0Negro(a)  200Classificado  -  Grupo  2  -  (remoto)  2025-CORAR-01/00363  ISIS  AKEMI  ISHIHARA  CRISTO-  VA  O  14/02/2000  0  0  0  0Negro(a)  201Habilitado  2025-CORAR-01/00288  RAQUEL GOMES SILVA RO-  CHA  04/06/2000  0  0  0  0Negro(a)  202Habilitado  2025-CORAR-01/00154  JENNIFER GREGORIO DA SIL-  VA  28/08/2000  0  0  0  0Negro(a)  203Habilitado   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 2  0  2  5  -  C  O  R  A  R  -  0   1  /  0   0  11  8  PATRICK ALVES DA SILVA MA-  TEUS  20/02/2001  0  0  0  0Negro(a)  204Habilitado  2025-CORAR-01/00079  LETICIA  LACERDA ARAUJO  28/03/2003  0  0  0  0Negro(a)  205Habilitado  2025-CORAR-01/00334  SHADDE DOS SANTOS DE  SOUZA  16/04/2004  0  0  0  0Negro(a)  206Habilitado   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8913,17 +8913,17 @@ O  Edital  e seus  anexos  encontram-se  disponíveis nos  endereços  ele- trô
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 2025-CORAR-01/00107  DAVI  ASSIS  CAMARGO DA SIL-  VA  01/08/1999  0  0  0  0Negro(a)  79Classificado  -  Grupo  2  (remoto)  2025-CORAR-01/00288  RAQUEL GOMES SILVA ROCHA  04/06/2000  0  0  0  0Negro(a)  80Habilitado  2025-CORAR-01/00154  JENNIFER GREGORIO DA SILVA  28/08/2000  0  0  0  0Negro(a)  81Habilitado  2025-CORAR-01/00079  LETICIA  LACERDA ARAUJO  28/03/2003  0  0  0  0Negro(a)  82Habilitado   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9093,17 +9093,17 @@ III.3 O  candidato deverá dirigir-se ao Posto  munido de documento oficial  de 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 III.4 O pedido de inscrição  por procurador deverá ser  instruído com o  respectivo mandato,  dispensado o  reconhecimento de  firma (Código Civil,  art.  654).
 

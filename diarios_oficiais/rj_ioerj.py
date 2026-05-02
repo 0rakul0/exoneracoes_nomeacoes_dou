@@ -13,20 +13,22 @@ from diarios_oficiais.base import Act
 from diarios_oficiais.base import BaseGazetteCollector
 from diarios_oficiais.base import Edition
 from diarios_oficiais.config import TORCH_CUDA_RUNTIME
+from diarios_oficiais.utils_regex.common import ACT_WINDOW_RE
+from diarios_oficiais.utils_regex.common import AGENCY_RE
+from diarios_oficiais.utils_regex.common import FUNCTIONAL_ID_RE
+from diarios_oficiais.utils_regex.common import NAME_AFTER_ACTION_RE
+from diarios_oficiais.utils_regex.common import ROLE_RE
+from diarios_oficiais.utils_regex.common import SIGNER_CATEGORIES
+from diarios_oficiais.utils_regex.common import SIGNER_RE
+from diarios_oficiais.utils_regex.common import SPACE_RE
+from diarios_oficiais.utils_regex.common import TAG_RE
+from diarios_oficiais.utils_regex.common import DATE_LINK_RE
+from diarios_oficiais.utils_regex.common import EDITION_LINK_RE
+from diarios_oficiais.utils_regex.common import PDF_KEY_RE
 
 
 BASE_URL = "https://www.ioerj.com.br/portal/modules/conteudoonline/"
 CALENDAR_URL = urljoin(BASE_URL, "do_seleciona_data.php")
-
-
-DATE_LINK_RE = re.compile(r'href=["\']do_seleciona_edicao\.php\?data=([^"\']+)["\']', re.I)
-EDITION_LINK_RE = re.compile(
-    r'<a\s+href=["\'](?P<href>mostra_edicao\.php\?session=[^"\']+)["\'][^>]*>(?P<label>.*?)</a>',
-    re.I | re.S,
-)
-PDF_KEY_RE = re.compile(r'var\s+pd\s*=\s*["\'](?P<key>[A-F0-9-]+)["\']', re.I)
-TAG_RE = re.compile(r"<[^>]+>")
-SPACE_RE = re.compile(r"\s+")
 
 
 class RjIoerjCollector(BaseGazetteCollector):
@@ -99,19 +101,6 @@ def clean_html(value: str) -> str:
     return SPACE_RE.sub(" ", value).strip()
 
 
-ACT_WINDOW_RE = re.compile(
-    r"\b(?P<action>EXONERAR|NOMEAR)\b(?P<body>.{0,1200}?)(?=\b(?:EXONERAR|NOMEAR|DESIGNAR|TORNAR SEM EFEITO|RESOLVE|DECRETO|ATO DO|SECRETARIA|Art\.|$))",
-    re.I | re.S,
-)
-NAME_AFTER_ACTION_RE = re.compile(
-    r"(?:^|,\s*)(?P<name>[A-ZÁÉÍÓÚÂÊÔÃÕÇ][A-ZÁÉÍÓÚÂÊÔÃÕÇ.'-]+(?:\s+(?:DE|DA|DO|DAS|DOS|E|[A-ZÁÉÍÓÚÂÊÔÃÕÇ][A-ZÁÉÍÓÚÂÊÔÃÕÇ.'-]+)){1,9})(?=,|\s+para\s+|\s+do\s+|\s+da\s+)",
-    re.I,
-)
-ROLE_RE = re.compile(
-    r"(?:para exercer|do|da)\s+(?:o\s+|a\s+)?(?P<role>cargo(?:\s+em\s+comissao)?|funcao|função|emprego|chefia|direcao|direção|assessoria)[^,.;\n]{0,220}",
-    re.I,
-)
-AGENCY_RE = re.compile(r"\b(?:da|do)\s+(Secretaria|Subsecretaria|Fundacao|Fundação|Instituto|Departamento|Gabinete|Superintendencia|Superintendência|Autarquia)\b[^,.;\n]{0,180}", re.I)
 
 
 def parse_acts(
@@ -136,6 +125,8 @@ def parse_acts(
         agency_match = AGENCY_RE.search(body)
         role = clean_piece(role_match.group(0)) if role_match else ""
         agency = clean_piece(agency_match.group(0)) if agency_match else ""
+        functional_id = extract_functional_id(body)
+        signer_name, signer_role, signer_category = extract_signer(excerpt)
         key = (action, person_name, excerpt[:180])
         if key in seen:
             continue
@@ -149,14 +140,44 @@ def parse_acts(
                 section=edition.section,
                 action_type="nomeacao" if action == "NOMEAR" else "exoneracao",
                 person_name=person_name,
+                functional_id=functional_id,
                 role=role,
                 agency=agency,
                 excerpt=excerpt[:900],
                 source_url=edition.url,
                 text_path=str(markdown_path),
+                signer_name=signer_name,
+                signer_role=signer_role,
+                signer_category=signer_category,
             )
         )
     return acts
+
+
+def extract_functional_id(body: str) -> str:
+    match = FUNCTIONAL_ID_RE.search(body)
+    return match.group("id").strip(" .,-;:") if match else ""
+
+
+def extract_signer(text: str) -> tuple[str, str, str]:
+    matches = list(SIGNER_RE.finditer(text))
+    if not matches:
+        return "", "", ""
+
+    match = matches[-1]
+    raw_name = re.split(r"[.;:]\s*", match.group("name"))[-1]
+    signer_name = normalize_name(raw_name)
+    if not valid_person_name(signer_name):
+        return "", "", ""
+
+    raw_role = clean_piece(match.group("role"))
+    normalized_role = normalize_name(raw_role)
+    for category, label, pattern in SIGNER_CATEGORIES:
+        if re.fullmatch(pattern, raw_role, flags=re.I):
+            return signer_name, label, category
+        if re.fullmatch(pattern, normalized_role, flags=re.I):
+            return signer_name, label, category
+    return signer_name, raw_role, ""
 
 
 def parse_acts_from_markdown_file(
@@ -214,9 +235,42 @@ def valid_person_name(candidate: str) -> bool:
     tokens = candidate.upper().split()
     if len(tokens) < 2 or len(tokens) > 14:
         return False
-    if tokens[0] in {"A", "O", "COM", "SEM", "PARA", "DO", "DA", "NO", "NA", "SIMBOLO", "SÍMBOLO"}:
+    suspicious_starts = {
+        "A",
+        "O",
+        "COM",
+        "SEM",
+        "PARA",
+        "DO",
+        "DA",
+        "NO",
+        "NA",
+        "EM",
+        "OS",
+        "AS",
+        "SIMBOLO",
+        "SÍMBOLO",
+    }
+    if tokens[0] in suspicious_starts:
         return False
-    blocked = {"CARGO", "FUNCAO", "FUNÇÃO", "SECRETARIA", "ESTADO", "SIMBOLO", "SÍMBOLO", "PROCESSO"}
+    blocked = {
+        "ALFABETICA",
+        "ALFABÉTICA",
+        "CANDIDATO",
+        "CANDIDATOS",
+        "CARGO",
+        "CPF",
+        "ESTADO",
+        "FUNCAO",
+        "FUNÇÃO",
+        "INSCRICAO",
+        "INSCRIÇÃO",
+        "ORDEM",
+        "PROCESSO",
+        "SECRETARIA",
+        "SIMBOLO",
+        "SÍMBOLO",
+    }
     return not any(token in blocked for token in tokens[:3])
 
 
@@ -257,7 +311,6 @@ def edition_slug(section: str) -> str:
     slug = re.sub(r"[^A-Za-z0-9]+", "_", normalized).strip("_").upper()
     return slug or "caderno"
 
-
 def collect_rj() -> int:
     collector = RjIoerjCollector()
     dates = sorted(collector.list_available_dates(), reverse=True)
@@ -265,7 +318,17 @@ def collect_rj() -> int:
     total_new_acts = 0
     current_year = date.today().year
     active_year: int | None = None
+    failed_years: set[int] = set()
     skipped_years: set[int] = set()
+
+    def finalize_year(year: int | None) -> None:
+        if year is None or year >= current_year:
+            return
+        if year in failed_years:
+            print(f"Nao marquei {year} como completo porque houve falhas de coleta.", file=sys.stderr)
+            return
+        collector.mark_year_complete(year)
+
     for item in dates:
         if collector.is_year_complete(item.year):
             if item.year not in skipped_years:
@@ -273,11 +336,17 @@ def collect_rj() -> int:
                 skipped_years.add(item.year)
             continue
 
-        if active_year is not None and item.year != active_year and active_year < current_year:
-            collector.mark_year_complete(active_year)
+        if active_year is not None and item.year != active_year:
+            finalize_year(active_year)
         active_year = item.year
 
-        editions = collector.list_editions(item)
+        try:
+            editions = collector.list_editions(item)
+        except Exception as exc:
+            failed_years.add(item.year)
+            print(f"Falha ao listar edicoes de {item.isoformat()}: {exc}", file=sys.stderr)
+            continue
+
         editions = [
             edition
             for edition in editions
@@ -290,12 +359,20 @@ def collect_rj() -> int:
         for edition in editions:
             markdown_path = collector.markdown_path_for(edition)
             csv_path = collector.yearly_csv_path_for(edition.publication_date)
-            collector.load_or_create_markdown(edition, markdown_path)
-            acts = parse_acts_from_markdown_file(collector, edition, markdown_path)
-            total_new_acts += collector.write_csv(csv_path, acts)
+            try:
+                collector.load_or_create_markdown(edition, markdown_path)
+                acts = parse_acts_from_markdown_file(collector, edition, markdown_path)
+                total_new_acts += collector.write_csv(csv_path, acts)
+            except Exception as exc:
+                failed_years.add(item.year)
+                collector.record_collection_failure(edition, "processar_edicao", exc)
+                print(
+                    f"Falha ao processar {item.isoformat()} ({edition.section}); seguindo para a proxima edicao: {exc}",
+                    file=sys.stderr,
+                )
+                continue
 
-    if active_year is not None and active_year < current_year:
-        collector.mark_year_complete(active_year)
+    finalize_year(active_year)
     return total_new_acts
 
 

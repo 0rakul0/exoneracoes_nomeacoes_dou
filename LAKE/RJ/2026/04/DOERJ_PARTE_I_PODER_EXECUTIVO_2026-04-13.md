@@ -385,17 +385,17 @@ E-
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 - 3.3.  Relator: Dr.  Bruno  Max  Borguezan,  Conselheiro-Representante da  SBOT-RJ/ABRAMET-RJ:
 
@@ -933,23 +933,23 @@ Rio  de  Janeiro,  08  de  abril  de  2026
 
 Superintendente  de  Compras  e  Contratos Id:  2727981
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0035
+065
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
 ## SECRETARIA DE ESTADO DE FAZENDA SUBSECRETARIA DE ADMINISTRAÇÃO SUPERINTENDÊNCIA DE RECURSOS HUMANOS
 
@@ -1001,9 +1001,9 @@ PROCESSO Nº SEI-E-04/315490/1988 -MAURICIO SEIXAS B  A  S  TO  S  , Agente de  
 
 Id:  2728144
 
-/U0049
+I
 
-/U0033
+3
 
 <!-- image -->
 
@@ -1048,17 +1048,17 @@ O PRESIDENTE  DA JUNTA  DE  REVISÃO  FISCAL ,  no uso  de  suas atribuições l
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -1341,7 +1341,7 @@ DESIGNA SERVIDOR PARA  SUBSTITUIÇÃO DE GESTOR E DE GESTOR SUBSTITUTO PARA AS A
 
 Id:  2728208
 
-/U0036
+6
 
 ## O SECRETÁRIO DE ESTADO DE POLÍCIA MILITAR ,  no  exercício  de suas  atribuições  legais,  e CONSIDERANDO:
 
@@ -1394,17 +1394,17 @@ V   acusar,  mensalmente,  o  não recebimento;  o  recebimento fora  do prazo  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ofícios  de  remessa);  valores  faturados acima  do  limite  máximo  (valor nominal  do contrato)  de  notas fiscais,  ou  outro documento  orientador do  pagamento,  avisando  ao  respectivo responsável  de  tramitação  e acompanhamento contratual  para  medidas  de  cobrança  do  envio;
 
@@ -1596,17 +1596,17 @@ Id:  2728049
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 a) O Tenente - Coronel PM (RG- 57.358) DANIELE DE ALMEIDA NEDER, do QOEM/Q-I, a contar  de  12  Mar  2026 b) O  Major  PM  (RG-  80.975)  AGOSTINHO  BUENO  NOGUEIRA,  do QOEM/Q-I, a contar  de  20  Mar  2026;  e c) O Major  PM (RG- 82.503) EMANUELLE  TEIXEIRA DE OLIVEIRA FERREIRA, do QOEM/Q-I, a contar de 26 Mar 2026.
 
@@ -1728,41 +1728,41 @@ Id:  2728050
 
 PROCESSO ADMINISTRATIVO Nº  SEI-350005/013106/2025 -  cujo objeto  é a  contratação de  empresa para  a prestação  de serviços  de manutenção  preventiva  e  corretiva  em  veículos  automotores,  por  demanda,  com fornecimento  de peças  de reposição  e acessórios  originais ou genuínos que  atendam às recomendações dos fabricantes, para atender as necessidades desta  Secretaria de Estado de Polícia Militar  (SEPM).  Tendo  em  vista  a  Reserva  Orçamentária,  os  documentos (127977946)  / (127979022), e  a Declaração do Ordenador  da Diretoria Geral  de Administração  e Finanças (DGAF),  os documentos (128035301) / (128035459),  bem como o Estudo  de Impacto Financeiro,  índex  (127979054), este  Subdiretor  de  Transporte, no  uso  de suas  atribuições legais  e  com base  na Resolução  SEPM  Nº 8.193  de
 
-/U0038
+8
 
-/U002D
+-
 
-/U0030/U0036/U0035
+065
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0031/U0033
+13
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 18/11/2025, A  U  TO  R  I  Z  A A DESPESA na forma do Projeto Básico e do instrumento  convocatório,  que  entre  si  celebram o  Estado  do  Rio  de Janeiro,  por meio  da  Secretaria de  Estado  da Polícia  Militar  e a  empresa AUTO MECANICA FIGUEIRA E FILHOS LTDA inscrita no CNPJ sob o  nº 27.619.179/0001-16,  estabelecida no endereço  Estrada do Contorno,  125,  Loja  B,  Cambota  Valença  -  RJ  CEP:  27.600-000,  no valor  de  R$  500.000,00  (quinhentos  mil  reais)  pelo  período  de  12  meses relativos  à  reserva  orçamentária  de  2026  e  2027,  para  atender  as necessidades  de  manutenção de  frota  da  Polícia  Militar do  Estado  do Rio  de  Janeiro.
 
@@ -1810,17 +1810,17 @@ Id:  2728057
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR DIRETORIA GERAL DE SAÚDE
 
@@ -2006,17 +2006,17 @@ II  viabilizar,  na  hipótese de transferência do servidor designado como fisc
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 III  providenciar  a  substituição  imediata  de  servidor  designado  que  se achar  impedido  na  forma  do  art.10  do  Decreto  Estadual  nº  45.600,  de 16  de  março  de  2016,  encaminhando  a  solicitação  através  de  SEI  à D  I   T .
 
@@ -2202,17 +2202,17 @@ II  viabilizar,  na  hipótese de transferência do servidor designado como fisc
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 III  providenciar  a  substituição  imediata  de  servidor  designado  que  se achar  impedido  na  forma  do  art.10  do  Decreto  Estadual  nº  45.600,  de 16  de  março  de  2016,  encaminhando  a  solicitação  através  de  SEI  à DIT/ASSTEC.
 
@@ -2402,17 +2402,17 @@ Id:  2728073
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 ## DE 09/04/2026
 
@@ -2464,39 +2464,39 @@ ATO  DE  05.03.2026  -  PUBLICADO  NO D.O.  DE  06.03.2026  Te  n   d   o em vis
 
 Id:  2728083
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0036/U0035
+065
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0044/U0045
+DE
 
-/U0031/U0033
+13
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL
 
@@ -2580,17 +2580,17 @@ Id:  2727992
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS SERVIÇO DE DIREITOS E VANTAGENS
 
@@ -2702,17 +2702,17 @@ DESIGNA, como  Sindicante, o  Inspetor de Polícia  Penal RICARDO DE  OLIVEIRA  
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ## INSTITUTO PENAL PLÁCIDO SÁ CARVALHO
 
@@ -2854,25 +2854,25 @@ TORNA  SEM EFEITO o ato  de  24 de  março de  2026, publicado  no D.O. de  25.0
 
 Id:  2728037
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0035
+065
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
 ## SECRETARIA DE ESTADO DE DEFESA CIVIL CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO
 
@@ -2902,7 +2902,7 @@ LICENCIA ,  a  pedido,  a  contar  de  14  de  novembro  de  2025,  do  serviço
 
 Id:  2728003
 
-/U0031/U0033
+13
 
 Id:  2728094
 
@@ -2944,17 +2944,17 @@ Art.  1º -  Referendar  a  Deliberação Ad  Referendum  n°  1316  que  pactua
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 mensal de R$ 5.250.000,00 (cinco milhões e duzentos e cinquenta mil reais)),  sendo  o  valor  anual  de  R$  63.000.000,00  (sessenta  e  três  milhões  de  reais); d) Hospital Infantil Darcy Souza Vargas -valor mensal de R$ 1.750.000,00 (hum milhão e setecentos  e cinquenta mil reais)), sendo o  valor  anual  de  R$  21.000.000,00  (vinte  e  um  milhões  de  reais); e) Centro  de Imagem e Especialidades  de São Gonçalo -  CIESG -valor mensal de R$ 2.200.000,00  (dois milhões e duzentos mil reais), sendo o valor anual de R$ 26.400.000,00 (vinte e seis milhões e quatrocentos  mil  reais);
 
@@ -3090,17 +3090,17 @@ Id:  2728193
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE SAÚDE COMISSÃO INTERGESTORES BIPARTITE
 
@@ -3165,25 +3165,25 @@ Id:  2728195
 
 Id:  2728194
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0035
+065
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
 -  a  importância  do  fortalecimento  dos  estabelecimentos  de  saúde  pública  para o  desenvolvimento do  Sistema Único  de Saúde  do Estado do  Rio  de  Janeiro;  e -  Ofício  nº  643/2026/GAB/SMS  que  solicita  apoio  financeiro  para  aquisição de  equipamentos e mobiliários destinados  à estruturação do Centro de Parto Normal (CPN) e do Hospital Geral Nossa Senhora da Piedade,  e -  documentação  anexada  no  SEI-080001/008550/2026; -  a  3ª  Reunião  Ordinária  da  CIB-RJ  realizada  em  09/04/2026.
 
@@ -3290,17 +3290,17 @@ Id:  2728198
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - -a  Portaria GM/MS Nº  10.297, de 27  de fevereiro de  2026, dispõe sobre as regras  para as transferências do Fundo  Nacional de Saúde, relativas  a emendas  individuais que  destinarem recursos  ao Sistema Único  de  Saúde  -  SUS,  em  2026.
 -  a  documentação  anexada  ao  processo  SEI-080001/008134/2026;
@@ -3424,17 +3424,17 @@ Id:  2728202
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Os montantes disponibilizados  para os municípios do  Estado do Rio de Janeiro estão na planilha disponibilizada em: h  t t  p :  / /  w  w  w.  c  i b  . r  j .  g o  v.  b  r /  a r  q u  i v  o  s -  p a  r a  b  a  i x  a  r /  b o  l e  t i n  s  -  c  i  b  /  2  9  3  3  -  teto-papportalfns/file.html Parágrafo  Único -  Considerando  que,  a  referida  Portaria  estabelece: a. Requisitos  estabelecidos  para  apreciação  das  propostas  pelo  Ministério  da  Saúde; b. Que  cada proposta  deve ser  acompanhada de  um plano  de trabalho  detalhado com  objetivos,  justificativas,  metas, identificação  das unidades  de saúde  beneficiadas  e especificação  da  aplicação dos  recursos; c. Os  repasses  deverão  ser  feitos  em  contas  correntes  específicas, abertas no Transferegov.br, vinculada  aos fundos de saúde estaduais, do Distrito  Federal e municipais,  observando a inscrição  destes no Cadastro Nacional da Pessoa Jurídica - CNPJ, sendo vedado a transferência  dos recursos  federais  para outra  conta,  garantido o  rastreamento  e  a segregação  contábil  dos  recursos  de cada  emenda,  reforçando  a  transparência  e  o  controle  social  da  aplicação  dos  recursos; d. Os Limites  máximos no exercício  de  2026  para  a  Atenção  Primária a  Saúde; e. Os Municípios  que apresentarem  Indicador de  Vulnerabilidade Social  -  IVS  superior  a  0,3  farão  jus  a  acréscimo  de  20%  (vinte  por  cento)  sobre  o  limite  estabelecido  no  caput; f. Que execução  financeira  das propostas  aprovadas depende,  além da  conformidade  técnica,  da  deliberação das  instâncias  colegiadas  de gestão do  SUS (Comissão Intergestores  Regionais - CIR  e Comissão Intergestores  Bipartite -  CIB), bem  como da  inclusão das  ações no Plano de  Saúde e  na Programação  Anual de  Saúde dos  entes federativos. Art.  2° -A responsabilidade  pela comprovação da aplicação dos recursos repassados  referentes à Portaria GM/MS  10.297/2026 é do gestor  local  e  será  realizada  por  meio  do  Relatório  Anual  de  Gestão  RAG,  elaborado anualmente  e submetido  ao respectivo  Conselho de Saúde, nos  termos dos  art. 1147  e art. 1148,  da Portaria  de Consolidação  GM/MS  nº  6,  de  28  de  setembro  de  2017,  sem  prejuízo  de outras  formas  de  controle  realizadas  pelo  Ministério  da  Saúde.
 
@@ -3557,17 +3557,17 @@ Id:  2728206
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 -  o decreto  nº  7.508 de  28  de junho  de 2011  que  regulamenta a  Lei nº 8.080,  de 19 de  setembro de 1990,  para dispor sobre  a organização  do  Sistema  Único  de  Saúde;
 -  a  1ª  Reunião  Ordinária  da  Comissão  Intergestores  Regional  Noroeste,  realizada  através  de  reunião  em  05  de  março  de  2026;
@@ -3652,17 +3652,17 @@ DELIBERAÇÃO CIB RJ Nº 10.808 DE 09 DE ABRIL DE 2026 PACTUA  A ATUALIZAÇÃO  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 -  a  3ª  Reunião  Ordinária  da  CIB-RJ  realizada  em  09/04/2026
 
@@ -3744,31 +3744,31 @@ Rio  de  Janeiro,  09  abril  de  2026
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Anexo II
 
@@ -3808,23 +3808,23 @@ PACTUA  A UTILIZAÇÃO  DOS RECURSOS  FINANCEIROS DA POLÍTICA NACIONAL  DE EDUC
 
 A  PRESIDENTE DA  COMISSÃO INTERGESTORES  BIPARTITE ,  no uso  de  suas  atribuições  e,
 
-/U0032/U0032
+22
 
-/U002D
+-
 
-/U004E
+N
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0030/U0036/U0035
+065
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
 ## CONSIDERANDO
 
@@ -3887,39 +3887,39 @@ Rio  de  Janeiro,  09  abril  de  2026
 
 Id:  2728236
 
-/U002D
+-
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0031/U0033
+13
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 Id:  2728235
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE SAÚDE COMISSÃO INTERGESTORES BIPARTITE
 
@@ -4212,31 +4212,31 @@ Id:  2728244
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0031/U0033
+13
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE SAÚDE COMISSÃO DE INTERGESTORES BIPARTITE
 
@@ -4279,39 +4279,39 @@ Representantes  do  Conselho  de  Secretários  Municipais  de  Saúde (COSEMS)
 
 Id:  2728246
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0036/U0035
+065
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0031/U0033
+13
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE SAÚDE COMISSÃO DE INTERGESTORES BIPARTITE
 
@@ -4325,17 +4325,17 @@ PACTUA  A  ATUALIZAÇÃO DA  GRADE  DE REFERÊNCIA DE CUIDADOS À PESSOA COM DEF
 - -a  Portaria GM/MS  nº 793,  de 24 de  abril de  2012, e  a Portaria GM/MS  nº 835,  de  25 de  abril  de  2012, que  instituíram  a Rede  de Cuidados à  Pessoa com Deficiência (RCPD),  atualizadas pelas Portarias  de  Consolidação  MS/GM  nº  3,  e  n°6  ambas  de  28  de  setembro de 2017,  que respectivamente, consolida  as normas sobre  as redes do Sistema  Único de Saúde  e descreve as normas  de financiamento e a transferência dos recursos federais  para as ações e os serviços do  Sistema  Único  de  Saúde;
 -  a Portaria  GM/MS nº  1.526,  de 11  de  outubro de  2023, que  altera as  Portarias  de  Consolidação  GM/MS  nº  2,  3  e  6,  de  28  de  setembro de  2017, para  dispor  sobre a  Política Nacional  de  Atenção Integral  à Saúde da Pessoa com Deficiência  (PNAISPD) e  Rede  de Cuidados  à Pessoa com Deficiência (RCPD) no âmbito do Sistema Único de Saúde  (SUS);  -  a  Portaria  GM/MS  nº  8.142,  de  18  de  setembro  de  2025, que  habilitou  o  Instituto  de  Clínica  e  Cirurgia  Santa  Catarina,  CNES 4149572,  localizado  no  município  de  Comendador  Levy  Gasparian/RJ, como Centro Especializado em Reabilitação - CER tipo II, Reabilitação nas modalidades  Auditiva e Visual para  atender a região Centro Sul/RJ;
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 <!-- image -->
 
@@ -4562,17 +4562,17 @@ Id:  2728257
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE SAÚDE COMISSÃO DE INTERGESTORES BIPARTITE
 
@@ -4610,41 +4610,41 @@ tras  providências;
 
 Id:  2728258
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0032/U0035
+25
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0035
+065
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0031/U0033
+13
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 -  a Portaria  GM/MS nº  9.810, de  27 de  dezembro de  2025, que  estabelece  limite financeiro  para  execução do  Programa  Agora Tem  Especialistas  -  Componentes  Ambulatorial  e  Cirúrgico,  em  2026; -  a Portaria  GM/MS nº  6.494, de  31 de  dezembro de  2024, que  estabelece  recurso  a  ser  disponibilizado  aos  Estados,  Distrito  Federal  e Municípios, destinado ao Programa Nacional de Redução das Filas de Cirurgias  Eletivas,  Exames  Complementares e  Consultas  Especializadas  -  Exercício  de  2025; -  a  Portaria  GM/MS  nº5.758,  de  4  de  dezembro,  que  altera  a  Portaria GM/MS nº  3.492,  de 8  de  abril  de  2024,  que institui  o  Programa  Nacional  de  Expansão  e  Qualificação  da  Atenção  Ambulatorial  Especializada,  no  âmbito  do  Sistema  Único  de  Saúde  (SUS); -a Portaria  GM/MS nº 90, de  03 de fevereiro de  2023, que instituiu, para o exercício de 2023, o Programa Nacional de Redução das Filas de  Cirurgias Eletivas,  Exames Complementares  e Consultas  Especializadas,  no  âmbito  do  Sistema  Único  de  Saúde  (SUS); - a Portaria SAES/MS Nº 3.245, de  9 de setembro de 2025, que estabelece  o rol  de  procedimentos cirúrgicos  no  âmbito do  Programa Agora  Tem Especialistas, de acordo com  o artigo 9°da Portaria GM/MS n° 90, de 03 de fevereiro de 2023,combinado com o artigo 7° da  Portaria  GM/MS  n° 7.266,  de  18  de  junho  de 2025  que  será  referência para o Componente Cirúrgico, para o Componente Crédito Financeiro  de acordo  com o  parágrafo 1°  do artigo  5° da  Portaria GM/MS n°  7.307 de25  de  junho  de 2025  e  para  o Componente  Ressarcimento ao SUS,  de acordo com o  inciso II do artigo  10° da Portaria  Conjunta MS/AGU n° 7.702, de 28 julho de 2025, e para o Componente  prestação de  serviços especializado  em caráter  complementar-  Modalidades  1,  2  e  3,  e  altera  atributos  de  Procedimentos  na  Tabela  de Procedimentos,  Medicamentos, Órteses,  Próteses e  Materiais Especiais do SUS,  (Tabela de Procedimentos do SUS)  e dá outras providências; -  a  Nota  Técnica  nº  19/2026  -  DRAC/CGOF/DRAC/SAES/MS,  que  estabelece regras para o pagamento da produção dos componentes ambulatoriais  (OCI) e  cirúrgicos (cirurgias  eletivas), do  Programa Agora Tem Especialistas,  nos  anos  de  2025  e  2026; -  A Portaria  SAES/MS Nº  2.324,  DE 6  DE DEZEMBRO  DE 2024  que Estabelece  procedimentos  relativos  ao  Programa Mais  Acesso  a  Especialistas  -  Componente  Cirurgias  e  revoga  a  Portaria  SAES/MS  n.  º 237,  de  8  de  março  de  2023; - Deliberação CIB RJ  Nº 10.774 DE 12 de março  de 2026, que pactua  a implementação  de  grupo  de trabalho  para  definição da  programação  do  limite orçamentário  financeiro  para  execução do  Programa Agora tem Especialistas - componente ambulatorial e cirúrgico, no ano de  2026. -  a  documentação  encartada  ao  processo  SEI-080001/029665/2023; -  a  3  ª  Reunião  Ordinária  da  CIB/RJ  realizada  em  09/04/2026.
 
@@ -4665,17 +4665,17 @@ Art.  4º  A liberação das  faixas de AIH/APAC especiais dos componentes:  Amb
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - Informação Hospitalar  SIH, com  as séries numéricas  específicas do Programa  Agora  Tem  Especialistas.
 - §  3º  Os  recursos  já  repassados em  2025,  por  meio  da  Portaria GM/MS nº  6.494, de  31 de  dezembro de  2024, e  os relativos  ao fomento previsto na Portaria GM/MS  nº 5.758, de 4 de dezembro de2024,  poderão  ser  executados  até  31  de  dezembro  de  2026,  e,  em caso  de não  comprovação da  execução integral,  os valores  remanescentes poderão ser  deduzidos dos Tetos Financeiros de  Média e Alta Complexidade  (Teto MAC)  dos  estados, Distrito  Federal e  municípios, correspondentes.
@@ -4698,21 +4698,21 @@ Rio  de  Janeiro,  09  de  abril  de  2026 CLAUDIA MARIA BRAGA DE MELLO Presiden
 
 -  DESTINATÁRIO -  Superintendência  de  Atenção  Especializada,  Controle  e  Avaliação
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 <!-- image -->
 
 ## ANEXO II
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - Modelo  do  Ofício  para  solicitação  da  faixa  de  AIH  e  APAC,  para  faturamento  dos  procedimentos  vinculados  a  esta  Deliberação. -  Encaminhar  o  ofício  e  arquivo  (Excel)  à  Superintendência  de  Atenção  Especializada,  Controle  e  Avaliação  -  SAECA,  através  do  sistema  de  faixa  AIHAPAC.
 
@@ -4888,39 +4888,39 @@ Id:  2728120
 
 Id:  2728220
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0031/U0033
+13
 
-/U002D
+-
 
-/U004E
+N
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0030/U0036/U0035
+065
 
-/U006F
+o
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE SAÚDE SUBSECRETARIA EXECUTIVA
 
@@ -5019,17 +5019,17 @@ ROSA  MARIA ROCHA  ALVES , Professor  Docente I,  matricula nº 920.404-1,  ID  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 de  até 30  dias no  trimestre  por um prazo  de 24  meses, cessando  todo e qualquer licenciamento na  data desta publicação. Processo nº SEI-030001/008164/2026.
 
@@ -5205,17 +5205,17 @@ PROMOVE por  formação  o  servidor LUIZ  CARLOS  DE  MELLO, ID. Funcional  328
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 da Lei  nº 1614, de  24 de  janeiro de 1990  e no uso  das atribuições legais conferidas  pelo Decreto  Estadual nº 45.046/2014.  Processo nº SEI-030001/021546/2026.
 
@@ -5419,17 +5419,17 @@ PROCESSO Nº SEI-030001/035643/2026 - HOMOLOGO o  Pronunciamento nº 90/2026, qu
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Brasil,  para  fins  de  PROSSEGUIMENTO DE  ESTUDOS,  nos  termos da  legislação  em  vigor.
 
@@ -5503,17 +5503,17 @@ Id:  2728137
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO CONSELHO ESTADUAL DE EDUCAÇÃO
 
@@ -5585,39 +5585,39 @@ Rio  de  Janeiro,  07  de  abril  de  2026
 
 Coordenadoria  de  Inspeção  Escolar  -  Metropolitana  III
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0049
+I
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0035
+065
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0031/U0033
+13
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 ## ORDEM DE SERVIÇO COOIE Nº AUT 441 DE 07 DE ABRIL DE 2026
 
@@ -5747,17 +5747,17 @@ ATO DE 25.02.2026 -CLAUDIA DOS SANTOS, matrícula nº 00/0223.219-7,  identidade
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Professor  FAETEC I  40h  FICA retificada a  referência da  servidora para  'DOC  40HE12';  publicado  no DOERJ de 27.02.2026, página  26, processo  n°  SEI-260005/000009/2026.
 
@@ -5834,17 +5834,17 @@ Id:  2727932
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 20881576  1  CLAUDIA REGINA MENDES DOS REIS  INSPETOR DE ALUNOS II  PADRÃO 14  PADRÃO 15  20728433  1  CLEBER DE CASTRO  MOT. PROF. CAT. D  PADRÃO 14  PADRÃO 15  20797435  1  CLEBER ROBERTO DE OLIVEIRA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  20875576  1  CLEMILDA MARIA DO NASCIMENTO SPAGNOLO  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  5787564  2  CRISTINA FERNANDES LOPES  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  20902956  1  CUSTODIO MACEDO NETTO  INSPETOR DE ALUNOS II  PADRÃO 14  PADRÃO 15  20904070  1  DANIEL MILATO RIBEIRO  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  43776469  2  DANIEL RODRIGUES DE CASTRO  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  20823983  1  DANIELA DOS SANTOS MATOSO SOUTO  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  44632487  1  DANIELE CHRISTIANO RAYBOLT  SUPERVISOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  44633882  1  DANIELE DA COSTA CONCEIÇÃO  SUPERVISOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  43773184  3  DANIELLI MORAES DE JESUS  PROFESSOR FAETEC I 20h  PADRÃO 7  PADRÃO 8  44631995  1  DAVIDSON DE ALMEIDA SANTOS  PROF. FAETEC ENS. SUP. 40h  PADRÃO 6  PADRÃO 7  39643301  2  DEBORAH MONTEIRO MAIA ALVES  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  44632185  1  DENISE GUIMARÃES DA SILVA  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  4  2  5  3   7  7  11  1  DENISE MARIA FERREIRA BARBOSA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 10  PADRÃO 11  20730950  1  DENIVAN SULADOR DE ALMEIDA  MOT. PROF. CAT. D  PADRÃO 14  PADRÃO 15  41473019  4  DIEGO LOMBA LARRUBIA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  44623771  1  DIEGO MEDEIROS  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  44633610  1  DULCE ALVES SOUZA GARCEZ  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  5786169  1  DULCE MARA RODRIGUES  PROFESSOR FAETEC I 20h  PADRÃO 9  PADRÃO 10  20886829  1  EDMILSON VIEIRA DE CARVALHO  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  42537886  1  ELADIO DE SOUZA LAMAS QUINTAS  MOT. PROF. CAT. B  PADRÃO 10  PADRÃO 11  50186574  2  ELAINE RENATA AMARANTE CARMONA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  42537355  1  ELIANA DE OLIVEIRA SOUTO  COZINHEIRO  PADRÃO 10  PADRÃO 11  20812159  1  ELIAS  JOAQUIM BEZERRA  INSPETOR DE ALUNOS II  PADRÃO 14  PADRÃO 15  41858077  4  ELIETE RODRIGUES LIMA PEREIRO Y ROCA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  33773939  3  ELISA  ANDRADE COSTA MELO  PROFESSOR FAETEC I 40h  PADRÃO 7  PADRÃO 8  20862660  1  ELISABETH RODRIGUES SILVA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  20730845  1  ELISAMAR SANTOS DO NASCIMENTO  MOT. PROF. CAT. D  PADRÃO 14  PADRÃO 15  34212230  2  ENER CASTRO MORETT  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  42094801  4  ERASMO CARLOS BARBOSA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  42537916  2  ERICA ROCHA PLACIDO BARTHOLAZZI  PROFESSOR FAETEC I 40h  PADRÃO 10  PADRÃO 11  42537401  1  FABIO PEREIRA DIAS  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 10  PADRÃO 11  50064894  3  FELIPE DA SILVEIRA COSTA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  42776406  3  FELIPE RIBEIRO GOMES  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  43663931  2  FERNANDA CHICRALLA SIQUEIRA  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  44135580  1  FERNANDA SERAFIM RISCADO  INSPETOR DE ALUNOS  PADRÃO 7  PADRÃO 8  42530750  2  FLAVIA RENATA MENDES PINHEIRO  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  44632150  1  FRANCIDEA BEZERRA DE MORAES FREITAS  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  43594018  2  GILBERTO DA SILVA SANTIAGO  PROFESSOR FAETEC I 40h  PADRÃO 7  PADRÃO 8  20753985  1  GILMAR MOTTA DE SOUZA  A  RT  Í  F  I  C  E  PADRÃO 14  PADRÃO 15  44631391  1  GIOVANI MIRANDA COSTA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  42006554  3  GIZELE DIAS PEREIRA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  5767512  3  GLADSTON FRANCISCO PAOLUCCI PIMENTA  PROFESSOR FAETEC I 20h  PADRÃO 10  PADRÃO 11  2  0  7  2   8  6  11  1  GUILHERME LEITE TODOROV  A  RT  Í  F  I  C  E  PADRÃO 14  PADRÃO 15  44634137  1  HELEN CRISTINA DA CRUZ PADILHA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  43292100  3  HUMBERTO DO VALE AMORIM  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  20849443  1  IRAM MENDONÇA BORGES  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  20908458  2  ISABEL ANGELA DA CONCEIÇÃO TEIXEIRA  INSPETOR DE ALUNOS II  PADRÃO 14  PADRÃO 15  43266088  2  ISABELA DE OLIVEIRA FRIEDL  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  43764606  2  ISABELLA DA SILVA REIS CARNEIRO DE SOUZA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  42590531  4  IVANILCE MARTINS TAVARES  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  44634170  1  IZABELA RUIZ DE OLIVEIRA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  20900147  1  JAILTON MEDEIROS DOS SANTOS  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  20883781  1  JANETE SAUD CAETANO  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  20781555  1  JEFFERSON FIALHO FIGUEIRA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  41913230  4  JEFFERSON LUIZ DA SILVA OLIVEIRA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  40057356  2  JERONIMO DE MORAES FILHO  INSPETOR DE ALUNOS II  PADRÃO 14  PADRÃO 15  32946350  2  JOÃO BOSCO PEDROSA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  20752768  1  JORGE LOPES CLEMENTE  A  RT  Í  F  I  C  E  PADRÃO 14  PADRÃO 15  20751354  1  JORGE LUIZ MIRANDA  A  RT  Í  F  I  C  E  PADRÃO 14  PADRÃO 15  20751842  1  JORGE WILLIAM DA SILVA  A  RT  Í  F  I  C  E  PADRÃO 14  PADRÃO 15  20919336  1  JOSE MAURO DE MESQUITA  INSPETOR DE ALUNOS II  PADRÃO 14  PADRÃO 15  20751478  1  JOZIAS SILVEIRA FERREIRA  A  RT  Í  F  I  C  E  PADRÃO 14  PADRÃO 15  20945949  1  JUDITH ROSA LEOPOLDO  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  44634188  1  JULIANA SANTOS LIZZI  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  43182062  4  JULIANE CARDOZO DA SILVA DANTAS  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  40234355  3  JULIO  CESAR COPPOLA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  37060244  3  JULIO  CESAR CORREA  PROFESSOR FAETEC I 20h  PADRÃO 10  PADRÃO 11  20907648  1  JUSCELINO AGUIAR DE ARAUJO  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  44634196  1  KATIANE DOS ANJOS SILVA CURI MOREIRA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  44631529  1  KEILLA ROSANA SOARES PANISSET PEREIRA  SUPERVISOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  5634210  3  KELLY CRISTINA DE JESUS VIANNA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  41766466  1  LEILA  RAMOS DE VASCONCELOS COSTA  INSPETOR DE ALUNOS II  PADRÃO 11  PADRÃO 12  44607415  2  LENI  FALCÃO RODRIGUES FRANÇA  INSPETOR ESCOLAR  PADRÃO 6  PADRÃO 7  44631421  1  LILIANA  VIEIRA  MARTINS  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  44284527  1  LUCELIA PACHECO DA SILVA SOUZA  SUPERVISOR EDUCACIONAL  PADRÃO 7  PADRÃO 8  44631723  1  LUCIANA LEITÃO DA SILVA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  42537797  1  LUCIANE DE ARAUJO NOGUEIRA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 10  PADRÃO 11  43867413  3  LUIS  ANTONIO TELES TIBÃO  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  20746164  2  LUIZ  CARLOS DIAS  A  RT  Í  F  I  C  E  PADRÃO 14  PADRÃO 15  20877188  1  LUIZ  CARLOS ORNELLAS  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  42537819  1  LUIZ  CARLOS PIMENTEL FILHO  MOT. PROF. CAT. B  PADRÃO 10  PADRÃO 11  20750854  1  LUIZ  CLAUDIO DOS ANJOS BARBOSA  A  RT  Í  F  I  C  E  PADRÃO 14  PADRÃO 15  41858450  1  LUZIA  SENNA DE SOUZA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 11  PADRÃO 12  20753683  1  MANUEL NELSON DA SILVA  A  RT  Í  F  I  C  E  PADRÃO 14  PADRÃO 15  44577761  2  MARCELO ALESSANDRO LORETTI DOS SANTOS  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  44633467  1  MARCIA CRISTINA LAURIA DE MORAES MONTEIRO  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  44631570  1  MARCIA HELENA ARAUJO RODRIGUES BITTENCOURT  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  44631502  1  MARCIA RAMOS DO NASCIMENTO FERREIRA  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  5785073  2  MARCIA REGINA DE SOUZA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  20946074  1  MARCO ANTONIO DE OLIVEIRA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  20750021  1  MARCO ANTONIO RIBEIRO  A  RT  Í  F  I  C  E  PADRÃO 14  PADRÃO 15  20914458  1  MARCO ANTONIO ROCHA  A  RT  Í  F  I  C  E  PADRÃO 14  PADRÃO 15  43838880  3  MARCOS ANTONIO SIQUEIRA JUNIOR  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  50182552  2  MARCOS VINICIUS DA EXALTAÇÃO  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  10732160  1  MARIA DO CARMO DA SILVEIRA COSTA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 10  PADRÃO 11  20915780  1  MARIA MARLENE ALCANTARA DOS SANTOS  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  20892985  1  MARILIS BARCELLOS  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  41776674  3  MARIO JOSÉ DE FIGUEIREDO  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  34930574  2  MARIO LUIZ BEZERRA FEITOZA MATHEUS  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  43851282  3  MARIVETE SOARES BEHENCK  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  20883366  1  MARLUCE FERREIRA DOS SANTOS  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  42579694  3  MARTA BARBOSA SATIRO DE ARAUJO  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  44216092  4  MARY BORGES DE OLIVEIRA  SUPERVISOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  39705447  2  MAURO GOES PINTO  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  20894066  1  MAURO SABINO ROBERTO  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  42629977  3  MAXMILIANO MARTINS PINHEIRO  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  5774594  4  MAXWELL DE LIMA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  43751644  2  MELISSA COUTINHO MOREIRA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  43261515  2  MIDIAN DOMINGOS ALVES DE AZEVEDO  INSPETOR ESCOLAR  PADRÃO 6  PADRÃO 7  42537568  1  MIRACI ALVES DA SILVA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 10  PADRÃO 11  39023575  2  MÔNICA BRISON PIRES  SUPERVISOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  43277543  3  MONIQUE GONÇALVES  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  43430937  3  NATALIA BRAGUEZ DE PAIVA BALLA DOS SANTOS  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  20893256  1  NOEME JOSE DA SILVA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  44631537  1  PATRICIA ARAUJO TAVARES  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  44631553  1  PATRICIA AUGUSTO CORREA  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  42537614  1  PATRICIA RODRIGUES RIBEIRO  AGENTE ADMINISTRATIVO  PADRÃO 10  PADRÃO 11  44294700  3  PAULA SILVIANNA MUNIZ FIGUEIREDO LEMOS  SUPERVISOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  44631464  1  PAULO CESAR MADEIRA DE OLIVEIRA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  42538009  1  PAULO MAURICIO SILVA DA CONCEIÇÃO  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 10  PADRÃO 11   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5885,17 +5885,17 @@ DISPENSA o(a)  servidor(a) ANDREA MONTEIRO MARTINS, matrícula  32.133-1, da  re
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 5781477  3  PAULO RICARDO LESSA CANEDO  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  44631782  1  PAULO ROBERTO MENDES  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  41855914  3  PEDRO CESAR GOMES NETO  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  4  3  8  5   6  4  11  2  PETER DE SA FERREIRA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  44632053  1  PRISCILA DE AUGUSTINIS SILVA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  44640862  1  PRISCILA DE OLIVEIRA SILVA MAISANO  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  44633459  1  PRISCILLA MENEZES ALBUQUERQUE BARREIROS  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  43325726  2  RAFAEL CORREA CASTILHO  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  42538076  3  RAFAEL DOUGLAS ROQUE DE CASTRO  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  42196361  4  RAPHAEL BARROS DE SOUSA NETO  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  20854757  1  REGINA DE OLIVEIRA  INSPETOR DE ALUNOS II  PADRÃO 14  PADRÃO 15  6407595  3  RENATA ARAGUEZ DE ALMEIDA MAIA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  40295672  5  RENATA BRAZ AMARO  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  42565227  2  RENATA DORNELES LIMA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  44633416  1  RENATA PEREIRA VIDAL DA SILVA  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  36265810  4  ROSANGELA DE SENA ALMEIDA  PROF. FAETEC ENS. SUP. 40h  PADRÃO 7  PADRÃO 8  41781937  5  ROSIMERI NORONHA COSENDEY  SUPERVISOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  20853351  1  RUBINEIA CANDIDA DA SILVA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  35246529  3  SANDRA SOARES MARINHO  PROFESSOR FAETEC I 40h  PADRÃO 7  PADRÃO 8  20956380  1  SEILMA BRITO SILVA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  20883668  1  SERGIO LUIS DOS SANTOS PINHEIRO  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  20938004  1  SERGIO RICARDO DANTAS BARACHO  INSPETOR DE ALUNOS II  PADRÃO 14  PADRÃO 15  36955825  4  SIMONE BASTOS GUTERRES  PROFESSOR FAETEC I 20h  PADRÃO 7  PADRÃO 8  44640897  1  SIMONE DE OLIVEIRA DA SILVA SANTOS  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  43042791  2  SIMONE RODRIGUES DE OLIVEIRA  INSPETOR ESCOLAR  PADRÃO 6  PADRÃO 7  43272525  4  SONALI SILVA DE ABREU CORREIA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  43363300  2  SONIA REGINA NASCIMENTO HORN  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  44634153  1  SUZANA MEDEIROS BATISTA AMORIM  SUPERVISOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  44631456  1  SYDNA MEIRE FAUSTINO FELICIANO  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  44640803  1  TAIZA  MAGALHÃES NETO  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  44633319  1  TALITA  MARIA  TEIXEIRA  SILVA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  4  0  2  1 1  8   6  0  2  TANIA LUCIA DA SILVA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 14  PADRÃO 15  44297408  2  TATIANA GOMES SARNO  SUPERVISOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  5593395  7  TELMA ALMEIDA DA SILVA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  44631367  1  THAIS BARCELOS DIAS DA SILVA  ORIENTADOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  43752861  2  THIAGO BRAGA DIAS LIMA  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  44633777  2  VALERIA REGINA ASMAR LUCERO  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  4  3  8  0   11  9  6  3  VANESSA GONÇALVES DA CONCEIÇÃO GUALBERTO  SUPERVISOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  42537860  1  VANIA MARIA NUNES BEZERRA  AUXILIAR DE SERVIÇOS GERAIS  PADRÃO 10  PADRÃO 11  44007418  2  VINICIUS  MACHADO GOUVEA  PROFESSOR FAETEC I 40h  PADRÃO 6  PADRÃO 7  43846050  2  VIVIANE DE OLIVEIRA DE FREITAS  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  20730128  1  WALTER PEREIRA FAÇANHA  A  RT  Í  F  I  C  E  PADRÃO 14  PADRÃO 15  42537665  1  WASHINGTON COUTINHO CORREA JUNIOR  TÉCNICO ESPECIALISTA  PADRÃO 10  PADRÃO 11  44633289  1  WILDNEI EMEDIATO DE ABREU CARVALHO  SUPERVISOR EDUCACIONAL  PADRÃO 6  PADRÃO 7  43620701  4  WILLIAM TEIXEIRA ALVES  PROFESSOR FAETEC I 20h  PADRÃO 6  PADRÃO 7  20956266  1  WILSON DOS SANTOS  INSPETOR DE ALUNOS II  PADRÃO 14  PADRÃO 15   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6067,17 +6067,17 @@ RECURSO  PROCEDENTE: SEI-100005/000896/2026  LIONS  PREOWNED S.A - AI D 845555.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 RECURSOS  IMPROCEDENTES:  SEI-100005/000095/2026  -  VALTAIR DA CONCEIÇÃO OKI - AI D 840150; SEI-100005/006502/2025  - MARIO CEZAR CAPISTRANO - AI D 864009; SEI-100005/008151/2025 MARIO CEZAR CAPISTRANO  LOPES -AI  D 849559; SEI100005/008499/2025 -  VIAÇÃO ESTRELA  S/A -  AI D  863271; SEI100005/008974/2025  TB  TRANSPORTES BLANCO  LTDA -  AI D 848499;  SEI-100005/008975/2025  -  TB TRANSPORTES BLANCO LTDA  -  AI D  848488;  SEI-100005/008982/2025  TB  TRANSPORTES BLANCO LTDA - AI  D 863288; SEI-100005/008988/2025 - MASTER TRANSPORTES  COLETIVOS DE PASSAGEIROS LTDA -AI  D 848497; SEI-100005/009047/2025 -  LINAVE TRANSPORTES LTDA AI  D 837255;  SEI-100005/009049/2025  -  VIAÇÃO PROGRESSO  E TURISMO S.A.  AI  D 862722; SEI-100005/009053/2025  - EXPRESSO REAL RIO LTDA - AI D 837264; SEI-100005/009055/2025 - MASTER  TRANSPORTES COLETIVOS  DE  PASSAGEIROS LTDA  - AI  D 838899;  SEI-100005/009056/2025  - MASTER  TRANSPORTES  COLETIVOS DE PASSAGEIROS - AI D 838900; SEI-100005/009180/2025 EMPRESA BRASIL -  TRANSPORTE E TURISMO LTDA  AI D 863295;  SEI-100005/009277/2025 -  AUTO  VIAÇÃO  REGINAS LTDA  AI  D 838896;  SEI-100005/009278/2025  -  AUTO VIAÇÃO  REGINAS LTDA - AI D 842907;  SEI-100005/009280/2025 - AUTO VIAÇÃO REGINAS LTDA  AI  D 842908;  SEI-100005/009281/2025 -  AUTO VIAÇÃO REGINAS LTDA -  AI  D  842909; SEI-100005/009285/2025  -  AUTO VIAÇÃO REGINAS LTDA - AI D 848646; SEI-100005/009287/2025 -AUTO VIAÇÃO REGINAS LTDA -AI D 848647; SEI100005/009288/2025 -  AUTO VIAÇÃO  REGINAS LTDA -AI D 848648;  SEI-100005/009293/2025 -  AUTO  VIAÇÃO  REGINAS LTDA  AI  D 862715;  SEI-100005/009296/2025  -  AUTO VIAÇÃO  REGINAS LTDA - AI D 863270;  SEI-100005/009297/2025 - AUTO VIAÇÃO REGINAS LTDA - AI D 863280; SEI-100005/009407/2025 - JAMES GONÇALVES  PIMENTA  AI  D  863858;  SEI-100005/009425/2025 -  WESLEY DA CONCEIÇÃO MOREIRA -AI D 864046; SEI100005/009510/2025 - LUIZ ALVES DE ARAUJO - AI D 845554; SEI100005/009522/2025 -ROSANGELA MESQUITA  DE BRITO - AI D 867607;  SEI-100005/009546/2025 -  JADILSON  ALVES  DE SOUZA  AI  D 847260;  SEI-100005/009578/2025  -  JORGE RICARDO  FIGUEIREDO  AI  D  845551; SEI-100005/009584/2025  - ANGELO  HENRIQUE  DE  ARAUJO  -  AI  D  845553;  SEI-100005/009590/2025  -  LEONARDO CORREA DE MESQUITA -AI D 860897; SEI100005/009606/2025 -CAVALCANTI  CIA LTDA - AI  D 848523; SEI100005/009608/2025  TB  TRANSPORTES BLANCO  LTDA -  AI D 848518;  SEI-100005/009609/2025  -  TB TRANSPORTES BLANCO LTDA - AI D 848521; SEI-100005/009611/2025 - TREL TRANSTURISMO REI  LTDA  - AI  D  838911;  SEI-100005/009618/2025 -  VIAÇÃO  TERESÓPOLIS E TURISMO LTDA - AI D 836491; SEI-100005/009619/2025 -VIAÇÃO TERESÓPOLIS E TURISMO  LTDA - AI D 836490; SEI100005/009642/2025 -  VIAÇÃO ESTRELA  S/A -  AI D  863232; SEI100005/009643/2025 -  EXPRESSO REAL RIO  LTDA - AI  D 849903; SEI-100005/009651/2025 - VIAÇÃO BEIRA MAR LTDA - AI D 848519; SEI-100005/009652/2025  -  COSTA  VERDE  TRANSPORTES  LTDA  AI  D  845213. RECURSOS NÃO CONHECIDOS: SEI-100005/003290/2024 - VIAÇÃO VILA  RICA  LTDA -  AI  D  856212; SEI-100005/008987/2025  -  CAVALCANTI CIA LTDA  - AI D 839285;  SEI-100005/008989/2025 - CAVALCANTI CIA LTDA  - AI D 839287;  SEI-100005/008991/2025 - CAVALCANTI CIA LTDA  - AI D 848490;  SEI-100005/008992/2025 - CAVALCANTI CIA LTDA  - AI D 848491;  SEI-100005/008993/2025 - CAVALCANTI CIA LTDA  - AI D 848492;  SEI-100005/008994/2025 - CAVALCANTI CIA LTDA - AI D 848494. Nada mais havendo  a tratar, está encerrada a 5ª  reunião da COMISJUR realizada  no  dia  18  de  março  do  ano  de  2026.
 
@@ -6328,17 +6328,17 @@ NOME DO GESTOR DO CONTRATO ID.  FUNCIONAL
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Id:  2725572
 
@@ -6412,17 +6412,17 @@ O  SECRETÁRIO DE  ESTADO  DE  INFRAESTRUTURA E  OBRAS PÚBLICAS ,  no uso  das 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 CONSIDERANDO o  Decreto Estadual  nº 48.817  de 24  de novembro de  2023
 
@@ -6507,41 +6507,41 @@ PROCESSO N° SEI-330001/001961/2025 - RECONHEÇO A DÍVIDA a favor  de  ANDRÉ P
 
 Id:  2728271
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0030/U0036/U0035
+065
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0033/U0037
+37
 
-/U0031/U0033
+13
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
 ## SECRETARIA DE ESTADO DE INFRAESTRUTURA E  OBRAS PÚBLICAS SUBSECRETARIA DE FINANÇAS
 
@@ -6613,39 +6613,39 @@ O  PRESIDENTE DO  INSTITUTO ESTADUAL  DE ENGENHARIA  E ARQUITETURA, no  uso  de 
 
 Art.  1º -  Instituir a Comissão  de Gestão e Fiscalização  do Contrato n°001/2026, celebrado entre o Instituto  Estadual  e  Arquitetura  -IEEA  e a  empresa  3CORP  TECHNOLOGY INFRAESTRUTURA  DE  TELECOM LTDA.
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0036/U0035
+065
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0031/U0033
+13
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 - I  Luiz  Phelipe  de  Oliveira  Silva,  ID.  Funcional  n°  5126741-1; II  Felipe  Lino  Ribeiro  da  Costa  -  ID.  Funcional  n°  5139729-3;
 - I  VAndreza  Jucá  Puget,  ID.  Funcional  n°  5140804-0.
@@ -6726,17 +6726,17 @@ Aline  de  Deus  de  Melo  -  ID  5173595-4  -  Cargo:  Ajudante  I.
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 Art.  3º  Esta Portaria  entrará  em  vigor  na  data de  sua  publicação, revogando  às  disposições  contrárias.
 
@@ -6941,17 +6941,17 @@ PARTES: DETRAN/RJ  e Rain TI  Tecnologia e Sistemas  de Informação  Ltda.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 partir da  data de sua  publicação no DOERJ,  junto à Divisão  de Desenvolvimento  Funcional. O  pedido  de  reconsideração será  encaminhado  à  chefia  imediata  do  servidor,  a  qual  deverá  responder  no  prazo de 05 (cinco) dias úteis, a contar do recebimento do administrativo. Poderá interpor  recurso junto à Comissão  de Desenvolvimento Funcional do DETRAN-RJ, após qualquer uma das etapas de avaliação, o servidor  que  tiver  seu  pedido  de  reconsideração  indeferido  pela  chefia imediata,  no  prazo  máximo  de  15  (quinze)  dias  corridos  da  publicação no  DOERJ do indeferimento.
 
@@ -6971,17 +6971,17 @@ DATA DA ASSINATURA: 10/04/2026
 
 VALOR ESTIMADO: R$ 3.994.353,15  (três milhões novecentos e no-
 
-/U002D
+-
 
-/U0031/U0033
+13
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 venta  e quatro  mil trezentos  e  cinquenta e  três reais  e quinze  centavos).
 
@@ -7009,41 +7009,41 @@ Id:  2728106
 
 <!-- image -->
 
-/U0034/U0030
+40
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0053/U0055/U0050/U004C/U0045/U004D/U0045/U004E/U0054 /U004F
+SUPLEMENT O
 
-/U0041/U004F
+AO
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0031/U0033
+13
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0030/U0036/U0035
+065
 
-/U0044/U0045
+DE
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## Secretaria de Estado de Fazenda
 
@@ -7051,17 +7051,17 @@ Id:  2728106
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | Gustavo  Kelly  Alencar  3  52  2  Jayme Di  Giorgio  Neto  0  36  0  Luciana  Dornelles  Do  Espírito  Santo  10  28  9  Ricardo  Garcia  De  Araujo  Jorge  23  35  20  Rodrigo  Barreto  De  Faria  Pinho  17  44  9  To  t  a  l  53  277  40   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7076,9 +7076,9 @@ O  B  J  E  TO :  Fornecimento contínuo  de  café  torrado e  moído,  empacot
 
 Id:  2728210
 
-/U002D
+-
 
-/U0049
+I
 
 ## SECRETARIA DE ESTADO DE FAZENDA CONSELHO DE CONTRIBUINTES
 
@@ -7124,9 +7124,9 @@ PROCESSOS ATRIBUÍDOS AOS CONSELHEIROS NAS CÂMARAS E PLENO DO CCERJ - 4º TRIME
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 1.  Processos  julgados  em  2ª  Instância  (Julgamento  das  Câmaras  e  Conselho  Pleno  do  CCERJ)
 2.  Negativas  de  Seguimento  (Decisões  Monocráticas)  -  GABCC
@@ -7163,13 +7163,13 @@ PROCESSOS ATRIBUÍDOS AOS CONSELHEIROS NAS CÂMARAS E PLENO DO CCERJ - 4º TRIME
 
 Id:  2728182
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 SECRETARIA DE ESTADO DE FAZENDA
 
@@ -7189,34 +7189,34 @@ E  D  I  TA  L
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 9  7  5  9   9  11  TATIANE VIEIRA E SILVA  10  6  27  14  0  18  14  0  18  15  3  27  26/07/1980  9760208  ALLYNE CARVALHO DE SOUSA LIMA  10  6  27  14  0  18  14  0  18  14  10  8  11  /  0  7  /  1   9  8  1  9760406  CARLOS EDUARDO JUN FUTIDA  10  6  27  14  0  18  14  0  18  14  10  7  0  4  /  11  /  1  9   8  4  9760281  PEDRO CANDOTTI JUNIOR  10  6  27  14  0  18  14  0  18  14  9  9  05/09/1978  9760018  JOSE EDUARDO LOPES TEIXEIRA FILHO  10  6  27  14  0  18  14  0  18  14  0  17  06/09/1953  9760109  WALDYR COSTA DE VILHENA  10  6  27  14  0  18  14  0  18  14  0  17  08/06/1967  9759713  FERNANDA MONTEIRO DE UZEDA  10  6  27  14  0  18  14  0  18  14  0  17  19/07/1971  9759820  RICARDO GEORGE ALVES DE SANT'ANNA  JUNIOR  10  6  27  14  0  18  14  0  18  14  0  17  09/02/1973  9760513  MARLOS LOPES DE OLIVEIRA  10  6  27  14  0  18  14  0  18  14  0  17  1  7  /  11  /  1  9   7  5  9759978  RONALDO MARTINS NADER  10  6  27  14  0  18  14  0  18  14  0  17  25/02/1978  9760497  RAFAEL THURLER CARVALHO DE ARAUJO  10  6  27  14  0  18  14  0  18  14  0  17  28/05/1980  9760331  LUISE PINHEIRO CHEVITARESE  10  6  27  14  0  18  14  0  18  14  0  17  01/08/1980  9759770  MAURICIO NERI REIS  10  6  27  14  0  18  14  0  18  14  0  17  04/05/1981  9759846  RENATO MAZZER DE AQUINO  10  6  27  14  0  18  14  0  18  14  0  17  26/12/1981  9760349  MANUELA MAC CORD CRETTON  10  6  27  14  0  18  14  0  18  14  0  17  15/09/1982  9759887  RAFAEL MIARA SCHUARTS  10  6  27  14  0  18  14  0  18  14  0  17  20/04/1983  9760422  MARCIO LEONARDO DE CARVALHO  10  6  27  14  0  18  14  0  18  14  0  17  07/07/1983  9759937  TATIANE VIRGINIA DE ALMEIDA COSTA  10  6  27  14  0  18  14  0  18  14  0  17  30/08/1983  9760257  LEANDRO LUIZ PASSOS LOPES  10  6  27  14  0  18  14  0  18  14  0  17  10/03/1984  9759655  JOAO ROBERTO KIST SOARES LIMA  10  6  27  14  0  18  14  0  18  14  0  17  19/04/1984  9760141  PEDRO CHESSINE TAN  10  6  27  14  0  18  14  0  18  14  0  17  0  6  /  11  /  1  9   8  4  9760448  FILIPE  MAGALHAES SCHIMZEL ALVES  10  6  27  14  0  18  14  0  18  14  0  17  23/01/1985  9759671  ALEXANDRE AUGUSTO CHAVES VELOSO  10  6  27  14  0  18  14  0  18  14  0  17  21/03/1985  9759952  DANIELLE KATHARINA KRANZL CAPUTO DE  SA  10  6  27  14  0  18  14  0  18  14  0  17  18/09/1985  9760554  ANA CLAUDIA SALLES DE ABREU  10  6  27  13  11  23  13  11  23  21  0  25  24/05/1977  30000491  MAURO DE MENDES CALDAS RAYMUNDO  10  2  5  13  9  23  13  9  23  19  11  27  06/03/1973  30000186  FELIX  CHALOM  10  2  5  13  9  16  34  3  23  36  3  28  24/02/1968  30000061  SANDRA MUINO GARCIA  10  2  5  13  9  16  26  5  2  33  3  10  31/01/1969  30001986  PAULO OVANDIR CARVALHO DOS SANTOS  10  2  5  13  9  16  25  9  14  48  2  1  27/06/1971  30000327  FERNANDO GOMES MIDAO  10  2  5  13  9  16  25  4  14  26  0  20  02/12/1975  30000376  JULIO  CESAR FERREIRA  10  2  5  13  9  16  23  10  7  27  9  28  2  1  /  11  /  1  9   5  9  30000137  FERNANDA GAIO ABREU  10  2  5  13  9  16  23  8  26  33  8  6  21/01/1975  30000103  ERNANI ANTONIO DE SOUSA JUNIOR  10  2  5  13  9  16  22  10  28  23  5  2  27/01/1983  30000525  MARCIO MAFRA TEIXEIRA  10  2  5  13  9  16  21  8  20  30  2  10  21/02/1976  30002539  REINALDO MOTA LOPES  10  2  5  13  9  16  21  7  25  21  7  23  11  /  0  2  /  1   9  7  5  30001259  AMANDA VIVAS PRESGRAVE DE MATOS  10  2  5  13  9  16  19  10  0  25  10  14  27/07/1979  30001960  ALBERTO DUARTE KOVARIK  10  2  5  13  9  16  15  6  0  15  5  29  06/10/1986  30000038  VIVIANE DA SILVA AZEVEDO  10  2  5  13  9  16  15  2  8  15  4  2  06/10/1976  30001218  JULIANA PEREIRA LEMOS  10  2  5  13  9  16  14  10  30  14  11  0  17/07/1986  30000574  CRISTIANE MOYSES BARBOZA  10  2  5  13  9  16  14  8  26  14  8  25  17/04/1983  30000855  GEORGIA HONORIO DOS SANTOS  10  2  5  13  9  16  14  6  24  24  2  11  13/04/1976  30001465  FERNANDA ROSA CARVALHO COSTA WAJ-  SENZON  10  2  5  13  9  16  14  6  11  14  6  9  19/08/1980  30000848  LEANDRO MOREIRA DA CUNHA  10  2  5  13  9  16  14  6  11  14  6  9  2  3  /  11  /  1  9   8  1  30001069  JOAO VICENTE SIMAO WAGNER  10  2  5  13  9  16  14  6  9  14  6  8  10/03/1980  30000392  JOSE MAURICIO FONSECA E NEVES  10  2  5  13  9  16  14  5  3  17  11  24  30/01/1984  30000210  ARNALDO JOSE CORREIA  10  2  5  13  9  16  13  9  16  35  2  28  26/07/1962  30000293  ALEX MOREIRA MUSSER  10  2  5  13  9  16  13  9  16  34  8  10  31/01/1974  30000533  MARIO ARMENIO SERRO POMBAL  10  2  5  13  9  16  13  9  16  33  8  16  28/04/1963  30000251  MARCUS VINICIUS SILVEIRA DE OLIVEIRA  10  2  5  13  9  16  13  9  16  30  7  18  05/10/1973  30000988  VINICIUS  MAIA  CAMACHO  10  2  5  13  9  16  13  9  16  30  0  26  28/03/1974  30000723  WANDER RODRIGUES DE MAGALHAES  10  2  5  13  9  16  13  9  16  29  1  25  27/09/1980  30000012  RAFAEL MORENO OLIVEIRA DE SOUZA  10  2  5  13  9  16  13  9  16  29  1  25  01/03/1982  30000814  MAURICIO FERNANDES NASCIMENTO  10  2  5  13  9  16  13  9  16  29  0  7  25/03/1964  30000244  AMARO PEDRO DA SILVA FILHO  10  2  5  13  9  16  13  9  16  28  10  11  14/03/1964  30001267  ANDERSON JOSE DE ASSIS  10  2  5  13  9  16  13  9  16  28  1  8  1  7  /  11  /  1  9   7  9  30000764  SEBASTIAO FELGUEIRAS CASTRO  10  2  5  13  9  16  13  9  16  27  1  28  03/04/1977  30000731  RODRIGO ARANTES DE CARVALHO  10  2  5  13  9  16  13  9  16  27  1  3  22/12/1980  30000566  ANDREA GOMES BRITTO  10  2  5  13  9  16  13  9  16  26  11  6  19/10/1971  30000582  GUTEMBERG FERNANDES DE LIMA  10  2  5  13  9  16  13  9  16  26  1  13  01/08/1980  30001085  ANDRE LUIS DE OLIVEIRA ANTONIOLLI  10  2  5  13  9  16  13  9  16  25  11  25  16/05/1980  30000756  RODRIGO PEREIRA DA SILVA  10  2  5  13  9  16  13  9  16  25  2  17  09/07/1981  30000483  ARTUR GONÇALVES VIEIRA FILHO  10  2  5  13  9  16  13  9  16  24  2  17  04/10/1971  30001648  MARIA CRISTINA DE ANDRADE  10  2  5  13  9  16  13  9  16  22  10  12  01/04/1968  30001507  SERGIO LUIZ JOSE DA ROCHA  10  2  5  13  9  16  13  9  16  22  9  17  16/05/1965  30001556  RODRIGO GUSTAVO DA SILVA LIMA  10  2  5  13  9  16  13  9  16  22  6  12  25/02/1986  30000871  ESDRAS PRADO BARBOSA  10  2  5  13  9  16  13  9  16  22  4  29  18/09/1984  30001358  LAILA  DANIELA  DOS  SANTOS  10  2  5  13  9  16  13  9  16  21  6  1  12/12/1977  30000640  RALPH COSTA CAVALCANTI  10  2  5  13  9  16  13  9  16  21  6  1  01/04/1982  30000194  FLAVIA DOMINGAS GUERRA  10  2  5  13  9  16  13  9  16  21  3  9  24/12/1976  30000467  CLOVIS ADRIANO FRIGO  10  2  5  13  9  16  13  9  16  21  1  13  20/10/1975  30000715  RODRIGO ALVES DOS SANTOS LUIZ  10  2  5  13  9  16  13  9  16  20  9  6  11  /  0  2  /  1   9  8  2  30001994  RAFAEL DA SILVA PEREIRA  10  2  5  13  9  16  13  9  16  20  0  14  26/04/1986  30001614  MAURO TOMIO SAITO  10  2  5  13  9  16  13  9  16  19  11  18  27/01/1975  30000996  RAFAEL LUIS DA CRUZ LIMA  10  2  5  13  9  16  13  9  16  19  9  15  07/05/1981  3  0  0  0   11  6  8  MARCUS VINICIUS VAN TOL DE AGUIAR  10  2  5  13  9  16  13  9  16  19  9  4  0  7  /  11  /  1  9   8  2  30000152  BRENO DO CARMO VIEIRA DE MELO  10  2  5  13  9  16  13  9  16  19  2  20  24/09/1979  3  0  0  0   11  2  7  CLAUDIO SAMUEL SANTOS SCHNEIDER  10  2  5  13  9  16  13  9  16  19  1  24  10/12/1986  30001341  CAMILLA FONSECA CALEPSO GAMA  10  2  5  13  9  16  13  9  16  18  5  17  21/04/1981  30000616  MICHELLE BAGUEIRA CONSIDERA SEPULCRI  10  2  5  13  9  16  13  9  16  18  5  14  25/04/1979  30000129  FELIPE MIGUEL ROSSI  10  2  5  13  9  16  13  9  16  17  10  23  03/12/1983  30001622  LUIS  PAULO FERREIRA DOS SANTOS  10  2  5  13  9  16  13  9  16  17  8  16  10/05/1979  30000939  BRUNO CORRENTE COELHO  10  2  5  13  9  16  13  9  16  17  8  2  07/03/1982  30000962  PAULO MOURA DA SILVA  10  2  5  13  9  16  13  9  16  17  7  10  22/02/1971  30000178  TIAGO MUSSER DOS SANTOS BRAGA  10  2  5  13  9  16  13  9  16  17  7  7  08/08/1984  30000921  MARNE SERVULO DE ALVARENGA  10  2  5  13  9  16  13  9  16  17  4  29  08/06/1954  30000160  JEFFERSON WILLIAN SILVA BORGES  10  2  5  13  9  16  13  9  16  17  2  23  27/05/1976  30000780  TAISE  DE  VERAS  QUARESMA  10  2  5  13  9  16  13  9  16  16  11  28  29/09/1977  30001390  DANIEL ESTEBAN CICERO  10  2  5  13  9  16  13  9  16  16  8  27  07/05/1980  30001077  WALTER ROZA JUNIOR  10  2  5  13  9  16  13  9  16  16  6  22  29/05/1978  30000087  KLAUS ALEXANDER KOLLNBERGER  10  2  5  13  9  16  13  9  16  16  3  19  21/12/1981  30001028  GABRIELA CAMPREGHER DA SILVA  10  2  5  13  9  16  13  9  16  16  3  9  23/01/1985  30001457  ERICK BRANCO  10  2  5  13  9  16  13  9  16  16  3  9  21/09/1985  30001333  JOAO KENICHI TSUJIMOTO  10  2  5  13  9  16  13  9  16  15  6  11  07/03/1956  30001481  ISMAEL ANDRADE SANTOS  10  2  5  13  9  16  13  9  16  15  4  13  14/02/1986  30001580  MICHELY HUGUENIN CAMARA DE MIRANDA  RIBEIRO  10  2  5  13  9  16  13  9  16  14  10  8  02/06/1982  30001424  NATASHA ESCHER  10  2  5  13  9  16  13  9  16  14  10  7  27/05/1983  30000228  ANA CAROLINE RABELO UMBELINO  10  2  5  13  9  16  13  9  16  14  10  5  02/03/1984  30001309  ALESSANDRO DE ARAUJO MALAFAIA  10  2  5  13  9  16  13  9  16  14  8  28  15/01/1978  30000517  MAIRA MENDONÇA REIFF CARLOS  10  2  5  13  9  16  13  9  16  14  8  23  18/08/1984  30000459  CAMILA ROCHA REZENDE  10  2  5  13  9  16  13  9  16  14  8  3  07/04/1981  30001366  CLAUDIO MENDES GONÇALVES  10  2  5  13  9  16  13  9  16  14  7  20  08/08/1967  3  0  0  0   0  111  ERIKA GUEDES OLIVEIRA  10  2  5  13  9  16  13  9  16  14  7  10  09/02/1974  30001226  RAPHAEL RUSSO DAMASCENO  10  2  5  13  9  16  13  9  16  14  3  25  11  /  11  /   1  9  8  5  30000277  ALESSANDRA CHEREM ALVES  10  2  5  13  9  16  13  9  16  14  0  9  05/08/1985  30001325  CARLOS SAMPAIO BRACONNOT  10  2  5  13  9  16  13  9  16  13  9  14  06/08/1953  30000079  HERNILSON JOSE ROMANACH DE ALENCAR  10  2  5  13  9  16  13  9  16  13  9  14  26/03/1963  30000608  JOSE DE LIMA ANDRADE MENDES JUNIOR  10  2  5  13  9  16  13  9  16  13  9  14  04/05/1966  30001200  KLAUS RIBEIRO HOHN  10  2  5  13  9  16  13  9  16  13  9  14  01/08/1972  30001473  GABRIELA MENEGASSI MEILHAC ROSS  10  2  5  13  9  16  13  9  16  13  9  14  06/09/1973  30001291  ADRIANE BOSCO TEIXEIRA DOS SANTOS  10  2  5  13  9  16  13  9  16  13  9  14  02/08/1974  3  0  0  0   11  9  2  GABRIEL CAMINHA MARCHESINI  10  2  5  13  9  16  13  9  16  13  9  14  15/07/1975  30000319  GERLANDIA MARIA DE SOUZA BRASIL DIAS  10  2  5  13  9  16  13  9  16  13  9  14  23/09/1975  3  0  0  0   11  8  4  DANIELA BASTOS SOUZA GONCALVES  10  2  5  13  9  16  13  9  16  13  9  14  21/07/1977  30001044  MARCO DA SILVA OLIVIERI  10  2  5  13  9  16  13  9  16  13  9  14  14/09/1977  30001549  RICARDO RODRIGUES CACHAPUZ  10  2  5  13  9  16  13  9  16  13  9  14  03/03/1978  30001572  PAULA VIANA PECHIR  10  2  5  13  9  16  13  9  16  13  9  14  26/08/1978  30001051  DANIEL ROSENTHAL JOCHIMEK  10  2  5  13  9  16  13  9  16  13  9  14  22/12/1978  30000400  PEDRO HENRIQUE HOELBRIEGEL CARAMEZ  10  2  5  13  9  16  13  9  16  13  9  14  27/03/1979  3  0  0  0   11  7  6  ISABELA MACHADO XAVIER GONÇALVES  10  2  5  13  9  16  13  9  16  13  9  14  09/06/1979  30001242  ANA CRISTINA NEVES DE ARAUJO  10  2  5  13  9  16  13  9  16  13  9  14  06/02/1980   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -7328,17 +7328,17 @@ VA  L  O  R  TO  TA  L :  R$  50.400,00  (cinquenta  mil  e  quatrocentos  reais
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 ## DATA DA ASSINATURA: 07/04/2026.
 
@@ -7420,45 +7420,45 @@ Id:  2728070
 
 A 2ª  COMISSÃO DE L  I  C  I  TA  Ç  Ã  O  DA  SECRETARIA  DE  ESTADO  DE POLÍCIA CIVIL ,  situada  na  Rua  do  Lavradio,  nº  162,  1º  andar,  Centro -  RJ,  torna  público que  realizará,  por  meio  do  Portal de  Compras  SIGA (www.compras.rj.gov.br),  a  Dispensa  de Licitação,  conforme  as  informações  abaixo:
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0055/U0050/U004C/U0045/U004D/U0045/U004E/U0054 /U004F
+SUPLEMENT O
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U0030/U0036/U0035
+065
 
-/U0049
+I
 
-/U0041/U004F
+AO
 
-/U004E
+N
 
-/U006F
+o
 
-/U0031/U0033
+13
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0034/U0035
+45
 
 PROCESSO ELETRÔNICO DE DISPENSA: PD 006/26 - Fornecimento  de  insumos  para  Perícia; CRITÉRIO DE JULGAMENTO: Menor  preço  por  item;
 
@@ -7530,7 +7530,7 @@ DO OBJETO
 
 1.1 O objeto do presente edital é o credenciamento de empresas para a  prestação  de  serviços  de  assistência  médico-hospitalar  em  regime de urgência e emergência, compreendendo atendimentos clínicos e cirúrgicos,  exames complementares  de  apoio  diagnóstico e  terapêutico, internações  hospitalares em  leitos de  enfermaria e  UTI, bem  como
 
-/U0034/U0036
+46
 
 procedimentos necessários à estabilização clínica dos usuários do Sistema de  Saúde do Corpo de  Bombeiros Militar do Estado  do Rio de Janeiro  (CBMERJ), no Interior  do  Estado  do  Rio  de  Janeiro,  conforme condições estabelecidas no Termo de  Referência (Anexo 1) e seus anexos.
 
@@ -7638,9 +7638,9 @@ Natureza  da  Despesa:  3390
 - 5.7.2  atualização  de  documentos  cuja  validade  tenha  expirado.
 - 5.8  As  certidões  valerão  nos  prazos  que  lhes  são  próprios.  Inexistindo esse  prazo,  reputar-se-ão  válidas  por 90  (noventa)  dias,  contados  de sua  expedição.
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 - 5.8.1 Na hipótese  de se utilizar o sistema, a  certidão seguirá, como prazo  de validade,  a  sistemática própria  estabelecida  em âmbito  federal  constante  do  Sicaf.
 - 5.9  A  comissão  de  contratação  deverá  analisar  a  documentação  apresentada pelo interessado  no prazo máximo de 10  (dez) dias úteis, contados a  partir da entrega  da documentação ao órgão  ou entidade promotora  do credenciamento,  prorrogável,  se  autorizado pela  autoridade  competente,  por  igual  período  por  uma  única  vez. 5.9.1  Na  análise  dos  documentos  de tratação  poderá sanar  erros  ou  falhas que  não  alterarem em  ata  e  acessível  a  todos,
@@ -7780,17 +7780,17 @@ Natureza  da  Despesa:  3390
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - DAS INFRAÇÕES ADMINISTRATIVAS
 - 14.1  Constitui infração  administrativa,  a prática,  pelo interessado,  credenciado ou  contratado, das seguintes  condutas previstas no  art. 155 da  Lei  nº  14.133/2021:
@@ -7996,41 +7996,41 @@ INSTRUMENTO: Termo de Ajuste  de Contas nº 884/2026. PA  R  T  E  S  : Fundaç�
 
 Id:  2728145
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0053/U0055/U0050/U004C/U0045/U004D/U0045/U004E/U0054 /U004F
+SUPLEMENT O
 
-/U0041/U004F
+AO
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0035
+065
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0031/U0033
+13
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE SAÚDE FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO
 
@@ -8116,21 +8116,21 @@ Processo  nº  SEI-030001/014109/2026
 
 Andréa  Guimarães  Koebsch  -  1986
 
-/U0049
+I
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 A  COORDENADORIA GERAL  DE  INSPEÇÃO ESCOLAR,  CERTIFICAÇÃO  E  ACERVO ,  nos  termos da  Deliberação  CEE  nº  366/2017, bem como do art.  5º  da  Resolução  SEEDUC  nº  6.064  de  23  de  março  de  2022,  e  tendo  em  vista  a  regularidade  dos  estudos  realizados nas Instituições de Ensino Extintas, inframencionadas, torna público os nomes dos alunos e a última etapa cursada. Processo nº SEI030029/000787/2022.
 
@@ -8313,17 +8313,17 @@ Id:  2727978
 
 O DEPARTAMENTO DE TRANSPORTES RODOVIÁRIOS DO ESTADO DO RIO DE JANEIRO torna público,  para conhecimento  dos interessados, que, no dia 30 de ABRIL de 2026 às 10h00min, no pátio legal, situado à  Estrada Dos Bandeirantes,  N° 28.137  - Vargem Grande  - RJ, realizará  o  leilão  RPCDETRO04-26,  na forma  online  e  presencial,  dos veículos apreendidos ou removidos a qualquer título, classificados como
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -8499,43 +8499,43 @@ SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA FUNDAÇÃO ANITA MANTUANO DE
 
 INSTRUMENTO: CONTRATO DE  PRESTAÇÃO DE  SERVICO N.º 180021/158/2026. PARTES: FUNARJ  E EMPRESA  SEM LIMITES MUSIC  PRODUÇÕES LTDA. OBJETO: Prestação  de serviços  de apresentação de show artístico  musical  por  PAMELA,  para  duas  apresentações musicais no projeto 'GIRO CULTURAL', no  TEATRO
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U0041/U004F
+AO
 
-/U0053/U0055/U0050/U004C/U0045/U004D/U0045/U004E/U0054 /U004F
+SUPLEMENT O
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0030/U0036/U0035
+065
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0031/U0033
+13
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
 GLÁUCIO GILL - CENAS MUSICAIS', no(a) Teatro Gláucio Gill - TGG em 14  de abril de 2026. PRAZO: 06 (seis) meses. DATA  DA  ASSINATURA: 09/04/2026. VALOR: R$  20.000,00 (vinte  mil reais). NOTA  DE EMPENHO :  2026NE00433. FUNDAMENTO: Lei  nº 14.133,  de 1º  de  abril  de  2021 PROCESSO Nº SEI 180002/001155/2026 .
 
@@ -8625,17 +8625,17 @@ VA  L  O  R F  U  N  D  A  M  E  N  TO :  Processo  nº  SEI-180002/000899/2026.
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 ## Controladoria Geral do Estado
 
@@ -8811,17 +8811,17 @@ PRAZO: 60 (sessenta)  meses, a  contar  da data  de sua  assinatura, podendo  se
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 F  U  N  D  A  M  E  N  TO  : Art.  184  da  Lei  Federal  nº  14.133/2021,  e  no  Art.  1º, §4º,  inciso  IV  e  no  Art.  26  do  Decreto  Estadual  nº  44.879/2014  e  pelo Art.  13  do  Decreto  Estadual  44789/14.
 

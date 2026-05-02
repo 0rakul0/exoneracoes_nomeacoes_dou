@@ -171,7 +171,7 @@ NOMEAR URSULA BONOMO ABELHA , ID FUNCIONAL Nº 5006591-2,  com  validade  a  con
 
 EXONERAR , a  pedido e com  validade a contar  de 20 de  março de 2026, MARCELA  VASQUES  MAGALHAES , ID FUNCIONAL Nº
 
-/U0032
+2
 
 42617812/4,  do  cargo  em  comissão de  Secretário  II,  símbolo  DAI-5, da Escola Fazendária  do Estado do Rio de Janeiro, da Chefia de Gabinete, da Secretaria de Estado de  Fazenda. Processo nº SEI-040001/000593/2026.
 
@@ -211,17 +211,17 @@ Ceres Pimenta Diretora Industrial
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 NOMEAR  ILMAR  BRAZ ,  ID  FUNCIONAL  Nº  38522365/2,  para  exercer o  cargo em comissão  de Diretor Regional  Administrativo, símbolo DAS-8,  da Diretoria Regional Administrativa  Noroeste Fluminense, da Superintendência de Gestão Das Regionais Administrativas, da Subsecretaria de Gestão Administrativa, da Secretaria de Es-ado  de Educação, anteriormente ocupado  por JUCIA  GOMES DE  S FIGUEIREDO, ID Funcional nº 41991028/4. Processo nº SEI-030001/034573/2026.
 
@@ -379,17 +379,17 @@ O PRESIDENTE DO  DEPARTAMENTO  DE  TRÂNSITO DO  ESTADO DO  RIO  DE JANEIRO  -  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## CONSIDERANDO:
 
@@ -449,7 +449,7 @@ Art. 6° -  Os  documentos e processos administrativos em fase corrente deverão
 
 Art.  7º -Os  processos administrativos só  poderão ser  enviados ao Arquivo  Central  após cumprirem  o  prazo  de  guarda corrente,  o  que
 
-/U0033
+3
 
 ocorre  por ocasião  do  seu  Encerramento, ou  seja,  com alcance  do objetivo  de  sua  abertura  e  finalização  do  fluxo  decisório.
 
@@ -585,17 +585,17 @@ DESIGNA FISCAIS PARA AS ATIVIDADES RELACIONADAS  AO ACOMPANHAMENTO  DA EXECUÇÃ
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - cumentais  devem ser  conhecidos  e seguidos  por  todos que  mantêm sob  sua  responsabilidade  documentos  de guarda  de  curto  ou  longo prazo,  evitando,  assim, a  destruição  e  a  perda dos  documentos  públicos  produzidos  e  recebidos  na  administração  pública.
 - §  4° - A gestão  documental deve  estar comprometida com  a Conservação  Preventiva, que  se  define pelo  conjunto  de procedimentos  e técnicas  que visa  manter a  integridade  dos documentos  a partir  da garantia  de  condições  adequadas de guarda, prolongando o tempo de vida do  acervo e assegurando  seu uso  e acesso às  informações neles  contidas  de  maneira  eficaz  e  segura.
@@ -629,17 +629,17 @@ Id:  2728309
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | SEI-150013/000923/2024  Termo  de  Credenciamento  e  Autorização  nº  020  IT  TECH  EMPRESA DE TECNOLOGIA AVANCADA  EM APLICATIVOS LTDA  Adauto  de  Miranda  Fajardo  -  ID  Funcional  nº  51517639  Thamires  de  S.  Lima  Gomes  -  ID  Funcional  nº  51728699  S  E  I  -  1  5  0  0  1  3  /  0  0  11  6  2  /   2  0  2  4  Termo  de  Credenciamento  e  Autorização  nº  024  APF TECNOLOGIA &amp; PARTICIPAÇÕES LTDA  Adauto  de  Miranda  Fajardo  -  ID  Funcional  nº  51517639  Hayssa  Duarte  Ferreira  -  ID  Funcional  nº  51290979  SEI-150013/001300/2024  Termo  de  Credenciamento  e  Autorização  nº  025  ZEROUMBET PLATAFORMA DIGITAL LTDA  Adauto  de  Miranda  Fajardo  -  ID  Funcional  nº  51517639  Hayssa  Duarte  Ferreira  -  ID  Funcional  nº  51290979  S  E  I  -  1  5  0  0  1  3  /  0  0  11  8  5  /   2  0  2  4  Termo  de  Credenciamento  e  Autorização  nº  026  SPORTVIP GROUP INTERNATIONAL APOSTAS LTDA  Adauto  de  Miranda  Fajardo  -  ID  Funcional  nº  51517639  Hayssa  Duarte  Ferreira  -  ID  Funcional  nº  51290979  SEI-150013/000644/2024  Termo  de  Credenciamento  e  Autorização  nº  001  VIA  LOTERIAS  S/A  João  Luiz  da  Silva  Ruivo  -  ID  Funcional  nº  6189342  Thamires  de  S.  Lima  Gomes  -  ID  Funcional  nº  51728699  SEI-150013/000930/2024  Termo  de  Credenciamento  e  Autorização  nº  001  VIA  LOTERIAS  S/A  Carlos  Alberto  Teixeira  -  ID  Funcional  nº  44150180  Thamires  de  S.  Lima  Gomes  -  ID  Funcional  nº  51728699   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -866,17 +866,17 @@ III  em relação  ao  Imposto  sobre  a  Transmissão  de  Bens  Imóveis (ITBI
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 Art.  8º -  A  SEFAZ  poderá,  mediante  decisão  do  Subsecretário  de  Estado  de  Receita,  suspender  o  acesso  ao  Sistema  Extrator  IDF-e,  caso o  município  não  cumpra  o  estabelecido  pelo  art.  7º  desta  Resolução.
 
@@ -1140,17 +1140,17 @@ A SUPERINTENDENTE DE AQUISIÇÕES E CONTRATOS DE TIC da SUBSECRETARIA DE TECNOLO
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 CAÇÃO ,  no  exercício  de  suas  atribuições  constitucionais  e  legais, com base no inciso  V  do  art.  14  da  RESOLUÇÃO  SEFAZ  Nº  676  DE 09 DE JULHO DE 2024, bem como o art. 6° da RESOLUÇÃO SEFAZ Nº  815  de  08  DE  SETEMBRO  DE  2025.
 
@@ -1177,37 +1177,37 @@ Art.  1º -  Alterar membros  na  Comissão de  Acompanhamento e  Fiscalização
 - n Suplente  Administrativo:  NEWTON  ALMEIDA  DA  SILVA  JUNIOR  (ID FUNCIONAL Nº 5139026-4);
 - n Gestor  Suplente:  CELSO  HENRIQUE  FERREIRA  DA  SILVA,  (ID FUNCIONAL Nº 5129091-0).
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0036
+066
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0031 /U0034
+1 4
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 Art.  2º -Os servidores  designados,  sem  prejuízo  de  suas  atribuições, atuarão na Comissão de Acompanhamento e Fiscalização do Contrato supracitado,  em  conformidade  com  a  RESOLUÇÃO SEFAZ Nº 815 de 08  DE  SETEMBRO DE  2025  e  no  DECRETO ESTADUAL  Nº  45.600 DE 16 DE MARÇO DE 2016.
 
@@ -1350,17 +1350,17 @@ Recurso nº 83876 - Processo nº SEI-040006/043197/2024 - Recorrente:  JUNTA  DE
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 -  EMENTA: ICMS  -  RECURSO  DE OFÍCIO.  Confirmada  a decisão  do julgador  de Primeira  Instância, pelos  seus próprios  motivos e  fundamentos.  RECURSO DE OFÍCIO DESPROVIDO.
 
@@ -1451,19 +1451,19 @@ Id:  2728331
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0039
+9
 
 <!-- image -->
 
@@ -1542,17 +1542,17 @@ A  P  O  S  E  N  TA ,  a  contar  de  08/04/2026, SINEZIO  CARRILHO  DA  COSTA 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 159  51470276  JOAO PEDRO DE MORAES RODRIGUES SEVERO  86,21  340  51497263  TATIANA ANDRADE COSTA  92,83  160  50764845  JOAO RAFAEL OLIVEIRA SILVA  100,00  341  50328557  TATIANA DOS SANTOS FERREIRA DE CARVALHO  100,00  161  51396548  JOAO VICTOR PEREIRA LINHARES  99,34  342  4  4  11  9  8  3  6  TATIANA DOS SANTOS RODRIGUES  99,09  162  51252813  JONATAS DE JESUS AZEVEDO FERREIRA  92,94  343  50763814  TERESA LUIZA DA SILVA DIAS  92,94  163  44214944  JONATHAN FERNANDES DA SILVA  95,77  344  20603045  TEREZA CRISTINA AZEVEDO ALMEIDA  93,03  164  44060653  JORGE LEONARDO MOSQUERA TORRES DE OLIVEIRA  100,00  345  42716926  THIAGO DA SILVA QUINTO  99,26  165  44558155  JORGE LUIS CORREA DOS ANJOS  97,48  346  42746876  TIAGO LYRA DE CARVALHO  93,84  166  50766090  JOSE LUIS MARTINS DA SILVA  100,00  347  42847141  ULISSES DUARTE VIEIRA  93,72  167  5  0  3  2   9  111  JOSEMIR DE BARROS SILVA  81,80  348  44606494  VAGNER CATALINO CAMBERLIN  89,64  168  51515296  JULIA  ANDRÉ ROMA  88,03  349  50328859  VANESSA CRISTINA CHAVES PEREIRA  100,00  169  44408404  JULIA  DE  ALBUQUERQUE REIS E SILVA  98,14  350  44246684  VANESSA DE OLIVEIRA GASPAR BITTENCOURT  93,84  170  50150340  JULIA  LIMONE  BRANDAO ENOUT BERANGER BELLO  99,90  351  44246560  VANESSA DE OLIVEIRA MARTINS  93,17  171  4  3  8  1 1  9   3  0  JULIANA BODRA NEVES DANTAS RODRIGUES  100,00  352  50291246  VANESSA TITONELI ESTEVES  93,01  172  50150391  JULIANA CHAVES MONTEIRO  95,04  353  51393000  VERONICA ALVES DA SILVEIRA  91,61  173  51252775  JULIANA DE ALMEIDA MARCIANO  93,84  354  51385996  VERONICA PARADA MAGDALENA  97,36  174  51252848  JULIANA SANTANA LUZ DOS SANTOS  95,46  355  50957724  VITOR SILVA CAMPOS  80,67  175  50764225  JULIO  ARTUR DA CONCEICAO  91,17  356  51576724  VITORIA MARTINS DA ROCHA SILVA  100,00  176  44246536  JULIO  GUERRA DUARTE  93,21  357  50764179  WAGNER ALELUIA DE CEIA  95,31  177  20599315  JUPYRA MIRALDA NEVES MUREB  98,49  358  50328867  WAGNER GASPAR DA SILVA  91,82  178  43808786  KARINA DA SILVA MARQUES  90,87  359  50931067  WESLEY MAXWELL DA COSTA SIQUEIRA  92,74  179  51245523  KARINE CORTES AMORIM  99,18  360  43819508  WILLIAN ALCANTARA DE CARVALHO  84,99  180  50921428  KEILA  REGINA ALVES NEVES  96,02  361  5592194  WILLIAN LUIZ PEREIRA  100,00  181  51679655  LAIS  MAZER  85,67   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1693,9 +1693,9 @@ Art.  1º -Fica revogada  a  Portaria  CODIN  nº  98,  de 19  de  março  de 20
 
 Discriminação  das  parcelas:
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 ## Secretaria de Estado de Polícia Militar
 
@@ -1767,17 +1767,17 @@ Id:  2728426
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 ## RESOLUÇÃO SEPM Nº 8559 DE 10 DE ABRIL DE 2026
 
@@ -1841,39 +1841,39 @@ Rio  de  Janeiro,  10  de  abril  de  2026
 
 Id:  2728558
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0030/U0036/U0036
+066
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0031 /U0034
+1 4
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -1939,43 +1939,43 @@ Rio  de  Janeiro,  06  de  abril  de  2026
 
 ## SYLVIO RICARDO CIUFFO GUERRA Secretário  de  Estado  de  Polícia  Militar
 
-/U0031
+1
 
-/U0031
+1
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U002D
+-
 
-/U0030/U0036/U0036
+066
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0031 /U0034
+1 4
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR ATO DO SECRETÁRIO
 
@@ -2057,17 +2057,17 @@ Id:  2728333
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
 Art.  2° -Ficam  também  delegados ao  servidor  referido  no  artigo  1º desta  Resolução os  atos de  gestão orçamentária  e financeira  relacionados  a  todas  as  dotações  orçamentárias  e  recursos  financeiros  disponibilizados  e/ou  descentralizados  às  Unidades  Gestoras:
 
@@ -2306,17 +2306,17 @@ II -emitir e assinar  notas de  empenho, ordens bancárias  e demais documentos 
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 III  reconhecer  despesas  de  exercícios  anteriores,  quando  cabível;
 
@@ -2390,39 +2390,39 @@ III  providenciar  a  substituição  imediata  de  servidor  designado  que  se
 
 §1º  O  agente público em situação de impedimento  fica obrigado a comunicá-lo aos  seus superiores  imediatamente, a  fim de  que seja providenciada  a  designação  de  outro  servidor.
 
-/U0041/U004E/U004F
+ANO
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0036/U0036
+066
 
-/U002D
+-
 
-/U006F
+o
 
-/U0031 /U0034
+1 4
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
 §2º  Enquanto não for publicada  no  DOERJ a substituição  dos  membros  desta  comissão  fiscal,  ficam  estes  servidores  vinculados  à  atividade  de  acompanhamento  e  controle  da  execução  contratual.
 
@@ -2494,7 +2494,7 @@ Id:  2728412
 
 <!-- image -->
 
-/U0031 /U0034
+1 4
 
 ao  exercício  das atribuições  aqui  delegadas,  com a  maior  celeridade possível, e dar  acesso às instalações e dependências  onde ocorrer a prestação do serviço ou a entrega de materiais, sempre que solicitado pelo Gestor  ou por qualquer  um dos  membros de sua  equipe de apoio.
 
@@ -2560,17 +2560,17 @@ Id:  2728455
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
 Art.  7º -A Comissão  Fiscalizadora deverá se  inteirar do teor  do Termo de Referência (doc. 86171205, 119453956, 119460811, 120991310, 121503411, 121554752, 121595317, 122310911, 126202254, 126319415, 127142229 e 129020560) e do Contrato (doc. 99687584, 118568717, 116761215, 120348281, 120937224, 121255356, 121351069, 121760513, 125406697, 125406413, 124798407,  124802563,  126555159,  127386298  e  127386301),  anotando,  em  registro próprio,  todas  as  ocorrências relacionadas  com  a execução do Contrato, na forma  do art. 11, Decreto Estadual nº 48.817,  de  24  de  novembro  de  2023.
 
@@ -2778,17 +2778,17 @@ Id:  2728559
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## S  E  C  R  E  TA  R  I  A  DE E  S  TA  D  O  DE POLÍCIA M  I  L  I  TA  R
 
@@ -2856,41 +2856,41 @@ III  Providenciar a substituição imediata de servidor designado que se achar  
 
 Art.  4º -É de  responsabilidade da comissão de fiscalização verificar se  as  notas  fiscais  estão  sendo  inseridas  e  tramitadas  no  endereço eletrônico  sisnota.pmerj.rj.gov.br, conforme  publicação  em  BOL PM  nº 213, de 19 de novembro de 2015, págs. 70 a 79, bem como fiscalizar o  fiel  cumprimento  da  confecção  dos  processos  de  liquidação.
 
-/U0041/U004E/U004F
+ANO
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0031/U0035
+15
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0036/U0036
+066
 
-/U002D
+-
 
-/U006F
+o
 
-/U0031 /U0034
+1 4
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 Art.  5º -Fica  estabelecido  que as  comissões  fiscalizadoras das  Unidades beneficiadas,  e os demais  setores que estão  envolvidos na execução  do contrato,  direta ou  indiretamente, deverão  disponibilizar todas  as informações  necessárias ao  exercício das  atribuições aqui delegadas, com a maior celeridade  possível, e dar acesso às instalações e  dependências onde ocorrer  a prestação  do serviço ou  a entrega  de  materiais,  sempre  que  solicitado  pelo  Gestor  ou  por  qualquer um dos membros de sua equipe de apoio.
 
@@ -3018,17 +3018,17 @@ VI abrir  processo de liquidação com as notas fiscais relativas ao serviço, c
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 Art.  3º -  Fica  sob  a  responsabilidade  da  UNIDADE  BENEFICIADA pelo  contrato:
 
@@ -3239,17 +3239,17 @@ PROCESSO Nº SEI-360007/010595/2025  - CONCEDO a  DANIELLA MARQUES  DA  SILVA,  
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL DEPARTAMENTO GERAL DE PESSOAS SERVIÇO DE DIREITOS E VANTAGENS
 
@@ -3333,39 +3333,39 @@ DESPACHOS DO DIRETOR DE 09.04.2026
 
 PROCESSO Nº SEI-210001/024931/2026 ARQUIVE-SE.
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0036/U0036
+066
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U006F
+o
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0031 /U0034
+1 4
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
 ## PRESÍDIO JOÃO CARLOS DA SILVA
 
@@ -3463,7 +3463,7 @@ PROCESSO Nº SEI 210001/030381/2026 - ARQUIVE-SE
 
 ## PROCESSO Nº SEI 210001/018459/2026 - ARQUIVE-SE
 
-/U0031/U0037
+17
 
 Id:  2728564
 
@@ -3557,17 +3557,17 @@ Id:  2728596
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 ## PRESÍDIO ROMEIRO NETO
 
@@ -3759,17 +3759,17 @@ Id:  2728464
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 -  a  Lei  Complementar nº  141,  de  13  de  janeiro de  2012,  que  regulamenta  o §  3º do  artigo  198 da  Constituição Federal  para dispor  sobre  os  valores  mínimos  a serem  aplicados  anualmente  pela  União, Estados, Distrito  Federal e  Municípios em  ações e  serviços públicos de  saúde;
 
@@ -3869,17 +3869,17 @@ Id:  2728475
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 7065507  SES RJ UPA 24H ITABORAI  FSERJ  R$  16.023,00  6629989  SES RJ UPA 24H CAMPOS DOS GOYTACAZES  FSERJ  R$  15.755,95  6858317  SES RJ UPA 24H COPACABANA  FSERJ  R$  19.494,65  5955637  SES RJ UPA 24H SANTA CRUZ  FSERJ  R$  15.755,95  6037569  SES RJ UPA 24H MARECHAL HERMES  FSERJ  R$  16.824,15  6220584  SES RJ UPA 24H BOTAFOGO  FSERJ  R$  16.290,05  6555551  SES RJ UPA 24H QUEIMADOS  FSERJ  R$  16.023,00  5955661  SES RJ UPA 24H TIJUCA  FSERJ  R$  17.273,51  6038883  SES RJ UPA 24H REALENGO  FSERJ  R$  16.290,05  6091997  SES RJ UPA 24H NOVA IGUACU I CABUCU  FSERJ  R$  7.374,15  7786654  PROGRAMA ESTADUAL DE TRANSPLANTE  FSERJ  R$  24.533,02  2273365  SES RJ INSTITUTO ESTADUAL DE INFECTOLOGIA SAO SEBASTIAO  FSERJ  R$  14.559,74  7505159  USB05 SAMU 192 UPA TIJUCA  FSERJ  R$  881,47  2704579  SES RJ HOSPITAL REGIONAL GELIO ALVES FARIA  FSERJ  R$  881,47  4269535  SES RJ AME JORNALISTA SUSANA NASPOLINI PAVAO PAVAOZINHO  FSERJ  R$  11.733,32  2766779  SES RJ LACENN RJ LABORATORIO CENTRAL NOEL NUTELS  FSERJ  R$  2.865,41  5935431  SES RJ CENTRAL ESTADUAL DE REGULACAO DE ALTA COMPLEXIDADE  FSERJ  R$  3.078,98  7839626  SES RJ NUCLEO ESTADUAL DE SAUDE MENTAL  FSERJ  R$  379,22  2696932  SES RJ HOSPITAL ESTADUAL ROBERTO CHABO  FSERJ  R$  122.757,70  2270412  SESDEC RJ PAM CAVALCANTI  FSERJ  R$  189,61  ***  FUNCIONÁRIOS CEDIDOS AO MUNICÍPIO  FESRJ  R$  18.008,62  TO  TA  L  R$  4.177.208,71   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -4025,17 +4025,17 @@ JACQUELINE  DAMASIO  PEDROSO ,  Professor Docente  I,  matricula nº  3.065.827-
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
 a  30% da  jornada de  trabalho,  serviços leves,  em local  que não  implique  em  movimentação  individual  mais  que  10%  do  peso  corporal, cessando  todo e  qualquer licenciamento  na data  desta publicação. Processo  nº  SEI-  030001/012087/2026.
 
@@ -4232,17 +4232,17 @@ DESIGNA TARCISIO NEVES DA SILVA , Prof.  Doc. I,  ID 43266053/2, para  exercer  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 anteriormente ocupada por Luiz Carlos da Silva Braga, ID 36468444/2.  Processo  nº  SEI-030001/011581/2026.
 
@@ -4382,17 +4382,17 @@ PROCESSO  Nº SEI-030001/120082/2025 -  CONCEDO o benefício Abono  de Permanên
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Servente -CIEP, nível I,  Identidade Funcional n o 38706539,  vínculo 01, matrícula  5013193-7, tendo em vista  ter reunido, com base  no § 1º, inciso  III, alínea  'a', do  art. 40, da  C.F, os  requisitos necessários para  a  sua  aposentadoria  a  partir  de  15/11/2021.
 
@@ -4444,19 +4444,19 @@ Id:  2728540
 
 PROCESSO  Nº  SEI-030043/000720/2021 -MARILZA  SOUZA  DA COSTA  LOPES,  Professor Docente  II  nível  D  referência  9 ,  ID.  funcional n° 32592353/1, matrícula  n° 292.123-7. FIXADOS os  proventos mensais  de  inatividade  a  contar  de  18/03/2021,  tendo  por  base  a  última  remuneração  integral do  cargo  efetivo  do servidor,  sendo  reajustados  pela  paridade  nos  seguintes  termos  propostos:  Vencimento-base atribuído ao  cargo de: Professor Docente  II nível D, referência  9 (Lei n º 6834/14), no valor de R$ 2.327,79 e 55% de triênio (Lei nº1026/86
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U0031 /U0034
+1 4
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ),  no  valor  de  R$  1.280,28, revogando-se  a  fixação  de  proventos  de 16/03/2021,
 
@@ -4512,39 +4512,39 @@ Art.  1º -  Homologar os Pareceres deste  Conselho abaixo relacionados:
 
 PARECER CEE Nº 10 DE 10 DE MARÇO DE 2026
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0030/U0036/U0036
+066
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0031 /U0034
+1 4
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 AUTORIZA A TRANSFERÊNCIA DE MANTENÇA do COLÉGIO CENTRO  DE ESTUDOS  BRITTO E  VITOI LTDA,  mantido pelo  COLÉGIO CENTRO DE ESTUDOS BRITTO E VITOI LTDA, inscrito no CNPJ n° 14.080.530/0001-00,  localizado no  endereço  Rua  Voluntários da  Pátria, nº 172 - Centro  - Campos dos Goytacazes/RJ, CEP: 28035-260, para INSPIRA MUDANÇA PARTICIPAÇÕES S.A, CNPJ/ME nº 28.580.065/0001-72  (matriz),  mantenedor  do  CENTRO  DE  ESTUDOS -  CAMPOS, CNPJ  nº  28.580.065/0034-30  (filial), mesma  localização supracitada e do COLÉGIO CENTRO DE ESTUDOS BRITTO E VITOI LTDA, mantido pelo COLÉGIO CENTRO DE ESTUDOS BRITTO E VITOI  LTDA,  inscrito  no  CNPJ  n°  14.080.530/0002-82,  localizado  no  endereço  Rua  Conselheiro  Tomaz  Coelho, nº  28,  Parque  Conselheiro Thomas Coelho, Campos dos Goytacazes/ RJ - CEP.: 28.051-202, para INSPIRA MUDANÇA PARTICIPAÇÕES S.A, CNPJ/ME nº 28.580.065/0001-72  (matriz),  mantenedor  do  CENTRO  DE  ESTUDOS -  CONSELHEIRO TOMAS,  CNPJ  nº  28.580.065/0035-11 (filial),  mesma  localização supracitada; VOTO DO  RELATOR : Pelo  exposto, e, considerando os autos, voto pela  transferência de mantença: do COLÉGIO CENTRO DE ESTUDOS BRITTO E VITOI LTDA, mantido pelo COLÉGIO  CENTRO  DE  ESTUDOS  BRITTO E  VITOI  LTDA,  inscrito no  CNPJ n°  14.080.530/0001-00,  para  INSPIRA MUDANÇA PARTICIPAÇÕES  S.A,  CNPJ/ME  nº 28.580.065/0001-72  (matriz),  mantenedor do  CENTRO DE ESTUDOS - CAMPOS, CNPJ nº 28.580.065/0034-30 (filial),  localizado  no endereço  Rua  Voluntários  da  Pátria, nº  172  Centro  - CEP:  28035-260,  Município de  Campos  dos Goytacazes,  estado  do Rio  de Janeiro;  e do  COLÉGIO CENTRO  DE ESTUDOS BRITTO E VITOI LTDA, mantido  pelo COLÉGIO CENTRO DE ESTUDOS BRITTO E VITOI LTDA, inscrito no CNPJ n° 14.080.530/0002-82, para INSPIRA MUDANÇA PARTICIPAÇÕES S.A, CNPJ/ME nº 28.580.065/0001-72  (matriz),  mantenedor  do  CENTRO  DE  ESTUDOS -  CONSELHEIRO TOMAS,  CNPJ  nº  28.580.065/0035-11 (filial),  localizado  no  endereço  Rua  Conselheiro Tomaz  Coelho,  nº  28,  Parque Conselheiro  Thomas Coelho,  Campos  dos  Goytacazes, CEP.:  28.051202,  estado do  Rio de  Janeiro.  E ainda  determino que:  1. A  Coordenação de Inspeção  Escolar da SEEDUC, no  corpo do processo SEI-430001/002865/2025 proceda em ato contínuo  a  publicação  deste parecer, com a  emissão do ato de cadastramento  das novas entidades  mantenedoras; 2.  Que este  parecer, por  sua natureza  e objetivo, substitua  os  atos autorizativos  anteriores,  passando  a figurar  na  documentação  escolar  como  a  autorização de  funcionamento,  em  especial  nos  de  conclusão  de  série,  curso  e  transferência;  3.  Que  os  mantenedores  procedam, imediatamente,  com  o  cadastramento da  equipe técnico-administrativo-pedagógica,  indicando como  início  da sua  atuação  o  período  de  validade  indicado  no  corpo  do  parecer.  PROCESSO Nº  SEI-430001/002865/2025.
 
@@ -4576,17 +4576,17 @@ PROCESSO Nº SEI-E  -  0  3  /  0  0  2  /  8  4  11  /  2  0  1  4 -  MARTA  DE
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº SEI-E-03/813148/2012 -  EVERALDO PEDRO DA SILVA, mat.  nº 841.850-1,  Prof. Doc.  I, período  base de  05/03/2021 a 04/03/2026. PROCESSO  Nº SEI-E-03/810120/2007 -SANDRA  BARBOSA DE AZEVEDO, mat. nº 5.013.876-7, Merendeira, período base de 05/03/2017  a  04/03/2022. PROCESSO Nº SEI-E-03/3610052/2001 -  ADRIANA  MACHADO  FRESEN, mat. nº 5.020.109-4, Prof. Doc. II, período base de 28/12/2020 a 03/01/2026. PROCESSO  Nº  SEI-E-03/002/5525/2014 -  CARLA  QUINTANILHA  DA SILVA, mat.  nº 943.899-5, Prof.  Doc. I,  período base de  17/03/2021 a 16/03/2026. PROCESSO Nº SEI-E  -  0  3  /  2  3  1  0  2  7  3  /  2  0  11 -  KARINA CAMPOS DE SOUZA,  mat.  nº  926.260-1,  Prof.  Doc.  I,  período  base  de  07/04/2021  a 06/04/2026. PROCESSO  Nº  SEI-E  -  0  3  /  8  1  2  0  9  9  /  2  0  11 -  LAIS  DIAS  DA SILVA,  mat. nº 249.757-6, Prof. Doc. II, período base de 07/04/2021 a 06/04/2026. PROCESSO Nº  SEI-E-03/002/3603/2016 -IZABELLE  CRISTINA SIQUEIRA  VIEIRA  ABBOUD,  mat.  nº  966.788-2,  Prof.  Doc.  I,  período base  de  24/08/2020  a  23/08/2025. PROCESSO Nº SEI-03/030/004683/2019 -  ESTEFANE PEREIRA PINTO  DE SOUZA  MANHÃES,  mat.  nº 3031362-1,  Prof.  Doc. I,  período base  de  29/08/2017  a  28/08/2022. PROCESSO Nº  SEI-E-03/10600325/2007 - WELLINGTON  GAGO DA COSTA,  mat.  nº 845.032-2,  Prof.  Doc.  I,  período base  de  09/12/2020 a  08/12/2025. PROCESSO Nº SEI-030001/078077/2024 - NORMA COSTA DE LIMA FIGUEIRA, mat. nº 904.086-6, Prof. Doc. I, período base de 28/04/2019  a  09/07/2024. PROCESSO Nº  SEI-E-03/002/4540/2013 - CLEMENTINA  OLIVIA DA CUNHA MOREIRA DA HORA, mat. nº  829.567-7, Prof.  Doc. I,  período  base  de  25/02/2018  a  24/02/2023.. PROCESSO  Nº  SEI-E-03/002/103/2017 -  MARA  MARIA  CARVALHO DE  SOUZA,  mat. nº 283.434-9, Prof. Doc. II, período base  de 07/08/2018  a  06/08/2023. PROCESSO Nº  SEI-030001/028047/2026 -  GEIZIANE  ANGELICA  DE SOUZA  COSTA, mat.  nº 3051327-9,  Prof. Doc.  I, período  base de 06/01/2019  a  05/01/2024. PROCESSO  Nº SEI-E-03/002/4759/2015 - ROSEMARY  GOMES DA SILVA  FONSECA, mat.  nº 840.173-9,  Prof.  Doc. I,  período base  de 18/03/2021  a  17/03/2026. PROCESSO Nº SEI-E-03/7210043/2001 -  MARIA DE FÁTIMA DA SILVA  BONZE, mat.  nº 5.023.336-0,  Agente Administrativo,  período base de  30/06/2020  a  29/06/2025. PROCESSO  Nº  SEI-E-03/002/189/A/2018 -ISIS  ALVES  AMORIM, mat. nº 926.089-4, Prof. Doc. I, período base de 06/02/2021  a 05/02/2026. PROCESSO  Nº  SEI-E-03/002/4493/2015 -PATRICIA  COSTA  DE ABREU,  mat. nº  893.211-3, Prof.  Doc.  I, período  base de  11/09/2019 a  10/09/2024. PROCESSO  Nº SEI-E-03/2310094/2000 - SIRLENE  DE JESUS,  mat. nº  5.017.152-9, Agente  Administrativo, período  base de  07/04/2021 a 06/04/2026. PROCESSO Nº  SEI-E-03/006/2263/2016 - MICHELLE  MARTINS DE MATTOS RANGEL,  mat. nº  971.270-4, Prof. Doc.  I, período  base de 27/06/2016  a  26/06/2021. PROCESSO  Nº  SEI-E-03/002/102403/2018 -SUELMA  MARIA  RAMOS ALVES DA COSTA, mat. nº 960.484-4, Prof. Doc. I, período base  de  09/12/2020  a  08/12/2025. PROCESSO Nº SEI-E-03/202415/2004 - ILDA  PEREIRA LESSA,  mat. nº  270.868-3,  Servente,  período  base  de  04/02/2021  a  08/02/2026. PROCESSO  Nº  SEI-030001/066739/2024 -  ALEXANDRE  VERÇOSA GRECO, mat. nº 3085726-2, Prof. Doc. I, período base de 02/12/2020 a  01/12/2025. PROCESSO Nº  SEI-E-03/002/3476/2018 -EVANDO  DOS SANTOS BARBOSA, mat. nº 916.436-9, Prof. Doc. I, período base de 12/10/2019  a  11/10/2024. PROCESSO Nº SEI-E-03/812587/2012 -  JULIANA DAMAS FERREIRA SANTOS, mat. nº 926.205-6, Prof. Doc. I, período base de 08/03/2021 a  07/03/2026. PROCESSO Nº SEI-E-03/002/1360/2017 - ALFREDO SILVIO DA  SILVA FILHO, mat. nº 928.496-9, Prof. Doc. I, período base de 10/03/2021  a  09/03/2026. PROCESSO  Nº SEI-E-03/7510066/1999 -  SANDRA MARIA  CONCEIÇÃO  DE OLIVEIRA,  mat.  nº 5.019.023-0,  Merendeira, período  base de  13/09/2019  a  12/11/2024. P ROCESSO  Nº SEI-030001/081599/2024 -MARIA  LUIZA PEREIRA SOARES, mat. nº 841.159-7, Prof. Doc. I, período base de 27/02/2016 a  26/02/2021. PROCESSO  Nº  SEI-E-03/002/4797/2017 -  ROSIMAR  FREIRE  BARBOSA, mat. nº 827.179-3,  Prof.  Doc.  I,  período  base  de  08/03/2021  a 07/03/2026. PROCESSO  Nº  SEI-E  -  0  3  /  8  1  3  8  7  3  /  2  0  11 - SOLANGE  APARECIDA  DAMASCO MARINS, mat. nº 928.488-6,  Prof. Doc. I, período base de 10/03/2021  a  09/03/2026. PROCESSO Nº SEI-E-03/030/29/2019 -MARLON  OLIVEIRA DE SOUZA,  mat.  nº  968.320-2,  Prof.  Doc.  I,  período  base  de  25/12/2020 a  24/12/2025. PROCESSO  Nº SEI-E-03/10102312/2006 - MAGALI  MANSO, mat.  nº 5.022.689-3,  Merendeira,  período  base  de  17/02/2018  a  16/02/2023. PROCESSO  Nº SEI-030001/022978/2026 -  ANDRÉ TOSTES  DA COSTA, mat. nº  3080543-6, Prof. Doc. I, período  base de 16/05/2019 a  15/05/2024. PROCESSO  Nº  SEI-030030/002564/2023 -  ELIZABETH  DOSCHER DA  FONSECA  KONRATH, mat.  nº  841.862-6,  Prof. Doc.  I,  período base  de  05/03/2021  a  04/03/2026. PROCESSO  Nº SEI-030001/041240/2025 -PAULO  ROBERTO DO COUTO  CONCEIÇÃO,  mat.  nº  934.914-3, Prof.  Doc.  I,  período  base de  13/04/2019  a  12/04/2024. PROCESSO Nº SEI-030030/008208/2023 -  NATANAEL JOSÉ DE OLIVEIRA, mat. nº 825.591-1, Prof. Doc. I, período base de 10/12/2020 a 09/12/2025. PROCESSO Nº SEI-030001/099643/2025 -GUSTAVO ZAMPIER MARQUES FERREIRA, mat. nº 826.143-0,  Prof.  Doc. I,  período  base de  18/08/2013  a  29/10/2018.
 
@@ -4711,17 +4711,17 @@ PROCESSO Nº  SEI-030001/092411/2025 -TORNO SEM  EFEITO o despacho de 02/03/2026
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 PROCESSO Nº  SEI-030001/092411/2025 -TORNO SEM  EFEITO o despacho  de 23/03/2026,  publicado  no D.O.  de  25/03/2026, que  concedeu Alteração  de Nome  a ALINE DUARTE  GOMES, Prof.Doc.I, Id.Func.  51552701/1.
 
@@ -4785,39 +4785,39 @@ PROCESSO  Nº  SEI-030001/037007/2026 -  JANAINA  MARTINS  DOS SANTOS FONSECA,  
 
 *PROCESSO  Nº  SEI-030001/024028/2026 -  ROSA  MARIA  BATISTA DA  SILVA COELHO,  Prof. Ass.  de  Adm. Educacional  II, matrícula  nº 1206319-4. CONCEDO alteração  de  nome. *Republicado por incorreção no original publicado no D.O. de 25/03/2026.
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0036/U0036
+066
 
-/U002D
+-
 
-/U006F
+o
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0031 /U0034
+1 4
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 RETIFICAÇÃO D.O.  DE  25/03/2026 PÁGINA 30 - 2ª  COLUNA
 
@@ -4827,7 +4827,7 @@ PROCESSO Nº SEI-E-03/11001468/2007
 
 Onde se lê:  ...matricula  nº  5011133-9... Leia-se:  ...matricula  nº  5011193-9...
 
-/U0032/U0035
+25
 
 Id:  2728304
 
@@ -4919,17 +4919,17 @@ Id:  2728311
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 50263102 FLAVIO PACHECO NEME  Agente  de  Segurança  Socioeducativa  36  50180320 JORGE ANTONIO CABRAL DA PONTE  Agente  de  Segurança  Socioeducativa  30  50377272 JEAN DO NASCIMENTO ALVES  Agente  de  Segurança  Socioeducativa  29  20090250 JOSE ROBERTO DE SOUSA  Agente  de  Segurança  Socioeducativa  32  42533392 LOURIVAL ROSA DE JESUS  Agente  de  Segurança  Socioeducativa  26  50943642 LUCIANA DE AGUIAR GUIMARAES  Odontólogo  36  19856865 LUCIANO FERNANDES DE PAULA  Agente  de  Segurança  Socioeducativa  34  50178105 MARCELO AUGUSTO TURANO BRAGA  Odontólogo  35  50096770 MARCELO FELIPE SAMPAIO GOMES  Agente  de  Segurança  Socioeducativa  36  50232649 MARCELO RIO TINTO DE ARAUJO PINTO  Agente  de  Segurança  Socioeducativa  36  19864175 MARCIO FERNANDES POMPEU  Agente  de  Segurança  Socioeducativa  34  6146937  MARCIO JOSE DA VITORIA  Agente  de  Segurança  Socioeducativa  35  19865830 MARCOS ANTONIO DA COSTA SANTOS  Professor  Degase  I  34  50096982 RANFLIS DOS SANTOS DA SILVA  Agente  de  Segurança  Socioeducativa  36  42624576 RENATO SANTOS DA SILVA  Agente  de  Segurança  Socioeducativa  34  19886640 ROSIMARY PINTO DE SA BARRETO  Agente  Administrativo  30  50367528 VIVIANE FERREIRA SANTOS PINTO  Bibliotecário  34   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5076,17 +5076,17 @@ gicas;
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - §2º  A substituição  de membros poderá  ocorrer a  qualquer tempo, mediante  nova  designação  formal.
 - Art.  7º -  Os  membros da CEIAS exercerão suas funções sem prejuízo de suas  atribuições regulares, sendo suas  atividades consideradas de relevante interesse  institucional para a  UERJ e para o  Centro Biomédico.
@@ -5197,17 +5197,17 @@ CRÉDITOS RELATIVOS ÀS GRATUIDADES ESTUDANTIS CONCEDIDAS  NO EXERCÍCIO DE  201
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -5307,17 +5307,17 @@ Art. 2°  Os  empregados ocupantes de  cargo de  provimento efetivo, não  desig
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 Parágrafo Único -  A  frequência dos empregados de que trata o caput será  atestada mensalmente  pela  chefia imediata,  para  fins de  registro e  pagamento.
 
@@ -5410,27 +5410,27 @@ O DIRETOR  DO DEPARTAMENTO GERAL DE  ADMINISTRAÇÃO E FINANÇAS ,  no  exercíc
 
 Art.  1º  Instituir  a  Comissão  de  Gestão  e Fiscalização  para  acompanhamento  da execução  do Contrato  nº 02/2026,  com a  empresa
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0036/U0036
+066
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0049
+I
 
-/U006F
+o
 
-/U0032/U0039
+29
 
 GONÇALVES DE CASTRO  ASSESSORIA COMERCIAL LTDA, cujo objeto  é  contratação  de  empresa especializada  na  prestação  de  serviços  de locação  de piso  com projeto  de construção  de estande  institucional, com  estrutura e infraestrutura adequadas,  viabilizar a participação  da Secretaria  de  Estado  de Cultura  e  Economia Criativa  do Rio de Janeiro (SECEC) na 18ª  edição da Rio Artes Manuais, evento a  ser  realizado  no  Centro  de  Convenções  EXPORIO, entre os dias 08 e  12  de  abril  de  2026,  a  serem  executados  nas  condições  estabelecidas  no  Termo  de  Referência  e  nos  anexos  deste  Contrato.
 
@@ -5570,17 +5570,17 @@ CREDENCIAMENTO DE ARTISTAS ATOR/ ATRIZ I NOME: MARIA STELA DE LIMA CAMPOS AZEVED
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ANDRÉ RIBEIRO POYART / CNPJ: 53.777.599/0001-30 / 95 Pts./ APTO F  I   G  U  R  I  N  I   S   TA NOME: FERNANDA  GARCIA  NUNES  /  CNPJ: 28.824.820/0001-17  /  95  Pts./ A  P  TO DRAMATURGO (A) NOME: RÔMULO VIEIRA CHINDELAR / CNPJ: 31.003.326/0001-04 / 80 Pts./ A  P  TO
 
@@ -5790,17 +5790,17 @@ Id:  2728580
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE INFRAESTRUTURA E OBRAS PÚBLICAS S  U  B  S  E  C  R  E  TA  R  I  A  DE FINANÇAS
 
@@ -5862,41 +5862,41 @@ Diretor  Presidente Id:  2728428
 
 NOMEIA ,  com  validade  a  contar  de  06  de  abril  de  2026, JOSE PAES LEME  DA  MOTTA , para exercer  o cargo em comissão de Superintendente, símbolo  DAS-8, na Diretoria  de Obras e Conservação  - Re-
 
-/U0041/U004E/U004F
+ANO
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0036/U0036
+066
 
-/U002D
+-
 
-/U006F
+o
 
-/U0031 /U0034
+1 4
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0033/U0031
+31
 
 gional  I,  da  Fundação  Departamento  de  Estradas  de  Rodagem  do  Estado do Rio de Janeiro - DER/RJ, da Secretaria de Estado de Infraestrutura e  Obras e Públicas  - SEIOP,  do Quadro Permanente  de Pessoal  Civil  do  Poder  Executivo  do  Estado do  Rio  de  Janeiro,  em  vaga anteriormente  ocupada por  Jose Paes  Leme da  Motta, ID  2841334-2. -  Processo  nº  SEI-330002/010198/2026.
 
@@ -6074,9 +6074,9 @@ Marcelo  Soares  Magalhães  -  ID  4377560-8  -  Cargo:  Assistente;
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ## Como Gestor Suplente:
 
@@ -6098,13 +6098,13 @@ DEBORA DE SOUZA CRAVEIRO
 
 Superintendente  de  Administração  e  Finanças
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Id:  2728505
 
@@ -6238,17 +6238,17 @@ EXONERA, a pedido,  com validade  a contar  de 13  de abril  de 2026, MARCELO RO
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 NOMEIA, com validade  a  contar  de 13  de  abril  de 2026, DANIELA ALLAM GIACOMET , Procurador do Estado, Id. Funcional nº 19234570, para  exercer o  cargo em comissão  de Procurador-Chefe, símbolo  D.G.,  da  Procuradoria  na Capital  Federal,  da  Procuradoria Geral  do Estado,  da Chefia  do Poder  Executivo do  Estado do  Rio de Janeiro,  anteriormente  ocupado por  Marcelo  Rocha  de Mello  Martins. Processo  nº  SEI-140001/000397/2026.
 
@@ -6256,19 +6256,19 @@ NOMEIA, com  validade a contar  de 13  de abril de  2026, JULIANA FLORENTINO  DE
 
 Id:  2728498
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U0031 /U0034
+1 4
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## PROCURADORIA GERAL DO ESTADO SECRETARIA DE GESTÃO
 
@@ -6291,17 +6291,17 @@ Id:  2728539
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 50074636  10  50  20  50  30  50%  50074660  10  50  20  50  30  50%  50074679  10  50  20  50  30  50%  50081063  10  50  20  50  30  50%  50084607  10  50  20  50  30  50%  50086855  10  50  20  50  30  50%  50090500  10  50  20  50  30  50%  50090690  10  50  20  50  30  50%  50093410  10  50  20  50  30  50%  50104187  10  50  20  50  30  50%  5  0  11  6  0  0  2  10  50  20  50  30  50%  5  0  11  6  0  2  9  10  50  20  50  30  50%  5  0  11  6  1  0  0  10  50  20  50  30  50%  5  0  11  9  8  3  4  10  50  20  50  30  50%  50126350  10  50  20  50  30  50%  50129864  10  50  20  50  30  50%  50130137  10  50  20  50  30  50%  50130439  10  50  20  50  30  50%  50133365  10  50  20  50  30  50%  50133390  10  50  20  50  30  50%  50135570  10  50  20  50  30  50%  50158686  10  50  20  50  30  50%  50158783  10  50  20  50  30  50%  50158830  10  50  20  50  30  50%  50158880  10  50  20  50  30  50%  50158937  10  50  20  50  30  50%  50158945  10  50  20  50  30  50%  50158961  10  50  20  50  30  50%  50158970  10  50  20  50  30  50%  50158988  10  50  20  50  30  50%  50159003  10  50  20  50  30  50%  5  0  1  5   9  0  11  10  50  20  50  30  50%  50159046  10  50  20  50  30  50%  50159062  10  50  20  50  30  50%  50159070  10  50  20  50  30  50%  50159097  10  50  20  50  30  50%  50159135  10  50  20  50  30  50%  50159143  10  50  20  50  30  50%  50159151  10  50  20  50  30  50%  50159216  10  50  20  50  30  50%  50159240  10  50  20  50  30  50%  50160567  10  50  20  50  30  50%  50164694  10  50  20  50  30  50%  50170988  10  50  20  50  30  50%  50171054  10  50  20  50  30  50%  50171216  10  50  20  50  30  50%  50171283  10  50  20  50  30  50%  50173251  10  50  20  50  30  50%  50181629  10  50  20  50  30  50%  50192078  10  50  20  50  30  50%  50192590  10  50  20  50  30  50%  50209795  10  50  20  50  30  50%  50221809  10  50  20  50  30  50%  50233041  10  50  20  50  30  50%  50233106  10  50  20  50  30  50%  50233149  9  45  18  50  30  48%  50234137  10  50  20  50  30  50%  50255460  10  50  20  50  30  50%  50255479  10  50  20  50  30  50%  50255487  10  50  20  50  30  50%  50255568  10  50  20  50  30  50%  50255576  10  50  20  50  30  50%   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6548,39 +6548,39 @@ O SUPERINTENDENTE  DE FISCALIZAÇÃO  E INTELIGÊNCIA  FISCAL , no  uso de  suas
 
 Id:  2728617
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0036
+066
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U0031 /U0034
+1 4
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## ADMINISTRAÇÃO VINCULADA
 
@@ -6678,17 +6678,17 @@ Id:  2728525
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 relativo à prestação  de serviço de inspeção e  manutenção em extintores e  mangueiras de incêndio, com  fornecimento de peças/componentes,  quando necessário,  das  unidades  administrativas da  Secretaria de  Estado de  Fazenda do Rio  de Janeiro, na  forma do  Termo de Referência e do instrumento convocatório, com fundamento no art. 57, inciso  II,  da  Lei  nº  8.666/93  e  na  Cláusula  segunda,  parágrafo  primeiro  do  contrato.
 
@@ -6706,7 +6706,7 @@ PROCESSO N° SEI-040178/000354/2022.
 
 Id:  2728322
 
-/U0033/U0035
+35
 
 <!-- image -->
 
@@ -6716,17 +6716,17 @@ Ata  de  Registro  de  Preços  23/2026
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 OBJETO: PARTES:
 
@@ -6831,53 +6831,53 @@ O DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS - DGGP, POR MEIO DO SERVIÇO DE PROMO
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0033/U0037
+37
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0036
+066
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U0031 /U0034
+1 4
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 | 51479354  PEDRO HENRIQUE LIMA VALVERDE  5551307  NILBER VINICIUS DA SILVA DOS SANTOS  42530466  RICARDO SIMÃO RIÇA JUNIOR  18787720  ALBER CARLOS DE ALMEIDA SOUZA  51477297  JOAO PAULO CAVALCANTI MALTA  50982796  THADEU MURILLO DA SILVA SAMPAIO  50226819  MARCIO ANDRE DE JESUS SOUZA  51563266  PEDRO ANDRADE BASTOS  44230656  FABIO PEREIRA DE SOUSA  41378890  MAYKE DA SILVA OLIVEIRA  5  1  5  7   111  0  DANIEL FERREIRA GRILLO  51570173  LUAN MASCARENHAS DE ANDRADE  41378776  LUIZ  HENRIQUE REZENDE DE OLIVEIRA  41378989  RICARDO EMERSON CRESCENTE MACHADO  24763888  ANDERSON DE SOUZA BORGES   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6930,17 +6930,17 @@ O DEPARTAMENTO-GERAL  DE GESTÃO  DE PESSOAS  - DGGP , por  meio  do  Serviço  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS SERVIÇO DE PROMOÇÕES
 
@@ -6988,17 +6988,17 @@ Id:  2728364
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS SERVIÇO DE PROMOÇÕES
 
@@ -7064,55 +7064,55 @@ O DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS - DGGP ,  por  meio  do  Serviço de 
 | Sindicância  Resumo dos fatos  405-00088/2026  Trata-se  de  Sindicância  Sumária,  instaurada  na  DRACO/IE,  objetivando  apurar  ATO  DE  BRAVURA  decorrente  da  ação  policial  que,  no  dia  26/02/2026,  na  cidade  de  Cabo  Frio,  após  utilização  de  dados  de  inteligência  e  informações  policiais,  monitoramento,  bem  como  realização  de  atividades  operacionais  prévias,  resultou,  conforme  Auto  de  Prisão  em  Flagrante  nº  2026.0020464 da DELEPAT - DELEGACIA DE REPRESSÃO A CRIMES CONTRA O PATRIMÔNIO E AO TRÁFICO DE ARMAS da Polícia Federal, na prisão, em flagrante, por crime de  uso  de  documento  falso,  e  por  mandados, por  crimes  de organização  criminosa  e homicídio,  do  criminoso  foragido  A.O.C.F.,  vulgo  'ADILSINHO',  apontado  como  líder  de  uma  or-  ganização  criminosa,  bem  como  na  prisão,  em  flagrante,  por  crime  de  organização  criminosa,  de  D.D.R.L.,  policial  militar  e  segurança  do  também  preso  A.O.C.F.,  vulgo  'ADILSINHO'.   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0031 /U0034
+1 4
 
-/U002D
+-
 
-/U004E
+N
 
-/U0044/U0045
+DE
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0036
+066
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0033/U0039
-
-<!-- image -->
+39
 
 <!-- image -->
 
-/U0044/U004F
+<!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+DO
 
-/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+DO
 
-/U0044/U0045
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+DE
+
+JANEIRO
 
 | Id.  Funcional  Sindicados  5648645  FLÁVIO MARCOS AMARAL DE BRITO  43290310  SÉRGIO SAHIONE FERREIRA  50231405  LEANDRO ARTILES DE FREITAS  43727123  RENATO MARTINS DIAS CARNEIRO  5658640  RICARDO CHACON VEECK  50130676  JEAN MONIZ DA SILVA  5657571  MAURICIO FERREIRA DA SILVA OLIVEIRA  29568420  FRANCISCO ABILIO DIAS MARTINS  5658870  ROBSON FERNANDES GUSMÃO  5710804  JAIR  CORRÊA RIBEIRO  29325633  MARCIO AURELIO SAIBRO  5657393  MARCOS SANTOS PEREIRA DE OLIVEIRA  5655803  LEONARDO DE SOUZA QUEIROZ DA SILVA  50770390  GUSTAVO NAHOUM PINHEIRO  15782174  PEDRO HENRIQUE MAIA DA CUNHA  29313341  CARLOS FREDERICO AZEVEDO DE CASTRO  50795597  ANDRÉA SOUZA DE PAULA  50212630  NAIRO DE SOUZA E SILVA FILHO  5  7  1  0   111  MARCOS DUFRAYER LOPES  29800889  ANTONIO SERGIO GOMES LOPES  43240003  FABRICIO DE ABREU CORREA PARENTE  50331965  ARACELI REMEDY DE ALMEIDA  29839971  MARCELO CORRÊA  5648300  HENRIQUE CESAR FONTES DA SILVA  50092545  RICARDO DE REZENDE HERTER  50817264  DIEGO PEREIRA DE MELO   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7240,17 +7240,17 @@ I  N S  T  R  U  M  E  N  TO  : Termo  de  Contrato  nº  026/2026. PA  R  T  E 
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS SERVIÇO DE PROMOÇÕES
 
@@ -7396,39 +7396,39 @@ DÁ  CIÊNCIA de  que foi  instaurado Processo  Apuratório no  SEI080001/008118
 
 Id:  2728553
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U006F
+o
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0030/U0036/U0036
+066
 
-/U002D
+-
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0031 /U0034
+1 4
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE SAÚDE SUBSECRETARIA DE GESTÃO ESTRATÉGICA ASSESSORIA TÉCNICA DE PROCESSAMENTO DE SANÇÕES DAS OSS
 
@@ -7516,17 +7516,17 @@ Id:  2728407
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE SAÚDE FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO
 
@@ -7697,17 +7697,17 @@ Aline  Cardim  Sueth  -  2004
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 7  -  COLÉGIO  CASTRO  E  SILVA  -  Rio  de  Janeiro ENSINO  MÉDIO NA  MODALIDADE  EDUCAÇÃO  DE JOVENS  E A  D  U  LTO  S Processo  nº  SEI-030001/124033/2025 Marco  Aurélio  da  Silva  -  2005
 
@@ -7785,41 +7785,41 @@ FASE  II  ENSINO  MÉDIO  NA  MODALIDADE EDUCAÇÃO  DE  JOVENS E ADULTOS Proces
 
 Jean  Carlos  Rodrigues  da  Silva  -  2011
 
-/U0041/U004E/U004F
+ANO
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0034/U0033
+43
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0036/U0036
+066
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0031 /U0034
+1 4
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
 8  - COLÉGIO  ESTADUAL PROFESSORA  ORMINDA RODRIGUES  Rio  de  Janeiro FASE  V -  ENSINO FUNDAMENTAL  NA MODALIDADE  EDUCAÇÃO DE JOVENS E ADULTOS Processo  nº  SEI-030001/009254/2026 Claudia  Maria  Freitas  Pereira  -  2009
 
@@ -8208,17 +8208,17 @@ DA , Censo Escolar 33067678 -  torna pública a seguinte listagem de concluintes
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO
 
@@ -8337,17 +8337,17 @@ Id:  2728449
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA
 
@@ -8465,39 +8465,39 @@ CAROLINE NASCIMENTO PARAJARA LIBOTTE
 
 PA  R  T  E  S  :
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0041/U004E/U004F
+ANO
 
-/U006F
+o
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0036
+066
 
-/U002D
+-
 
-/U0049
+I
 
-/U002D
+-
 
-/U0031 /U0034
+1 4
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E I  N  O  VA  Ç  Ã  O FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO HOSPITAL UNIVERSITÁRIO PEDRO ERNESTO
 
@@ -8635,17 +8635,17 @@ NOME:  MRV  MRL  RJ  E GRANDE  RIO  INCORPORAÇÕES  CNPJ: 34.692.778/0001-20  E
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## CESSO Nº: SEI-070007/000774/2023
 
@@ -8863,17 +8863,17 @@ DO ADOLESCENTE DO RIO DE JANEIRO
 
 DIVULGAÇÃO  DO RESULTADO  PRELIMINAR Nº  001/2026. PROCESSO DE SELEÇÃO - COMITÊ DE PARTICIPAÇÃO DE ADOLESCENTES (CPA).
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 <!-- image -->
 
@@ -8987,41 +8987,41 @@ PROCESSO Nº SEI-390002/001300/2025
 
 Id:  2728532
 
-/U0041/U004E/U004F
+ANO
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0034/U0037
+47
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0036/U0036
+066
 
-/U002D
+-
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0031 /U0034
+1 4
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
 são  de  Uso  n.º  180022/0101/2026,  tendo  em  vista  sua  inexecução  total,  nos  termos  da  cláusula  décima  sétima  do  citado  termo.
 
@@ -9033,9 +9033,9 @@ DATA DA ASSINATURA :  13/04/2026.
 
 F  U  N  D  A  M  E  N  TO :  Processo  n°  SEI-180002/000525/2026.
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## Secretaria de Estado de Transformação Digital
 
@@ -9157,21 +9157,21 @@ L  I   C  I  TA  Ç  Ã  O  : Pregão  Eletrônico  nº  010/2026.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 TIPO: Menor  Preço  Unitário.
 
 INICIO DE  ACOLHIMENTO DAS PROPOSTAS: 15/04/2026,  às 09:00 horas.
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 O  B  J  E  TO :  contratação  de  empresa  especializada  no  ramo  de  engenharia,  para  a  execução  dos  serviços  referente  à  reforma  na  Casa  de Cultura de Barra Mansa para  implantação do Centro Cultural Chico Anísio,  localizado  na  Rua  Pinto  Ribeiro,  n°01,  Centro,  no  Município  de Barra Mansa,  conforme condições, quantidades e  exigências estabelecidas  neste  instrumento  e  seus  anexos.'
 

@@ -178,17 +178,17 @@ Ceres Pimenta Diretora Industrial
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Asstec, da Chefia de Gabinete - Chegab, da Secretaria de Estado de Governo.  Processo  nº  SEI-420001/003699/2026.
 
@@ -312,23 +312,23 @@ EXONERAR ,  com  validade  a  contar  de  16  de  abril  de  2026, TAVO ANTUNES 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 51419530/2, do  cargo em  comissão de  Assistente II,  símbolo DAI-6, da Assessoria  Técnica -  Asstec, da  Chefia de  Gabinete -  Chegab, da Secretaria de Estado de Governo. Processo nº SEI420001/003699/2026. EXONERAR ,  com  validade  a  contar  de  16  de  abril  de  2026, GERCIANO DE  LIMA LUZ ,  ID FUNCIONAL Nº  51173921/3, do  cargo em comissão de Ajudante II, símbolo DAI-2, da Assessoria Técnica - Asstec,  da  Chefia  de  Gabinete - Chegab, da Secretaria de Estado de Governo.  Processo  nº  SEI-420001/003699/2026. EXONERAR , com validade  a contar de 16 de abril  de 2026, GLAUCIA AZEVEDO SILVA DE  SOUZA ,  ID  FUNCIONAL  Nº  51738902/1, do  cargo em  comissão de  Ajudante I,  símbolo DAI-1,  da Assessoria Técnica -  Asstec, da Chefia  de Gabinete  Chegab, da  Secretaria de Estado  de  Governo.  Processo  nº  SEI-420001/003699/2026. EXONERAR ,  com validade  a  contar de  16 de  abril  de 2026, HENRIQUE REGIS DE FARIAS ,  ID  FUNCIONAL Nº 19592760/8, do cargo em  comissão  de Ajudante  I,  símbolo  DAI-1,  da Assessoria  Técnica  Asstec,  da  Chefia  de  Gabinete  -  Chegab,  da  Secretaria  de  Estado  de Governo.  Processo  nº  SEI-420001/003699/2026. EXONERAR ,  com  validade  a  contar  de  16  de  abril  de  2026, HEPSON DAVID  FERNANDES MARQUES ,  ID  FUNCIONAL  Nº 51723522/1,  do cargo  em  comissão  de  Ajudante  I,  símbolo  DAI-1,  da  Assessoria  Técnica  Asstec,  da  Chefia de  Gabinete  Chegab,  da  Secretaria de  Estado  de  Governo.  Processo  nº  SEI-420001/003699/2026. EXONERAR ,  com  validade  a  contar  de  16  de  abril  de  2026, K  AY  L  A  N VIEIRA  BARBOSA ,  ID  FUNCIONAL  Nº  51726556/1,  do  cargo  em  comissão  de Assistente  II, símbolo  DAI-6, da  Assessoria Técnica  - Asstec,  da  Chefia  de  Gabinete - Chegab, da Secretaria de Estado de Governo.  Processo  nº  SEI-420001/003699/2026. EXONERAR ,  com validade a contar de 16 de abril de 2026, GISELLA RAMOS KAC ,  ID  FUNCIONAL Nº 50926179/3, do cargo em comissão de  Ajudante I,  símbolo DAI-1,  da Assessoria  Técnica -  Asstec, da Chefia  de  Gabinete  -  Chegab,  da  Secretaria  de  Estado  de  Governo. Processo  nº  SEI-420001/003699/2026. EXONERAR , com validade  a contar de 16 de abril  de 2026, JONATHAN PEREIRA DOS SANTOS FORTES , ID FUNCIONAL Nº 51719380/1, do  cargo em  comissão de  Assistente II,  símbolo DAI-6, da Assessoria  Técnica -  Asstec, da  Chefia de  Gabinete -  Chegab, da Secretaria de Estado de Governo. Processo nº SEI420001/003699/2026. EXONERAR ,  com validade a contar de 16 de abril de 2026, JULIANA DOS SANTOS GABINA ,  ID  FUNCIONAL Nº 51506114/1, do cargo em comissão de Ajudante I, símbolo  DAI-1, da Assessoria Técnica - Asstec,  da  Chefia  de  Gabinete - Chegab, da Secretaria de Estado de Governo.  Processo  nº  SEI-420001/003699/2026. EXONERAR ,  com  validade  a  contar  de  16  de  abril  de  2026, GUSTAVO  MESQUITA PINTO ,  ID FUNCIONAL  Nº 51442337/1,  do cargo em  comissão  de Ajudante  I,  símbolo  DAI-1,  da Assessoria  Técnica  Asstec,  da  Chefia  de  Gabinete  -  Chegab,  da  Secretaria  de  Estado  de Governo.  Processo  nº  SEI-420001/003699/2026. EXONERAR ,  com validade a contar de 16 de abril de 2026, KIMBERLY  NUNES FERREIRA ,  ID  FUNCIONAL  Nº  51726343/1,  do  cargo  em comissão de Assistente II, símbolo  DAI-6, da Assessoria Técnica -Asstec,  da  Chefia  de  Gabinete  -  Chegab,  da  Secretaria  de  Estado  de Governo.  Processo  nº  SEI-420001/003699/2026. EXONERAR ,  com validade  a  contar  de 16  de  abril  de 2026, KARINE MARQUES  FARIA DE  PAULA ,  ID FUNCIONAL  Nº 51706679/1,  do cargo  em comissão  de Assistente  II, símbolo  DAI-6, da  Assessoria Técnica -  Asstec, da Chefia  de Gabinete  Chegab, da  Secretaria de Estado  de  Governo.  Processo  nº  SEI-420001/003699/2026. EXONERAR ,  com  validade  a  contar  de  16  de  abril  de  2026, GILMAR PEDRO DE ANDRADE ,  ID  FUNCIONAL Nº 51672774/1, do cargo em comissão de Ajudante I, símbolo  DAI-1, da Assessoria Técnica - Asstec,  da  Chefia  de  Gabinete - Chegab, da Secretaria de Estado de Governo.  Processo  nº  SEI-420001/003699/2026. EXONERAR ,  com  validade  a  contar  de  16  de  abril  de  2026, GIULLIA OLIVEIRA  PIRES ,  ID FUNCIONAL Nº  51529920/1, do cargo  em comissão de Assistente, símbolo DAS-6, da Superintendência do Programa Rj  Para Todos -  Superj, da Subsecretaria de  Relações Governamentais -  Subrel, da  Secretaria de Estado  de Governo.  Processo nº SEI-420001/003699/2026. EXONERAR , com  validade a contar de  16 de abril de  2026, CARLA CRISTINA  OLIVEIRA  DE  PINHO ,  ID  FUNCIONAL  Nº  51075814/3,  do cargo em  comissão de  Ajudante I,  símbolo DAI-1,  da Superintendência  do  Programa Rj  Para  Todos  -  Superj,  da Subsecretaria  de  Relações  Governamentais  -  Subrel,  da Secretaria  de  Estado  de  Governo. Processo  nº  SEI-420001/003699/2026. EXONERAR ,  com  validade  a  contar  de  16  de  abril  de  2026, PEDRO MORAES  PASCO ,  ID  FUNCIONAL  Nº  51523892/1,  do  cargo  em  comissão de  Ajudante I, símbolo  DAI-1, da Superintendência  do Programa Rj  Para Todos -  Superj, da Subsecretaria de  Relações Governamentais -  Subrel, da  Secretaria de Estado  de Governo.  Processo nº SEI-420001/003699/2026. EXONERAR ,  com  validade a  contar  de  16  de  abril de  2026, ALESSANDRA LIMA  GROSSO , ID  FUNCIONAL Nº 51542765/1,  do cargo em comissão de Assistente,  símbolo DAS-6, da Superintendência do Programa Rj  Para Todos -  Superj, da Subsecretaria de  Relações Governamentais - Subrel, da Secretaria de Estado de Governo. Processo nº  SEI-420001/003699/2026. EXONERAR ,  com validade  a contar  de 16  de abril  de 2026, ANA CLAUDIA  DA SILVA  BARCELLOS ,  ID  FUNCIONAL Nº  51530830/1, do cargo em  comissão de Ajudante I, símbolo  DAI-1, da Superintendência  do  Programa  Rj  Para  Todos  -  Superj,  da  Subsecretaria  de  Relações Governamentais - Subrel, da Secretaria de Estado de Governo. Processo  nº  SEI-420001/003699/2026. EXONERAR ,  com validade a contar de 16 de abril de 2026, MARIANGELA  ABELHA TOMAZ ,  ID  FUNCIONAL Nº  51533073/1, do  cargo em comissão de Assistente,  símbolo DAS-6, da Superintendência do Programa Rj  Para Todos -  Superj, da Subsecretaria de  Relações Governamentais - Subrel, da Secretaria de Estado de Governo. Processo nº  SEI-420001/003699/2026. EXONERAR ,  com validade  a  contar  de 16  de  abril  de 2026, NILSON SIQUEIRA  DE  AGUIAR ,  ID  FUNCIONAL  Nº  5761824/1,  do  cargo  em comissão  de Assistente,  símbolo  DAS-6, da  Superintendência do  Programa Rj Para  Todos - Superj, da Subsecretaria  de Relações Governamentais - Subrel, da Secretaria de Estado de Governo. Processo nº SEI-420001/003699/2026. EXONERAR ,  com  validade  a  contar  de 16  de  abril  de  2026, CACILDA APARECIDA ROSA ,  ID  FUNCIONAL Nº 51590972/1, do cargo em comissão  de Assistente,  símbolo  DAS-6, da  Superintendência do  Programa Rj Para  Todos - Superj, da Subsecretaria  de Relações Governamentais - Subrel, da Secretaria de Estado de Governo. Processo nº SEI-420001/003699/2026. CAMILA , ID FUNCIONAL  Nº 51526182/1, do Superintendên-
 
 EXONERAR ,  com  validade  a  contar  de  16  de  abril  de  2026, LOPES PEREIRA DE OLIVEIRA cargo em  comissão de  Ajudante I,  símbolo DAI-1,  da cia  do  Programa Rj  Para  Todos  -  Superj,  da Subsecretaria  de  Rela-
 
-/U0033
+3
 
 ções  Governamentais  -  Subrel,  da Secretaria  de  Estado  de  Governo. Processo  nº  SEI-420001/003699/2026.
 
@@ -396,16 +396,16 @@ EXONERAR , com  validade a  contar de  16 de  abril de  2026, GABRIEL PIRES GOME
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->

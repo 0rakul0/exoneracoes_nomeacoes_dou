@@ -204,7 +204,7 @@ EXONERAR , com  validade a contar de 23  de março de 2026, GABRIELA  THEODORO  
 
 NOMEAR GUILHERME MENDES CRUZ , ID FUNCIONAL Nº 50326864/1, para  exercer, com validade  a contar de 11  de março de  2026, o  cargo em  comissão  de Assistente II, símbolo  DAI-6, da Coordenadoria de Áreas do Conhecimento, da Superintendência Pedagógica, da Subsecretaria de Gestão de Ensino, da Secretaria  de  Estado  de  Educação,  anteriormente  ocupado  por  THAIS SOUZA PEREIRA, ID Funcional nº 51636808/1. Processo nº SEI-030001/026582/2026.
 
-/U0032
+2
 
 NOMEAR CELIA NAZARETH BRAGA VIRMOND ,  ID  FUNCIONAL Nº 40123642, para exercer, com validade a  contar de 16 de março de 2026, o cargo em comissão de  Assistente II, símbolo DAI-6, da Coordenadoria de  Ensino de  Jovens e  Adultos, da  Superintendência Pedagógica,  da Subsecretaria  de  Gestão de  Ensino,  da Secretaria  de Estado  de Educação,  anteriormente ocupado  por LUCIENE  RANGEL DA SILVA  BARRETO, ID Funcional nº 51480247/1. Processo nº SEI-030001/026582/2026.
 
@@ -242,17 +242,17 @@ Ceres Pimenta Diretora Industrial
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 NOMEAR  RODRIGO RODRIGUES  PEREIRA para  exercer o  cargo em comissão de Ajudante I,  símbolo DAI-1, da Secretaria de Estado de  Transportes  e  Mobilidade  Urbana,  em  vaga  resultante  da  transformação  estabelecida  pelo  Decreto  nº  50.108, de  19  de  janeiro  de 2026.  Processo  nº  SEI-100001/000809/2026.
 
@@ -513,29 +513,29 @@ Id:  2723925
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0044/U0045
+DE
 
-/U0032/U0035
+25
 
-/U002D
+-
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
 ## DEPARTAMENTO DE TRÂNSITO DO ESTADODO RIO DE JANEIRO D  I  R  E  TO  R  I  A  DE  HABILITAÇÃO
 
@@ -573,43 +573,43 @@ PROCESSO Nº SEI-150016/174437/2024 - RENOVO O CREDENCIAMENTO DA EMPRESA CLÍNIC
 
 PROCESSO Nº SEI-150016/180629/2024 - RENOVO O CREDENCIAMENTO DA EMPRESA CENTRO MÉDICO RODOVIÁRIO AREAL LTDA,  registro DH  31104, no  endereço  funcional RUA  DIAS DA  CRUZ, 421  -  SALAS  404  E  406  -  MEIER  -  RIO  DE  JANEIRO/RJ,  PARA  realização  de  Exame  de  Aptidão  Física e  Mental  e  de  Avaliação  Psico-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0034
+4
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0032/U0035
+25
 
-/U002D
+-
 
-/U0030/U0035/U0034
+054
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 lógica para o processo de  habilitação de candidatos e de condutores. A  Renovação  terá  prazo  de  um  (1)  ano.
 
@@ -677,17 +677,17 @@ Gestora Titular: Marcella Andrade Vilar Saá, ID Funcional n° 5154935-2; Gestor
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 Art.  2º -  O  gestor  e  os fiscais  ora  designados  e  previamente  cientificados deverão observar  e cumprir as regras  estabelecidas pelo Decreto Estadual nº 48.817/2023, de 24  de novembro de 2023, que regulamenta a gestão e a  fiscalização das contratações no âmbito do Poder  Executivo  do  Estado  do  Rio  de  Janeiro.
 
@@ -945,17 +945,17 @@ Id:  2723948
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 4385058-8, no período de 06.04.2026 a 05.06.2026. AUTORIZO o gozo  da  Licença  Prêmio.
 
@@ -1013,19 +1013,19 @@ Superintendente  de  Fiscalização  e  Inteligência  Fiscal
 
 Id:  2723939
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0032/U0035
+25
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE FAZENDA SUBSECRETARIA DE ESTADO DE RECEITA SUPERINTENDÊNCIA DE FISCALIZAÇÃO E  INTELIGÊNCIA FISCAL
 
@@ -1107,11 +1107,11 @@ Superintendente  de  Fiscalização  e  Inteligência  Fiscal
 
 Id:  2723941
 
-/U0035
+5
 
 <!-- image -->
 
-/U0036
+6
 
 ## R  E  S  O  LV  E  :
 
@@ -1195,17 +1195,17 @@ Art.  2º  Declarar a  inidoneidade dos documentos fiscais emitidos, desde  a  d
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 tentor da inscrição estadual n.º 14.289.798, com apoio no art. 24, XVI, do  livro  VI,  do  Decreto  n.º  27.427,  de  17  de  novembro  de  2000.
 
@@ -1464,17 +1464,17 @@ Id:  2723934
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 PORTARIA SEFAZ/CTCE Nº 1.109 DE 24 DE MARÇO DE 2026
 
@@ -1615,7 +1615,7 @@ PORTARIA JUCERJA N° 2403 DE 23 DE MARÇO DE 2026 DELEGA  COMPETÊNCIA  PARA  A 
 - I  autorizar  a  abertura  de procedimentos  licitatórios,  aprovar  os  respectivos resultados, homologar e  adjudicar os objetos do certame, bem como anulá-las  e  revogá-las;
 - II  assinar  contratos  decorrentes  de  procedimentos  licitatórios  ou  não, e  autorizar  reajustamentos  previstos  em  leis  e  regulamentos;
 
-/U0038
+8
 
 III  dispensar  licitações  ou  reconhecer  sua  inexigibilidade;
 
@@ -1705,17 +1705,17 @@ Id:  2723492
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
 ## JUNTA COMERCIAL DO ESTADO DO RIO DE JANEIRO
 
@@ -2047,39 +2047,39 @@ NOMEIA ,  CEL  PM  RG  63411 -DANIELE  EZEQUIEL  FARIAS  DA S  I  L VA -  ID.  F
 
 Id:  2721935
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0035/U0034
+054
 
-/U0049
+I
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0035
+25
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -2157,7 +2157,7 @@ Id:  2721944
 
 NOMEIA, TEN CEL PM RG 58816 MICHEL PEREIRA VIANNA -  ID. Funcional  21793557, no  cargo  em comissão  de Comandante,  símbolo DAS-6, do  22º Batalhão de Polícia  Militar (22° BPM), do  1° Comando de  Policiamento  de  área,  da  Subsecretaria  de  Gestão  Operacional,  da Subsecretaria  Geral  de  Polícia  Militar,  da  Secretaria  de  Estado  de  Po-
 
-/U0039
+9
 
 <!-- image -->
 
@@ -2239,17 +2239,17 @@ Id:  2721954
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR ATO DO SECRETÁRIO
 
@@ -2477,17 +2477,17 @@ Id:  2721981
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -2561,39 +2561,39 @@ NOMEIA , MAJ  PM RG 80959  THYAGO  FERREIRA  VIEIRA -  ID. Funcional 41893450,  
 
 Id:  2721990
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0035/U0034
+054
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0035
+25
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -2751,17 +2751,17 @@ Id:  2722980
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR ATO DO SECRETÁRIO
 
@@ -2983,17 +2983,17 @@ PROCESSO Nº SEI-350192/000362/2021 -A  U  TO  R  I  Z  O a  despesa  em favor  
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 Inexigibilidade de  Licitação, conforme  caput do art.  25, da  Lei nº 8.666/93.
 
@@ -3065,25 +3065,25 @@ III  providenciar  a  substituição  imediata  de  servidor  designado  que  se
 
 É de  responsabilidade da comissão de fiscalização verificar
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0030/U0035/U0034
+054
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U006F
+o
 
 se  as  notas  fiscais  estão  sendo inseridas  e  tramitadas  no  endereço eletrônico  sisnota.pmerj.rj.gov.br, conforme  publicação em  BOL PM  nº 213, de 19 de novembro de 2015, págs. 70 a 79, bem como fiscalizar o  fiel  cumprimento  da  confecção  dos  processos  de  liquidação.
 
@@ -3205,17 +3205,17 @@ Art.  1º -  Fica designado  o  servidor 3°  SGT PM  RG 94.772  HIGOR LUIZ DA S
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 I  a  atestação das  notas fiscais  relativas ao  contrato, por  dois servidores  membros  da  comissão;
 
@@ -3370,17 +3370,17 @@ Início:  08h Término:  09h
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 1.  Ref.:  SEI-350005/011972/2024  e  SEI-350005/001990/2026
 2.  PARTES INTERESSADAS: Secretaria de Estado de Polícia Militar SEPM, neste  ato,  representada pela  Comissão de  Credenciamento da Diretoria de Transporte e a empresa PNEUS 56 DE RESENDE LTDA -  CNPJ 03.042.152/0001-  45, para  o credenciamento  de serviços especializados de manutenção preventiva  e corretiva de veículos automotores,  por  demanda,  com  fornecimento  e  aplicação  de  peças  originais  ou  genuínas.
@@ -3429,7 +3429,7 @@ Id:  2723638
 
 <!-- image -->
 
-/U0031/U0036
+16
 
 ## Secretaria de Estado de Polícia Civil
 
@@ -3523,17 +3523,17 @@ Id:  2723578
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL
 
@@ -3699,17 +3699,17 @@ PROCESSO Nº SEI-360008/000329/2026 -  LUIZ  CARLOS  MACHADO FERREIRA,  Oficial 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 2.269 dias prestados em atividades vinculadas ao regime da Previdência Social, através  do Processo nº E-09/1830/1243/2012,  face o extravio  do  processo  original.
 
@@ -3723,19 +3723,19 @@ PROCESSO Nº SEI-360009/007175/2025 -  LEONARDO  DA  SILVA DANTAS, Oficial  de P
 
 Id:  2723737
 
-/U002D
+-
 
-/U0049
+I
 
-/U0032/U0035
+25
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL DEPARTAMENTO-GERAL DE CONTRATAÇÕES E CONVÊNIOS
 
@@ -3906,17 +3906,17 @@ Id:  2723254
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO DIRETORIA-GERAL DE ODONTOLOGIA
 
@@ -4046,17 +4046,17 @@ Id:  2723898
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## ANEXO ÚNICO
 
@@ -4065,108 +4065,108 @@ Id:  2723898
 | Relação  de  medicamentos  e  soluções  hospitalares  padronizados  no  âmbito  da  SES/RJ  Denominação Comum Brasileira  Concentração/Forma Farmacêutica  1  Acetato  de  betametasona  +  fosfato  dissódico  de  betametasona  3  mg/mL  +  3  mg/mL  -  frasco  ampola  2  Acetato  de  fludrocortisona  0,1  mg  -  comprimido  3  Acetato  de  octreotida  0,1  mg/mL  -  solução  injetável  -  1  mL  -  ampola  4  Acetato  de  retinol  +  Aminoácidos  +  Metionina  +  Cloranfenicol  10.000  UI/g  +  25  mg/g  +  5  mg/g  +  5  mg/g  -  pomada  oftálmica  estéril  -  3,5  g  5  Acetazolamida  250  mg  -  comprimido  6  Aciclovir  200  mg  -  comprimido  7  Aciclovir  250  mg  -  pó  para  solução  injetável  -  frasco  ampola  8  Aciclovir  250  mg  -  cápsula  ou  comprimido  9  Aciclovir  50  mg/g  -  10  g  -  creme  bisnaga  10  Ácido  Acetilsalicílico  100  mg  -  comprimido  11  Ácido  ascórbico  (vitamina  C)  200  mg/mL  -  solução  oral  -  20  mL  (gotas)  -  frasco  12  Ácido  ascórbico  (vitamina  C)  100  mg/mL  -  solução  injetável  -  5  mL  -  ampola  13  Ácido  ascórbico  (vitamina  C)  500  mg  -  comprimido  14  Ácido  fólico  0,2  mg/mL  -  solução  oral  30  mL  -  frasco  15  Ácido  fólico  5  mg  -  comprimido  ou  comprimido  revestido  16  Ácido  peracético  0,2%  solução  +  fita  reagente  -  5.000  mL  -  galão  17  Ácido  poliacrílico  2  mg/g  -  gel  oftalmológico  estéril  -  10  g  18  Ácido  retinóico  (Tretinoína)  10  mg  -  cápsula  19  Ácido  tranexâmico  250  mg  -  comprimido  20  Ácido  tranexâmico  50  mg/mL  solução  injetável  -  5  mL  -  ampola  21  Ácido  ursodesoxicólico  150  mg  -  comprimido  22  Ácido  ursodesoxicólico  50  mg  -  comprimido  23  Ácido  zoledrônico  4  mg/5  mL  -  solução  concentrada  -  frasco  ampola  24  Ácidos  graxos  essenciais  +  Vitamina  A  +  Vitamina  E  +  Lecitina  de  soja  -  para  utilização  em  peles  íntegras  e  lesionadas  100  mL  loção  -  frasco  25  Ácidos  graxos  essenciais  +  Vitamina  A  +  Vitamina  E  +  Lecitina  de  soja  -  para  utilização  em  peles  íntegras  e  lesionadas  200  mL  loção  -  frasco  26  Ácidos  hialurônicos  reticulados  20  mg/mL  -  2  mL  -  seringa  preenchida  27  Adenosina,  Fosfato  3  mg/mL  -  2  mL  -  ampola  28  Água destilada  estéril  e  apirogênica  10  mL  -  ampola  29  Água destilada  estéril  e  apirogênica  100  mL  -  sistema  fechado  -  frasco  30  Água destilada  estéril  e  apirogênica  250  mL  -  sistema  fechado  -  frasco  31  Água destilada  estéril  e  apirogênica  500  mL  -  sistema  fechado  -  frasco  32  Água destilada  estéril  e  apirogênica  1.000  mL  -  sistema  fechado  -  frasco  33  Água oxigenada  10  volumes  -  1.000  mL  -  frasco  34  Alanilglutamina  200  mg/mL  -  solução  injetável  -  100  mL  -  frasco  ampola  35  Albendazol  400  mg  -  comprimido  mastigável  36  Albumina  humana  20% -  50  mL  -  frasco  ampola  37  Álcool  Etílico  70% para superfícies  fixas  -  1.000  mL  -  frasco  38  Álcool  Etílico  70% para antissepsia  de  pele  -  almotolia  100  mL  -  frasco  39  Álcool  Etílico  70% -  500  mL  -  gel  -  frasco  40  Alendronato  de  sódio  70  mg  -  comprimido  41  Alfaepoetina  4.000  UI  -  frasco  ampola  42  Alfaporactanto  80  mg/mL  -  1,5  mL  -  frasco  ampola  43  Alfaporactanto  80  mg/mL  -  3  mL  -  frasco  ampola  44  Alfentanila,  Cloridrato  0,5  mg/mL  -  solução  injetável  -  5  mL  -  ampola  45  Alopurinol  100  mg  -  comprimido  46  Alprazolam  1  mg  -  comprimido  47  Alprazolam  2  mg  -  comprimido  48  Alprostadil  alfaciclodextrina  20  mcg  -  frasco  ampola  49  Alprostadila  500  mcg/mL  -  1  mL  ampola  50  Alteplase  50  mg  -  frasco  ampola  51  Alteplase  10  mg  -  frasco  ampola  52  Ambroxol,  Cloridrato  30  mg/5  mL  xarope  -  100  mL  -  frasco  53  Ambroxol,  Cloridrato  30  mg/5  mL  xarope  -  120  mL  -  frasco  54  Amicacina,  Sulfato  100  mg/mL  -  solução  injetável  -  2  mL  -  ampola  55  Amicacina,  Sulfato  250  mg/mL  -  solução  injetável  -  2  mL  -  ampola  56  Aminofilina  100  mg  -  comprimido  57  Aminofilina  24  mg/mL  -  solução  injetável  -  10  mL  -ampola  58  Amiodarona,  Cloridrato  200  mg  -  comprimido  59  Amiodarona,  Cloridrato  50  mg/  mL  solução  injetável  -  3  mL  -  ampola  60  Amitriptilina,  Cloridrato  25  mg  -  comprimido  revestido  61  Amoxacilina  500  mg  -  cápsula  62  Amoxacilina  50  mg/mL  pó  para  suspensão  oral  -  150  mL  após  reconstituição,  frasco  63  Amoxacilina  50  mg/mL  pó  para  suspensão  oral  -  250  mL  após  reconstituição,  frasco  64  Amoxacilina  +  Clavulanato  de  potássio  1  g  +  200  mg  -  pó  para  solução  injetável  -  frasco  ampola  65  Amoxacilina  +  Clavulanato  de  potássio  50  mg/mL  +  12,5  mg/mL  pó  para  suspensão  oral  -  75  a  100  mL  após  reconstituição  -  frasco  66  Amoxacilina  +  Clavulanato  de  potássio  500  mg  +  125  mg  -  comprimido  revestido  67  Ampicilina  500  mg  -  frasco  ampola  68  Ampicilina  500  mg  -  comprimido  69  Ampicilina  1.000  mg  -  frasco  ampola  70  Ampicilina  sódica  +  sulbactam  sódico  1  g  +  0,5  g  -  frasco  ampola  71  Ampicilina  sódica  +  sulbactam  sódico  2  g  +  1  g  -  frasco  ampola  72  Anagrelida  0,5  mg  -  cápsula  73  Anfotericina  B  complexo  lipídico  50  mg  (5  mg/mL)  -  frasco  ampola  74  Anfotericina  B  desoxicolato  50  mg  -  frasco  ampola  75  Anlodipino,  Besilato  5  mg  -  comprimido  76  Asparaginase  10.000  UI  -  frasco  77  Atenolol  50  mg  -  comprimido  78  Atenolol  25  mg  -  comprimido  79  Atorvastatina  cálcica  20  mg  -  comprimido  80  Atropina,  Sulfato  10  mg/mL  -  solução  oftálmica  -  5  mL  -  frasco  81  Atropina,  Sulfato  0,5%  -  solução  oftálmica  -  5  mL  -  frasco  82  Atropina,  Sulfato  0,25  mg/mL  -  1  mL  -  ampola  83  Azacitidina  100  mg  -  frasco  ampola  84  Azitromicina  40  mg/mL  -  pó  para  suspensão  oral  -  15  mL  -  frasco  85  Azitromicina  900  mg  -  suspensão  oral  -  frasco  86  Azitromicina  500  mg  -  comprimido  revestido  87  Azitromicina  500  mg  -  frasco  ampola  88  Aztreonam  1g  -  solução  injetável  -  frasco  ampola  89  Azul  de  metileno  1  %  -  5  mL  -  ampola  90  Azul  de  metileno  2  %  -  5  mL  -  ampola  91  Azul  de  tripan  0,1%  -  1  mL  -  ampola  92  Baclofeno  10  mg  -  comprimido  93  Bamifilina,  Cloridrato  300  mg  -  drágea  94  Basiliximabe  20  mg  -  frasco  95  Beclometasona,  dipropionato  400  mcg  -  suspensão  para  inalação  -  flaconete  96  Beclometasona,  dipropionato  250  mcg/dose,  solução  aerossol  -  200  doses  -  spray  oral  -  frasco  97  Beclometasona,  dipropionato  50  mcg/dose  -  spray  nasal  -  frasco  98  Benzilpenicilina  Benzatina  600.000  UI  +  diluente  -  frasco  ampola  99  Benzilpenicilina  Benzatina  1.200.000  UI  +  diluente  -  frasco  ampola  100  Benzilpenicilina  Potássica  5.000.000  UI  -  frasco  ampola  101  Benzilpenicilina  Procaína  +  Benzilpenicilina  Potássica  300.000  UI  +  100.000  UI  -  frasco  ampola  102  Benzocaína  200  mg/g  -  12  g  -  pote  103  Beractanto  25  mg/mL  -  4  mL  -  frasco  ampola  104  Beractanto  25  mg/mL  -  8  mL  -  frasco  ampola  105  Besilato  de  atracúrio  10  mg/mL  -  2,5  mL  -  ampola  106  Besilato  de  atracúrio  10  mg/mL  -  5  mL  -  ampola  107  Besilato  de  cisatracúrio  10  mg/5  mL  -  ampola  108  Bicarbonato  de  sódio  8,4%  -  10  mL  -  ampola  109  Bicarbonato  de  sódio  8,4%  -  solução  injetável  -  250  mL  -  sistema  fechado  -  frasco  11  0  Biperideno,  Cloridrato  2  mg  -  comprimido  111  Biperideno,  Lactato  5  mg/mL  solução  injetável  -  1  mL  -  ampola  11  2  Bisacodil  5  mg  -  comprimido  revestido  ou  comprimido  revestido  de  liberação  retardada  11  3  Bisoprolol  1,25  mg  -  comprimido  revestido  11  4  Bisoprolol  5  mg  -  comprimido  revestido  11  5  Bleomicina  sulfato  15  UI  -  frasco  ampola   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0032/U0035
+25
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0034
+054
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0031 /U0039
-
-<!-- image -->
+1 9
 
 <!-- image -->
 
-/U0044/U004F
+<!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+DO
 
-/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+DO
 
-/U0044/U0045
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+DE
+
+JANEIRO
 
 | 11  6  BOLSA DE NUTRIÇÃO PARENTERAL TRILAMINAR (3X1). COMPOSIÇÃO: AMINOÁCIDOS + EMULSÃO LIPÍDICA  TCL/TCM + CARBOIDRATOS. CARACTERÍSTICAS ADICIONAIS: 0,8 - 1,2 KCAL/ML; VOLUME TOTAL 1.000 - 1.300 ML;  CALORIAS (NÃO PROTEICA)/NITROGENIO 120-200:1 (POLIAMINOÁCIDOS + POLIMINERAIS + GLICOSE)  1.000  mL  -  1.300  mL  -  Bolsa  11  7  BOLSA DE NUTRIÇÃO PARENTERAL TRILAMINAR (3X1). COMPOSIÇÃO: AMINOÁCIDOS + EMULSÃO LIPÍDICA  TCL/TCM + CARBOIDRATOS. CARACTERÍSTICAS ADICIONAIS: 0,8 - 1,2 KCAL/ML; VOLUME TOTAL 1.800 - 2.100 ML;  CALORIAS (NÃO PROTEICA)/NITROGENIO 120-200:1 (POLIAMINOÁCIDOS + POLIMINERAIS + GLICOSE)  1.800  mL  -  2.100  mL  -  Bolsa  11  8  Bortezonibe  3,5  mg  -  frasco  ampola  11  9  Brentuximabe  50  mg  -  frasco  ampola  120  Bromexina  8  mg/5mL  -  xarope  -120  mL  -  frasco  121  Bromoprida  10  mg  -  comprimido  ou  cápsula  122  Bromoprida  4  mg/  mL  solução  oral  -  20  mL  (gotas)  -  frasco  123  Bromoprida  5  mg/mL  -  2  mL  -  ampola  124  Budesonida  0,25  mg/mL  -  suspensão  para  nebulização  -  2  mL  -  frasco  125  Budesonida  0,5  mg/mL  -  suspensão  nebulização  126  Budesonida  32  mcg/dose  -  spray  (120  doses)  127  Bupivacaína,  Cloridrato  0,5%  -  4  mL  -  frasco  ampola  128  Bupivacaína,  Cloridrato  0,5%  -  20  mL  -  frasco  ampola  129  Bupivacaína,  Cloridrato  +  cloreto  de  sódio  (Isobárica)  0,5%  -  4  mL  -  frasco  ampola  130  Bupivacaína,  Cloridrato  +  glicose  (Hiperbárica)  0,5%  -  4  mL  -  frasco  ampola  131  Bupropiona,  Cloridrato  150  mg  -  comprimido  revestido  de  liberação  lenta  132  Butilbrometo  de  Escopolamina  +  Dipirona  sódica  4  mg/mL  +  500  mg/mL  -  5  mL  -  ampola  133  Cabergolina  0,5  mg  -  comprimido  134  Cafeína  citrato  10  mg/mL  -  1  mL  -  ampola  135  Cafeína  citrato  20  mg/mL  -  1  mL  -  ampola  136  Cal  sodada  4,3  a  5  Kg  -  galão  137  Cálcio,  Carbonato  500  mg  -  comprimido  138  Cálcio,  Carbonato  100  mg/mL  -  200  mL  -  frasco  139  Calcitriol  0,25  mcg  -  cápsula  140  Captopril  25  mg  -  comprimido  141  Captopril  12,5  mg  -  comprimido  142  Captopril  50  mg  -  comprimido  143  Carbamazepina  200  mg  -  comprimido  144  Carbonato  de  cálcio  +  colecalciferol  1.250  mg  (500  mg  de  cálcio)  +  5  mcg  (200  UI)  -  comprimido  revestido  145  Carbonato  de  cálcio  +  colecalciferol  1.500  mg  (600  mg  de  cálcio)  +  400  UI  -  comprimido  revestido  146  Carboplatina  150  mg/15  mL  -  frasco  ampola  147  Carboplatina  450  mg/45  mL  -  frasco  ampola  148  Carmustina  100  mg  -  frasco  ampola  149  Carvão  Ativado  10  g  -  envelope  150  Carvão  Ativado  250  mg  -  comprimido  151  Carvedilol  12,5  mg  -  comprimido  152  Carvedilol  3,125  mg  -  comprimido  153  Caspofungina  50  mg  -  solução  injetável  -  frasco  ampola  154  Caspofungina  70  mg  -  solução  injetável  -  frasco  ampola  155  Cefalexina  50  mg/mL  -  pó  para  suspensão  oral  -  60  mL  após  reconstituição  -  frasco  156  Cefalexina  50  mg/mL  -  suspensão  100  mL  157  Cefalexina  500  mg  -  comprimido  ou  cápsula  158  Cefalotina  sódica  1  g  -  frasco  ampola  159  Cefazolina  sódica  1  g  -  pó  para  solução  injetável  -  frasco  ampola  160  Cefepima  1  g  -  frasco  ampola  161  Ceftazidima  1  g  -  pó  liofilo  para  solução  injetável  -  frasco  ampola  162  Ceftazidima  +  Avibactam  2  g  +  500  mg,  pó  para  solução  injetável  -  frasco  ampola  163  Ceftriaxona  sódica  1  g  pó  para  solução  injetável  -  frasco  ampola  164  Cefuroxima  750  mg  -  frasco  ampola  165  Cefuroxima  250  mg  -  comprimido  revestido  166  Cetoconazol  20  mg/g  -  tubo  30  g  167  Cetoconazol  +  Betametasona  20  mg/g  +  0,5  mg/g  -  creme  -  30  g  168  Cetoconazol  +  Dipropionato  de  betametasona  +  Sulfato  de  neomicina  20  mg/g  +  0,5  mg/g  +  2,5  mg/g  -  creme  169  Cetoprofeno  50  mg  -  cápsula  170  Cetoprofeno  (EV)  100  mg  pó  para  solução  injetável  -  frasco-ampola  171  Cetoprofeno  (IM)  50  mg/mL  solução  injetável  -  2  mL  -  ampola  172  Cianocobalamina  (Vitamina  B12)  5.000  mcg/2  mL  solução  injetável  -  2  mL  -  ampola  173  Ciclofosfamida  1  g  -  (pó  extemporâneo)  -  frasco  ampola  174  Ciclofosfamida  50  mg  -  comprimido  revestido  de  liberação  retardada  ou  drágea  175  Ciclofosfamida  200  mg  -  frasco  ampola  176  Ciclosporina  100  mg/mL  -  solução  oral  -  50  mL  -  frasco  177  Cilostazol  50  mg  -  comprimido  178  Cilostazol  100  mg  -  comprimido  179  Ciprofloxacino,  Cloridrato  2  mg/mL  solução  injetável  sistema  fechado  para  infusão  venosa  -  100  mL  -  frasco  ou  bolsa  180  Ciprofloxacino,  Cloridrato  500  mg  -  comprimido  revestido  181  Ciprofloxacino,  Cloridrato  3,5  mg/mL  solução  oftálmica  -  5  mL  -  frasco  182  Ciproterona  acetato  +  etinilestradiol  2  mg  +  0,035  mg  -  comprimido  183  Ciproterona,  Acetato  50  mg  -  comprimido  184  Cisatracúrio  2  mg/mL  -  5  mL  -  ampola  185  Cisatracúrio  2  mg/mL  -  10  mL  -  ampola  186  Cisplatina  50  mg  -  50  mL  -  frasco  ampola  187  Cisplatina  1  mg/mL  -  ampola  188  Citalopram  20  mg  -  comprimido  revestido  189  Citarabina  100  mg/mL  -  5  mL  -  frasco  ampola  190  Citarabina  1  g  -  frasco  ampola  191  Cladribina  8  mg  (1  mg/mL)  -  8  mL  -  frasco  ampola  192  Claritromicina  500  mg  -  IV  -  frasco  ampola  193  Claritromicina  500  mg  -  comprimido  revestido  194  Claritromicina  250  mg/5  mL  -  pó  para  suspensão  oral  -  60  mL  -  frasco  195  Clindamicina,  Cloridrato  300  mg  -  cápsula  196  Clindamicina,  Fosfato  150  mg/mL  -  4  mL  -  ampola  197  Clobazam  10  mg  -  comprimido  198  Clonazepam  0,5  mg  -  comprimido  199  Clonazepam  2  mg  -  comprimido  200  Clonazepam  2,5  mg/mL  -  solução  oral  -  frasco  201  Clonidina  0,1  mg  -  comprimido  202  Clonidina  150  mcg/mL  -  ampola  203  Clopidogrel  75  mg  -  comprimido  revestido  204  Clorambucila  2  mg  -  comprimido  205  Cloranfenicol  1  g  -  pó  liófilo  para  solução  injetável  -  frasco  ampola  206  Cloranfenicol  +  colagenase  10  mg/g  +  0,6  UI/g  -  30  g  -  pomada  207  Cloreto  de  didecildimetilamônio  +  cloridrato  de  polihexametileno  biguanida  750  mL  -  frasco  208  Cloreto  de  Sódio,  gliconato  sódio,  acetato  sodio,  cloreto  de  potássio,  cloreto  de  magnésio  5,26  +  5,02  +  3,68  +  0,37  +  0,30  mg/mL  -  500  mL  -  bolsa  209  Clorexidina,  Digluconato  0,12%  solução  enxaguatória  bucal  -  250  mL  -  frasco  210  Clorexidina,  Gluconato  0,5%  solução  alcoólica  -  almotolia  100  mL  -  frasco  2  11  Clorexidina,  Gluconato  1% solução  aquosa  -  almotolia  100  mL  -  frasco  212  Clorexidina,  Gluconato  4% solução  degermante  -  almotolia  100  mL  -  frasco  213  Clorexidina,  Gluconato  2% solução  degermante  -  almotolia  100  mL  -  frasco  214  Clorpromazina  100  mg  -  comprimido  revestido  215  Clorpromazina  25  mg  -  comprimido  revestido  216  Clorpromazina  5  mg/  mL  solução  injetável  -  5  mL  -  ampola  217  Clorpromazina  40  mg/mL  -  solução  oral  -  20  mL  -  frasco  218  Clotrimazol  1% creme - 20g a  30  g  -  bisnaga  219  Codeína  30  mg  -  comprimido  220  Codeína  60  mg  -  comprimido  221  Codeína  3  mg/mL  -  120  mL  -  frasco  222  Cola  cirurgica  2  mg  (N-butil-2-  cianoacrilato  +  metacrilosisolfolano)  1  mL  -  frasco  ampola  223  Colagenase  1,2  UI/g  -  bisnaga  224  Colagenase  0,6  UI/  g,  pomada  30  g  -  bisnaga  225  Colchicina  0,5  mg  -  comprimido  226  Colecalciferol  200  UI/gota  -  10  mL  -  frasco  227  Colecalciferol  50.000  UI  -  comprimido  228  Colecalciferol  7.000  UI  -  comprimido  229  Colistimetato  de  sódio  1.000.000  UI  -  frasco  ampola  230  Colistimetato  de  sódio  2.000.000  UI  -  frasco  ampola  231  Complexo de Protombinico  (fatores  II,  VII,  IX  e  X  de  coagulação)  500  UI  -  20  mL  -  frasco  ampola  232  Contraste  a  base  de  gadolínio  (Gadobutrol)  1,1  mmoL/mL  7,5  -  15  mL  -  frasco  233  Contraste  a  base  de  gadolínio  (Gadoxetato  -  meio  de  contraste  específico  IRM  fígado)  0,25  mmoL/mL  -  10  mL  -  frasco   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 234  Contraste  a  base  de  gadolínio  +  meglumina  macrociclico  0,5  -  1,0  moL  (469  mg/mL)  -  7,5  mL  -  15mL  -  frasco  235  Contrastes  não  ionicos  Iodo  300  a  320  mg/mL  -  500  mL  -  frasco  236  Contrastes  não  ionicos  Iodo  300  a  350  mg/mL  -  50  mL  -  frasco  237  Contrastes  não  ionicos  Iodo  350  a  370  mg/mL  -  100  mL  -  frasco  238  Contrastes  sulfato  de  bário  1  g/mL  -  150  mL  -  frasco  239  Dacarbazina  200  mg  -  frasco  ampola  240  Dantroleno  sódico  20  mg  -  frasco  ampola  (Kit  com  12  frascos  c/  diluente)  241  Daptomicina  500  mg  -  frasco  ampola  242  Dasatinibe  100  mg  -  comprimido  revestido  243  Dasatinibe  20  mg  -  comprimido  revestido  244  Daunorrubicina  20  mg  -  frasco  ampola  245  Denosumabe  60  mg/mL  -  seringa  preenchida  246  Deslanosídeo  0,2  mg/mL  -  2  m  -  ampola  247  Desmopressina,  Acetato  4  mcg/mL  -  solução  injetável  -  1  mL  -  ampola  248  Desmopressina,  Acetato  0,1  mg/mL  -  2,5  mL  -  spray  nasal  249  Desmopressina,  Acetato  0,1  mg  -  comprimido  250  Desmopressina,  Acetato  10  mcg/dose  -  solução  intranasal  -  frasco  251  Desvenlafaxina  50  mg  -  comprimido  252  Detergente  desincrustante  enzimático  (amilase,  lipase,  protease,  carbohidrase)  1.000  mL  -  frasco  253  Dexametasona  0,1%  creme  -10  g  creme  -  bisnaga  254  Dexametasona  4  mg  -  comprimido  255  Dexametasona  0,1%  -  solução  oftálmica  -  5  mL  -  frasco  256  Dexametasona  0,1  mg/mL  -  elixir  -  100  mL  -  frasco  257  Dexametasona,  Fosfato  Dissódico  4  mg/mL  -  solução  injetável  -  2,5  mL  -  frasco  ampola  258  Dexclorfeniramina,  Maleato  2  mg  -  comprimido  259  Dexclorfeniramina,  Maleato  2  mg/  5  mL  solução  oral  -  120  mL  -  frasco  260  Dexmedetomidina  100  mcg/mL  -  frasco  ampola  261  Dextrano  70  +  Hipromelose  0,1%  +  0,3%  solução  oftálmica  -  15  mL  -  frasco  262  Diazepam  5  mg  -  comprimido  263  Diazepam  10  mg  -  comprimido  264  Diazepam  5  mg/mL  -  solução  injetável  -  1  mL  -  ampola  265  Diazepam  5  mg/mL  -  solução  injetável  -  2  mL  -  ampola  266  Diclofenaco  de  potássio  50  mg  -  comprimido  revestido  267  Diclofenaco  de  sódio  25  mg/  mL  solução  injetável  -  3  mL  -  ampola  268  Difenidramina,  Cloridrato  50  mg/mL  -  1  mL  -  ampola  269  Digoxina  0,05  mg/mL  -  elixir  pediátrico  -  60  mL  -  frasco  270  Digoxina  0,25  mg  -  comprimido  271  Diltiazem,  Cloridrato  30  mg  -  comprimido  272  Dimenidrinato  +  piridoxina  50  mg  +  10  mg  -  comprimido  273  Dimeticona  (Simeticona)  40  mg  -  comprimido  274  Dimeticona  (Simeticona)  75  mg/mL  -  emulsão  oral  -  10  mL  -  frasco  275  Diosmina  +  hesperidina  450  mg  +  50  mg  -  comprimido  276  Dipirona  sódica  500  mg/mL  -  solução  injetável  -  2  mL  -  ampola  277  Dipirona  sódica  500  mg/mL  solução  oral  -  10  mL  (gotas)  -  frasco  278  Dipirona  sódica  500  mg  -  comprimido  279  Dipirona  sódica  50  mg/mL  -  gotas  -  20  mL  -  frasco  280  Dipropionato  de  beclometasona  +  fumarato  de  formoterol  +  brometo  de  glicopirrônio  (100  mcg  +  6  mcg  +12,5  mcg)/dose,  solução  aerossol  -  frasco  281  Dobutamina,  Cloridrato  12,5  mg/mL  -  20  mL  -  ampola  282  Docetaxel  20  mg  -  frasco  ampola  283  Docetaxel  80  mg  -  frasco  ampola  284  Domperidona  10  mg  -  comprimido  285  Domperidona  1  mg/mL  -  100  mL  -  suspensão  oral  -  frasco  286  Dopamina,  Cloridrato  5  mg/mL  -  solução  injetável  -  10  mL  -  ampola  287  Doxiciclina  100  mg  -  comprimido  solúvel  288  Doxorrubicina  50  mg  -  frasco  ampola  289  Doxorrubicina  10  mg  -  frasco  ampola  290  Droperidol  2,5  mg/mL  -  1  mL  -  ampola  291  Duloxetina,  Cloridrato  30  mg  -  cápsula  292  Empagliflozina  10  mg  -  comprimido  293  Empagliflozina  25  mg  -  comprimido  294  Enalapril,  Maleato  10  mg  -  comprimido  295  Enalapril,  Maleato  5  mg  -  comprimido  296  Enoxaparina  80  mg  injetável  seringa  preenchida  -  seringa  297  Enoxaparina  60  mg  injetável  seringa  preenchida  -  seringa  298  Enoxaparina  40  mg  injetável  seringa  preenchida  -  seringa  299  Enoxaparina  20  mg  injetável  seringa  preenchida  -  seringa  300  Epinefrina  1  mg/mL  solução  injetável  -  1  mL  -  ampola  301  Ertapenem  sódico  1.000  mg  -  frasco  ampola  302  Escetamina  50  mg/mL  -  10  mL  -  frasco  ampola  303  Escetamina  50  mg/mL  -  2  mL  -  ampola  304  Escina  +  salicilato  de  dimetilamônio  10  mg/g  +  50  mg/g  -  gel  -  30  g  -  bisnaga  305  Escitalopram,  Oxalato  10  mg  -  comprimido  306  Escopolamina,  Butilbrometo  20  mg/mL  -  solução  injetável  -  1  mL  -  ampola  307  Escopolamina,  Butilbrometo  10  mg/mL  -  solução  oral  -  20  mL  (gotas)  -  frasco  308  Escopolamina,  Butilbrometo  10  mg  -  comprimido  revestido  ou  drágea  309  Esmolol  10  mg/mL  -  solução  injetável  -  10  mL  -  frasco  ampola  310  Esomeprazol  20  mg  -  cápsula  3  11  Espironolactona  25  mg  -  comprimido  312  Espironolactona  100  mg  -  comprimido  313  Esteres  etílicos  dos  ácidos  graxos  do  óleo  de  papoula  iodado  480  mg/mL  -  10  mL  -  frasco  314  Estradiol  hemi-hibratado  0,6  mg/g  -  8  g  -  gel  -  tubo  315  Etilefrina  10  mg/mL  (Etilfredina)  -  1  mL  -  ampola  316  Etinilestradiol  +  ciproterona  acetato  0,035  mg  +  2  mg  -  comprimido  317  Etinilestradiol  +  drospirenona  0,02  mg  +  3  mg  -  comprimido  revestido  318  Etinilestradiol  +  Gestodeno  15  mcg  (0,015  mg)  +  60  mcg  (0,06  mg)  -  comprimido  revestido  319  Etomidato  2  mg/mL  -  solução  injetável  -  10  mL-  ampola  320  Etonogestrel  68  mg  -  implante  subdermico  321  Etoposídeo  20  mg/mL  -  5  mL  -  frasco  ampola  322  Everolimo  5  mg  -  comprimido  323  Felipressina  +  Prilocaína,  Cloridrato  0,03  UI/mL  +  3%  -  1,8  mL  -  tubete  324  Fenilefrina,  Cloridrato  10  mg/mL  -  1  mL  -  ampola  325  Fenitoína  100  mg  -  comprimido  326  Fenitoína  sódica  50  mg/mL  -  5  mL  -  ampola  327  Fenobarbital  sódico  100  mg  -  comprimido  328  Fenobarbital  sódico  40  mg/mL  solução  oral  (gotas)  -  20  mL  -  frasco  329  Fenobarbital  sódico  100  mg/mL  -  2  mL  -  ampola  330  Fenofibrato  200  mg  -  comprimido  ou  cápsula  331  Fenoterol,  Bromidrato  5  mg/mL  gotas  para  nebulização  -  20  mL  -  frasco  332  Fentanila,  Citrato  0,05  mg/mL  -  10  mL  -  ampola  333  Fentanila,  Citrato  0,05  mg/mL  -  5  mL  -  ampola  334  Fentanila,  Citrato  0,05  mg/mL  -  2  mL  -  ampola  335  Ferroso,  Sulfato  40  mg  de  Fe  elementar  -  comprimido  revestido  336  Ferroso,  Sulfato  125  mg/mL  (equivalente  a  25  mg/mL  Fe  elementar)  solução  oral  -  30  mL  (gotas)  -  frasco  337  Fexofenadina  60  mg  -  comprimido  338  Fibrinogênio  humano  1  g  -  frasco  ampola  339  Filgrastim  300  mcg/mL  -  frasco  ampola  340  Finasterida  5  mg  -  comprimido  revestido  341  Fitomenadiona  (Vitamina  "K1")  IV  10  mg/mL  -  solução  injetável  -  ampola  342  Fitomenadiona  (Vitamina  K  1)  IM  10  mg/mL  solução  injetável  -  1mL  -  ampola  343  Flucitosina  500  mg  -  comprimido  344  Fluconazol  150  mg  -  cápsula  345  Fluconazol  100  mg  -  cápsula  346  Fluconazol  2  mg/mL  solução  injetável  sistema  fechado  -  100  mL  -  frasco  347  Fludarabina,  Fosfato  50  mg  -  frasco  ampola  348  Flufenazina,  Enantato  25  mg/mL  -  1  mL  (liberação  controlada)  -  ampola  349  Flumazenil  0,1  mg/mL  -  solução  injetável  -  5  mL  -  ampola  350  Fluoresceína  1% solução  oftálmica  -  3  mL  -  frasco  351  Fluoruracila  250  mg/10  mL  -  frasco  ampola  352  Fluoruracila  1.000  mg/20  mL  -  frasco  ampola  353  Fluoxetina,  Cloridrato  20  mg  -  comprimido  ou  cápsula  354  Fluoxetina,  Cloridrato  20  mg/mL  -  solução  oral  -  frasco  355  Folinato  de  cálcio  (ácido  folínico)  15  mg  -  comprimido   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 356  Folinato  de  cálcio  (ácido  folínico)  10  mg/mL  solução  injetável  -  5  mL  -  frasco  ampola  357  Formoterol  +  Budesonida  6  mcg  +  100  mcg/inalação  suspensão  aerossol  -  frasco  358  Fosaprepitanto  dimeglumina  150  mg  -  10  mL  -  ampola  359  Fosfato  ácido  de  potássio  2  MEQ/mL -  10  mL  -  ampola  360  Furosemida  40  mg  -  comprimido  361  Furosemida  10  mg/mL  -  solução  injetável  -  2  mL  -  ampola  362  Gabapentina  300  mg  -  cápsula  363  Gadodiamida  contraste  287  mg/mL  -  10  mL  -  frasco  364  Ganciclovir  1  mg/mL  -  500  mL  -  bolsa  365  Gatifloxacino  5  mg/mL  -  solução  oftálmica  -  5  mL  -  frasco  366  Gencitabina  1  g  -  50  mL  -  frasco  ampola  367  Gencitabina  200  mg  -  frasco  ampola  368  Gentamicina,  Sulfato  40  mg/mL  -  solução  injetável  -  2  mL  -  ampola  369  Glibenclamida  5  mg  -  comprimido  370  Glicerina  Clister  12%  solução  -  500  mL  -  frasco  371  Glicerina  supositório  adulto  92/95%  372  Glicerina  supositório  infantil  92/95%  373  Glicerofosfato  de  sódio  216  mg/mL  -  20  mL  -  ampola  374  Glicina  1,5%  -  15  mg/mL  -  3  L  -  bolsa  375  Gliclazida  30  mg  -  comprimido  de  liberação  prolongada  376  Gliconato  de  cálcio  10% solução  injetável  -  10  mL  -  ampola  377  Glicose  5% solução  estéril  e  apirogênica  sistema  fechado  -  100  mL  -  unidade  378  Glicose  5% solução  estéril  e  apirogênica  sistema  fechado  -  250  mL  -  unidade  379  Glicose  5% solução  estéril  e  apirogênica  sistema  fechado  -  500  mL  -  unidade  380  Glicose  10% solução  injetável  sistema  fechado  -  250  mL  -  unidade  381  Glicose  25% solução  hipertônica  -  10  mL  -  ampola  382  Glicose  50% solução  hipertônica  -  10  mL  -  ampola  383  Glimepirida  2  mg  -  comprimido  384  Glucagon  1  mg/UI  -  frasco  ampola  385  Gonadotropina  coriônica  humana  5.000  UI  -  frasco  ampola  386  Haloperidol  5  mg/mL  -  solução  injetável  -  1  mL  -  ampola  387  Haloperidol  1  mg/mL  solução  injetável  -  ampola  388  Haloperidol  1  mg  -  comprimido  389  Haloperidol  5  mg  -  comprimido  390  Haloperidol  0,2%  solução  oral  -  20  mL  (gotas)  -  frasco  391  Haloperidol  Decanoato  50  mg/mL  -  solução  injetável  -  1  mL  -  ampola  392  Heparina  sódica  5.000  UI/mL  -  5  mL  -  frasco-ampola  393  Heparina  sódica  5.000  UI/0,25  mL  (subcutânea)  -  ampola  394  Hexacetonida  triancinolona  100  mg/5  mL  -  ampola  395  Hidralazina,  Cloridrato  20  mg/mL  -  solução  injetável  -  1  mL  -  ampola  396  Hidralazina,  Cloridrato  25  mg  -  comprimido  revestido  397  Hidralazina,  Cloridrato  50  mg  -  comprimido  revestido  398  Hidroclorotiazida  25  mg  -  comprimido  399  Hidrocortisona,  Succinato  100  mg  pó  para  solução  injetável  -  frasco  ampola  400  Hidrocortisona,  Succinato  500  mg  pó  para  solução  injetável  -  frasco  ampola  401  Hidróxido  de  Alumínio  60  mg/mL  -  150  mL  a  240  mL  -  suspensão  -  frasco  402  Hidróxido  de  Alumínio  +  Hidróxido  de  Magnésio  60  mg/mL  +  40  mg/mL  -  100  mL  a  240  mL  -  suspensão  -  frasco  403  Hidroxietilamido  6% -  500  mL  (solução  de  amido  hidroxietílico)  -  frasco/bolsa  404  Hidroxiuréia  500  mg  -  cápsula  405  Hidroxizina,  Dicloridrato  2  mg/mL  -  solução  -  120  mL  -  frasco  406  Hidroxizina,  Dicloridrato  25  mg  -  comprimido  407  Hipoclorito  de  sódio  2  a  2,5%  -  1.000  mL  -  galão  408  Hipoclorito  de  sódio  1% solução  -  1000  mL  -  frasco  409  Ibuprofeno  100  mg/mL  -  20  mL  (solução  oral)  -  frasco  410  Ibuprofeno  600  mg  -  comprimido  revestido  4  11  Ibuprofeno  50  mg/mL  suspensão  oral  (gotas)  -  frasco  412  Idarrubicina,  Cloridrato  10  mg  -  frasco  ampola  413  Ifosfamida  1g  -  frasco  ampola  414  Imipenem  +  cilastatina  500  mg  +  500  mg  -  solução  injetável  -  frasco  ampola  415  Imipramina,  Cloridrato  25  mg  -  comprimido  revestido  416  Imunoglobulina  anti  D  150  mcg/mL  -  2  mL  (300  mcg/2  mL)  -  seringa  preenchida  417  Imunoglobulina  anti-timócitos  humana  (Timoglobulina  ou  Imunoglobulina  de  coelho)  25  mg/5  mL-  frasco  ampola  418  Imunoglobulina  humana  2,5  g  -  solução  injetável  -  frasco  ampola  419  Imunoglobulina  humana  5  g  -  100  mL  -  frasco  420  Indocianina  verde  25  mg  +  diluente  10  mL  -  frasco  421  Insulina  degludeca  100  UI/mL  -  3  mL  -  caneta  descartável  422  Insulina  detemir  100  UI/mL  -  3  mL  -  caneta  descartável  423  Insulina  glargina  100  UI/mL  -  3  mL  -  caneta  descartável  424  Insulina  lispro  100  UI/mL  -  10  mL  -  ampola  425  Insulina  lispro  100  UI/mL  -  3  mL  caneta  descartável  426  Insulina  NPH  Humana  100  UI/mL  -  10  mL  -  frasco  ampola  427  Insulina  Regular  Humana  100  UI/mL  -  10  mL  -  frasco  ampola  428  Interferon  Alfa  2A  3.000.000  UI  -  frasco  ampola  429  Iodeto  de  sódio  131  (atividade  de  100  MCI)  -  frasco  ampola  430  Iodeto  de  sódio  131  (atividade  de  150  MCI)  -  frasco  ampola  431  Iodeto  de  sódio  131  (atividade  de  50  MCI)  -  frasco  ampola  432  Ipratrópio,  Brometo  0,025% (0,25  mg/mL)  solução  para  nebulização  -  20  mL  -  frasco  433  Irinotecano,  Cloridrato  100  mg/5  mL  -  frasco  ampola  434  Irinotecano,  Cloridrato  40  mg/2  mL  -  frasco  ampola  435  Isoflurano  1  mg/mL  -  100  mL  -  solução  inalatória  -  frasco  436  Isoniazida  +  rifampicina  -  Programa  de  Tuberculose  75  mg  +  150  mg  -  comprimido  437  Isossorbida,  Dinitrato  5  mg  (sublingual)  -  comprimido  438  Isossorbida,  Dinitrato  10  mg  -  comprimido  revestido  439  Isossorbida,  Mononitrato  10  mg/mL  -  1  mL  -  ampola  440  Isossorbida,  Mononitrato  20  mg  -  comprimido  441  Isossorbida,  Mononitrato  40  mg  -  comprimido  442  Itraconazol  100  mg  -  cápsula  443  Ivabradina  5  mg  -  comprimido  444  Ivermectina  6  mg  -  comprimido  445  Lacosamida  10  mg/mL  -  20  mL  -  frasco  ampola  446  Lactato  de  milrinona  1  mg/mL  -  solução  injetável  -  10  mL  -  frasco  ampola  447  Lactulose  667  mg/mL  solução  oral  -  120  mL,  frasco  448  Lamivudina  +  zidovudina  150  mg  +  300  mg  -  comprimido  449  Lamotrigina  10  mg  -  comprimido  450  Lamotrigina  100  mg  -  comprimido  451  Lamotrigina  25  mg  -  comprimido  452  Levetiracetam  250  mg  -  comprimido  453  Levetiracetam  100  mg/mL  -  150  mL  -  solução  oral  -  frasco  150  mL  454  Levetiracetam  500  mg  -  comprimido  455  Levetiracetam  1.000  mg  -  comprimido  456  Levetiracetam  100  mg/mL  -  5  mL  -  solução  injetável  -  frasco  ampola  457  Levetiracetam  750  mg  -  comprimido  liberação  prolongada  458  Levobupivacaína  5  mg/mL  (0,5%)  -  20  mL  -  frasco  ampola  459  Levofloxacino  5  mg/mL  -  sistema  fechado  -  100  mL  -  frasco/bolsa  460  Levofloxacino  500  mg  -  comprimido  revestido  461  Levomepromazina  25  mg  -  comprimido  revestido  462  Levomepromazina  100  mg  -  comprimido  revestido  463  Levonorgestrel  19,5  mg  -  sistema  intra-uterino  464  Levonorgestrel  52  mg  -  sistema  intra-uterino  465  Levosimendana  2,5  mg/mL  -  5  mL  -  frasco  ampola  466  Levotiroxina  sódica  25  mcg  -  comprimido  467  Levotiroxina  sódica  38  mcg  -  comprimido  468  Levotiroxina  sódica  50  mcg  -  comprimido  469  Levotiroxina  sódica  88  mcg  -  comprimido  470  Levotiroxina  sódica  100  mcg  -  comprimido  471  Levotiroxina  sódica  112  mcg  -  comprimido  472  Lidocaína  +  Prilocaína  25  mg/g  +  25  mg/g  -  tubo  5  g  473  Lidocaína,  Cloridrato  20  mg/g  -  gel  estéril  -  10  g  474  Lidocaína,  Cloridrato  2% solução  injetável  -  5  mL  -  ampola  475  Lidocaína,  Cloridrato  2% solução  injetável  -  20  mL  -  frasco  ampola  476  Lidocaína,  Cloridrato  2% geleia  -  30  g  -  bisnaga  477  Lidocaína,  Cloridrato  100  mg/mL  spray  oral  -  50  mL  -  frasco  478  Lidocaína,  Cloridrato  +  Epinefrina  2% + 1:100.000  solução  injetável  -  1,8  mL  -  tubete   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 479  Linezolida  2  mg/mL  -  300  mL  -  bolsa  480  Liraglutida  6  mg/mL  -  sistema  de  aplicação  3  mL  481  Lítio,  Carbonato  300  mg  -  comprimido  482  Loperamida,  Cloridrato  2  mg  -  comprimido  483  Loratadina  10  mg  -  comprimido  484  Lorazepam  2  mg  -  comprimido  485  Losartana  potássica  50  mg  -  comprimido  revestido  486  Macrogol  +  bicarbonato  de  sódio  +  cloreto  de  potássio  +  cloreto  de  sódio  13,125  mg  +  0,1775  g  +  0,0466  g  +  0,3057  g  -  14  g  -  envelope/sachê  487  Magnésio,  Sulfato  50% -  solução  injetável  -  10  mL  -  ampola  488  Magnésio,  Sulfato  10% solução  injetável  -  10  mL  -  ampola  489  Maleato  metilergometrina  0,2  mg/mL  -  1  mL  -  ampola  490  Manitol  20  %  -  solução  estéril  e  apirogênica  sistema  fechado  -  250  mL  -  unidade  491  Mebendazol  20  mg/mL  suspensão  oral  -  30  mL  -  frasco  492  Melfalano,  Cloridrato  2  mg  -  comprimido  493  Melfalano,  Cloridrato  50  mg  -  frasco  494  Mepivacaina  +  Epinefrina  2% + 1:100.000  UI  -  1,8  mL  -  tubete  495  Mercaptopurina  50  mg  -  comprimido  496  Meropenem  1  g  -  frasco  ampola  497  Meropenem  500  mg  -  pó  para  solução  injetável  -  frasco  ampola  498  Mesalazina  800  mg  -  comprimido  499  Mesna (2-mercaptoetano  sulfonato  sódico)  100  mg/mL  -  4  mL  -  ampola  500  Mesna (2-mercaptoetano  sulfonato  sódico)  400  mg  -  comprimido  501  Metadona  5  mg  -  comprimido  502  Metadona  10  mg  -  comprimido  503  Metadona  10  mg/mL  -  1  mL  -  ampola  504  Metformina,  Cloridrato  500  mg  -  comprimido  revestido  505  Metformina,  Cloridrato  850  mg  -  comprimido  revestido  506  Metildopa  250  mg  -  comprimido  revestido  507  Metilsulfato  de  neostigmina  0,5  mg/mL  -  solução  injetável  -  1  mL  -  ampola  508  Metoclopramida,  Cloridrato  10  mg  -  comprimido  509  Metoclopramida,  Cloridrato  4  mg/mL  solução  oral  -  10  mL  (gotas)  -  frasco  510  Metoclopramida,  Cloridrato  5  mg/mL  solução  injetável  -  2  mL  -  ampola  5  11  Metoprolol,  Succinato  25  mg  -  comprimido  revestido  512  Metoprolol,  Tartarato  1  mg/mL  -  5  mL  -  ampola  513  Metotrexato  de  sódio  50  mg  -  frasco  ampola  514  Metotrexato  de  sódio  1  g/10  mL  -  frasco  ampola  515  Metotrexato  de  sódio  2,5  mg  -  comprimido  516  Metotrexato  de  sódio  25  mg/mL  -  20  mL  -  frasco  ampola  517  Metronidazol  5  mg/mL  -  solução  injetável  -  100  mL  -  frasco  ampola/bolsa  518  Metronidazol  40  mg/mL  -  suspensão  oral  -  80  a  100  mL  -  frasco  519  Metronidazol  100  mg/g,  creme/gel  vaginal.  Acompanha  7-10  aplicadores  embalados  individualmente  50  g,  bisnaga  520  Metronidazol  250  mg  -  comprimido  ou  comprimido  revestido  521  Micafungina  sódica  100  mg  -  pó  liófilo  para  solução  injetável  -  frasco  ampola  522  Micafungina  sódica  50  mg  -  pó  liófilo  para  solução  injetável  -  frasco  ampola  523  Micofenolato  de  mofetila  500  mg  -  comprimido  524  Micofenolato  de  sódio  180  mg  -  comprimido  525  Micofenolato  de  sódio  360  mg  -  comprimido  526  Midazolam,  Cloridrato  5  mg/mL  -  3  mL  -  ampola  527  Midazolam,  Cloridrato  5  mg/mL  -  10  mL  -  ampola  528  Midazolam,  Cloridrato  2  mg/mL  -  solução  oral  -  10  mL  -  frasco  529  Midazolam,  Cloridrato  1  mg/mL  solução  injetável  -  5  mL  -  ampola  530  Midazolam,  Cloridrato  15  mg  -  comprimido  revestido  531  Mitoxantrona  20  mg  -  10  mL  -  frasco  ampola  532  Moxifloxacino,  Cloridrato  5  mg/mL,  0,5%  -  solução  oftálmica  -  5  mL  -  frasco  533  Multivitaminas  (Polivitaminico)  composição:  vitaminas  lipossolúveis:  A,  E,  D3  (isento  de  vitamina  K),  vitaminas  hidrosso-  lúveis:  C,  B1,  B12,  B2,  B6,  B5  (ácido  pantotenico),  H  (biotina),  Niacina,  ácido  fólico  Solução  injetável  -  uso  adulto  -  frasco  ampola  534  Mupirocina  2% (20  mg/g)  creme/pomada  -  15  g  -  bisnaga  535  N-Acetilcisteína  10% -  solução  injetável  -  3  mL  -  ampola  536  N-Acetilcisteína  20  mg/mL  -  100  mL  -  xarope  537  N-Acetilcisteína  200  mg  pó  para  solução  oral  -  envelope  538  N-Acetilcisteína  600  mg  pó  para  solução  oral  -  envelope  539  Nalbufina,  Cloridrato  10  mg/mL  -  ampola  540  Naloxona,  Cloridrato  0,4  mg/mL  -  1  mL  -  ampola  541  Nandrolona,  decanoato  50  mg/mL,  1mL  -  ampola  542  Neomicina,  Sulfato  +  Bacitracina  de  zinco  5  mg/g  +  250  UI/g  pomada  -  10  g  -  bisnaga  543  Nicotina  14  mg  -  adesivo  544  Nicotina  21  mg  -  adesivo  545  Nicotina  7  mg  -  adesivo  546  Nifedipino  10  mg  -  comprimido  547  Nifedipino  20  mg  -  comprimido  de  liberação  controlada  548  Nilotinibe  200  mg  -  cápsula  549  Nimodipino  30  mg  -  comprimido  550  Nistatina  25.000  UI/g  -  creme  vaginal.  Acompanha  7-10  aplicadores  embalados  individualmente  60  g,  bisnaga  551  Nistatina  100.000  UI/mL  suspensão  oral  -  50  mL  +  conta  gotas  -  frasco  552  Nitrofurantoína  100  mg  -  cápsula  553  Nitroglicerina  5  mg/mL  -  10  mL  ampola  554  Nitroglicerina  5  mg/mL  -  5  mL  ampola  555  Nitroprussiato  de  sódio  50  mg  +  ampola  diluente  2  mL  -  frasco  ampola  556  Norepinefrina,  Hemitartarato  2  mg/mL  (equivalente  a  1  mg/mL  de  norepinefrina  base)  solução  injetável  -  4  mL  -  ampola  557  Norfloxacino  400  mg  -  comprimido  revestido  558  Ocitocina  5  UI/mL-  1  mL  -  ampola  559  Olanzapina  10  mg  -  comprimido  560  Oleato  de  monoetanolamina  50  mg/mL  -  solução  injetável  -  2  mL  -  ampola  561  Óleo  Mineral  Purissímo  100  mL  -  frasco  562  Oligoelementos  (composição  mínima:  Zinco,  Cobre,  Cromo,  Manganês)  2  mL  -  solução  injetável  -  uso  adulto  -  ampola  563  Omeprazol  20  mg  -  cápsula  564  Omeprazol  sódico  2  mg/mL  -  suspensão  oral  -  100  mL  -  frasco  565  Omeprazol  sódico  40  mg  pó  liófilo  para  solução  injetável  +  Diluente  próprio  -  10  mL  -  frasco  ampola  566  Ondansetrona,  Cloridrato  2  mg/mL  -  4  mL  -  ampola  567  Ondansetrona,  Cloridrato  8  mg  -  comprimido  dispersível  568  Orlistate  120  mg  -  cápsula  569  Ortoftalaldeído  e  acessórios  (Fita-teste  p/  solução  de  Ortoftalaldeído,  Glicina  (base  livre)  -  Neutralizador)  0,55%  solução  +  40  fitas  +  33  gramas  -  galão  5  litros  -  KIT  570  Oxacilina  sódica  500  mg  -  pó  liófilo  para  solução  injetável  -  frasco  ampola  571  Oxcarbazepina  300  mg  -  comprimido  572  Oxcarbazepina  60  mg/mL  -  suspensão  oral  -  100  mL  -  frasco  573  Oxibuprocaína,  Cloridrato  0,4%  -  solução  oftalmológica  574  Oxibutinina,  Cloridrato  1  mg/mL  -  solução  oral  -  120  mL  575  Óxido  de  Zinco  +  Enxofre  25% + 10% - pasta  576  Óxido  de  zinco  +  Vitamina  A  +  Vitamina  D  150  mg/g  +  5.000  UI/g  +  (600  a  900)  UI/g  -  pomada  45  g  -  bisnaga  577  Oximetazolina,  Cloridrato  0,5  mg  -  solução  nasal  -  30  mL  -  frasco  578  Pamidronato  dissódico  90  mg  +  diluente  10  mL  -  frasco  ampola  579  Pancurônio  brometo  2  mg/mL  -  solução  injetável  -  2  mL  -  ampola  580  Pantoprazol  40  mg  -  frasco  ampola  581  Papaína  10% -  creme  /  pomada  582  Papaína  10% -  gel  -  100  g  583  Papaverina  50  mg/mL  -  2  mL  -  ampola  584  Paracetamol  500  mg/50  mL  -  bolsa  585  Paracetamol  200  mg/mL  -  solução  oral  -15  mL  (gotas)  -  frasco  586  Paracetamol  500  mg  -  comprimido  587  Paroxetina,  Cloridrato  20  mg  -  comprimido  588  Pasta  d'água  com  enxofre  10% -  pote  589  Pegaspargase  3.750  UI  -  frasco  ampola  590  Pentoxifilina  400  mg  -  comprimido  revestido  de  ação  prolongada  591  Periciazina  10  mg/mL  -  20  mL  -  frasco  592  Permetrina  50  mg/mL  (5%)  loção  -  60  mL  -  frasco  593  Permetrina  10  mg/mL  loção  -  60  mL  -  frasco  594  Petidina,  Cloridrato  50  mg/mL  -  solução  injetável  -  2  mL  -  ampola  595  Pidolato  de  magnésio  1,5  g/10  mL  -  10  mL  -  flaconete  596  Pilocarpina  20  mg/mL  -  solução  oftálmica  -  10  mL  -  frasco  597  Pioglitazona,Cloridrato  15  mg  -  comprimido   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -4175,17 +4175,17 @@ Id:  2723898
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 598  Piperacilina  sódica  +  Tazobactam  sódico  4  g  +  0,5  g  -  pó  para  solução  injetável  -  frasco  ampola  599  Piridoxina,  Cloridrato  (Vitamina  B6)  40  mg  -  comprimido  revestido  600  Pirimetamina  25  mg  -  comprimido  601  Poliaminoácidos  10  %  100  mg/mL  -  frasco  602  Policresuleno  +  Cinchocaína,  Cloridrato  50  mg/g  +  10  mg/g  -  pomada  603  Poliestirenossulfonato  de  cálcio  900  mg/g  -  30  g  -  envelope  604  Polivinilpirrolidona  iodo  10% solução  alcoólica  (1%  de  iodo  ativo)  almotolia  100  mL  -  frasco  605  Polivinilpirrolidona  iodo  10% solução  aquosa  (1%  iodo  ativo)  almotolia  100  mL  -  frasco  606  Polivinilpirrolidona  iodo  10% solução  degermante  (1%  iodo  ativo)  almotolia  100  mL  -  frasco  607  Polivitaminico  e  polimineral  solução  injetável  -  20  mL  -  frasco  ampola  608  Polivitaminico  e  polimineral  20  mL  -  solução  oral  -  infantil  -  frasco  609  Ponatinibe  15  mg  -  comprimido  revestido  610  Potássio,  Cloreto  60  mg/mL  -  solução  oral  (xarope)  -  frasco  100  mL  ou  150  mL  6  11  Potássio,  Cloreto  10% -  10  mL  -  ampola  612  Prednisolona,  Fosfato  3  mg/mL  solução  oral  -  120  mL  -  frasco  613  Prednisona  5  mg  -  comprimido  614  Prednisona  20  mg  -  comprimido  615  Pregabalina  75  mg  -  cápsula  616  Progesterona  200  mg  -  cápsula  617  Progesterona  natural  micronizada  100  mg  -  cápsula  618  Prometazina,  Cloridrato  25  mg/mL  -  solução  injetável  -  2  mL  -  ampola  619  Prometazina,  Cloridrato  25  mg  -  comprimido  revestido  620  Propiltiouracila  100  mg  -  comprimido  621  Propionato  de  testosterona  +  Fempropionato  de  testosterona  +  Isocaproato  de  testosterona  +  Decanoato  de  testosterona  30  mg  +  60  mg  +  60  mg  +  100  mg  -  solução  injetável  -  ampola  622  Propofol  10  mg/mL  -  emulsão  injetável  -  20  mL  -  frasco  ampola  623  Propofol  10  mg/mL  -  emulsão  injetável  -  50  mL  -  frasco  ampola  624  Propofol  2% -  frasco  ampola  625  Propranolol,  Cloridrato  10  mg  -  comprimido  626  Propranolol,  Cloridrato  40  mg  -  comprimido  627  Proprionato  de  Fluticasona  50  mcg  -  spray  120  doses  -  frasco  628  Protamina,  Cloridrato  10  mg/mL  -  5  mL  -  ampola  629  Proximetacaína  0,5%  -  solução  oftálmica  -  5  mL  -  frasco  630  Quetiapina  25  mg  -  comprimido  revestido  631  Quetiapina  50  mg  -  comprimido  revestido  632  Quetiapina  100  mg  -  comprimido  revestido  633  Racecadotrila  100  mg  -  cápsula  634  Racecadotrila  10  mg  -  pó  granulado  635  Rasburicase  1,5  mg  -  frasco  ampola  636  Remifentanil,  Cloridrato  2  mg  -  solução  injetável  -  frasco  ampola  637  Retinol  palmitato  (vitamina  A)  50.000  UI  -  comprimido  revestido  638  Rifaximina  550  mg  -  comprimido  639  Ringer  /  Lactato  500  mL  solução  estéril  e  apirogênica  sistema  fechado  -  frasco  640  Ringer  sem  lactato  500  mL  -  frasco  641  Risperidona  1  mg  -  comprimido  revestido  642  Risperidona  1  mg/mL  -  solução  -  30  mL  643  Risperidona  2  mg  -  comprimido  revestido  644  Rituximabe  100  mg  -  10  mL  -  frasco  ampola  645  Rituximabe  500  mg  -  50  mL  -  frasco  ampola  646  Rivaroxabana  10  mg  -  comprimido  647  Rivaroxabana  15  mg  -  comprimido  648  Rivaroxabana  20  mg  -  comprimido  649  Rocurônico,  Brometo  10  mg/mL  -  5  mL  -  frasco  ampola  650  Ropivacaína  0,2%  -  20  mL  -  frasco  ampola  651  Ropivacaína  1% -  20  mL  -  frasco  ampola  652  Sabonete  líquido  neutro  1.000  mL  -  frasco  653  Sacarato  de  hidróxido  férrico  20  mg/mL  -  solução  injetável  -  5  mL  -  ampola  654  Saccharomyces Boulardii  (Probiótico)  100  mg  -  cápsula  655  Saccharomyces Boulardii  (Probiótico)  100  mg  -  envelope  656  Saccharomyces Boulardii  (Probiótico)  200  mg  -  envelope  657  Saccharomyces Boulardii  (Probiótico)  200  mg  -  cápsula  658  Sais  para  rehidratação  oral  (Sódio,  Cloreto  +  Potássio,  Cloreto  +  Sódio,  Citrato  +  Glicose)  3,5  g  +  1,5  g  +  2,9  g  +  20  g  (fórmula  OMS)  -  pó  -  27,9  g  -  envelope  659  Salbutamol,  Sulfato  0,5  mg/mL  -  1  mL  -  solução  injetável  -  ampola  660  Salbutamol,  Sulfato  100  mcg/dose,  aerossol  oral  200  doses  -  frasco  661  Secnidazol  1.000  mg  -  comprimido  662  Selante  de  Fibrina  (Fibrinogênio,  Fator  XIII,  Aprotinina,  Trombina  +  Cloreto  de  cálcio)  2  mL  -  frasco  ampola  663  Sertralina  50  mg  -  comprimido  664  Sevoflurano  1  mg/mL  -  solução  inalatória  -  250  mL  -  frasco  665  Sibutramina  10  mg  -  cápsula  666  Sibutramina  15  mg  -  cápsula  667  Sildenafila  25  mg  -  comprimido  668  Sinvastatina  20  mg  -  comprimido  revestido  669  Sódio,  Cloreto  0,9%  solução  estéril  e  apirogênica  sistema  fechado  -  250  mL  670  Sódio,  Cloreto  0,9%  solução  estéril  e  apirogênica  sistema  fechado  -  500  mL  671  Sódio,  Cloreto  0,9%  solução  estéril  e  apirogência  sistema  fechado  -  1.000  mL  672  Sódio,  Cloreto  0,9%  solução  estéril  e  apirogênica  sistema  fechado  -  100  mL  673  Sódio,  Cloreto  0,9%  solução  nasal  -  30  mL  -  frasco  674  Sódio,  Cloreto  0,9%  solução  injetável  -  10  mL  -  ampola  675  Sódio,  Cloreto  20% solução  injetável  hipertônica  -10  mL  -ampola  676  Solução  de  conservação  de  órgãos  (TIPO  HTK  -  Histidina,  Triptofano  e  Alfacetoglutarato)  bolsa  677  Succinato  sódico  de  metilprednisolona  125  mg  +  diluente  2  mL  -  frasco  ampola  678  Succinato  sódico  de  metilprednisolona  500  mg  +  diluente  8  mL  -  frasco  ampola  679  Sufentanila,  Citrato  5  mcg/mL  -  2  mL  -  ampola  680  Sufentanila,  Citrato  5  mcg/mL  -  5  mL  -  ampola  681  Sugamadex sódico  100  mg/mL  -  frasco  ampola  682  Sulfadiazina  500  mg  -  comprimido  683  Sulfadiazina  de  prata  1% -  50  g  -  bisnaga  684  Sulfadiazina  de  prata  1% -  creme  -  100  g  -  bisnaga  685  Sulfadiazina  de  prata  1% (10  mg/g)  creme  -  400  g  -  pote  686  Sulfametoxazol  +  sulfato  de  Trimetoprima  400  mg  +  80  mg  -  comprimido  687  Sulfametoxazol  +  sulfato  de  Trimetoprima  40  mg/mL  +  8  mg/mL  -  suspensão  oral  -  100  mL  -  frasco  688  Sulfametoxazol  +  sulfato  de  Trimetoprima  80  mg/mL  +  16  mg/mL  -  solução  injetável  -  5  mL  -  ampola  689  Sulfato  de  efedrina  50  mg/mL  -  ampola  690  Sulfato  de  morfina  10  mg  -  comprimido  691  Sulfato  de  morfina  30  mg  -  comprimido  692  Sulfato  de  morfina  10  mg/mL  -  solução  oral  -  60  mL  -  frasco  693  Sulfato  de  morfina  10  mg/mL  -  1  mL  -  ampola  694  Sulfato  de  morfina  0,2  mg/mL  -  solução  injetável  -  1  mL  -  ampola  695  Sulfato  de  morfina  1  mg/mL  -  solução  injetável  -  2  mL  -  ampola  696  Sulfato  de  neomicina  +  Bacitracina  5  mg/g  +  250  UI/g  -  pomada  10  g  -  bisnaga  697  Sulfato  de  polimixina  B  500.000  UI  -  frasco  ampola  698  Sulfato  de  polimixina  B  100.000  UI  -  frasco  ampola  699  Sulfato  de  vimblastina  1  mg/mL  -  frasco  ampola  700  Sulfato  de  zinco  17,60  mg/mL  -  solução  oral  701  Sulfato  zinco  +  sulfato  cuprico  +  sulfato  magnésio  +  cloreto  cromico  2  mL  -  ampola  702  Suxametônio  cloreto  (Succinilcolina)  100  mg  -  frasco  ampola  703  Ta  c   r   o   l   i   m  o  1  mg  -  cápsula  704  Ta  c   r   o   l   i   m  o  5  mg  -  cápsula  705  Talco  estéril  10  g  -  envelope  706  Ta  m  o   x   i   f   e  n   o  10  mg  -  comprimido  707  Ta  m  o   x   i   f   e  n   o  20  mg  -  comprimido  708  Tansulosina,  Cloridrato  0,4  mg  -  cápsula  709  Te  i   c   o  p  l   a  m  i   n   a  400  mg  pó  liófilo  para  solução  injetável  -  diluente  3  mL  -  frasco  ampola  710  Te  m  o   z   o   l   o   m   i   d  a  100  mg  -  cápsula  7  11  Te  m  o   z   o   l   o   m   i   d  a  140  mg  -  cápsula  712  Te  m  o   z   o   l   o   m   i   d  a  180  mg  -  cápsula  713  Te  m  o   z   o   l   o   m   i   d  a  20  mg  -  cápsula  714  Te  m  o   z   o   l   o   m   i   d  a  250  mg  -  cápsula  715  Te  m  o   z   o   l   o   m   i   d  a  5  mg  -  cápsula  716  Te  n   e   c   t  e  p   l   a  s   e  40  mg  pó  liófilo  para  solução  injetável  +  seringa  contendo  8  mL  de  diluente  -  frasco  ampola  717  Te  n   i   p   o  s  í   d  e   o  50  mg/  5  mL  -  frasco  ampola  718  Te  n   o   x   i   c  a   m  20  mg  +  diluente  2  mL  -  frasco  ampola  719  Terbutalina  sulfato  0,5  mg/mL  -  1  mL  -  ampola   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -4230,17 +4230,17 @@ PROCESSO  Nº  SEI-080001/032577/2025 -Diante do  exposto, com fundamento  no  a
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 720  Testosterona  undecilato  250  mg/mL  -  4  mL  -  ampola  721  Ti  a  b  e  n  d  a  z  o  l  50  mg/mL  -  suspensão  oral  -  60  mL  -  frasco  722  Ti  a  b  e  n  d  a  z  o  l  500  mg  -  comprimido  723  Tiamazol  (metimazol)  10  mg  -  comprimido  724  Tiamina,  Cloridrato  (vitamina  B1)  100  mg/mL  -  1  mL  -  ampola  725  Tiamina,  Cloridrato  (Vitamina  B1)  300  mg  -  comprimido  revestido  726  Ti  c  a  g  r  e  l  o  r  90  mg  -  comprimido  revestido  727  Ti  g  e  c  i  c  l  i  n  a  50  mg  -  frasco  ampola  728  Timolol  maleato  +  dorzolamida  cloridrato  5  mg/mL  +  20  mg/mL  -  solução  oftálmica  -  5  mL  -  frasco  729  Timolol,  Maleato  5  mg/mL  -  solução  oftálmica  -  5  mL  -  frasco  730  Ti  o  g  u  a  n  i  n  a  40  mg  -  comprimido  731  Ti  o  p  e  n  t  a  l  1  g  -  frasco  ampola  732  Ti  o  p  e  n  t  a  l  500  mg  -  frasco  ampola  733  Ti  r  o  f  i  b  a  n  a  0,25  mg/mL  -  50  mL  -  frasco  ampola  734  To  b   r   a   m   i  c  i   n  a  0,3%  solução  oftalmológica  -  5  mL  -  frasco  735  To  p   i   r   a  m  a   t   o  100  mg  -  comprimido  revestido  736  To  p   i   r   a  m  a   t   o  25  mg  -  comprimido  revestido  737  Topotecana,  Cloridrato  4  mg  -  frasco  ampola  738  Toxina  botulínica  50  UI  -  frasco  ampola  739  Tramadol,  Cloridrato  100  mg/mL  -  solução  oral  (gotas)  -  10  mL  -  frasco  740  Tramadol,  Cloridrato  50  mg  -  cápsula  741  Tramadol,  Cloridrato  50  mg/  mL  solução  injetável  -  1  mL  -  ampola  742  Triancinolona  acetonida  1  mg/g  -  10  g  -  pomada  orobase  743  Trimetazidina,  Cloridrato  35  mg  -  comprimido  revestido  (liberação  prolongada)  744  Trometamina  cetorolaco  30  mg/mL  -  1  mL  -  ampola  745  Tr  o  p  i  c  a  m  i  d  a  1% solução  oftálmica  -  5  mL  -  frasco  746  Uréia  10% -  60  g  -  frasco  ou  bisnaga  ou  pote  747  Valerato  de  betametasona  +  sulfato  de  gentamicina  +  tolnaftato  +  Clioquinol  0,5  mg/g  +  1,0  mg/g+  10  mg/g  +  10  mg/g  -  creme  ou  pomada  30  g  748  Valerato  de  estradiol  +  ciproterona  2  mg  +  1  mg  (1ª  fase:  estradiol  2  mg  +  2ª  fase:  estradiol  2  mg  +  ciproterona  mg)  -  drágea  749  Valproato  de  sódio  50  mg/mL  -  solução  oral  -  frasco  100  mL  750  Valproato  de  sódio  500  mg  -  comprimido  revestido  751  Valproato  de  sódio  250  mg  -  cápsula  ou  comprimido  752  Vancomicina,  Cloridrato  500  mg  -  pó  liófilo  para  solução  injetável  -  frasco  ampola  753  Varfarina  sódica  5  mg  -  comprimido  754  Vaselina  Líquida  (Petrolato  Líquido)  1.000  mL  -  frasco  755  Vaselina  sólida  30  g  -  tubo  756  Vaselina  sólida  estéril  90  a  500  g  -  pomada  -  pote  757  Vaselina  sólida  estéril  (petrolato  branco)  25  g  -  bisnaga  758  Va  s  o  p  r   e  s  s  i   n  a  20  UI/mL  -  ampola  759  Venlafaxina,  Cloridrato  75  mg  -  cápsula  760  Verapamil,  Cloridrato  80  mg  -  comprimido  revestido  761  Vi  g  a  b  a  t  r  i  n  a  500  mg  -  comprimido  762  Vi  n  c  r  i  s  t  i  n  a  1  mg  -  1  mL  -  frasco  ampola  763  Vitamina  D  132  UF/gota  -  solução  oral  -  10  mL  -  frasco  764  Vitaminas  do  complexo  B:  Composição  mínima:  Vitamina  B2  (Riboflavina),  Vitamina  B3  (Nicotinamida),  Vitamina  B6  (Pi-  ridoxina)  comprimido  revestido  765  Vitaminas  do  complexo  B:  Composição  mínima:Vitamina  B2  (Riboflavina),  Vitamina  B3  (Nicotinamida),  Vitamina  B6  (Piri-  doxina)  solução  injetável  -  2  mL  -  ampola  766  Vo  r  i  c  o  n  a  z  o  l  200  mg  -  comprimido  revestido  767  Vo  r  i  c  o  n  a  z  o  l  200  mg  -  injetável  -  frasco  ampola  768  Xinafoato  de  salmeterol  +  propionato  de  fluticasona  25  mcg/dose  +  125  mcg/dose  -  120  doses  -  frasco  769  Zirconio  sódico  hidratado  ciclossilato  5  g  -  pó  para  solução  oral  -  envelope   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -4297,39 +4297,39 @@ PROCESSO  N°  SEI-080001/021285/2025 -ADJUDICO e HOMOLOGO, por  estar em  confo
 
 Id:  2723721
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0030/U0035/U0034
+054
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U002D
+-
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0035
+25
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 PROCESSO  N°  SEI-080001/018160/2025 Tendo  em  vista os  pressupostos  estabelecidos no  Art.89,§21,  da Constituição  Estadual do  Rio de  Janeiro,  modificado  pela  E.C.90/2021,  Art.  2º,§2º;  Art.3º,  §6  º,  inciso  I a  ; Art.4º  e seus  incisos  I,II,III,IV ,V  e §5º  , com  base na  resolução  SARE  nº  3026/2004  e  nas  informações  prestadas  no  Mapa de Tempo de Serviço - MTS. Considerando as determinações contidas na Resolução SES nº 1.344 de 08  de março de 2016 -LIDIA DE PINHO MEYER NASCIMENTO, Técnico de Enfermagem, matrícula  nº 813.145-0, ID 3091407-8, FAZ JUS ao Abono de Permanência a partir de  30/05/2025.
 
@@ -4410,17 +4410,17 @@ Id:  2723524
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## DIRETORIA EXECUTIVA
 
@@ -4610,17 +4610,17 @@ Subsecretária  de  Gestão  Administrativa
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 PORTARIA SEEDUC/SUBAD Nº 675 DE 23 DE MARÇO DE 2026
 
@@ -4679,41 +4679,41 @@ A  P  O  S  E  N  TA  SANDRA  CATHARINA MANHAES  WAGNER ,  Professor Docente  I 
 
 A  P  O  S  E  N  TA  DEISE  BENTHER  LIMA ,  Professor  Docente  I  -  18  horas, nível D, referência 9, Identidade  funcional nº 20809840, vínculo 01, matrícula  nº  831.997-2,  nos  termos  do  art.  3°,  §§  4°,  5°  e  6°,  inciso  I, alínea  'b' da  Emenda  Constitucional  nº  90/2021,  fixando  os  proventos mensais  com  validade  a  partir  desta  publicação,  tendo  por  base  a  última  remuneração  integral do  cargo  efetivo  do servidor,  sendo  reajustados  pela  paridade  nos  seguintes  termos  propostos:  Vencimento-base atribuído  ao  cargo  de  Professor  Docente  I  18  horas,  nível  D,  referência 9  (Lei nº  9952/2023), no  valor de  R$ 3.135,19,  50 %  de triênio (Lei nº 1026/86), no valor de R$ 1.567,60. Processo nº SEI0  3  0  0 0  1  / 11  4  6  6  2  / 2  0  2  5   .
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0037
+27
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0032/U0035
+25
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0049
+I
 
-/U0030/U0035/U0034
+054
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 A  P  O  S  E  N  TA  ELANE  NUNES  DA  SILVA ,  Professor  Docente  II  22  horas,  nível  D, referência  9,  Identidade  funcional nº  39018512,  vínculo 01, matrícula nº 283.796-1, nos termos do art. 4°, caput e §2°, inciso I da Emenda  Constitucional nº 90/2021, fixando  os proventos mensais com validade  a partir desta  publicação, tendo  por base a  última remuneração  integral  do  cargo  efetivo do  servidor,  sendo  reajustados pela  paridade nos  seguintes termos  propostos: Vencimento-base  atribuído  ao cargo  de  Professor Docente  II 22  horas,  nível D,  referência 9  (Lei  nº  9952/2023),  no  valor  de  R$  2.786,83,  60%  de  triênio  (Lei  nº 1608/90),  no  valor  de  R$  3.742,64  e  Determinação  Judicial  -  Piso  Nacional  do  Professor.  (Processo  nº  0046102-40.2021.8.19.002),  no  valor de  R$  3.450,90.  Processo  nº  SEI-030030/005027/2023.
 
@@ -4778,39 +4778,39 @@ Onde se lê:  ...PRISCILA  FIGUEIREDO  DE  ARROUXELLAS...
 
 Leia-se:...PRISCILA  FIGUEIREDO  DE  ARROXELLAS...
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0034
+054
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0032/U0035
+25
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
 
@@ -4852,17 +4852,17 @@ Id:  2723657
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
 
@@ -4984,17 +4984,17 @@ PROCESSO Nº SEI-030001/117121/2025-  CONCEDO o benefício Abono  de  Permanênc
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 PROCESSO  Nº SEI-030001/002756/2026  -  CONCEDO o  benefício Abono de  Permanência ao  servidor MARTA TRAJANO  DE ALVARENGA, Servente - CIEP, nível  I, Identidade Funcional no 33962375, vínculo 01, matrícula 5000198-1, tendo  em vista ter reunido, com base no  art.  4º,  caput,  §  2º,  da  EC  90/21,  os  requisitos  necessários  para  a sua  aposentadoria  a  partir  de  11/08/2024.
 
@@ -5062,41 +5062,41 @@ PROCESSO Nº  SEI-E-03/005/1821/2015 - KATIA REGINA  DA SILVA BARREIRA,  Prof.Do
 
 PROCESSO Nº SEI-E-03/10.002.724/2009 -  LUCILENE  PEREIRA  BAHIA DE  MACEDO, Merendeira-CIEP, mat. nº  5.021.093-9, Id.Func. 33970351/1,  período  base  de  05/06/2019  a  04/06/2024.
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0039
+29
 
-/U0049
+I
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0035/U0034
+054
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0035
+25
 
 PROCESSO  Nº SEI-030033/004299/2023 -MARIA  SENA DA  SILVA SOUZA,  Prof.Doc.I, mat.  nº 3085640-5,  Id.Func. 50782681/1,  período base  de  17/12/2020  a  16/12/2025.
 
@@ -5256,17 +5256,17 @@ O Decreto 47.365/2020 determina a obrigatoriedade da contratação da certifica�
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO  Nº  SEI-E-03/11002643/2001 -  JUCYARA  LOPES  TRAVERSO,Prof.Doc.II,matrícula nº 0241328-4, períodos base de 17/05/2015  A  16/05/2020  e  de 17/05/2020  a  15/07/2026. CONCEDO 06  (seis)  meses  de  licença  especial.
 
@@ -5429,17 +5429,17 @@ da Aplicação na e  Profissionali-
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 - 5.2.5.  Coordenadoria  de  Contabilidade  (COOCONT)
 - 5.2.6.  Coordenadoria  de  Administração  (COOADM) 5.2.7.  Coordenadoria  de  Arquivo  e  Protocolo  (COOPRO)
@@ -5534,41 +5534,41 @@ V  -  Transmitir  as  ordens,  informações  e  recomendações  do  Secretári
 - IV  -  Suporte  operacional  às  atividades  administrativas  diárias;
 - V  -  Exercer  outras  atividades  correlatas.
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0035/U0034
+054
 
-/U002D
+-
 
-/U006F
+o
 
-/U002D
+-
 
-/U0032/U0035
+25
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0033/U0031
+31
 
 ## COORDENADORIA DE ROTINAS ADMINISTRATIVAS (COORA)
 
@@ -5698,17 +5698,17 @@ Art.  23. A  Subsecretaria  de  Cooperação  com  o  Setor  Tecnológico  e Ino
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Parágrafo  Único.  Entende-se  como  setor  produtivo  as  pessoas  físicas
 
@@ -5774,9 +5774,9 @@ Art.  31. A Subsecretaria  de  Captação  de  Recursos e  Projetos  em Ciência
 
 Art.  33. Para o  cumprimento de suas  finalidades, compete  à Subsecretaria  de  Políticas  Públicas  e Captação  de  Recursos  (SUBCAP)  as seguintes  atribuições: I  -  Apoiar,  propor  e  coordenar  ações  voltadas  à  captação  de  recursos e  a  formulação  de  políticas públicas  para  implementação  de  programas  e  ações de  fomento  nas  áreas  de  Ciência, Tecnologia  e  Inovação; II  -  Representar a  Secretaria,  por  delegação  do Secretário,  junto  aos órgãos da administração  pública direta e indireta  das esferas federal, estadual  e municipal,  bem como  perante instituições  financeiras, entidades  de fomento  nacionais  e internacionais,  fóruns  nacionais e  internacionais, e  demais instituições  relacionadas à liberação  e execução de  programas e projetos  com recursos ou  financiamentos externos; III  -  Propor  e  apoiar  os  processos  de  articulação  e  de  implantação  de políticas  públicas,  programas  da  secretaria, bem  como  ações  de  captação  de  recursos  nacionais  e  internacionais,  públicos  e  privados,  a elaboração  de  estudos,  programas,  projetos  e  eventos; IV  -  Propor  e  apoiar  projetos  voltados  à  internacionalização  das  ações da Secretaria,  com o objetivo  de captar recursos junto  a instituições públicas  e  privadas  do  mercado  externo; V  Participar  da elaboração,  em conjunto  com as  demais subsecretarias,  de  diretrizes e  objetivos  para  execução  das  ações e  dos  programas prioritários para a Secretaria de Estado de Ciência, Tecnologia e  Inovação; VI -  Propor projetos  de lei, minutas  de projetos de  lei, decretos  e políticas  públicas  de  competência  da  Secretaria,  bem  como  ações e projetos  para obtenção  de  recursos relacionados  às  áreas de  ciência, tecnologia  e  inovação; VII  Promover  e  formalizar  parcerias institucionais,  por  meio de  acordos, convênios e outros  instrumentos congêneres, com outros órgãos governamentais e entidades privadas  conforme os interesses dos envolvidos; VIII  -  Executar  outras  atividades  que lhe  forem  atribuídas  pelo  Secretário  de  Estado. Art.  34. Para o  cumprimento de suas  finalidades, compete  à Superintendência de Captação de Recursos para Ciência, Tecnologia e Inovação  subordinada  à  Subsecretaria  de  Captação  de  Recursos  e  Projetos  em  Ciência,  Tecnologia  e  Inovação,  as  seguintes  atribuições: I -Articular,  acompanhar e coordenar a captação de  recursos e parcerias,  a  fim de  contribuir  para  a  execução  das políticas  públicas  do Estado; II -  Identificar recursos políticos, técnicos,  normativos e institucionais junto  às  diferentes  esferas  de  governo, bem  como  junto  a  iniciativas privadas,  nacionais  e  internacionais; III  Planejar,  coordenar  e  executar as  ações  de  negociação e  captação  de  recursos,  destinando-os  à  implementação  de  programas  e projetos  de  interesse  da  Secretaria; IV  -  Supervisionar  as  ações  e  parcerias  voltadas  à  captação  de  recursos  públicos  e  privados; V -  Atuar  em  conjunto  com  a  Superintendência de Projetos e Políticas Públicas,  com  as  outras  subsecretarias  e  órgãos  do  Estado  do  Rio  de Janeiro,  visando  à  captação  de  recursos  para  a  execução  de  projetos e  políticas  públicas; VI -Executar outras atividades  que lhe forem atribuídas pelo Secretário de Estado de Ciência,  Tecnologia e Inovação ou Subsecretário de  Políticas  Públicas  e  Captação  de  Recursos. Art.  35. Para  o  cumprimento de  suas  finalidades, compete  Coordenadoria  de  Captação  de  Recursos  Privados  as  seguintes  atribuições: I - Manter  mapeamento atualizado das oportunidades  de captação de recursos privados disponíveis em  bancos e instituições financeiras, fundos  de  investimentos  privados,  investidores, e  demais  fontes  potenciais; II -Identificar, orientar  e acompanhar a  tramitação dos  projetos e ações de interesse da Secretaria,  até  a  formalização  da  captação  dos recursos  privados; III  -  Articular  e  monitorar  a  proposição  de  projetos para a execução do recurso  captado; IV -Executar outras atividades  que lhe forem atribuídas pelo Secretário  de  Estado  de  Ciência,  Tecnologia  e  Inovação,  pelo  Subsecretário de Políticas  Públicas e  Captação de  Recursos ou  Superintendente de Captação  de  Recursos. Art.  36. Para  o  cumprimento de  suas  finalidades, compete  Coordenadoria  de  Captação  de  Recursos  Públicos  as  seguintes  atribuições:
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 - I - Manter  mapeamento atualizado das oportunidades  de captação de recursos  públicos  disponíveis  nos órgãos  governamentais,  fundações públicas,  fundos,  e  demais  fontes  potenciais; II -Identificar, orientar  e acompanhar a  tramitação dos  projetos e ações de interesse da Secretaria,  até  a  formalização  da  captação  dos recursos  públicos; III  -  Articular  e  monitorar  a  proposição  de  projetos para a execução do recurso  captado; IV -Executar outras atividades  que lhe forem atribuídas pelo Secretário de Estado de Ciência,  Tecnologia e Inovação ou Subsecretário de Políticas  Públicas e  Captação de  Recursos ou  Superintendente de Captação  de  Recursos. Art.  37. Para  o  cumprimento  de  suas  finalidades,  compete  a  Coordenadoria  de  Emendas  Parlamentares  as  seguintes  atribuições: I -  Mapear e  identificar oportunidades  de emendas  parlamentares, individuais  ou  coletivas,  federais  e  estaduais,  passíveis  de  captação  para  projetos  e  programas  de  interesse  da  Secretaria; II  -  Estabelecer  articulação  institucional  com  parlamentares  e  respectivas  assessorias  técnicas,  visando  à  indicação  de  emendas  ao  orçamento  público  destinadas  à  área  de  Ciência,  Tecnologia  e  Inovação; III  -  Manter  atualizado  o  banco  de  dados  das  emendas  parlamentares captadas,  com  informações  sobre  valores,  parlamentares  proponentes, objetos  dos  projetos  e  status  da  execução; IV - Elaborar relatórios periódicos de acompanhamento e prestação de contas  relativos  às  emendas  parlamentares  recebidas; V  Executar  outras  atividades  que lhe  forem  atribuídas pelo  Secretário  de  Estado  de  Ciência,  Tecnologia  e  Inovação,  pelo  Subsecretário de Políticas  Públicas  e  Captação  de  Recursos  ou  pelo  Superintendente  de  Captação  de  Recursos. Art.  38. Para o  cumprimento  de  suas finalidades,  compete  Superintendência  de  Postulação  de  Projetos  de  Ciência,  Tecnologia  e  Inovação  as  seguintes  atribuições: I  Promover  estudos, diagnósticos  e  ações, em  parceria com  outras subsecretarias, referentes aos projetos  de políticas públicas voltados para as  competências de  Ciência, Tecnologia  e Inovação  no estado do  Rio  de  Janeiro; II  Contribuir  para o  planejamento estratégico  dos projetos  e ações voltados à Ciência,  Tecnologia e Inovação no âmbito  do Estado do Rio  de  Janeiro; III -  Propor, elaborar  e acompanhar projetos  de implantação  de políticas  públicas  com vistas  à  internacionalização  das ações  da  Secretaria,  de  forma  a  subsidiar  e  orientar  a  captação  de  recursos  das  instituições  públicas  e  privadas  do  mercado  externo. IV -  Atuar em conjunto com  a Superintendência de Captação  de Recursos, com as  outras subsecretarias e órgãos do Estado  do Rio de Janeiro,  com  vista à  viabilização  de  diferentes modalidades  de  captação  de  recursos  públicos  e  privados,  nacionais  e  internacionais; V  -  Participar  da  articulação  de ações,  em  conjunto  com  outros  órgãos governamentais, em negociações  de programas e projetos afins relacionados com a  Política Estadual de Ciência,  Tecnologia e Inovação. VI -Executar outras atividades  que lhe forem atribuídas pelo Secretário de Estado de Ciência,  Tecnologia e Inovação ou Subsecretário de  Captação de  Recursos  e  Projetos em  Ciência,  Tecnologia e  Inovação. Art.  39. Para  o  cumprimento  de  suas  finalidades,  compete  à  Coordenadoria  de  Projetos  Estratégicos  as  seguintes  atividades: I -  Identificar, propor, orientar  e acompanhar projetos  para implementação de  políticas públicas e de  captação de recursos públicos  e privados; II  -  Propor  programas,  ações  e eventos  para  o  desenvolvimento  da ciência,  tecnologia  e  inovação  no  Estado  do  Rio  de  Janeiro; III  -  Desenvolver metodologias,  planos  e  atividades que  possibilitem  o aperfeiçoamento  do  acompanhamento  dos  projetos  sob  sua  responsabilidade; IV  -  Elaborar  relatórios  técnicos  e  gerenciais  relativos  às  atividades desenvolvidas; V -Executar outras  atividades  que  lhe  forem  atribuídas  pelo  Secretário de Estado de Ciência, Tecnologia e Inovação ou Subsecretário de Políticas Públicas  e Captação de  Recursos ou Superintendente  de Projetos  e  Políticas  Públicas. Art.  40. Para  o  cumprimento  de  suas  finalidades,  compete  à  Coordenadoria  de  Projetos  Estruturantes  as  atividades: I -  Identificar, propor, orientar  e acompanhar a implementação  e gestão  de políticas  públicas,  em conjunto  com  as demais  subsecretarias, com  os diversos  órgãos da  administração pública  direta e  indireta da União,  Estado e  Municípios, bem  como com  instituições financeiras, entidades  de  fomento  nacionais  e  internacionais; II  -  Fomentar, aperfeiçoar  e  consolidar,  no  âmbito estadual,  planos  de aplicação  e  consolidação  de  políticas  públicas  integradas,  estratégicas entre  as  diferentes  esferas  federativas;
 - III  -  Executar outras  atividades  que  lhe  forem atribuídas  pelo  Secretário de Estado de Ciência,  Tecnologia e Inovação ou Subsecretário de Políticas  Públicas e  Captação de  Recursos ou  Superintendente de Projetos  e  Políticas  Públicas.
@@ -5812,41 +5812,41 @@ Art.  46. A  Coordenadoria de  Ensino Superior  (COOESUP), subordinada à  Super
 - Art.  48. A Coordenadoria de  Ensino Técnico, Tecnológico  e Profissionalizante  (COOETEC),  subordinada  à  Superintendência  de  Ensino  Superior  e  Técnico,  tem  por  competência  as  ações  de  estímulo  à  elaboração  de  estudos e  diagnósticos  no  campo  do ensino  técnico  profissionalizante das instituições de ensino técnico-profissional no Estado do  Rio  de  Janeiro. Art.  49. Para  o  cumprimento  de  suas  finalidades,  compete  à  Coordenadoria de  Ensino Técnico, Tecnológico e  Profissionalizante as seguintes  atribuições: I  Promover  a  política e  os  programas de  acesso  a capacitação  profissional a jovens, trabalhadores  e empreendedores, fomentando o aprendizado  das  principais  técnicas  a serem  utilizadas  nas  profissões contidas  dentro  dos  eixos  tecnológicos  em  consonância  com  as  demandas de desenvolvimento  regional  e  setorial  no  Estado; II  -  Garantir  a  articulação  dos  programas,  planos  estratégicos,  integrados  e  projetos  pedagógicos  da  Secretaria  de  Estado  de  Ciência,  Tecnologia e Inovação, junto aos  órgãos, autarquias e municípios partícipes  no processo  consolidado  de ampliação  da educação  tecnológica; III  -  Acompanhar  e  avaliar  a  implementação  das  diretrizes  curriculares nacionais, estaduais  e municipais  para o  Ensino Técnico  e Profissionalizante,  levando em  consideração a  inclusão e  o respeito  às diversidades; IV -  Promover análise,  transparência e  acesso as  informações pertinentes  ao  ensino  técnico,  tecnológico  e  profissionalizante; V Implementar  ações técnicas e integradas  de caráter institucional, normativo e procedimental para a aplicação consolidada de programas vinculados  ao  desenvolvimento  tecnológico  no  Estado  do  Rio  de  Janeiro; VI -Participar,  de modo intersetorial, na criação e  ampliação de projetos estratégicos de fomento à  inovação, ao crescimento produtivo e ao  desenvolvimento  tecnológico  no  Estado  do  Rio  de  Janeiro; VII -  Assistir e apoiar  tecnicamente a execução de  programas, projetos e  ações voltados para  a melhoria do ensino  técnico, tecnológico e  profissionalizante  no  âmbito  da  Subsecretaria; VIII  - Colaborar  na elaboração,  formalização e  gestão de  convênios e cooperações técnicas entre os entes federativos, no que couber à Secretaria  de Estado  de Ciência,  Tecnologia  e Inovação  do Estado  do Rio  de  Janeiro; IX  -  Assessorar  no  aperfeiçoamento normativo  e  procedimental  das aplicações administrativas, técnicas, fiscais  e programáticas dos projetos  tecnológicos, bem  como as  diretrizes norteadoras  das políticas públicas  vinculadas;
 - X  -  Executar  e  desenvolver  outras  atividades  que  lhe  forem  atribuídas pelo  Subsecretário.
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0033/U0033
+33
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0034
+054
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0032/U0035
+25
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## DA SUPERINTENDÊNCIA DE PESQUISA E DESENVOLVIMENTO CIENTÍFICO E TECNOLÓGICO (SUPDES)
 
@@ -5940,9 +5940,9 @@ Art.  66. À  Coordenadoria  de  Contratos  e  Convênios,  compete:
 - Art.  68. À  Coordenadoria  de  Contabilidade,  compete: I  Realizar  o registro  contábil dos  atos  e dos  fatos que  afetam o  patrimônio  da  Secretaria,  respaldado  por documentos  que  comprovem  a operação  e seu  registro,  mediante classificação  em conta  adequada, visando  à salvaguarda  dos bens  e à  verificação da  exatidão e  regularidade  das  contas; II  -  Assegurar  a  qualidade  da  informação  contábil  quanto  aos  critérios de fidedignidade, mensuração, apresentação  e divulgação das demonstrações  contábeis; III  -  Manter  os  registros  contábeis  atualizados  de  forma  a  permitir  a análise  e o  acompanhamento  pelos órgãos  centrais  que compõem  o Sistema  de  Controle  Interno  e  pelo  controle  externo; IV  -  Manter  atualizada  a  relação  dos  responsáveis  por  bens  e  valores, inclusive  dos ordenadores  de despesa  e os  responsáveis por  almoxarifado  e  bens  patrimoniais; V  -  Elaborar  o  processo  de  Prestação  de  Contas  Anual  de  Gestão; VI -  Analisar a  paridade entre  os saldos  inventariados dos  bens patrimoniais  e  em  almoxarifado  e  os  registros  contábeis; VII  -  Orientar  a  aplicação  e  a  apresentação  das  prestações  de  contas dos  adiantamentos  e  fazer  registro  no  sistema  de  controle; VIII  Organizar  e  analisar,  os balancetes,  balanços  e outras  demonstrações  financeiras  da  Secretaria;
 - IX  -  Providenciar  os  registros  contábeis  após  instauração  do  processo de  tomada  de  contas  que  der  causa  a  perda,  extravio  ou  outra  irre-
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 gularidade  de  que  resulte,  ou  possa  resultar  dano  ao  Erário,  devidamente  quantificado,  e  nos  casos  em que  a  legislação  exija  prestação de  contas  do  responsável,  e  este  não preste,  ou  o  faz  de  forma  irregular,  e  nos  demais  casos  previstos  na  legislação  vigente; XI  -  Propor impugnação,  mediante  representação  à autoridade  competente, quaisquer atos referentes a  despesas efetuadas sem a existência  de crédito,  ou quando  imputada  a dotação  imprópria no  âmbito do órgão/entidade, fazendo comunicação imediata à Controladoria Geral  do  Estado,  sem  prejuízo  da  instauração  da  competente  tomada  de contas; XII  -  Certificar  a  regularidade  da  liquidação  da  despesa; XIII  -  Realizar  a  conformidade  contábil  dos  atos  e  fatos  da  gestão  orçamentária, financeira e patrimonial  praticados pelos ordenadores de despesa e responsáveis por bens  públicos, à vista das normas contábeis aplicadas ao setor público, do  plano de contas aplicado ao setor  público  e  da  conformidade  diária  da  unidade  gestora; XIV  -  Promover  análise  e acompanhamento  das  contas  analíticas  garantindo seu  registro com  individualização do  devedor ou  do credor, quanto  à  especificação  da  natureza,  importância  e  data  do  vencimento; XV - Observar as instruções do Órgão Central de Contabilidade quanto à  aplicação do Plano de  Contas, rotinas contábeis e  dos Manuais de  Procedimentos; XVI  -  Manter  controle  de  formalização,  de  guarda,  de  manutenção  ou de destruição de dados e outros meios de registro contábeis, bem como dos documentos relativos  à  vida  patrimonial; XVII - Analisar e interpretar os resultados econômicos e financeiros da Secretaria,  apresentando  informação  contábil  útil  à  tomada  de  decisão e  accountability; XVIII - Controlar a movimentação financeira das contas bancárias, junto  a  Coordenadoria  de  Finanças; XIX  -  Preparar  e  encaminhar  a  Declaração  do  Imposto  de  Renda  Retido na  Fonte (DIRF) e  Declaração de Débitos e  Créditos TributáriosFederais  (DCTF)  à  Secretaria  da  Receita  Federal; XX  -  Realizar no  Sistema  Integrado  de Gestão  Orçamentária,  Financeira  e  Contábil  do  Estado  do Rio  de  Janeiro  (SIAFE-RIO)  as  conformidades  diárias  e  mensais; XXI -Analisar  e sanar as pendências apontadas  em contas bancárias; XXII  -  Registrar  informações  nos  sistemas  de  órgãos  de  controle;  e XXIII  Exercer  outras atividades  correlatas  à sua  área de  atuação, conforme  necessidade  e  demandas  da  Subsecretaria  Executiva.
 
@@ -5962,17 +5962,17 @@ Art.  71. À  Comissão  de  Acompanhamento,  Gestão  e  Fiscalização  de Con
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 VI  -  Verificar  a  quitação  das  obrigações  contratuais  e  legais  antes  do recebimento  definitivo. VII  -  Manter comunicação  formal  para  registro  de orientações  e  solicitações. VIII  -  Encaminhar  à  autoridade competente  registros  de  ocorrências que  exijam  decisão  administrativa Parágrafo  único.  A Comissão  poderá  adotar  outras providências  necessárias  ao pleno  cumprimento do  contrato, observada  a legislação vigente  e  as  orientações  da  autoridade  competente.
 
@@ -5992,41 +5992,41 @@ Art.  74. À Comissão  Permanente  de  Licitação (COMPELI),  designada pelo  
 
 Art.  75. À Comissão  Permanente de  Tomada de  Contas, designada por  autoridade competente  nos  termos da  Deliberação TCE/RJ  nº 279/2017  e da  Instrução Normativa  AGE/RJ nº  51/2023, tem  por finalidade apurar irregularidades relacionadas  à aplicação de recursos públicos  e  a eventual  ocorrência  de  danos  ao erário,  exercendo,  para tanto,  as  seguintes  atribuições: I -  Planejar e conduzir  os trabalhos  de apuração, adotando  as providências necessárias à elucidação dos fatos, com base nos princípios da legalidade,  motivação,  contraditório,  ampla  defesa,  celeridade  e  eficiência. II  Conduzir  as  Tomadas de  Contas Insaturadas  no  âmbito da  Secretaria  de  Estado de  Ciência,  Tecnologia  e Inovação,  conforme  Deliberação  TCERJ 279/2017, instruindo  o  processo  com  os  documentos que  integram Deliberação  supramencionada, emitindo  relatório conclusivo  que  deverá  conter,  no  mínimo: a) descrição das medidas administrativas de que trata o art. 4º da Deliberação supramencionada, contendo o  relato das providências adotadas  com  vista  à  elisão  do  dano; b)  identificação  dos  responsáveis  com individualização de condutas inquinadas e estabelecimento de nexo de causalidade entre as referidas condutas  e  o  dano  causado; c) quantificação  do débito  relativamente a  cada um  dos responsáveis, apresentando  a  metodologia  de  cálculo utilizada  e  as  normas  aplicáveis; d)  relato das  situações  e  dos fatos,  com  indicação  dos atos  ilegais, ilegítimos  ou antieconômicos  de  cada um  dos  responsáveis que  deram  origem  ao  dano; e) informação sobre eventuais  ações judiciais pertinentes aos fatos que  deram  ensejo  à  instauração  da  tomada  de  contas; f) parecer  conclusivo da comissão  de tomada de contas  quanto à comprovação da ocorrência  do dano, à quantificação e  à correta imputação  da  obrigação  de  ressarcir  a  cada  um  dos  responsáveis;
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0033/U0035
+35
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0032/U0035
+25
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0034
+054
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 III  -  observar as  atribuições  e  orientações previstas  na  Resolução CGE nº 107/2021 ou outra que venha a substituí-la, que dispõe quanto a  orientação técnica aos  órgãos e entidades da  administração estadual,  na instauração,  organização  e certificação  de  tomada de  contas  no  âmbito  do  poder  executivo  Estadual. IV -Executar outras atividades  que lhe forem atribuídas pelo Secretário  de  Estado  de  Ciência,  Tecnologia  e  Inovação.
 
@@ -6142,17 +6142,17 @@ P  T : 12.122.0002.8021 Natureza da Despesa: 3.3.90 Fonte de Recursos: 1.500.100
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 - VI A emissão da respectiva  Nota de Crédito no SIAFERIO fica condicionada  a existência  da dotação  orçamentária disponível  no programa de trabalho,  elemento  de  despesa  e  fonte  acima  referidos.
 
@@ -6378,17 +6378,17 @@ Presidente  do  Conselho  Superior  do  FECAM  em  Exercício
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E  INOVAÇÃO UNIVERSIDADE ESTADUAL DO NORTE FLUMINENSE DARCY RIBEIRO
 
@@ -6443,41 +6443,41 @@ ATO DOS PRESIDENTES EM EXERCÍCIO
 
 ## DELIBERAÇÃO EXECUTIVA FECAM Nº 375 DE 19 DE MARÇO DE 2026
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0033/U0037
+37
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0041/U004E/U004F
+ANO
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0035/U0034
+054
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U002D
+-
 
-/U0032/U0035
+25
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E  INOVAÇÃO UNIVERSIDADE ESTADUAL DO NORTE FLUMINENSE DARCY RIBEIRO
 
@@ -6586,17 +6586,17 @@ Id:  2723702
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ## Secretaria de Estado de Cultura e Economia Criativa
 
@@ -6866,17 +6866,17 @@ Art. 1º Fica criado, no âmbito FUNDAÇÃO LEÃO XIII, o Comitê Permanente do 
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 - Art.  2° -O Comitê Permanente do PEDTIC é órgão de natureza consultiva  e de  assessoramento dentro  da estrutura  organizacional e  sua atuação é de  caráter permanente, tendo como  objetivo estratégico facilitar  o  acesso,  recebimento  e  circulação  das  informações  e  dados que  resultarão  na  elaboração  e  revisão  do  PEDTIC.
 - Art.  3° -O  Comitê  Permanente  do  PEDTIC  da  Fundação  Leão  XIII será  integrado  pelos  seguintes  servidores:
@@ -6987,39 +6987,39 @@ PROCESSO  Nº SEI-300001/001902/2025 - APROVO a retificação  do resultado  fin
 
 Id:  2723538
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0030/U0035/U0034
+054
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U002D
+-
 
-/U0032/U0035
+25
 
 ## SECRETARIA DE ESTADO DE ESPORTE E LAZER
 
@@ -7105,17 +7105,17 @@ Art.  1º -Designar  os  servidores abaixo  relacionados  para  compor  a Comiss
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 Roberta  da  Silva  Macedo  Mello,  Id.  Funcional  4193268-4. FISCAL ADMINISTRATIVO SUPLENTE: Eduardo  Fernando  Silva  Alves,  Id.  Funcional  5172755-2. FISCAL TÉCNICO TITULAR: Leonardo  Vianna  Maldonado  da  Silva , Id.  Funcional  5096266-3. FISCAL TÉCNICO SUPLENTE: Pedro  Henrique  Pestana  Justo,  Id.  Funcional  5167370-3.
 
@@ -7348,17 +7348,17 @@ Id:  2723677
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Energia e Economia do Mar
 
@@ -7423,39 +7423,39 @@ PROCESSO  Nº  SEI-480002/004330/2025 -HOMOLOGO o  Parecer Final nº  2/2026/AGE
 
 Id:  2723913
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0030/U0035/U0034
+054
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0035
+25
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U002D
+-
 
-/U002D
+-
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## Secretaria de Estado de Habitação de Interesse Social
 
@@ -7541,43 +7541,43 @@ Companhia Estadual  de  Habitação  do  Estado  do  Rio  de  Janeiro
 
 Id:  2723786
 
-/U0034/U0031
+41
 
-/U0034/U0032
+42
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U004C/U0049/U0049
+LII
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0035/U0034
+054
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0032/U0035
+25
 
 FISCAL ADMINISTRATIVO: Vanessa  Batista  Pacheco  -  ID.  Funcional:  51737310; Suplente:  Alexandre  dos  Santos  -  ID.  Funcional:  5146455-1.
 
@@ -7703,17 +7703,17 @@ Id:  2723904
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
 Art.  3º  Esta  Resolução  entrará  em  vigor  na  data  de  sua  publicação, revogadas quaisquer  disposições em  contrário, em especial,  a Resolução  PGE  n°5209  de  02  de  junho  de  2025.
 
@@ -7877,9 +7877,9 @@ PROCESSO Nº SEI-140001/003641/2022 -ANTONIO JOAQUIM PIRES  DE CARVALHO  E ALBUQ
 
 PROCESSO  Nº SEI-140001/006505/2025 -AUGUSTO  HENRIQUE PEREIRA  DE SOUSA  WERNECK MARTINS,  Procurador(a) do  Estado, ID Funcional n.º 19218524, correspondente ao período de 26/01/2026  a  09/02/2026  (15  dias).
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 PROCESSO  Nº  SEI-140001/036817/2023 -AURELIO  CARLOS  DE SOUZA JUNIOR, Procurador(a) do Estado, ID Funcional n.º 99992248, correspondente ao período de 02/02/2026 a 11/02/2026 (10 dias).
 
@@ -7973,17 +7973,17 @@ PROCESSO  Nº SEI-140001/003466/2022 -DANIEL DE  SOUZA VELLAME,  Procurador(a)  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 PROCESSO  Nº SEI-140001/003466/2022 -DANIEL DE  SOUZA VELLAME,  Procurador(a)  do  Estado,  ID Funcional  n.º  99991306,  correspondente  ao  período  de  18/02/2026  a  27/02/2026  (10  dias).
 
@@ -8055,41 +8055,41 @@ PROCESSO Nº SEI-140001/007510/2022 -FERNANDA WOLF VON  ARCOSY TEIXEIRA,  Procur
 
 PROCESSO Nº SEI-140001/004085/2022 -FERNANDO JOSE LEMME  WEISS,  Procurador(a)  do  Estado, ID  Funcional  n.º  5474434, correspondente  ao  período  de  05/01/2026  a  03/02/2026  (30  dias).
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0034/U0033
+43
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0032/U0035
+25
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0035/U0034
+054
 
-/U002D
+-
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 PROCESSO  Nº  SEI-140001/002318/2022 -FLAVIO  ASSAID  SFAIR DA  COSTA ROCHA,  Procurador(a)  do Estado, ID Funcional n.º 50243373, correspondente ao período de 05/12/2025 a 31/12/2025 (27 dias).
 
@@ -8190,17 +8190,17 @@ Louvado  nas  informações  prestadas  pelo  chefe  imediato, A  U  TO  R  I  Z
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -8294,17 +8294,17 @@ Id:  2723529
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## DEPARTAMENTO DE TRÂNSITO DO E S  TA  D  O DO RIO DE JANEIRO
 
@@ -8314,9 +8314,9 @@ I  N S  T  R  U  M  E  N  TO  : TERMO DE CREDENCIAMENTO Nº 071/2026. PA  R  TES
 
 I  N S  T  R  U  M  E  N  TO  : TERMO DE CREDENCIAMENTO Nº 076/2026. PA  R  TES: DETRAN/RJ E CHAPECÓ AUTO PEÇAS COMÉRCIO E ACESSÓRIOS  AUTOMOTIVOS  LTDA. O  B  J  E  TO  : Credenciamento  e  funcionamento  de  empresa  nos  ramos da  desmontagem  e  comercialização de peças usadas de veículos automotores terrestres no Estado do Rio de Janeiro. PRAZO: 1  (um)  ano,  contado  a  partir  da  publicação  deste extrato. DATA  DA ASSINATURA: 24/03/2026. F  U  N  D  A  M  E  N  TA  Ç  Ã  O LEGAL: Lei  Federal nº 14.133/2021, Lei  Federal 12.977/2014, Resolução CONTRAN  nº 611/2016 e Portaria  DETRAN SEIº 6.880/2025. PROCESSO ADMINISTRATIVO SEI-430001/006554/2025.
 
-/U0049
+I
 
-/U0034/U0035
+45
 
 <!-- image -->
 
@@ -8367,17 +8367,17 @@ Id:  2723767
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | Expk  Indústria  e  Comércio  de  Embala-  gens  Ltda  17.104.971/0001-84  2103926  09/04/2026  às  10:00h Sacos  para  lixo  oxi  biodegradáveis  c/60un  -  Pack  Lixo  (dim.:  39cm  X  58cm)  Coala  do  Brasil  S.A.  69.328.961/0001-26  2103922  14/04/2026  às  09:00h Limpador  perfumado  de  ambientes  concentrado  bambú  c/120ml  -  Coa-  la  Indústria  Brascoco  de  Alimentos  Ltda  30.505.736/0001-82  2103916  14/04/2026  às  09:40h  Coco ralado  úmido  e  adoçado  c/50g  -  Bahia  Predilecta  Alimentos  Ltda  62.546.387/0001-33  2103900  14/04/2026  às  10:00h  Extrato  de  tomate  c/140g  -  Predi-  lecta  Chimica  Baruel  Ltda  61.362.182/0002-16  2  1  0  3   9  11  14/04/2026  às  10:20h  Desodorante  p/os  pés  secos  e  cheirosos  no  formato  em  pó  c/100g  -  Tenys  Pé  Baruel  Chimica  Baruel  Ltda  61.362.182/0002-16  2  1  0  3   9  11  14/04/2026  às  10:20h Desodorante  p/os  pés  c/100g  -  Te-  nys  Pé  Baruel  Chimica  Baruel  Ltda  61.362.182/0002-16  2  1  0  3   9  11  14/04/2026  às  10:20h Desodorante  p/os  pés  sport  edition  c/100g  -  Tenys  Pé  Baruel  Condor  S.A.  86.046.448/0001-61  2103906  14/04/2026  às  11:20h  Esponja  multi  uso  c/4un  -  Condor  (contém  4  esponjas  de  105mm  X  73mm X 18mm)  Cargill  Agrícola  S  A  60.498.706/0078-36  2103923  15/04/2026  às  09:00h Óleo  composto  de  soja  e  oliva  5%  c/500ml  -  Maria  Cargill  Agrícola  S  A  60.498.706/0078-36  2103923  15/04/2026  às  09:00h Óleo  composto  de  soja  e  oliva  5%  c/200ml  -  Maria  Cargill  Agrícola  S  A  60.498.706/0078-36  2103923  15/04/2026  às  09:00h Óleo  composto  de  soja  e  oliva  5%  c/500ml  -  Olívia  Cargill  Agrícola  S  A  60.498.706/0370-77  2103904  15/04/2026  às  11:00h Molho  de  tomate  tradicional  c/300g  -  Pomodoro  Cica  Schwanke Industrial  Ltda  82.639.477/0001-86  2103907  15/04/2026  às  11:20h Panos  multiuso  c/picote  c/1un  -  Al-  klin  (obs.:1  rolo  com  25  panos  pi-  cotad.  21cm  X  29cm)  Schwanke Industrial  Ltda  82.639.477/0001-86  2103907  15/04/2026  às  11:20h  Esponja  multiuso  c/4un  -  Brilhex  (contém  4  esponjas  de  99mm  X  71mm X 20mm)  Nacom Goya Indústria  e  Comércio  de  Alimentos  Ltda  61.724.241/0001-78  2103915  16/04/2026  às  09:00h  Champignon inteiro  em  conserva  c/170g  -  Campo  Belo  Nacom Goya Indústria  e  Comércio  de  Alimentos  Ltda  61.724.241/0001-78  2103915  16/04/2026  às  09:00h  Pimenta  biquinho  em  conserva  suave  c/330g  -  Campo  Belo  (peso  drenado  200g)  Nacom Goya Indústria  e  Comércio  de  Alimentos  Ltda  61.724.241/0001-78  2103915  16/04/2026  às  09:00h  Champignon fatiado  em  conserva  c/170g  -  Campo  Belo  (peso  drena-  do  100g)   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8636,17 +8636,17 @@ Id:  2723664
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Polícia Civil
 
@@ -8731,17 +8731,17 @@ Id:  2723621
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS SERVIÇO DE PROMOÇÕES
 
@@ -8799,17 +8799,17 @@ Id:  2723764
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS SERVIÇO DE PROMOÇÕES
 
@@ -8848,57 +8848,57 @@ Id:  2723769
 | Sindicância  Resumo dos fatos  861-00203/2026  Trata-se de Sindicância Sumária,  instaurada na DHBF - DELEGACIA DE HOMICÍDIOS  DA BAIXADA FLUMINENSE, objetivando apurar ATO DE BRAVURA  decorrente da ação  policial  que,  no  dia  11/02/2026,  nas  cidades  de  Saquarema  e  Araruama,  após  obtenção  e  utilização  de  dados  de  inteligência  e  informações  policiais,  bem  como  realização  de  atividades  operacionais  prévias  relacionadas  à  morte,  no  ano  de  2023,  do  comerciante  e  vítima  GREGORI  DE  LIMA  MARTINS,  no  âmbito  do  inquérito  policial  RO/IP  054-13070/2023,  resultou  nas  prisões,  por  mandado,  pelos  crimes  de extorsão  com  resultado  morte e ocultação  de  cadáver,  dos criminosos  E.Z.,  D.F.S.  e  V.M.S.Z.,  de acordo com RO  861-00128/2026,  RO  861-  00129/2026  e  RO  861-00130/2026.  Id.  Funcional  Sindicados  50230557  ANDRÉ FELIPPE CAVALCANTE  50836218  ANDERSON ROBERTO DA SILVA MACHADO   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0032/U0035
+25
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0034
+054
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0034/U0039
-
-<!-- image -->
+49
 
 <!-- image -->
 
-/U0044/U004F
+<!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+DO
 
-/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+DO
 
-/U0044/U0045
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+DE
+
+JANEIRO
 
 | 51480239  AILTON MATEUS PEREIRA DE LIMA  50331930  CAMILA AMARAL BARBOSA  50126385  CLAUDIO HENRIQUE DE RESENDE FERNANDES  51268337  DANIEL DOS SANTOS NASCIMENTO  50220896  EMERSON LORENÇÃO GONÇALVES  43732640  FABIAN COSTA GUEDES  43732615  FABRICIO LUZ GUIMARAES  51479710  GUSTAVO MARCELINO NEVES  51472988  HUGO DE OLIVEIRA FREITAS  5  1  6  3   3  11  6  HUMBERTO OZÓRIO DE OLIVEIRA JÚNIOR  50331841  LEONARDO ALVES FACIO HORA  51477521  LUCAS FERREIRA LIMA RUI  51712156  LUCIANA VIEIRA GAMA  51479729  MANOELA DE OLIVEIRA SAMPAIO CABRAL  51381419  PRISCILA SIMÕES PINHEIRO  20017057  SILVIO  BATISTA  DE  OLIVEIRA  50299506  VICTOR AUGUSTO PIMENTEL NASCIMENTO  51560720  YGOR DE FREITAS PEREIRA DA SILVA  51470535  THAILISON DIEGO DE SOUSA COSTA  51643502  THAÍSA SANTOS DE CARVALHO  29184380  NILDO DOS SANTOS   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8946,17 +8946,17 @@ Id:  2723774
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS SERVIÇO DE PROMOÇÕES
 
@@ -9068,17 +9068,17 @@ Id:  2723890
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS SERVIÇO DE PROMOÇÕES
 
@@ -9262,17 +9262,17 @@ INSTRUMENTO: Termo de Ajuste  de Contas nº 015/2026. PA  R  T  E  S  : Fundaç�
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 centos e  oitenta e  oito reais  e setenta  e quatro  centavos). FUNDAMENTO: Decidido no processo administrativo SEI080002/031428/2025. DATA DA ASSINATURA: 22/03/2026.
 
@@ -9298,39 +9298,39 @@ INSTRUMENTO: Termo de Ajuste  de Contas nº 518/2026. PA  R  T  E  S  : Fundaç�
 
 INSTRUMENTO: Termo de Ajuste  de Contas nº 521/2026. PA  R  T  E  S  : Fundação Saúde  do Estado do  Rio de  Janeiro e a  empresa CON-
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0032/U0035
+25
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0034
+054
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 SERV  IGUAÇU PRESTAÇÃO  DE  SERVIÇOS  DE LIMPEZA  LTDA. O  B  J  E  TO  : Tem por  objeto  a indenização  pela  prestação de  serviços de apoio administrativo e outras  atividades operacionais, para a Sede da  Fundação  Saúde, no  período  de  01/01/2026 à  31/01/2026,  conforme solicitado e comprovado através da apresentação das notas fiscais devidamente  atestadas, tendo  sua  viabilidade  jurídica confirmada  pelo Parecer  n.º 764  (SEI-126731318). VALOR  TOTAL: R$  413.087,81 (quatrocentos e  treze mil, oitenta e  sete reais e oitenta  e um centavos). FUNDAMENTO: Decidido no processo administrativo SEI080002/004575/2026. DATA DA ASSINATURA: 23/03/2026.
 
@@ -9356,7 +9356,7 @@ INSTRUMENTO: Termo de Ajuste  de Contas nº 596/2026. PA  R  T  E  S  : Fundaç�
 
 <!-- image -->
 
-/U0035/U0034
+54
 
 das, tendo sua  viabilidade jurídica confirmada pelo  Parecer n.º 849 (SEI-127068523). VALOR TOTAL: R$ 24.053,25  (vinte e  quatro mil, cinquenta  e três  reais e  vinte e  cinco centavos). FUNDAMENTO: Decidido no processo  administrativo SEI-080002/004042/2026. DATA  DA ASSINATURA: 23/03/2026.
 
@@ -9412,17 +9412,17 @@ ENSINO MÉDIO Processo  nº  SEI-030001/025751/2026 Wellington  Alencar  Copque 
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 - 7  -  ABEU  COLÉGIOS  -  Nilópolis
 
@@ -9670,17 +9670,17 @@ NOMEAÇÃO : Portaria  nº  HUPE/2540/2026.
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 ## DATA DA ASSINATURA: 24  de  março  de  2026. FUNDAMENTO DO ATO: Processo  nº  SEI-260007/016502/2025.
 
@@ -9754,7 +9754,7 @@ TOS LTDA.
 
 OBJETO: Aquisição  de  medicamento  para  o  HUPE.
 
-/U0049
+I
 
 VIGÊNCIA: 12  (doze)  meses. FUNDAMENTAÇÃO DA DESPESA: Pregão  Eletrônico  nº  050/2026. VALOR: R$  1.960,00  (um  mil  novecentos  e  sessenta  reais). N.E: 2026NE00632. G  E  S  TO  R  : Luiz  Fernando  Ventura  de  Souza  -  matrícula  nº  36.229-3. FISCAL: Suzete  Henrique  da  Silva  -  matrícula  nº  851-857-1. NOMEAÇÃO : Portaria  nº  HUPE/2540/2026. DATA DA ASSINATURA: 24  de  março  de  2026. FUNDAMENTO DO ATO: Processo  nº  SEI-260007/016502/2025.
 
@@ -9872,39 +9872,39 @@ O SUPERINTENDENTE DE GESTÃO DE PESSOAS ,  em  conformidade  com  o  Edital  do 
 
 Id:  2723860
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0035/U0034
+054
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0035
+25
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E  INOVAÇÃO FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO CENTRO DE CIÊNCIAS SOCIAIS FACULDADE DE DIREITO
 
@@ -9966,17 +9966,17 @@ Id:  2723731
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Transporte e Mobilidade Urbana
 
@@ -10188,17 +10188,17 @@ OBJ  E  TO  : Contratação  de  empresa  especializada  para  a  prestação  d
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 - O Edital encontra-se à disposição nos sites: http://www.compras.rj.gov.br e  http://www.ceasa.rj.gov.br/pregao, podendo,  ser retirado,  na forma  impressa, no  Setor de  Licitações e  Contratos da  CEASA-RJ, situada na Av. Brasil, 19.001-  Irajá - RJ - Prédio da Administração  -  5°  andar -  sala  509,  de  2ª  a  6ª  feira, das  09:00h  às  14:00h, mediante  a permuta  de uma  resma de  papel A4  (quinhentas folhas). Para  retirada do  edital,  informações  pelo e-mail:  procedimentoslicitatorios.ceasa@gmail.com.
 
@@ -10378,37 +10378,37 @@ PROCESSO Nº SEI-180002/000653/2026.
 
 Id:  2723518
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0030/U0035/U0034
+054
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0032/U0035
+25
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA FUNDAÇÃO ANITA MANTUANO DE ARTES DO ESTADO DO RIO DE JANEIRO
 
@@ -10618,17 +10618,17 @@ A PRESIDENTE  DA 3ª  COMISSÃO PERMANENTE  DE PROCESSO ADMINISTRATIVO  DISCIPLI
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 tivo Disciplinar  nº SEI-320001/000741/2026,  instaurado por  força da Portaria CGE/CORREG  1468, datado  de 16/03/2026,  publicada no DOERJ em  19/03/2026, tendo  em vista  o disposto  no artigo  22, §4º da  Lei Estadual  n.º  5.427/09  e aplicação  analógica  do  artigo 75  do Decreto-Lei n° 220/75, Faz Saber a servidora EDINEIA DOS SANTOS ROSA ,  ID  Funcional nº  4.008.706-9  -  Matrícula: 0826.644-7  -  Professor  Docente  I  -  Vínculo  1,  que  está  sendo CONVOCADA/NOTIFICADA a comparecer  à sede  da  Comissão Processante,  situada na  Avenida  Erasmo Braga,  118, 12º  andar  Sala  das Comissões  Centro  Rio  de Janeiro/RJ  -  fesilva@cge.rj.gov.br, rrnunes@cge.rj.gov.br;  acoliveira@cge.rj.gov.br;  wfirmino@cge.rj.gov.br,  Tel.:  (21)  2333-1887,  no horário  de  10  às  16  horas,  dentro  do  prazo  de  20  (vinte)  dias,  a  contar  da primeira  publicação do  presente Edital,  a fim  de prestar  esclarecimentos a  respeito do  Processo: SEI-030001/093109/2025  a que responde  pela ausência  ao  serviço por  10  (dez) dias  consecutivos, momento em que será oportunizada  cópia  do  referido  PAD.
 
@@ -10962,17 +10962,17 @@ Id: 2723695
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE INFRAESTRUTURA E OBRAS PÚBLICAS INSTITUTO DE TERRAS E CARTOGRAFIA DO ESTADO DO RIO DE JANEIRO
 
@@ -11000,7 +11000,7 @@ Id: 2723887
 
 I
 
-/U0049
+I
 
 https://www.youtube.com/@secretariadascidades/streams,  com encerramento  às 13h.  O  Termo de  Referência e  seus  anexos, pertinentes  à licitação por  Registro de Preços, serão  disponibilizados no endereço eletrônico da Secretaria de Estado das Cidades: https://www.rj.gov.br/secid/. Os interessados  também poderão adquirir cópia junto  a Coordenadoria de Licitação/COOLIC,  situado na Rua Beatriz Larragoiti  Lucas, nº 121,  6º andar, Cidade Nova,  Centro, Rio de Janeiro,  RJ, CEP  20211-903, de  segunda a  sexta-feira, das  10 h às  17h.  Outras  informações  sobre  a  presente  audiência  pública  poderão  ser  obtidas  através  do  endereço  eletrônico  (  audiencias@cidades.rj.gov.br),  junto a  Subsecretaria  de Administração  e Finanças  SUBAF/SECID.
 

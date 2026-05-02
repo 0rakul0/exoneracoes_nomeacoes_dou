@@ -204,17 +204,17 @@ Diretor Financeiro
 
 Ceres Pimenta Diretora Industrial
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -946,17 +946,17 @@ Conselheira-
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
 3.9. Relator: Sr.  Sérgio  Peres  Martins Vianna,  Conselheiro-Representante  da  FETRANSCARGA: 3.9.1. RECURSOS/PENALIDADE/MULTA: INDEFERIDOS: PMRJ/03/01/210401/2022; PMRJ/03/04/108339/2022; PMRJ/03/31/122801/2022; PMRJ/03/31/122805/2022; PMRJ/03/31/122281/2022; PMRJ/03/31/122314/2022; PMRJ/03/31/122800/2022; PMRJ/03/33/119923/2022; PMRJ/03/33/119129/2022; PMRJ/03/33/119133/2022; PMRJ/03/04/111940/2022; PMRJ/03/04/111939/2022; PMRJ/03/04/111934/2022; PMRJ/03/04/111930/2022; PMRJ/03/31/122926/2022; PMRJ/03/31/122828/2022; PMRJ/03/33/119542/2022; PMRJ/03/33/119541/2022; PMRJ/03/31/124101/2022; PMRJ/03/31/124087/2022; PMRJ/03/31/124088/2022; PMRJ/03/31/122881/2022; PMRJ/03/31/124354/2022; PMRJ/03/31/122521/2022; PMRJ/03/01/210398/2022; PMRJ/03/31/124052/2022; PMRJ/03/31/124053/2022; PMRJ/03/31/124047/2022; PMRJ/03/31/124048/2022; PMRJ/03/31/122788/2022; PMRJ/03/31/122313/2022; PMRJ/03/31/122277/2022; PMRJ/03/31/122280/2022; PMRJ/03/31/122282/2022; PMRJ/03/31/122789/2022; PMRJ/03/31/124408/2022; PMRJ/03/33/119829/2022; PMRJ/03/31/122510/2022; PMRJ/03/31/122523/2022; PMRJ/03/31/124403/2022; PMRJ/03/31/122841/2022; PMRJ/03/31/124394/2022; PMRJ/03/31/124398/2022; PMRJ/03/31/124400/2022; PMRJ/03/31/124396/2022; PMRJ/03/31/122410/2022; PMRJ/03/31/124399/2022; PMRJ/03/31/122493/2022; PMRJ/03/31/122399/2022  e  PMRJ/03/31/124402/2022. 4.  DEVOLUÇÃO - PERDA DE OBJETO (CONFORME INFORMAÇÃO NO SISTEMA GAIDE/DETRAN): 4.1.  STATUS DOS  PROCESSOS:  TRANSITADO  EM JULGADO: E12/062/95605/2014; E-12/297740/2011; E-12/066/2796/2014; E12/293781/2011; E-12/067/275/2014; E-12/063/15477/2017; E12/185/69/2017; E-12/064/18291/2015; E-12/063/12679/2017; E12/062/23977/2017; E-12/064/17115/2017; E-12/062/55075/2015; E12/066/36428/2014; E-12/066/60989/2014; E-12/062/79699/2013; E12/066/10671/2016; E-12/064/9800/2016; E-12/063/7803/2016; E12/062/56156/2016; E-12/346429/2012; E-12/062/40743/2013; E12/065/19847/2016; E-12/546279/2011; E-12/204369/2010; E12/062/52983/2014; E-12/066/17780/2016; E-12/064/20480/2016; E12/062/7731/2017; E-12/062/10122/2014; E-12/066/7972/2014; E12/066/55164/2014; E-12/062/87993/2013; EXT-PMV/2704/2014; E12/063/16171/2016; E-12/066/17781/2016; E-12/062/43984/2016; E12/066/52123/2013; E-12/062/87883/2013; E-12/558634/2010; E12/224552/2012; E-12/062/51958/2013; E-12/062/49658/2013; E12/062/13330/2014; E-12/062/69744/2016; E-12/539021/2011; E12/062/23602/2017; E-12/062/16517/2015; E-12/066/21846/2014; E12/062/49365/2013; E-12/062/34458/2017; E-12/065/18458/2017; E12/065/18783/2017; E-12/065/16183/2017; E-12/064/18397/2016; E12/064/199/2018; E-12/063/14426/2017; E-12/065/2636/2016; E12/064/15643/2017; E-12/065/16182/2017; E-12/063/14057/2017; E12/064/16196/2017; E-12/065/15652/2017; E-12/066/798/2017; E12/063/584/2017; E-12/064/329/2018; E-12/062/92770/2013; E12/066/58467/2014; E-12/066/64703/2014; E-12/066/63337/2014; E12/062/92241/2014; E-12/066/59075/2014; E-12/065/11082/2017; E12/063/10/2018; E-12/064/680/2017; E-12/065/2847/2017; E12/065/3164/2017; E-12/065/3165/2017; E-12/064/2766/2017; E12/065/3511/2017; E-12/063/2173/2017; E-12/065/3909/2017; E12/065/3908/2017; E-12/065/3910/2017; E-12/064/1594/2017; E12/062/69712/2016; E-12/064/626/2017; E-12/062/26509/2015; E12/063/11396/2016; E-12/062/3631/2014; E-12/062/3176/2014; E12/062/3641/2014; E-12/066/17674/2014; E-12/066/455/2014; E12/066/9261/2014; E-12/066/24489/2014; E-12/066/57954/2014; E12/062/69726/2016; E-12/066/35205/2014; E-12/066/35207/2014; E12/256777/2011; E-12/066/43947/2014; E-12/066/43141/2014; E12/066/49414/2014; E-12/065/4692/2017; E-12/065/4445/2017; E12/062/23518/2017; E-12/065/15163/2017; E-12/066/14322/2017; E12/062/78608/2014; E-12/062/55503/2014; E-12/062/71734/2014; E12/064/14400/2017; E-12/062/59216/2016; E-12/062/22524/2017; E12/062/66222/2016; E-12/064/21092/2016; E-12/065/18505/2017; E12/063/15146/2017; E-12/063/16692/2017; E-12/064/219/2018; E12/065/239/2018; E-12/064/19006/2017; E-12/063/168/2018; E12/064/341/2018; E-12/066/361/2017; E-12/066/19001/2014; E12/062/22553/2017; E-12/062/21240/2017; E-12/065/4231/2017; E12/062/42084/2013; E-12/551773/2012; E-12/064/12785/2016; E12/062/99208/2016; EXT-PMBM/779/2017; E-12/063/4837/2017; E12/065/6813/2017; E-12/062/7344/2017; E-12/066/5161/2017; E12/062/88931/2016; E-12/065/14506/2016; E-12/062/85087/2016; E12/066/155/2017; E-12/250482/2011; E-12/065/19488/2017; E12/065/19824/2017; E-12/063/16670/2017; E-12/062/86357/2015; E12/547419/2011 (apenso o proc. nº E-12/256759/2012) E12/064/2764/2016; E-12/542851/2009; E-12/066/9401/2015; E12/065/20866/2016; E-12/066/19671/2016; E-12/063/495/2017; E12/16781/2016; E-12/065/2376/2017; E-12/542888/2011; E12/063/5701/2015; E-12/066/15251/2013; E-12/066/64427/2014; E12/062/98113/2014; E-12/066/63681/2014; E-12/062/82704/2013; E12/062/49620/2014; E-12/066/62330/2014; E-12/064/8964/2015; E12/064/10469/2015; E-12/063/11305/2015; E-12/064/9036/2015; E12/063/10163/2015;  E-12/064/12037/2015  e  E-12/063/12494/2015.
 
@@ -992,19 +992,19 @@ DESIGNA ANDRE  LUIZ TORRES RIBAS, Agente  de Saneamento I, como  Membro  Titular
 
 Id:  2724872
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U002D
+-
 
-/U0033/U0031
+31
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS
 
@@ -1074,7 +1074,7 @@ Id:  2725106
 
 PROCESSO  N º SEI-150016/100620/2025  - RENOVO pelo prazo  de 01  (um)  ano o  credenciamento  da  empresa  VMI CLÍNICA  DO  TRÂN-
 
-/U0033
+3
 
 SITO  LTDA , registro  DH  34421, no  endereço  funcional  Rua  Beatriz Amaral  Pereira, 26  -  Apto 502  -  Bacaxá  - Saquarema -  RJ, para realização  de  Exame  de  Aptidão  Física  e  Mental  e  de  Avaliação  Psicológica  para  o  processo  de  habilitação  de  candidatos  e  de  condutores.
 
@@ -1118,17 +1118,17 @@ PROCESSO Nº SEI-150016/078244/2025 - RENOVO O CREDENCIAMENTO DA EMPRESA CLINICT
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 NEIRO/RJ,  PARA  realização de  Exame  de  Aptidão  Física e  Mental  e de Avaliação Psicológica  para o processo de  habilitação de candidatos  e  de  condutores.  A  Renovação  terá  prazo  de  um  (1)  ano.
 
@@ -1250,17 +1250,17 @@ Id:  2725466
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
 ## LOTERIA DO ESTADO DO RIO DE JANEIRO
 
@@ -1419,7 +1419,7 @@ ALTERA MEMBROS NA COMISSÃO DE ACOMPANHAMENTO  E  FISCALIZAÇÃO  DO CONTRATO N�
 
 <!-- image -->
 
-/U0036
+6
 
 MUNICAÇÃO ,  no  exercício  de  suas  atribuições  constitucionais  e  legais,  com base  no inciso  V  do art.  14 da  RESOLUÇÃO SEFAZ  Nº 676 DE 09  DE JULHO DE 2024,  bem como o art.  2° da RESOLUÇÃO SEFAZ Nº 815 de 09 DE SETEMBRO DE 2025. RES  O  LV  E: Art.  1º -Alterar membros  na  Comissão de  Acompanhamento e  Fiscalização  do  Contrato  nº  050/2023,  celebrado  com  a  empresa SOCIEDADE  EMPRESÁRIA 3STRUCTURE  IT  LTDA,  processo n° SEI040227/000175/2023,  conforme  a  discriminação  abaixo: I -comissão  de acompanhamento  e fiscalização  composição  anterior: Gestora: Maria Ester Lacerda Tinoco de Oliveira (ID Funcional Nº5140593-8); Fiscal  Técnico:  André  Luiz  Monteiro  (ID  Funcional  Nº  4323399-6); Fiscal Requisitante: Willian Gomes de Lima (ID Funcional Nº 51420872); Fiscal  Administrativo: Regina  Célia  do  Nascimento Lacerda  Negreiros (ID  Funcional  Nº  5142895-4); Suplente Fiscal Requisitante e Técnico: Marco Antônio Metelli (ID Funcional  Nº  4318166-0); II -comissão de acompanhamento  e fiscalização -  composição atualizada: Gestora: Maria Ester Lacerda Tinoco de Oliveira (ID Funcional Nº5140593-8); Fiscal Técnico:  David Carvalho Fonseca (ID  Funcional Nº 50851411); Fiscal Requisitante: Fernanda Gonçalves da Costa (ID Funcional Nº5157719-4); Fiscal  Administrativo: Regina  Célia  do  Nascimento Lacerda  Negreiros (ID  Funcional  Nº  5142895-4); Suplente  Fiscal  Requisitante  e  Técnico: Ramon  Rodrigo  Flores  Mendes  (ID  Funcional  Nº  5136841-2); Art.  2º -  Os  servidores  designados,  sem  prejuízo  de  suas  atribuições, atuarão na Comissão de Acompanhamento e Fiscalização do Contrato supracitado,  em conformidade  com  a RESOLUÇÃO  SEFAZ Nº  815 DE 9  DE SETEMBRO  DE 2025,  a RESOLUÇÃO  SEFAZ Nº  401 DE 24 de JUNHO DE 2022 e no DECRETO ESTADUAL Nº 45.600 DE 16 DE MARÇO DE 2016. Art.  3º  Esta  Portaria  entrará  em  vigor  na  data  de  sua  publicação.
 
@@ -1461,17 +1461,17 @@ A  SUPERINTENDENTE DE  AQUISIÇÕES  E  CONTRATOS DE  TIC DA SUBSECRETARIA DE  T
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 gais,  com base  no inciso  V  do art.  14 da  RESOLUÇÃO SEFAZ  Nº 676 DE 09  DE JULHO DE 2024,  bem como o art.  2° da RESOLUÇÃO SEFAZ Nº 815 de 09 DE SETEMBRO DE 2025.
 
@@ -1691,17 +1691,17 @@ Id:  2725029
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 | 2.2.COCA-COLA  Subitem  Marca  Volume  (ml)  PET  Vidro  /  PET  Re-  tornável  Lata  Vidro  Não  Retorná-  vel  /  Descartável  Garrafa  Alumí-  nio  2.2.108  Pack  Coca  Cola  PET  2L  +  Coca  Cola  Pet  2L  de  1751  a  2000  18,06   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1783,19 +1783,19 @@ JOSÉ EDUARDO LOPES TEIXEIRA FILHO Superintendente  de  Fiscalização  e  Intel
 
 Id:  2724987
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U0033/U0031
+31
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 SECRETARIA DE ESTADO DE FAZENDA SUBSECRETARIA DE ESTADO DE RECEITA SUPERINTENDÊNCIA DE FISCALIZAÇÃO E  INTELIGÊNCIA FISCAL
 
@@ -1997,17 +1997,17 @@ Id:  2724992
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## SECRETARIA DE ESTADO DE FAZENDA SUBSECRETARIA DE ESTADO DE RECEITA SUPERINTENDÊNCIA DE FISCALIZAÇÃO E  INTELIGÊNCIA FISCAL
 
@@ -2233,17 +2233,17 @@ Recurso  nº  51699 -  Processo  nº  E-04/077016/2012 -  Recorrente:  INTERCONT
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 tância, por suposto cerceamento do direito de defesa, por não ter sido acolhido  seu pedido  de realização  de  perícia técnica,  porém tal  negativa  se deu  de  forma fundamentada,  atendendo  plenamente ao  disposto na  Súmula CCERJ nº 2.  PRELIMINAR REJEITADA. PRELIMINARES DE  NULIDADE DO  AUTO DE INFRAÇÃO.  Mesmo tendo ocorrido ação  fiscal anterior sobre  o mesmo estabelecimento,  e mesmo que o  auto de infração tenha abarcado período  não previsto na intimação,  não  há  qualquer  fundamento  para  se  anular  o  Lançamento, tendo em vista o Princípio da Indisponibilidade do Interesse Público, e levando-se  em conta  as  hipóteses de  nulidade expressamente  previstas nos  artigos 225  do CTE  e 48  do RPAT/79.  Quanto à  suposta insuficiência de  elementos para caracterizar a  infração, é fundamental destacar que a insegurança acerca da real infração praticada pela Autuada  decorre  de  sua  própria  negligência  no  dever  de  cooperação  para  com o  Fisco, na  medida  em que  a  empresa não  entregou os  arquivos magnéticos  com os registros  tipo 54 (item de  documento fiscal),  que resolveriam  a questão.  PRELIMINAR REJEITADA.  PRELIMINAR  DE DECADÊNCIA  PARCIAL. O  prazo decadencial  do ICMS  deve  ser  contado  a  partir  da  data da  ocorrência  do  fato  gerador,  nos termos do § 4º do art. 150 do CTN, ressalvados os casos em que for constado dolo, fraude  ou simulação, circunstâncias em  que será aplicado o  inc. I do art.  173 do CTN, cuja  contagem se dá a  partir do primeiro dia  do exercício  seguinte ao  do fato  gerador. Uma  vez que não  consta  na autuação  indicação  de  qualquer conduta  que  possa atrair a aplicação do  inc. I do art. 173, voto pela adoção  do § 4º do art.  150  e,  por  conseguinte,  pelo  cancelamento  dos  débitos  relativos ao período  de 01/01/07  a 14/06/07. PRELIMINAR  ACOLHIDA. PRELIMINAR  DE DECADÊNCIA  TOTAL,  DECORRENTE DE  SUPOSTO NOVO  LANÇAMENTO. O  suposto 'novo  Lançamento', decorrente  de também suposta  'retificação dos  autos  de  infração', alegada  pela  Recorrente,  jamais ocorreu  de fato,  mas tão  somente o  reconhecimento de  diminutos  erros  materiais  por parte  do  Autuante,  que,  entretanto, não  puderam  ser corrigidos  em  face  da  omissão no  fornecimento  das informações  necessárias por  parte da  Autuada. PRELIMINAR  REJEITADA.  PRELIMINAR DE  REALIZAÇÃO DE  PERÍCIA TÉCNICA.  Não se  vislumbra  qualquer  necessidade  de  perícia  técnica  no  presente  caso,  tendo  em vista  que  a  comprovação  das alegações  da  Recorrente dispensa  conhecimento técnico  específico, pois  demandaria apenas  a apresentação  dos registros  tipo  54  em meio  magnético,  os quais  a mesma  possui, mas  jamais disponibilizou  ao Fisco  ou a  este Órgão de  Julgamento. PRELIMINAR  REJEITADA.  MÉRITO. Há  comprovação nos  autos  de que  os  valores  glosados  são  idênticos aos  débitos  de ICMS cobrados da matriz,  no  âmbito  do  processo  administrativo  nº  E04/076988/2012, cujo contencioso administrativo  já foi concluído e de forma  desfavorável  ao contribuinte.  Consta,  inclusive,  que o  débito  já se encontra inscrito em dívida ativa.  Ora, se os excedentes dos valores dos  créditos indicados  nas notas fiscais  de entrada,  objetos da glosa  em comento,  foram definitivamente  considerados como  devidos pela  matriz,  conclui-se  que  a  manutenção  da  presente  autuação  constituiria  flagrante  duplicidade.  RECURSO VOLUNTÁRIO PROVIDO. AUTO DE INFRAÇÃO IMPROCEDENTE.
 
@@ -2285,7 +2285,7 @@ Recurso  nº 83875/RO  Processo  nº SEI-040043/000349/2023  Recorrente:  JUNTA 
 
 <!-- image -->
 
-/U0031 /U0030
+1 0
 
 Processo  de  Publicação  nº  SEI-040087/000031/2020. *NOTA  EXPLICATIVA:  Conforme  dispõe  o  §3º do  artigo  72  do  Regimento Interno do Conselho de Contribuintes/RJ com redação dada pela Resolução SEFAZ nº 80 de 23/06/2017, publicada no D.O. 27/06/2017, fls.  08/09:  "...  os  julgamentos  adiados  serão  realizados  independentemente de nova publicação".
 
@@ -2359,17 +2359,17 @@ Id:  2725530
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Desenvolvimento Econômico, Indústria, Comércio e Serviços
 
@@ -2609,39 +2609,39 @@ EXCLUI do serviço  ativo  da Corporação,  de acordo  com  o art.  91, inciso 
 
 Id:  2725175
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0035/U0038
+058
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0033/U0031
+31
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -2705,9 +2705,9 @@ PROCESSO  Nº  SEI-350013/014188/2026 -  AUTORIZO , em  conformidade com o Art. 
 
 PROCESSO  Nº  SEI-350014/007168/2026 -  AUTORIZO , em  conformidade com o Art. 1º, do Decreto nº 44.251, de 17 de junho de 2013, e Resolução  SEPM  nº  12,  de  28  de  janeiro  de  2019.
 
-/U0031
+1
 
-/U0031
+1
 
 <!-- image -->
 
@@ -2769,17 +2769,17 @@ PROCESSO Nº SEI-150001/001122/2024 - AUTORIZO a  permanência do  servidor 3º 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 dois (02) anos, com  validade a contar de 17 de  janeiro de 2026, nos termos  do  Decreto  nº  47/2018  c/c  Decreto  nº  48.259/2022.
 
@@ -2993,17 +2993,17 @@ Id:  2725433
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ## DE 19.03.2026
 
@@ -3247,17 +3247,17 @@ Id:  2724884
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Tendo em vista o atendimento dos pressupostos estabelecidos no §19 do  Art.  40,  da  constituição  Federal  de  1988,  Art.64-A,  da  Lei  Estadual nº  9.537, de  29  de  Dezembro de  2021,  e  o que  dispõe  o  Art. 2º  do Decreto 42.477, de 27 de maio de 2010, e com base na competência estabelecida no Art. 4º,  inc. I, alíneas f e j  da Resolução SEDEC nº 286, de  07 de  março de  2023 e pela  prática delegada  na Resolução SEDEC  nº 522,  de  08 de  janeiro  2026, e  com  as informações  prestadas  pelo órgão  de pessoal  no presente  processo administrativo,  o servidor acima  discriminado, FAZ  JUS ao abono de  permanência a partir  da  data  citadas  no  presente  processo  administrativo.
 
@@ -3301,17 +3301,17 @@ Id:  2725213
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE SAÚDE SUBSECRETARIA DO FUNDO ESTADUAL DE SAÚDE
 
@@ -3392,17 +3392,17 @@ DANIELLE  ALCANTARA VIEIRA  LOPES , Professor  Docente I,  matricula nº  3.057.
 
 LUCIANO  ROSA  DE  ALMEIDA ,  Professor Docente I, matricula nº 829.319-3 e nº 911.574-2, ID Funcional nº 3757095-1, sem contato direto e permanente  com aluno, podendo exercer a  regência de turma
 
-/U002D
+-
 
-/U0033/U0031
+31
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 medicamentos IMATINIBE 100  MG -  COMPRIMIDO (item  01) e  IMATINIBE 400 MG - COMPRIMIDO (item 02), em favor da empresa ABC FARMACÊUTICO  LTDA,  perfazendo o  valor  total  de R$ 20.271,31 (vinte  mil  duzentos  e  setenta  e  um  reais  e  trinta  e  um  centavos),  conforme  preceitua  o  art.  71,  IV,  da  Lei  Federal  n°  14.133/2021.
 
@@ -3616,17 +3616,17 @@ Id:  2725303
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Educação
 
@@ -3764,17 +3764,17 @@ Id:  2725374
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO ATOS DA SECRETÁRIA
 
@@ -3916,17 +3916,17 @@ DESIGNA CLÁUDIO DA SILVA CAMPELO ,  Prof.  Doc.  I,  ID  43672752/2, para exerc
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 DESIGNA RAQUEL PONTES  DA SILVA  LOPES , Prof.  Doc. I,  ID 5033485-9/1,  para  exercer  a  função de  Coordenador  Pedagógico  do C.E.  Vinte  de  Julho,  U.A.  118201030105519,  Tipo  C,  Município  de  Arraial  do  Cabo, da  Secretaria  de  Estado  de  Educação, em  vaga  anteriormente  ocupada  por  Marcela  Couto  de  Andrade  da  Matta,  ID 4218377-4/1.  Processo  nº  SEI-030001/122258/2025.
 
@@ -4024,7 +4024,7 @@ A  P  O  S  E  N  TA  SANDRA HELENA  COELHO DE  LUCA , Professor  Docente I 18 h
 
 A  P  O  S  E  N  TA  LILIANE DIAS  DE  RESENDE , Professor  Docente I  18 horas, nível  D, referência 7,  Identidade Funcional nº  37247310, vínculo 02, matrícula nº  945.557-7, nos termos do art. 4°,  caput e §§ 1° e  2°, inciso  I  da  Emenda Constitucional  nº  90/2021,  fixando os  proventos  mensais  com  validade  a  partir desta  publicação,  tendo  por  ba-
 
-/U0049
+I
 
 DISPENSA ,  a  pedido, ANA PATRICIA ALVES PIZZANO ,  Prof.  Doc.  II, ID 3303647-0/1, da função de Diretor do C.E. de Araras, U.A. 118201031305501,  Município de  Petrópolis, da  Secretaria de  Estado de  Educação.  Processo  nº  SEI-030001/016520/2026.
 
@@ -4084,17 +4084,17 @@ REDUZ em 50% (cinquenta por cento) a carga horária  de  trabalho  de CELESTE MA
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 REDUZ em 50% (cinquenta por cento) a carga horária  de  trabalho  de ALEXANDRE BASILIO  BAPTISTA DA SILVA , Professor  Docente I, Id.  Funcional nº.  5009701-6,  vínculo 1,  pelo período  de  01 (um)  ano, a  contar  de  17/12/2025.  Processo  nº  SEI-E-03/033/1564/2019.
 
@@ -4236,17 +4236,17 @@ Id:  2725392
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
 
@@ -4340,17 +4340,17 @@ Id:  2725167
 
 PROCESSO Nº SEI-E-01/601002/1995 LUIS  ALBERTO PRADO  DE OLIVEIRA,  Agente  Auxiliar  Administrativo,  nível II,  ID.  Funcional  nº 4121660/01,  matrícula nº  278188-8. FIXADOS os proventos  mensais de inatividade  a contar  de 20/06/1995,  tendo por  base a  última remuneração do  cargo efetivo  do Servidor e  sendo reajustado  pela paridade,  nos  seguintes  termos  propostos:  Vencimento  base  atribuído  ao
 
-/U002D
+-
 
-/U0033/U0031
+31
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 cargo de: Agente Auxiliar Administrativo  nível II (Lei Federal nº 3295/95),  no  valor  de  R$100,00,  15%  de  triênio  (Lei  nº1550/1989),  no valor  de  R$  15,00  e  Direito  Pessoal  (Abono  Lei  nº  1550/1989),  no  valor  de  R$  0,01.
 
@@ -4426,17 +4426,17 @@ PROCESSO  Nº SEI-030001/021941/2025 -  PEDRO  DO  NASCIMENTO  AZEREDO, Zelador,
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº SEI-030043/001737/2022 -LUCIA  HELENA DOS SANTOS, Professor Docente  I 18h, nível D,  referência 7, Identidade Funcional n°  38409364, vínculo  03, matrícula n°  914793-5. FIXADOS os proventos  mensais de  inatividade a  contar de  11/07/2025, ficando esclarecido que o inativo a quem se  refere o presente título faz jus a Proventos Média integrais a partir  da eficácia da aposentadoria, no valor  de  R$ 3.461,20  (três  mil  quatrocentos e  sessenta  e  um reais  e vinte  centavos).
 
@@ -4593,17 +4593,17 @@ Id:  2725512
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 SUBSEQUENTE;  CURSO  TÉCNICO  EM VETERINÁRIA,  EIXO  TECNOLÓGICO AMBIENTE E SAÚDE, FORMA CONCOMITANTE E SUBSEQUENTE;  CURSO  TÉCNICO  EM  SEGURANÇA  DO  TRABALHO, EIXO  TECNOLÓGICO  SEGURANÇA,  FORMA  CONCOMITANTE  E SUBSEQUENTE  CURSO TÉCNICO  EM  EDIFICAÇÕES, EIXO  TECNOLÓGICO  INFRAESTRUTURA, FORMA  CONCOMITANTE E  SUBSEQUENTE  CURSO  TÉCNICO  EM  GASTRONOMIA,  EIXO  TECNOLÓGICO TURISMO,  HOSPITALIDADE E LAZER,  FORMA CONCOMITANTE E SUBSEQUENTE, com  capacidade máxima de matrícula de 8.427 alunos, distribuída em 03  (três) turnos de funcionamento, com eficácia a partir  de 19/08/2024, nos termos  do artigo 58, §  3º da Deliberação  CEE  nº  388/2020.  Regimento Escolar  registrado  sob  o  nº 093377AA131514, 6º Ofício,  Cartório de Registro de  Títulos e Documentos do  Rio de Janeiro,  data do registro em  29/04/2024 . Laudo Conclusivo emitido em 29/05/2024 pelos servidores: Sandra Regina de Oliveira, ID: 4330411-7,  Inês dos Santos Marin, ID:  43305296 e Renata  Martins  da  Silva,  ID:  43304001.
 
@@ -4619,19 +4619,19 @@ A  COORDENADORIA  GERAL  DE  INSPEÇÃO  ESCOLAR,  CERTIFICAÇÃO E ACERVO, nos 
 
 A  COORDENADORIA  GERAL  DE  INSPEÇÃO  ESCOLAR,  CERTIFICAÇÃO E ACERVO, nos termos do Artigo 22 da Deliberação CEE nº 388/2020, torna público o PARECER FAVORÁVEL , datado de 10/03/2026, o qual  autoriza para todos os fins,  o KEYSTONE AMERICAN  EDUCATION, inscrita  no  CNPJ  nº: 62.187.932/0001-42,  localizado Avenida Rodolfo Amoedo, 333, Lot  12, LTM 5220, QDR 38, na Barra  da  Tijuca,Estado  do  Rio  de Janeiro,  CEP  26.620-350,  a  oferta do  curso:  ENSINO  FUNDAMENTAL  -  ANOS  INICIAIS(1º  Adendo  Regimento registrado sob o Protocolo nº 1080592 - 4º Ofício RTD ao 5º) com capacidade  máxima de  matrícula de  362 alunos,  distribuída em 02  turnos  de funcionamento,  com  eficácia  a  partir de  02/02/2026.  Regimento Escolar registrado sob o nº 1079764, 4º RTD-RJ  em 28/08/2025  em 07/10/2025.  Laudo  Conclusivo  emitido em  10/03/2026 pelos servidores:  Márcia Antônia  Rocha Canivello ID  4429158-2; Márcia  Cristina de  Souza  ID  3695250-8 e  Daiana  Martin Gonçalves  Rêgo Francisco  ID  3830773-1.
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U0033/U0031
+31
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## PARECER Nº 50/2026/SEEDUC/COOIEMVI PROCESSO Nº SEI-030001/000741/2026
 
@@ -4733,17 +4733,17 @@ PROCESSO Nº  SEI-030001/030208/2026 ROSANGELA CARVALHO DE CASTRO, Professor Doc
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
 PROCESSO Nº SEI-030001/031385/2026 - LANDA  PAULA HONORIA DE  REZENDE PENA,  Professor Docente  I, matricula  0916774-3, ID. Funcional  n°  33766096/2.
 
@@ -4933,17 +4933,17 @@ RITA  DE  CASSIA  FAVORETO Corregedora  -  DEGASE
 
 Id:  2725273
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -5048,21 +5048,21 @@ Secretária  de  Estado  de  Ciência,  Tecnologia  e  Inovação
 
 Id:  2724816
 
-/U0049
+I
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U0033/U0031
+31
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 SECRETARIA DE ESTADO DE CIENCIA, TECNOLOGIA E  INOVAÇÃO FUNDAÇÃO CENTRO DE CIÊNCIAS E EDUCAÇÃO SUPERIOR A DISTÂNCIA DO ESTADO DO RIO DE JANEIRO CORREGEDORIA SETORIAL
 
@@ -5148,39 +5148,39 @@ Leia-se:  ....  ID.  4203308-0
 
 Id:  2725510
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0038
+058
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U0033/U0031
+31
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## S  E  C  R  E  TA  R  I  A  DE E  S  TA  D  O  DE CIÊNCIA, TECNOLOGIA E I  N  O  VA  Ç  Ã  O FUNDAÇÃO DE APOIO À ESCOLA TÉCNICA
 
@@ -5248,17 +5248,17 @@ PORTARIA Nº  320/2026 -  APOSENTA CLAUDIO  COSTA VERA CRUZ ,  matr.  nº 34.641
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PORTARIA Nº 321/2026 -APOSENTA ROSANA  MOREIRA DE SANT'ANNA , matr. nº 31.442-7,  ID nº 25759124, Técnico Universitário,  categoria II,  perfil Técnico  de Enfermagem,  com padrão  de vencimentos  XVI,  com  30 horas  semanais,  de  acordo  com  o artigo  3º  da Emenda  Constitucional  nº  47/2005,  c/c artigo  2º  da  Emenda  Constitucional  Estadual  nº  90/2021.  Processo  nº  SEI-260006/058520/2025.
 
@@ -5409,17 +5409,17 @@ Id:  2725068
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -5573,17 +5573,17 @@ Aos 26  dias do mês  de março  do ano de  2026, às 10h35,  em sua Sede no Ave
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Id:  2725168
 
@@ -5595,31 +5595,31 @@ Rio  de  Janeiro,  26  de  março  de  2026
 
 Anexo  VIII  -  HISTÓRICO  ARTÍSTICO  E  COMPROVANTES
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0033/U0031
+31
 
 <!-- image -->
 
@@ -5910,17 +5910,17 @@ Subsecretária  Executiva
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Id:  2725442
 
@@ -6178,13 +6178,13 @@ Anderson  Ferreira  da  Silva  -  Id.  Funcional:  5161385-9; Otávio  Feitosa  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 -  FISCAL  ADMINISTRATIVO:
 
@@ -6192,9 +6192,9 @@ Suplente:
 
 Rejane  Vasconcelos  Cristino  -  Id.  Funcional:  5139453  -7.
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
 Juliana  Ferreira  Gazolla  -  Id.  Funcional:  5109722-2.
 
@@ -6457,17 +6457,17 @@ Abreu  - Id  Funcional 5135405-
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 -  Fiscais  Técnicos: Higor  Guedes  da  Gama  -  Id.  Funcional:  5141190-3, João  José  de  Carvalho  Filho  -  Id.  Funcional:  5024411-6. Suplente:  Otávio  Feitosa  da  Silva  Miranda-  Id.  Funcional:  5170969-  4.
 -  Fiscal  Administrativo: Juliana  Ferreira  Gazolla  -  Id.  Funcional:  5109722-2. Suplente:  Rejane  Vasconcelos  Cristino  -  Id.  Funcional:  5139453  -7.
@@ -6725,17 +6725,17 @@ Id:  2725471
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DAS CIDADES
 
@@ -7008,17 +7008,17 @@ PROCESSO Nº  SEI-240002/002363/2023 -GOL  LINHAS AEREAS S/A
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº SEI  E-22/014/276/2019 -  CONGREGACAO DE  NOSSA SENHORA PROCESSO Nº SEI-240002/002401/2022 -  GO  FIT  ACADEMIA E ESPORTES LTDA PROCESSO Nº SEI-240002/001857/2024 -  TAM LINHAS AEREAS-JULIA  PEREIRA  KLARMANN-OAB/SP Nº 326.408 PROCESSO  Nº SEI-240002/002676/2022 -IBI  PROMOTORA DE VENDAS LTDA PROCESSO  Nº  SEI-240002/001219/2024 -  IFOOD.COM  AGENCIA DE RESTAURANTES ONLINE S.A. PROCESSO  Nº SEI-240002/002707/2022 -  UNIAO  DE LOJAS  LEADER S.A PROCESSO  Nº  SEI-240002/003026/2023 -  BANCO  SANTANDER (BRASIL)  S.A. PROCESSO Nº SEI-240002/002680/2022 -  COMPANHIA LEADER DE PROMOCAO DE VENDAS-EM RECUPERACAO JUDICIAL PROCESSO  Nº  SEI-240002/003401/2023 -  MOBLY  COMERCIO  VAREJISTA LTDA PROCESSO  Nº  SEI-240002/001657/2022 -TAM  LINHAS  AEREAS S.A PROCESSO Nº SEI-240002/003056/2023 -  CARREFOUR COMERCIO E  INDUSTRIA LTDA PROCESSO Nº SEI-240002/003597/2023 -  TELEFONICA BRASIL S.A PROCESSO Nº SEI-240002/000619/2024 -  CCR  S.A PROCESSO  Nº  SEI-240002/003591/2023 -  COMPANHIA  ESTADUAL DE AGUAS E ESGOTOS CEDAE PROCESSO  Nº SEI  E-22/014/199/2019 -  ASSOCIACAO DA  IRMANDADE DE SAO VICENTE DE PAULA DETERMINO o  arquivamento de todos os  processos acima relacionados.
 
@@ -7110,17 +7110,17 @@ Para  publicação  referente  aos  seguintes  processos: PROCESSO  Nº SEI-2400
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº SEI-240002/002386/2023-AGUAS  DO RIO 4 SPE S.A PROCESSO  Nº SEI-240002/003201/2023-INTERMEDICA SISTEMA DE SAUDE S.A PROCESSO Nº SEI-240002/001270/2023-LEGGING BRASIL LTDA PROCESSO Nº SEI-240002/001488/2023-LIVELO S.A PROCESSO Nº SEI-240002/000062/2023-ENEL DISTRIBUICAO RIO PROCESSO Nº SEI-240002/001512/2024-LOJAS RIACHUELO S.A PROCESSO Nº SEI-240002/000267/2023-OTICAS ALE PROCESSO Nº SEI-240002/001517/2024-LOJAS RENNER S/A PROCESSO Nº SEI-240002/003897/2023-UNIAO DE  LOJAS  LEADER S.A PROCESSO Nº SEI-240002/000926/2025-AZUL LINHAS AEREAS BRASILEIRAS S.A PROCESSO Nº  SEI-240002/000657/2025-GRUPO HOSPITALAR DO RIO  DE  JANEIRO  LTDA PROCESSO Nº SEI-240002/000195/2024-SIGE  CLOUD SISTEMA DE GESTAO LTDA PROCESSO  Nº  SEI-240002/003326/2023-GOSHME  SOLUCOES  PARA A INTERNET LTDA PROCESSO Nº SEI-240002/001031/2024-LIVELO S.A PROCESSO Nº  SEI-240002/003276/2023-MOVIDA PARTICIPACOES S.A PROCESSO Nº SEI-240002/001808/2024-PIRES E PIRES GESTAO E ADMINISTRACAO DA PROPRIEDADE IMOBILIARIA LTDA PROCESSO Nº SEI-240002/000326/2025-AMPLA ENERGIA E SERVICOS S.A PROCESSO Nº SEI-240002/002745/2024-UBER  DO BRASIL  TECNOLOGIA LTDA. PROCESSO Nº SEI-240002/000742/2024-UNIESP S.A PROCESSO Nº SEI-240002/003290/2023-BANCO DIGIO S.A. PROCESSO Nº SEI-240002/001976/2024-INSTITUTO BRASILEIRO DE MEDICINA DE REABILITACAO LTDA PROCESSO Nº SEI-240002/001244/2025-DOTCOM GROUP  COMERCIO  DE  PRESENTES S.A. PROCESSO Nº  SEI-240002/000903/2025-INSTITUTO EDUCACIONAL FRANCISCO DE ASSIS LTDA PROCESSO  Nº SEI-240002/001156/2025-DENNER B.  MASCARENHAS BARBOSA-OAB/RJ 220.028 PROCESSO Nº SEI-240002/000316/2024-BANCO DO BRASIL S.A PROCESSO  Nº  SEI-240002/001214/2024-MERCADOLIVRE.COM  ATIVIDADES DE INTERNET LTDA PROCESSO  Nº  SEI-240002/003486/2023-APPLE  COMPUTER  BRASIL  LTDA PROCESSO Nº SEI-240002/000993/2025-OPUS ASSESSORIA E PROMOCOES ARTISTICAS LTDA PROCESSO Nº SEI-240002/001575/2024-PHILCO ELETRONICOS SA PROCESSO Nº SEI-240002/003648/2023-AGUAS DE NITEROI S.A PROCESSO Nº SEI-240002/002282/2023-AGUAS  DO RIO 4 SPE S.A PROCESSO  Nº SEI-240002/001379/2024-QUEIROZ  E DIAS  EVENTOS INFANTIL LTDA PROCESSO Nº SEI-240002/003319/2023-LIGHT  SERVICOS  DE  ELETRICIDADE S.A PROCESSO Nº SEI-240002/003466/2023-LOJAS RIACHUELO S.A PROCESSO  Nº SEI-240002/000623/2024-ND  CONCESSOES E  PARTICIPACOES LTDA PROCESSO Nº SEI-240002/002519/2024-ÁGUAS  DO RIO 4 SPE S.A PROCESSO Nº  SEI-240002/002160/2023-BANCO C6 CONSIGNADO S.A PROCESSO Nº  SEI-240002/001784/2024-UNIMED-RIO COOPERATIVA  DE  TRABALHO MEDICO DO RIO DE JANEIRO LTDA PROCESSO Nº  SEI-240002/003365/2023-ESTOK COMERCIO  E REPRESENTAÇÕES S.A PROCESSO Nº SEI-240002/003360/2023-DECOLAR.COM LTDA PROCESSO  Nº  SEI-240002/001925/2024-STONE INSTITUICAO  DE PAGAMENTO S.A PROCESSO  Nº  SEI-240002/002744/2024-SAMSUNG  ELETRONICA DA  AMAZONIA  LTDA  FERNANDO MOREIRA  DRUMMOND  TEIXEIRA-OAB/MG nº 108.112 PROCESSO Nº  SEI-240002/002291/2024-ASSOCIACAO DE PROTECAO VEICULAR E SERVICOS SOCIAIS PROCESSO Nº SEI-240002/001781/2024-C&amp;A MODAS S.A. PROCESSO Nº  SEI-240002/001752/2024-IN GLOW  BRASIL INTERMEDIACAO DE NEGOCIOS LTDA PROCESSO Nº SEI-240002/003771/2023-PLANO DE ASSISTENCIA A SAUDE DO APOSENTADO DA VALE PROCESSO  Nº  SEI-240002/002625/2024-GG  SERVICOS  DIGITAIS LT  D  A PROCESSO  Nº  SEI-240002/000309/2024-SAMSUNG  ELETRONICA DA  AMAZONIA  LTDA  FERNANDO MOREIRA  DRUMMOND  TEIXEIRA-OAB/MG nº 108.112 PROCESSO Nº SEI-240002/002300/2023-MSC CRUZEIROS DO BRASIL  LTDA PROCESSO  Nº SEI-240002/002624/2024-DG  PROMOCAO DE  VENDAS LTDA PROCESSO  Nº  SEI-240002/001636/2024-SAMSUNG  ELETRONICA DA  AMAZONIA  LTDA  FERNANDO MOREIRA  DRUMMOND  TEIXEIRA-OAB/MG nº 108.112 PROCESSO Nº SEI-240002/002256/2024-C&amp;A MODAS S.A PROCESSO Nº SEI-240002/002995/2023-UBER  DO BRASIL  TECNOLOGIA LTDA. PROCESSO Nº SEI-240002/003026/2024-INFINITY CARE MEDIC SERVICOS LTDA PROCESSO Nº SEI-240002/000736/2025-LIONS PRE-OWNED S. A.
 
@@ -7204,17 +7204,17 @@ Id:  2725434
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DA CASA CIVIL
 
@@ -7330,17 +7330,17 @@ Ref.  Processo  n°  SEI-220005/000751/2026
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -7462,17 +7462,17 @@ Id:  2725226
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | lote  4  -  item  44  ID  -  166073 fita  deteccao  concent  inibitoria  min  antibiotico,material:  plastico  inerte,  largura:  5,0  mm,  comprimento:  50  mm,  antibiotico:  ceftazidima-avibactam,  variacao:  0,016/4~256  g/ml,  forma  fornecimento:  unidade  com-  plemento  do  item  kit  com  até  30  tiras/testes  marca:  biomerieux  UN  240  R$  33,88  R$  8.131,20  lote  4  -  item  45  ID  -  166077 fita  deteccao  concent  inibitoria  min  antibiotico,material:  plastico  inerte,  largura:  5,0  mm,  comprimento:  50  mm,  antibiotico:  ceftolozana-tazobactam,  variacao:  0,016/4~256/4  g/ml,  forma  fornecimento:  unidade  complemento do item  kit  com  até  30  tiras/testes  marca:biomerieux  UN  120  R$  25,61  R$  3.073,20  lote  4  -  item  46  ID  -  167610 fita  deteccao  concent  inibitoria  min  antibiotico,material:  plastico  inerte,  largura:  5,0  mm,  comprimento:  0,50mm,  antibiotico:  sulfametoxazol  +  trimetoprima,  variacao:  0,002  -  32  g/ml,  forma  fornecimento:  uni-  dade  complemento  do  item  kit  com  até  30  tiras/testes  marca:  biomerieux  UN  240  R$  25,85  R$  6.204,00  lote  4  -  item  47  ID  -  167609 fita  deteccao  concent  inibitoria  min  antibiotico,material:  plastico  inerte,  largura:  5,0  mm,  comprimento:  0,50mm, antibiotico: amicacina, variacao: 0,016 - 256 g/ml, forma fornecimento: unidade código do item:  6810.296.0043  (id  -  167609)  complemento  do  item  kit  com  até  30  tiras/testes  marca:  biomerieux  UN  600  R$  41,00  R$  24.600,00  lote  4  -  item  48  ID  -  167608 fita  deteccao  concent  inibitoria  min  antibiotico,material:  plastico  inerte,  largura:  5,0  mm,  comprimento:  0,50mm,  antibiotico:  cefotaxima,  variacao:  4g/ml,  forma  fornecimento:  unidade  código  do  item:  6810.296.0042  (id  -  167608)  complemento  do  item  kit  com  até  30  tiras/testes  marca:  biomerieux  UN  240  R$  21,00  R$  5.040,00  lote  4  -  item  49  ID  -  120205 fita  deteccao  concent  inibitoria  min  antibiotico,material:  plastico  inerte,  largura:  5,0  mm,  comprimento:  50  mm, antibiotico:  piperacilina  +  tazobactam,  variacao:  0,002~32  ìg/ml  código  do  item:  6810.296.0021  (id  -  120205)  marca:  biomerieux  UN  600  R$  35,25  R$  21.150,00  lote  4  -  item  50  ID  -  120206 fita  deteccao  concent  inibitoria  min  antibiotico,material:  plastico  inerte,  largura:  5,0  mm,  comprimento:  50  mm,  antibiotico:  tigeciclina,  variacao:  0,002~32  ìg/ml  código  do  item:  6810.296.0022  (id  -  120206)  mar-  ca:  biomerieux  UN  600  R$  23,89  R$  14.334,00  lote  4  -  item  51  ID  -  167607 fita  deteccao  concent  inibitoria  min  antibiotico,material:  plastico  inerte,  largura:  5,0  mm,  comprimento:  0,50mm, antibiotico: fluconazol, variacao: 0,016 - 256 g/ml, forma fornecimento: unidade código do item:  6810.296.0041  (id  -  167607)  marca:  biomerieux  UN  120  R$  43,80  R$  5.256,00  lote  4  -  item  52  ID  -  167604 fita  deteccao  concent  inibitoria  min  antibiotico,material:  plastico  inerte,  largura:  5,0  mm,  comprimento:  0,50mm, antibiotico:  micafungina,  variacao:  0,002 a  32 mcg/ml, forma fornecimento:  unidade código do  item:  6810.296.0040  (id  -  167604)  marca:  biomerieux  UN  120  R$  31,59  R$  3.790,80  lote  4  -  item  53  ID  -  71949  fita  deteccao  concent  inibitoria  min  antibiotico,material:  plastico  inerte,  largura:  5,0mm,  comprimento:  50mm, antibiotico: imipenem, variacao: 0,002~32 ug/ml código do item: 6810.296.0010 (id - 71949) mar-  ca:biomerieux  UN  600  R$  22,46  R$  13.476,00  lote  4  -  item  54  ID  -  120209 fita  deteccao  concent  inibitoria  min  antibiotico,material:  plastico  inerte,  largura:  5,0  mm,  comprimento:  50  mm, antibiotico:  levofloxacina,  variacao:  0,002~32  ìg/ml  código  do  item:  6810.296.0024  (id  -  120209)  marca:  biomerieux  UN  600  R$  23,50  R$  14.100,00  lote  4  -  item  55  ID  -  166070 fita  deteccao  concent  inibitoria  min  antibiotico,material:  plastico  inerte,  largura:  5,0  mm,  comprimento:  50  mm, antibiotico:  benzylpenicilina,  variacao:  0,002~32 g/ml,  forma  fornecimento:  unidade  código  do  item:  6810.296.0031  (id  -  166070)  marca:  biomerieux  UN  240  R$  25,20  R$  6.048,00  lote  5  -  item  56  ID  -  152350 teste  de  sensibilidade,descricao:  sistema  de  microdiluicao,  aplicacao:  determinacao  da  concentracao  ini-  bitoria  minima  de  polimixina,  acessorios:  n/a,  metodo:  microdiluicao  em  caldo  em  placas  de  microtitu-  lacao,  forma  fornecimento:  unidade  código  do  item:  6810.386.0003  (id  -  152350)  marca:  probac  UN  750  R$  14,85  R$  11.137,50  lote  5  -  item  57  ID  -  158501 teste  de  sensibilidade,descricao:  sistema  de  microdiluicao,  aplicacao:  determinacao  da  concentracao  ini-  bitoria  de vancomicina,  acessorios:  n/a,  metodo:  microdiluicao  em caldo  em  placas  de  microtitulacao,  forma  fornecimento:  teste  código  do  item:  6810.386.0004  (id  -  158501)  marca:  probac  TESTE  250  R$  15,55  R$  3.887,50   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7574,33 +7574,33 @@ ioerj.secgap@gmail.com
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0049
+I
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U002D
+-
 
-/U0033/U0031
+31
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 | lote  6  -  item  73  ID-  160928  escalpe,material  canula:  agulha  em  aco  inoxidavel,  siliconizada,  bisel:  curto  tri  facetado,  conector:  luer  lock  para coleta  multipla  de sangue a vacuo,  comprimento tubo:  extensor  30 cm, calibre:  23  g,  dis-  positivo  seguranca:  sim,  forma  fornecimento:  unidade  marca:  vacuette/greiner  UN  4100  R$  6,28  R$  25.748,00  lote  6  -  item  74  ID-  160929  escalpe,material  canula:  agulha  em  aco  inoxidavel,  siliconizada,  bisel:  curto  tri  facetado,  conector:  luer  lock  para coleta  multipla  de sangue a vacuo,  comprimento tubo:  extensor  30 cm, calibre:  25  g,  dis-  positivo  seguranca:  sim,  forma  fornecimento:  unidade)  local  de  entrega:  1 -  conforme  termo  de  re-  ferência  marca:  labor  import  UN  750  R$  2,00  R$  1.500,00  lote  6  -  item  75  ID  -  125887 seringa  gasometria,revestimento:  heparina  de  litio,  capacidade:  3ml,  conector:  luer  lock  código  do  item:  6640.022.0004  (id  -  125887)  marca;  vacuette/greiner  UN  14800  R$  4,53  R$  67.044,00  lote  6  -  item  76  ID  -  125021 adaptador  tubo  coleta  vacuo,tipo:  descartavel  com  dispositivo  de  seguranca,  material:  plastico  rigido,  tipo agulha: aco inox, aplicacao: coleta sangue a  vacuo código do item: 6640.053.0004  (id  -  125021)  marca:  vacuette/greiner  UN  3700  R$  3,00  R$  11.100,00  lote  7  -  item  77  ID  -  80271  bandagem  curativo  pos  coleta,formato:  redondo,  acao:  antialergico,  material:  nao-tecido  -  poliester,  cor:  bege,  adesivo:  hipoalergenico,  forma  fornecimento:  caixa  código  do  item:  6510.045.0001  (id  -  80271)  marca:  labor  import  CAIXA  170  R$  22,66  R$  3.852,20   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7706,17 +7706,17 @@ I  N S  T  R  U  M  E  N  TO  : Ata  de  Registro  de  Preços  nº  053/2026.  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PESQUISA DO ANTÍGENO NS1 DA DENGUE (ITEM 1), para suprir a demanda das unidades sob gestão  da  Fundação  Saúde. VIGÊNCIA: 1  (um)  ano,  a  contar  do  1º  dia  útil  subsequente  à  data  de divulgação  no  PNCP.
 
@@ -7929,17 +7929,17 @@ E
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
 - 11  -ESCOLA MATER DOLOROSA - Belford Roxo 1º  ANO  DE  ESCOLARIDADE DO ENSINO FUNDAMENTAL Processo  nº  SEI-030001/018021/2026 Iandra  Vitória  da  Silva  Ferreira  -  2011
 - A  COORDENADORIA  GERAL  DE  INSPEÇÃO  ESCOLAR,  CERTIFICAÇÃO E ACERVO ,  nos  termos  do  art.  52,  inciso  III  da  Lei  Estadual nº 5.427/2009,  combinado com o art. 8º da Deliberação  CEE nº 366/2017, e o  voto do relator no Parecer CEE  (N) nº 84/2018, DEFERE a  convalidação  dos  estudos  do  CURSO  DE  2º  GRAU  TÉCNICO  EM PROCESSAMENTO  DE DADOS,  de ADRIANA  SILVA MACHADO, ano 1992- Processo nº SEI-030029/003379/2023.
@@ -8097,17 +8097,17 @@ O  DIRETOR DO  CEJA  SÃO GONÇALO ,  Censo Escolar  33088691, torna  pública  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 vaes Vieira dos Santos; Vitória  Soares Ramos. CURSO DE ENSINO MÉDIO  NA MODALIDADE  EDUCAÇÃO  DE  JOVENS E  ADULTOS: Ano 2026:  Ingridy Carolayne  Gomes Gois; Júlia  Castro Sá  de Araújo; Laura  Sales  Durão; Luiz  Carlos  Martins;  Marcos André  Eliodoro  de Freitas;  Yasmin  Lopes  Marcelino.  Secretária Escolar:  Darly  da  Silva Borges,  designada  no  DOERJ  de  27/04/2007,  página  37,  2ª  coluna, Diretora: Rita de Cássia Melo  Veiga Dutra, designada no DOERJ de 20/03/2014,  página 29,  1ª  coluna. Servidores  responsáveis pela  publicação: Marcia  Lhamas Barga,  ID. Funcional  nº 4329252-6  e Andrea de  Souza  Fontes  Brandão,  ID. Funcional  nº  4329268-2.  Processo  nº SEI-030001/020913/2026.
 
@@ -8355,57 +8355,57 @@ CONCURSO PÚBLICO  PARA O  CARGO DE  PROFESSOR ADJUNTO, 01 (UMA) VAGA, DA FACULD
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 - O DIRETOR DO INSTITUTO DE QUÍMICA faz  saber aos interessados que as  datas das  provas para o  concurso supracitado,  publicado no DOERJ de 03/12/2025, foram alteradas, obedecendo agora ao seguinte  calendário:  divulgação  da  lista dos  candidatos  inscritos  (no  sistema PROSSIM) e  da composição  da Comissão  Examinadora: 06/04/2026, até às  18 h;  sorteio do ponto  para a prova  escrita: 04/05/2026,  às 8 h; prova escrita: 04/05/2026, às 9 h; leitura da prova escrita: 04/05/2026,  às  14  h;  resultado  da  prova  escrita:  05/05/2026,  às  8h30; divulgação  da  lista de  pontos  para  a  prova  de aula:  05/05/2026,  às 8h45;  sorteio da  prova de  aula:  05/05/2026, às  9 h;  prova de  aula: 06/05/2026,  às  9  h;  resultado  da prova  de  aula:  07/05/2026,  às  8h15; entrega de Títulos e Trabalhos: 07/05/2026, às 8h30; sorteio da ordem de  apresentação  da  prova  prática:  07/05/2026,  às  8h45;  prova  prática: 07/05/2026,  às  9  h;  resultado  final:  07/05/2026,  até  às  18  h.  Processo n°  SEI-260006/060487/2025.
 
 Id:  2725154
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U004E
+N
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0049
+I
 
-/U0030/U0035/U0038
+058
 
-/U002D
+-
 
-/U006F
+o
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0033/U0031
+31
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0034/U0033
+43
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E I  N  O  VA  Ç  Ã  O FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
 
@@ -8481,39 +8481,39 @@ INSTRUMENTO: Termo  de  Apostilamento  n°  10/2026. PARTES: SECRETARIA DE DESEN
 
 senvolvimento  Regional do  Interior, Pesca  e Agricultura  Familiar (SE-
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U006F
+o
 
-/U0054/U0045/U0052Ç/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+TERÇA-FEIRA
 
-/U0044/U0045
+DE
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0035/U0038
+058
 
-/U0049
+I
 
-/U002D
+-
 
-/U0033/U0031
+31
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
 DIPAF), em sucessão à Secretaria de Estado de Agricultura, Pecuária, Pesca  e  Abastecimento  (SEAPPA).
 
@@ -8585,17 +8585,17 @@ PRAZO: Mantidas  as  condições  e  vigência  originalmente  pactuadas. DATA D
 
 RATIFICAÇÃO: Ficam  ratificadas todas  as  demais  cláusulas e  condições do Contrato  nº 042/2022 que não colidam com  o teor deste
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 <!-- image -->
 
@@ -8841,17 +8841,17 @@ F  U  N  D  A  M  E  N  TO :  Processo  nº  SEI-180002/000946/2026.
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
 3.  REGIÃO  METROPOLITANA I (CAPITAL) - PROPONENTES HABILITADOS - PROPOSTAS DE EXECUÇÃO INTERNACIONAL
 
@@ -9118,17 +9118,17 @@ PROCESSO Nº SEI-330002/006997/2025.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Maria  Lúcia  Nunes  Machado  -  lote  10;  Maria  José  Vasconcelos  Inácio
 
@@ -9164,17 +9164,17 @@ Silva de Oliveira  lote 30 unid.  1A; Ynara Ribeiro da Silva  lote 30
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 unid.  2A;  Camila  de  Oliveira  e  Silva  -  lote  32  unid.  1A;  Luiz  Henrique
 
@@ -9184,7 +9184,7 @@ da Silva -  lote 32 unid. 1B;  Eloisa Juvencio da Cruz -  lote 36; Wilma Santann
 
 Termos Administrativos de Reconhecimento de Posse e Moradia TA  R  P  M ,  de imóveis em  fase de regularização fundiária,  pelo Estado do  Rio  de  Janeiro,  através  do  Instituto  de  Terras  e  Cartografia  do  Estado  do  Rio  de  Janeiro  ITERJ,  em  favor  dos  destinatários  abaixo relacionados, com base  na Lei (F) nº 13.465/2017, tendo  em vista o contido na Portaria PRES/ITERJ  nº 195/2019 alterada pela Portaria PRES/ITERJ nº 282/2022 e no Processo Administrativo nº SEI-
 
-/U0049
+I
 
 330020/001377/2023 ,  através  do  qual  fora requerido  ao  Município  do Rio de Janeiro, através do  Of.ITERJ/DIRRF 450/2026, por sua Secretaria  Especial de  Ação  Comunitária  da Cidade  do  Rio  de Janeiro,  a instauração  do  processo  de  regularização  fundiária  de  interesse  social -  Reurb-S:
 

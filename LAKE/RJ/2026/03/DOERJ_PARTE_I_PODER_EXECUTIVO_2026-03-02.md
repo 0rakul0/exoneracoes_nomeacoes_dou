@@ -300,17 +300,17 @@ NOMEAR LUIZ HENRIQUE AMPUERO para  exercer,  com validade  a contar de 25 de fev
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 003  05/03/2026  Disponibilizar  o  Demonstrativo  7,  do  Anexo  de  Metas  Fiscais,  que  contém  a  Esti-  mativa  e  a  Compensação  da  Renúncia  de  Receita  conforme  MDF  15ª  Ed.  e  LRF.  SE  FA  Z  /  S  U  B  P  O  T  004  10/03/2026  Disponibilizar  as  Estimativas  de  Receitas  Próprias  para  2026,  2027,  2028  e  2029 pe-  las  Unidades  Setoriais  à  SEPLAG/SUBPLO.  ÓRGÃOS A SEREM OFICIADOS  005  10/03/2026  Disponibilizar Demonstrativo  das despesas previstas de  todas unidades orçamentárias  2026,  2027,  2028 e  2029 à  SEPLAG/SUBPLO  RIOPREVIDÊNCIA  006  10/03/2026  Disponibilizar  Demonstrativo  das  despesas  previstas,  nas  unidades  orçamentárias  EGE-SEFAZ,  EGE-DÍVIDA  e  EGE-PRECATÓRIOS  RPV,  para  2026,  2027,  2028  e  2029.  S  E  FA  Z  /  S  U  B  T  E  S  007  11/03/2026  Elaborar  Nota  Técnica,  com  a  Estimativa  da  Receita  do  Tesouro  para  2026,  2027,  2028  e  2029, a  preços  correntes  e  constantes,  descrevendo  a  metodologia  e  a  memória  de  cálculo  utilizada.  S  E  FA  Z  /  S  U  B  T  E  S  008  16/03/2026  Elaborar  Nota  Técnica  com a Estimativa  da  Receita  de  Outras  Fontes  para  2026,  2027, 2028 e 2029, a preços correntes e constantes, descrevendo a metodologia e a  memória  de  cálculo.  SEPLAG/SUBPLO  009  16/03/2026  Disponibilizar  os  valores  de  2023,  2024  e  2025  preenchidos  conforme  MDF  15ª  Ed:  S  E  FA  Z  /  S  U  B  C  O  N  T  -  Evolução  do  Patrimônio  Líquido  (Demonstrativo  4  -  AMF);  -  Origem e  Aplicação  dos recursos obtidos  com a  Alienação de Ativos (Demonstra-  tivo  5  -  AMF).  010  18/03/2026  Disponibilizar  a  estimativa,  para  2027,  dos  valores  que  compõe  o  Demonstrativo  8,  do Anexo de Metas Fiscais,  a  saber:  S  E  FA  Z  /  S  U  B  P  O  T  -  Aumento Permanente da Receita;  -  (-)  Tr  a  n  s  f  e  r  ê  n  c  i  a  s  Constitucionais;  (-)  Tr  a  n  s  f  e  r  ê  n  c  i  a  s  ao FUNDEB.  0  11  20/03/2026  Disponibilizar  o  Demonstrativo  6  -  AMF  preenchido  conforme  MDF  15ª  Edição  e  Re-  latório  de  avaliação  da  situação  financeira  e  atuarial  do  RIOPREVIDÊNCIA  e  RJ-  PREV  RIOPREVIDÊNCIA RJPREV  012  24/03/2026  Projetar  as  despesas  previstas  nas  demais unidades orçamentárias para 2026, 2027,  2028  e  2029.  SEPLAG/SUBPLO  013  24/03/2026  Disponibilizar o Anexo de Riscos Fiscais, incluído o Demonstrativo de Riscos Fiscais e  Providências  preenchido  conforme  MDF  15ª  Edição.  S  E  FA  Z  /  S  U  B  T  E  S  PGE  014  25/03/2026  Disponibilizar  as  estimativas  de  receita  e  despesa  total  à  SEFAZ/SUBTES  SEPLAG/SUBPLO  015  27/03/2026  Disponibilizar  os  valores,  para  o  período  2026  -  2029,  dos  seguintes  itens  para  con-  solidação  dos  quadros  do  Resultado  Primário,  Nominal  e  montante  da  Dívida  Pú-  blica:  S  E  FA  Z  /  S  U  B  T  E  S  -  Serviço da Dívida;  -  Estoque da Dívida;  -  Precatórios;  -  Disponibilidade de Caixa;  -  Depósitos  Restituíveis  e  valores  vinculados;  -  Haveres  e  Demais  Ativos  Financeiros;  -  Restos a Pagar;  -  Passivos Reconhecidos;  -  Ajuste Metodológico.  -  Operação  de  crédito  -  Resultado  Nominal  016  27/03/2026  Elaborar  o Demonstrativo  8 -  A  M  F ,   o  qual  contém a  Estimativa  da Margem de Ex-  pansão das  Despesas  Obrigatórias  de  Caráter  Continuado.  SEPLAG/SUBPLO  017  30/03/2026  Consolidar o Anexo de Metas e Prioridades.  SEPLAG/SUBPLO  018  31/03/2026  Consolidar  a  Minuta do Projeto de Lei.  SEPLAG/SUBPLO  019  01/04/2026  Elaborar a minuta de MENSAGEM de encaminhamento do Projeto de Lei.  SEPLAG/SUBPLO  020  10/04/2026  Consolidar o texto  final  do  Projeto  de  Lei  de  Diretrizes  Orçamentárias  -  PLDO  2027.  SEPLAG/SUBPLO  021  13/04/2026  Enviar  à  SECC  o  processo  SEI,  contendo  o  Projeto  de  Lei  de  Diretrizes  Orçamen-  tárias  e  demais  peças,  para  2027.  SEPLAG  022  15/04/2026  Encaminhar  a  ALERJ a  Mensagem  do  Projeto  de  Lei  de  Diretrizes  Orçamentárias  de  2027.  SECC   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -385,17 +385,17 @@ Governador lar,  da  Subsecretaria  de  Gestão  de  Ensino,  da  Secretaria  de
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 go de Assessor Chefe, símbolo VP-3, da Assessoria Especial, da Fundação Leão XIII. Processo nº SEI-310003/000244/2026.
 
@@ -496,41 +496,41 @@ EXONERAR ,  com validade a contar  de 01  de  março de 2026, PEDRO PEREIRA  DE 
 
 NOMEAR  GILBERTO MARTINS  SANTIAGO , ID  FUNCIONAL Nº 51045524/1, para  exercer, com  validade a  contar de  01 de  março de 2026, o cargo em comissão  de Assessor, símbolo DAS-8, da Secretaria de Estado  da Casa Civil, anteriormente ocupado  por LUIS FELIPE DE  MORAES MONTEIRO DE BARROS, ID Funcional nº 51010380/1, e considerá-lo exonerado do  cargo em comissão de Ajudante II, símbolo DAI-2, do mesmo Órgão. Processo nº SEI150001/002106/2026.
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0033/U0037
+037
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0033
+3
 
-/U002D
+-
 
-/U0032
+2
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 DAI-6, da Assessoria Técnica de Cargos em  Comissão e Funções  Gratificadas,  da  Secretaria  de  Estado  de  Educação.  Processo  nº SEI-030001/018183/2026.
 
@@ -604,17 +604,17 @@ EXONERAR ,  a  pedido  e  com  validade  a  contar  de  24  de  fevereiro  de 20
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 nadoria  de Análise  de Indicadores  Educacionais, da  Superintendência de Avaliação  e Acompanhamento  do Desempenho Escolar,  da Subsecretaria de  Gestão de  Ensino, da Secretaria  de Estado  de Educação.  Processo  nº  SEI-030001/017725/2026.
 
@@ -773,17 +773,17 @@ Art. 1º  Designar os  servidores MONICA ELISE  REBOUÇAS GOMES,  ID  Funcional 
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 dante e DIOGO PINHEIRO PEREIRA,  ID Funcional nº 5148974-0, na qualidade  de  Integrante Técnico,  para  compor  a Equipe  de  Planejamento  da  Contratação. Art. 2º  Caberá a  Equipe de Planejamento da  Contratação praticar todos  os  atos  que  lhe  sejam afetos  conforme  previsto  no  Decreto  nº 48.650,  de  23  de  agosto  de  2023;  no  Decreto  nº  48.816,  de  24  de novembro  de  2023  e na  Resolução  SECC  nº  158,  de 27  de  maio  de 2025. Art.  3º  Os papéis de integrante demandante e integrante técnico devem  ser  ocupados  por  servidores  que  detenham  conhecimento  sobre aspectos de  uso e/ou  técnico do  objeto a  ser contratado,  nos termos do  Decreto  nº  48.650/2023. Art.  4º  Esta  Portaria  entra  em  vigor  na  data  de  sua  publicação.
 
@@ -843,39 +843,39 @@ DESIGNA JOSE ALEXANDRE SILVA DOS SANTOS ,  Técnico de Eletromecânica  II, como
 
 Id:  2717106
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0033/U0037
+037
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0044/U0045
+DE
 
-/U0032
+2
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
 ## DEPARTAMENTO DE TRÂNSITO DO ESTADO DO RIO DE JANEIRO
 
@@ -960,7 +960,7 @@ O  PRESIDENTE DO  DEPARTAMENTO DE  TRÂNSITO DO  ESTADO DO RIO  DE JANEIRO  - DE
 
 Art. 1º  Fica alterada  a composição da  Comissão de Gestão  de Documentos  do DETRAN.RJ,  criada  por meio  da Portaria  PRES-DE-
 
-/U0035
+5
 
 Id:  2717151
 
@@ -968,7 +968,7 @@ Id:  2717030
 
 <!-- image -->
 
-/U0036
+6
 
 TRAN.RJ nº 6.231, de 25 de maio de 2022, visando à atualização  de seus  membros,  da  seguinte  forma:
 
@@ -1008,17 +1008,17 @@ Id:  2717081
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Fazenda
 
@@ -1096,17 +1096,17 @@ Id:  2716958
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE FAZENDA SUBSECRETARIA DE ADMINISTRAÇÃO SUPERINTENDÊNCIA DE RECURSOS HUMANOS
 
@@ -1132,53 +1132,53 @@ Período:  setembro  de  2025  a  fevereiro  de  2026
 | Nº  M  AT  R  Í  C  U  L  A  NOME  DATA DO ÓBITO  EXCLUSÃO NA FOLHA DE PAGAMENTO  1  00-0003379-5  JUAREZ DE SOUSA MORAES  06/08/2025  Setembro/2025  2  0  0  -  11  0  3  8  6  1  -   9  ANAILDE OLIVEIRA  30/06/2025  Setembro/2025  3  00-1004189-5  NELY ROCHA ALVES  14/07/2025  Setembro/2025  4  00-0131431-9  RAMIR FERNANDES DE OLIVEIRA  12/07/2025  Setembro/2025  5  00-0123005-1  SEBASTIAO DO NASCIMENTO  08/08/2025  Setembro/2025  6  00-1253936-7  VELMA DE ALMEIDA  17/08/2025  Setembro/2025  7  00-0029106-2  DAHIRTON BARROS DA SILVA  14/08/2025  Setembro/2025  8  0  0  -  11  2  9  6  5  8  -   9  DINORAH MARIA DOS SANTOS ANDRADE  02/07/2025  Setembro/2025  9  00-0026980-3  MILTON DE OLIVEIRA BADARO  12/07/2025  Setembro/2025  10  00-0062065-8  MARIA HELENA WHITEMAN MARINE  25/08/2025  Setembro/2025  11  00-0006378-4  ANTONIO CARLOS CABRAL CID  Ano  de  óbito:2025  Setembro/2025  12  00-0444154-9  DARCY SILVA COSTA  12/08/2025  Setembro/2025  13  00-1088463-3  HELCIO DA MOTTA PERES  05/08/2025  Setembro/2025  14  00-1887497-4  LECIR SILVEIRA DE SOUZA  Ano  de  óbito:  2025  Setembro/2025  15  00-0026255-0  LUIZ  FERNANDO ROSA LINHARES  06/08/2025  Setembro/2025  16  00-1078786-9  MARIA TEREZA DA SILVA  12/08/2025  Setembro/2025  17  00-0018988-6  WALDYR ORNELLAS  12/08/2025  Setembro/2025  18  00-0014915-3  WANDA TORRES DE CARVALHO  10/08/2025  Setembro/2025  19  0  0  -  0  11  0  6  7  1  -   5  MARIA HELENA DALTRO  27/07/2025  Setembro/2025  20  00-0406937-3  SERGIO DOS SANTOS PARAVIDINO  30/07/2025  Setembro/2025  21  00-0024538-1  SANDOVAL GONCALVES DOS SANTOS FILHO  07/09/2025  Setembro/2025  22  00-0166049-7  VALDEMAR NASCIMENTO VASCONCELOS  06/09/2025  Setembro/2025  23  00-0427667-1  ROSA MARIA MONTEIRO GARRETT  02/09/2025  Setembro/2025  24  00-0155098-7  IGLINALDO CARLOS PINTO BARRETO  06/09/2025  Setembro/2025  25  00-0081698-3  COSME TOMAZ DA SILVA  08/09/2025  Setembro/2025  26  00-0030341-2  HUGO ROQUETTE PEREIRA  06/09/2025  Outubro/2025  27  00-0134724-4  GUMERCI FARIA DE CARVALHO  13/09/2025  Outubro/2025  28  00-1012084-8  MARIA LUCIA PIMENTEL BARROS  24/07/2025  Outubro/2025  29  00-1035424-9  VANDA VIEIRA ROCHA DA SILVA  17/09/2025  Outubro/2025  30  00-0156124-0  ENITH PRADO ARAUJO  19/09/2025  Outubro/2025  31  0  0  -  11  3  4  4  0  6  -   6  MARIA IVONNE MONNERAT ROCHA  18/09/2025  Outubro/2025  32  00-0430137-0  JOSE MONTEIRO TEOTONIO  27/07/2025  Outubro/2025  33  00-0031437-7  SEBASTIAO DA CONCEICAO BARROS  29/08/2025  Outubro/2025  34  00-0078670-7  PEDRO THOMAZ DE OLIVEIRA  09/08/2025  Outubro/2025  35  0  0  -  11  3  6  3  2  8  -   0  AUREA DO SOUTO NICOLAU  27/09/2025  Outubro/2025  36  0  0  -  11  3  5  3  5  6  -   2  TERESA CAODURO ZAMPIERON  02/09/2025  Outubro/2025  37  0  0  -  11  8  0  2  4  6  -   9  ANA MARGARIDA CARVALHO SIMOES PINTO  29/08/2025  Outubro/2025  38  00-1083941-3  MARIA LUIZA RASTRELLI MONTEIRO  26/09/2025  Outubro/2025  39  00-0800988-8  MOACYR NANTES DA SILVA  22/09/2025  Outubro/2025  40  00-0082945-7  GELSO FARIA MARTINS  01/10/2025  Outubro/2025  41  0  0  -  11  4  2  0  8  5  -   8  MARIA SYLVIA KARL CORREA  24/09/2025  Outubro/2025  42  00-2088153-8  JORGE GRANGEIRO VINGADAS  04/10/2025  Outubro/2025  43  00-0427837-0  SILVIA  FILOMENA DA SILVA  28/08/2025  Outubro/2025  44  00-0021695-2  JOSE CARLOS MENDES AGUIRRE  10/10/2025  Outubro/2025  45  00-0103543-5  NILTON NAZARETH  21/09/2025  Outubro/2025  46  00-0045500-6  PAULO MARCIO BAPTISTA  09/10/2025  Outubro/2025  47  0  0  -  0  11  9  5  3  9  -   5  ARY GOMES  22/09/2025  Outubro/2025  48  00-0042587-6  ADAIR FERREIRA  10/10/2025  Novembro/2025  49  0  0  -  11  3  5  5  9  3  -   0  THEREZINHA BITTAR BORGES  08/10/2025  Novembro/2025  50  00-0000930-8  AMERICO GOMES DA SILVA FILHO  09/09/2025  Novembro/2025  51  00-1015806-1  ULYSSEA DAVID BRITTO  02/10/2025  Novembro/2025  52  00-1000469-5  NEUSA CARVALHO RAMOS MATTOS  16/09/2025  Novembro/2025  53  00-0122106-8  ARMINDA TEIXEIRA LOPES  19/10/2025  Novembro/2025  54  00-0034452-3  IEDA MARIA DO AMARAL  16/10/2025  Novembro/2025  55  00-0017272-6  MARCO ANTONIO COSTA  06/10/2025  Novembro/2025  56  00-0097144-0  MARIA IGNEZ SANTOS VIANNA  07/10/2025  Novembro/2025  57  00-2304905-9  NICE CARDIA CUNHA  06/10/2025  Novembro/2025  58  00-0006300-8  PAULO ROBERTO MEXIAS PRIETO  18/10/2025  Novembro/2025  59  00-0074322-9  RENATO NUNES DE AMORIM  22/09/2025  Novembro/2025  60  0  0  -  1  0  3  1   0  11  -  8  ARACY FERREIRA DE MOURA  27/10/2025  Novembro/2025  61  00-0007285-0  ERNANI RIBEIRO DAS CHAGAS MOURA  25/10/2025  Novembro/2025  62  00-0063142-4  LADIOMAR RODRIGUES SANT ANNA  29/08/2025  Novembro/2025  63  00-1081477-0  SONIA JEZLER FREIRE DE CARVALHO  0  3  /  11  /  2  0   2  5  Novembro/2025  64  00-0273449-9  RENATO CARVALHO DE CASTRO  14/10/2025  Novembro/2025  65  00-0047708-3  CICERO COSTA  0  3  /  11  /  2  0   2  5  Novembro/2025  66  00-0026220-4  FRANCISCO BORES DE BRITTO PETRAUSKA  30/10/2025  Novembro/2025  67  00-0062200-1  JORGE FERREIRA PINTO  0  3  /  11  /  2  0   2  5  Novembro/2025  68  00-1026108-9  ANGELA MARIA DE CARVALHO MOREIRA  31/10/2025  Novembro/2025  69  00-1016446-5  YOLANDA SANTOS ARRABAL  25/09/2025  Novembro/2025  70  0  0  -  11  4  1  0  7  0  -   1  NAIDE KORT KAMP DA SILVA  0  9  /  11  /  2  0   2  5  Novembro/2025  71  00-0404594-4  GUILHERME MARTINS RIBEIRO  30/10/2025  Novembro/2025  72  00-0063134-1  DAISY GOMES DA SILVA  30/10/2025  Novembro/2025  73  0  0  -  0  11  3  4  0  9  -   7  CELY DE OLIVEIRA AMARAL  23/10/2025  Novembro/2025  74  0  0  -  11  3  4  4  2  2  -   3  ALDAYR FERREIRA  1  6  /  11  /  2  0   2  5  Dezembro/2025  75  00-0041300-5  ARMANDO DOS PRAZERES  0  2  /  11  /  2  0   2  5  Dezembro/2025  76  00-0079529-4  HELENO LEIMANN GONCALVES PARAHYBA  1  2  /  11  /  2  0   2  5  Dezembro/2025  77  00-0217255-9  HENRIQUE PAULO OLIVEIRA LIMA  2  0  /  11  /  2  0   2  5  Dezembro/2025  78  00-0260738-0  JOSE ARI PRADO VALE  0  5  /  11  /  2  0   2  5  Dezembro/2025  79  00-1426830-4  SONIA MARIA COSTA DE OLIVEIRA FERREIRA  05/10/2025  Dezembro/2025  80  00-0260304-1  ANTONIO AUGUSTO DE BARCELLOS  2  1  /  11  /  2  0   2  5  Dezembro/2025  81  00-0085219-4  CIRILO  RIBEIRO  GONCALVES  2  3  /  11  /  2  0   2  5  Dezembro/2025  82  00-1089206-5  CLAUDIA APARECIDA DE SOUZA DA SILVA  15/10/2025  Dezembro/2025  83  00-0124214-8  ANGELO JOSE DE CARVALHO  0  7  /  11  /  2  0   2  5  Dezembro/2025  84  00-0156477-2  MACINALDO ALVES DA SILVA  0  4  /  11  /  2  0   2  5  Dezembro/2025  85  00-0021350-4  SERGIO MORAES DE FREITAS  1  8  /  11  /  2  0   2  5  Dezembro/2025  86  00-0089125-9  MARIA DE LOURDES CORREA  0  5  /  11  /  2  0   2  5  Dezembro/2025  87  00-0301779-5  ALONSO CORDEIRO DE ALMEIDA  07/12/2025  Janeiro/2026  88  00-0048712-4  HELIO FERREIRA DA CUNHA  13/10/2025  Janeiro/2026  89  00-1030287-5  LERTZ PIMENTEL  06/12/2025  Janeiro/2026  90  00-1004766-0  SONIA LOPES BESSA  19/12/2025  Janeiro/2026  91  00-0012599-7  WALTER FERREIRA DE SOUZA  14/12/2025  Janeiro/2026  92  00-0010529-6  HENRIQUE DOMINGUES SODRE  29/12/2025  Janeiro/2026  93  00-0075752-6  GERMANO RODRIGUES PACO  1  0  /  11  /  2  0   2  5  Janeiro/2026  94  00-0271837-7  ADAILVA SAMUEL  3  0  /  11  /  2  0   2  5  Janeiro/2026  95  00-1075361-4  ELCY SODRE DOS SANTOS  3  0  /  11  /  2  0   2  5  Janeiro/2026  96  00-0084840-8  JOSE GERALDO DE JESUS  23/12/2025  Janeiro/2026  97  00-0015857-6  LUIZ  BAPTISTA  DA  SILVA  08/12/2025  Janeiro/2026  98  00-0900559-6  NINA PAVELTCHUK  19/12/2025  Janeiro/2026  99  00-0082562-0  SEBASTIAO BARBOSA DE OLIVEIRA  26/12/2025  Janeiro/2026  100  0  0  -  0  0  2  9   11  4  -  6  ALOISIO GARCIA DE VASCONCELLOS  02/01/2026  Janeiro/2026   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0033/U0037
+037
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0032
+2
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -1227,19 +1227,19 @@ Id:  2716963
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0039
+9
 
 | Descontos Consignatários + Cotista  -R$  3.142.689,46  -R$  3.132.657,50  -R$  3.132.579,81  -R$  3.290.746,07  -R$  3.106.278,80  -R$  3.103.289,17  Imposto  de  Renda  -R$  18.134.924,01  -R$  18.017.276,75  -R$  18.033.572,12  -R$  17.912.069,68  -R$  17.468.167,41  -R$  17.456.883,77  Imposto  de  Renda  Exercícios  Anteriores  R$  -  R$  -  R$  -  R$  -  R$  -  R$  -  Renda Mensal Líquida  R$  104.479.510,94  R$  104.033.544,84  R$  104.543.151,77  R$  104.229.495,51  R$  103.088.118,45  R$  103.031.685,07  Renda Mensal Cotista  R$  852.058,90  R$  846.667,78  R$  837.761,53  R$  834.648,84  R$  815.605,28  R$  811.326,21  Renda Mensal Geral Líquida  R$  105.331.569,84  R$  104.880.212,62  R$  105.380.913,30  R$  105.064.144,35  R$  103.903.723,73  R$  103.843.011,28   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1282,17 +1282,17 @@ Rentabilidade  de  Carteira  no  Período Id:  2716966
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE FAZENDA
 
@@ -1327,17 +1327,17 @@ Rentabilidade  de  Carteira  no  Período
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE FAZENDA
 
@@ -1361,39 +1361,39 @@ PROCESSO Nº SEI-040002/000634/2026 Carteira:  GOVERNO  DO  EST.  RIO  DE  JANEI
 
 Rentabilidade  de  Carteira  no  Período
 
-/U0041/U004E/U004F
+ANO
 
-/U0030/U0033/U0037
+037
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0032
+2
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
 ## SECRETARIA DE ESTADO DE FAZENDA SUBSECRETARIA DE ESTADO DE RECEITA
 
@@ -1551,9 +1551,9 @@ O SUPERINTENDENTE  DE BENEFÍCIOS  FISCAIS TRIBUTÁRIOS DE ICMS, EM EXERCÍCIO, 
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
 ## R  E  S  O  LV  E  :
 
@@ -1657,15 +1657,15 @@ Superintendente  de  Fiscalização  e  Inteligência  Fiscal
 
 Id:  2717240
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 Id:  2717167
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 Id:  2717170
 
@@ -1827,37 +1827,37 @@ Parágrafo  Único -/ Os  efeitos  do cancelamento  da  inscrição  estadual re
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0033/U0037
+037
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U006F
+o
 
 Art.  2º  Declarar  a  inidoneidade  dos  documentos  fiscais  emitidos, desde  a data  indicada  no  parágrafo único  do  artigo  anterior, pelo  detentor da inscrição estadual n.º 12.156.960, com apoio no art. 24, XVI, do  livro  VI,  do  Decreto  n.º  27.427,  de  17  de  novembro  de  2000.
 
@@ -2015,17 +2015,17 @@ Recurso  nº 82543.  Processo  nº SEI-040037/000304/2023.  Recorrente: BRASKEM 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Caetano  Lourenço, que  dava  total provimento  ao  recurso. -  Acórdão nº 21.117. - EMENTA: PRELIMINAR DE NULIDADE DO AUTO DE INFRAÇÃO. AUSÊNCIA DE MOTIVAÇÃO. Auto de infração que descreve  de  forma  clara  os  fatos,  indica os  créditos  glosados,  os  bens  autuados  e o  enquadramento legal  adotado, expondo  as razões  pelas quais  a  fiscalização  os  classificou  como  bens  de  uso  e  consumo.  Fiscalização que se  valeu das informações prestadas  pelo próprio contribuinte  em resposta  às  intimações  regularmente expedidas.  Alegações do  contribuinte que se  confundem com  o mérito da  exigência e não evidenciam  vício formal ou material  do lançamento. Inexistência de  afronta  ao  art.  142  do  CTN.  Prejuízo  ao  contraditório  e  à  ampla defesa não  configurado. PRELIMINAR REJEITADA.  ICMS. CRÉDITO INDEVIDO.  ENTRADA DE  MERCADORIAS.  MATERIAL  DE USO  E CONSUMO. Produtos objeto  da autuação: pallets de  madeira e bobinas  ou  filmes Hood.  Para  que  um  bem  seja reconhecido  como  insumo, apto  a gerar  direito crédito  do ICMS pela  sua entrada  no estabelecimento  do contribuinte,  é  necessário  que possua  participação intrínseca no processo produtivo, o  que se dá ou pela incorporação ao produto  final ou pelo  seu consumo  integral e imediato  no referido processo, requisitos  que decorrem da  aplicação do princípio  da nãocumulatividade  do  ICMS,  previsto  no  art. 155,  parágrafo  2º,  inc.  I  da CRFB/88,  e também  são  tratados  no Parecer  Normativo  nº 10/75.  O atendimento  a  esses requisitos  não  ocorreu  no presente  caso.  Conclui-se que os  produtos objeto da autuação se  classificam como material de  uso ou  consumo na aplicação  mencionada, razão  pela qual, no momento da ocorrência dos fatos geradores, o direito a crédito somente  estaria  permitido  a  partir  de  1º  de  janeiro  de  2020,  nos  termos do  art.  83,  inc.  I  da  Lei  nº  2.657/96,  com  redação  da  Lei  nº  5.935/11, início postergado para 1º de janeiro de 2033, conforme Lei nº 9.113/20,  estando correta  a  glosa  efetuada. RECURSO  DESPROVIDO.  AUTO DE INFRAÇÃO PROCEDENTE.
 
@@ -2163,17 +2163,17 @@ Id:  2717118
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -2243,41 +2243,41 @@ O SECRETÁRIO DE ESTADO DE POLÍCIA MILITAR ,  no  exercício  de suas  atribui�
 
 Id:  2717078
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0031/U0035
+15
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0033/U0037
+037
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0032
+2
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
 -o Proc. SEI-350006/000870/2026, o qual indica servidores para compor  a  equipe  de  fiscalização.
 
@@ -2335,39 +2335,39 @@ XVIII  fiscalizar  o cumprimento dos requisitos  de acessibilidade nos serviços
 
 XIX apresentar relatório, ao término do contrato ou quando solicitado em qualquer  período, ao  gestor do contrato  para as  providências do art. 23 deste  Decreto, de acordo com a  orientação cabível, regulamentada  pelos  órgãos  de  controle, ou  quando  solicitado  em  qualquer período  do  contrato,  pronunciando-se  pela  execução  do  seu  objeto.
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0030/U0033/U0037
+037
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032
+2
 
 Art.  3º  Fica  sob  a  responsabilidade  da  UNIDADE  BENEFICIADA pelo  contrato:
 
@@ -2439,17 +2439,17 @@ Id:  2717079
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 PROCESSO Nº SEI-350016/028884/2024 -FIXADOS, com validade a contar  de  26/11/2024, os  proventos  de  JORGE LUIZ  GENUINO  DA SILVA,  SUBTEN  PM  RG  61.762.
 
@@ -2651,17 +2651,17 @@ Art.  2º -Os Servidores  aos  quais se  refere a  presente Resolução  ficam i
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Art.  3º  A promoção de que trata esta Resolução terá, para todos os efeitos, validade a contar de 21 de abril de 2025; utiliza a vaga da Lei Estadual nº  3.586, de 21  de junho de 2001  e da Lei  Estadual 6.166, de  27  de  fevereiro  de  2012,  e  se  refere  ao  Relatório  de  Concorrentes à Promoção  por Antiguidade  e Merecimento,  publicado no  Diário Oficial nº 026,  de 09 de fevereiro  de 2026, nos termos  da Lei Complementar  nº  204,  de  30  de  junho  de  2022.
 
@@ -2951,17 +2951,17 @@ Id:  2716924
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL
 
@@ -3079,17 +3079,17 @@ ATA  194/26. Aos  vinte  e quatro  dias  do  mês de  fevereiro  de dois  mil e 
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 César  Augusto S.  K. De  Oliveira,  Wagner de  Oliveira, Cláudia  Maria Pires  da Mota  e  Sônia  Regina S.  De  Oliveira.  Esteve presente,  como suplente,  com  direito  a  voto  a  conselheira  Lívia  Madeira.  Esteve  presente,  como membro  suplente,  sem  direito a  voto  a conselheira  Fátima  Elisabeth  de  Souza  Silva,  conforme atesta  a  lista  de  presença subscrita  em  apartado . Item  3.  Apresentação  das respostas  fornecidas pela SEAP acerca do relatório de inspeção realizada no Instituto  Penal Talavera  Bruce. Equipe:  Amanda de  Magalhães, Eunice Silva Cavalcante, Felippe Barcellos, Marta Cristina P. Anciães Martins e Tatiana Pollo Flores. A Vice-presidente passou a palavra à conselheira Marta Cristina  P. Anciães Martins que  realizou breve análise  das  respostas  fornecidas  pela SEAP/RJ  nos  seguintes  requisitos: i)  em relação ao fornecimento de água potável, a conselheira informou que  os relatos  constantes indicam  acesso limitado  ou inadequado  a água para  consumo e higiene,  o que  viola normas básicas  de dignidade humana; ii) Saúde das  presas: O atendimento é considerado precário, com  falhas na assistência  médica. Nesse sentido,  o Colegiado decidiu por  esclarecer questões relativas à saude  com a Dra. Karen Athié na sessão do dia 03/03/26; iii) Alimentação: a conselheira Marta  Martins solicitou  à Secretaria  do CPERJ  que envie  despacho, através  do SEI  de  origem,  para maiores  esclarecimentos.  Por fim,  o Colegiado acordou,  por unanimidade, que, diante  da persistência dos problemas e  da falta  de soluções  concretas nas  justificativas administrativas,  o órgão  de controle  entende que  apenas uma  verificação in loco atualizada pode  medir  o  real estado  de  vulnerabilidade das  internas  e forçar  ajustes  imediatos. Item  4. Reanálise  do  Ofício VEP  GABINETE nº 07/2026  (cerimônias de Livramento condicional) (OF/CPERJ/SEAP  Nº  054). Após longo  debate sobre o tema, o Colegiado acordou, por  unanimidade, que o assunto  deverá ser arquivado  provisoriamente,  aguardando denúncia  de  fatos  novos. Item  5. Outros assuntos ligados à  Execução Penal. O  conselheiro  Murilo Nunes de  Bustamante teceu  breves comentários  sobre a  reunião que acontecerá  no dia  02/03/2026  para  confirmação das  Coordenações das Câmaras temáticas do Plano Pena  Justa que são divididos em 5 eixos  de  atuação:  1.  Superlotação,  2.  Ambiência  e  serviços;  3.  Cidadania  e reintegração  social: 4.  Transparência, participação  e controle externo; 5. Planejamento, financiamento e recursos humanos.  Na oportunidade,  o  conselheiro  Murilo  de  Bustamante  informou  que  o  Excelentíssimo  Juiz,  Dr. Marcelo  Rubioli,  se  desligou  do Comitê  de  Políticas  Penais.  Por  fim,  o  conselheiro  solicitou  à  Vice-presidente  e  aos demais membros do Colegiado que o tema 'Banho de sol' seja objeto de  pauta em  uma das  próximas sessões  do CPERJ,  tendo em  vista que  nos  fundamentos  jurídicos,  o  banho  de  sol  é  considerado  essencial  para  a  manutenção  da  dignidade da  pessoa  humana  e  da  integridade  física  (saúde), baseando-se  na  Lei  de Execução  Penal  (LEP) que  assegura  o  direito  à  saída  da  cela  para  atividades  ao  ar  livre,  na Constituição  Federal que  protege  a  integridade física  e  moral dos  detentos e  nas Regras de  Nelson Mandela  (ONU) nas quais  as normas internacionais  que  o  Brasil  segue, determinando  ao  menos  uma  hora de exercício  ao  ar  livre  diariamente.  Nada  mais  havendo  tratar,  a  sessão  foi  encerrada  às onze  horas  e  trinta  minutos,  foi lavrada  a  presente ata  pela Secretária Executiva, Gessica  Machado dos Santos Mesquita  e  pela  sua  auxiliar Ligia  Guimarães  G.  Moreira (conforme dispõe  o  art.  3º  da  Lei  6181/2012  e  art.  7º  da  Resolução  SEAP  Nº 870 de 22/04/2021) que a subscrevem com a vice-presidente Amanda Pereira  de  Magalhães,  ficando  consignado que  a  presidente  Sandra Regina  da  Silva de  Almeida  e  os  conselheiros Andrezza  Duarte  Cançado,  Leonardo  Guida  não  compareceram  à  sessão,  justificadamente.
 
@@ -3195,41 +3195,41 @@ PENITENCIÁRIA TALAVERA BRUCE
 
 PROCESSO Nº SEI 210001/002814/2026 - ARQUIVE-SE
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0030/U0033/U0037
+037
 
-/U006F
+o
 
-/U002D
+-
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0032
+2
 
-/U0031 /U0039
+1 9
 
 ## DE 03.02.2026
 
@@ -3289,41 +3289,41 @@ INSTITUTO PENAL EDGARD COSTA
 
 DESPACHO DO DIRETOR
 
-/U0032/U0030
+20
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0030/U0033/U0037
+037
 
-/U002D
+-
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032
+2
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA SUBSECRETARIA DE GESTÃO OPERACIONAL PRESÍDIO ELIZABETH SÁ REGO
 
@@ -3405,17 +3405,17 @@ Id:  2716919
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## SECRETARIA DE ESTADO DE DEFESA CIVIL CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO
 
@@ -3606,17 +3606,17 @@ Id:  2717199
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
 -  a  necessidade  de  fortalecer  a  rede  de  atendimento  em  saúde  no estado do Rio de Janeiro, para garantir o acesso da população a serviços de  qualidade e  conforme os princípios  do Sistema  Único de Saúde (SUS);
 -  a  necessidade  de  disponibilidade  orçamentária  financeira.
@@ -3702,41 +3702,41 @@ passe  será  realizado  em  até  três  parcelas,  na  forma  prevista  no  An
 
 xo  II  da  Resolução.
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0030/U0033/U0037
+037
 
-/U0049
+I
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0032
+2
 
-/U0032/U0031
+21
 
 4. Os  repasses ocorrerão mediante transferência  do Fundo Estadual de  Saúde -  FES ao  Fundo Municipal  de Saúde  FMS,  através da conta corrente\_\_\_\_\_\_\_\_\_, Banco\_\_\_\_\_\_\_\_\_\_ sob CNPJ\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_de titularidade do FMS de Comendador Levy  Gasparian. 5.  A  Secretaria  Municipal  de  Saúde  não  poderá  deixar  de  executar  o projeto  aprovado de acordo com a finalidade detalhada no Projeto Assistencial,  Memorial  Descritivo,  Planta  Básica  Arquitetônica  e  Plano  de Trabalho,  sob  a condição  de  devolver  o  recurso financeiro  já  repassado. 6. O município de Comendador  Levy Gasparian declara, perante a Secretaria  Estadual  de  Saúde  do  Rio  de  Janeiro  -  SES/RJ,  possuir dotação  orçamentária  suficiente para  a  cobertura  da contrapartida  necessária  à execução  do  projeto. A  contrapartida  será realizada  por meio de recursos  provenientes de fonte própria ou  de outras fontes de  financiamento  que  não  tenham  despesas  previamente  definidas. 7. Fica estabelecido  que o município de  Comendador Levy Gasparian deverá apresentar  à Secretaria  Estadual de Saúde  do Rio  de Janeiro -  SES/RJ,  quando solicitado,  os  documentos  que comprovem  a  captação  dos  recursos  complementares  utilizados  como  contrapartida. 8. Em  caso de  descumprimento das obrigações  estabelecidas neste Termo de  Compromisso, a  Secretaria Estadual  de Saúde  do Estado do Rio de Janeiro -SES/RJ,  reserva-se o direito de adotar as medidas cabíveis,  podendo suspender  os repasses de  recurso e  exigir a devolução  dos  valores  transferidos,  além de  aplicar  as  sanções  previstas  em  lei. Posto isso,  pelo fato  das partes  estarem de  acordo com  o presente termo  e  condições  nele  estabelecidas, os  signatários  assinam  este instrumento em 02  (duas) vias de igual teor e  forma, na presença de duas  testemunhas,  a  fim  de  gerar  efeitos  jurídicos  e  legais.
 
@@ -4040,9 +4040,9 @@ SIMONE  DE  OLIVEIRA  CALIXTO ,  Professor Docente  II,  matricula  nº 244.124-
 
 VALERIA DA  SILVA  ROSA , Professor Docente II, matricula nº 290.203-9, ID Funcional nº 3621873-1,  sem contato direto e permanente com aluno, podendo exercer  a regência de turma por período de até 30 dias no trimestre por um prazo de 24meses, cessando todo e qualquer  licenciamento na data  desta publicação. Processo  nº SEI080001/005872/2026.
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 VALERIA REGINA XAVIER CONTE ,  Professor  Docente I,  matricula  nº 827.164-5, ID Funcional  nº 3872532-0, sem contato  direto e permanente com aluno,  podendo exercer a regência de  turma por período de até  30 dias no trimestre  por um prazo de  24 meses, cessando todo  e qualquer  licenciamento  na data  desta  publicação. Processo  nº SEI-080001/005872/2026.
 
@@ -4136,41 +4136,41 @@ ELAINE  FRANCA  ALVES  DA  SILVA ,  Professor  Docente  II,  matricula nº5.019.
 
 MARCOS  AURELIO VIEIRA  GUERREIRO ,  Professor  Docente I,  matricula  nº 3.085.782-5,  ID Funcional  nº 4219952-2,  sem contato  direto e  permanente  com  aluno,  podendo  exercer a  regência  de  turma  por período de  até 30 dias  no trimestre por um  prazo de 24  meses, serviços leves, em  local que não implique  em movimentação individual mais do que 10% do peso  corporal, serviços que não exijam ortostatismo  prolongado  acima  20%  da  jornada  de  trabalho,  cessando  todo e qualquer  licenciamento na  data desta  publicação. Processo  nº SEI030046/002066/2022.
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0032
+2
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0033/U0037
+037
 
-/U002D
+-
 
-/U0049
+I
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0032/U0033
+23
 
 TATIANA MACEDO CORREA , Professor Docente I, matricula nº915.112-7, ID  Funcional nº 4210234-0,  sem contato direto  e permanente com aluno, podendo exercer  a regência de turma por período de até 30  dias no trimestre por um prazo  de 24 meses, cessando todo  e qualquer  licenciamento na  data desta  publicação. Processo  nº SEI-030042/004301/2023.
 
@@ -4330,17 +4330,17 @@ Superintendente  de  Vigilância  Sanitária Id:  2717062
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 ## ADMINISTRAÇÃO VINCULADA
 
@@ -4578,17 +4578,17 @@ Secretária  de  Estado  de  Educação
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº SEI-260006/042305/2025 - RECONHEÇO a dívida  no valor  de  R$85.584,82  em  nome  de  HERNANI  CABRAL  RELVAS,  CPF 878.851.077-87, conforme CERTIDÃO DE FÉRIAS E LICENÇAS-PRÉMIO  NÃO GOZADAS  SEI nº  125111458, considerando  as manifestações  da  PGUERJ08  SEI  nº  125415709  e  125575889.
 
@@ -4610,7 +4610,7 @@ PORTARIA Nº 178/2026 - NOMEIA RAFAEL VAZ DA MOTTA BRANDÃO, matr. nº  43.556-0
 
 Id:  2717224
 
-/U0032/U0035
+25
 
 ## S  E  C  R  E  TA  R  I  A  DE E  S  TA  D  O  DE CIÊNCIA, TECNOLOGIA E I  N  O  VA  Ç  Ã  O FUNDAÇÃO DE APOIO À ESCOLA TÉCNICA
 
@@ -4632,39 +4632,39 @@ GALLARDO
 
 Leia-se:  OCTAVIO  ANIBAL  LECAROS  GALLARDO.
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0033/U0037
+037
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0032
+2
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 ## FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO FACULDADE DE CIÊNCIAS MÉDICAS
 
@@ -4829,17 +4829,17 @@ I  gerir  as  atividades  gerenciais,  técnicas  e  operacionais  que  compõem
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
 Art.  2º  A  Investigação  Preliminar Sumária  -  IPS  constitui  procedimento investigativo  preparatório no âmbito correcional,  de natureza não contraditória e não punitiva, de acesso sigiloso, que objetiva a coleta  de  elementos  de  informação  para  análise  acerca  da  existência  de indícios  de  autoria  e  materialidade relevantes  para  eventual  celebração de Termo de Ajustamento de Conduta, instauração de Sindicância Punitiva  ou  de  Processo  Administrativo  Disciplinar.
 
@@ -4935,17 +4935,17 @@ O  DIRETOR EXECUTIVO  E  DE  PLANEJAMENTO DO  INSTITUTO ESTADUAL  DO  AMBIENTE  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - do,  além daqueles  elencados no  art. 13  do Decreto  Estadual nº 45.600,  de  16  de  março  de  2016:
 - I -a  atestação das notas fiscais relativas ao  contrato, por 2 (dois) servidores  membros  da  comissão;
@@ -5100,17 +5100,17 @@ Id:  2717169
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 14.133/2021,  em favor  da  empresa  NBV PRODUÇÕES  ARTÍSTICAS LTDA, inscrita  no CNPJ sob  o nº 28.110.495/0001-20, com  sede na Rua Barão  de Itambi,  nº 34,  apto 603  Botafogo  - Rio  de Janeiro/RJ -  CEP 22.231-000,  cujo objeto  é  a contratação  de apresentação  artística da  Banda 'Barão  Vermelho', no âmbito  do evento  'Expo  Rio Regiões  Vale  do Café  -  Barra  do Piraí/RJ',  a  ser  realizado no  dia  07 de março  de 2026,  na Praça  Irineu Mendonça  (Praça do  Avião), Rodovia 137  Canção  do Amor -  Ipiabas -Barra  do Piraí/RJ  - CEP 27.197-000,  com  valor  do  aporte  em  R$  150.000,00  (cento  e  cinquenta  mil  reais).
 
@@ -5170,25 +5170,25 @@ Rio  de  Janeiro,  27  de  fevereiro  de  2026
 
 DEMETRIO ABDENNUR FARAH NETO Controlador-Geral do Estado Id:  2717145
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0030/U0033/U0037
+037
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U006F
+o
 
 ## Gabinete de Segurança Institucional do Governo do Estado do Rio de Janeiro
 
@@ -5283,17 +5283,17 @@ I  N S  T  R  U  M  E  N  TO  : Termo  de  Credenciamento  SECC  nº  17/2026 PA
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 F  U  N  D  A  M  E  N  TO  : Lei  nº  14.133/2021  e  demais  normas  pertinentes,  em especial  o Decreto  nº  45.563/16  e suas  alterações  e a  Resolução SECCG nº 19/2019.
 
@@ -5321,39 +5321,39 @@ Ficam os  licitantes FÁCIL SOLUÇÕES TECNOLÓGICAS  EM INFORMÁTICA S/A,  QUAN
 
 Id:  2717153
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0033/U0037
+037
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0032
+2
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## ADMINISTRAÇÃO VINCULADA
 
@@ -5376,55 +5376,55 @@ O  procedimento pericial  será realizado  na data  abaixo informada,  na Sede d
 | IBAC ind.  Bras.  De  alimen-  tos  e  chocolate  61.472.205/0001-64  2103701  05/03/2026  as  12:00h  Ovo de choc.  ao  leite  branco  c/  recheio  de  cre-  me -  Cacau  Show  IBAC ind.  Bras.  De  alimen-  tos  e  chocolate  61.472.205/0001-64  2103700  05/03/2026  as  12:00h  Ovo de choc.  ao  leite  e  bombom de choc. -  Ca-  cau  Show  zero  c/  180g  IBAC ind.  Bras.  De  alimen-  tos  e  chocolate  61.472.205/0001-64  2103700  05/03/2026  as  12:00h  Ovo de choc.  ao  leite  e  bombom de choc. ao lei-  te  -  Cacau  Show  c/  700g  IBAC ind.  Bras.  De  alimen-  tos  e  chocolate  61.472.205/0001-64  2103700  05/03/2026  as  12:00h  Ovo de choc.  ao  leite  c/  recheio  s/  coco  -  Cacau  Show c/  400g  IBAC ind.  Bras.  De  alimen-  tos  e  chocolate  61.472.205/0001-64  2101472  05/03/2026  as  12:00h  Ovo de choc.  ao  leite  c/  recheio  cremoso  p/  dietas  -  Brasil  Cacau  c/  370g  IBAC ind.  Bras.  De  alimen-  tos  e  chocolate  61.472.205/0001-64  2101472  05/03/2026  as  12:00h  Ovo de choc.  ao  leite  e  metade  de  choc.  branco  -  Brasil  Cacau  c/  281g  IBAC ind.  Bras.  De  alimen-  tos  e  chocolate  61.472.205/0001-64  2101472  05/03/2026  as  12:00h  Ovo de choc.  ao  leite  c/  recheio  de  mousse  de  chocolate  -  cacau  Show  c/  370g  IBAC ind.  Bras.  De  alimen-  tos  e  chocolate  61.472.205/0001-64  2103703  05/03/2026  as  12:00h  Ovo de choc.  ao  leite  e  drageados  crocante  de  choc.  Cacau  Show  c/  170g  IBAC ind.  Bras.  De  alimen-  tos  e  chocolate  61.472.205/0001-64  2103703  05/03/2026  as  12:00h  Ovo de choc.  ao  leite  drageados  crocantes  de  choc.  -  NBA  Cacau  show  c/  170g  WMB supermercados do  Brasil  ltda  00.063.960/0122-98  2103686  09/03/2026  as  12:10h  Bombons de choc. ao lei-  te  rech.  creme  avela  -  Menber c/  255g  WMB supermercados do  Brasil  ltda  00.063.960/0122-98  2103686  09/03/2026  as  12:10h  Chocolate  meio  amargo  crocante-  Members  c/  125g  WMB supermercados do  Brasil  ltda  00.063.960/0122-98  2103686  09/03/2026  as  12:10h  Chocolate  gianduia  c/  avela  -  caffarel  c/  150g  WMB supermercados do  Brasil  ltda  00.063.960/0122-98  2103687  09/03/2026  as  12:10h  Bombons choc. ao leite  rech.  creme  avela-  Maxi  ovetti  c/  250g  WMB supermercados do  Brasil  ltda  00.063.960/0122-98  2103687  09/03/2026  as  12:10h  Bombons sortidos  choc.  ao  leite  recheios  -Socado  c/  200g  WMB supermercados do  Brasil  ltda  00.063.960/0122-98  2103687  09/03/2026  as  12:10h  Bombons choc. recheio  choc  amargo-  Ovette  Cremino  c/  500g  WMB supermercados do  Brasil  ltda  00.063.960/0122-98  2103688  09/03/2026  as  12:10h  Bombons choc.ao leite  c/  recheio  sortido-Member  c/  238g  WMB supermercados do  Brasil  ltda  00.063.960/0122-98  2103688  09/03/2026  as  12:10h  Azeite  de  oliva  extra  vir-  gem-  Member  c/  1l  Mondelez  Brasil  ltda  33.033.028/0020-47  2103694  10/03/2026as  11  :  2  0   h  Ovo de pascoa choc.  branco  wafer  na  casca-  Bis  Lacta  c/  234g  Mondelez  Brasil  ltda  33.033.028/0020-47  2103694  10/03/2026as  11  :  2  0   h  Ovo de pascoa choc.  ao  leite  -  Barbie  Lacta  c/  166g  Mondelez  Brasil  ltda  33.033.028/0020-47  2103694  10/03/2026as  11  :  2  0   h  Ovo de pascoa choc.  ao  leite  biscoito  na  casca  -  Trakinas  Lacta  c/  190g  Mondelez  Brasil  ltda  33.033.028/0020-47  2103693  10/03/2026as  11  :  2  0   h  Ovo de pascoa choc.  branco  wafer  s/  limão  -  Bis  Lacta  c/  234g  Mondelez  Brasil  ltda  33.033.028/0020-47  2103693  10/03/2026as  11  :  2  0   h  Ovo de pascoa choc.  ao  leite  c/  recheio  na  casca  -  Oreo  Lacta  c/  234g  Mondelez  Brasil  ltda  33.033.028/0020-47  2103693  10/03/2026as  11  :  2  0   h  Ovo de pascoa choc.  branco  Laka  Lacta  c/  162g  Mondelez  Brasil  ltda  33.033.028/0020-47  2103691  10/03/2026as  11  :  2  0   h  Ovo de pascoa choc.  ao  leite-  Diamante  Negro  Lacta  c/  494g  Mondelez  Brasil  ltda  33.033.028/0020-47  2103691  10/03/2026as  11  :  2  0   h  Ovo de pascoa choc.  ao  leite  -  Favoritos  Lacta  c/  540g  Mondelez  Brasil  ltda  33.033.028/0020-47  2103691  10/03/2026as  11  :  2  0   h  Wafer  barras  recheadas  e  tabletes  sortidos  -Lacta  c/  250,6g  Mondelez  Brasil  ltda  33.033.028/0020-47  2103695  10/03/2026as  11  :  2  0   h  Ovo de pascoa choc.  ao  leite  -  Hot  Wheels  Lacta  c/  166g  Mondelez  Brasil  ltda  33.033.028/0020-47  2101466  10/03/2026as  11  :  2  0   h  Ovo de pascoa choc.  branco  c/  recheio-  Sonho  de  Valsa  Lacta  c/357g  Mondelez  Brasil  ltda  33.033.028/0020-47  2101466  10/03/2026as  11  :  2  0   h  Ovo de pascoa cho.  branco  c/  rech  na  casca  -Ouro  branco  Lacta  c/  359g   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0033/U0037
+37
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0033/U0037
+037
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U002D
+-
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0032
+2
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 | Mondelez  Brasil  ltda  33.033.028/0020-47  2103689  10/03/2026as  11  :  2  0   h  Chocolate  ao  leite  c/  re-  cheio  caramelo  e  avela-  Milka  c/  300g  Chocolates  Garoto  ltda  28.053.619/0001-83  2101470  10/03/2026  as  13:00h  Chocolate  ao  leite  -  Nes-  tle  c/  199g  Chocolates  Garoto  ltda  28.053.619/0001-83  2101470  10/03/2026  as  13:00h  Chocolate  ao  leite  c/  flo-  cos  de  arroz-  Nestle  c/  241g  Chocolates  Garoto  ltda  28.053.619/0001-83  2101470  10/03/2026  as  13:00h  Chocolate  ao  leite  -  Sur-  presa  Nestle  c/  204g  Chocolates  Garoto  ltda  28.053.619/0001-83  2101469  10/03/2026  as  13:00h  Chocolate  ao  leite  c/  wa-  fer  recheado  -  Kitkat  Nestle  c/  338,5g  Chocolates  Garoto  ltda  28.053.619/0001-83  2101469  10/03/2026  as  13:00h  Chocolate  branco  c/  wa-  fer  recheado  -  Kit  Kat  Nestle  c/  338,5g  Chocolates  Garoto  ltda  28.053.619/0001-83  2101469  10/03/2026  as  13:00h  Chocolate  ao  leite  c/  co-  co  -  Prestigio  Nestle  c/  225g  Chocolates  Garoto  ltda  28.053.619/0001-83  2101471  10/03/2026  as  13:00h  Chocolate  ao  leite  -  Alpi-  no  Nestle  c/  349,5g  Chocolates  Garoto  ltda  28.053.619/0001-83  2101471  10/03/2026  as  13:00h  Chocolate  Branco  -  Galak  Nestle  c/  199g  Chocolates  Garoto  ltda  28.053.619/0001-83  2103692  10/03/2026  as  13:00h  Chocolate  bombons  e  wafer  sortidos  -Garoto  c/  250g  Garoto  17.625.216/0001-45  2103699  10/03/2026  as  14:10h  Chocolate  ao  leite  c/  cro-  cante  de  amendoim  -  Ga-  roto  c/  227g  Ferrero  do  Brasil  ind.  docei-  ra  alimentar  ltda  43.816.719/0001-08  2101468  11/03/2026  as  12:20h  Bombom cober. c/  choc.  ao  leite  pedaços  de  ave-  la-  Ferrero  c/  150g  Ferrero  do  Brasil  ind.  docei-  ra  alimentar  ltda  43.816.719/0001-08  2101468  11/03/2026  as  12:20h  Bombons sortidos  -  Fer-  rero  Collection  c/  136g  Ferrero  do  Brasil  ind.  docei-  ra  alimentar  ltda  43.816.719/0001-08  2101465  11/03/2026  as  12:20h  Ovo de chocolate  ao  leite  c/  recheio  ao  leite  -  Kin-  der  Ovo  c/  150g   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5487,17 +5487,17 @@ Id:  2717221
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 SECRETARIA DE ESTADO DE FAZENDA FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO DIRETORIA DE SEGURIDADE GERÊNCIA DE ADMINISTRAÇÃO PREVIDENCIÁRIA COORDENADORIA DE ARRECADAÇÃO E COBRANÇA
 
@@ -5523,41 +5523,41 @@ O FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO - RIOPREVIDÊN
 
 Id:  2717157
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0032
+2
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0033/U0037
+037
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0033/U0039
+39
 
 4º
 
@@ -5649,17 +5649,17 @@ FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 -  UERJ torna  público  que  realizará no  dia  17/03/2026  às 10:00h,  a licitação  para AQUISIÇÃO  DE FIOS  CIRURGICOS. Processo  nº SEI260007/000773/2026.
 
@@ -5968,17 +5968,17 @@ Id:  2717084
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE INFRAESTRUTURA
 
@@ -6018,7 +6018,7 @@ OBJETO: O  presente Acordo de  Cooperação Técnica tem  como objeto a mútua c
 
 PA  R  T  E  S :  SECRETARIA DE  ESTADO  DE  ENERGIA E  ECONOMIA DO MAR (SEENEMAR) E O MUNICÍPIO DE CANTAGALO.
 
-/U0049
+I
 
 re e  offshore, com  participação voluntária  de colaboradores  dos quadros  das  PARTES,  exclusivamente  para  beneficiários  do  projeto  'Empregos  Azuis -  Um Mar  de  Oportunidades', selecionados  por meio  de processo  seletivo público  e  transparente  realizado pela  SEENEMAR, conforme  critérios  previamente  estabelecidos  no  Plano  de  Trabalho.
 

@@ -207,17 +207,17 @@ Ceres Pimenta Diretora Industrial
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 símbolo DAS-6 ,  da  Superintendência  do  Programa  RJ  para  Todos  da Secretaria  de  Estado  de  Governo,  mantendo  os  demais  termos.
 
@@ -441,17 +441,17 @@ PROCESSO Nº  SEI-E-03/10700340/2008 - MARIA  APARECIDA DUTRA  NICACIO, ID.  Fun
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## DE 17.04.2026
 
@@ -567,7 +567,7 @@ PROCESSO  Nº  SEI-150016/068216/2026 -WALFREDO  GUSTAVO PINHO  DOS ANJOS,  Id. 
 
 Id:  2730305
 
-/U0033
+3
 
 pelo art.  37, V do  Estatuto Social desta Empresa,  considerando o constante  dos  autos  do  Processo  nº SEI-150012/000567/2026,
 
@@ -619,17 +619,17 @@ O SECRETÁRIO DE ESTADO DE FAZENDA , no uso  das atribuições legais,  tendo em
 
 Art.  1º -Delegar  competência à  servidora  Celia  Regina  Rodrigues Drumond Flores, Id. Funcional nº  571001-4, para a prática dos atos necessários à  emissão de certificados  digitais da pessoa  jurídica da Secretaria  de Estado  de  Fazenda, inscrita  no  Cadastro Nacional  da
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
 <!-- image -->
 
@@ -876,17 +876,17 @@ Aos 16 dias  do  mês  de  abril  do  ano  de  dois  mil  e  vinte  e  seis,  te
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 nados, Dra. Jéssica Aguilar da Costa, identidade funcional nº 5109532-7,  advogada inscrita  na OAB/RJ  sob o  nº 181.087,  Dra. Laryssa  Oliveira Galvão,  identidade  funcional  nº 4440822-6,  advogada inscrita  na OAB/RJ sob o nº 181.501,  e  Dr.  Guilherme Silva  Andrada, Auditor  do  Estado  da  CGE/RJ, identidade  funcional  nº  503276-0,  secretariando  o  trabalho.
 
@@ -1036,17 +1036,17 @@ Recurso  nº  65111 -  Processo  nº  SEI-E-04/004/001554/2015 -  Recorrente:  F
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 COES -  Relator:  Conselheiro  Jayme  Di Giorgio  Neto  -  DECISÃO:  Por unanimidade de votos, foi negado provimento ao recurso de ofício, para reconhecer a procedência parcial  do lançamento, nos termos do voto  do Conselheiro  Relator.  -  Acórdão nº  20.849  -  EMENTA: ICMS  RECURSO DE OFÍCIO. Confirmada a decisão do julgador de Primeira Instância, pelos  seus próprios  motivos e fundamentos.  RECURSO DE OFÍCIO DESPROVIDO.
 
@@ -1241,25 +1241,25 @@ I  avaliar os bens móveis  listados no processo e  estabelecer a sua classifica
 
 gestão  e fiscalização  do
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0041/U004E/U004F
+ANO
 
-/U0049
+I
 
-/U002D
+-
 
-/U0030/U0037/U0031
+071
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
 Art. 3º -A  designação da Comissão  tem caráter  permanente para atuar  nos  procedimentos  de  avaliação,  reavaliação  e  redução  ao  valor recuperável  previstos  na legislação  vigente  que  trata da  gestão  de bens  móveis  no  Estado  do  Rio  de  Janeiro. Art.  4º -  As  designações  de que  trata  esta  Portaria não  representa criação de setor, unidade  administrativa, cargo, função ou qualquer outro  aumento  de  despesa. Art.  6º -  Esta  Portaria  entrará  em  vigor  na data  de  sua  publicação. Rio  de  Janeiro,  20  de  abril  de  2026 LINCOLN NUNES MURCIA Superintendente  de  Administração  e  Finanças Id:  2730121
 
@@ -1445,17 +1445,17 @@ Id:  2730117
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 -  o  Processo n° SEI-350010/004371/2026, o qual indica servidores para compor a equipe de gestão e fiscalização do contrato Nº 325/2025.
 
@@ -1775,41 +1775,41 @@ Art. 8º -Fica estabelecido o correio eletrônico ges-tao\_dss@pmerj.rj.gov.br  
 
 Art.  9º  É  de  responsabilidade  da  comissão  de  fiscalização  verificar se  as  notas  fiscais  estão  sendo inseridas  e  tramitadas  no  endereço eletrônico  sisnota.pmerj.rj.gov.br, conforme  publicação em  BOL PM  nº
 
-/U0031 /U0030
+1 0
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0049
+I
 
-/U0030/U0037/U0031
+071
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0032/U0032
+22
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
 213, de 19 de novembro de 2015, págs. 70 a 79, bem como fiscalizar o  fiel  cumprimento  da  confecção  dos  processos  de  liquidação.
 
@@ -1883,17 +1883,17 @@ Id:  2730143
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Comissão de fiscalização: HCPM:  TEN CEL  FARM André  Nascimento De  Melo ID  2444254-2, CAP PM FARM Rebecca Gonçalves Di Lêu De Carvalho ID: 43499171,  CAP PM  FARM  Patricia Vollú  Silva ID:  4398917-9,  TEN PM  FARM Karina  Senra  Valdiero  ID  5115378-5. HPM-NIT: TEN CEL PM FARM Heron Corel De Oliveira ID 2444507-0, TEN PM FARM Nayara Fernandes Paes ID 5118311-0, CB PM Thiago Lopes  Coutinho  ID  5026805-8. Oriundo do Processo SEI-350010/006257/2024, firmado com a Empresa  HOSPINOVA  DISTRIBUIDORA DE  PRODUTOS  HOSPITALARES LT  D  A  .
 
@@ -2135,17 +2135,17 @@ Id:  2730150
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 -  o  Proc.  SEI-350010/006275/2026, o qual indica servidores para compor a  equipe de gestão e fiscalização  do contrato  N°  296/2025 (106416901).
 
@@ -2225,25 +2225,25 @@ Id:  2730151
 
 Id:  2730152
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0037/U0031
+071
 
-/U002D
+-
 
-/U006F
+o
 
 Suplentes:  TEN  CEL  PM  FARM  Heron Corel  De  Oliveira  ID  24445070 Oriundo do Processo SEI-350010/005803/2024, firmado com a Empresa ONCO PROD DISTR. DE PROD. HOSPITALARES E ONCOLÓGICOS LTDA.
 
@@ -2318,41 +2318,41 @@ Parágrafo único Na hipótese de haver prorrogações do contrato, as competên
 
 Id:  2730154
 
-/U0031/U0032
+12
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0037/U0031
+071
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0032
+22
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
 Art.  3º -  As competências,  atribuições e  responsabilidades dos  Gestores  e dos  Fiscais  do  contrato estão  estabelecidas,  entre outras  normas,  no  Decreto  Estadual  nº  48.817,  de  24  de  novembro  de  2023.
 
@@ -2436,17 +2436,17 @@ Id:  2730157
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -2747,41 +2747,41 @@ Rio  de  Janeiro,  07  de  abril  de  2026
 
 Id:  2730166
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0037/U0031
+071
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0032/U0032
+22
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0031/U0033
+13
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -2863,41 +2863,41 @@ O SECRETÁRIO DE ESTADO DE POLÍCIA MILITAR ,  no  exercício  de suas  atribui�
 
 Id:  2730168
 
-/U0031 /U0034
+1 4
 
-/U002D
+-
 
-/U0030/U0037/U0031
+071
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0032
+22
 
 -  o  Proc.  SEI-350010/006275/2026, o qual indica servidores para compor a  equipe de gestão e fiscalização  do contrato  N°  427/2025 (  1 1  8 3  8  2  4 6  3  )   .
 
@@ -2975,17 +2975,17 @@ Gestor  do  Contrato:  Alberto  Ribeiro  Silva  ID  23962682  da  DGS/DSS Gestor
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
 Suplentes:  TEN  CEL  PM  FARM  Heron  Corel  De  Oliveira  ID  24445070Oriundo  do Processo  SEI-350010/006003/2025,  firmado  com a  Empresa  BAXTER  HOSPITALAR LTDA.
 
@@ -3213,17 +3213,17 @@ Id:  2730177
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 -  o  Proc.  SEI-350010/006275/2026, o qual indica servidores para compor a  equipe de gestão e fiscalização  do contrato  N°  517/2025 (120337852).
 
@@ -3301,25 +3301,25 @@ Gestor  do  Contrato:  Alberto  Ribeiro  Silva  ID  23962682  da  DGS/DSS Gestor
 
 Art.  2º -  A  responsabilidade da  fiscalização  e  acompanhamento  contratual  se  inicia  a  contar  da  data  de  divulgação  no  Portal  Nacional  de Contratações  Públicas  -  PNCP  (121573109).
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0037/U0031
+071
 
-/U002D
+-
 
-/U006F
+o
 
 Parágrafo Único Na hipótese de haver prorrogações do contrato, as competências do  Gestor e Fiscais designados  serão mantidas, ressalvado o  caso de dispensa  ou exoneração com designação  de novo Gestor  e  Fiscal.
 
@@ -3479,17 +3479,17 @@ Id:  2730183
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 II  JÉSSICA CALVOSA PACHECO, ID. FUNC. Nº.  4279256-8 (CONTA  D  O  R  A  )  .
 
@@ -3801,17 +3801,17 @@ Id:  2730120
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -3929,17 +3929,17 @@ Id:  2729674
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR DIRETORIA GERAL DE APOIO LOGÍSTICO DESPACHO DA SUBDIRETORA DE 17.04.2026
 
@@ -4091,17 +4091,17 @@ PROCESSO Nº SEI-360007/002656/2026 - DEFIRO a  manutenção  da permissão de u
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 laridade  processual, considerando  a  competência  deste Secretário  para deliberação, preconizada no artigo 8° da Resolução/SEPOL 828/2025.
 
@@ -4336,17 +4336,17 @@ Art.  2º -Designar os servidores Alexandre Azevedo  dos Santos, Oficial de  Pol
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 - Art.  3º -A conduta apurada poderá ensejar, em tese, a aplicação das penalidades previstas  no art. 156  da Lei nº 14.133/2021,  bem como nas cláusulas  sancionatórias do Contrato nº  071/SEPOL/2025, especialmente:
 
@@ -4429,25 +4429,25 @@ INSTAURA Processo Administrativo Disciplinar INOMINADO , para apurar  os  fatos 
 
 I  N  S  TA  U  R  A Processo Administrativo Disciplinar em face do Inspetor de Polícia  Penal LEONARDO PIO DE FREITAS ID:  50128151,  para  apurar  os  fatos  narrados.  Processo  nº  SEI-210001/059620/2025.
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0037/U0031
+071
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
 missária  de  Polícia,  ID  nº  2.915.559-2,  para  comporem  a  comissão  de apuração,  incumbida  de  proceder  à  regular  instrução  do  feito.
 
@@ -4507,39 +4507,39 @@ EXONERA THIAGO JULIANO TRINDADE , Inspetor  de Polícia  Penal, ID Funcional nº
 
 NOMEIA  GUSTAVO DOS  SANTOS NOGUEIRA ,  Inspetor de  Polícia Penal,  ID Funcional  nº 51541335,  para  exercer o  cargo em  comissão
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0037/U0031
+071
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0032/U0032
+22
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
 de  Chefe,  símbolo  DAI-5,  da  Seção  IV  de  Turma  de  Inspetor,  do  Serviço de Segurança e Disciplina,  do Presídio Juíza de Direito Patrícia Acioli,  da  Coordenação  de  Unidades  Prisionais  do  Leste  Fluminense, da  Superintendência de  Gestão  Operacional  das Unidades  Prisionais Isoladas  e  Interior,  da  Subsecretaria  de  Gestão  Operacional,  da  Secretaria de Estado  de Polícia Penal, sem aumento  de despesas, em substituição de  Thiago Juliano Trindade, ID  Funcional nº 51218925. PROCESSO Nº SEI-210001/039126/2026.
 
@@ -4611,17 +4611,17 @@ EXONERA THAIS MEDEIROS GUERRA BRANDÃO ,  ID Funcional  nº 51672650,  do  cargo
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ministração,  da Secretaria  de Estado  de Polícia  Penal. PROCESSO NºSEI-210001/039610/2026.
 
@@ -4839,17 +4839,17 @@ ATA  207/26. Aos  catorze  dias  do mês  de  abril de  dois  mil  e vinte  e se
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 titucional  atuando nas  diversas frentes  ligadas à  execução penal  no Estado do Rio de Janeiro.  O desenvolvimento desse eixo envolve a colaboração entre o  Poder Judiciário, o Poder Executivo  e a Sociedade  Civil.  Nesse sentido,  a  presidente  informou  que o  documento  a ser  encaminhado ao  Comitê  de  Políticas Penais  será  debatido e  concluído  pelos envolvidos  na  sessão  do dia  17.04.2026. Item  4. Outros assuntos ligados  à Execução Penal.  O conselheiro Murilo  Nunes de Bustamante  informou que  a 5º  câmara temática  será mantida.  O conselheiro  Felippe de  Oliveira  Barcellos informou  que está  agendada reunião para dia 14.04.2026 da  2° Câmara Temática 'Ambiência  e serviços'. Por fim, a presidente  solicitou que o Colegiado tenha atenção ao registo em livro  próprio do Conselho Penitenciário nas portarias  das unidades  prisionais,  considerando o  equívoco explicado  pela conselheira Lívia Madeira de ter assinado no Livro do CPERJ, embora tenha ingressado  em unidade  prisional representando a  Ordem dos Advogados do Brasil  (OAB/RJ) no primeiro semestre de  2025, o que foi  acolhido,  por  unanimidade.  Nada  mais  havendo  tratar,  a  sessão  foi encerrada  às doze  horas, foi  lavrada  a presente  ata pela  Secretária Executiva, Gessica Machado  dos Santos Mesquita e  pela sua auxiliar (conforme  dispõe  o  art.  3º  da  Lei 6181/2012  e  art.  7º  da  Resolução SEAP Nº  870 de  22/04/2021) que a  subscrevem com  a presidente Sandra Regina  da Silva  de Almeida, ficando  consignado que  os conselheiros  Tatiana  Pollo  Flores,  Andrezza  Duarte  Cançado,  Elisabeth  R. Félix, Eunice Silva  Cavalcante, Roberto de Assis  de  Almeida  Conceição e Fátima Elisabeth de  Souza Silva não  compareceram  à  sessão, justificadamente.
 
@@ -4979,39 +4979,39 @@ Id:  2730374
 
 Id:  2730232
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0037/U0031
+071
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0032/U0032
+22
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE SAÚDE SUBSECRETARIA DE GESTÃO ESTRATÉGICA SUPERINTENDÊNCIA DE RECURSOS HUMANOS
 
@@ -5059,17 +5059,17 @@ PORTARIA  FS/DE Nº  2474/2026 -  DESIGNA RENATA  MAIA SANTO  S ,  Id  Funcional
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ções,  exercer interinamente,  a contar  de  21/04/2026, o  cargo em  comissão de Diretor Geral da Central Estadual de Transplantes, da Fundação Saúde do Estado do Rio de Janeiro. Proc. nº SEI0  8  0  0 0  2  / 0  1  0  6 11  /  2  0 2  6  .
 
@@ -5307,17 +5307,17 @@ Art.  3º -São atribuições  estratégicas dos ocupantes da  função gratific
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 I -  no  apoio  à  organização  administrativa  escolar:
 
@@ -5401,41 +5401,41 @@ Titular:  Estela  Domingues  Mercadante  -  ID  5014141-4 Suplente:  Leticia  de
 
 Id:  2730026
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0037/U0031
+071
 
-/U002D
+-
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0035
+25
 
-/U0032/U0032
+22
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 Titular:  Ruth  da  Silva  de  Sant'Ana  -  ID  3925371-6 Suplente  -  Luciana  Maria  da  Silva  -  ID  4421272-0".
 
@@ -5591,17 +5591,17 @@ A  P  O  S  E  N  TA  ADRIANA  SA CRUZ ,  Professor  Docente  II 22  horas,  ní
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 da Emenda  Constitucional nº  90/2021, fixando os  proventos mensais com validade  a partir  desta publicação,  tendo por  base a  última remuneração  integral  do  cargo  efetivo  do  servidor,  sendo  reajustados pela  paridade nos  seguintes  termos  propostos: Vencimento-base  atribuído  ao cargo  de  Professor  Docente II  22  horas,  nível D,  referência 9 (Lei nº 9952/2023),  no valor de R$ 2.786,83 e  60% de triênio (Lei nº 1608/90), no valor de R$ 1.672,10. Processo nº SEI030001/097625/2025.
 
@@ -5733,17 +5733,17 @@ Id:  2730246
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
 
@@ -5851,17 +5851,17 @@ PROCESSO Nº SEI-030001/005349/2026 -  Considerando  os  atos  praticados  pelas
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 cação  (SEEDUC/RJ),  conforme  Termo  de  Referência  (123514743).
 
@@ -5933,17 +5933,17 @@ PROCESSO Nº SEI-030001/004885/2026 -  Considerando  os  atos  praticados pelas 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº SEI-030001/005333/2026 -  Considerando  os  atos  praticados  pelas autoridades  competentes desta  Secretaria de  Estado de Educação do Rio de Janeiro, DECLARO a Inexigibilidade de Licitação, em conformidade com o art. 72, parágrafo único da Lei nº 14.133/2021, c/c art. 5, § 2º do Decreto Estadual nº 48.820/2023, para contratação  direta da  Concessionária ÁGUAS  DE NITERÓI  S/A, inscrita  no CNPJ  sob o  nº 02.150.336/0001-66,  no valor  previsto de  R$ 39.337,32 (trinta  e nove  mil, trezentos  e trinta  e sete  reais e  trinta e dois centavos), referente ao exercício de 2026, para prestação de serviços  de  fornecimento  de  água  potável,  de  coleta  e  tratamento  de  esgoto  sanitário nas unidades administrativas  que integram  esta Secretaria  de Estado  de Educação  (SEEDUC/RJ), conforme  Termo de  Referência  (125335915).
 
@@ -6065,17 +6065,17 @@ Id:  2730138
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA COORDENADORIA DE GESTÃO DE PESSOAS - SERRANA I
 
@@ -6298,17 +6298,17 @@ PROCESSO Nº  SEI-100005/000735/2025 -  DEFIRO com  base na análise  técnica  
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 PORTARIA  Nº  387/2026  -  DESIGNA  PATRICIA  HELENA  DA  SILVA COSTA, matr.  nº 41.225-4,  ID nº 51351790,  como substituta  de RODRIGO DA SILVA CAMPOS, matr. 38.989-0, ID nº 50748696, no exercício do  Cargo em  Comissão de Vice-Diretor  do Instituto  de Letras, símbolo CC-06, código  86, durante os períodos  de 19/03/2026 a 17/04/2026  e  20/04/2026 a  19/05/2026  por  motivo  de licença  saúde  e férias.  Processo  nº  SEI-260006/012556/2026.
 
@@ -6536,17 +6536,17 @@ Id:  2730184
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 4459432-1, para o  exercício das atribuições de  Gerente Executivo do Acordo  de Cooperação  Técnica 02/2023,  celebrado entre  a Associação  Brasilira de  Bunker  e  o Instituto  Estadual  do  Ambiente -  INEA, cujo  objeto  é  ações  de  apoio  à  prevenção  ambiental,  nas  atividades marítimas, em especial, àquelas relacionadas com o abastecimento de combustível  nas embarcações  atracadas  e fundeadas  nas águas  interiores  do  Estado  do  Rio  de  Janeiro.
 
@@ -6729,17 +6729,17 @@ Id:  2730278
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ## Secretaria de Estado de Cultura e Economia Criativa
 
@@ -6816,41 +6816,41 @@ Art.  3º Compete  à  Ouvidoria, Transparência  e  Compliance  -  OUVTIC/SECEC
 
 Art.  4º Compete  à Assessoria de Informática e  Tecnologia da Informação  -  ASSTI/SECEC,  na  qualidade  de  unidade  responsável  pela governança  de  Tecnologia da  Informação  e  pela conformidade  com  a Lei  Geral  de  Proteção  de  Dados  Pessoais  -  LGPD,  no  âmbito  da  SECEC:
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0037/U0031
+071
 
-/U002D
+-
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U006F
+o
 
-/U0032/U0032
+22
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0033/U0033
+33
 
 I.  Orientar  as unidades  administrativas  quanto  ao adequado  tratamento  de  dados  pessoais,  inclusive  no  que  se  refere  à  identificação,  classificação  e eventual  restrição de  dados pessoais  e dados  pessoais sensíveis; II.  Acompanhar se estão sendo aplicados os critérios técnicos de anonimização, ou restrição de dados,  quando necessário, de modo a assegurar  que  a divulgação  das  informações  esteja em  conformidade com  a  legislação  vigente,  especialmente quanto  à  proteção  de  dados pessoais,  nos  termos  da  Lei  nº  13.709/2018  e  do  Decreto  Estadual  nº 48.891/2024; III. Prestar  suporte técnico  às unidades responsáveis  pela disponibilização  e divulgação  de dados,  quanto aos  procedimentos e  soluções tecnológicas  adequadas  para  publicação  segura  das  informações Art.  6º As  informações  disponibilizadas nos  termos  desta Portaria  integrarão  o  Plano de  Dados  Abertos  -  PDA  da SECEC,  devendo  observar, no que couber, as  diretrizes estabelecidas na Resolução Conjunta  CGE/SETD  nº 44/2024,  que  dispõe  sobre  a execução  do  Programa  de  Dados Abertos  do  Governo  do  Estado  do Rio  de  Janeiro, nos termos do Decreto Estadual  nº 48.449/2023 e do Decreto Estadual  nº  49.097/2024.
 
@@ -6917,9 +6917,9 @@ Aos quatorze dias de abril de 2026 com início às 14:30 horas, na Sala  de Reun
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 No  prazo  estabelecido  pelo  Edital,  foram  apresentadas  propostas  pelas  seguintes  Organizações  da  Sociedade  Civil:
 
@@ -7001,9 +7001,9 @@ ANDRESSA FERREIRA DA SILVA
 
 Representante  de  Comissão  Eleitoral
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | Coordenador  técnico  5  5  0  0  0  5  1  5  0  Adequação do orçamento  2  2  2  2  2  2  2  2  2  Economicidade  do  projeto  1  1  1  1  1  4  1  5  1  PONTUAÇÃO FINAL  32  32  26  21  19  32  32  31  26   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7090,9 +7090,9 @@ Gestora:  Margaret  Souza  da  Silva,  ID  funcional  n.º  4263095-9; Suplente 
 
 Fiscal:  Adriano  da  Motta  Esteves  ,  ID  funcional  n.º  5139855-9; Fiscal:  Hermes  Evaristo  Nunes  souza,  ID  funcional  n.º  5147196-5; Suplente de Fiscal:Carlos Otávio Dias Vaz, ID funcional n.º 5017301-4.
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 Id:  2730337
 
@@ -7204,17 +7204,17 @@ CONSIDERANDO:
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 - -o  disposto art.  117 e  parágrafos da Lei  Federal nº  14.133/2021 que determina que  a fiscalização  da execução do  contrato administrativo far-se-á por representantes  da Administração Pública, especialmente designados;
 -  o  disposto  no  art.  5º  do  Decreto  Estadual  nº  48.817/2023,  e
@@ -7448,17 +7448,17 @@ A  DIRETORA GERAL  DE ADMINISTRAÇÃO  E FINANÇAS  DA SECRETARIA  DE  ESTADO  D
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 -  o  disposto art.  117  e  parágrafos da  Lei  Federal  nº 14.133/2021  que determina  que  a  fiscalização  da execução  do  contrato  administrativo far-se-á  por  representantes  da Administração  Pública,  especialmente designados;
 -  o  disposto  no  art.  5º  do  Decreto  Estadual  nº  48.817/2023,  e
@@ -7591,17 +7591,17 @@ Rio  de  Janeiro,  13  de  abril  de  2026
 
 NOME DA EMPRESA OU GRUPO EMPRESARIAL ,  inscrita  no  CNPJ sob o n° 00.000.000/0000-00, com sede na Rua/Avenida ..........................,  CEP  ................,  cidade de  ..........................,  Estado de(o/a)  .............................., representada  neste  ato  por [ nome,  documento  (OAB  ou  CPF)  e endereço  dos  representantes ],  conforme procuração  anexa, doravante  identificada  como ' PROPONENTE ',  vem perante Vossa Senhoria apresentar proposta de celebração de ACORDO  NO  PROCESSO  DE  RESPONSABILIZAÇÃO -  APR ,  nos  termos do  Decreto  nº  46.366,  de  16  de  julho  de  2018,  alterado  pelo  Decreto Estadual  nº  50.051,  de 11  de  dezembro  de  2025,  em face  ao  Processo Administrativo  de  Responsabilização/Investigação  Preliminar  Su- mária
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -7824,17 +7824,17 @@ O SECRETÁRIO  DE ESTADO  DE  ENERGIA  E ECONOMIA  DO MAR,  THIAGO TAVARES  DE A
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## CONSIDERANDO:
 
@@ -8022,15 +8022,15 @@ Id:  2730346
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ROBERTA BRENDA MAIA DA SILVA WENDERSON DOS SANTOS BRANDÃO
 
@@ -8098,43 +8098,43 @@ SEDE: CAIO DE ALMEIDA TEIXEIRA DÁRIO FREIRE BRANCO DAVI  NUNES PEREIRA RIJO DEB
 
 8ª  PR  -  NOVA  FRIBURGO: ANA PAULA TARDIN DE ARAUJO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 -
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0037/U0031
+071
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0032/U0032
+22
 
 10ª  PR  -  CAMPOS  DOS  GOYTACAZES: KAIO STELLET BRANDAO MARIA FERNANDA DE AZEVEDO TOLEDO PHELIPPE LUYZ DE MELLO CATALANI LIMA SIMOES
 
@@ -8200,43 +8200,43 @@ I  N S  T  R  U  M  E  N  TO  : 3º TERMO  ADITIVO AO  CONVÊNIO Nº  088/2023. 
 
 Id:  2730304
 
-/U0033/U0039
+39
 
 Id:  2730349
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0037/U0031
+071
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0032
+22
 
 ## INSTITUTO DE PESOS E MEDIDAS DO ESTADO DO RIO DE JANEIRO
 
@@ -8322,17 +8322,17 @@ O  AUDITOR FISCAL  CHEFE DA  AUDR 63.01  - MÉDIO  VALE DO PA  R  A  Í  B  A  ,
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 em  razão do  óbito  de OCINÉIA  BINHOTI,  CPF 060.720.317-06,  no processo  judicial n.º  0007594-42.2012.8.19.0066.  Após 15  dias da  publicação do  presente edital, inicia-se  o prazo  de 30 dias  para apresentação da Declaração e respectiva(s) Guia(s) de Lançamento, transmitida ATÉ  A DATA DO RECEBIMENTO  DESSA INTIMAÇÃO, acompanhada de comprovante de pagamento do tributo em questão, na sede da AFR 63.01 situada na Avenida Amaral Peixoto, nº. 287 - Centro -  Volta  Redonda -  CEP 27.253-220. O sujeito passivo pode ter acesso ao  processo  administrativo via  SEI  após  cadastro de  usuário  externo em  www.fazenda.rj.gov.br/sei/usuarioexterno  e  solicitação  de  conces-
 
@@ -8681,17 +8681,17 @@ Id:  2730237
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE SAÚDE SUBSECRETARIA DE GESTÃO ESTRATÉGICA ASSESSORIA TÉCNICA DE PROCESSAMENTO DE SANÇÕES DAS OSS
 
@@ -8755,7 +8755,7 @@ Id:  2730244
 
 I  N S  T  R  U  M  E  N  TO  : Termo de Ajuste  de Contas nº 265/2026. PA  R  T  E  S  : Fundação  Saúde  do Estado  do  Rio  de  Janeiro  e a  empresa  VITAI INOVAÇÃO LTDA. O  B  J  E  TO  : Tem por objeto  a  indenização  pela  prestação de  serviços de sistema de  gestão clínica e hospitalar  - PEP (Prontuário  Eletrônico  do  Paciente),  para UPA  24h  Penha,  no  período de  01/12/2025 à  31/12/2025, conforme  solicitado e  comprovado através  da apresentação  das notas  fiscais devidamente  atestadas, tendo sua viabilidade jurídica confirmada pelo Parecer n.º 343 (SEI124382156). VALOR TOTAL: R$ 2.632,43  (dois  mil,  seiscentos  e  trinta  e  dois  reais  e  quarenta  e  três  centavos). F  U  N  D  A  M  E  N  TO  : Decidido no  processo administrativo  SEI-080002/001226/2026. DATA DA ASSIN  AT  U  R  A  : 17/04/2026.
 
-/U0049
+I
 
 I  N S  T  R  U  M  E  N  TO  : Termo  de  Ajuste  de  Contas  nº  288/2026. PA  R  T  E  S  : Fundação  Saúde do  Estado  do  Rio de  Janeiro  e  a empresa  VITAI INOVAÇÃO LTDA. O  B  J  E  TO  : Tem por objeto  a  indenização  pela  prestação  de serviços  de PEP (Prontuário  Eletrônico do  Paciente), para  o Hospital  Estadual  Getúlio  Vargas  -  HEGV,  no  período  de  01/12/2025  à 31/12/2025,  conforme solicitado  e comprovado  através da  apresentação das notas fiscais devidamente atestadas, tendo sua viabilidade jurídica  confirmada  pelo  Parecer  n.º 381  (SEI-124679916). VALOR TOTA  L  : R$  12.851,44  (doze  mil,  oitocentos  e  cinquenta  e  um  reais  e quarenta  e quatro  centavos), F  U  N  D  A  M  E  N  TO  : Decidido no  processo administrativo SEI-080002/001574/2026. DATA DA ASSINATURA: 17/04/2026.
 
@@ -8831,17 +8831,17 @@ Id:  2730225
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO AV  I  S  O
 
@@ -8974,17 +8974,17 @@ Vivian  Maria  Silva  -  2001
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - 7  -  COLÉGIO  LUSO  CARIOCA  -  Rio  de  Janeiro ENSINO MÉDIO - TÉCNICO EM INFORMÁTICA Processo  nº  SEI-030001/122486/2025 Gisele  de  Souza  Vieira  -  2014
 - 8  -  COLÉGIO  PERSPECTIVA INTEGRAL - Rio de Janeiro 2º  GRAU Processo  nº  SEI-030001/108168/2025 Nazil  Teixeira  de  Oliveira  -  1974
@@ -9172,17 +9172,17 @@ Onde se lê:  Mariangela  da  Paz  Almeida Leia-se:  Marizangela  da  Paz  Almei
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO
 
@@ -9283,17 +9283,17 @@ C  AT  I  VA  S , no uso  das atribuições que lhes são  conferidas pela legis
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -9304,34 +9304,34 @@ C  AT  I  VA  S , no uso  das atribuições que lhes são  conferidas pela legis
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 2048073  CRISTIANO SANTOS DE ARAUJO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  2018607  CÁCIA CRISTINA CANEJO BRAGA  CÓD 301 - AGENTE ADMINISTRATIVO  F  78  100%  80%  Aprovado  1993837  CÁSSIO CAETANO NEVES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  51  78%  100%  Aprovado  2078076  CÁSSIO IAGO SANTOS MARINHO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  73  100%  100%  Aprovado  2000077  DANIEL CIPRIANO AQUINO RHEIN CORDEIRO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  1986218  DANIEL COSTA FRANKLIM  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  1988612  DANIEL DE JESUS LAGE RIBEIRO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  66  100%  100%  Aprovado  2040409  DANIEL DOS SANTOS SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  71  100%  100%  Aprovado  2045909  DANIEL PINHEIRO PASCOUTO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  72  100%  90%  Aprovado  2078385  DANIELE DE SOUZA LINO FREDERICO  CÓD 105 - ASSISTENTE SOCIAL  F  63  78%  100%  Aprovado  2073163  DANIELE PEREIRA SARINHO VITERBO  CÓD 301 - AGENTE ADMINISTRATIVO  F  80  100%  100%  Aprovado  1980342  DAVID MENDES VASCONCELLOS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  64  100%  100%  Aprovado  1978761  DAYANA DOS SANTOS MUYLAERT  CÓD 105 - ASSISTENTE SOCIAL  F  67  100%  100%  Aprovado  2052785  DAYANA PAULA COELHO DE SOUZA  CÓD 101 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO FEMININO  F  68  100%  100%  Aprovado  1975035  DENILSON BARCELOS COUTO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  2046489  DENIS ROSENDO AUGUSTO  CÓD 301 - AGENTE ADMINISTRATIVO  M  77  100%  100%  Aprovado  2049528  DESIRÉE DE FREITAS MANHAES  CÓD 304 - TÉCNICO DE SEGURANÇA DO  TRABALHO  F  65  100%  100%  Aprovado  2029887  DHIEGO DA SILVA PEREIRA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  1986038  DIANA TOSTES DE SIQUEIRA PARROT BASTOS  CÓD 301 - AGENTE ADMINISTRATIVO  F  71  89%  100%  Aprovado  1980962  DIEGO ANTONIO BATISTA EUFLAUZINO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  52  100%  100%  Aprovado  1978813  DIEGO DA CONCEIÇÃO MEIRELES  CÓD 303 - TÉCNICO DE ENFERMAGEM  M  69  100%  100%  Aprovado  1983328  DIEGO EMMANUEL DOS REIS DE SOUSA NEVES  CÓD 301 - AGENTE ADMINISTRATIVO  M  76  100%  100%  Aprovado  1974142  DIEGO MAGNO CABRAL  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  1980596  DIEGO MAGYAR RABELO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  66  100%  100%  Aprovado  2008149  DIEGO MOREIRA DANTAS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  61  100%  100%  Aprovado  2038789  DIEGO SILVA BATISTA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  52  100%  100%  Aprovado  1986325  DIEGO SILVA GOMES  CÓD 301 - AGENTE ADMINISTRATIVO  M  74  100%  100%  Aprovado  1990285  DIOGO DA COSTA PEREIRA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  80  100%  100%  Aprovado  2041436  DIOGO FREITAS SOUZA DE MELO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  78%  100%  Aprovado  2030007  DIOGO JOSÉ FARIA DE FARIAS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  100%  Aprovado  1998432  DOUGLAS DELGADO RODRIGUES DE OLIVEIRA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  75  100%  100%  Aprovado  2049841  DOUGLAS GUIA DE SOUZA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  67  78%  100%  Aprovado  2058525  DOUGLAS LUKA COSTA PINTO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  75  78%  100%  Aprovado  2053008  DOUGLAS PEREIRA BOCCHIO  CÓD 301 - AGENTE ADMINISTRATIVO  M  77  100%  100%  Aprovado  2003242  DOUGLAS PEREIRA DO NASCIMENTO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  67  100%  100%  Aprovado  2059832  DOUGLAS SOARES HENRIQUE  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  72  100%  90%  Aprovado  1981501  EDMILSON DE CARVALHO NETO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  2048000  EDNALDO JUNIOR DE FREITAS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  72  100%  100%  Aprovado  2040783  EDSON RAMOS DE MORAIS FILHO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  61  100%  100%  Aprovado  1994488  EDSON SILVA DE SOUZA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  66  100%  100%  Aprovado  1976490  EDSON TIBURCIO DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  45  100%  100%  Aprovado  1979452  EDUARDO ELIAS DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  71  100%  100%  Aprovado  2042388  EDUARDO RUEDA OGANDO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  67  100%  100%  Aprovado  2055476  EDUARDO VALENTIM TRAPANEZ  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  80%  Aprovado  1977847  EDVALDO DO NASCIMENTO BRAINER  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  72  100%  100%  Aprovado  1973150  EDVAN CESAR SANTOS DA FONSECA - SUB JUDICE CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  62  100%  100%  Aprovado  2041972  ELOI  DA  ROSA  SESSA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  2003949  ELTON JOSE DOS SANTOS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  2022065  ELVIS  MESQUITA MORAES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  1980859  EMANUEL FARIA DA SILVA ALVES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  64  78%  90%  Aprovado  1973555  EPTACIO DE LIMA JUNIOR  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  78%  100%  Aprovado  1990235  ERIK PRACA MAIA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  66  100%  100%  Aprovado  2021524  EVERTON DE SOUZA LOPES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  72  100%  100%  Aprovado  1996556  EVERTON MARTINS DA HORA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  2036381  FABIANO MAGALHÃES DIAS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  72  100%  100%  Aprovado  2058029  FABIO DA SILVA MENDONCA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  66  100%  100%  Aprovado  2000457  FABIO GONCALVES SANTOS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  71  100%  80%  Aprovado  2007891  FABIO MACHULIS MARTINS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  100%  Aprovado  1990289  FABIO UBIRAJARA PALHA LEITE  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  94%  100%  Aprovado  1981341  FABRICIO CONDACK MOZA PEREIRA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  65  100%  100%  Aprovado  2008933  FAGNER DOS SANTOS VIANA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  65  100%  100%  Aprovado  2  0  11  7  0  5  FELIPE CASTRO FREITAS  CÓD 107 - CONTADOR  M  72  100%  100%  Aprovado  1983788  FELIPE DE FREITAS GUIMARÃES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  74  100%  100%  Aprovado  2  0  11  4  9  4  FELIPE DO VALE DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  1991983  FELIPE DUTRA TINOCO  CÓD 301 - AGENTE ADMINISTRATIVO  M  77  100%  100%  Aprovado  2000104  FELIPE FERNANDES BAPTISTA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  1976441  FELIPE FONTES DE AGUIAR  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  73  100%  100%  Aprovado  2016371  FELIPE GONÇALVES ROCHA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  72  100%  100%  Aprovado  2000367  FELIPE GUIMARÃES LIMA DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  78%  100%  Aprovado  1986244  FELIPE LOPES DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  2003073  FELIPE SANTOS EUSTAQUIO DA ROCHA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  100%  Aprovado   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -9342,34 +9342,34 @@ C  AT  I  VA  S , no uso  das atribuições que lhes são  conferidas pela legis
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 2008748  JEAN PIERRE LUIZ LUCAS VIEIRA DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  100%  Aprovado  1980862  JEFERSON CARDOSO CORDEIRO JUNIOR  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  1999176  JEFFERSON DA SILVA BEZERRA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  100%  Aprovado  2038519  JEFFERSON DIAS DO CARMO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  71  100%  100%  Aprovado  2008592  JEVERSON NEVES NUNES  CÓD 305 - TÉCNICO EM SUPORTE E CO-  MUNICAÇÃO EM TI  M  71  100%  100%  Aprovado  2016205  JHONNY OLIVEIRA ARAUJO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  51  100%  100%  Aprovado  2001416  JOAB GAMA DE SOUZA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  2073168  JORGE LUIS LEAL COUTINHO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  2049676  JORGE LUIZ TORRES JUNIOR  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  78%  100%  Aprovado  1980645  JORGE TADEU MARCOLINO VERLINGUE  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  73  100%  100%  Aprovado  2046354  JORGE TRUPIANO DE SOUZA JUNIOR  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  90%  Aprovado  2022758  JOSE GUILHERME REIS DOS SANTOS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  74  100%  100%  Aprovado  2050355  JOSELENA SANTOS PINTO  CÓD 119 - PSICÓLOGO  F  72  100%  100%  Aprovado  2006205  JOSUE SOARES SILVA DE LIRA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  63  100%  90%  Aprovado  1996746  JOSUÉ MODESTO BISKER  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  1978213  JOSÉ ANILTON MATOS PEREIRA  CÓD 103 - ANALISTA DE TECNOLOGIA DA  INFORMAÇÃO  M  70  100%  100%  Aprovado  1978209  JOSÉ ANILTON MATOS PEREIRA  CÓD 305 - TÉCNICO EM SUPORTE E CO-  MUNICAÇÃO EM TI  M  73  100%  100%  Aprovado  2076575  JOSÉ EPIFÂNIO DA SILVA NETO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  100%  Aprovado  2033284  JOSÉ MARCOS DA SILVA JUNIOR  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  2078999  JOYCE RODRIGUES CAMPOS  CÓD 303 - TÉCNICO DE ENFERMAGEM  F  79  78%  100%  Aprovado  2064344  JOÃO BATISTA DE OLIVEIRA COSTA  CÓD 103 - ANALISTA DE TECNOLOGIA DA  INFORMAÇÃO  M  73  100%  100%  Aprovado  1984877  JOÃO GARCIA CAMPOS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  71  100%  100%  Aprovado  1987297  JOÃO IÓRIO VIEIRA DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  50  94%  100%  Aprovado  2039706  JOÃO LUIZ DA SILVA EURICO FILHO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  100%  Aprovado  2000316  JOÃO RICARDO DE SOUZA BATISTA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  100%  Aprovado  2033671  JOÃO VICTOR DA SILVA PIMENTEL  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  73  100%  100%  Aprovado  2080958  JULIANNY GONÇALVES DE MATOS  CÓD 301 - AGENTE ADMINISTRATIVO  M  78  83%  100%  Aprovado  2006808  JULIO  CESAR DA SILVA ALMEIDA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  52  78%  100%  Aprovado  1975365  JULIO  CESAR SANTOS COSTA  CÓD 301 - AGENTE ADMINISTRATIVO  M  77  100%  100%  Aprovado  2002652  JÉSSICA ALMEIDA DA SILVA CAULO  CÓD 101 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO FEMININO  F  75  100%  100%  Aprovado  1993780  JÉSSICA BORBA ANTÔNIO  CÓD 101 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO FEMININO  F  71  100%  100%  Aprovado  2026471  JÚNIOR FERREIRA DE ARAÚJO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  1985216  KARILENE DA SILVA XAVIER  CÓD 301 - AGENTE ADMINISTRATIVO  F  71  100%  100%  Aprovado  1990219  KARLA ADRIANNE ROCHA RIBEIRO SAMPAIO  CÓD 301 - AGENTE ADMINISTRATIVO  F  75  94%  100%  Aprovado  1978514  KATIA  SANTOS DA SILVA  CÓD 303 - TÉCNICO DE ENFERMAGEM  F  68  100%  100%  Aprovado  2020740  KAUAN MADEIRA MORAES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  90%  Aprovado  2035531  KENIA NOGUEIRA DE CAERES  CÓD 301 - AGENTE ADMINISTRATIVO  F  69  94%  100%  Aprovado  2070815  KLEBER LUIZ NEVES DE JESUS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  50  100%  100%  Aprovado  2  0  11  7  1  3  LAIS  LIMA  CASTRO  CÓD 105 - ASSISTENTE SOCIAL  M  63  89%  100%  Aprovado  2014356  LARISSA DE AZEVEDO DE MOURA  CÓD 105 - ASSISTENTE SOCIAL  F  68  100%  100%  Aprovado  2051592  LEANDRO DA SILVA MAMEDIR  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  78%  100%  Aprovado  2012547  LEANDRO DE SOUZA DIAS  CÓD 301 - AGENTE ADMINISTRATIVO  M  74  100%  100%  Aprovado  1999858  LEANDRO MARQUES VIANNA LOPES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  1973581  LEANDRO MESQUITA DE CARVALHO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  71  100%  100%  Aprovado  2029516  LEONAM DE SOUSA AZEVEDO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  74  100%  100%  Aprovado  2034635  LEONAN FLORIANO DOS SANTOS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  67  100%  100%  Aprovado  2024616  LEONAN SILVA DE ALEXANDRE  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  65  100%  100%  Aprovado  2  0  4  1   6  11  LEONARDO ALVES DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  74  100%  100%  Aprovado  1973952  LEONARDO BRAGA FLORES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  72  100%  100%  Aprovado  2031265  LEONARDO DE ARAUJO NETO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  2038874  LEONARDO GABRIEL SANTOS E SANTOS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  1980053  LEONARDO SILVA BELIENE PEREIRA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  76  100%  100%  Aprovado  1991646  LEONARDO VIEIRA RODRIGUES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  100%  Aprovado  2020554  LEONI GOMES DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  66  100%  100%  Aprovado  2053758  LETÍCIA  RAYANE DE FARIA FREITAS  CÓD 101 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO FEMININO  F  75  100%  100%  Aprovado  2014340  LEVY OLIVEIRA DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  66  100%  100%  Aprovado  2053595  LIDIA  DA  SILVA  COSTA  CÓD 105 - ASSISTENTE SOCIAL  F  64  100%  100%  Aprovado  2052848  LIDIA  SOARES SATIL  CÓD 117 - PEDAGOGO  F  64  100%  100%  Aprovado  2075557  LIDIANE  CAVALCANTE DE CASTRO  CÓD 101 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO FEMININO  F  69  100%  100%  Aprovado  1996632  LIVIA  DE  SOUZA  FONSECA  CÓD 101 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO FEMININO  F  75  100%  100%  Aprovado  1999444  LIVIA  MARIA  REIS  CÓD 105 - ASSISTENTE SOCIAL  F  46  78%  100%  Aprovado  2033344  LORENA DA SILVA NERI  CÓD 105 - ASSISTENTE SOCIAL  F  68  100%  100%  Aprovado  2019085  LORRAN DA CRUZ NEVES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  78  100%  100%  Aprovado  2010963  LORRAN DE CARVALHO GONCALVES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  94%  90%  Aprovado  2015404  LUANA BARRETOS MORAIS REIS DE OLIVEIRA  CÓD 301 - AGENTE ADMINISTRATIVO  F  75  100%  100%  Aprovado  2051612  LUCAS ALVES PEREIRA DE SOUZA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  74  100%  100%  Aprovado  2065739  LUCAS DA SILVA ALBUQUERQUE  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  2080628  LUCAS DIAS DIEGUES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  64  83%  100%  Aprovado  2049798  LUCAS JUNQUEIRA DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  1973584  LUCAS LIMA MENDONÇA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  64  100%  100%  Aprovado  1  9  8  4   11  7  LUCAS MOORE FERREIRA DE FRANÇA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  2014718  LUCAS NUNES BAIENSE  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -9380,34 +9380,34 @@ C  AT  I  VA  S , no uso  das atribuições que lhes são  conferidas pela legis
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 2016713  NICOLAS DA CONCEICAO IGLESIAS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  67  100%  100%  Aprovado  2048520  NILSON TADEU ISOLA LAGO JUNIOR  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  80%  Aprovado  2048940  OCTAVIO ROSIO DE OLIVEIRA COSTA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  2043648  ORLANDO NUNES DE SOUZA NETO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  74  100%  100%  Aprovado  1985857  OSCAR FERREIRA SOARES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  2061733  PAMELLA DA SILVA DE LIMA BARROS  CÓD 301 - AGENTE ADMINISTRATIVO  F  74  100%  100%  Aprovado  2056181  PATRICK NEVES GROSSO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  64  100%  100%  Aprovado  2032850  PAULO ADRIANO DOS SANTOS DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  67  100%  100%  Aprovado  1974347  PAULO CESAR SABINO CORDEIRO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  67  100%  90%  Aprovado  2074833  PAULO CLEIDSOM DE SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  65  100%  80%  Aprovado  2045539  PAULO HENRIQUE ARAUJO SANTOS DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  100%  Aprovado  1977852  PAULO ROBERTO NACIF DA CRUZ  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  49  100%  100%  Aprovado  1975191  PAULO ROGERIO DE ABREU DUTRA DIAS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  80%  Aprovado  1978818  PAULO SÉRGIO SANTOS DO CARMO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  72  100%  100%  Aprovado  2006745  PEDRO HENRIQUE PASCHOAL COSTA RODRIGUES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  72  100%  100%  Aprovado  2022772  PEDRO LUCAS ANGELO EVANGELISTA  CÓD 305 - TÉCNICO EM SUPORTE E CO-  MUNICAÇÃO EM TI  M  74  100%  100%  Aprovado  2037053  PEDRO SANTIAGO LOPES PEREIRA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  2006693  PEDRO VINICIUS SANTOS SOUZA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  2045420  PERLA DE SOUSA NASCIMENTO  CÓD 105 - ASSISTENTE SOCIAL  F  67  89%  100%  Aprovado  2046878  PRISCILA KRAUSS PEREIRA  CÓD 119 - PSICÓLOGO  F  75  100%  100%  Aprovado  1995684  PRISCILA MARIA FERREIRA PEIXOTO ALVES  CÓD 301 - AGENTE ADMINISTRATIVO  F  69  100%  100%  Aprovado  2054670  RAFAEL ALVES COUTO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  74  100%  100%  Aprovado  2059942  RAFAEL ANTUNES PENNA DENIS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  64  100%  100%  Aprovado  2024099  RAFAEL DOS SANTOS FERREIRA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  71  100%  100%  Aprovado  2010776  RAFAEL HENRIQUE DA SILVA FERREIRA AVELINO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  65  78%  100%  Aprovado  1981637  RAFAEL MELLO FAKHRI  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  72  100%  90%  Aprovado  2055622  RAFAEL OLIVEIRA DE PAULA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  80%  Aprovado  1973188  RAFAELLA BASTOS RAMOS  CÓD 301 - AGENTE ADMINISTRATIVO  F  67  100%  100%  Aprovado  1981434  RAMON CORDOVIL CAVALCANTE  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  94%  100%  Aprovado  2019897  RAMON SILVA SÁ VIANA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  67  100%  100%  Aprovado  1982453  RAPHAEL COUTO FERNANES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  2024023  RAPHAEL FERNANDES COSTA MARTINS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  1977833  RAPHAELLA NASCIMENTO MUZY  CÓD 101 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO FEMININO  F  66  100%  100%  Aprovado  2037013  RENAN DA SILVA RAMOS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  67  94%  100%  Aprovado  1975125  RENAN DOS SANTOS LIRA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  59  100%  100%  Aprovado  1985148  RENAN NORONHA DE MEDEIROS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  64  78%  100%  Aprovado  2032350  RENATA DE ALMEIDA GOMES  CÓD 301 - AGENTE ADMINISTRATIVO  F  77  100%  100%  Aprovado  1999051  RENATA DE ALMEIDA PERALTA  CÓD 113 - MÉDICO PSIQUIATRA  F  76  100%  80%  Aprovado  2075956  RENATA DE OLIVEIRA  CÓD 301 - AGENTE ADMINISTRATIVO  F  76  100%  100%  Aprovado  1983802  RENATO ROCHA DE OLIVEIRA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  100%  Aprovado  2038271  RHAYSSA MARCA FIRPO  CÓD 305 - TÉCNICO EM SUPORTE E CO-  MUNICAÇÃO EM TI  F  69  100%  100%  Aprovado  2050876  RICARDO LYRA DE ABREU  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  67  100%  100%  Aprovado  2026029  RICARDO SALGADO GOMES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  64  100%  100%  Aprovado  2032598  RICHARD ISRAEL LIMA OLIVEIRA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  64  100%  100%  Aprovado  1984287  ROBSON CLEITON BRAGA JUNIOR  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  57  100%  100%  Aprovado  1986060  ROBSON DA COSTA GONÇALO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  63  100%  100%  Aprovado  2075964  ROBSON GONÇALVES DOS SANTOS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  90%  Aprovado  1998104  RODOLFO LIMA E SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  78  100%  100%  Aprovado  1982715  RODOLFO TARGINO DE ARAUJO  CÓD 106 - BIBLIOTECÁRIO  M  71  100%  100%  Aprovado  2045168  RODRIGO BARBOSA AZEVEDO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  100%  Aprovado  1983246  RODRIGO CIRNE LEAL  CÓD 301 - AGENTE ADMINISTRATIVO  M  77  100%  100%  Aprovado  1993213  RODRIGO FERNANDES DE SOUSA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  80%  Aprovado  2046078  RODRIGO MARTINS FERNANDES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  65  100%  100%  Aprovado  1987461  RODRIGO NOGUEIRA JR  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  71  100%  100%  Aprovado  2013341  ROGER MATEUS DOS SANTOS PEREIRA RAMOS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  67  100%  100%  Aprovado  1982037  ROMULO LUIS MELO RUSSO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  78%  100%  Aprovado  2013985  ROMÁRIO SANTOS DA SILVA  CÓD 301 - AGENTE ADMINISTRATIVO  M  78  89%  100%  Aprovado  2051907  ROSILAINE ALMEIDA DA SILVA  CÓD 101 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO FEMININO  F  71  100%  90%  Aprovado  1981537  RUBENS SILVA DE SOUZA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  69  100%  90%  Aprovado  1974625  RUY VITOR FREIRE BENVINDO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  2035335  SAMUEL WILLIAM DOS SANTOS ONÓRIO  CÓD 301 - AGENTE ADMINISTRATIVO  M  74  78%  100%  Aprovado  2007808  SANDRO DE SOUZA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  100%  100%  Aprovado  1980237  SARAH ESTEVÃO MENEZES  CÓD 101 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO FEMININO  F  74  100%  100%  Aprovado  2056987  SAVIO SANT ANA SCHMIDT  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  72  100%  100%  Aprovado  1986939  SERGIO DA COSTA CARNEIRO JUNIOR  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  100%  100%  Aprovado  2042953  SILVIANE DE MOURA AURELIO  CÓD 105 - ASSISTENTE SOCIAL  F  70  100%  100%  Aprovado  2031972  STEFAN LUIZ REDER DA COSTA LIMA JUNIOR  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  74  100%  100%  Aprovado  2032719  TAILA  DE  OLIVEIRA  FERNANDES  CÓD 301 - AGENTE ADMINISTRATIVO  F  75  100%  100%  Aprovado  1976014  TAMIRES MARINHO CALDAS  CÓD 105 - ASSISTENTE SOCIAL  F  68  100%  100%  Aprovado  1991499  TATIANE DA PAIXÃO SILVA  CÓD 301 - AGENTE ADMINISTRATIVO  F  68  100%  100%  Aprovado  1973723  TAYNÁ PORTILHO MARQUES DOS PASSOS  CÓD 101 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO FEMININO  F  72  100%  90%  Aprovado  2032790  TERESA CRISTINA VALENTE DA ROCHA  CÓD 116 - ODONTÓLOGO  F  75  100%  100%  Aprovado  2017222  THAIS PINTO RIBEIRO FERREIRA  CÓD 119 - PSICÓLOGO  F  78  100%  100%  Aprovado  2004561  THAIS RITTER RIBEIRO ALMEIDA  CÓD 301 - AGENTE ADMINISTRATIVO  F  78  100%  100%  Aprovado   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -9457,17 +9457,17 @@ FICA a  empresa  AUTO SUTURE DO BRASIL LTDA, NOTIFICADA da decisão  de penalida
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 2006132  ÁLVARO DE SOUZA RODRIGUES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  75  78%  90%  Aprovado  2079674  GABRIEL NASCIMENTO GUIMARÃES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  73  100%  100%  Aprovado  2051452  ANDREI BRANDÃO GUERRA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  66  72%  0%  Reprovado  -  Frequência  2073622  ANTONIO CARLOS REBELLO  CÓD 301 - AGENTE ADMINISTRATIVO  M  78  67%  Reprovado  -  Frequência  2053782  CARLOS ANDREY XAVIER GOMES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  0%  0%  Reprovado  -  Frequência  2054660  CARLOS FELLIPE DE PAULA DOS SANTOS  CÓD 301 - AGENTE ADMINISTRATIVO  M  77  0%  Reprovado  -  Frequência  1974271  CARLOS FERNANDO CARVALHO ARAUJO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  71  0%  0%  Reprovado  -  Frequência  2030298  CASSIUS VINICIUS SANTOS OLIVEIRA DE ABREU  CÓD 305 - TÉCNICO EM SUPORTE E CO-  MUNICAÇÃO EM TI  M  73  0%  0%  Reprovado  -  Frequência  2009820  DELCIO MACHADO DE LIMA FILHO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  73  0%  10%  Reprovado  -  Frequência  1977717  DENISON DOS SANTOS TAVARES CARNEIRO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  78%  70%  Reprovado  -  Frequência  1998220  DIEISON FERREIRA DA SILVA CADAXO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  67  78%  0%  Reprovado  -  Frequência  1974288  DIOGO DA COSTA PEREIRA  CÓD 301 - AGENTE ADMINISTRATIVO  M  77  100%  Reprovado  -  Frequência  2021065  DOUGLAS GOESSE CARDOSO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  89%  20%  Reprovado  -  Frequência  2058549  DOUGLAS LUKA COSTA PINTO  CÓD 301 - AGENTE ADMINISTRATIVO  M  79  0%  Reprovado  -  Frequência  1977826  EDVALDO DO NASCIMENTO BRAINER  CÓD 301 - AGENTE ADMINISTRATIVO  M  76  100%  Reprovado  -  Frequência  2048693  FELIPE SUEVO TEIXEIRA RODRIGUEZ  CÓD 301 - AGENTE ADMINISTRATIVO  M  75  78%  Reprovado  -  Frequência  1984588  FERNANDA DOS SANTOS ARAUJO  CÓD 106 - BIBLIOTECÁRIO  F  71  78%  0%  Reprovado  -  Frequência  2042594  FERNANDO HERNÁN ROJAS VARGAS JÚNIOR  CÓD 301 - AGENTE ADMINISTRATIVO  M  74  100%  0%  Reprovado  -  Frequência  2  0  11  6  4  8  GABRIELLA MARIA LIMA MACHADO  CÓD 301 - AGENTE ADMINISTRATIVO  F  81  100%  Reprovado  -  Frequência  1980668  GUILHERME JORGE MEZENTIER DA CRUZ  CÓD 304 - TÉCNICO DE SEGURANÇA DO  TRABALHO  M  56  0%  0%  Reprovado  -  Frequência  2069693  ISRAEL BATISTA DUARTE DOS SANTOS  CÓD 301 - AGENTE ADMINISTRATIVO  M  75  78%  0%  Reprovado  -  Frequência  2027538  JOAO VICTOR GONCALVES DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  66  72%  100%  Reprovado  -  Frequência  2051582  LEANDRO DA SILVA MAMEDIR  CÓD 119 - PSICÓLOGO  M  73  78%  Reprovado  -  Frequência  1996846  LUCAS BARRETO LEITÃO VARGAS DE ALMEIDA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  68  0%  0%  Reprovado  -  Frequência  2060314  LUCIANO REIS DA SILVA JUNIOR  CÓD 302 - TÉCNICO DE CONTABILIDADE  M  69  0%  0%  Reprovado  -  Frequência  2077852  LUÍS  CLÁUDIO DA CUNHA PEREIRA  CÓD 106 - BIBLIOTECÁRIO  M  64  78%  0%  Reprovado  -  Frequência  1975899  MARCELO LOPEZ GRAÇA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  76  78%  0%  Reprovado  -  Frequência  2046401  MARCO ANTONIO PINHEIRO LEÃO  CÓD 305 - TÉCNICO EM SUPORTE E CO-  MUNICAÇÃO EM TI  M  0  100%  100%  Reprovado  -  Nota  2031986  MARIANNA ROCHA MEDEIROS  CÓD 301 - AGENTE ADMINISTRATIVO  F  80  78%  Reprovado  -  Frequência  2041453  MATHEUS AMITTI BARBOSA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  44%  0%  Reprovado  -  Frequência  1976662  MAYARA DOS SANTOS  CÓD 101 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO FEMININO  F  69  78%  0%  Reprovado  -  Frequência  1983830  MICHELI LANES MEIRELLES  CÓD 301 - AGENTE ADMINISTRATIVO  F  68  100%  0%  Reprovado  -  Frequência  2075998  MILENA ALMEIDA BASTOS  CÓD 301 - AGENTE ADMINISTRATIVO  F  77  100%  0%  Reprovado  -  Frequência  2003883  MIRKO WEBER  CÓD 106 - BIBLIOTECÁRIO  M  65  0%  0%  Reprovado  -  Frequência  2036073  NATÁLIA DO NASCIMENTO  CÓD 301 - AGENTE ADMINISTRATIVO  F  75  78%  0%  Reprovado  -  Frequência  1977914  PEDRO IVO MURAD CURI  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  70  78%  0%  Reprovado  -  Frequência  2018789  RAMON DA SILVA GRANATO  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  76  33%  0%  Reprovado  -  Frequência  1987680  RAPHAEL MENEZES ALVES DOS SANTOS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  59  100%  0%  Reprovado  -  Frequência  2013901  RENAN MATHEUS DOS SANTOS GABRIEL  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  71  100%  10%  Reprovado  -  Frequência  2040237  RENATA OLIVEIRA DA SILVA  CÓD 106 - BIBLIOTECÁRIO  F  73  50%  0%  Reprovado  -  Frequência  1984016  RODRIGO GONÇALVES RODRIGUES  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  67  78%  20%  Reprovado  -  Frequência  1973342  RONALD LUCAS ALVES LARA DOS SANTOS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  0  100%  80%  Reprovado  -  Nota  2000326  RUBENS WESLEY MELO DA SILVA  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  0  100%  100%  Reprovado  -  Nota  2002696  VANDER BENEVIDES DOS SANTOS  CÓD 102 - AGENTE DE SEGURANÇA SO-  CIOEDUCATIVO MASCULINO  M  0  78%  100%  Reprovado  -  Nota   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9590,17 +9590,17 @@ AUTO  DE INFRAÇÃO  Nº:  INEA/DIRADIRPOSAI/1134/2025 ;  NOME:
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Vânia  Valéria  de  Castro  Mendes ;  CPF/CNPJ:  018.339.337-61  ;  ENDEREÇO:  Rua  Sergio José  do  A  maral, 362,  casa  4,  Central ;  MUNICÍPIO: Magé ; ID ALERTA: 202509018 ; INFRAÇÃO: Artigo 23 e 29 da  Lei Estadual  3467/00 ;  PENALIDADE: Embargo  Cautelar de  Obra ou  Atividade  ;  PROCESSO:  SEI-070002/021003/2025
 
@@ -9731,17 +9731,17 @@ Liste  e  descreva  as  ações  e  estratégias  que  serão  realizadas  consi
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Este  plano pode  contemplar ações  de acessibilidade  comunicacional, como:
 
@@ -9818,17 +9818,17 @@ Fotos  nas  quais  o  nome  e/ou  a  logomarca  do CIRCO  DE  LONA/
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | Guapimirim  51.696  2  Cachoeiras  de  Macacu  56.943  2  Te  r   e   s   ó  p  o   l  i   s  165.123  1  Nova Friburgo  189.939  1  Petrópolis  278.881  0   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -10135,17 +10135,17 @@ Ciente de que os dados registrados em meu documento oficial de identificação n
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 ceiros que  porventura integrem o  mesmo; e, como tal, A  U  TO  R  I  Z  O a Secretaria de  Cultura e Economia  Criativa do  Estado do Rio  de Janeiro,  utilizar o(s)  arquivo(s)  original(is) (fotos  e  vídeos) do  conteúdo apresentado neste RELATÓRIO  DE EXECUÇÃO DA PROPOSTA C  U  LT  U  R  A  L ,  em  parte  ou  em  sua  totalidade,  para  fins  institucionais  e sem finalidade  comercial, pelo  prazo de 10  (dez) anos;  sendo autorizada  sua reprodução,  edição, remix,  adaptação, distribuição,  preparação  de  obras  derivadas,  exibição  e  execução.
 
@@ -10198,31 +10198,31 @@ I  M  P  O  RTA  N  T  E  : Este anexo não poderá ser alterado. As informaçõ
 
 ## RELATÓRIO DE EXECUÇÃO FINANCEIRA DA PROPOSTA
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0037/U0031
+071
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0032
+22
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
 ## 6.  LOCAIS  DE  REALIZAÇÃO (CICLOS 1 E 2)
 
@@ -10269,12 +10269,12 @@ DECLARO ser titular  dos direitos autorais e/ou conexos  sobre todo o conteúdo 
 
 I  M  P  O  RTA  N  T  E  :  Anexo  para fins  de orientação.  O relatório  será preenchido  na Plataforma Desenvolve  Cultura.
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0036/U0035
+65

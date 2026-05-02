@@ -149,17 +149,17 @@ Diretor Financeiro
 
 Ceres Pimenta Diretora Industrial
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 <!-- image -->
 
@@ -353,17 +353,17 @@ DESIGNA RACHEL ELIAS  BERNACCHI ,  Assessora  I, como  Presidente, ANDRE LUIZ LI
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 VANI  MORELLI ,  Advogado C, como Membro  Suplente. Gerente da Contratação DANIELA  BEZERRA  DE MENEZES  ULIANA ,  Advogada E, bem  como VINICIUS ROSA  DA SILVA , Assistente III,  como Suplente,  para constituírem Comissão  de  Fiscalização referente  aos 'SERVIÇOS ADVOCATÍCIOS ESPECIALIZADOS NA ÁREA CRIMINAL PARA A DEFESA DOS INTERESSES DA CEDAE EM TODOS OS INQUÉRITOS  POLICIAIS  EM  CURSO  ENVOLVENDO  A  COMPANHIA, SENDO  ELES: 921-00044/2012, 200-00164/2019, 921-00253/2019, 023/2018, 200-00209/2019, 200-00014/2020, 911-00206/2018, 20000211/2024,  200-00553/2023 E  NO PROCEDIMENTO  DE INVESTIGAÇÃO CRIMINAL 1.30.020.000071/2020-31,  BEM COMO EM TODOS  OS PROCEDIMENTOS  INVESTIGATIVOS  PENAIS  QUE JÁ  TIVEREM  SIDO INSTAURADOS  ATÉ A  DATA DA  ASSINATURA DO CONTRATO,  QUE TRATEM  SOBRE 'A  INTERCORRÊNCIA HAVIDA NO SISTEMA IMUNANA-LARANJAL  QUE CAUSOU A INTERRUPÇÃO  OPERACIONAL ENTRE  OS  DIAS  03/04/2024 E  05/04/2024 EM RAZÃO DA PRESENÇA DA SUBSTÂNCIA POLUENTE TOLUENO  ENCONTRADA NO  LOCAL  DE  CAPTAÇÃO DE  ÁGUA B  R  U  TA  ' -Processo  SEI  150017/006740/2024.  Contrato CEDAE  n° 101/2024 (DJU).  Revoga a Ordem  de Serviço P/FIS  n° 32.307-00 de  16  de  setembro  de  2024.  Ordem  de  Serviço  P/FIS  N°  32.307-01.
 
@@ -461,7 +461,7 @@ PROC.  Nº  SEI-150013/000236/2026  RECONHEÇO  A DÍVIDA de exercício anterior
 
 Id:  2726967
 
-/U0034
+4
 
 PROCESSO  Nº  SEI-150016/001775/2026  A  U  TO  R  I  Z  O o  funcionamento do CENTRO DE FORMAÇÃO DE CONDUTORES BRITO FERREIRA LTDA, registro  DH B/1458, no endereço  funcional Rua Fagundes Varella, 362 - Loja 02, Quadra 00, Lote 28 - Centro - Itaboraí/RJ CEP: 24800-185  E CANCELO o funcionamento  do CENTRO DE FORMAÇÃO  DE  CONDUTORES  BRITO  FERREIRA  LTDA,  registro DH B/1458, no endereço funcional Estrada de Pachecos, 150, Loja 20 -  Lagoinha  -  São  Gonçalo/RJ  -  CEP:  24732-570.
 
@@ -547,17 +547,17 @@ Id:  2726807
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE GOVERNO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA E FINANCEIRA
 
@@ -800,17 +800,17 @@ Recurso nº 83313/RV - Processo nº SEI-040091/000593/2023 - Recorrente:  ORAFI 
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 DE REVISÃO FISCAL - Relator: Conselheiro Rodrigo Barreto de Faria Pinho  -  Representante  da  Fazenda:  Joao  Paulo  Melo  do  Nascimento.
 
@@ -876,19 +876,19 @@ Pauta  Aditiva  de Julgamento para  a Sessão Ordinária,  do dia  27 de  abril 
 
 Recurso  nº 76120/RO  -  Processo nº  SEI-E-04/211/024278/2019 -  Recorrente:  FAZENDA  PÚBLICA  ESTADUAL  -  Interessada:  PETRÓLEO BRASILEIRO S.A. - PETROBRAS - Relator: Conselheiro Rodrigo Bar-
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0038
+8
 
-/U002D
+-
 
 reto  de  Faria  Pinho  -  Representante  da  Fazenda:  Joao  Paulo  Melo  do Nascimento.
 
@@ -977,41 +977,41 @@ PROCESSO  Nº SEI-040161/003601/2021  - DEFIRO 03 (três)  meses de licença-pr�
 
 Id:  2727011
 
-/U0036
+6
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0032
+062
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0038
+8
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE FAZENDA FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO
 
@@ -1059,17 +1059,17 @@ CONCEDE a NADIR DE OLIVEIRA GOMES ,  na  qualidade  de  COTISTA  do(a)  ex-segur
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 CONCEDE a LUZIA  LUCIA  FIGUEIREDO  DOS  SANTOS ,  na  qualidade  de  VIÚVA  do  ex-segurado  JOSÉ  ALBERTO  DOS  SANTOS,  matrícula  00-0036108-9, cargo  de AUX  DE SERV  GERAIS do(a)  FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEM, a pensão por morte, no valor de  R$ 2.016,00, correspondente a cota de 100,00%,  com fundamento  no  art.  40, §7°,  inciso  I, CRFB/1988,  combinado com  o art. 14 da  Lei 5.260/2008, com validade  a contar de 27/02/2021.  Processo  SEI  Nº  PD-04/169.31/2021.
 
@@ -1153,17 +1153,17 @@ PROCESSO  Nº  SEI-040144/000536/2023 -beneficiário(a) Cristiane Macedo  Pereir
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 isenção de imposto de renda, tendo em vista os termos do laudo médico  e  parecer  da  perícia  médica  do  Estado .
 
@@ -1389,17 +1389,17 @@ Id:  2727144
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 DE  RENASCER CNPJ:  10.994.966/0001-45,  contrato  nº 610/2022  firmado  com a  empresa  CLÍNICA  OFTALMÓLOGICA RICARDO  REIS, CNPJ/MF  sob o  n° 04.592.953/0001-47,  contrato nº  426/2024 firmado com  a  empresa  CENTRO  DE  OLHOS  AVENIDA  SETE  DE  SETEMBRO  LTDA,  CNPJ/MF sob  o  n°  39.256.128/0001-56 e  contrato  nº 856/2023  firmado com  a empresa  INSTITUDO DA  VISÃO REGIÃO DOS LAGOS,CNPJ sob o n° 23.853.917/0001-34.
 
@@ -1507,17 +1507,17 @@ Art. 2º -  O  servidor designado no artigo anterior deverá acompanhar e fiscal
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 após a publicação em DOERJ  do substituto. A indicação para substituição  de  servidores  designados  como fiscais  deverá  ser  feita  aos gestores do Contrato (Diretoria de Credenciamento) para decisão junto à  Diretoria  Geral  de  Saúde. III -  providenciar  a  substituição  imediata  de  servidor  designado  que  se achar  impedido  na  forma  do  art.10  do  Decreto  Estadual  nº  45.600,  de 16 de março de 2016, encaminhando a solicitação através de SEI aos Gestores  do  Contrato.
 
@@ -1563,7 +1563,7 @@ III -  providenciar  a  substituição  imediata  de  servidor  designado  que  
 
 §2º -  Enquanto  não  for  publicada  no  DOERJ  a  substituição  dos  membros desta  Comissão de  Fiscalização, ficam estes  servidores vinculados às atividades de acompanhamento  e controle da execução contratual. Art.  5º -  É de  responsabilidade  da Comissão  de Fiscalização  verificar se  as  notas  fiscais  estão  sendo  inseridas  e  tramitadas  no  endereço eletrônico  sisnota.pmerj.rj.gov.br, conforme  publicação  em  BOL PM  nº 213, de 19 de novembro de 2015, págs. 70 a 79, bem como fiscalizar o  fiel  cumprimento  da  confecção  dos  processos  de  liquidação. Art.  6º  Fica  estabelecido  que  a  Comissão  Fiscalizadora  e  os  demais setores que estão  envolvidos na execução do contrato,  direta ou indiretamente, deverão disponibilizar  todas as informações necessárias ao  exercício das  atribuições aqui  delegadas, com  a maior  celeridade possível,  e  dar  acesso  às  instalações  e  dependências  onde  ocorrer  a prestação do serviço ou a entrega de materiais, sempre que solicitado pelo Gestor  ou por  qualquer um  dos membros  de sua  equipe de apoio. Art.  7º  A  Comissão  Fiscalizadora  deverá  se  inteirar  do  teor  do  Termo de  Referência (doc. 89922949))  e do Contrato  (doc. 95920793), anotando,  em registro  próprio,  todas as  ocorrências relacionadas  com
 
-/U0039
+9
 
 a  execução do  Contrato,  na forma  do art.  11,  Decreto Estadual  nº 48.817,  de  24  de  novembro  de  2023. Art.  8º -Os  Fiscais de  Contrato deverão  se  matricular no  Programa de  Capacitação em  Licitações e  Contratos Administrativos  realizado pela  Secretaria  de  Estado  de  Polícia  Militar,  bem  como  nos  cursos  de capacitação  e especialização  sobre  Gestão e  Fiscalização de  Contratos  Administrativos  promovidos  gratuitamente  pela  Escola  de  Contas  e Gestão do Tribunal de Contas do Estado do Rio de Janeiro -ECG/TCE-RJ  (link: https://portal-br.tcerj.tc.br/web/ecg/publico-alvo-estadual), a  fim de que se  capacitem para exercer as  suas respectivas funções. Art. 9º -Todos os  Fiscais de Contratos  devem atentar quanto  à inclusão  obrigatória  de  fotografia  dos bens  adquiridos  nos  Termos  de Recebimento  Provisório  de  Objeto,  a  ser  juntado  nos  processos  de pagamento, com o  objetivo de aprimorar os processos  internos e garantir  maior  transparência. Art. 10 -Enquanto  não for  publicada em  DOERJ a  substituição dos servidores  designados, os  mesmos ficam  vinculados à  atividade de acompanhamento e controle  da  execução  contratual. Art.  11 -  Esta  Resolução  entrará  em  vigor  na  data  de  sua  publicação, revogadas  as  disposições  em  contrário. Rio  de  Janeiro,  01  de  abril  de  2026
 
@@ -1653,17 +1653,17 @@ Id:  2727116
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -1875,17 +1875,17 @@ PROCESSO  N°  SEI-350022/004926/2026  SUBTENENTE  PM  RG 66.543  BARBARA CRISTI
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 nas informações prestadas  pelo órgão de pessoal  no presente administrativo,  o  servidor FAZ  JUS ao abono  de  permanência  a  partir  de 22/12/2025.
 
@@ -2031,17 +2031,17 @@ O  SECRETÁRIO DE  ESTADO  DE POLÍCIA  CIVIL  E O  DIRETORPRESIDENTE  DA EMPRES
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
 Lei de Diretrizes  Orçamentárias para o exercício  financeiro de 2026, que dispõe  sobre as diretrizes  para elaboração da lei  do orçamento anual de  2026; com  a Lei  Estadual nº  11.098, de  8 de  janeiro de 2026,  que  estima  a receita  e  fixa  a  despesa  do Estado  do  Rio  de Janeiro  para o  Exercício  Financeiro de  2026; e  o  Decreto nº  42.436, de  30  de  abril  de  2010,  que  dispõe  sobre  a  Descentralização  da  Execução  de  Créditos  Orçamentários, conforme  Processo  Administrativo SEI-360007/000158/2020.
 
@@ -2247,17 +2247,17 @@ PROCESSO  Nº SEI-360005/000308/2026  - CONCEDO a Isenção  de Imposto de  Rend
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 cial  de  Polícia,  classe  Comissário,  Id.  Funcional  nº  2.982.543-1,  a  partir  de  22/10/2025,  data  do  início  da  Patologia,  em  caráter  permanente, na forma do  índice nº 128752160 da  SES/SUPCPMSO, com fundamento  nas  Leis  Federais  nº  7713/88  e  nº  11.052/2004.
 
@@ -2469,17 +2469,17 @@ EXONERA VIRGILIO  MELO DE ARAUJO , Inspetor  de Polícia Penal, ID Funcional nº
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 dades  Prisionais de  Japeri  e Sul  Fluminense,  da Superintendência  de Gestão  Operacional  das  Unidades  Prisionais  Isoladas  e  Interior,  da Subsecretaria de Gestão Operacional, da Secretaria de Estado de Polícia  Penal.  Processo  nº  SEI-210001/012951/2026.
 
@@ -2599,17 +2599,17 @@ Id:  2726726
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 TA  ID: 50116908 CONCEDO 03  (três)  meses de  Licença Prêmio  relativa  ao  Período  Base  de  28/06/2018  a  27/06/2023.
 
@@ -2667,17 +2667,17 @@ PROCESSO Nº SEI-270006/006339/2026 - AUTORIZO a  despesa  em favor  da empresa 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº SEI-270006/006476/2026 - AUTORIZO a  despesa  em favor  da empresa  TARGET  MEDICAMENTOS  E PRODUTOS  HOSPITALARES LTDA, no valor estimado de R$ 8.386,56 (oito mil trezentos e oitenta  e seis reais e  cinquenta e seis centavos),  visando à aquisição de CLOREXIDINA  SOLUCAO ALCOOLICA, a fim  de atender a demanda  da  Diretoria  Geral  de  Saúde  da  Secretaria  de  Estado  Defesa Civil, conforme Ata de  Registro de Preços n° 025/2025, consolidada pelo  CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE  JANEIRO, PE  nº 003/2025,  com  fundamentação legal  art. 82,  inciso  VII  §1º  lei  287  de  04  de  Dezembro de  1979  e  no  art.  64  da  lei Federal  nº  4320  de  1964.
 
@@ -2801,17 +2801,17 @@ I -a Supervisão Médica  atua como elo entre  a regulação médica  e a DSO,  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 §3ºA Seção  de Controle  de Recursos  Operacionais tem  por objetivo otimizar  a  alocação  estratégica  dos  recursos  de  APH  disponíveis,  a fim  de  manter  o  equilíbrio operacional,  controlar  a  manutenção  das viaturas patrimoniadas  do COAPH e viabilizar  a infraestrutura necessária  para  o  funcionamento  do  Centro  de  Operações.
 
@@ -2925,17 +2925,17 @@ Id:  2726790
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
 ## Secretaria de Estado de Saúde
 
@@ -3153,17 +3153,17 @@ Id:  2726960
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## RECONHECIMENTO DE DÍVIDA 22º LOTE
 
@@ -3324,17 +3324,17 @@ Id:  2727038
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO
 
@@ -3488,17 +3488,17 @@ PROCESSO Nº SEI-030001/081002/2025 DAISE LOPES DE ALMEIDA,  Professor  Docente 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº  SEI-030001/087938/2025 ELIZETE  XAVIER LESSA, Professor Docente  I 18  horas, nível C,  referência 6,  Identidade Funcional n° 41942051, vínculo 5,  matrícula n° 929846-4. FIXADOS os proventos  mensais  de  inatividade  a contar  de  08/10/2025,  ficando  esclarecido  que o  inativo  a quem  se  refere  o presente  título  faz jus  a Proventos Média  proporcionais à razão  de 5335/10950 a partir  da eficácia  da  aposentadoria,  no  valor  de  R$  1.202,97  (mil  duzentos  e  dois reais e  noventa e  sete centavos) e  complementação de  R$ 315,03 (trezentos  e quinze  reais  e três  centavos), com  base  no salário  mínimo de  R$ 1.518,00 (mil  quinhentos e  dezoito reais) , de  acordo com o  Decreto  12342/2024.
 
@@ -3534,39 +3534,39 @@ PROCESSO Nº  SEI-030001/029356/2026 - CONCEDO o  benefício Abono  de Permanên
 
 PROCESSO Nº  SEI-030001/029148/2026 - CONCEDO o  benefício Abono de  Permanência ao servidor MARIA  BERNARDETE FONSECA AMARANTE,  Professor  Docente I  30  horas  Ex  18  horas, nível  D,  referência  9, Identidade  Funcional no  36138428, vínculo  01, matrícula 0827773-3, tendo em vista ter reunido, com  base no art. 3°, § 4°, da Emenda Constitucional  90/2021, os  requisitos necessários para  a sua aposentadoria  a  partir  de  18/02/2023.
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0032
+062
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0038
+8
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 PROCESSO  Nº SEI-030001/026337/2026  - CONCEDO o  benefício Abono  de Permanência  ao servidor  CYNTIA LIMA  CAVALCANTI, Professor Docente I  40 horas, nível D, referência  9, Identidade Funcional no 36248037, vínculo1, matrícula 5013590-4,  tendo em vista ter reunido,  com  base  no  art.  4°,  caput  c/c  o  §5°  e  §2°,  inciso  I  da  Emenda Constitucional  90/2021,  os  requisitos  necessários para  a  sua  aposentadoria  a  partir  de  17/07/2025.
 
@@ -3630,17 +3630,17 @@ A  COORDENADORIA  GERAL  DE  INSPEÇÃO  ESCOLAR,  CERTIFICAÇÃO E ACERVO, nos 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## DE 14/08/2025
 
@@ -3824,19 +3824,19 @@ Id:  2727066
 
 Id:  2727106
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0038
+8
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E  INOVAÇÃO UNIVERSIDADE ESTADUAL DO NORTE FLUMINENSE DARCY RIBEIRO
 
@@ -3919,17 +3919,17 @@ Id:  2726857
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E I  N  O  VA  Ç  Ã  O FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO HOSPITAL UNIVERSITÁRIO PEDRO ERNESTO
 
@@ -4060,17 +4060,17 @@ PROCESSO Nº SEI-100004/000035/2026 - RATIFICO a despesa,  nos termos  do  art. 
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 fundamentada  no  Art. 30,  inciso  I,  da  Lei  Federal nº  13.303/2016,  c/c com  o inciso  I do  artigo 125  do Regulamento  Interno de  Licitações e Contratos da  Companhia, em favor da  COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE, relativo às despesas com o consumo de  água  e  tratamento  de  esgoto, para  o  Terminal  Rodoviário  de  Itaperuna,  referente ao  período de  março  a dezembro  de 2026,  conforme Termo de Referência  (index  122821421).
 
@@ -4299,17 +4299,17 @@ Id:  2727059
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Cultura e Economia Criativa
 
@@ -4465,17 +4465,17 @@ Id:  2726974
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## CONTROLADORIA GERAL DO ESTADO
 
@@ -4731,17 +4731,17 @@ Id:  2726952
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 PROCESSO  Nº  SEI-390003/000085/2026 -REVALIDAÇÃO  de  Placa Particular  -  ASSEMBLEIA LEGISLATIVA DO ESTADO DO RIO DE JANEIRO.
 
@@ -4864,41 +4864,41 @@ Rio  de  Janeiro,  01  de  abril  de  2026
 
 Id:  2727136
 
-/U0032/U0038
+28
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U0030/U0036/U0032
+062
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0049
+I
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0038
+8
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
 ## CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO
 
@@ -4974,17 +4974,17 @@ Art.  1º Instituir Comissão  de  Sindicância  para  investigar e  apurar  os 
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 Art.  2º Ficam designados os servidores relacionados abaixo para, sob a  presidência  do  primeiro,  comporem  a  Comissão: I -Fernanda  Redondo,  ID  Funcional  nº  5108452-0; II  Murilo  de  Sousa  Richulino,  ID  Funcional  n.º  5098105-6;  e III  Juliana  Braga  Santos, ID  Funcional  n.º  5164723-0.
 
@@ -5205,17 +5205,17 @@ PEDRO HENRIQUE DE OLIVEIRA RAMOS Presidente Id:  2727043
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEM
 
@@ -5330,17 +5330,17 @@ Id:  2727049
 
 ## DESPACHO DA SUPERINTENDENTE DE 06/04/2026
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
 <!-- image -->
 
@@ -5490,9 +5490,9 @@ Conselheira-Relatora
 
 JOSÉ ANTONIO DE MELO PORTELA FILHO Conselheiro Id:  2726869
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 ## AGÊNCIA REGULADORA DE ENERGIA E SANEAMENTO BÁSICO DO ESTADO DO RIO DE JANEIRO
 
@@ -5590,17 +5590,17 @@ Art.  1º -Considerar  comprovada a Regularidade Fiscal, declarando-se regular  
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 Art.  2º -Aplicar  à Concessionária  Águas de  Pádua a  penalidade de Advertência, com  fundamento na Cláusula 35,  subcláusulas 35.1.1, 35.2,  35.3 e  35.3.3, pelo  descumprimento do  Artigo 3º  Instrução Normativa AGENERSA nº 121/2024, em razão da inobservância formal do prazo  de  apresentação  dos  documentos para  exame  da  regularidade fiscal.
 
@@ -5690,41 +5690,41 @@ Rio  de  Janeiro,  26  de  março  de  2026
 
 Id:  2726875
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0033/U0031
+31
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0032
+062
 
-/U0049
+I
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0038
+8
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 ## AGÊNCIA REGULADORA DE ENERGIA E SANEAMENTO BÁSICO DO ESTADO DO RIO DE JANEIRO
 
@@ -5806,39 +5806,39 @@ O  CONSELHO-DIRETOR  DA  AGÊNCIA  REGULADORA  DE  ENERGIA E SANEAMENTO BÁSICO 
 
 Art.  1º -Aplicar à Concessionária  CEG Rio a penalidade  de Advertência, nos termos do Artigo 12, inciso I, da Instrução Normativa AGENERSA nº 001/2007,  em razão do descumprimento  da Cláusula Primeira,  §  3º; da  Cláusula  Quarta,  caput  e item  6  do  § 1º,  todas  do Contrato de Concessão, demonstrado pelas irregularidades detectadas pela  CAENE no  Relatório de  Fiscalização RF  CAENE nº  P-124/24 e Termo  de  Notificação  nº  015/2024.
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0030/U0036/U0032
+062
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0038
+8
 
-/U0044/U0045
+DE
 
 Art.  2º -Determinar à SECEX, em conjunto com  a CAENE, a lavratura  do  correspondente Auto  de  Infração,  em  consonância com a  Instrução  Normativa  AGENERSA  nº  001/2007.
 
@@ -5890,17 +5890,17 @@ Art.  1º -Homologar o reajuste  do valor da tarifa  da Concessionária CEG para
 
 Id:  2726879
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 <!-- image -->
 
@@ -6104,17 +6104,17 @@ Monike  Freitas  de  Araújo  Berta  ID  Funcional  n°  4176574-5.
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Art.  2º  Caberá ao  Gestor  e  aos  Fiscais  da Comissão,  os  atos  concernentes ao acompanhamento da execução do contrato, além do previsto  nos  artigos  22,  23  e  24  do  Decreto  Estadual  nº  48.817/2023,  incumbindo-lhes:
 
@@ -6198,41 +6198,41 @@ Id:  2726863
 
 Id:  2726884
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0033/U0033
+33
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0030/U0036/U0032
+062
 
-/U0049
+I
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0038
+8
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 O SECRETÁRIO DE ESTADO DE HABITAÇÃO DE INTERESSE SOCIAL ,  no uso  de  suas atribuições  e  tendo em  vista  o constante  no processo  administrativo  n°  SEI-490001/000446/2026,  e
 
@@ -6369,17 +6369,17 @@ Id:  2726944
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 DE  AREAL/RJ, conforme Contrato  juntado aos  autos no  índex nº 128144205,  bem como  relatório de  sindicância contido  no índex  nº 128776422,  emitido  pela  Comissão  Especial  de  Sindicância  para  Análise  de  Despesas  de  Exercícios  Anteriores  -  DEA.
 
@@ -6576,17 +6576,17 @@ Id:  2727224
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 Teixeira Dubeux, Heloá  Paula da Silva Mendes  Gomes, Leonardo da Cunha e Silva  Espíndola  Dias,  Gabriela  Vieira  Leonardos  Tomaz,  Luís Felipe  Sampaio  de Almeida,  Renata  Cotrim  Nacif, Veronica  Pinheiro Vidal, Flavio  Costa Bezerra Filho,  Gabriel Pacheco Ávila,  Roberta de Oliveira  Barcia, André  Uryn,  Marcelle Figueiredo  da Cunha,  Ricardo José  da Rocha  Silva e  Daniel Carvalho  Cardinali. Presentes  também os Subprocuradores  -Gerais do Estado, Rogério  Carvalho Guimarães e  Joaquim  Pedro  Rohr;  o  Chefe de  Gabinete,  Maurício  Gomes  Vieira e a  Procuradora-Corregedora Assistente, Julia Vinhaes  Tortima. Ausentes, justificadamente,  os Conselheiros Bruno Veloso  de Mesquita, Joner  Augustus  Toledo  de  Carvalho  Folly  e  Mariana  Amarante  Guimarães.  Havendo  o  número  legal  de  presentes,  foi  declarada  aberta  a sessão,  às 10h15min,  e  designada para  secretariar  os trabalhos  a Procuradora-Corregedora Assistente  para tratar da seguinte  ordem do dia:  1)  Posse  e  apresentação  do  Conselho;  2)  Distribuição  de  processos e 3) Assuntos Gerais. Iniciados os trabalhos, pelo item 1) Posse e apresentação  do Conselho  -  O  Presidente saudou  a  todos os  Conselheiros eleitos,  felicitando-os e desejando sucesso  no cumprimento do  mandato.  O  Presidente  fez  ainda  considerações  acerca  de  suas expectativas para o biênio  2026/2028.Os Conselheiros assinaram o livro de posse. Os Conselheiros  que não puderam comparecer, serão comunicados  acerca da  necessidade  de seu  comparecimento à  Corregedoria  para assinatura  do  livro  de Posse.  Item  2) Distribuição  dos processos, observadas  as disposições regulamentares, foi  realizado o sorteio  do processo  -  SEI 140001/090076/2020  (Consolidação do  Regimento  Interno), que  terá  a Conselheira  Patrícia  Ferreira Baptista  como  relatora.  Não  havendo  mais  a  ser  discutido,  o  Presidente  deu  por encerrados  os  trabalhos do  que,  para  constar, a  Procuradora-  Corregedora Assistente  lavrou  a  presente  ata,  que  vai  assinada  por  ambos. Processo  nº  SEI-140001/023273/2026.
 
@@ -6653,39 +6653,39 @@ I  N S  T  R  U  M  E  N  TO  : Contrato  CEDAE  nº  029/2026  (DDC). PA  R  T 
 
 Id:  2727037
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U002D
+-
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0032
+062
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0038
+8
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DA CASA CIVIL COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS
 
@@ -6808,17 +6808,17 @@ Id:  2727076
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR EXTRATO DE INSTRUMENTO CONTRATUAL
 
@@ -6954,17 +6954,17 @@ Id:  2727146
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
 ## Secretaria de Estado de Defesa Civil
 
@@ -7080,19 +7080,19 @@ ITEM DESERTO:
 
 PRAZO: O  prazo de validade  da Ata de Registro  de Preços é  de 01 (um) ano, contado a partir do 1º (primeiro) dia útil subsequente à data de  divulgação  no  PNCP.
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0038
+8
 
 DATA DA ASSINATURA :  06/04/2026. PREGÃO ELETRÔNICO: nº  265/2025. abril  de  2021.
 
@@ -7308,17 +7308,17 @@ INSTRUMENTO: TERCEIRO TERMO ADITIVO AO TERMO DE CREDENCIAMENTO Nº 025/2023. PAR
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 OBJETO: Prorrogação  do  prazo  de  vigência. PRAZO: 12  (doze)  meses,  a  contar  de  30/03/2026 a 29/03/2027. VALOR  TOTAL ESTIMADO :  R$  4.353.217,35  (quatro milhões  trezentos  e  cinquenta  e  três  mil  duzentos  e  dezessete  reais  e  trinta  e  cinco centavos). FUNDAMENTO  DO  ATO :  art. 57,  inciso  II,  da  Lei  8.666 de  1993  e suas  alterações. DATA DA ASSINATURA :  27/03/2026. PROCESSO Nº SEI-080001/020984/2021.
 
@@ -7452,17 +7452,17 @@ I  N S  T  R  U  M  E  N  TO  : Termo  de Ajuste  de Contas nº  693/2026. PA  R
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 administrativo SEI-080002/005203/2026. DATA DA ASSINATURA: 06/04/2026.
 
@@ -7606,17 +7606,17 @@ E
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 contar  do  1º  dia  útil  subsequente  à  data  de  divulgação  no  PNCP. VA  LOR  TOTAL  REGISTRADO: de  R$  42.286,40  (quarenta  e  dois  mil duzentos e oitenta e seis reais  e  quarenta  centavos). F  U  N  D  A  M  E  N  TO  : Lei  Federal nº  14.133, de  1 de  abril de  2021; Decreto  estadual nº 48.843, de  13 de  dezembro de 2023,  nos demais  normativos estaduais aplicáveis, e do instrumento convocatório. Parecer nº 2568/2025/FS/DIRJUR/GERCPA (Doc. SEI  nº 117824376) e Autorização  do  Ordenador de  Despesa  (Doc.  SEI Nº  129109449).  Processo Administrativo SEI-080002/012912/2025. DATA DA ASSINATURA: 06/04/2026.
 
@@ -7801,17 +7801,17 @@ Id:  2726888
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO CEJA CASA DO MARINHEIRO
 
@@ -7860,37 +7860,37 @@ O DIRETOR  DO COLÉGIO ESTADUAL  PROFESSOR UBIRATAN REIS  BARBOSA, Censo  Escola
 
 Id:  2727089
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0049
+I
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0032
+062
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0038
+8
 
 ## Secretaria de Estado de Ciência, Tecnologia e Inovação
 
@@ -7962,21 +7962,21 @@ CONCURSO PÚBLICO PARA O CARGO DE TÉCNICO UNIVERSITÁRIO I,  PERFIL  ASSISTENTE
 
 O SUPERINTENDENTE DE GESTÃO DE PESSOAS ,  em  conformidade  com  o  Edital  do  Concurso  Público em  epígrafe  e  com  o  Processo n° SEI-260006/015143/2026, CONVOCA o candidato LEONARDO CARDOSO SINFRONIO ,  122º  classificado  nas  vagas  reservadas  para
 
-/U0032/U0030/U0032/U0036
+2026
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
 NI,  devido  vacância gerada  pela  exoneração  de Iago  Henrique  Rosa de  Souza Silva , matrícula 41.046-4,  ID 51336650,  conforme DOERJ do  dia  11/03/2026,  pág.  39,  col.  01,  e  portaria  216/SGP/2026. Os  documentos  deverão  ser  encaminhados em  formato  digital,  por  intermédio  de e-mail,  sendo  a verificação  dos  originais feita  posteriormente. O candidato convocado deverá aguardar o recebimento do comunicado de  convocação com as informações  sobre o cumprimento das etapas de  entrega de documentação e realização  de exame médico  admissional,  conforme  Processo  n°  SEI-E-26/007/4654/2015.
 
@@ -8191,17 +8191,17 @@ Id:  2726767
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado do Ambiente e Sustentabilidade
 
@@ -8370,17 +8370,17 @@ PROGRAMA DE TRABALHO: 13.392.0509.4495 NATUREZA DE DESPESA: 3390.31.01 FONTES DE
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 da  declaração  de Imposto  de  Renda,  sobre os  rendimentos  auferidos referentes  ao  presente  Edital.
 
@@ -8521,9 +8521,9 @@ d) CÓPIA SIMPLES DA IDENTIDADE do representante legal ou mandatário  (se  for 
 
 e) CÓPIA  SIMPLES DO  CPF do  representante legal  ou mandatário (se  for  o  caso), RESPONSÁVEL PELA EXECUÇÃO ;
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 f)  DECLARAÇÃO DE  USO  DO NOME  SOCIAL DO(A)  RESPONSÁVEL PELA EXECUÇÃO (se  for  o  caso),  conforme  modelo  disposto  no ANEXO  16 ,  devidamente assinada  e datada  pelo RESPONSÁVEL PELA EXECUÇÃO ;
 
@@ -8663,41 +8663,41 @@ a) Consistência  e  relevância  da  trajetória de  atuação  cultural  do  p
 - n Atende  pouco  ao  critério:  1  a  14  pontos;
 - n Não  atende  ao  critério:  0  pontos.
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0034/U0035
+45
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0030/U0036/U0032
+062
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0038
+8
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
 TRAJETÓRIA  ARTÍSTICA  E  CULTURAL  DO  PROPONENTE  (Categoria  C): Será  considerada, para fins de análise,  a trajetória artística e  cultural do  proponente na  produção e  realização de  eventos culturais,  com  base  nas  comprovações de atuação apresentadas juntamente  com  a  proposta,  observando-se  os  seguintes  aspectos:
 
@@ -8937,9 +8937,9 @@ a) Caso  o PROPONENTE não  retorne  o TERMO  DE  EXECUÇÃO C  U  LT  U  R  A  
 
 14.11 Alterações referentes aos membros  da equipe listados na INSCRIÇÃO da P  R  O  P  O  S  TA deverão  ser  devidamente  justificadas e  encaminhadas para  análise, através  da Plataforma  Desenvolve Cultura, acompanhadas de  mini currículo  do novo integrante  e de  carta de desligamento  do  profissional  a  ser  substituído,  devidamente  assinada.
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 1  4  .  11  .  1 As alterações mencionadas no subitem 14.12 não poderão ultrapassar  50%  (cinquenta por  cento)  da  quantidade de  membros  da equipe  listados  na INSCRIÇÃO da P  R  O  P  O  S  TA .
 
@@ -8999,17 +8999,17 @@ b)  ETAPA  2 -  Comprovação  da  execução  financeira  através  do RELATÓR
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 16.2.1 Em caso  de  sobra de  valores na  conta  corrente referente  à P  R  O  P  O  S  TA , o PROPONENTE deverá  restituir aos  cofres públicos  o valor remanescente  da seguinte  forma: efetuar o  recolhimento identificado  com  registro  da  sua  RAZÃO  SOCIAL  e  CNPJ  e  enviar  o  termo e  o  comprovante de  transferência  para  os e-mails:  comafec@cultura.rj.gov.br  e  cpc@cultura.rj.gov.br.
 
@@ -9065,27 +9065,27 @@ b)  ETAPA  2 -  Comprovação  da  execução  financeira  através  do RELATÓR
 
 19.2 Fica eleito o  foro central da Cidade do Rio  de Janeiro, com expressa  renúncia  a  qualquer  outro,  por  mais  privilegiado  que  seja,  para dirimir quaisquer questões, dúvidas  ou demandas referentes a este processo seletivo, a adjudicação dele  decorrente, assim como a execução  da PROPOSTA CULTURAL selecionada.
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0036/U0032
+062
 
-/U002D
+-
 
-/U006F
+o
 
-/U0034/U0037
+47
 
 19.3 Os casos omissos serão resolvidos pela Autoridade Superior, observados os  princípios que  informam a  atuação da  Administração Pública.
 
@@ -9143,17 +9143,17 @@ As  inscrições para  o Edital  'ARRAIÁ CULTURAL  RJ 2026' começam às 09h , 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | RECURSO DA FASE DA ANÁLISE TÉCNICA  03  (três)  dias  úteis  a  partir  da  publicação  do  Resultado  da  Análise  Técnica  no  DOERJ.  RECURSO DA HABILITAÇÃO PARA CONTRATAÇÃO  03  (três)  dias  úteis  a  partir  da  publicação  do  Resultado  Preliminar  no  DOERJ.  ENVIO DA DOCUMENTAÇÃO OBRIGATÓRIA PARA CONTRATAÇÃO  20  (vinte)  dias  corridos  a  partir  da  publicação  do  Resultado  Final  de  Classificação  no  DOERJ.  ENVIO DO TERMO DE EXECUÇÃO CULTURAL  10  (dez)  dias  corridos  a  partir  da  liberação  do  termo  na  Plataforma  Desenvolve  Cultura.  EXECUÇÃO DA PROPOSTA CULTURAL  120  (cento  e  vinte)  dias  corridos  a  partir  da  publicação  do  Extrato  de  Termo  no  DOERJ.  ENVIO DO RELATÓRIO DE EXECUÇÃO DA PROPOSTA  30  (trinta)  dias  corridos  após  o  término  do  prazo  da  EXECUÇÃO  DA  PROPOSTA  CUL-  TURAL.  ENVIO DO RELATÓRIO DE EXECUÇÃO FINANCEIRA DA PROPOSTA  50  (cinquenta)  dias  corridos  após  o  término  do  prazo  de  envio  do  RELATÓRIO  DE  EXE-  CUÇÃO DA PROPOSTA.   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9260,17 +9260,17 @@ equivalente  a  2,5%  do  valor  do  salário  mínimo  corrente,  de  acordo co
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - sos  físicos),  com  a  devida  identificação  do  conteúdo  entregue,  nome do  PROPONENTE, do código do projeto  e  do  Edital,  aos  cuidados da  COMISEAP.  O  endereço  para  entrega/envio  é:  Secretaria  de  Estado  de  Cultura  e  Economia  Criativa  -  Av.  Pres.  Vargas,  1261  /  2º andar  -  Centro,  Rio  de  Janeiro  -  RJ,  20071-004.  Não  serão  validados os  INGRESSOS entregues à SECEC de outra forma que não a mencionada.
 -  Para  ingressos  disponíveis  através  de  plataforma  online  (Sympla, Ticketmaster,  entre  outras),  o  link  de  acesso  aos  ingressos  deverá ser  enviado  para  o  e-mail:  arraiacultural@cultura.rj.gov.br.
@@ -9351,17 +9351,17 @@ Informe  a  data  e  o  local  previsto  para  realização  da  sua  PROPOSTA.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | Porciúncula  17.288  3  Itaocara  22.919  3  Miracema  26.881  3  Bom Jesus do Itabapoana  35.173  3  Santo  Antônio  de  Pádua  41.325  3  Itaperuna  101.041  1  N  O  RT  E  Cardoso  Moreira  12.958  3  Carapebus  13.847  3  Conceição  de  Macabu  21.104  3  Quissamã  22.393  3  São  João  da  Barra  36.573  3  São  Fidélis  38.961  3  São  Francisco  de  Itabapoana  45.059  3  Macaé  246.391  0  Campos dos Goytacazes  483.540  0  SERRANA  Macuco  5.415  3  São  Sebastião  do  Alto  7.750  3  Santa  Maria  Madalena  10.232  3  Trajano  de  Moraes  10.302  3  Duas Barras  10.980  3  Sumidouro  15.206  3  Carmo  17.198  3  Cantagalo  19.390  3  Cordeiro  20.783  3  São  José  do  Vale  do  Rio  Preto  22.080  3  Bom Jardim  28.102  3  Guapimirim  51.696  2  Cachoeiras  de  Macacu  56.943  2  Te  r   e   s   ó  p  o   l  i   s  165.123  1  Nova Friburgo  189.939  1  Petrópolis  278.881  0   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9425,17 +9425,17 @@ I  M  P  O  R  TA  N  T  E  : Este anexo  deve ser utilizado apenas  para fins d
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 6.2  R$  -  6....  R$  -  Total  da  Linha  R$  -  7.  Sustentabilidade  7.1  R$  -  7.2  R$  -  7....  R$  -  Total  da  Linha  R$  -  8.  Custos  Administrativos  8.1  R$  -  8.2  R$  -  8....  R$  -  Total  da  Linha  R$  -  9.  Taxas  e  Seguros  9.1  R$  -  9.2  R$  -  9.  ...  R$  -  Total  da  Linha  R$  -  TO  TA  LR$  -   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9689,7 +9689,7 @@ PAR Nº 08
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-/U0035/U0032
+52
 
 CPF:
 
@@ -9843,39 +9843,39 @@ CPF:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0030/U0036/U0032
+062
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U0038
+8
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## A  S  S  I  N  AT  U  R  A  :
 
@@ -10027,17 +10027,17 @@ A  S  S  I  N  AT  U  R  A  :
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## MEMBROS DA EQUIPE:
 
@@ -10175,17 +10175,17 @@ e) Fazer  uso da  conta corrente aberta  exclusiva e  unicamente para recebiment
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - cepcionalmente, a alteração da programação da execução deste TERMO , mediante  proposta do PROPONENTE , fundamentada  em razões concretas  que a  justifique,  desde  que não  importe  mudança de  objeto.
 
@@ -10242,41 +10242,41 @@ Eu,  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0035/U0033
+53
 
-/U002D
+-
 
-/U0038
+8
 
-/U002D
+-
 
-/U004E
+N
 
-/U0044/U0045
+DE
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0032
+062
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## VIII.  DAS  DISPOSIÇÕES  FINAIS
 
@@ -10313,41 +10313,41 @@ CPF/MF
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-/U0035/U0034
+54
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0036/U0032
+062
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0049
+I
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0044/U0045
+DE
 
-/U0038
+8
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 ## REPRESENTANTE LEGAL DA PESSOA JURÍDICA OU MANDATÁRIO COM PODERES DELEGADOS POR MEIO DE PROCURAÇÃO PARTICULAR ANEXO 16
 
@@ -10447,17 +10447,17 @@ F  U  N  D  A  M  E  N  TO :  Processo  n°  SEI-180002/000128/2026.
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
 05.04.2026, 12.04.2026, 19.04.2026  e 28.04.2026,  passando para 21.03.2026,  12.04.2026,  19.04.2026,  26.04.2026  e  05.05.2026. VALOR: Não há valor. DATA DA ASSINATURA: 31/03/2026. F  U  N  D  A  M  E  N  TO  : Processo  n°  SEI-180002/000653/2026.
 
@@ -10744,17 +10744,17 @@ Id:  2726887
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Transformação Digital
 
@@ -10852,7 +10852,7 @@ DATA DA ASSINATURA : 01/04/2026. PROCESSO Nº SEI-430001/001784/2026
 
 Id:  2726862
 
-/U0049
+I
 
 JUSTE, REFERENTE AOS SERVIÇOS TÉCNICOS DE TELEATENDI- MENTO, CONTEMPLANDO  AS FASES DE  PLANEJAMENTO, IM- PLANTAÇÃO, ADEQUAÇÃO, INTEGRAÇÃO, TESTE, TREINAMENTO, GESTÃO E OPERAÇÃO DE CALL CENTER.
 

@@ -198,17 +198,17 @@ Ceres Pimenta Diretora Industrial
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## OFÍCIO GG/PL Nº 087 RIO  DE  JANEIRO,  17  DE  ABRIL  DE  2026
 
@@ -438,7 +438,7 @@ PROCESSO  Nº  SEI-030001/024559/2026  IVANUSE  MIRANDA  DE OLIVEIRA ARAUJO, ID 
 
 PROCESSO  Nº SEI-030001/046005/2024 RANGEIRA  RIBEIRO,  ID  Funcional  26680785, trícula  33369  (Prefeitura  Municipal  de  Campos  dos  Goytacazes).
 
-/U0034
+4
 
 L  Í   C  I  TA a acumulação de cargos  pelos servidores conforme dispõe o artigo  37,  inciso  XVI,  alínea  'a',  da  CRFB/1988.
 
@@ -524,17 +524,17 @@ Id:  2729956
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 O  SUPERINTENDENTE  DE COMPRAS  E  CONTRATOS, no uso  de suas atribuições  legais, atribuídas  no inciso VI,  art. 17,  da Resolução SEFAZ  nº 409/2022,  e art.  2°  da Resolução  SEFAZ  nº 761  de 11  de fevereiro  de  2025,
 
@@ -822,27 +822,27 @@ Art. 1º A  Corregedoria Tributária de Controle Externo -  CTCE é o órgão cr
 
 5. FERREIRA, Ricardo J. Manual de Auditoria. Rio de Janeiro: Editora Ferreira,  2009.
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037/U0030
+070
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0035
+5
 
 - se  caracterizarem  como infrações  administrativas,  com  o objetivo  de mitigar  ou  eliminar  os  riscos  de  irregularidades.
 
@@ -918,17 +918,17 @@ Aos 16 dias  do  mês  de  abril  do  ano  de  dois  mil  e  vinte  e  seis,  te
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Aberta a votação, após análise dos autos, acolhendo o Relatório Conclusivo  da  Comissão  Processante,  por entender  inexistente  nos  autos prova  de  autoria e  de  materialidade  de  infração funcional,  o  Colegiado,  por unanimidade,  DECIDIU pelo  arquivamento do  Processo Administrativo  Disciplinar  (PAD)  em  favor  do Auditor  Fiscal  da  Receita  Estadual  investigado,  nos  moldes  do  artigo  4º,  inciso  I,  e  do  artigo  20,  § 6º,  ambos do Decreto Estadual nº 46.823/2019. Tudo com fundamento nas  razões  de  fato  e  de  direito expostas  no  voto  proferido  pelo  Relator,  Corregedor-Chefe,  Procurador  do  Estado,  Dr.  Flavio  Müller  dos Reis de  Salles Pupo. Nada  mais havendo  a tratar, deu-se  por encerrada  a  reunião, sendo  lavrada  a  presente  ata  que vai  assinada  pelos presentes.  Registre-se onde  couber.  Intimem-se  os interessados.  Publique-se.
 
@@ -1006,17 +1006,17 @@ Aberta  a  votação,  após  análise  dos  autos,  divergindo  da  Manifestaç
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Punitiva),  em face  do  Auditor Fiscal  da  Receita Estadual  investigado, nos moldes do  artigo 4º, inciso I,  e artigo 18, ambos  do Decreto Estadual nº 46.823/2019. Tudo com fundamento nas razões de fato e de direito  expostas no voto proferido pelo Relator, Corregedor Auditor Fiscal  da  Receita  Estadual,  Dr.  Leonardo  Xavier  Antonaccio.  Restou  vencido  o Corregedor-Chefe,  Procurador  do Estado,  Dr.  Flavio Müller  dos Reis  de  Salles  Pupo,  que  votou  pelo  arquivamento  da  Investigação Preliminar,  nos termos  do artigo  17, §  5º, 'b',  do Decreto  Estadual nº 46.823/2019, por  entender inexistente nos  autos indício de  autoria e de  materialidade de  infração funcional.  Nada mais  havendo a  tratar, deu-se por encerrada a reunião, sendo lavrada a presente ata que vai assinada  pelos presentes.  Registre-se  onde couber.  Intimem-se os  interessados.  Publique-se.
 
@@ -1176,17 +1176,17 @@ Recurso  nº  84116  -  Processo  nº  SEI-040039/000753/2023  -  Recorrente:  J
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Decisões  proferidas  na  Sessão  Ordinária, realizada  por  videoconferência, no  dia  10/03/2026
 
@@ -1355,17 +1355,17 @@ PROCESSO  Nº  SEI-040150/001281/2023 -  De  acordo  com a  documentação  apre
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
 PROCESSO  Nº  SEI-040014/046718/2025 -  De  acordo  com a  documentação  apresentada, declaro  que  conforme  a instrução  processual, VILMA  MARQUES, na  qualidade  de  COMPANHEIRA, NÃO  FAZ(EM) JUS à concessão  do benefício  de  pensão por  morte do  ex-segurado ROBERTO FLEGLER, ID Funcional nº 147737-4 da SECRETARIA DE ESTADO DA POLÍCIA MILITAR, por não atender  ao  disposto  no  §  3° do art. 29,  da Lei Estadual nº 285/1979, alterada pela Lei nº 4.320/2004.
 
@@ -1470,41 +1470,41 @@ DELEGA COMPETÊNCIA PARA PRATICAR ATOS DE  GESTÃO ORÇAMENTÁRIA  E FINANCEIRA,
 
 O SECRETÁRIO  DE ESTADO  DE POLÍCIA  MILITAR , no  uso das atribuições que lhe conferem o disposto no inciso VII e § 1° do art. 82 da  Lei  Estadual  n°  287,  de  14/12/79  (Código  de  Administração  Financeira  do  Estado  do  Rio  de  Janeiro),  tendo  em  vista  o  disposto  no  art. 14 do Decreto-Lei Estadual n° 239, de 21/07/75, e no parágrafo único do art. 35  do Regulamento a que  se refere o Decreto  n° 3.149, de
 
-/U0031 /U0030
+1 0
 
-/U002D
+-
 
-/U0030/U0037/U0030
+070
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030
+20
 
 28/04/80, e tendo em  vista o que consta nos Processos  SEI350002/004997/2026:
 
@@ -1606,17 +1606,17 @@ II  (UG): 266500 - Fundo Especial da Polícia Militar do Estado do Rio de  Janei
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
 IV  (UG):  266400  -  Fundo  Especial  da  Secretaria  de  Segurança  Pública.
 
@@ -1978,17 +1978,17 @@ Id:  2729878
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -2200,17 +2200,17 @@ O SECRETÁRIO  DE ESTADO DE  POLÍCIA CIVIL, no uso  de suas atribuições  lega
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 art.  56,  ambos  da  Lei  Complementar nº 204, de 30 de junho de 2022; considerando  o  disposto  no  inciso  VIII, do  art.  27,  do  Decreto-Lei  nº 218, de  18 de  julho de 1975,  bem como o  que consta  no Processo Administrativo  nº  SEI-360008/003514/2025;
 
@@ -2280,39 +2280,39 @@ Id:  2729831
 
 PROCESSO Nº SEI-360011/009352/2025 -INDEFIRO o  pedido  de  reconsideração  do servidor  RODRIGO  MENEZES  PEREIRA DA  ROCHA, Cargo Oficial de Polícia Civil de 4ª Classe, Id. Funcional 5.156.087-9,  com base  na  Promoção  ASSEJUR/SEPOL, índice  nº 128129964,  e  nos  despachos  da  CHGAB de  índices  nº  123520627  e 128168752,  cujos  fundamentos  ora  acolho  como  razões  de  decidir. Id:  2729769
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0037/U0030
+070
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL
 
@@ -2418,17 +2418,17 @@ O Decreto 47.365/2020 determina a obrigatoriedade da contratação da certifica�
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS SERVIÇO DE DIREITOS E VANTAGENS
 
@@ -2697,17 +2697,17 @@ EXCLUI o  candidato RAFAEL GOMES DE  ALMEIDA ,  inscrição  nº 9991049700, do 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 vista  a  deliberação  da  Comissão  de Concurso,  constante  em  Ata  de Reunião, datada  de 14  de abril de  2026, conforme  Processo SEI210001/107188/2025.  PROCESSO Nº SEI-210001/086302/2025.
 
@@ -2845,41 +2845,41 @@ DESIGNA o servidor LEANDRO ROSA BRAZ, IDF.4196048-3 ,  Inspetor  de Polícia  Pe
 
 Id:  2729874
 
-/U0049
+I
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037/U0030
+070
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE POLÍCIA PENAL
 
@@ -2893,17 +2893,17 @@ ATA  203/26. Aos vinte  e  sete  dias  do mês  de  março  de dois  mil  e vint
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Almeida,  Claudia  Maria  P.  da  Mota,  Lívia  Madeira,  Felippe  Barcellos  e Roberto  de  Almeida  Silva  Conceição.
 
@@ -3026,17 +3026,17 @@ REGULAMENTA  O EXPEDIENTE  NAS UNIDADES PÚBLICAS DE SAÚDE ESTADUAIS E NA FARM�
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 - -o  Decreto nº 50.252,  de 13 de abril  de 2026 que  estabelece ponto facultativo nas repartições públicas estaduais  no dia 24 de abril de 2026;
 - a Portaria MGI Nº 11.460, de 29 de dezembro  de 2025 que divulga os  dias de  feriados  nacionais  e estabelece  os  dias  de ponto  facultativo  no  ano  de  2026;
@@ -3103,39 +3103,39 @@ CONCEDO 24  (vinte  e  quatro)  meses  de  licença  prêmio  ao  servidor  para
 | PROCESSO  S  E  RV  I  D  O  R  CARGO  ID.  FUNCIONAL  PERÍODO BASE  SEI-08/0001/009150/2026  FRANCISCO CARLOS DUARTE AZEVEDO (INATIVO)  ENFERMEIRO  31973388  16/08/1978  A  14/08/1983  15/08/1983  A  12/08/1988  13/08/1988  A  11/08/1993  12/08/1993  A  10/08/1998  11/08/1998  A  09/08/2003  10/08/2003  A  07/08/2008  08/08/2008  A  06/08/2013  07/08/2013  A  05/08/2018   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0037/U0030
+070
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0032/U0030
+20
 
 ## SECRETARIA DE ESTADO DE SAÚDE COMISSÃO INTERGESTORES BIPARTITE
 
@@ -3226,17 +3226,17 @@ PROCESSO  N°  SEI-080002/015094/2025  - ADJUDICO e HOMOLOGO a  licitação  por
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 TORNO SEM EFEITO o Despacho de 01/03/1990. publicado em DOERJ de 06/03/1990, que concedeu 03  (três)  meses  de  licença  prêmio  ao  servidor  CARLOS  SINVAL  LYRA  DE  ANDRADE,  Médico,  Id.  Funcional  nº 31922252,  para  fins  de  regularização  funcional,  tendo  em  vista inatividade  a  contar  de  26/10/2024  -  referente  ao  período  base  21/12/1980  a  20/09/1986,  por  inclusão  de 245  dias  de  licença  médica  entre  1982  e  1985, que  de  acordo  com  o  Decreto  Estadual  nº  2479/1979,  impedem  a  contagem.  Processo  nº  SEI  E-08/23669/1988.
 
@@ -3385,17 +3385,17 @@ PROMOVE por formação  o  servidor FLAVIA  DA  SILVA CARIUS, ID. Funcional  432
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROMOVE por  formação  o  servidor VANESSA  COUTINHO  DA  SILVA, ID. Funcional  50134566/02,  matrícula  3045390-6, Professor  Docente I 30h, do nível C para o  nível D, tendo em vista o disposto no art.  30 da  Lei nº  1614, de  24  de janeiro  de 1990  e no  uso das  atribuições legais conferidas pelo  Decreto Estadual nº 45.046/2014. Processo  nº  SEI-030001/029303/2026
 
@@ -3445,25 +3445,25 @@ DESIGNA  MÁRCIO REVORÊDO  RODRIGUES , Prof. Doc. I, ID 51482126/1, para  exerc
 
 DESIGNA  ADRIANA ERMIDA  DE  CASTRO LIMA ,  Prof.  Doc. I,  ID 50256572/2, para exercer a função de Orientador Educacional do C.E. Presidente  Rodrigues Alves,  U.A.  118201030205545,  Tipo C,  Municí-
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037/U0030
+070
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
 pio  de Paracambi,  da Secretaria  de  Estado de  Educação, em  vaga anteriormente  ocupada por  Débora de  Vilhena Alves  Andrade, ID 43843328/1.  Processo  nº  SEI-030001/020972/2026.
 
@@ -3513,39 +3513,39 @@ PROMOVE por  formação o  servidor FLAVIA BATISTA  DE AGUIAR SANTOS  AFONSO, ID
 
 PROMOVE por  formação o  servidor LUCIANA  INACIO SOARES, ID. Funcional  42546214/02, matrícula  960202-0, Professor  Docente I  18 horas, do nível C para o nível D, tendo em vista o disposto no art. 30 da Lei  nº 1614, de 24  de janeiro de  1990 e no uso  das atribuições legais conferidas  pelo Decreto Estadual nº  45.046/2014. Processo nº SEI-030001/038240/2026.
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037/U0030
+070
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 PROMOVE por formação  o  servidor ROSANGELA  ALVES DE  OLIVEIRA, ID. Funcional  50124072/02, matrícula  3067934-4, Professor Docente I 30 horas,  do nível C para o nível D, tendo  em vista o disposto no art.  30 da Lei nº 1614,  de 24 de janeiro de 1990  e no uso das atribuições legais conferidas pelo Decreto Estadual nº 45.046/2014.  Processo  nº  SEI-030001/037278/2026.
 
@@ -3601,17 +3601,17 @@ Id:  2729658
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROMOVE por  formação o  servidor JORGE  DA SILVA  PAULA  JUNIOR, ID.  Funcional  43868924/02,  matrícula  3065366-1,  Professor  Docente I 30 horas, do nível C para o nível D, tendo em vista o disposto no  art. 30  da  Lei nº  1614,  de  24 de  janeiro  de 1990  e  no uso  das atribuições legais  conferidas pelo Decreto Estadual  nº 45.046/2014. Processo  nº  SEI-030001/038237/2026.
 
@@ -3689,9 +3689,9 @@ Rio  de  Janeiro,  16  de  abril  de  2026
 
 Id:  2729844
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 horas, nível  D, referência  9 (Lei  nº 9952/2023),  no valor  de R$ 3.135,19 e 45% de triênio (Lei nº 1026/86), no valor de  R$ 1.410,84.Processo  nº  SEI-030001/001742/2026.
 
@@ -3747,17 +3747,17 @@ Id:  2729886
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
 
@@ -3815,39 +3815,39 @@ PROCESSO  Nº SEI-030001/021271/2026 -  CONCEDO o  benefício Abono  de Permanê
 
 PROCESSO  Nº SEI-030002/002780/2026  - CONCEDO o  benefício Abono de Permanência ao servidor  JULIO CEZAR DA SILVA MARA-
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U002D
+-
 
-/U0030/U0037/U0030
+070
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0032/U0030
+20
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
 NHAO, Agente de Segurança Socioeducativa, Identidade Funcional no 42486750, vínculo  1,  matrícula  0921144-2,  tendo  em  vista  ter  reunido, com  base  no  art. 5º,  caput e  §6º  da  Emenda  Constitucional  nº 90/2021,  os  requisitos  necessários  para a  sua  aposentadoria  a  partir 29/01/2026.
 
@@ -3979,17 +3979,17 @@ Leia-se: ...os  requisitos necessários  para a  sua aposentadoria  a partir 04/
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 ## D.O.  DE  21/08/2024 PÁGINA 42 - 2ª  COLUNA
 
@@ -4167,17 +4167,17 @@ PROCESSO Nº SEI-260005/000571/2026 - FIXADOS, com validade  a contar  de 10  de
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ferência  DOC  20HE12,  de acordo  com  o  artigo  4º  e  do seu  §  2º,  inciso  I,  da  Emenda  Constitucional  Estadual  nº  90/2021,  no  valor  de  R$ 6.803,79  (Seis  mil,  oitocentos  e  três  reais  e  setenta  e  nove  centavos).
 
@@ -4356,23 +4356,23 @@ Id:  2729873
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 ## Secretaria de Estado do Ambiente e Sustentabilidade
 
@@ -4488,55 +4488,55 @@ Cooperação, transparência,  inovação e pesquisa,  equidade, educação e  c
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ## ANEXO I
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0030/U0037/U0030
+070
 
-/U0049
+I
 
-/U006F
+o
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0032/U0035
+25
 
 - perda de nutrientes para o meio ambiente, incluindo métodos mais eficientes de ciclagem  e uso; a redução do  risco ambiental proveniente do uso de agrotóxicos; a redução do risco proveniente de substâncias químicas  perigosas;  a  redução  de  emissões  de  poluentes  industriais, de transportes e de  contaminantes ambientais relevantes; a redução, trabalhando para a eliminação, da  poluição por plásticos, inclusive no ambiente marinho e  a redução da poluição  térmica, sonora, luminosa e  por  vibração.
 9. Minimizar o impacto da mudança  do clima e da acidificação do oceano  sobre a  biodiversidade e  a sociobiodiversidade  e aumentar  a sua  resiliência,  mediante  estratégias  de mitigação  e  adaptação  que contribuam com a redução do risco  de desastres e o combate à desertificação, incluindo  o uso  das abordagens ecossistêmicas  e soluções  baseadas  na natureza,  e  promoção  de  uma economia  de  baixo carbono  inclusiva, seguindo  os princípios  da justiça  climática, combatendo o racismo ambiental, ampliando e fortalecendo a participação de comunidades  vulneráveis.
@@ -4557,39 +4557,39 @@ Cooperação, transparência,  inovação e pesquisa,  equidade, educação e  c
 19.  Fortalecer  a formação,  a  capacitação,  o desenvolvimento,  o  acesso,  o  intercâmbio  e  a  transferência  de  tecnologias;  promover  o  desenvolvimento  e  acesso  à  inovação  e  à  cooperação  técnico-científica,  valorizando  conhecimentos  e saberes  tradicionais  e  ancestrais, e  metodologias e estratégias apropriadas à  conservação, manejo e uso sustentável da  sociobiodiversidade, com atenção ao  engajamento, à formação  e  ao  protagonismo  das juventudes,  promovendo  o  diálogo  intergeneracional.
 20. Buscar  que dados, informações e  conhecimentos estejam disponíveis  aos  profissionais  e  ao  público  em  geral  para:
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037/U0030
+070
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 - a)  a  tomada  de  decisões,  de  forma  a  orientar  as  políticas  públicas, uma  governança  eficaz  e  equitativa, uma  gestão  integrada  e  participativa  da  diversidade  biológica  e  da  sociobiodiversidade;
 - b) fortalecer a comunicação, a  conscientização, a educação, o monitoramento,  a  pesquisa  e  a  gestão  do  conhecimento.  Essa  busca  deve considerar  diferentes escalas  territoriais  e fontes  de  dados e  garantir que os conhecimentos tradicionais,  inovações, práticas e tecnologias dos povos indígenas, quilombolas e comunidades tradicionais somente sejam acessados  com o consentimento  livre, prévio e  informado e com a repartição  justa  e  equitativa  dos  benefícios  decorrentes.
@@ -4601,34 +4601,34 @@ Cooperação, transparência,  inovação e pesquisa,  equidade, educação e  c
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 21.  Buscar  a participação  e  representação  plena, equitativa,  inclusiva, efetiva,  de  todas  as  pessoas,  incluindo as  com  deficiência,  com  perspectiva  de  gênero, intergeracional,  de  raça  e  etnia,  na tomada  de  decisões,  garantindo  o acesso  à  justiça  e  à  informação em  matéria  de diversidade  biológica, e,  assegurando,  em especial,  aos povos  indígenas,  quilombolas  e  povos  e  comunidades  tradicionais,  a  consulta  livre, prévia e informada, quando  pertinente, respeitando suas culturas e seus  direitos  sobre  as  terras,  os  territórios,  os  maretórios,  os  recursos e  os  conhecimentos  tradicionais.
 22.  Buscar a  equidade de  gênero na  implementação da  EPAEB-RJ, por meio  de uma  abordagem intergeracional, interseccional  e sensível ao gênero, para que todas as mulheres, meninas e pessoas LGBTQIAPN+  tenham  as  mesmas  oportunidades  e  capacidades  para contribuir com os  três objetivos da Convenção  sobre Diversidade Biológica,  incluindo  o  reconhecimento  de sua  igualdade  de  direitos  e acesso  à terra,  territórios,  maretórios,  bens e  recursos  naturais e  culturais  e aos  recursos financeiros;  a  sua participação  e liderança  plenas,  equitativas,  significativas, informadas  e  qualificadas  em todos  os níveis  de  ação,  engajamento,  política  e de  tomadas  de  decisões  relacionados  à  biodiversidade  e  à  sociobiodiversidade;  e  a  equidade  salarial  nas  cadeias  da  bioeconomia.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -4642,17 +4642,17 @@ Cooperação, transparência,  inovação e pesquisa,  equidade, educação e  c
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ANEXO II
 
@@ -4737,17 +4737,17 @@ PROCESSO  Nº SEI-520002/000413/2026 -A  U  TO  R  I  Z  O a  contratação e R 
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | Secretaria  de  Estado  de  Turismo  /  Companhia  de  Turismo  do  Estado  do  Rio  de  Janeiro  SETUR/TURISRIO  Organizações da sociedade civil  e  iniciativa  privada  Instituto  de  Ação  Socioambiental  AÇÃO SOCIOAMBIENTAL  Comitê  da  Região  Hidrográfica  da  Baía  de  Guanabara  e  Sistemas  Lagunares  de  Maricá  e  Jacarepaguá  COMITÊ DA BAÍA DA GUANABARA  Guardiões  do  Mar  GUARDIÕES DO MAR  Programa  de  Educação  Ambiental  (PREA)  /  Programa  de  Conservação  dos  Saguis-da-Serra  (PCSS)  PREA/PCSS  Projeto  Piabanha  PROJETO PIABANHA  Refauna  R  E  FA  U  N  A  Saberes  -  Projetos  Socioambientais  e  Educacionais  SABERES  The  Nature  Conservancy  TNC   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -4896,21 +4896,21 @@ Ator  /  Atriz  III
 
 60.445.203 GUILHERME OLIVEIRA CANELLAS, CNPJ 60.445.203/0001-13,  com a  artista  GUILHERME CANELLAS,  após avaliação dos critérios estabelecidos na  Portaria Nº 1706 foi atribuído as  habilitações e  material apresentado  a nota  final de  85,00 pontos, obtendo  a  pontuação  necessária  para  aprovação  do  credenciamento. AYLA  PRODUCOES  ARTISTICAS LTDA,  CNPJ  60.926.605/0001-30, com  a artista  AYLA  GABRIELA, após  avaliação  dos critérios  estabe-
 
-/U0049
+I
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 <!-- image -->
 
@@ -4988,17 +4988,17 @@ VII  acompanhar  o  cumprimento,  pelos órgãos  e  entidades,  das  determina�
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 VIII  elaborar  relatório  consolidado  dos  trabalhos  desenvolvidos,  a  ser submetido  ao  Controlador-Geral  do  Estado.
 
@@ -5153,17 +5153,17 @@ Secretário  de  Estado  de  Transformação  Digital
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -5176,31 +5176,31 @@ Secretário  de  Estado  de  Transformação  Digital
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 SECRETARIA DE ESTADO DE TRANSFORMAÇÃO DIGITAL GABINETE DO SECRETÁRIO
 
@@ -5229,41 +5229,41 @@ Id:  2729814
 - Art.  6º -No  âmbito  da  dimensão Uso  e  Gestão  de Dados,  serão  desenvolvidas  capacidades  relacionadas  a:
 - I  coleta, organização  e  interpretação  de  dados; II  cruzamento  de informações  para apoio  à decisão; III  utilização  de indicadores  para acompanhamento de  serviços e  processos; IV  incorporação  do uso de dados  na melhoria  contínua das políticas  e serviços. V  utilização das plataformas  institucionais de  dados do Estado,  a exemplo  do Dados RJ  e do Portal de  Dados Abertos, para análise,  gestão e disseminação  de  informações.
 
-/U0033/U0036
+36
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U0030/U0037/U0030
+070
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0030
+20
 
 Art.  7º - No âmbito  da dimensão Proteção  de Dados Pessoais,  o desenvolvimento das capacidades observará a Lei Federal nº 13.709/2018 e  o Decreto  Estadual nº  48.891/2024, especialmente quanto  à compreensão  e  aplicação dos  princípios  da legislação  de proteção  de dados  pessoais, à  identificação  e avaliação  de riscos  no tratamento de  dados, à  adoção de  práticas seguras  no uso  de dados e à articulação entre as  áreas envolvidas no tratamento de dados pessoais.
 
@@ -5455,9 +5455,9 @@ Art.  11  -  São  atribuições  dos  Membros:
 - III  -  Apresentar  recomendações  ou  outras  proposições  em  prol  do  desenvolvimento  da  Política  Estadual  de  Simplificação  (Simplifica  RJ);
 - IV  -  Solicitar  votação  de  matéria  em  regime  de  urgência;
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 V  -  Pedir  vistas  em  assuntos  submetidos  à  análise,  quando  julgar  necessário;
 
@@ -5537,17 +5537,17 @@ II -Ser  propostas, de maneira preventiva ou  corretiva, preliminar ou definitiv
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Capítulo  III Dos Comitês e Grupos de Trabalho
 
@@ -5624,41 +5624,41 @@ Art.  31 -  Compete  à  Secretaria Executiva  do  Fórum  Estadual de  Simplifi
 
 I  -  Realizar  o  planejamento  das  atividades  do  Fórum,  em  consonância com as orientações  do  Presidente  e  dos  demais  membros  do  Fórum;
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0033/U0037
+37
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0037/U0030
+070
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0032/U0030
+20
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
 - II  Estabelecer  comunicação  permanente com  membros  do Fórum  e integrantes  dos  Comitês  e  dos  grupos  de  trabalho,  no  intuito  de  mantê-los devidamente  informados e orientados para  a adequada execução  do  trabalho;
 - III -  Redigir as  atas das  reuniões do Fórum,  contendo a  data, local, hora  de  início  e término,  os  presentes,  a  Ordem  do Dia,  as  deliberações  tomadas  e  os  encaminhamentos  definidos;
@@ -5836,17 +5836,17 @@ Id:  2729910
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ## SECRETARIA DE ESTADO DE INFRAESTRUTURA E OBRAS PÚBLICAS
 
@@ -6066,17 +6066,17 @@ EXONERA, RODRIGO DE SOUZA RICHA, ID Funcional nº 43944809,  com validade  a con
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 EXONERAR LUCAS DA COSTA MOREIRA, ID Funcional nº 5171939-8, com validade a contar de 15 de abril de 2026, do cargo em comissão de Assistente III, símbolo DAI-5, do Instituto de Segurança Pública,  da  Secretaria  de  Estado  de  Segurança  Pública.  Processo  SEI-090002/000161/2026.
 
@@ -6142,39 +6142,39 @@ NOMEIA VANESSA CAMPAGNAC DA SILVA BARROS, ID  Funcional nº  4336695-3,  com  va
 
 Id:  2729529
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037/U0030
+070
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0033/U0039
+39
 
-/U002D
+-
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA INSTITUTO DE SEGURANÇA PÚBLICA
 
@@ -6371,17 +6371,17 @@ Registra-se que qualquer informação necessária poderá ser obtida pelo legít
 
 Id:  2729646
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Fazenda
 
@@ -6503,17 +6503,17 @@ gação  no  Portal  Nacional  de  Contratações  Públicas
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 VALOR TOTAL: R$ 289.451,00 (duzentos  e oitenta e nove  mil quatrocentos  e  cinquenta  e  um  reais)
 
@@ -6683,25 +6683,25 @@ INSTRUMENTO: Termo  de  Ajuste  de  Contas  06/2026. PARTES: Secretaria  de Esta
 
 OBJETO: Liquidação e  pagamento de  despesa, devidos  à empresa ABMR  Conservadora  de  Elevadores  Ltda,  referente  à  prestação  de serviços  técnicos de  manutenção preventiva  e corretiva  dos 07  (sete) Elevadores do Hospital Central da  Polícia Militar, por equipe de sobreaviso e/ou prontidão,  mediante  deslocamento  de técnico,  para atender as demandas  imediatas da Unidade, com  cobertura total de
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0049
+I
 
-/U0030/U0037/U0030
+070
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U006F
+o
 
 peças por meio de verba pré definida em contrato, além de ferramentas,  equipamentos  e  materiais  de  consumo  necessários  para  a  execução  do  serviço  nos  equipamentos instalados,  realizados  no  período de  27  de  outubro  de  2025  a  26  de  novembro  de  2025. VALOR TOTAL: R$  3.600,00(três  mil  e  seiscentos  reais).
 
@@ -6808,39 +6808,39 @@ PROCESSO ADMINISTRATIVO Nº SEI-210098/000281/2023.
 
 Id:  2729711
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0037/U0030
+070
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0032/U0030
+20
 
 ## SECRETARIA DE ESTADO DE POLÍCIA PENAL SUBSECRETARIA DE ADMINISTRAÇÃO
 
@@ -6968,17 +6968,17 @@ Id:  2729848
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE SAÚDE
 
@@ -7070,17 +7070,17 @@ I  N S  T  R  U  M  E  N  TO  : Termo  de  Ajuste  de  Contas  nº  877/2026. PA
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 I  N S  T  R  U  M  E  N  TO  : Termo  de  Ajuste  de  Contas  nº  905/2026. PA  R  T  E  S  : Fundação Saúde do Estado do Rio de Janeiro e a empresa ACCESS GESTÃO  DE  DOCUMENTOS  LTDA. O  B  J  E  TO  : Tem  por  objeto  a  indenização pela prestação de serviços  de guarda de prontuário médico, para  o Centro Estadual de  Diagnóstico por Imagem -  CEDI, no período  de  01/02/2026  a  28/02/2026, conforme  solicitado  e  comprovado através  da apresentação  das notas fiscais  devidamente atestadas, tendo  sua viabilidade  jurídica confirmada  pelo Parecer  n.º 1259 (SEI-129380643). VALOR TOTAL: R$ 751,29  (setecentos e  cinquenta e  um reais  e vinte  e nove  centavos). F  U  N  D  A  M  E  N  TO  : Decidido  no processo  administrativo  SEI-080002/008340/2026. DATA  DA  ASSINATURA: 15/04/2026.
 
@@ -7371,17 +7371,17 @@ A COORDENADORIA DE SEGURANÇA ALIMENTAR ,  no  uso  de  suas  atribuições  e  
 | D  ATA  CAFÉ DA MANHÃ  LANCHE  ALMOÇO/JANTAR (EJA, INTEGRAL, REGULAR)  01/05 - SEX  FERIADO  04/05 - SEG  Café  com  leite  e  pão  careca  com  requeijão  Iogurte  e  maçã  Salada de  alface,  ensopadinho  de  frango  com  cenoura,  arroz,  feijão  carioca.  05/05 - TER  Leite  batido  com  banana  e  aveia  Café  com  leite  e  pão  francês  com  margarina  Couve refogada, iscas de carne acebolada, arroz, feijão.  Sobremesa: Fruta.  06/05 - QUA  Suco de caju e pão de forma com  queijo muçare-  la  Iogurte  banana  Salada  de  alface  e  tomate,  Isca  de  frango,  farofa  de  ovos,  arroz,  feijão.  07/05 - QUI  Iogurte  e  banana  Suco  de  uva  e  biscoito  salgado  tipo  cream  cracker  Ensopadinho  de  moela  com  batata,  arroz,  feijão.  Sobremesa:  Fruta.  08/05 - SEX  Leite  batido  com  banana,  mamão  e  aveia  Iogurte  e  mamão  Salada de pepino, frango desfiado ao molho, abobrinha refogada, macarrão parafuso ao alho  e  óleo,  feijão.   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 20 - COLÉGIO MV1 CAMPO GRANDE - Rio de Janeiro ENSINO MÉDIO Processo  nº  SEI-030001/028764/2026 Fabiane  Almeida  Cerqueira  -  2000
 
@@ -7490,17 +7490,17 @@ Kaique  Pinheiro  Rodrigues  -  2022
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 11/05 - SEG  Café  com  leite  e biscoito  doce tipo  maria  Suco de  maracujá  e  pão  francês  com  muçarela  Cenoura  ralada, ovos  mexidos  com  cheiro  verde,  arroz  e  feijão.  Sobremesa:  Fruta.  12/05 - TER  Suco  de  manga e pão francês com queijo  minas  Leite  batido  com  abacate  Salada  verde,  carne  picadinha  ensopada  com  aipim,  arroz,  feijão.  13/05 - QUA  Mingau  de  aveia  Iogurte e maçã  Salada  de  alface  e  tomate,  isca  de  fígado  acebolada,  purê  de  batata,  arroz,  feijão.  14/05 - QUI  Iogurte  e  mamão  Mingau  de  aveia  Salada verde, risoto de frango com cenoura, feijão.  Sobremesa: Fruta.  15/05 - SEX  Leite  batido  com  banana  e  aveia  Iogurte  e  biscoito  salgado  tipo  cream  cracker  Filé de peixe ao molho, pirão, arroz, feijão. Sobremesa:  Doce de leite.  18/05 - SEG  Suco  de  goiaba  e  pão  careca  com  requeijão  Iogurte  e  maçã  Salada  de  pepino,  iscas  de  frango  ao  sugo,  macarrão  padre  nosso  ao  alho  e  óleo,  feijão.  19/05 - TER  Leite  batido  com  banana  e  aveia  Café  com  leite  e  pão  de  forma  com  margarina  Sobrecoxa assada,  quibebe, arroz,  feijão. Sobremesa:  Fruta.  20/05 - QUA  Mingau de fubá  Leite  batido  com  abacate  Cenoura  ralada,  pernil  suíno  ao  cubo,  farofa  de  couve,  arroz,  feijão.  21/05 - QUI  Café  com  leite  e  biscoito  doce  tipo  rosquinha  Mingau  de  aveia  Salada  verde,  estrogonofe  de  carne,  batata  sauté,  arroz,  feijão.  22/05 - SEX  Iogurte  e  mamão  Café  com  leite e biscoito doce tipo rosquinha  Repolho  refogado,  Iscas de frango ao sugo, arroz, feijão.  Sobremesa:  Fruta.  25/05 - SEG  Café  com  leite e minibolo sem recheio  Suco de caju e pão francês com queijo prato  Salada  de alface  e pepino, carne de panela, macarrão padre  nosso ao alho e óleo, feijão.  26/05 - TER  Suco  de  uva  e  pão  francês  com  queijo  muçarela  Leite  com achocolatado e biscoito salgado tipo cream cra-  cker  Salada  de  tomate,  risoto  de  frango  com  cenoura,  arroz,  feijão.  Sobremesa:  Fruta.  27/05 - QUA  Mingau de maisena  com  canela  Iogurte e mamão  Iscas  de  fígado à lisboeta,  abóbora  com  cheiro  verde,  arroz,  feijão.  28/05 - QUI  Iogurte  e  maçã  Leite  batido  com  abacate  Salada  verde,  sobrecoxa  assada,  berinjela  refogada,  arroz,  feijão  carioca.  29/05 - SEX  Leite  batido  com  banana  e  aveia  Café  com  leite  e  biscoito  doce  tipo  maria  Salada  de  alface,  filé  de  peixe  ao  molho,  pirão,  arroz,  feijão.  Sobremesa:  Fruta.  *Os cardápios poderão sofrer alterações em razão do abastecimento, sazonalidade e custo dos alimentos. Essas alterações devem ser feitas dentro dos grupos alimentares e não podem prejudicar o valor  nutricional das refeições, segundo as recomendações da Resolução SEEDUC nº 6379/2025. Sugerimos a aquisição de frutas da estação e/ou ofertadas pela Agricultura F  a  m  i  l  i  a  r.   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7540,39 +7540,39 @@ RT Lívia Ribera Souza CRN-4 11100469 QT Vanessa O. Adriano CRN-4 17101309
 | D  ATA  CAFÉ DA MANHÃ  LANCHE  ALMOÇO/JANTAR (EJA, INTEGRAL, REGULAR)  01/05 - SEX  FERIADO  04/05 - SEG  Café  com  leite  desnatado  e  pão  integral  com  re-  queijão  Iogurte  desnatado  +  fruta  Salada de  alface,  ensopadinho  de  frango  com  cenoura,  arroz  integral,  feijão  carioca.  05/05 - TER  Leite  desnatado  batido  com  fruta  e  aveia  Café  com  leite  desnatado  e  pão  integral  com  margarina Couve  refogada,  iscas de carne acebolada, arroz  integral,  feijão.  Sobremesa:  Fruta.  06/05 - QUA  Café e pão integral com  queijo  muçarela  Iogurte  desnatado  +  fruta  Salada  de  alface  e  tomate,  Isca  de  frango,  arroz  integral,  feijão.  07/05 - QUI  Iogurte  desnatado  +  fruta  Café  e  biscoito  integral  Ensopadinho  de  moela  com  cenoura,  arroz  integral,  feijão.  Sobremesa:  Fruta.  08/05 - SEX  Leite  desnatado  batido  com  frutas  e  aveia  Iogurte  desnatado  +  fruta  Salada de pepino, frango desfiado ao molho, abobrinha refogada, macarrão integral ao alho  e  óleo,  feijão.  11/05 - SEG  Café  com  leite  desnatado e  biscoito  integral  Café e pão integral com  queijo  muçarela  Cenoura  ralada, ovos  mexidos  com  cheiro  verde,  arroz  integral  e  feijão.  Sobremesa:  Fruta.  12/05 - TER  Café e pão integral com queijo  minas  Leite  desnatado  batido  com  fruta  Salada  verde,  carne  picadinha  ensopada  com  espinafre,  arroz  integral,  feijão.  13/05 - QUA  Mingau  de  aveia  dietético  Iogurte  desnatado  +  fruta  Salada de alface e tomate,  isca  de  fígado  acebolada,  purê de abóbora, arroz  integral,  fei-  jão.  14/05 - QUI  Leite  desnatado  batido  com  fruta  Mingau  de  aveia  dietético  Salada verde, risoto de frango com cenoura  (com  arroz  integral), feijão.  Sobremesa: Fruta.  15/05 - SEX  Leite  desnatado  batido  com  frutas  e  aveia  Iogurte  desnatado  e  biscoito  integral  Filé  de peixe ao molho, abobrinha  refogada, arroz  integral, feijão. Sobremesa:  Fruta.  18/05 - SEG  Café  com  leite  desnatado  e  pão  integral  com  re-  queijão  light  Iogurte  desnatado  +  fruta  Salada  de  pepino,  iscas  de  frango  ao  sugo,  macarrão  integral  ao  alho  e  óleo,  feijão.  19/05 - TER  Leite  desnatado  batido  com  frutas  e  aveia  Café  com  leite  desnatado  e  pão  integral  com  margarina Sobrecoxa  assada,  quibebe, arroz  integral,  feijão. Sobremesa:  Fruta.  20/05 - QUA  Mingau  de  aveia  dietético  Leite  desnatado  batido  com  fruta  Cenoura  ralada,  pernil  suíno  ao  cubo,  couve  refogada,  arroz  integral,  feijão.  21/05 - QUI  Café  com  leite  desnatado  e  biscoito  integral  Mingau  de  aveia  dietético  Salada  verde,  ensopadinho  de  carne  com  cenoura,  arroz  integral,  feijão.  22/05 - SEX  Iogurte  desnatado  +  fruta  Café  com  leite  desnatado e  biscoito  integral  Repolho  refogado,  Iscas  de frango ao sugo, arroz  integral,  feijão.  Sobremesa:  Fruta.  25/05 - SEG  Leite  desnatado  batido  com  frutas  e  aveia  Café e pão integral com queijo  prato  Salada  de alface  e pepino, carne de panela, macarrão integral ao alho e óleo, feijão.  26/05 - TER  Café com leite desnatado e pão integral com queijo  muçarela  Leite  desnatado  batido  com  fruta  Salada  de  tomate,  risoto  de  frango  com  cenoura  (com  arroz  integral),  arroz,  feijão.  Sobre-  mesa:  Fruta.  27/05 - QUA  Mingau de maisena  com  canela  Iogurte  desnatado  +  fruta  Iscas  de  fígado à lisboeta,  abóbora  com  cheiro  verde,  arroz  integral,  feijão.  28/05 - QUI  Iogurte  desnatado  +  fruta  Leite  desnatado  batido  com  fruta  Salada  verde,  sobrecoxa  assada,  berinjela  refogada,  arroz  integral,  feijão  carioca.  29/05 - SEX  Leite  desnatado  batido  com  frutas  e  aveia  Café  com  leite  desnatado  e  biscoito  integral  Salada de  alface,  filé  de  peixe  ao  molho,  espinafre  refogado,  arroz  integral,  feijão.  Sobre-  mesa:  Fruta.   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0037/U0030
+070
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA COORDENADORIA DE INSPEÇÃO ESCOLAR NORTE FLUMINENSE COLÉGIO ESTADUAL NILO PEÇANHA
 
@@ -7608,17 +7608,17 @@ O DIRETOR DO CIEP BRIZOLÃO 386 GUILHERME DA SILVEIRA FILHO, Censo Escolar  nº 
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 *As orientações para adaptação dos cardápios com o intuito de atender aos alunos com diabetes encontram-se no Manual de Fichas Técnicas enviado mensalmente junto com os cardápios e suas respectivas informações nutricionais. Sugerimos a aquisição de frutas da estação e/ou ofertadas pela Agricultura F  a  m  i  l  i  a  r.
 
@@ -7845,17 +7845,17 @@ VALOR: R$ 199.703,24 (cento e noventa e nove mil setecentos e três
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 reais  e  vinte  e  quatro  centavos). N.E: 2026NE00449. G  E S  TO R  : Vinícius  da  Cunha  Lisboa  -  matrícula  nº  38.361-2. FISCAIS: Maluah Tostes de Carvalho - matrícula nº 41.197-5 e Lorena Viannay  Corrêa  -  matrícula  nº  41.536-4. NOMEAÇÃO : Portaria  nº  HUPE/2592/2026. DATA DA ASSINATURA: 24  de  março  de  2026. FUNDAMENTAÇÃO DA DESPESA: Artigo 74 - Inciso I da Lei Federal nº  14.133/2021.
 
@@ -8017,19 +8017,19 @@ Id: 2728490
 
 NOME:  Marcos Gomes  Fernandes Massa  CNPJ: 43.712.428/0001-70 ENDEREÇO: Avenida Oceânica, 216  Itaúna -Saquarema INFRAÇÃO:  Art. 76  Ins.  II da  Lei nº  3.467  de 14/09/2000.  PENALIDADE: Multa Simples Valor: R$ 2.224,18 PROCESSO Nº: SEI070002/004549/2026
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## AUTO DE INFRAÇÃO Nº INEA/SUPLAJAI/343/2026
 
@@ -8093,17 +8093,17 @@ INSTRUMENTO: Terceiro Termo  Aditivo ao  Contrato nº  010/2023. PARTES: A  Empr
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 8.666/93,  com fundamento  no art.71,  da Lei  Federal n.º  13.303/16, e no Parágrafo Primeiro  da Cláusula Segunda do  Contrato, bem como correção de  erro material constante  no Parágrafo Segundo  da Cláusula  Terceira  do  Segundo  Termo  Aditivo  e  a  aplicação  do  reajuste contratual, com fundamento no artigo 69, inciso III, da Lei 13.303/2016, e no  Parágrafo Oitavo da Cláusula  Nona do Contrato. PRAZO :  12  (doze)  meses,  com  início  em  20  de  abril  de  2026  e  término previsto  para  19  de  abril  de  2027,  dando-se  ao  contrato  o  prazo total de 48  (quarenta e oito) meses. VALOR: R$  44.383,32  (quarenta e quatro  mil trezentos e  oitenta e três reais  e trinta e  dois centavos), totalizando  o contrato  o  valor de  R$ 165.741,48  (cento  e sessenta  e cinco  mil  setecentos e  quarenta  e  um reais  e  quarenta  e oito  centavos). PROCESSO SEI020003/000089/2026. DATA DE ASSINATURA: 14/04/2026.
 
@@ -8326,17 +8326,17 @@ CONTROLADORIA GERAL DO ESTADO CORREGEDORIA GERAL DO ESTADO SUPERINTENDÊNCIA DE 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 neiro -RJ  Telefone: (21) 2333-1887  e-mail: fesilva@cge.rj.gov.br, rrnunes@cge.rj.gov.br;  acoliveira@cge.rj.gov.br; wfirmino@cge.rj.go  v.  b  r, no horário das 10:00 as 15:00 horas, no prazo de 10 dias, a partir da última  publicação,  quando  terá  vista  dos  autos  na  Sede  da  Comissão, a  fim  de  apresentar  DEFESA  ESCRITA,  em 2  vias,  sob  pena  de  REVELIA,  por  transgressão  ao  artigo  52, VI  do  Decreto-Lei  nº  220/1975, regulamentado  pelo Decreto  2479/79,  alterado pela  nova redação  da Lei  Complementar 85/96  por  ter  cometido FALTAS  INTERPOLADAS, no  período compreendido  entre  03/05/2023 e 03/04/2024,  conforme consulta  ao  SIGRH,  como  foi  verificado  nos  autos. Id: 2729882
 
@@ -8419,7 +8419,7 @@ Id: 2729876
 
 O AGENTE  DE CONTRATAÇÃO  DA SECRETARIA  DE ESTADO DAS CIDADES comunica aos  interessados  que  as licitações  nas  modalidades  Concorrências  Públicas:
 
-/U0049
+I
 
 PA  R T  E S  : Empresa de  Obras  Públicas  do Estado  do  Rio  de Janeiro  EMOP-RJ e  o Estado do  Rio de Janeiro  por meio da  Secretaria de Estado  de  Polícia  Civil  -  SEPOL.
 
@@ -8587,16 +8587,16 @@ Id: 2729919
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->

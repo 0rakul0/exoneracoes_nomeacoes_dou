@@ -30,8 +30,10 @@ python -m pip install -r requirements.txt
 Rode o coletor:
 
 ```powershell
-python main.py
+.\.venv\Scripts\python.exe main.py
 ```
+
+Esse comando usa diretamente o Python da `.venv` do repositorio, mesmo que o ambiente virtual nao esteja ativado no terminal.
 
 O `main.py` nao recebe argumentos. A lista de UFs a coletar fica em `STATES_TO_COLLECT`, dentro do proprio arquivo. Para `RJ`, ele procura as datas da IOERJ da mais recente para a mais antiga e percorre as edicoes disponiveis do caderno de Poder Executivo. Para cada edicao, reutiliza o Markdown quando ele ja existe; quando precisa converter, reaproveita PDFs em `.cache/diarios` antes de baixar novamente. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
 
@@ -71,15 +73,17 @@ nome_parse_confiavel
 
 As chaves ficam em `diarios_oficiais/config.py`: `ENABLE_SPACY_VALIDATION`, `SPACY_MODEL` e `SPACY_MODE`. O modo padrao e `annotate`, que apenas anota a validacao sem bloquear a coleta.
 
-Por padrao, o Docling usa o texto embutido no PDF, sem OCR, para manter a coleta mais rapida. Para edicoes escaneadas, altere a constante `ENABLE_OCR` em `diarios_oficiais/config.py`.
+Por padrao, o Docling tenta primeiro usar o texto embutido no PDF, sem OCR, para manter a coleta mais rapida. Se `PRELOAD_OCR_MODELS = True`, o conversor OCR e carregado antes da coleta comecar, evitando baixar/carregar pesos no meio do processamento. Se o texto extraido for insuficiente e `ENABLE_OCR = True`, a mesma edicao e convertida novamente com OCR. Os limites desse fallback ficam em `OCR_FALLBACK_MIN_CHARS` e `OCR_FALLBACK_MIN_CHARS_PER_PAGE`.
+Quando `USE_DOCLING = True`, o PDF e dividido em blocos antes da conversao para reduzir uso de memoria. O tamanho do bloco fica em `DOCLING_PAGE_CHUNK_SIZE`.
 
 As configuracoes compartilhadas de coleta, cache, saida, Docling e parse em blocos ficam em `diarios_oficiais/config.py`. A classe base para novos extratores fica em `diarios_oficiais/base.py`.
+Os regex compartilhados entre extratores ficam em `diarios_oficiais/utils_regex/common.py`; os detalhes especificos de cada fonte ficam em modulos proprios na mesma pasta, como `diarios_oficiais/utils_regex/rj_ioerj.py`.
 
 ## Fluxo
 
 ```mermaid
 flowchart TD
-    A["python main.py"] --> B["main.py percorre STATES_TO_COLLECT"]
+    A[".\\.venv\\Scripts\\python.exe main.py"] --> B["main.py percorre STATES_TO_COLLECT"]
     B --> C["Reporta PyTorch/CUDA disponivel"]
     C --> D["Busca calendario da IOERJ"]
     D --> E["Ordena datas do DOERJ do mais recente ao mais antigo"]
@@ -110,11 +114,32 @@ flowchart TD
 | `caderno` | Caderno/secao da edicao. |
 | `tipo_ato` | `nomeacao` ou `exoneracao`. |
 | `nome` | Nome extraido do ato. |
+| `id_funcional` | ID funcional extraido do ato, quando existir. |
+| `assinante` | Nome de quem assina o ato, quando detectado. |
+| `cargo_assinante` | Cargo usado na assinatura. |
+| `categoria_assinante` | Categoria numerica do cargo de assinatura. |
 | `cargo` | Cargo ou funcao, quando detectado. |
 | `orgao` | Orgao, quando detectado. |
 | `trecho` | Trecho usado para justificar a extracao. |
 | `fonte_url` | URL da pagina oficial consultada. |
 | `arquivo_markdown` | Caminho do Markdown gerado pelo Docling. |
+
+## Categoria do Assinante
+
+| Categoria | Cargo |
+| --- | --- |
+| `1` | Governador |
+| `2` | Governador em exercicio |
+| `3` | Diretor-Presidente |
+| `4` | Secretario de Estado |
+| `5` | Secretario |
+| `6` | Presidente |
+| `7` | Diretor-Geral |
+| `8` | Diretor ou Diretora |
+| `9` | Subsecretario |
+| `10` | Superintendente |
+| `11` | Chefe de Gabinete |
+| `12` | Coordenador ou Coordenadora |
 
 ## Analises temporais
 

@@ -2,16 +2,22 @@ from __future__ import annotations
 
 import sys
 import time
+import re
 from dataclasses import dataclass
 from datetime import date
+from datetime import datetime
 from functools import lru_cache
 from pathlib import Path
+from tempfile import TemporaryDirectory
 from typing import Any, Iterable
 
 import requests
 import pandas as pd
 
 from diarios_oficiais import config
+
+
+UNICODE_ESCAPE_RE = re.compile(r"/U([0-9A-Fa-f]{4})")
 
 
 @dataclass(frozen=True)
@@ -29,11 +35,15 @@ class Act:
     section: str
     action_type: str
     person_name: str
+    functional_id: str
     role: str
     agency: str
     excerpt: str
     source_url: str
     text_path: str
+    signer_name: str = ""
+    signer_role: str = ""
+    signer_category: str = ""
     spacy_person: str = ""
     spacy_entities: str = ""
     name_parse_reliable: str = ""
@@ -69,6 +79,15 @@ def get_docling_converter(enable_ocr: bool = False):
     return DocumentConverter(
         format_options={InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options)}
     )
+
+
+def preload_ocr_models() -> None:
+    if not config.USE_DOCLING or not config.ENABLE_OCR or not config.PRELOAD_OCR_MODELS:
+        return
+
+    print("Carregando modelos OCR antes da coleta...", file=sys.stderr)
+    get_docling_converter(enable_ocr=True)
+    print("Modelos OCR carregados.", file=sys.stderr)
 
 
 @lru_cache(maxsize=2)
@@ -107,6 +126,7 @@ class BaseGazetteCollector:
 
     markdown_parse_block_size = config.MARKDOWN_PARSE_BLOCK_SIZE
     markdown_parse_overlap_size = config.MARKDOWN_PARSE_OVERLAP_SIZE
+    docling_page_chunk_size = config.DOCLING_PAGE_CHUNK_SIZE
     enable_spacy_validation = config.ENABLE_SPACY_VALIDATION
     spacy_model_name = config.SPACY_MODEL
     spacy_mode = config.SPACY_MODE
@@ -157,19 +177,85 @@ class BaseGazetteCollector:
         if not config.USE_DOCLING:
             markdown = self.extract_pdf_text_to_markdown(pdf_path)
         else:
-            converter = get_docling_converter(enable_ocr=self.enable_ocr)
             try:
-                result = converter.convert(str(pdf_path))
-                markdown = result.document.export_to_markdown()
+                markdown = self.convert_pdf_to_markdown_with_docling_chunks(pdf_path, enable_ocr=False)
+                if self.enable_ocr and self.markdown_needs_ocr(markdown, pdf_path):
+                    print(
+                        f"Texto embutido insuficiente em {pdf_path.name}; acionando OCR...",
+                        file=sys.stderr,
+                    )
+                    markdown = self.convert_pdf_to_markdown_with_docling_chunks(pdf_path, enable_ocr=True)
             except Exception as exc:
                 print(
                     f"Docling falhou em {pdf_path.name}; usando extracao simples com pypdf: {exc}",
                     file=sys.stderr,
                 )
                 markdown = self.extract_pdf_text_to_markdown(pdf_path)
+        markdown = self.clean_markdown_text(markdown)
         markdown_path.parent.mkdir(parents=True, exist_ok=True)
         markdown_path.write_text(markdown, encoding="utf-8")
         return markdown
+
+    def clean_markdown_text(self, markdown: str) -> str:
+        return UNICODE_ESCAPE_RE.sub(
+            lambda match: chr(int(match.group(1), 16)),
+            markdown,
+        )
+
+    def markdown_needs_ocr(self, markdown: str, pdf_path: Path) -> bool:
+        text = re.sub(r"<!--.*?-->", " ", markdown, flags=re.S)
+        text = re.sub(r"\s+", "", text)
+        if len(text) < config.OCR_FALLBACK_MIN_CHARS:
+            return True
+
+        try:
+            from pypdf import PdfReader
+        except ImportError:
+            return False
+
+        try:
+            page_count = max(1, len(PdfReader(str(pdf_path)).pages))
+        except Exception:
+            return False
+
+        return len(text) < page_count * config.OCR_FALLBACK_MIN_CHARS_PER_PAGE
+
+    def convert_pdf_to_markdown_with_docling_chunks(self, pdf_path: Path, enable_ocr: bool) -> str:
+        try:
+            from pypdf import PdfReader
+            from pypdf import PdfWriter
+        except ImportError as exc:
+            raise RuntimeError("pypdf nao esta instalado; nao foi possivel dividir PDF em blocos.") from exc
+
+        chunk_size = max(1, int(self.docling_page_chunk_size))
+        reader = PdfReader(str(pdf_path))
+        page_count = len(reader.pages)
+        converter = get_docling_converter(enable_ocr=enable_ocr)
+        markdown_parts: list[str] = []
+        self.cache_dir.mkdir(parents=True, exist_ok=True)
+
+        with TemporaryDirectory(prefix=f"{pdf_path.stem}_docling_", dir=self.cache_dir) as temporary_dir:
+            temporary_root = Path(temporary_dir)
+            for start in range(0, page_count, chunk_size):
+                end = min(start + chunk_size, page_count)
+                chunk_path = temporary_root / f"{pdf_path.stem}_p{start + 1:04d}_{end:04d}.pdf"
+                writer = PdfWriter()
+                for page_index in range(start, end):
+                    writer.add_page(reader.pages[page_index])
+                with chunk_path.open("wb") as file:
+                    writer.write(file)
+
+                print(
+                    f"Docling {pdf_path.name}: paginas {start + 1}-{end} de {page_count} "
+                    f"({'OCR' if enable_ocr else 'texto embutido'})",
+                    file=sys.stderr,
+                )
+                result = converter.convert(str(chunk_path))
+                chunk_markdown = result.document.export_to_markdown().strip()
+                if chunk_markdown:
+                    markdown_parts.append(f"<!-- paginas {start + 1}-{end} -->\n\n{chunk_markdown}")
+
+        return "\n\n".join(markdown_parts).strip()
 
     def extract_pdf_text_to_markdown(self, pdf_path: Path) -> str:
         try:
@@ -220,7 +306,11 @@ class BaseGazetteCollector:
 
     def load_or_create_markdown(self, edition: Edition, markdown_path: Path) -> str:
         if markdown_path.exists():
-            return markdown_path.read_text(encoding="utf-8")
+            markdown = markdown_path.read_text(encoding="utf-8")
+            cleaned_markdown = self.clean_markdown_text(markdown)
+            if cleaned_markdown != markdown:
+                markdown_path.write_text(cleaned_markdown, encoding="utf-8")
+            return cleaned_markdown
 
         temporary_pdf_path = self.cache_dir / self.state / f"{markdown_path.stem}.pdf"
         if not temporary_pdf_path.exists():
@@ -255,6 +345,24 @@ class BaseGazetteCollector:
         marker_path = self.year_complete_marker_path(year)
         marker_path.parent.mkdir(parents=True, exist_ok=True)
         marker_path.write_text("complete\n", encoding="utf-8")
+
+    def record_collection_failure(self, edition: Edition, stage: str, error: Exception) -> None:
+        path = self.lake_dir / self.state / f"{edition.publication_date:%Y}" / "falhas_coleta.csv"
+        path.parent.mkdir(parents=True, exist_ok=True)
+        row = pd.DataFrame(
+            [
+                {
+                    "timestamp": datetime.now().isoformat(timespec="seconds"),
+                    "data_publicacao": edition.publication_date.isoformat(),
+                    "caderno": edition.section,
+                    "etapa": stage,
+                    "url": edition.url,
+                    "erro": str(error),
+                }
+            ]
+        )
+        header = not path.exists()
+        row.to_csv(path, mode="a", header=header, index=False, encoding="utf-8", lineterminator="\n")
 
     def validate_person_name_with_spacy(self, person_name: str) -> tuple[str, str, str]:
         if not self.enable_spacy_validation:
@@ -303,6 +411,10 @@ class BaseGazetteCollector:
             "caderno",
             "tipo_ato",
             "nome",
+            "id_funcional",
+            "assinante",
+            "cargo_assinante",
+            "categoria_assinante",
             "spacy_pessoa",
             "spacy_entidades",
             "nome_parse_confiavel",
@@ -337,6 +449,10 @@ class BaseGazetteCollector:
                     "caderno": act.section,
                     "tipo_ato": act.action_type,
                     "nome": act.person_name,
+                    "id_funcional": act.functional_id,
+                    "assinante": act.signer_name,
+                    "cargo_assinante": act.signer_role,
+                    "categoria_assinante": act.signer_category,
                     "spacy_pessoa": spacy_person,
                     "spacy_entidades": spacy_entities,
                     "nome_parse_confiavel": name_parse_reliable,

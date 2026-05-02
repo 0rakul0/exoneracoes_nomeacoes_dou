@@ -209,17 +209,17 @@ Art.  4º -  Modifique-se  o  artigo  3º  da Lei  n.º  5.705,  de  27  de  abr
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Art.  5º -  Fica  revogado  o  §  1º  do  artigo  1º  da  Lei  n.º  5.705,  de  27  de abril  de  2010.
 
@@ -412,13 +412,13 @@ RICARDO COUTO DE CASTRO Governador  em  exercício
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 ANEXO II
 
@@ -447,9 +447,9 @@ ANEXO V
 
 Id:  2731568
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 D  E  C  R  E  TO  DE  28  DE  ABRIL  DE  2026
 
@@ -507,77 +507,77 @@ Rio  de  Janeiro,  28  de  abril  de  2026
 
 RICARDO COUTO DE CASTRO Governador  em  exercício
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0032/U0039
+29
 
-/U002D
+-
 
-/U004E
+N
 
-/U0044/U0045
+DE
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037 /U0034
+07 4
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0033
+3
 
-/U0034
+4
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037 /U0034
+07 4
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0032/U0039
+29
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## D  E  C  R  E  TO  S DE 28 DE ABRIL DE 2026
 
@@ -635,17 +635,17 @@ EXONERAR MARILZA OLIVEIRA  DA  SILVA ,  ID FUNCIONAL  Nº 51199238/2,  do  cargo
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - EXONERAR MONICA MARIA  SANTOS DE  SOUZA , ID  FUNCIONAL Nº  51419300/1, do  cargo em comissão  de Assistente  II, símbolo DAI-6,  da Subsecretaria  de  Políticas Inclusivas,  da  Secretaria de  Estado  da  Casa  Civil.  Processo  nº  SEI-150001/004898/2026.
 
@@ -776,17 +776,17 @@ RODRIGO DIAS COELHO Presidente Id:  2731449
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## DEPARTAMENTO DE TRÂN  S  I  TO  DO E  S  TA  D  O  DO  RIO  DE  JANEIRO DIRETORIA DE ADMINISTRAÇÃO E FINANÇAS
 
@@ -895,85 +895,85 @@ Subsecretária  de  Gestão  Administrativa  e  Financeira
 
 Id:  2731535
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0032/U0039
+29
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
-
-<!-- image -->
+2026
 
 <!-- image -->
 
-/U0044/U004F
+<!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+DO
 
-/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+DO
 
-/U0044/U0045
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+DE
+
+JANEIRO
 
 | Decreto  42683  0  4  /   11  /  1  0  SOCIEDADE MICHELIN DE PARTICIPAÇÕES INDÚSTRIA E COMÉRCIO LTDA.- APROVA O ENQUADRAMENTO DA EMPRESA  SOCIEDADE MICHELIN DE PARTICIPAÇÕES INDÚSTRIA E COMÉRCIO LTDA. NO PROGRAMA DE ATRAÇÃO DE INVESTI-  MENTOS ESTRUTURANTES - RIOINVEST, INSTITUÍDO PELO DECRETO Nº 23.012/1997, PARA UTILIZAR OS RECURSOS DO  FUNDES. E DIFERIMENTO.  31/12/2032  SIM  Arts.  2º  e  3º  Decreto  43457  07/02/12  CONCEDE AO ESTABELECIMENTO INDUSTRIAL ESTABELECIDO OU QUE VENHA A SE ESTABELECER NO ESTADO DO RIO  DE JANEIRO E QUE REALIZAR OPERAÇÕES DE SAÍDA DE ÔNIBUS, CARROCERIAS, SUAS PARTES, PEÇAS E COMPONEN-  TES,  INDUSTRIALIZADOS E/OU FABRICADOS NESSE ESTABELECIMENTO, CRÉDITO PRESUMIDO DE 3% (TRÊS POR CEN-  TO)  SOBRE O VALOR DAS SAÍDAS DAS REFERIDAS MERCADORIAS, EXCETO SOBRE AS SAÍDAS IMUNES E ISENTAS.  31/12/2032  SIM  art.  8º  Decreto  43502  05/03/12  DISPÕE  SOBRE O  ICMS  INCIDENTE NAS  OPERAÇÕES  INTERNAS  E DE  IMPORTAÇÃO  COM COBRE  E  PRODUTOS DE  CO-  BRE.  31/12/2032  NÃO  N/A  Decreto  43503  05/03/12  DISPÕE SOBRE A CONCESSÃO DE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA COBRE E PRODUTOS DE COBRE. CRÉDITO  PRESUMIDO E DIFERIMENTO.  31/12/2032  SIM  Arts.  8º  e  9º  Decreto  43512  09/03/12  REGULAMENTA DA LEI Nº 4.534/2005 , QUE INSTITUIU O FUNDO DE RECUPERAÇÃO ECONÔMICA DOS MUNICÍPIOS FLU-  MINENSES - FREMF, DISPOSTO POR MEIO DO DECRETO Nº 38.787/2006 .  31/12/2032  SIM  Arts.  4º  ao  6º  e  art.  10  Decreto  43879  09/10/12  APROVA O ENQUADRAMENTO DA EMPRESA GERDAU AÇOS LONGOS S/A, INSCRITA NO CNPJ Nº 07.358.761/0001-69 NO  PROGRAMA DE ATRAÇÃO DE INVES- TIMENTOS ESTRUTURANTES - RIOINVEST, INSTITUÍDO PELO DECRETO Nº  23.012/1997,  PARA  FUNDES,  NA  AMPLIAÇÃO  DA  CAPACIDADE DE PRODUÇÃO DA CITADA EM- PRESA, NO SEU ESTABE-  LECIMENTO MATRIZ, COM INSCRIÇÃO ESTADUAL Nº 82.310.797, NOS SEUS ESTABELECIMENTOS FILIAIS COM INSCRI-  ÇÕES ESTADUAIS Nº 85.890.859 E Nº 79.563.544. DIFERIMENTO.  31/12/2032  SIM  art.  3º  Lei  6331  10/10/12  CONCEDE REGIME  ESPECIAL DE TRIBUTAÇÃO,  ATÉ 31  DE DEZEMBRO DE  2032, PARA OS  ESTABELECIMENTOS  FABRI-  CANTES  DE  PRODUTOS  TÊXTEIS, ARTIGOS  DE  TECIDOS,  CONFECÇÃO  DE  ROUPAS  E ACESSÓRIOS  DE  VESTUÁRIO  E  AVIAMENTOS PARA COSTURA. DIFERIMENTO; INEXIGIBILIDADE DE ESTORNO DE CRÉDITO; TRIBUTAÇÃO SOBRE SAÍ- DA.  31/12/2032  SIM  arts.  6º,  I  e  9º,  I  Decreto  44418  02/01/13  CRIA UM TRATAMENTO TRIBUTÁRIO ESPECIAL PARA OS CONTRIBUINTES INTEGRANTES DA CADEIA DE PRODUTOS PLÁS-  TICOS DO ESTADO DO RIO DE JANEIRO. CRÉDITO PRE- SUMIDO; DIFERIMENTO; REDUÇÃO DE BASE DE CÁLCULO.  31/12/2028  SIM  Arts.  4º  e  6º  Decreto  44550  02/01/14  TRANSPORTE  RODOVIÁRIO  INTERMUNICIPAL  DE  PASSAGEIROS  EXECUTADOS MEDIANTE  CONCESSÃO  DO  ESTADO  DO  RIO DE JANEIRO - REDUZ EM 100%) A BASE  DE CÁLCULO DO ICMS NA PRESTAÇÃO DOS SERVIÇOS  DE  TRANSPORTE  RODOVIÁRIO  INTERMUNICIPAL  DE PASSAGEIROS  EXECUTADOS  MEDIANTE  CONCESSÃO DO  ESTADO  DO  RIO DE  JANEI-  RO,  VEDADO O APROVEITAMENTO DE QUAISQUER CRÉDITOS FISCAIS.  31/12/2032  NÃO  N/A  Lei  6662  08/01/14  CONCEDE À  JAGUAR E  LAND ROVER  BRASIL IMPORTAÇÃO  E COMÉRCIO  DE VEÍCULOS  LTDA., EM  SUAS FASES  DE IM-  PLANTAÇÃO,  PRÉ-OPERAÇÃO E  OPERAÇÃO DA  FÁBRICA, DIFERIMENTO;  TRANSFERÊNCIA DE  SALDO CREDOR  ACUMU-  LADO.  31/12/2032  SIM  art.  7º  Decreto  44636  06/03/14  DISPÕE  SOBRE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA INDÚSTRIAS DO SETOR ALIMENTÍCIO. CRÉDITO PRESUMIDO;  D  I  F  E  R  I  M  E  N  TO  .  31/12/2032  SIM  Arts.  2º  e  4º  Decreto  44865  02/07/14  REGULAMENTA  A LEI  Nº  6.821/2014, QUE  DISPÕE SOBRE  A  CRIAÇÃO DO  PROGRAMA  DE INCENTIVO  À PRODUÇÃO  DE  CERVEJAS E CHOPE ARTESANAIS NO ÂMBITO DO ESTADO DO RIO DE JANEIRO.  31/12/2032  NÃO  N/A  Decreto  44868  03/07/14  PRODUÇÃO  DE  BIODIESEL  POR  ESTABELECIMENTO  LOCALIZADO  NO ESTADO  DO  RIO  DE  JANEIRO.  DIFERIMENTO;  TRI-  BUTAÇÃO SOBRE SAÍDA.  31/12/2032  SIM  art.  4º  Decreto  45072  04/12/14  ENQUADRAMENTO DA EMPRESA BMB MODE CENTER - INDÚSTRIA, COMÉRCIO E SERVIÇOS LTDA., INSCRITA NO CNPJ Nº  04.532.167/0001-54,  E INSCRIÇÃO  ESTADUAL  Nº 76.171.769  NO  PROGRAMA DE  ATRAÇÃO  DE INVESTIMENTOS  ESTRUTU-  RANTES -  RIOINVEST, INSTITUÍDO PELO  DECRETO Nº 23.012/1997,  DE 25  DE MARÇO DE  1997, PARA UTILIZAR  OS RE-  CURSOS DO FUNDES. DIFERIMENTO.  31/12/2032  SIM  art.  1º  Lei  6953  05/01/15  CONCEDE  À MAN  LATIN  AMÉRICA  INDÚSTRIA E  COMÉRCIO  DE VEÍCULOS  LTDA.,  EM SUA  FASE  DE  EXPANSÃO E  OPE-  RAÇÃO,  O  SEGUINTE  TRATAMENTO  TRIBUTÁRIO  ESPECIAL  REFERENTE  AO  ICMS,  DIFERIMENTO;  TRANSFERÊNCIA  DE  SALDO CREDOR ACUMULADO.  31/12/2032  SIM  art.  1º,  §  5º,  6º,  7º  e  8º  Lei  7122  03/12/15  ISENTA  DE ICMS  A ENERGIA  ELÉTRICA  GERADA PELO  MICROGERADOR  E MINIGERADOR  PARTICIPANTES DO  SISTEMA  DE COMPENSAÇÃO DE ENERGIA ELÉTRICA, DE QUE TRATA A RESOLUÇÃO NORMATIVA Nº 482, DE 17 DE ABRIL DE 2012  DA ANEEL.  17/12/2025  NÃO  N/A  Decreto  45780  04/10/16  DISPÕE SOBRE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA INDÚSTRIAS DE PRODUTOS DE PAPEL E HIGIENE PESSOAL.  05/10/2032  SIM  art.  4º  Decreto  45781  04/10/16  APROVA O ENQUADRAMENTO DA AMBEV S.A., CNPJ Nº 07.526.557/0063-02 E INSCRIÇÃO ESTADUAL - IE Nº 79.984.582, NO  PROGRAMA DE ATRAÇÃO DE IN- VESTIMENTOS ESTRUTURANTES DO  ESTADO DO RIO DE JANEIRO  -  RIOINVEST,  INS-  TITUÍDO PELO  DECRETO Nº  23.012, DE  25 DE MARÇO  DE 1997,  PARA UTILIZAR OS  RECURSOS DO  FUNDES E  DÁ DI-  F  E  R  I  M  E  N  TO  .  31/12/2032  SIM  art.  4º  Decreto  45782  04/10/16  DISPÕE SOBRE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA ESTABELECIMENTO INDUSTRIAL DA EMPRESA APOLO TUBOS  E  EQUIPAMENTOS S.A.  04/10/2026  SIM  §  3º  do  art.  2º  Lei  7657  02/08/17  PRORROGA, ATÉ 31.12.2032, A VIGÊNCIA DAS LEIS NºS. 6.331/2012 E 4.531/2005.  31/12/2032  NÃO  N/A  Lei  8792  13/04/20  DISPÕE SOBRE CONCESSÃO DE BENEFÍCIOS FISCAIS PARA O SETOR DE CARNES, E DÁ OUTRAS PROVIDÊNCIAS.  31/12/2032  NÃO  N/A  Lei  8922  30/06/20  REVOGA O ART.  8º DA LEI Nº  7.122, DE 03 DE  DEZEMBRO DE 2015 E  ADERE À ISENÇÃO DE  ICMS  NAS  OPERAÇÕES  INTERNAS RELATIVAS À CIRCULAÇÃO DE ENERGIA ELÉTRICA, SUJEITAS A FATURAMENTO SOB O SISTEMA DE COMPEN-  SAÇÃO DE  ENERGIA ELÉTRICA, CONCEDIDA  PELO ITEM 222  DO ANEXO I, DO  DECRETO EXECUTIVO DO  ESTADO DE  MINAS  GERAIS  Nº 43.080,  DE  13  DE  DEZEMBRO  DE 2002,  COM  BASE  NO  § 8º  DA  LEI  COMPLEMENTAR  Nº  160, DE  7  DE  AGOSTO DE 2017 E NA CLÁUSULA DÉCIMA TERCEIRA DO CONVÊNIO ICMS Nº 190/2017.  31/12/2032  NÃO  N/A  Lei  8960  30/07/20  DISPÕE SOBRE A INSTITUIÇÃO DE UM REGIME DIFERENCIADO DE TRIBUTAÇÃO PARA O SETOR METALMECÂNICO, COM  BASE NO § 7º DO ARTIGO 3º DA LEI COMPLEMENTAR Nº 160/2017 COMO TAMBÉM DA CLÁUSULA 12ª DO CONVÊNIO ICMS  Nº  190/2017,  NOS  TERMOS  EM  QUE  ESPECIFICA.  31/12/2032  SIM  art.  16  Lei  9025  25/09/20  DISPÕE  SOBRE  INSTITUIÇÃO  DE UM  REGIME  DIFERENCIADO  DE  TRIBUTAÇÃO  PARA  O SETOR  ATACADISTA,  COM  BASE  NO § 8º  DO ART. 3º DA LEI COMPLEMENTAR Nº 160, DE 7 DE AGOSTO DE 2017, E NA CLÁUSULA DÉCIMA TERCEIRA DO  CONVÊNIO ICMS Nº 190/2017, NOS TERMOS EM QUE ESPECIFICA.  31/12/2032  SIM  Arts.  8º;  16  Lei  9355  15/06/21  ADERE À ALÍQUOTA  DE ICMS  DISPOSTA  NO ARTIGO  75, XXXIX  DO REGULAMENTO  DO  ICMS (RICMS),  DECRETO DO  ES-  TADO DE MINAS GERAIS Nº 43.080,  DE 13 DE DEZEMBRO DE 2002, COM BASE NO § 8º  DO ARTIGO  3º  DA  LEI  COM-  PLEMENTAR Nº 160, DE 7 DE AGOSTO DE 2017 E NA CLÁUSULA DÉCIMA TERCEIRA DO CONVÊNIO ICMS Nº 190/2017.  31/12/2032  NÃO  N/A  Lei  10329  10/04/24  ADERE, COM BASE NO § 8º DO ARTIGO 3º DA LEI COMPLEMENTAR Nº 160, DE 07 DE AGOSTO DE 2017, E NA CLÁUSULA  DÉCIMA TERCEIRA DO CONVÊNIO ICMS Nº 190, DE 15 DE DEZEMBRO DE 2017, À CONCESSÃO DE CRÉDITO PRESUMIDO  DE ICMS DISPOSTO NO ITEM 2, DA PART  31/12/2032  SIM  art.  4º  §  1°  I  Lei  10335  16/04/24  ADERE, COM BASE NO § 8º DO ARTIGO 3º DA LEI COMPLEMENTAR Nº 160, DE 7 DE AGOSTO DE 2017, E NA CLÁUSULA  DÉCIMA  TERCEIRA DO  CONVÊNIO  ICMS Nº  190,  DE 15  DE DEZEMBRO  DE  2017, AO  REGIME  DIFERENCIADO DE  TRIBU-  TAÇÃO PARA CIMENTOS, ARGAMASSAS E CONCRETOS, NÃO REFRATÁRIOS, DISPOSTO NO ARTIGO 17 DA LEI Nº 10.568,  DE 26 DE JULHO DE 2016, DO ESTADO DO ESPÍRITO SANTO.  31/12/2032  NÃO  N/A  Lei  10431  21/06/24  ADERE, COM BASE NO § 8º DO ARTIGO 3º DA LEI COMPLEMENTAR Nº 160, DE 7 DE AGOSTO DE 2017, E NA CLÁUSULA  DÉCIMA  TERCEIRA DO  CONVÊNIO  ICMS Nº  190,  DE 15  DE DEZEMBRO  DE  2017, AO  REGIME  DIFERENCIADO DE  TRIBU-  TAÇÃO  PARA  EMPRESAS CUJA  ATIVIDADE  ECONÔMICA  PRINCIPAL SEJA  IDENTIFICADA  PELO  CÓDI\_GO CNAE  6311-9/00  (TRATAMENTO  DE DADOS,  PROVEDORES DE  SERVIÇOS DE  APLICAÇÃO E  SERVIÇOS DE  HOSPEDAGEM NA  INTERNET),  DISPOSTO NA LEI Nº 10.550, DE 30 DE JUNHO DE 2016, DO ESTADO DO ESPÍRITO SANTO.  31/12/2032  SIM  art.  2º,  §  4º  Lei  10456  16/07/24  ESTABELECE TRATAMENTO TRIBUTÁRIO  ESPECIAL PARA EMPRESAS OU CONSÓRCIOS  RESPONSÁVEIS  POR  PROJETOS  INDEPENDENTES DE USINAS DE GERAÇÃO DE ENERGIA ELÉTRICA NO ESTADO DO RIO DE JANEIRO A PARTIR DO GÁS  N  AT  U  R  A  L  .  31/12/2032  SIM  art.  2º,  I  Lei  10638  26/12/24  INSTITUI REGIME DIFERENCIADO DE TRIBU\_TAÇÃO PARA O SETOR DE EMBALAGEM DE PAPEL E DE PAPELÃO, COM BA-  SE  NO  § 8º  DO  ARTIGO  3º DA  LEI  COMPLEMENTAR  N.  160, DE  7  DE  AGOSTO DE  2017,  E  NA CLÁU\_SULA  DÉCIMA  TER-  CEIRA DO CONVÊNIO ICMS Nº 190/2017  31/12/2032  SIM  art.  2°  parágra-  fo  único,  II  Decreto  26004  10/02/2000 REDUZ A BASE DE CÁLCULO DO ICMS NAS OPERAÇÕES DE IMPORTAÇÃO DE EQUIPAMENTOS DESTINADOS À INFRAES-  TRUTURA DOS AEROPORTOS.  31/12/2032  NÃO  N/A  Decreto  43128  1  0  /   0  8  /   2  0  11 CONCEDE DIFERIMENTO DO ICMS NAS SAÍDAS DE QUEROSENE DE AVIAÇÃO (QAV).  31/12/2025  NÃO  N/A  Decreto  44945  10/09/2014 DISPÕE SOBRE A INCIDÊNCIA DE ICMS NAS OPERAÇÕES COM PRODUTOS CÁRNEOS NO ESTADO DO RIO DE JANEIRO, E  DÁ OUTRAS PROVIDÊNCIAS.  31/12/2032  SIM  art.  2º  Decreto  29365  10/10/2001 INSTITUI O PROGRAMA DE FOMENTO AO DESENVOLVIMENTO DO SETOR MOVELEIRO E DE ARTEFATOS DE DECORAÇÃO  NO ESTADO DO RIO DE JANEIRO - RIOMÓVEIS NO ÂMBITO DO FUNDES.  31/12/2032  SIM  art.  5º  Decreto  29366  10/10/2001 REDUZ  A  BASE  DE  CÁLCULO  DO  ICMS  NAS  OPERAÇÕES DE  SAÍDA  REALIZADAS  COM  PRODUTOS  DA  INDÚSTRIA  MO-  VELEIRA.  31/12/2032  SIM  VER DECRE-  TO  29.365/2001  Lei  5592  10/12/2009 CONCEDE  DIFERIMENTO  À EMPRESA PETRÓLEO  BRASILEIRO S/A - PETROBRAS  E ÀS EMPRESAS  INTEGRANTES DO  COMPLEXO PETROQUÍMICO DO RIO DE JANEIRO - COMPERJ EM SUAS FASES DE IMPLANTAÇÃO, PRÉ-OPERAÇÃO E OPE-  RAÇÃO.  31/12/2032  SIM  Arts.  5º  Decreto  35418  11  /  0  5   /  2   0  0  4 CONCEDE  DE  TRATAMENTO  TRIBUTÁRIO ESPECIAL  PARA  OPERAÇÕES  COM  PERFUME  E  ÁGUA DE  COLÔNIA  DE  QUAL-  QUER TIPO,  DESODORANTE, TALCO, COSMÉTICO  E PRODUTOS  DE TOUCADOR, FABRICADOS  NO ESTADO DO  RIO DE  JANEIRO. DIFERIMENTO; REDUÇÃO DE BASE DE CÁLCULO; TRANSFERÊNCIA DE SALDO CREDOR ACUMULADO.  31/12/2032  SIM  art.  4º  Decreto  35419  11  /  0  5   /  2   0  0  4 DISPÕE SOBRE CRÉDITO ESPECIAL RELATIVAMENTE ÀS OPERAÇÕES DE QUE TRATA O DECRETO Nº 35.418/2004.  31/12/2032  SIM  art.  2º  Decreto  45339  11  /  0  8   /  2   0  1  5 DISPÕE SOBRE A CONCESSÃO DE TRATAMENTO TRIBUTÁRIO ESPECIAL NAS OPERAÇÕES DE AQUISIÇÃO DE MERCA-  DORIAS PARA ATIVO FIXO NA IMPLEMENTAÇÃO DE PRO- JETOS DE BASE NAVAL OFFSHORE NO RIO DE JANEIRO.  31/12/2032  SIM  art.  3º  Decreto  43751  11  /  0  9   /  2   0  1  2 DIFERIMENTO NA IMPORTAÇÃO DE PRODUTO ACABADO POR ESTABELECIMENTO INDUSTRIAL.  31/12/2032  SIM  Arts.  1º,  3º  e  4º  Decreto  43771  11  /  0  9   /  2   0  1  2 DISPÕE SOBRE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA EMPRESAS PRODUTORAS DE PESCADO PROCESSADO E DÁ  OUTRAS PROVIDÊNCIAS.  31/12/2032  SIM  Arts.  4º  e  5º  Decreto  45446  11  /  11  /   2  0  1  5 APROVA A INCLUSÃO DA EMPRESA CERVEJARIA PETRÓPOLIS S/A NO PROGRAMA DE ATRAÇÃO DE INVESTIMENTOS  ESTRUTURANTES - RIOINVEST E DÁ OUTRAS PRO- VIDÊNCIAS E DÁ DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  43922  11  /  1  2   /  2   0  1  2 CONCEDE, NA OPERAÇÃO DE SAÍDA INTERNA, COM DESTINO A CONTRIBUINTE DO IMPOSTO, PROMOVIDA POR INDUS-  TRIAL,  IMPORTADOR, DISTRIBUIDOR OU ATACADISTA, DAS MERCADORIAS RELACIONADAS NOS SUBITENS 28.7, 28.8,  28.9,  28.10,  28.11,  28.12,  28.13,  28.14,  28.15,  28.16,  28.17,  28.18,  28.19,  28.20,  28.21,  28.24,  28.25,  28.26,  28.27,  28.28,  28.29,  28.30,  28.31  E  28.32,  31/12/2032  NÃO  N/A  DO ITEM 28 DO ANEXO I DO LIVRO II DO REGULAMENTO DO ICMS (RICMS/2000) APROVADO PELO DECRETO Nº  27427/2000  ,  DE  17  DE  NOVEMBRO  DE  2000,  REDUÇÃO  DA  BASE  DE  CÁLCULO  DO  ICMS,  DE  FORMA  QUE  A  INCIDÊNCIA  DO IMPOSTO RESULTE NO PERCENTUAL DE 14% (QUATORZE POR CENTO) SOBRE O VALOR DA OPERAÇÃO PRÓPRIA,  SENDO QUE 2% (DOIS POR CENTO) SERÃO DESTINADOS AO FECP.  Decreto  45631  12/04/2016 CONCEDE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA COMPLEXOS EMPRESARIAIS COMPOSTOS DE UNIDADE FABRIL E  CENTRO DE DISTRIBUIÇÃO IMPLANTADOS PARA A PRO- DUÇÃO E COMERCIALIZAÇÃO DE PRODUTOS ELETROPORTÁ-  TEIS  E  DE  UTILIDADES  DOMÉSTICAS.  31/12/2032  SIM  Arts.  3º  e  7º  Decreto  25519  12/08/1999 INSTITUÍDO  O  PROGRAMA DE DESENVOLVIMENTO DAS ESTRUTURAS DE FOMENTO DO ESTADO DO RIO DE JANEIRO -  RIO  FOMENTO, NO ÂMBITO DO FUNDO DE DESENVOLVIMENTO ECONÔMICO E SOCIAL - FUNDES, REGIDO POR ESTE  DECRETO E PELO DECRETO ESTADUAL Nº 22.921, DE 10 DE JANEIRO DE 1997  31/12/2032  SIM  art.  1º  Lei  3916  12/08/2002 PROGRAMA DE INCENTIVO FISCAL PARA A UTILIZAÇÃO DE GÁS NATURAL COMO ATIVIDADE DE EXPLORAÇÃO NAS IN-  DÚSTRIAS DO RAMO DE CERÂMICA VERMELHA (OLARIAS) NO ESTADO DO RIO DE JANEIRO.  31/12/2032  SIM  art.  7º  Decreto  27091  12/09/2000 INSTITUI  O  PROGRAMA DE REESTRUTURAÇÃO DE EMPRESAS FLUMINENSES - RECUPERA RIO, DESTINADO À REES-  TRUTURAÇÃO DAS EMPRESAS INDUSTRIAIS EM SITUAÇÃO DE DIFICULDADE ECONÔMICO-FINANCEIRA, LOCALIZADAS  NO INTERIOR DO ESTADO, ASSIM ENTENDIDAS AS QUE SE SITUAM FORA DA REGIÃO METROPOLITANA DA CAPITAL.  TRANS- FERÊNCIA DE SALDO CREDOR ACUMULADO.  31/12/2032  SIM  art.  2º   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | Decreto  30853  13/03/2002 PROGRAMA ESPECIAL DE DESENVOLVIMENTO DA INDÚSTRIA DE PREPARAÇÃO DE CONSERVAS E SUBPRODUTOS DA  CARNE PARA EXPORTAÇÃO. CRÉDITO PRESUMIDO; DIFERIMENTO.  31/12/2032  NÃO  N/A  Decreto  37590  13/05/2005 TIMKEN DO BRASIL COMÉRCIO E INDÚSTRIA LTDA.- APROVA O ENQUADRAMENTO DA EMPRESA TIMKEN DO BRASIL  COMÉRCIO E INDÚSTRIA LTDA, NO PROGRAMA DE FOMENTO E INCREMENTO À MOVIMENTAÇÃO DE CARGAS PELOS  PORTOS E AEROPORTOS FLUMINENSES - RIOPORTOS, INSTITUÍDO PELA LEI Nº 4.184/2003. DIFERIMENTO.  31/12/2025  SIM  art.  1º  Decreto  37598  13/05/2005 APROVA O ENQUADRAMENTO DA EMPRESA COMPANHIA SIDERÚRGICA NACIONAL S/A, NO PROGRAMA DE ATRAÇÃO DE  INVESTIMENTOS ESTRUTURANTES - RIOIN- VEST, INSTITUÍDO PELO DECRETO Nº 23.012/1997, PARA UTILIZAR OS RE-  CURSOS DO FUNDO DE DESENVOLVIMENTO ECONÔMICO SOCIAL - FUNDES E DÁ DIFERIMENTO  .  31/12/2032  SIM  art.  1º,  e  pará-  grafo  único  do  art.  3º  Decreto  37599  13/05/2005 APROVA O ENQUADRAMENTO DA EMPRESA CPR INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA NO PROGRAMA RECI-  CLA-RIO,  INSTITUÍDO  PELA  LEI  Nº  4.178/2003,  PARA  UTILIZAR  OS  RECURSOS  DO  FUNDES  E  DÁ  DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  37600  13/05/2005 APROVA O ENQUADRAMENTO DA EMPRESA CONFAB INDUSTRIAL S/A E/OU QUALQUER DE SUAS SUBSIDIÁRIAS, COLI-  GADAS OU CONTROLADAS NO PROGRAMA DE ATRAÇÃO DE INVESTIMENTOS ESTRUTURANTES - RIOINVEST, INSTITUÍ-  DO PELO DECRETO Nº 23.012/1997, PARA UTILIZAR OS RECURSOS DO FUNDO DE DESENVOLVIMENTO ECONÔMICO SO-  CIAL  -  FUNDES  E  DÁ  DIFERIMENTO.  31/12/2032  SIM  art.  1º  Lei  6108  1  3  /   1  2  /   2  0  11 CONCEDE À PEUGEOT CITROËN DO BRASIL AUTOMÓVEIS LTDA. EM SUA FASE DE EXPANSÃO E OPERAÇÃO, O SEGUIN-  TE  TRATAMENTO TRIBUTÁRIO ESPECIAL REFERENTE AO ICMS, DIFERIMENTO; TRANSFERÊNCIA DE SALDO CREDOR  ACUMULADO.  31/12/2032  SIM  art.  7º  Decreto  24584  14/08/1998 INSTITUI  O  PROGRAMA DESENVOLVIMENTO DA INDÚSTRIA DE TRANSFORMAÇÃO DE RESINAS PETROQUÍMICAS NO ES-  TADO DO RIO DE JANEIRO - RIOPLAST, REGIDO PELO DECRETO-LEI Nº 8/1975, COM SUAS POSTERIORES ALTERAÇÕES,  PELO DECRETO Nº 22.921/1997.  31/12/2032  SIM  art.  3º  Decreto  38231  14/09/2005 APROVA O ENQUADRAMENTO DA EMPRESA PROSINT QUÍMICA S.A. NO PROGRAMA DE ATRAÇÃO DE INVESTIMENTOS  ESTRUTURANTES - RIOINVEST, INSTITUÍDO PELO DECRETO Nº 23.012, DE 25 DE MARÇO DE 1997, PARA, UMA VEZ CUM-  PRIDOS TODOS OS REQUISITOS LEGAIS, UTILIZAR OS RECURSOS DO FUNDO DE DESENVOLVIMENTO ECONÔMICO E  SOCIAL - FUNDES E DÁ DIFERIMENTO.  31/12/2032  SIM  art.  1º  Resolução  SER  84  15/03/2004 DISPÕE SOBRE A CONCESSÃO DE CRÉDITO PRESUMIDO DO ICMS E DE DIFERIMENTO DO ICMS NAS OPERAÇÕES DA  CIFERAL INDÚSTRIA DE ÔNIBUS LTDA. REGULAMENTA A LEI 4.183/2003.  31/12/2032  SIM  art.  1º  Decreto  35220  15/04/2004 SISTEMA FLUTUANTE DE PRODUÇÃO DE PETRÓLEO - DISPÕE SOBRE O DIFERIMENTO DE ICMS NAS OPERAÇÕES DE  FORNECIMENTO DE INSUMOS PARA A CONSTRUÇÃO DE SISTEMA FLUTUANTE DE PRODUÇÃO DE PETRÓLEO, NO ES-  TADO DO RIO DE JANEIRO. DIFERIMENTO, ISENÇÃO.  31/12/2032  NÃO  N/A  Decreto  42588  16/08/2010 CONCEDE AO ESTABELECIMENTO INDUSTRIAL DA EMPRESA INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA.,  EM CARÁTER EXCEPCIONAL, TRATAMENTO TRIBUTÁRIO ESPECIAL, CRÉDITO PRESUMIDO; DIFERIMENTO  31/12/2032  SIM  Arts.  6º  e  7º  Decreto  29409  16/10/2001 INSTITUI  O  PROGRAMA MOEDA VERDE- MULTIPLICAR, CRIA O GRUPO EXECUTIVO PARA A IMPLEMENTAÇÃO DO PRO-  J  E  TO  .  31/12/2032  SIM  art.  1º  Decreto  45450  1  6  /   11  /  2  0   1  5 CONCEDE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA EMPRESA BENEFICIADORA DE AÇO EM DIVERSAS ETAPAS DE  PRODUÇÃO, E DÁ OUTRAS PROVIDÊNCIAS.  31/12/2032  SIM  art.  4º  Decreto  44607  17/02/2014 SUCO NATURAL DE FRUTAS - EMPRESAS PRODUTORAS - CONCEDE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA AS EM-  PRESAS PRODUTORAS DE SUCO NATURAL DE FRUTAS, LO- CALIZADAS EM TERRITÓRIO FLUMINENSE. CRÉDITO PRE-  SUMIDO; DIFERIMENTO.  31/12/2032  SIM  art.  8º  Decreto  27.427  art.44  do  Livro  IV  do  RICMS/2000  1  7  /   11  /  2  0   0  0 ÓLEO LUBRIFICANTE BÁSICO. DIFERIMENTO.  31/12/2032  NÃO  N/A  Decreto  45085  17/12/2014 CONCEDE DIFERIMENTO DO ICMS INCIDENTE NAS OPERAÇÕES INTERNAS E DE IMPORTAÇÃO, BEM COMO EM RELA-  ÇÃO AO DIFERENCIAL DE ALÍQUOTAS, REALIZADAS COM BENS INDICADOS NO ANEXO ÚNICO, DESTINADOS À IMPLAN-  TAÇÃO E OPERAÇÃO DA LINHA 4 DO METRÔ DO RIO DE JANEIRO.  31/12/2032  SIM  art.  2º  Decreto  43603  18/05/2012 CONCEDE À PLANTA INDUSTRIAL DA HYUNDAI HEAVY INDUSTRIES BRASIL - INDÚSTRIA E COMÉRCIO DE EQUIPAMEN-  TOS DE CONSTRUÇÃO LTDA. E AO CENTRO DE DIS- TRIBUIÇÃO DA BMC HYUNDAI S/A, EM SUAS FASES DE IMPLAN-  TAÇÃO, PRÉ-OPERAÇÃO, OPERAÇÃO E EXPANSÕES, O SEGUINTE TRATAMENTO TRIBUTÁRIO ESPECIAL RE- FERENTE  AO ICMS. CRÉDITO PRESUMIDO; DIFERIMENTO; REPASSE DO CRÉDITO FISCAL.  31/12/2032  SIM  art.  5º  Decreto  39566  18/07/2006 DISPÕE SOBRE A CONCESSÃO DE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA AS INDÚSTRIAS PRODUTORAS DE ÓLEOS  LUBRIFICANTES DE PETRÓLEO.  31/12/2032  SIM  art.  2º  Decreto  41483  18/09/2008 CONCEDE ÀS EMPRESAS DO GRUPO P&amp;G - BRASIL E À BELFAM INDÚSTRIA COSMÉTICA S/A, DIFERIMENTO DO ICMS,  CRÉDITO PRESUMIDO; REDUÇÃO DE BASE DE CÁLCULO; TRANSFERÊNCIA DE SALDO CREDOR ACUMULADO; TRIBUTA-  ÇÃO SOBRE SAÍDA.  18/09/2022  (art.  2º)  31/12/2032  SIM  art.  1º  Decreto  36376  18/10/2004 CRIA  O  PROGRAMA RIOESCOLAR COM O OBJETIVO DE DESENVOLVER, RECUPERAR, EXPANDIR E MODERNIZAR A IN-  DÚSTRIA DE MATERIAL ESCOLAR DO ESTADO DO RIO DE JANEIRO. CRÉDITO PRESUMIDO; D  I  F  E  R  I  M  E  N  TO  .  31/12/2032  SIM  Arts.  3º,  5º  e  6º  Decreto  41557  1  8  /   11  /  2  0   0  8 DIFERIMENTO O DO ICMS INCIDENTE SOBRE MÁQUINAS, EQUIPAMENTOS, PEÇAS, PARTES, ACESSÓRIOS, ESTRUTURAS  METÁLICAS E GALPÕES PRÉ-FABRICADOS EM AÇO, QUANDO ADQUIRIDOS POR ESTABELECIMENTO INDUSTRIAL LOCA-  LIZADO NESTE ESTADO E DESTINADOS A INTEGRAR O SEU ATIVO FIXO. REDUÇÃO DE BASE DE CÁLCULO.  31/12/2032  SIM  art.  1º  Lei  6078  1  8  /   11  /  2  0   11 CONCEDE À NISSAN DO BRASIL AUTOMÓVEIS LTDA. EM SUA FASE DE EXPANSÃO E OPERAÇÃO, O SEGUINTE TRATA-  MENTO TRIBUTÁRIO ESPECIAL REFERENTE AO ICMS, DIFERIMENTO; TRANSFERÊNCIA DE SALDO CREDOR ACUMULADO.  31/12/2032  SIM  art.  7º  Lei  2869  18/12/1997 DISPÕE SOBRE O REGIME DE PRESTAÇÃO DO SERVIÇO PÚBLICO DE TRANSPORTE FERROVIÁRIO E METROVIÁRIO DE  PASSAGEIROS NO ESTADO DO RIO DE JANEIRO, E SOBRE O SERVIÇO PÚBLICO DE SANEAMENTO BÁSICO NO ESTADO  DO RIO DE JANEIRO. TRIBUTAÇÃO SOBRE A SAÍDA (ART. 22).  31/12/2032  NÃO  N/A  Lei  6868  19/08/2014 REGIME ESPECIAL DE TRIBUTAÇÃO PARA OS ESTABELECIMENTOS FABRICANTES DE MÓVEIS PARA ESCRITÓRIO, E MÓ-  VEIS  DE  USO  DOMÉSTICO E EMPRESARIAL. DIFERIMENTO; INEXIGIBILIDADE DE ESTORNO DE CRÉDITO; TRIBUTAÇÃO  SOBRE FATURAMENTO.  31/12/2032  SIM  Arts.  4º  e  10  Decreto  45417  19/10/2015 CRIA  TRATAMENTO TRIBUTÁRIO ESPECIAL NAS OPERAÇÕES INTERNAS E DE IMPORTAÇÃO PARA ESTABELECIMENTO  COMERCIAL ATACADISTA OU DISTRIBUIDOR DE PESCADO E/OU ORGANISMOS AQUÍCOLAS.  31/12/2032  SIM  art.  7º  Decreto  45047  1  9  /   11  /  2  0   1  4 FICA  CONCEDIDO AO ESTABELECIMENTO INDUSTRIAL FABRICANTE DE ADITIVOS PARA LUBRIFICANTES E COMBUSTÍ-  VEIS,  LOCALIZADO NO ESTADO DO RIO DE JANEIRO, DI- FERIMENTO DO ICMS E REDUÇÃO DE BASE DE CÁLCULO.  31/12/2032  SIM  art.  2º;  art.  4º  Decreto  41766  20/03/2009 DISPÕE SOBRE O APROVEITAMENTO DE CRÉDITOS DE ICMS EM PROJETOS E INVESTIMENTOS NAS INDÚSTRIAS LÁC-  TEAS DO ESTADO DO RIO DE JANEIRO, TRANSFERÊNCIA DE SALDO CREDOR ACUMULADO.  31/12/2032  SIM  art.  1º,  §  1º  Decreto  44677  20/03/2014 CONCEDE AO ESTABELECIMENTO INDUSTRIAL DO SETOR DE DEFESA LOCALIZADO NO ESTADO DO RIO DE JANEIRO,  NAS OPERAÇÕES DE SAÍDA INTERNA QUE REALIZAR COM PRODUTOS DE SUA FABRICAÇÃO, LISTADOS NO ANEXO  DESTE DECRETO, REDUÇÃO DE BASE DE CÁLCULO DO ICMS.  31/12/2032  NÃO  N/A  Decreto  27308  20/10/2000 REDUZ A BASE DE CÁLCULO DO ICMS NAS OPERAÇÕES INTERNAS E DE IMPORTAÇÃO REALIZADAS COM PRODUTOS  DE INFORMÁTICA QUE MENCIONA.  31/12/2032  NÃO  N/A  Decreto  40435  20/12/2006 DISPÕE SOBRE A CONCESSÃO DE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA PRODUTO DE ARTESANATO REGIONAL  TÍPICO  E  DÁ  OUTRAS  PROVIDÊNCIAS - DIFERIMENTO E ISENÇÃO.  31/12/2032  NÃO  N/A  Lei  6648  20/12/2013 DISPÕE SOBRE A CONCESSÃO DE REDUÇÃO DA BASE DE CÁLCULO DO ICMS PARA AS INDÚSTRIAS DO SETOR METAL  MECÂNICO DE NOVA FRIBURGO.  31/12/2032  NÃO  N/A  Decreto  27857  21/02/2001 ESTABELECE PRAZO ESPECIAL DE PAGAMENTO DO ICMS RELATIVO ÀS OPERAÇÕES REALIZADAS POR INTERMÉDIO DA  BOLSA DE GÊNEROS ALIMENTÍCIOS DO ESTADO DO RIO DE JANEIRO.  31/12/2032  NÃO  N/A  Decreto  45607  21/03/2016 A  CARGA  TRIBUTÁRIA DAS MERCADORIAS A SEGUIR INDICADAS, JÁ INCLUÍDO O PERCENTUAL DE 2% (DOIS POR CEN-  TO)  DESTINADO AO ADICIONAL DO FECP, CORRESPONDERÁ À INCIDÊNCIA DA ALÍQUOTA DE: I - 29% (VINTE E NOVE  POR CENTO), PARA CIGARRO, CHARUTO, CIGARRILHA, FUMO E ARTIGO CORRELATO; II - 27% (VINTE E SETE POR CEN-  TO),  PARA  PERFUME E COSMÉTICO; BEBIDA ALCOÓLICA, EXCETO CERVEJA, CHOPE E AGUARDENTE DE CANA E DE  MELAÇO; E EMBARCAÇÃO DE ESPORTE E DE RECREIO.  31/12/2032  NÃO  N/A  Decreto  39758  21/08/2006 DISPÕE SOBRE A REGULAMENTAÇÃO DO PROGRAMA DE FOMENTO AO DESENVOLVIMENTO TECNOLÓGICO DO ESTADO  DO RIO DE JANEIRO - RIOTECNOLOGIA E REVOGA O DECRETO Nº 38.722/2005, DE 29 DE DEZEMBRO DE 2005  31/12/2032  SIM  art.  3º  Decreto  27159  21/09/2000 ISENTA  DO  ICMS  AS  SAÍDAS  DE  FRUTAS  FRESCAS  PRODUZIDAS NO POLO DE FRUTICULTURA DOS MUNICÍPIOS DAS  REGIÕES NORTE E NOROESTE FLUMINENSE, A QUE SE REFERE O DECRETO 26.278/2000, DE 4 DE MAIO DE 2000,  QUANDO DESTINADAS A AGROINDÚSTRIAS ESTABELECIDAS NA MESMA REGIÃO.  31/12/2032  NÃO  N/A  Lei  2.657  art.  14.  inc.  XIII  alí-  nea  "b"  21/12/2006 OPERAÇÃO COM ÓLEO DIESEL QUANDO CONSUMIDO NO TRANSPORTE DE PASSAGEIROS POR ÔNIBUS URBANO, BEM  COMO NO TRANSPORTE DE PASSAGEIROS DO SISTEMA HIDROVIÁRIO (AQUAVIÁRIO), REGULARMENTE CONCEDIDO  E/OU PERMITIDO PELO PODER CONCEDENTE ESTADUAL OU PELO PODER CONCEDENTE MUNI C I  PA  L  31/12/2032  NÃO  N/A  QUE TENHA ES- TABELECIDO CONVÊNIO COM A SECRETARIA DE ESTADO DE FAZENDA DO RIO DE JANEIRO E COM O  DEPARTAMENTO DE TRÂNSITO RODOVIÁRIO - DETRO OU COM ÓRGÃO REPRESENTANTE DO PODER CONCEDENTE MU-  NICIPAL  PARA  EFEITOS  DE  REGULAMENTAÇÃO A SER ESTABELECIDA PELA MENCIONADA SECRETARIA, A ALÍ- QUOTA É  DE 6% (SEIS POR CENTO).  Lei  2.657  art.  14.  inc.  XXV  21/12/2006 OPERAÇÃO COM GÁS NATURAL VEICULAR - GNV QUANDO CONSUMIDO POR EMPRESA CONCESSIONÁRIA OU PERMIS-  SIONÁRIA DE TRANSPORTE COLETIVO DE PASSAGEIROS POR ÔNIBUS OU POR VEÍCULO HIDROVIÁRIO (AQUAVIÁRIO)  REGULARMENTE CONCEDIDO E/OU PERMITIDO PELO PODER CONCEDENTE ESTADUAL OU PELO PODER CONCEDENTE  MUNICIPAL QUE TENHA ESTABELECIDO CONVÊNIO COM A  31/12/2032  NÃO  N/A  SECRETARIA DE ESTADO DE FAZENDA DO RIO DE JANEIRO E COM O DEPARTAMENTO DE TRÂNSITO RODOVIÁRIO - DE-  TRO OU COM ÓRGÃO REPRESENTANTE DO PODER CONCEDENTE MUNICIPAL PARA EFEITOS DE REGULAMENTAÇÃO A  SER ESTABELECIDA PELA MENCIONADA SECRETARIA.  Decreto  29882  2  2  /   11  /  2  0   0  1 INSTITUI  O  PROGRAMA DE DESENVOLVIMENTO DA INDÚSTRIA NÁUTICA, MEDIANTE A ADOÇÃO DE REGIME ESPECIAL  DE RECOLHIMENTO DO ICMS PARA AS INDÚSTRIAS NÁUTICAS E DE NAVIPEÇAS QUE VENHAM A SE INSTALAR, AM-  PLIAR OU REATIVAR SUAS ATIVIDADES NA REGIÃO DA BAÍA DA ILHA GRANDE. DIFERIMENTO; REDUÇÃO DE BASE DE  CÁLCULO.  31/12/2032  SIM  art.  2º  Decreto  40456  22/12/2006  CONCEDE ÀS SOCIEDADES MMX MINERAÇÃO E METÁLICOS S.A., MMX MINAS-RIO MINERAÇÃO E LOGÍSTICA LTDA.,  MMX METÁLICOS BRASIL LTDA., MPC - MI- NERAÇÃO, PESQUISA E COMÉRCIO LTDA. E SUAS CONTROLADAS E COLI-  GADAS, DORAVANTE DENOMINADAS GRUPO MMX, TODAS EMPREENDEDORAS DO SISTEMA MMX MINAS-RIO, DIFERI-  MENTO DO ICMS,  30/09/2027  NÃO  N/A  NAS FASES DE CONSTRUÇÃO, PRÉ-OPERAÇÃO E OPERAÇÃO DO SISTEMA MMX MINAS-RIO NO COMPLEXO MINERO-SI-  DERÚRGICO E UNIDADES DE APOIO, A SER IMPLANTADO NO MUNICÍPIO DE SÃO JOÃO DA BARRA E, PARA TODA A  LOGÍSTICA E INFRAESTRUTURA DE APOIO NO ESTADO.  Decreto  27.427  art.  35-B.  inc.  I  do  Livro  V  do  RICMS/2000  23/05/2012 AS  PADARIAS  E  CONFEITARIAS  QUE  REALIZEM,  EXCLUSIVAMENTE, VENDAS DIRETAMENTE A CONSUMIDOR FINAL PO-  DEM OPTAR, EM SUBSTITUIÇÃO AO SISTEMA COMUM DE APURAÇÃO E PAGAMENTO DO ICMS DEVIDO A CADA MÊS,  PELO REGIME DE TRIBUTAÇÃO DISCIPLINADO NESTE TÍTULO.  31/12/2032  NÃO  N/A  Decreto  33934  23/09/2003 CONCEDE BENEFÍCIO FISCAL PARA FINS DE IMPLANTAÇÃO DA REFINARIA DO NORTE FLUMINENSE E DE SUA INFRAES-  TRUTURA. ISENÇÃO; DIFERIMENTO.  31/12/2032  NÃO  N/A  Decreto  42042  23/09/2009 CONCEDE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA EMPRESAS DO SETOR AUDIOVISUAL QUE ESPECÍFICA. ISENÇÃO.  31/12/2032  SIM  art.  2º,  §  1º  Decreto  42897  2  4  /   0  3  /   2  0  11 TRANSPORTE AQUAVIÁRIO INTERMUNICIPAL DE PASSAGEIROS - REDUZ EM 100% (CEM POR CENTO) A BASE DE CÁL-  CULO DO ICMS NA PRESTAÇÃO INTERNA DE SERVIÇO DE TRANSPORTE AQUAVIÁRIO INTERMUNICIPAL DE PASSAGEI-  ROS, VEDADO O APROVEITAMENTO DE QUAISQUER CRÉDITOS FISCAIS.  31/12/2032  NÃO  N/A  Decreto  23082  24/04/1997 INSUMO, MATERIAL E EQUIPAMENTO PARA CONSTRUÇÃO, CONSERVAÇÃO, MODERNIZAÇÃO E REPARO DE EMBARCA-  ÇÕES. DIFERIMENTO.  31/12/2032  NÃO  N/A  Decreto  39784  24/08/2006 APROVA O ENQUADRAMENTO DA EMPRESA RIO DE JANEIRO REFRESCOS LTDA NO PROGRAMA DE ATRAÇÃO DE IN-  VESTIMENTOS ESTRUTURANTES.DO ESTADO DO RIO DE JANEIRO - RIOINVEST, INSTITUÍDO PELO DECRETO Nº  23.012/1997,  PARA  UTILIZAR  OS  RECURSOS  DO  FUNDES,  PARA  A  IMPLEMENTAÇÃO DO PROJETO DE EX- PANSÃO DA  ATIVIDADE INDUSTRIAL DA EMPRESA E DÁ DIFERIMENTO E CRÉDITO PRESUMIDO.  31/12/2032  SIM  art.  1º   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0032/U0039
+29
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
-
-<!-- image -->
+2026
 
 <!-- image -->
 
-/U0044/U004F
+<!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+DO
 
-/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+DO
 
-/U0044/U0045
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+DE
+
+JANEIRO
 
 | Decreto  29261  24/09/2001 INSTITUI  O  PROGRAMA DE REATIVAÇÃO DA AGROINDÚSTRIA SUCROALCOOLEIRA FLUMINENSE - RIOCANA-INDUSTRIAL  NO ÂMBITO DO FUNDES.  31/12/2032  SIM  art.  1º  Decreto  36279  24/09/2004 CRIA  O  PROGRAMA RIOFERROVIÁRIO E INSTITUI TRATAMENTO TRIBUTÁRIO PARA O SETOR FERROVIÁRIO.  31/12/2032  SIM  art.  7º  Decreto  34169  24/10/2003 APROVA A INCLUSÃO DA EMPRESA QUE MENCIONA NO PROGRAMA SETORIAL DE DESENVOLVIMENTO DA INDÚSTRIA  QUÍMICA FINA DE APLICAÇÕES BIOTECNOLÓGICA, FARMACÊUTICA, DE FÁRMACOS E DE COSMÉTICA NO ESTADO DO  RIO  DE  JANEIRO  -  RIOFÁRMACOS E DÁ DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  34170  24/10/2003 APROVA O ENQUADRAMENTO DA EMPRESA INDÚSTRIA NACIONAL DE AÇOS LAMINADOS INAL S.A NO PROGRAMA BÁ-  SICO DE FOMENTO À ATIVIDADE IN- DUSTRIAL NO ESTADO DO RIO DE JANEIRO, INSTITUÍDO PELO DECRETO Nº  24.937/1998,  PARA  UTILIZAR  OS  RECURSOS  DO  FUNDES.  -  DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  34171  24/10/2003 APROVA O ENQUADRAMENTO DA CSN CIMEN TOS S.A. NO PROGRAMA BÁSICO DE FOMENTO À ATIVIDADE INDUSTRIAL  NO ESTADO DO RIO DE JANEIRO, INSTITUÍDO PELO DECRETO Nº 24.937/1998, PARA UTILIZAR OS RECURSOS DO FUN-  DES -  DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  44629  25/02/2014 DISPÕE SOBRE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA ESTABELECIMENTOS QUE BENEFICIEM E/OU INDUSTRIALI-  ZEM PRODUTOS APLICADOS NA CONSTRUÇÃO CIVIL. DIFE- RIMENTO, REDUÇÃO DE BASE DE CÁLCULO.  31/12/2032  SIM  art.  2º,  §  3º  Decreto  23012  25/03/1997 INSTITUI  O  PROGRAMA DE ATRAÇÃO DE INVESTIMENTOS ESTRUTURANTES, RIOINVEST, REGIDO PELO DECRETO-LEI Nº  8/1975,  COM  SUAS  POSTERIORES ALTERAÇÕES, PELO DECRETO Nº 22.921/1997.  31/12/2032  SIM  art.  2º  Lei  6821  25/06/2014 CRIA  O  PROGRAMA DE INCENTIVO À PRODUÇÃO DE CERVEJAS E CHOPES ARTESANAIS NO ÂMBITO DO ESTADO DO  RIO  DE  JANEIRO.  31/12/2032  NÃO  N/A  Decreto  26788  25/07/2000 CONTRAPARTIDA FINANCEIRA DO ESTADO PARA AS COMUNIDADES DE BAIXA RENDA BENEFICIADAS PELO PROGRAMA  LUZ NO CAMPO SERÁ REALIZADA MEDIANTE CRÉDITO DO ICMS NA ESCRITA FISCAL DAS CONCESSIONÁRIAS DE ENER-  GIA  ELÉTRICA EXECUTORAS DOS PROJETOS.  31/12/2032  NÃO  N/A  Decreto  36.111  art.  5º 25/08/2004 FICA  CONCEDIDO AO ESTABELECIMENTO FABRICANTE LOCALIZADO NO TERRITÓRIO FLUMINENSE CRÉDITO PRESUMI-  DO NAS SAÍDAS INTERNAS DE BEBIDAS ALCOÓLICAS INDUS- TRIALIZADAS NO ESTADO DO RIO DE JANEIRO, EXCETO  CERVEJA E CHOPE, CONFORME A SEGUIR: I - AGUARDENTE DE CANA E DE MELAÇO: 7% (SETE POR CENTO); II - DE-  MAIS BEBIDAS ALCOÓLICAS DA POSIÇÃO 2204 A 2208 DA NBM/SH: 14% (QUATORZE POR CE  N  TO  )  .  31/12/2032  NÃO  N/A  Decreto  42139  2  5  /   11  /  2  0  0  9 APROVA O ENQUADRAMENTO DA EMPRESA BUNGE ALIMENTOS S/A NO PROGRAMA DE FOMENTO E INCREMENTO À  MOVIMENTAÇÃO DE CARGAS PELOS PORTOS E AEROPORTOS FLUMINENSES - RIOPORTOS, INSTITUÍDO PELA LEI Nº  4.184/2003.  31/12/2025  SIM  art.  1º  Decreto  44684  26/03/2014 DISPÕE SOBRE PROGRAMA BÁSICO DE FOMENTO À ATIVIDADE INDUSTRIAL DO ESTADO DO RIO DE JANEIRO - NOVO  RIO  INDÚSTRIA EM SUBSTITUIÇÃO AO RIO INDÚSTRIA.  31/12/2032  SIM  art.  2º  Lei  4164  26/09/2003 APROVA O ENQUADRAMENTO DA EMPRESA CERVEJARIA TERESÓPOLIS LTDA. NO PROGRAMA DE ATRAÇÃO DE INVES-  TIMENTOS ESTRUTURANTES - RIOINVEST, INSTITUÍDO PELO DECRETO N0 23.012/97, FIXA CONDIÇÕES PARA FINANCIA-  MENTO E DÁ OUTRAS PROVIDÊNCIAS.  31/12/2032  (art.  4º,  I);  30/09/2029  (art.  4º,  II  e  III).  SIM  art.  1º  Lei  4166  26/09/2003 AUTORIZA O PODER EXECUTIVO A CONCEDER INCENTIVOS FISCAIS ÀS EMPRESAS JÁ INSTALADAS E QUE VENHAM A  SE INSTALAR NO ESTADO DO RIO DE JANEIRO, VOLTADAS PARA O REPARO E PARA A CONSTRUÇÃO NAVAL E NÁU-  TICA,  BEM  COMO AQUELAS FABRICANTES DE EQUIPAMENTOS PARA A INDÚSTRIA NAVAL, NÁUTICA E PETROLÍFERA.  31/12/2032  SIM  art.  1º,  §  4º  Decreto  43210  2  6  /   0  9  /   2  0  11 DIFERE O PAGAMENTO DO ICMS INCIDENTE SOBRE MÁQUINAS, EQUIPAMENTOS, PEÇAS, PARTES, ACESSÓRIOS DES-  TINADOS À GERAÇÃO DE ENERGIA EÓLICA OU FO- TOVOLTAICA.  31/12/2032  SIM  art.  1º,  §  1º  Decreto  24857  2  6  /   11  /  1  9   9  8 INSTITUI  O  PROGRAMA SETORIAL DE DESENVOLVIMENTO DA INDÚSTRIA DE QUÍMICA FINA DE APLICAÇÕES BIOTECNO-  LÓGICAS NO ESTADO DO RIO DE JANEIRO - RIO- FÁRMACOS.  31/12/2032  SIM  art.  2º  Decreto  24858  2  6  /   11  /  1  9   9  8 INSTITUI  O  PROGRAMA DE DESENVOLVIMENTO DOS SETORES DE AUTOPEÇAS E NAVIPEÇAS NO ESTADO DO RIO DE  JANEIRO - RIOPEÇAS.  31/12/2032  SIM  art.  2º  Lei  2.657  art.  14.  inc.  IX  26/12/1996 OPERAÇÃO COM PRODUTOS DE INFORMÁTICA E AUTOMAÇÃO, QUE ESTEJAM BENEFICIADOS COM REDUÇÃO DO IM-  POSTO SOBRE PRODUTOS INDUSTRIALIZADOS E SEJAM FABRICADOS POR ESTABELECIMENTO INDUSTRIAL QUE ATEN-  DA AO DISPOSTO NO ARTIGO 4.º DA LEI FEDERAL 8.248/1991, A ALÍQUOTA É DE 7% (SETE POR CENTO), ES- TORNAN-  DO-SE O CRÉDITO SUPERIOR A 7% (SETE POR CENTO), OBTIDO NA OPERAÇÃO ANTERIOR, SEJA OPERAÇÃO INTERNA  OU INTERESTADUAL.  31/12/2032  NÃO  N/A  Decreto  29042  27/08/2001 DISPÕE SOBRE O INCENTIVO DO GOVERNO DO ESTADO À PRODUÇÃO DE LEITE.  31/12/2032  NÃO  N/A  Decreto  25665  27/10/1999 DILATAÇÃO DE PRAZO DE PAGAMENTO E DIFERIMENTO PARA EMPRESAS QUE VIEREM A IMPLANTAR E DESENVOLVER  ATIVIDADES NO POLO INDUSTRIAL DENOMINADO "POLO GÁS QUÍMICO", INSTALADO NA BAIXADA FLUMINENSE.  31/12/2032  NÃO  N/A  Decreto  25666  27/10/1999 OS  CONTRIBUINTES COM ATIVIDADE ECONÔMICA PREPONDERANTE CLASSIFICADA NOS CÓDIGOS ABAIXO REFERIDOS  DO CATÁLOGO DE ATIVIDADES ECONÔMICAS DE QUE TRATA A RESOLUÇÃO Nº 1.636/1989, QUE TRABALHEM EXCLUSI-  VAMENTE COM MÁRMORES, GRANITOS E PEDRAS DE REVESTIMENTOS PODERÃO, EM SUBSTITUIÇÃO AO SISTEMA  NORMAL DE TRIBUTAÇÃO, SE CREDITAR DO ICMS PELA APLICAÇÃO DO PERCENTUAL DE 13% (TREZE POR CENTO) SO-  BRE O VALOR TOTAL DAS OPERAÇÕES DE SAÍDA OCORRIDAS NO PERÍODO.  31/12/2032  NÃO  N/A  Decreto  24859  2  7  /   11  /  1  9   9  8 INSTITUI  O  PROGRAMA DE DESENVOLVIMENTO INDUSTRIAL DOS MUNICÍPIOS FLUMINENSES PRIORIZADOS NO PRO-  GRAMA COMUNIDADE SOLIDÁRIA - RIOSOLIDÁRIO.  31/12/2032  SIM  art.  2º  Decreto  16358  28/02/1991 DIFERE  O  PAGAMENTO DO ICMS INCIDENTE NA IMPORTAÇÃO DE MERCADORIAS DO EXTERIOR, REALIZADA POR ES-  TABELECIMENTO INDUSTRIAL COM CICLO DE PRODUÇÃO SUPERIOR A 12 (DOZE) MESES.  31/12/2032  NÃO  N/A  Decreto  37149  28/03/2005 APROVA A INCLUSÃO DA EMPRESA SOCAN PRODUTOS ALIMENTÍCIOS LTDA NO PROGRAMA DE FOMENTO PARA O SE-  TOR DE AGRONEGÓCIO E DA AGRICULTURA FAMILIAR FLUMINENSE E DÁ OUTRAS PROVIDÊNCIAS E DÁ DIFERIMENTO.  31/12/2032  SIM  art.  2º,  PÚ  Decreto  37154  28/03/2005 APROVA O ENQUADRAMENTO DA EMPRESA NUTRIARA ALIMENTOS LTDA. NO PROGRAMA DE FOMENTO PARA O SETOR  DE AGRONEGÓCIO E DA AGRICULTURA FAMILIAR FLUMINENSE, INSTITUÍDO PELA LEI Nº 4.177/2003 E DÁ DIFERIMENTO.  31/12/2032  SIM  art.  2º,  PÚ  Decreto  37159  28/03/2005 APROVA O ENQUADRAMENTO DA EMPRESA AGROINDÚSTRIA SÃO JOÃO S/A NO PROGRAMA DE FOMENTO PARA O SE-  TOR DE AGRONEGÓCIO E DA AGRICULTURA FAMILIAR FLUMINENSE, INSTITUÍDO PELA LEI Nº 4.177/2003 E DÁ DIFERI-  M  E  N  TO  .  31/12/2032  SIM  art.  2º,  PÚ  Decreto  37168  28/03/2005 APROVA O ENQUADRAMENTO DA EMPRESA CONLEY CORPORATION NO PROGRAMA SETORIAL DE DESENVOLVIMENTO  DA INDÚSTRIA DE PETRÓLEO NO ESTADO DO RIO DE JANEIRO - RIOPETRÓLEO, INSTITUÍDO PELO DECRETO Nº  24.270/1998  E  DÁ  DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  37170  28/03/2005 APROVA O ENQUADRAMENTO DA EMPRESA DEEPLEX - ANGRA PORTO OFFSHORE LOGÍSTICA LTDA NO PROGRAMA SE-  TORIAL DE DESENVOLVIMENTO DA INDÚSTRIA DE PETRÓLEO NO ESTADO DO RIO DE JANEIRO - RIOPETRÓLEO, INS-  TITUÍDO PELO DECRETO Nº 24.270/1998 E DÁ DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  37172  28/03/2005 APROVA O ENQUADRAMENTO DA EMPRESA ISOCAMP INDÚSTRIA E COMÉRCIO LTDA. NO PROGRAMA BÁSICO DE FO-  MENTO À INDÚSTRIA NO ESTADO DO RIO DE JANEIRO - RIOINDÚSTRIA, INSTITUÍDO PELO DECRETO Nº 24.937/1998 E  DÁ DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  37177  28/03/2005 APROVA O ENQUADRAMENTO DA EMPRESA INDÚSTRIA BRASILEIRA DE FILMES - IBF, NO PROGRAMA DE FOMENTO E  INCREMENTO À MOVIMENTAÇÃO DE CARGAS PELOS PORTOS E AEROPORTOS FLUMINENSES - RIOPORTOS, INSTITUÍDO  PELA LEI Nº 4.184/2003.  DIFERIMENTO.  31/12/2025  SIM  art.  1º  Decreto  37179  28/03/2005 APROVA O ENQUADRAMENTO DA EMPRESA RIOCIM - INDÚSTRIA COMÉRCIO E PARTICIPAÇÕES LTDA., NO PROGRAMA  DE FOMENTO E INCREMENTO À MOVIMENTAÇÃO DE CARGAS PELOS PORTOS E AEROPORTOS FLUMINENSES - RIO-  PORTOS, INSTITUÍDO PELA LEI Nº 4.184/2003 E DÁ DIFERIMENTO.  31/12/2025  SIM  art.  1º  Decreto  37198  28/03/2005 APROVA O ENQUADRAMENTO DA EMPRESA PWR MISSION INDÚSTRIA MECÂNICA NO PROGRAMA BÁSICO DE FOMENTO  À  INDÚSTRIA NO ESTADO DO RIO DE JANEIRO - RIOINDÚSTRIA, INSTITUÍDO PELO DECRETO Nº 24.937/1998 E DÁ DI-  F  E  R  I  M  E  N  TO  .  31/12/2032  SIM  art.  1º  Decreto  37207  28/03/2005 APROVA O ENQUADRAMENTO DA EMPRESA WELLSTREAM DO BRASIL INDÚSTRIA E SERVIÇOS LTDA NO PROGRAMA DE  ATRAÇÃO DE INVESTIMENTOS ES- TRUTURANTES - RIOINVEST, INSTITUÍDO PELO DECRETO Nº 23.012/1997, PARA UTI-  LIZAR  OS  RECURSOS DO - FUNDES. SUBSTITUÍDA  31/12/2032  SIM  art.  1º  A  SOCIEDADE EMPRESÁRIA WELLS- TREAM DO BRASIL INDÚSTRIA E SERVIÇOS LTDA PELA GE OIL &amp; GAS DO BRASIL  LTDA,  EM  RAZÃO DE INCORPORAÇÃO DA PRIMEIRA SOCIEDADE PELA SEGUNDA (DECRETO 44.226/2013). DIFERIMENTO.  Decreto  37210  28/03/2005 CONCEDE DIFERIMENTO DE ICMS NA AQUISIÇÃO DE MÁQUINAS, EQUIPAMENTOS, PEÇAS, PARTES E ACESSÓRIOS QUE  VENHAM A COMPOR OS ATIVOS DAS USINAS DE ÁLCOOL E SISTEMAS DE PRODUÇÃO DAS EMPRESAS QUE SE INS-  TALAREM NO ESTADO DO RIO DE JANEIRO. DIFERIMENTO.  31/12/2032  NÃO  N/A  Decreto  33976  28/10/2003 INSTITUI  O  PROGRAMA ESTADUAL DE DESENVOLVIMENTO DA INDÚSTRIA DE TRANSFORMAÇÃO PLÁSTICA - PLAST-RIO.  31/12/2032  SIM  art.  6º  Lei  2.657  art.  14.  inc.  VI.  alínea  "d"  28/12/2005 OPERAÇÃO COM ENERGIA ELÉTRICA, QUANDO UTILIZADA NO TRANSPORTE PÚBLICO ELETRIFICADO DE PASSAGEIROS,  A  ALÍQUOTA É DE 6% (SEIS POR CENTO).  31/12/2032  NÃO  N/A  Decreto  40478  28/12/2006 CONCEDE ÀS EMPRESAS INSTALADAS NO ESTADO DO RIO DE JANEIRO PARA AS LINHAS DE FABRICAÇÃO E PRODU-  ÇÃO DE RISERS (NCM 7304.21.90) O SEGUINTE TRATAMENTO TRIBUTÁRIO ESPECIAL: CRÉDITO PRESUMIDO E DIFERI-  M  E  N  TO  .  31/12/2032  SIM  art.  2º  Decreto  45586  29/02/2016 SINIAT  S.A.  MINERAÇÃO,  INDÚSTRIA  E  COMÉRCIO.  -  APROVA  O  ENQUADRAMENTO DA EMPRESA SINIAT S.A. MINERA-  ÇÃO, INDÚSTRIA E COMÉRCIO NO PROGRAMA DE ATRAÇÃO DE INVESTIMENTOS ESTRUTURANTES - RIOINVEST, INS-  TITUÍDO PELO DECRETO Nº 23.012/1997, PARA UTILIZAR OSRECURSOS DO FUNDES E DÁ DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  2  6  11  6  29/03/2000 DISPÕE SOBRE O ICMS INCIDENTE NAS OPERAÇÕES INTERNAS E DE IMPORTAÇÃO DE MERCADORIAS DESTINADAS AO  APARELHAMENTO DOS PORTOS DO ESTADO RIO DE JANEIRO.  31/12/2032  NÃO  N/A  Decreto  37888  29/06/2005 INSTITUI  O  REGIME  ADUANEIRO  ESPECIAL DE ENTREPOSTO INDUSTRIAL AERONÁUTICO SOB CONTROLE INFORMATIZA-  DO DO ESTADO DO RIO DE JANEIRO - RECOF AE- RONÁUTICO-RJ. DIFERIMENTO.  31/12/2032  SIM  art.  5º,  VI  da  Resoluçao  SE-  FAZ nº  078/2007  Decreto  43739  29/08/2012 DISPÕE SOBRE A CONCESSÃO DE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA A PRODUÇÃO DE ETANOL E AÇÚCAR NO  ESTADO DO RIO DE JANEIRO - DIFERIMENTO  31/12/2032  SIM  art.  6º  Lei  4169  29/09/2003 AUTORIZA A CONCESSÃO DE INCENTIVOS FISCAIS ÀS INDÚSTRIAS DE TRANSFORMAÇÃO E RECICLAGEM DE PRODU-  TOS PLÁSTICOS QUE VIEREM A SE INSTALAR, EM QUALQUER MUNICÍPIO SITUADO NA BAIXADA FLUMINENSE, EM RA-  ZÃO DO COMPLEXO DE MATÉRIAS PRIMAS DE PRODUTOS PETROQUÍMICOS, EM CONSOLIDAÇÃO NAQUELA REGIÃO.  31/12/2032  SIM  art.  1º,  §  2º  Lei  4170  29/09/2003 APROVA O ENQUADRAMENTO DA CERVEJARIA PETRÓPOLIS S/A NO PROGRAMA DE ATRAÇÃO DE INVESTIMENTOS ES-  TRUTURANTES - RIOINVEST, INSTITUÍDO PELO DECRETO Nº 23.012/1997, DE 25 DE MARÇO DE 1997, PARA UTILIZAR OS  RECURSOS DO FUNDO DE DESENVOLVIMENTO ECONÔMICO E SOCIAL - FUNDES, COM O OBJETIVO DE EXPANDIR UMA  PLANTA INDUSTRIAL DESTINADA À FABRICAÇÃO DE CERVEJA E CONEXOS, REFRIGERANTES, ASSIM COMO O ENGAR-  RAFAMENTO DE ÁGUA MINERAL E DÁ DIFERIMENTO.  31/12/2032  SIM  art.  1º  Lei  4174  29/09/2003 AUTORIZA A CONCEDER INCENTIVOS FISCAIS, POR TEMPO DETERMINADO, ÀS EMPRESAS QUE VIEREM A INVESTIR EM  PROJETOS DE IMPLANTAÇÃO OU EXPANSÃO DE SUAS ATIVIDADES NA ÁREA DE INFLUÊNCIA DO PORTO DE SEPETIBA,  QUE IMPLIQUEM EM INVESTIMENTO FIXO, IGUAL OU SUPERIOR A 500.000 (QUINHENTAS MIL) UFIR¿S-RJ E  31/12/2032  SIM  art.  1º  QUE NÃO ESTEJAM ASSOCIADOS À DESCONTINUAÇÃO DE OUTRAS ATIVIDADES DA MESMA EMPRESA OU GRUPO ECO-  NÔMICO LOCALIZADO NO TERRITÓRIO FLUMINENSE. REDUÇÃO DE BASE DE CÁLCULO, CRÉDITO PRESUMIDO E DIFE-  R  I  M  E  N  TO  Lei  4175  29/09/2003 INSTITUI  O  PROGRAMA DE FOMENTO À MÚSICA BRASILEIRA - RIOMÚSICA, NO ÂMBITO DO FUNDES, PELO DECRETO-LEI  Nº  8/1975,  DE  15  DE  MARÇO  DE  1975,  PELO  DECRETO  Nº  22.921/1997.  31/12/2032  SIM  art.  1º  Lei  4176  29/09/2003 INSTITUI  O  PROGRAMA DE DESENVOLVIMENTO DO SETOR DA TECNOLOGIA DA INFORMAÇÃO NO ESTADO DO RIO DE  JANEIRO - RIOINFO, NO ÂMBITO DO FUNDES, PELO DECRETO-LEI Nº 8/1975, DE 15 DE MARÇO DE 1975, PELO DECRE-  TO Nº 22.921/1997.  31/12/2032  SIM  art.  2º  Lei  4177  29/09/2003 PROGRAMA DE FOMENTO PARA O SETOR DE AGRONEGÓCIO E DA AGRICULTURA FAMILIAR FLUMINENSE. CRÉDITO  PRESUMIDO; DIFERIMENTO; ISENÇÃO; REDUÇÃO DE BASE DE CÁLCULO; TRIBUTAÇÃO SOBRE RECEITA.  31/12/2032  SIM  art.  2º  Lei  4178  29/09/2003 CONCEDE ÀS EMPRESAS DESTINADAS À RECICLAGEM DE VIDRO, PLÁSTICO, PAPEL, PNEU E METAL, OS SEGUINTES  BENEFÍCIOS FISCAIS: REDUÇÃO DE BASE DE CÁLCULO, CRÉDITO PRESUMIDO E DIFERIM  E  N  TO  .  31/12/2032  SIM  art.  1A,  §  2º   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -998,17 +998,17 @@ Art. 3º  Além das  atribuições previstas no artigo  anterior, compete també
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | Lei  4181  29/09/2003 INSTITUI  O  PROGRAMA DE DESENVOLVIMENTO DO SETOR AERONÁUTICO NO ESTADO DO RIO DE JANEIRO - RIOAE-  ROTEC, NO ÂMBITO DO FUNDES, PELO DECRETO-LEI Nº 8/1975, DE 15 DE MARÇO DE 1975, PELO DECRETO Nº  22.921/1997.  31/12/2032  SIM  art.  2º  Lei  4183  29/09/2003 AUTORIZA O PODER EXECUTIVO A INCLUIR A EMPRESA CIFERAL INDÚSTRIA DE ÔNIBUS LTDA. NO PROGRAMA DE  ATRAÇÃO DE INVESTIMENTOS ESTRUTURANTES - RIOINVEST, INSTITUÍDO PELO DECRETONº 23.012/1997 E DÁ OUTRAS  PROVIDÊNCIAS. CRÉDITO PRESUMIDO.  31/12/2032  SIM  art.  1º  Lei  4184  29/09/2003 CRIA  O  PROGRAMA DE FOMENTO À MOVIMENTAÇÃO DE CARGAS PELOS PORTOS E AEROPORTOS FLUMINENSES -  RIOPORTOS, NO ÂMBITO DO FUNDES, REGIDO POR ESTA LEI, PELO DECRETO-LEI Nº 8/1975, COMPLEMENTADO PELO  DECRETO-LEI Nº 265/1975, PELO DECRETO Nº 22.921/1997. DIFERIMENTO  31/12/2025  SIM  art.  1º  Lei  4185  29/09/2003 INSTITUI  O  PROGRAMA DE FOMENTO À ATIVIDADE ECONÔMICA NA REGIÃO DO PORTO DE SEPETIBA - PRÓ SEPETIBA,  NO ÂMBITO DO FUNDES, REGIDO PELO DECRETO-LEI Nº 8/1975, COMPLEMENTADO PELO DECRETO-LEI Nº 265/1975 E  PELA LEI Nº 3.055/1998,  REGULAMENTADO PELO DECRETO Nº 22.921/1997.  31/12/2032  SIM  art.  2º  Lei  4186  29/09/2003 RIOINFRA -  PROGRAMA DE FOMENTO À REALIZAÇÃO DE OBRAS DE INFRAESTRUTURA, REGIDO PELO DECRETO-LEI Nº  8/1975,  COMPLEMENTADO PELO DECRETO-LEI Nº 265/75, REGULAMENTADO PELO DECRETO Nº 22921/1997.  31/12/2032  SIM  art.  2º  Lei  4189  29/09/2003 CONCEDE INCENTIVOS FISCAIS ÀS EMPRESAS QUE VIEREM A INVESTIR EM PROJETOS DE IMPLANTAÇÃO OU EXPAN-  SÃO DE SUAS ATIVIDADES NAS REGIÕES NORTE E NOROESTE DO ESTADO DO RIO DE JANEIRO QUE IMPLIQUEM IN-  VESTIMENTO FIXO IGUAL OU SUPERIOR A 250.000 UFIR¿S-RJ E QUE NÃO ESTEJAM ASSOCIADOS À DESCONTINUAÇÃO  DE OUTRAS ATIVIDADES DA MESMA EMPRESA OU GRUPO ECONÔMICO LOCALIZADO NO TERRITÓRIO FLUMINENSE. DI-  FERIMENTO, CRÉDITO PRESUMIDO.  31/12/2032  SIM  art.  3º,  §4º  Decreto  33975  29/09/2003 CONCEDE, COM BASE NA LEI Nº 4.166/2003, ISENÇÃO FISCAL DO ICMS, NA AQUISIÇÃO DE MÁQUINAS, EQUIPAMENTOS,  PEÇAS, PARTES E ACESSÓRIOS QUE VENHAM A COMPOR O ATIVO DESTINADO À PRODUÇÃO DAS EMPRESAS QUE SE  INSTALAREM NO ESTADO DO RIO DE JANEIRO, VOLTADAS PARA A CONSTRUÇÃO, REPARO NAVAL E NÁUTICO, BEM CO-  MO AQUELES FABRICANTES DE EQUIPAMENTOS E COMPONENTES DESTINADOS À INDÚSTRIA NAVAL, NÁUTICA E PE-  TROLÍFERA E AOS FABRICANTES DE EMBARCAÇÕES DE RECREIO.  31/12/2032  SIM  art.  1º,  §  2º  da  Lei  nº  4.166/2003  Decreto  36448  29/10/2004 SETOR ÓPTICO. - DISPÕE SOBRE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA AS EMPRESAS DO SETOR ÓPTICO, CON-  CEDENDO INEXIGIBILIDADE DE ESTORNO DE CRÉDITO; REDUÇÃO DE BASE DE CÁLCULO; D  I  F  E  R  I  M  E  N  TO  .  31/12/2032  SIM  art.  4º  Decreto  36449  29/10/2004 CONCEDE TRATAMENTO TRIBUTÁRIO ESPECIAL PARA OPERAÇÕES DE SAÍDAS INTERESTADUAIS DE MERCADORIAS  VENDIDAS POR INTERNET, SERVIÇOS DE TELEMARKETING E PLATAFORMAS ELETRÔNICAS EM GERAL, REALIZADAS  POR ESTABELECIMENTO INDUSTRIAL, CUJA SEDE ESTEJA LOCALIZADA NO ESTADO DO RIO DE JANEIRO, OU EMPRESA  COMERCIAL ATACADISTA, INCLUSIVE CENTRAL DE DISTRIBUIÇÃO. CRÉDITO PRESUMIDO; DIFERIMENTO.  31/12/2032  SIM  art.  2º  Decreto  36450  29/10/2004 TRATAMENTO TRIBUTÁRIO ESPECIAL PARA OS ESTABELECIMENTOS INDUSTRIAIS, ATACADISTAS E DISTRIBUIDORES IN-  TEGRANTES DA CADEIA FARMACÊUTICA LOCALIZADOS NO ESTADO DO RIO DE JANEIRO E DÁ OUTRAS PROVIDÊNCIAS.  31/12/2032  SIM  art.  2º  Decreto  36451  29/10/2004 BENS DE CAPITAL E DE CONSUMO DURÁVEL CLASSIFICADOS NOS CAPÍTULOS: 32, 39 (EXCETO EMBALAGENS PLÁSTI-  CAS UTILIZADAS PARA O ENVASE DE LUBRIFICANTES) 44, 68, 69, 73, 76, 83, 84, 85 E 87; SUBITENS: 37.01.30.21,  38.24.50.00  E  89.07.90.00  DA  NCM  -  EMPRESAS  INDUSTRIAIS.  CRÉDITO  PRESUMIDO;  INEXIGIBILIDADE  DE  ESTORNO  DE  CRÉDITO; REDUÇÃO DE BASE DE CÁLCULO.  31/12/2032  SIM  art.  5º,  §  4º  Decreto  36452  29/10/2004 A  EMPRESA INDUSTRIAL ESTABELECIDA NO ESTADO DO RIO DE JANEIRO QUE REALIZAR OPERAÇÕES DE SAÍDA COM  PRODUTOS DE BENS DE CONSUMO DURÁVEIS, DE USO DOMÉSTICO, RELACIONADOS NOS CAPÍTULOS 84 E 85 DA  NCM, PODERÁ UTILIZAR CRÉDITO PRESUMIDO DE ICMS DE FORMA QUE A CARGA TRIBUTÁRIA EFETIVA RELATIVA ÀS  OPERAÇÕES INTERNAS DE SAÍDA SEJA EQUIVALENTE AO PERCENTUAL DE 7% (SETE POR CE  N  TO  )  .  31/12/2032  NÃO  N/A  Decreto  36458  29/10/2004 APROVA O ENQUADRAMENTO DA EMPRESA PURAC SÍNTESES INDÚSTRIA E COMÉRCIO LTDA NO PROGRAMA DE ATRA-  ÇÃO DE INVESTIMENTOS ESTRUTURANTES - RIOINVEST, INSTITUÍDO PELO DECRETO Nº 23.012/1997, PARA UTILIZAR OS  RECURSOS DO FUNDES. DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  36460  29/10/2004 SOCIEDADE MICHELIN DE PARTICIPAÇÕES INDÚSTRIA E COMÉRCIO LTDA.- APROVA O ENQUADRAMENTO DA EMPRESA  SOCIEDADE MICHELIN DE PARTICIPAÇÕES INDÚSTRIA E COMÉRCIO LTDA. NO PROGRAMA DE ATRAÇÃO DE INVESTI-  MENTOS ESTRUTURANTES - RIOINVEST, INSTITUÍDO PELO DECRETO Nº 23.012/1997, PARA UTILIZAR OS RECURSOS DO  FUNDES E DÁ DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  36461  29/10/2004 APROVA O ENQUADRAMENTO DA EMPRESA PROSINT QUÍMICA S/A NO PROGRAMA DE ATRAÇÃO DE INVESTIMENTOS  ESTRUTURANTES - RIOINVEST, INSTITUÍDO PELO DECRETO Nº 23.012/1997, PARA UTILIZAR OS RECURSOS DO FUNDES.  D  I  F  E  R  I  M  E  N  TO  31/12/2032  SIM  art.  1º  Decreto  36463  29/10/2004 APROVA O ENQUADRAMENTO DA EMPRESA FALMEC DO BRASIL INDÚSTRIA E COMÉRCIO S/A NO PROGRAMA DE FO-  MENTO E INCREMENTO À MOVIMENTAÇÃO DE CARGAS PELOS PORTOS E AEROPORTOS FLUMINENSES - RIOPORTOS,  INSTITUÍDO PELA LEI Nº 4.184/2003,  PARA  UTILIZAR  OS  RECURSOS DO FUNDES - DIFE  R  I  M  E  N  TO  31/12/2025  SIM  art.  1º  Decreto  36468  29/10/2004 APROVO O ENQUADRAMENTO DA EMPRESA ALÓES INDUSTRIA E COMÉRCIO LTDA NO PROGRAMA DE FOMENTO E IN-  CREMENTO À MOVIMENTAÇÃO DE CARGAS PELOS PORTOS E AEROPORTOS FLUMINENSES - RIOPORTOS, INSTITUÍDO  PELA LEI Nº 4.184/2003  -  DIFERIMENTO.  31/12/2025  SIM  art.  1º  Decreto  36474  29/10/2004 APROVA O ENQUADRAMENTO DA EMPRESA COMPANHIA SIDERÚRGICA NACIONAL, NO PROGRAMA DE ATRAÇÃO DE IN-  VESTIMENTOS ESTRUTURANTES - RIOINVEST, INS- TITUÍDO PELO DECRETO Nº 23.012/1997, DE 25 DE MARÇO DE 1997,  PARA, UMA VEZ CUMPRIDO TODOS OS REQUISITOS LEGAIS E REGULAMENTARES, UTILIZAR OS RECURSOS DO FUNDO  DE DESENVOLVIMENTO ECONÔMICO SOCIAL - FUNDES. DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  36478  29/10/2004 APROVA O ENQUADRAMENTO DA EMPRESA ALÓES INDUSTRIA E COMÉRCIO LTDA NO PROGRAMA DE FOMENTO E IN-  CREMENTO À MOVIMENTAÇÃO DE CARGAS PELOS PORTOS E AEROPORTOS FLUMINENSES - RIOPORTOS, INSTITUÍDO  PELA LEI Nº 4.184/2003,  PARA  UTILIZAR  OS  RECURSOS  DO  FUNDES.  DIFERIMENTO.  31/12/2025  SIM  art.  1º  Decreto  36489  29/10/2004 APROVA O ENQUADRAMENTO DA EMPRESA ULTRAPAR PARTICIPAÇÕES S/A E/OU SOCIEDADES A SEREM CONSTITUÍDAS  POR ESTA PARA A IMPLANTAÇÃO DE UM COMPLEXO PETROQUÍMICO, NO PROGRAMA DE ATRAÇÃO DE INVESTIMENTOS  ESTRUTURANTES - RIOINVEST. DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  24862  3  0  /   11  /  1  9   9  8 INSTITUI  O  PROGRAMA DE DESENVOLVIMENTO DO SETOR ELETROELETRÔNICO E DE TELECOMUNICAÇÕES NO ESTA-  DO DO RIO DE JANEIRO - RIOTELECOM, REGIDO PELO DECRETO-LEI Nº 8/1975, SUAS POSTERIORES ALTERAÇÕES, PE-  LO DECRETO Nº 22.921/1997.  31/12/2032  SIM  art.  2º  Decreto  24863  3  0  /   11  /  1  9   9  8 INSTITUI  O  PROGRAMA DE DESENVOLVIMENTO DOS SETORES TÊXTIL E DE CONFECÇÕES NO ESTADO DO RIO DE JA-  NEIRO - RIOTÊXTIL, REGIDO PELO DECRETO-LEI Nº 8/75, SUAS POSTERIORES ALTERAÇÕES, PELO DECRETO Nº  22.921/1997.  31/12/2032  SIM  art.  2º  Lei  4529  31/03/2005 APROVA O ENQUADRAMENTO DAS SOCIEDADES CSA COMPANHIA SIDERÚRGICA DO ATLÂNTICO, THYSSENKRUPP  STAHL A. G E COMPANHIA VALE DO RIO DOCE E DAS SOCIEDADES INTEGRANTES DO COMPLEXO SIDERÚRGICO, DAS  QUAIS ELAS PARTICIPEM, AINDA QUE MINORITARIAMENTE, NO PROGRAMA DE ATRAÇÃO DE INVESTIMENTOS ESTRUTU-  RANTES - RIOINVEST, INSTITUÍDO PELO DECRETO Nº 23.012/1997,  31/12/2032  SIM  art.  2º  PARA UTILIZAR OS RECURSOS DO FUNDES, PARA A CONSTRUÇÃO E OPERAÇÃO DE UM COMPLEXO SIDERÚRGICO NO  ESTADO DO RIO DE JANEIRO E DÁ DIFERIMENTO.  Decreto  37256  31/03/2005 APROVA O ENQUADRAMENTO DA EMPRESA UNIDADE DE PETROQUÍMICOS BÁSICOS - UPB A SER IMPLANTADA PELA  EMPRESA PETRÓLEO BRASILEIRO S/A - PETROBRÁS E/OU SOCIEDADES DE PROPÓSITOS ESPECÍFICOS - SPE E DE-  MAIS SOCIEDADES DE 1ª E 2ª GERAÇÃO,  31/12/2032  SIM  art.  1º  A  SEREM CONSTITUÍDAS PARA SUA IMPLAN- TAÇÃO, NO PROGRAMA DE ATRAÇÃO DE INVESTIMENTOS ESTRUTURAN-  TES -  RIOINVEST,  INSTITUÍDO  PELO  DECRETO Nº 23.012/1997,  PARA  UTILIZAR  OS  RECURSOS  DO  FUN-  DES  E  DÁ  DI-  F  E  R  I  M  E  N  TO  .  Decreto  37257  31/03/2005 APROVA O ENQUADRAMENTO DA EMPRESA PROTON PRIMUS MÁQUINAS E EQUIPAMENTOS LTDA, NO PROGRAMA DE  FOMENTO E INCREMENTO À MO- VIMENTAÇÃO DE CARGAS PELOS PORTOS E AEROPORTOS FLUMINENSES - RIOPOR-  TOS,  INSTITUÍDO  PELA  LEI  Nº  4.184/2003  E  DÁ  DIFERIMENTO.  31/12/2025  SIM  art.  1º  da  Lei  nº  4184/2003  Decreto  37260  31/03/2005 APROVA O ENQUADRAMENTO DA EMPRESA SAFE DO BRASIL COMPRESSORES PARA GÁS NATURAL LTDA. NO PROGRA-  MA BÁSICO DE FOMENTO À INDÚSTRIA NO ESTADO DO RIO DE JANEIRO - RIOINDÚSTRIA, INSTITUÍDO PELO DECRETO  Nº  24.937/1998,  PARA  UTILIZAR  OS  RECURSOS  DO  FUNDES  E  DÁ  DIFERIMENTO.  31/12/2032  SIM  art.  1º  Decreto  37261  31/03/2005 CONCEDE À METALÚRGICA BARRA DO PIRAÍ S/A DIFERIMENTO DO ICMS  31/12/2032  NÃO  N/A  Decreto  37263  31/03/2005 SIDERÚRGICA BARRA MANSA S.A. - APROVA O ENQUADRAMENTO DA EMPRESA SIDERÚRGICA BARRA MANSA S/A - NO  PROGRAMA DE ATRAÇÃO DE INVES- TIMENTOS ESTRUTURANTES - RIOINVEST, INSTITUÍDO PELO DECRETO Nº  23.012/1997,  PARA  UTILIZAR  OS  RECURSOS  DO  FUNDES  E  DÁ  DIFERIMENTO.  31/12/2032  SIM  art.  1º  Lei  6979  31/03/2015 CRIA  TRATAMENTO TRIBUTÁRIO ESPECIAL DE ICMS COM O OBJETIVO DE REDUZIR AS DESIGUALDADES REGIONAIS NO  ESTADO DO RIO DE JANEIRO. DIFERIMENTO; ISENÇÃO; SUSPENSÃO; TRIBUTAÇÃO SOBRE SAÍDA.  31/12/2032  SIM  art.  8º  Decreto  28494  31/05/2001 DISPÕE SOBRE A REDUÇÃO DA BASE DE CÁLCULO NAS OPERAÇÕES INTERNAS COM FERRO E AÇO NÃO PLANOS CO-  MUNS.  31/12/2032  NÃO  N/A   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1134,17 +1134,17 @@ Id:  2730827
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 ## SECRETARIA DE ESTADO DE FAZENDA SUBSECRETARIA DE ESTADO DE RECEITA SUPERINTENDÊNCIA DE FISCALIZAÇÃO E  INTELIGÊNCIA FISCAL
 
@@ -1352,17 +1352,17 @@ O  SUPERINTENDENTE DE  FISCALIZAÇÃO E  INTELIGÊNCIA FISCAL, /no  uso  das  at
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Anexo Único da  Portaria SUFIS Nº 424 de 2025,  constante do SEI040224/003886/2022, no qual foram observadas todas as formalidades exigidas  pela  legislação e  garantido  ao  contribuinte  o direito  à  ampla defesa  e  contraditório.
 
@@ -1423,25 +1423,25 @@ PROCESSO  Nº SEI-040161/001066/2023  -  DEFIRO para  que  produza  seus  regula
 | ID  NOME  INÍCIO  EXERCÍCIO  PROGRESSÃO/PROMOÇÃO  EFEITOS A CONTAR DE  50182285 CARLOS HENRIQUE AGUIAR DE MORAES  06/12/2021  Progressão  Funcional  da  classe  A  padrão  IV  para  a  classe  A  padrão  V  07/01/2026   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037 /U0034
+07 4
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
 ção restritiva  que limite o  alcance do benefício  fiscal (art. 111,  inc. I, do  CTN). Lei  que  contempla expressamente  as  operações de  transferência,  inclusive  com  mecanismo  próprio para  tratamento  de  eventual  acúmulo  de  crédito  (§  5º  do  art.  5º).  Metodologia  fiscal  que  carece de  suporte legal  expresso. Crédito  não caracterizado  como indevido. RECURSO  VOLUNTÁRIO PROVIDO. AUTO  DE INFRAÇÃO JULGADO IMPROCEDENTE.
 
@@ -1475,17 +1475,17 @@ Id:  2731400
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO NºSEI-040161/014563/2023 -  DEFIRO para  que produza  seus  regulares  efeitos a  Promoção  da  classe B  padrão  VI para  a  classe  C padrão  I  do  servidor MARCELO DA ROCHA (ID 44246412)  Assistente Previdenciário do Fundo Único de  Previdência Social do Estado do Rio de Janeiro Rioprevidência,  em consonância com a Lei Complementar 132/2009 e com a  Portaria  Rioprevidência/PRE  nº  204/2012,  conforme relação  abaixo:
 
@@ -1610,17 +1610,17 @@ CONCEDO a MICHELLI  AMARAL  CORDEIRO  FIGUEIRA , na  qualidade  de VIÚVA  do(a)
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 binado com  o art. 14  da Lei 5.260/2008,  com validade a  contar de 03/08/2020.  Processo  SEI  Nº  PD-04/136.145/2020.
 
@@ -1750,17 +1750,17 @@ Id:  2731285
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -1945,17 +1945,17 @@ Id:  2731179
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR DIRETORIA DE TRANSPORTE
 
@@ -2001,41 +2001,41 @@ Id:  2731268
 
 Id:  2731287
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0037 /U0034
+07 4
 
-/U002D
+-
 
-/U0049
+I
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0032/U0039
+29
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0031/U0035
+15
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR DIRETORIA DE INFRAESTRUTURAS DE TECNOLOGIA
 
@@ -2167,17 +2167,17 @@ I  a  atestação das  notas fiscais  relativas ao  contrato, por  dois servidor
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 II  encaminhamento,  ao  gestor do  contrato,  de  toda  documentação comprobatória da boa execução e o termo de recebimento do serviço, bem como os relatórios  circunstanciados contendo as alterações observadas (se houver),  respeitados os prazos contratuais  e legais, juntamente  com  respectivas  notas  fiscais;
 
@@ -2387,17 +2387,17 @@ I  a  atestação  das notas  fiscais  relativas ao  contrato,  por dois  servid
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 II  encaminhamento,  ao  gestor do  contrato,  de toda  documentação comprobatória da boa execução e o termo de recebimento do serviço, bem  como os  relatórios  circunstanciados contendo  as alterações  observadas  (se  houver),  respeitados  os  prazos  contratuais  e  legais,  juntamente  com  respectivas  notas  fiscais;
 
@@ -2459,39 +2459,39 @@ PROCESSO  Nº  SEI-350011/000375/2024 -Ante  o  exposto,  no  exercício  da  co
 
 Id:  2731257
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0037 /U0034
+07 4
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0039
+29
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
 ## Secretaria de Estado de Polícia Civil
 
@@ -2551,7 +2551,7 @@ Art.  12 -  O  Departamento  Geral de  Tecnologia  da  Informação e  Telecomun
 
 Art.  13 -  O  Departamento-Geral  de Gestão  de  Pessoas  - DGGP  remeterá  à Coordenadoria  de Fiscalização  de Armas  e Explosivos  CFAE,  mensalmente,  relação  contendo  nome, cargo  e  identidade  funcional dos  servidores readaptados  que não devam  permanecer com
 
-/U0031/U0037
+17
 
 <!-- image -->
 
@@ -2627,17 +2627,17 @@ Id:  2731340
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 204/2022), no valor de  R$ 6.581,04; 60% de Triênios (Lei nº 1.608/1990), no  valor de R$ 5.665,42;  100% GHP (Art.11 da  Lei nº 3.586/2001  alterada  pela  Lei  nº  9.611/2022),  no  valor  de  2.861,32.
 
@@ -2835,17 +2835,17 @@ DESIGNA ,  como  sindicante,  o  Inspetor de  Polícia  Penal ROGÉRIO JOAQUIM  
 
 ## ATOS DA CORREGDORA DE 07.04.2026
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -2944,19 +2944,19 @@ Deixa-se de nomear  o Psicólogo, a Assistente Social  e o Psiquiatra por não  
 
 Id:  2731386
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0032/U0039
+29
 
 ## SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA CORREGEDORIA GERAL
 
@@ -3068,17 +3068,17 @@ Id:  2731267
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO
 
@@ -3268,17 +3268,17 @@ Id:  2731326
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
 DISPENSA ,  a  pedido, GABRIEL MOREIRA BERALDI ,  Prof.  Doc.  I,  ID 4389297-3/2,  da  função  de  Diretor  Adjunto do  C.E.  Antonio  Prado  Júnior,  U.A. 118201030905541,  Município  do Rio  de  Janeiro, da  Secretaria  de  Estado  de  Educação.  Processo  nº  SEI-030001/028074/2026.
 
@@ -3450,17 +3450,17 @@ Id:  2731311
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
 
@@ -3578,17 +3578,17 @@ A COORDENADORIA GERAL DE INSPEÇÃO ESCOLAR, CERTIFICAÇÃO E  ACERVO, nos  term
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## PA  R  E  C  E  R  Nº 72/2025/SEEDUC/COOIEMVI PROCESSO Nº SEI-030038/006255/2022
 
@@ -3632,41 +3632,41 @@ O CORREGEDOR INTERNO INTERINO ,  no  uso  da  atribuição  que  lhe confere o a
 
 O CORREGEDOR INTERNO INTERINO ,  no  uso  da  atribuição  que  lhe confere o art.  25, IV do Decreto Estadual nº  46.873/2019 c/c art. 3º, IV  da  Resolução SEEDUC nº 5.714/2019, torna pública a decisão prolatada  pela Exma.  Secretária de  Estado de  Educação, nos  autos do
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0033
+23
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037 /U0034
+07 4
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0032/U0039
+29
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 processo nº SEI-030001/075647/2025, onde informa conhecer o recurso administrativo interposto, e no mérito NEGAR PROVIMENTO ,  mantendo  a  aplicação  da  penalidade  de  SUSPENSÃO por  15  (quinze) dias ao  servidor MARCELO  PEREIRA DE  SOUZA , Id.  Funcional 4343140-2.
 
@@ -3742,39 +3742,39 @@ PROCESSO Nº SEI-E  -  2  6  /  4  0  2  8  0 /  2  0  11 -MARCIO  BELO RODRIGUE
 
 Id:  2731332
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0030/U0037 /U0034
+07 4
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0039
+29
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
 ## S  E  C  R  E  TA  R  I  A  DE E  S  TA  D  O  DE CIÊNCIA, TECNOLOGIA E I  N  O  VA  Ç  Ã  O FUNDAÇÃO DE APOIO À ESCOLA TÉCNICA
 
@@ -3847,17 +3847,17 @@ CENTRO DE CIÊNCIAS DO HOMEM
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 PORTARIA  Nº 426/2026  - NOMEIA  ANDRÉ LUIZ  CARVALHO CARDOSO, matr.  nº  38.061-8,  ID nº  44660790,  Professor  Associado,  para exercer  o cargo  em  comissão  de Diretor  do  DEPPLAN, símbolo  CC07, código 531, a contar de 30/03/2026. Processo nº SEI260006/014908/2026.
 
@@ -3986,17 +3986,17 @@ Id:  2731335
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Transporte e Mobilidade Urbana
 
@@ -4078,17 +4078,17 @@ Id:  2731342
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE TRANSPORTE E  MOBILIDADE URBANA
 
@@ -4244,9 +4244,9 @@ O  DIRETOR-PRESIDENTE DA  FUNDAÇÃO INSTITUTO  DE PESCA DO ESTADO  DO RIO  DE J
 
 - o que preceitua  a Lei nº 14.133 de 1º de abril  de 2021 e seus respectivos  regulamentos  no  âmbito  deste  Estado;
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 -  o  disposto  no  Decreto  Municipal  nº  7856,  de  03  de  fevereiro  de 2026;
 
@@ -4374,17 +4374,17 @@ Esta  Política  fundamenta-se,  entre  outros, nos  seguintes  diplomas  legais
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 ## ANEXO ÚNICO
 
@@ -4392,41 +4392,41 @@ Esta  Política  fundamenta-se,  entre  outros, nos  seguintes  diplomas  legais
 
 ## CAPÍTULO I DISPOSIÇÕES PRELIMINARES
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0037
+27
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0037 /U0034
+07 4
 
-/U0049
+I
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0032/U0039
+29
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 6.23  Licenciamento:  Permissão  para  explorar  conhecimento  ou  tecnologia  mediante  contrato. 6.24 Núcleo  de Inovação  Tecnológica (NIT):  Estrutura de  gestão da política  de  inovação. 6.25  Parque  Tecnológico:  Complexo  planejado  para  promover  sinergia entre  empresas  e  ICTs. 6.26  Polo  Tecnológico:  Ambiente  industrial e  tecnológico  em  determinado  espaço  geográfico. 6.27  Propriedade  Intelectual:  Direitos  sobre  obras  científicas,  invenções,  marcas  e  cultivares. 6.28  Prospecção:  Análise  sistemática  para  antecipar  tendências  tecnológicas. 6.29 Política  de Inovação: Documento  normativo que orienta  a geração  de  inovação. 6.30  Pesquisa,  Desenvolvimento  &amp;  Inovação  (PD&amp;I):  Trabalho  criativo para  aumentar  o  estoque  de  conhecimento. 6.31 Risco: Possibilidade de evento desfavorável (tecnológico, ambiental,  financeiro,  etc.). 6.32  Subvenção:  Apoio  financeiro  público  não  reembolsável  concedido a  empresas. 6.33 Trabalho  Compartilhado: Modelo baseado  no compartilhamento de  espaço  e  infraestrutura. 6.34 Transferência de tecnologia: Processo de transferência de conhe-
 
@@ -4460,41 +4460,41 @@ A  Política  de  Inovação  da  FIPERJ  está  fundamentada  nas  seguintes pr
 
 8.4.1.  Esta  Diretriz  pressupõe  a  integração  das  estratégias  tecnológicas com mecanismos de interação com o ambiente produtivo, visando à  transformação do conhecimento científico e tecnológico em soluções inovadoras  de  interesse público,  por  meio  da transferência  de  tecnologia  e  da  cooperação  institucional; 8.4.2.  Com  base nessa  Diretriz,  a  FIPERJ  poderá, de  acordo  com seus  interesses: a)  efetivar  a  proteção  intelectual  dos  ativos  de  inovação; b)  celebrar contratos  de  parceria com instituições  públicas e  privadas, nacionais e  internacionais, para realização de  programas, projetos e atividades  conjuntas  de  pesquisa  e  desenvolvimento  de  tecnologias, produtos,  processos  ou  serviços; c) celebrar contratos  de transferência de tecnologia  para outorga de direito de  uso ou de exploração  de criação por ela  desenvolvida isoladamente  ou  por  meio  de  parceria  ou  por  terceiros; d) celebrar contratos de prestação de serviço com instituições públicas e  privadas, nacionais  e  internacionais, com vistas  a serviços  pertinentes  à  área  de  atuação  da  FIPERJ; e)  celebrar  contratos  de  encomenda  tecnológica; f) atuar no exterior de forma  articulada com a política externa brasileira,  fomentando sua presença internacional e a cooperação técnica e científica  para  atender a  interesses  estratégicos  da Empresa  e  do País; g)  apoiar  redes,  iniciativas  e  novas estratégias  para  inovação  e  negócios  internacionais  relacionados  à  missão  da  FIPERJ,  por  meio  de organizações e  representações formais  da FIPERJ no  exterior, bem como  por meio  de programas,  projetos  e ações  financiadas por  cooperação  governamental  brasileira  e/ou  por  terceiros.
 
-/U0032/U0038
+28
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0041/U004E/U004F
+ANO
 
-/U0030/U0037 /U0034
+07 4
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0039
+29
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 8.5. Diretriz 5: Compartilhar os  riscos e os benefícios da inovação 8.5.1.  Esta Diretriz  pressupõe  atuar  nos desafios  da  inovação de  maneira  dinâmica  e  contínua,  contemplando  as  incertezas  deste  processo. 8.5.2.  Com base  nesta  Diretriz,  a FIPERJ  poderá,  de acordo  com seus  interesses: a)  ampliar  a  participação  de  parcerias  na  FIPERJ,  a  fim  de  mitigar  os riscos  associados  ao  processo  de  inovação; b) ceder seus direitos de  propriedade intelectual aos seus respectivos criadores  e  a  terceiros; c) autorizar a  participação dos servidores nos  eventuais ganhos econômicos auferidos pela FIPERJ oriundos de contratos de transferência de  tecnologia e  licenciamento para  outorga de  direito de  uso ou  de exploração de  criação protegida da  qual o empregado tenha  sido o inventor,  obtentor  ou  autor; d)  conceder ao  servidor que  não esteja  em período  de experiência, licença  sem remuneração  para  constituir,  individual ou  associadamente,  empresa  com  a  finalidade  de  desenvolver  atividade  empresarial  relativa  à  inovação; e) pagar  ou autorizar o percebimento  de bolsa de ESTÍMULO  à inovação aos  seus empregados,  especialistas e/ou estudantes  que contribuam  para a  execução  de  projetos de  PD&amp;I,  para  as atividades  de inclusão tecnológica, de proteção  da propriedade intelectual e de transferência  de  tecnologia,  produto,  serviço  ou  processo; f)  pagar ou  autorizar  o  percebimento de  adicional  variável aos  seus empregados  que  participem da  execução  de  contratos de  prestação de  serviços.
 
@@ -4542,17 +4542,17 @@ Art. 1º - Designar os servidores,  Dorgival Alves de Moura Junior - ID -  51646
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 Cruz Zelma  ID  - 51678900  e Ana  Lúcia Germano  - ID  - 20269382, como fiscais e suplentes, de todos os contratos decorrentes do "PROJETO PALCO FUNARJ: CULTURA EM MOVIMENTO".
 
@@ -4822,17 +4822,17 @@ Art.  3º -É competência  comum aos  fiscais do  contrato promover  a abertura
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 mulativo para todo  o período de execução do contrato  e deverá ser utilizado  pelo  fiscal  durante  toda  sua atuação,  contendo  todos  os  procedimentos realizados e comunicar ao gestor quaisquer irregularidades detectadas,  a  fim  de  assegurar  o fiel  cumprimento  das  cláusulas  contratuais.
 
@@ -5066,17 +5066,17 @@ Id:  2731418
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 ## Secretaria Extraordinária de Representação do Governo em Brasília
 
@@ -5272,17 +5272,17 @@ Id:  2731328
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE HABITAÇÃO
 
@@ -5360,17 +5360,17 @@ PROCESSO SEI  E-24/004/5498/2015-SABEMI PREVIDENCIA PRIVADA PROCESSO SEI  E-24/0
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO SEI E-24/004/792/2016-CATHO ONLINE LTDA PROCESSO  SEI E-12/082/2363/2013-ITAU  UNIBANCO VEICULOS ADMINISTRADORA DE CONSORCIOS PROCESSO SEI E-24/004/5339/2015-FOLHA  DOURADA COM. DE ARTIGOS FEMININOS PROCESSO SEI E-24/004/2211/2014-BANCO CETELEM S/A-ANTIGO BANCO BGN S/A PROCESSO  SEI  E-15/003/160/2016-CNOVA COMERCIO  ELETRONICO PROCESSO SEI E-24/004/703/2016-COLEGIO BAHIENSE LTDA PROCESSO SEI  E-12/082/1013/2013-FINANCEIRA ITAU  CDB S/ACREDITO, FINANCIAMENTO E INVESTIMENTO PROCESSO SEI E-24/004/1607/2014-UNIVERSO ONLINE S/A PROCESSO SEI E-24/004/4116/2015-ITAU UNIBANCO S.A PROCESSO  SEI E-24/004/1924/2016-SAMSUNG  ELETRONICA DA AMAZONIA PROCESSO SEI E-24/004/2064/2016-TIM S/A PROCESSO SEI E-24/004/100/2016-POSITIVO TECNOLOGIA S/A PROCESSO SEI E-24/004/982/2014-LIGHT SERVICOS DE ELETRICIDADE S.A PROCESSO  SEI  E-24/004/5070/2015-REAL  LATAS  PECAS  E  ACESSORIOS PROCESSO  SEI E-24/004/2008/2015-MADE  IN  CEARA ADEGA  LTDA PROCESSO  SEI  E-24/004/5779/2015-COMERCIO  DE  PETROLEO  E DERIVADOS COND DO RIO NOVO LTDA PROCESSO SEI-240002/003196/2022-SUL  AMERICA COMPANHIA DE SEGURO SAUDE PROCESSO SEI E-15/003/880/2018-M CARTOES ADMINISTRADORA DE CARTOES DE CREDITO LTDA PROCESSO SEI E-24/004/8510/2013-DIGIBRAS INDUSTRIA DO BRASIL S/A PROCESSO SEI E-15/003/184/2016-UNIAO DE LOJAS LEADER SA PROCESSO  SEI E-15/003/1537/2016-WMB  SUPERMERCADOS DO BRASIL LTDA PROCESSO SEI E-24/004/5854/2015-AGIBANK FINANCEIRA SA CREDITO, FINANCIAMENTO E INVESTIMENTO PROCESSO SEI-240002/001868/2024-NA  BRASA PEPE ALIMENTACAO LTDA PROCESSO  SEI  E-24/004/2007/2016-CNOVA COMERCIO  ELETRONICO S/A PROCESSO SEI E-24/004/4463/2014-BANCO DAYCOVAL PROCESSO SEI  E-15/003/439/2016-UPGRADE BARES INTERATIVOS LTDA PROCESSO  SEI  E-24/004/1266/2016-NOVA  IGUACU  GNV-POSTO DE GASOLINA PROCESSO SEI E-24/004/1083/2016-ITAU UNIBANCO S.A. PROCESSO SEI E-24/004/1169/2015-BANCO BMG S.A PROCESSO  SEI  E-15/003/1257/2016-NEOLIFE  COMERCIO  DE  ALIMENTOS E BEBIDAS LTDA PROCESSO SEI E-24/004/4045/2015-ITAU UNIBANCO S.A. PROCESSO SEI E-24/004/3250/2015-CONCESSIONARIA RIO PAX PROCESSO SEI E-24/004/2127/2014-LAVE'STOP AUTO SERVICOS PROCESSO SEI E-24/004/857/2016-TIM CELULAR S/A PROCESSO SEI E-24/004/1803/2016-INGLERAMA IDIOMAS LTDA PROCESSO SEI E-24/004/3577/2015-ETNA COM. DE MOVEIS E ARTIGOS PARA DECORACAO PROCESSO SEI E-24/004/1140/2016-TIM CELULAR S/A PROCESSO SEI E-24/004/1583/2015-ACOUGUE SAO PAULO PROCESSO SEI E-15/003/1402/2016-CASA &amp; VIDEO BRASIL S.A PROCESSO SEI E-24/004/6938/2014-J.M. GURGEL PROCESSO SEI E-24/004/1025/2015-ADAO E FERREIRA BAR LTDA PROCESSO SEI  E-24/004/2652/2015-SUPERMERCADOS VIANENSE LT  D  A PROCESSO SEI E-24/004/2128/2015-MONTE  TAQUARA COMERCIO E  INDUSTRIA DE COMESTIVEIS FINOS LTD A PROCESSO  SEI  E-24/004/7004/2013-SINGER DO  BRASIL  INDUSTRIA  E  COMERCIO PROCESSO SEI E-24/004/625/2015-ALBERGUE CULTURAL HABITAT CARIOCA EIRELI PROCESSO SEI E-24/004/3207/2014-CARDIF DO BRASIL SEGUROS E  GARANTIAS PROCESSO  SEI-240002/002507/2024-BAR  E  RESTAURANTE  443 NA BRASA LTDA PROCESSO SEI E-24/004/3810/2015-SAMSUNG ELETRNICA  DA AMAZONIA LTDA PROCESSO  SEI-240002/002022/2023-COMPANHIA BRASILEIRA  DE DISTRIBUICAO-DENNER B. MASCARENHAS BARBOSA-OAB/RJ 220028 PROCESSO SEI-240002/003734/2023-POSTO VILA GUARANI LTDA PROCESSO  SEI-240002/001106/2024-AUTO  SERVICO  CACHOEIRA LT  D  A PROCESSO  SEI E-12/130635/2009-LOSANGO  PROMOCOES  DE VENDAS LTDA PROCESSO  SEI E-24/004/4258/2014-GIBSON INNOVATIONS  DO BRASIL INDUSTRIA ELETRONICA LTDA PROCESSO SEI E-24/004/2/2014-CIASPREV CENTRO DE INTEGRACAO E ASSISTENCIA AOS SERVIDORES PUBLICOS PROCESSO SEI E-24/004/8141/2013-POSITIVO TECNOLOGIA S.A. PROCESSO SEI E-24/004/6246/2014-RRM REDE RIO DE MEDICINA LT  D  A PROCESSO SEI E-24/004/1889/2016-SPRINGER CARRIER LTDA PROCESSO SEI E-24/004/507/2015-MIDEA  DO BRASIL AR CONDICIONADO PROCESSO SEI-240002/001585/2023-CAIXA ECONOMICA FEDERAL PROCESSO  SEI E-24/004/1234/2014-SUL  AMERICA COMPANHIA DE SEGURO SAUDE PROCESSO SEI E-15/003/887/2018-CLARO S.A PROCESSO SEI E-24/004/3336/2015-POSITIVO TECNOLOGIA S.A. PROCESSO SEI E-24/004/2930/2014-ESCOLA CANADENSE EDUCACAO GLOBAL LTDA PROCESSO  SEI-240002/002012/2023-COMPANHIA BRASILEIRA  DE DISTRIBUICAO-DENNER B. MASCARENHAS BARBOSA-OAB/RJ 220028 PROCESSO SEI E-24/004/410/2015-SPRINGER CARRIER LTDA PROCESSO SEI E-15/003/197/2017-ARNO SA PROCESSO  SEI E-24/004/907/2016-INTERCONTINENTAL  COMERCIO  DE  ALIMENTOS LTDA PROCESSO SEI E-24/004/4883/2015-ITAU UNIBANCO S.A PROCESSO  SEI-240002/002018/2023-CENCOSUD BRASIL  COMERCIAL PROCESSO SEI E-15/003/958/2016-BALADO VEICULOS LTDA PROCESSO SEI E-24/004/1970/2016-AMERICANAS S/A PROCESSO  SEI E-15/003/676/2016-WMB  SUPERMERCADOS DO BRASIL LTDA PROCESSO  SEI-220013/001212/2020-CARREFOUR COMERCIO  E INDUSTRIA PROCESSO SEI E-24/004/1721/2016-AMERICANAS S/A PROCESSO  SEI  E-24/004/5552/2014-AUTO  POSTO  DE  SERVICOS MARISOL PROCESSO SEI E-24/004/1326/2015-BANCO PAN S/A PROCESSO SEI E-24/004/9448/2013-BANCO BMG SA PROCESSO SEI E-15/003/4/2017-AMERICANAS S/A PROCESSO SEI E-24/004/3912/2014-CAR RENTAL SYSTEMS S.A PROCESSO  SEI E-15/003/650/2016-PONTO  CERTO COMERCIO  E COMUNICACOES PROCESSO SEI E-24/004/1087/2014-FAB.ZONA OESTE PROCESSO SEI E-15/003/541/2019-AMERICAN AIR LINES INC PROCESSO  SEI E-24/004/3110/2014-LUIGI'S ZUCCHINE BAR  E RESTAURANTE LTDA PROCESSO SEI  E-24/004/5070/2013-M.E.MONTE CASTELO IMOBILIARIA PROCESSO SEI E-24/004/7521/2014-FAB.ZONA OESTE PROCESSO SEI  E-24/004/5055/2013-M.E.MONTE CASTELO IMOBILIARIA  S.A PROCESSO  SEI E-24/004/2104/2015-CLARO  NXT TELECOMUNICACOES S.A PROCESSO SEI-240002/001158/2022-HUBLA TECNOLOGIA LTDA PROCESSO SEI E-24/004/7604/2014-CANTIN BUONASERA DA BARRA LTDA PROCESSO SEI  E-24/004/7623/2014-NINA PARK ESTACIONAMNETO LTDA PROCESSO SEI E-24/004/4274/2015-SUPERMERCADO PADRAO DO FONSECA EIRELI PROCESSO  SEI  E-24/004/1975/2015-BACAXA-LAGOS  SERVICOS  E T  R  A  N  S  P  O  RT  E  S DETERMINO  O  ARQUIVAMENTO de  todos  os  processos  acima  relacionados.
 
@@ -5438,17 +5438,17 @@ Id:  2731351
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Procuradoria Geral do Estado
 
@@ -5563,41 +5563,41 @@ Assim,  a  escolha  do  Incoterm  deve  constar  do  Termo  de  Referência,  po
 
 7.15.1  Caso  o  licitante  estrangeiro  não  possa  atender  ao  disposto  no  subitem  anterior,  por força  de  legislação  específica do seu  país de  origem, deverá  ser preenchida  a declaração de inexistência  de equivalência de documento,  na forma do Anexo  \_\_\_.'
 
-/U0033/U0034
+34
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037 /U0034
+07 4
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0032/U0039
+29
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 XII  fica  acrescido  ao  item  12  o  subitem  12.3,  com  a  seguinte  redação,  passando o  atual  subitem 12.3  a  corresponder ao  subitem 12.4,  renumerando-se  os  subsequentes:
 
@@ -5733,17 +5733,17 @@ Razão social:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ CNPJ nº:  \_\_\_\_\_\_\_\_
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Dados do(s)  representante(s) legal(is) com poderes  para sinar  o  contrato: Nome: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ CPF:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ RG:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Telefone:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ E-mail:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ [ASSINATURA DO REPRESENTANTE LEGAL] [LOCAL,  DATA]
 
@@ -5811,41 +5811,41 @@ Id:  2731446
 
 Id:  2731344
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0033/U0035
+35
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0037 /U0034
+07 4
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0032/U0039
+29
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 apreciação do item (3), SEI-140001/015729/2026 - Promoção. Após os esclarecimentos prestados  pela Procuradora-Corregedora de  que a promoção,  neste  ano, começará  pelo  critério  de antiguidade  e  serão promovidos  6  (seis)  Procuradores  por  antiguidade  e  5  (cinco)  por  merecimento  em  cada  categoria,  bem  ainda que  o  critério  inicial  de  promoção deverá ser alternado a cada ano, foram iniciados os debates e votações,  tendo  sido  alcançados  os seguintes  resultados :  (I)  Promoção  de  3ª  para  2ª  categoria -(I.1)  Antiguidade -  Maria  Luísa  de Magalhães  Barbosa; (I.2)  Merecimento -lista  formada  por  Leonardo Silveira  Antoun Netto  (PROMOVIDO), João  Manoel Andrade  Maciel Da Silva  Campos  Galdi  e  Vitor  Campos  de  Azevedo  Freitas; (I.3)  Antiguidade -  Daniel Carvalho  Cardinali; (I.4)  Merecimento -  lista  formada  por Amanda  Colchete Pinto Balestro (PROMOVIDA),  Flávio Costa  Bezerra  Filho  e  Vitor  Campos  de  Azevedo  Freitas; (I.5)  Antiguidade -  Heloá  Paula  da  Silva Mendes Gomes; (I.6)  Merecimento  lista  formada por  Flávio Costa  Bezerra Filho  (PROMOVIDO), Juliane dos Santos  Júlio e Vitor  Campos de Azevedo Freitas; (I.7)  Antiguidade -Daniel  de  Oliveira  Pontes; (I.8)  Merecimento -lista  formada por Vitor  Campos de  Azevedo Freitas (PROMOVIDO),  Juliane dos Santos  Júlio e  Luiz  Filippe  Esteves Cunha, (I.9)  Antiguidade -  Daniel de  Souza  Vellame; (I.10)  Merecimento -  Juliane  dos  Santos  Júlio (PROMOVIDA), Luiz Filippe  Esteves  Cunha e  Marcella  de Oliveira  Ribeiro; (  I   .  11  )  Antiguidade -  João  Manoel  Andrade Maciel  da  Silva Campos Galdi; (II) Promoção  de 2ª  para 1ª  categoria -  (II.1) Antiguidade Luis  Marcelo Marques do Nascimento ;  (II.2)  Merecimento  lista formada  por  Cristina Ferreira  Tenório Francesconi  (PROMOVIDA),  Erick  Tavares  Ribeiro  e  Bruno  Terra  de  Moraes; (II.3)  Antiguidade  Anderson Schreiber; (II.4)  Merecimento  lista  formada  por Bruno  Terra  de  Moraes  (PROMOVIDO), Hugo  Wilken  Maurell  e  Bruno Fernandes Dias; (II.5)  Antiguidade  Pedro  Guimarães Loula; (II.6) Merecimento lista  formada por Hugo Wilken Maurell (PROMOVIDO), Erick Tavares  Ribeiro e  Antônio Joaquim Pires  de Carvalho  e Albuquerque; (II.7)  Antiguidade  Tatiana  Esteves  Natal; (II.8)  Merecimento -lista  formada  por Erick  Tavares  Ribeiro (PROMOVIDO),  Bruno Fernandes  Dias  e  Antônio  Joaquim  Pires  de  Carvalho  e  Albuquerque (II.9)  Antiguidade Tatiana Simões dos Santos; (II.10)  Merecimento lista  formada por Bruno Fernandes Dias (PROMOVIDO), Antônio Joaquim Pires de  Carvalho e Albuquerque e Paulo  Enrique Mainier de Oliveira; (II.11)  Antiguidade  Bruno  Binatti  da  Costa.  Passou-se,  por fim, à  discussão do  item (4)  da pauta, Assuntos  Gerais, no  qual o Conselho  aprovou  os  itens  destacados  para  debate  constantes  no  relatório elaborado  pelo Grupo  de Trabalho instituído  pela Resolução PGE nº 5.355/2026 e referendou a designação do Conselheiro Gabriel Pacheco  Ávila  como relator  do  referido  expediente  para fins  de  continuidade do acompanhamento  do tema no âmbito  do Conselho. Não havendo  mais  a  ser  discutido,  o  Presidente  do  Conselho  deu  por  encerrados os trabalhos, do  que, para constar, a Procuradora-Corregedora  lavrou  a  presente  Ata,  que  vai  assinada  por  ambos.  Processo  nº SEI-140001/026623/2026.
 
@@ -5879,17 +5879,17 @@ PA  R  T  E  S sob  o  nº.  07.667.296/0001-48. O  B  J  E  TO Centro  -  Rio  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 contado  da  divulgação no  Portal  Nacional  de Contratações  Públicas e/ou  da  publicação  no  Diário  Oficial  do  Estado  do  Rio  de  Janeiro. VA  L  O  R  : valor total  e de  até R$  5.500,00 (cinco  mil e  quinhentos reais),  considerando  o  prazo  total  da  sua  vigência. D  O  TA  Ç  ÕES ORÇAMENTÁRIAS : PT: 04.122.0002.2016; ND 3390.39.12;  FR:  1.500.100;  NE  2026NE00149. DATA DA ASSINATURA :  27  de  abril  de  2026. FUNDAMENTO DO ATO
 
@@ -5911,20 +5911,20 @@ O procedimento pericial  será realizado na data  abaixo informada, na Sede  do 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 | GDC alimentos  S/A  02.279.324/0001-36  2103736  14/05/2026  as  13:10h  Atum solido  em  óleo  -  Gomes da costa c/  peso  liq.  170g  dren.  120g  Industria  e  com.  de  prod.  alim.  Cepera  ltda  82.162.243/0003-45  2103735  14/05/2026  as  13:40h  Molho  Bob  s  Burger  &amp;  salad  -  Bob  s  c/  200g  Adko  ind.  e  comercio  de  alimentos  ltda  15.156.173/0001-70  2103722  14/05/2026  as  14:00h  Cebola  Palha  -  Adko  c/  70g  Unilever  Brasil  industrial  ltda 01.615.814/0064-87  2103153  18/05/2026  as  09:00h  Luminousuv  (  6%glycol  +  vita  c)  -  Seda  c/  110ml  Total  química  ltda  68.418.433/0001-03  1608848  18/05/2026  as  09:30h  Desinfetante de  uso  geral  -  Carrefour  c/  500ml  Provider  ind.  e  com.  ltda  02.138.483/0001-10  1608838  18/05/2026  as  10:00h  Lysoform  SC  -  Johnson  c/  500ml  Nova mix  ind.  e  com.  de  alimentos  ltda.  08.142.803/0010-83  2103718  18/05/2026  as  10:30h  Leite  UHT  integral  -  Glo-  ria  c/  1l  Laticinios  Tirol  ltda  8  3  .  0  11  .  2  4  7  /  0  0  2  3  -  4   6  2103134  18/05/2026  as  11  :00h  Bebida  láctea  sabor  leite  c/  cohoclate  -  Tirol  c/  200ml  Johnson&amp;Jonson industrial  ltda  59.748.988/0001-14  2103158  18/05/2026  as  11  :  4  0h  Loção  deo  hidratante  -  Neotrogena  c/  200ml  Industria  de  sabões  Neutral  ltda  34.166.223/0001-45  1608845  18/05/2026  as  12:30h  Desinfetante  para  uso  ge-  ral  -  Vitral  c/  2l  GDC alimentos  S/A  02.279.324/0001-36  2103199  18/05/2026  as  13:00h  Atum em pedaços óleo  come.c/vegetal  -  Gomes  da  costa  c/  170g  x  120g  Fornello  produtos  alimentí-  cios  eireli  61.021.507/0001-16  2103200  18/05/2026  as  13:40h  Champignon fatiado  em  conserva  -  Fornello  c/  180g  x  100g  Ambev S/A F.  Jaguaruna  07.526.557/0005-33  2103656  18/05/2026  as  14:20h  Suplemento  alimentar  carb.  Eletrólitos  -  Gatora-  de  c/  500ml  Elisete  Ribeiro  Pinto  33.345.069/0001-06  2101482  19/05/2026  as  09:00h  Alho  frito  -  Super  alho  c/  100g  Foods  Brands  ind.  de  pro-  dutos  alimentícios  S/A  24.353.832/0001-50  2103203  19/05/2026  as  09:30h  Tempero  para  carnes  -  Kisabor  c/  40g  Farmativa  ind.  e  comercio  ltda  me  40.177.263/0001-95  2103191  19/05/2026  as  10:00h  Manteiga  vegetal  de  fru-  tas  p/  cabelo  -  Lola  cos-  méticos  c/  100g  Farmativa  ind.  e  comercio  ltda  me  40.177.263/0001-95  2103191  19/05/2026  as  10:00h  Creme alisante  uso  pro-  fissional  -  Lola  cosméti-  cos  c/  100g  Industrias  Granfino  S/A  30.770.184/0001-30  2103733  19/05/2026  as  10:10h  Farrinha  de  man.  torrada  gr  seca  clsse  fina  T1  -  Granfino  c/  1kg  Industrias  Granfino  S/A  30.770.184/0001-30  2103733  19/05/2026  as  10:10h  Canjica  branca  g/  mistu-  rada  despeliculado  .  clas.branca  T2  granfino  c/  500g  Heinz  Brasil  S/A  5  0  .  9  5  5  .  7  0  7  /  0  0  11  -  0   1  2103723  19/05/2026  as  10:30h  Ketchup tomato  -  Heinz  c/  397g  Jav  indústria  de  alimentos  ltda  08.369.748/0001-78  2103208  19/05/2026  as  10:40h  Farinha  de  milho  flocada  sem sal  -  Marata  c/  500g  Industria  alimentícia  Alfa  lt-  da  38.875.365/0001-32  2103731  19/05/2026  as  10:50h  Mistura  flocada  p/  empa-  nados  -  Panko  c/  200g  Liotecnica  tecnologia  em  ali-  mentos  ltda  61.297.784/0001-56  2103179  19/05/2026  as  11  :  4  0h  Alimento  c/  extrato  de  ce-  real  cevada  e  malte  s/  choc.  -  Ovomaltine  c/  300g  M Dias  branco  S/A  ind.  de  alimentos  07.206.816/0001-15  2103174  19/05/2026  as  12:50h  Biscoito  sabor  presunto  -  Piraque  c/  6x  23g  total  138g  M Dias  branco  S/A  ind.  de  alimentos  07.206.816/0001-15  2103174  19/05/2026  as  12:50h  Biscoito  salgado  original  -  Piraque  c/  6x  23g  total  138g  Minas  Mais  alimentos  ltda  11  .  7  0  1  .  3  1  9  /  0  0  0  1  -  6   0  2103725  19/05/2026  as  13:30h  Molho  de  tomate  refoga-  do  -  Predilecta  c/  300g  Matinal  alimentos  ltda  12.710.766/0001-49  2103187  19/05/2026  as  13:50h  Leite  de  cabra  em  pó  in-  tegral  ins.  -  Caprilat  c/  125g  Ajinomoto  do  Brasil  ind.  e  com.  de  alimentos  ltda  46.344.354/0005-88  2103202  20/05/2026  as  09:30h  Tempero  para  carnes  -  Sazon  c/  60g  Alho  Zana  com.  e  ind.  de  alimentos  21.483.351/0001/70  2103185  20/05/2026  as  10:00h  Pasta  de  alho  sem  sal  -  Zana  c/  200g  Coringa  alimento  ltda  62.453.774/0001-25  2104305  20/05/2026  as  10:20h  Carne  salgada  de  suíno  sem osso c/  lombo  -  Pai-  neira  c/  400g  Celupa  ind.  celulose  papel  Guaiba  ltda  92.788.009/0001-27  2103720  20/05/2026  as  10:30h  Filtro  de  papel  102  -  Me-  litta  c/  30un  Celupa  ind.  celulose  papel  Guaiba  ltda  92.788.009/0001-27  2103720  20/05/2026  as  10:30h  Filtro  de  papel  103  -  Bri-  gitta  c/  30un  Cooperativa  Arrozera  Pal-  mares  ltda  91.877.506/0001-39  2103729  20/05/2026  as  10:50h  Arroz  polido  longo  fino  T2  Palmares  c/  1kg  Cencosud Brasil  comercial  ltda.  39.346.861/0350-38  2103732  20/05/2026  as  11  :  2  0   h  Aveia  int.  em  flocos  finos  -  Cuisine  &amp;  co  c/  170g  Cencosud Brasil  comercial  ltda.  39.346.861/0350-38  2103732  20/05/2026  as  11  :  2  0   h  Feijão  preto  gr.1  comum  classe  preto  T1  -  Presu-  nic  c/  1kg  Cencosud Brasil  comercial  ltda.  39.346.861/0350-38  2103732  20/05/2026  as  11  :  2  0   h  Açucar  classe  cristal  branco  T.  refinado  -  Cui-  sine  &amp;co  c/  1kg  Ceras  Johnson  ltda  33.122.466/0007-04  2103175  20/05/2026  as  12:30h  Glade  car  citrus  -  Johson  c/  70g  Camil  alimentos  S/A  64.904.295/0038-03  2103172  20/05/2026  as  13:00h  Açucar  refinado  classe  cristal  branco  refinado  amorfo  -  União  c/  1kg  Café  rancheiro  agro  indus-  trial  ltda  02.924.249/0001-19  2103190  20/05/2026  as  13:30h  Biscoito  wafer  s/  chocola-  te  -Rancheiro  c/  78g   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | Cerealista  Pereira  imp.  e exportação  ltda  04.883.814/0001-72  2103204  20/05/2026  as  14:00h  Feijão  fradinho  gr.  2  cau-  pi  classe  branco  T1  -  Pe-  reira  c/  500g   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5988,17 +5988,17 @@ INOVE IV SERVIÇOS DE ENTREGA RÁPIDA LTDA CNPJ 30.723.631/0001-08  -  Processo 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Auto  de  Infração  nº  03.690080-1,  de  09/02/2026 Valor  reclamado:  R$  2.319,02.
 
@@ -6204,17 +6204,17 @@ Id:  2731230
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 FUNDAMENTO  DO ATO :  Lei  nº 14.133,  de  1º de  abril  de 2021,  e
 
@@ -6410,17 +6410,17 @@ Id:  2731223
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 O  B  J  E  TO  : A  regularização  da  edificação situada  na  Rua  Barata  Ribeiro, n° 370, Copacabana, Rio de Janeiro, com  aproximadamente 30.775,43  m² de  ATC, possuindo  23 (vinte  e três)  pavimentos, destinado  à  finalidade Residencial  A-6  -  Mista, classificada  como  Risco Médio 1, com vistas a estabelecer garantias  de  proteção  das  pessoas e  seus  bens  em  caso  de  incêndio  e  pânico. VALOR: Não há. PRAZO: 29  de  janeiro  de  2031. DATA DA ASSINATURA: 31  de  março  de  2026. FUNDAMENTAÇÃO LEGAL: Art.  1º do  Decreto-Lei  nº 247,  de 21  de julho  de  1975; Decreto  Estadual  nº  42, de  17  de  dezembro de  2018; Decreto Estadual nº 46.925, de 05 de fevereiro de 2020; e Notas Técnicas  aprovadas  por  Portaria  do  Comando-Geral  do  CBMERJ.
 
@@ -6581,17 +6581,17 @@ O DIRETOR  DO CEJA CENTRAL DO  BRASIL , Censo Escolar 33138575 -  torna pública
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ADULTOS -NO  ANO LETIVO DE 2026: Rihanna  Felix de Jesus. CURSO DE ENSINO MÉDIO NA MODALIDADE EDUCAÇÃO DE JOVENS E ADULTOS - NO ANO LETIVO DE 2026: Eduardo Ribeiro da Silva Junior, Gabriela Machado de Andrade. Diretor: Julio Cesar Farias Santos,  designado no  DOERJ de  05/03/2015, página  17, 2ª  coluna, Secretária Escolar: Cristiane Cordeiro de Rezende,  designada no DOERJ  de 30/11/2020,  página 15,  3ª coluna.  Servidores que  autorizaram  a publicação  Susy  Grossman,  ID 4326448-4  e  Marli Cicera  de Souza,  ID  4429162-0.  Processo  SEI-030001/033612/2026.
 
@@ -6929,17 +6929,17 @@ Leia-se: 'DATA DA PUBLICAÇÃO 28/04/2026'.
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 VALOR DO ADITIVO: R$ 65.325,00 (sessenta e cinco mil trezentos e vinte  e  cinco  reais).
 
@@ -7345,17 +7345,17 @@ uso  do  teatro.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 O  B  J  E  TO  :
 
@@ -7535,41 +7535,41 @@ PROCESSO Nº SEI-310001/001805/2026.
 
 Id:  2731431
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0037 /U0034
+07 4
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0032/U0039
+29
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0034/U0033
+43
 
 ## SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL E  DIREITOS  HUMANOS
 
@@ -7777,17 +7777,17 @@ Id:  2731124
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 

@@ -269,17 +269,17 @@ Ceres Pimenta Diretora Industrial
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Atos do Governador
 
@@ -487,17 +487,17 @@ ALTERA OS ANEXOS I E III DA RESOLUÇÃO SEFAZ Nº 886/2015, QUE DISCIPLINA A APL
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 ## COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS
 
@@ -548,7 +548,7 @@ Manager, PECB ISO/IEC  27701 Lead Implementer e  PECB DPO GDPR - Certified  Data
 
 Id:  2726072
 
-/U0033
+3
 
 CONSIDERANDO o disposto  no Decreto  nº 48.817  de 24  de novembro  de 2023,  que regulamenta  a gestão  e a  fiscalização das  contratações  no âmbito  da  Administração Pública  Estadual Direta,  Autárquica  e  Fundacional  e  dá  outras  providências;
 
@@ -599,33 +599,33 @@ Presidente II  o  Anexo  III  passa  a  vigorar  com  a  seguinte  redação:
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Id:  2726093
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -713,41 +713,41 @@ Id:  2726118
 
 Id:  2726103
 
-/U0036
+6
 
-/U0041/U004E/U004F
+ANO
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0030
+060
 
-/U002D
+-
 
-/U0049
+I
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0036
+6
 
 ## SECRETARIA DE ESTADO DE FAZENDA
 
@@ -835,17 +835,17 @@ Recurso nº 83394 - Processo nº SEI-040006/020847/2024 - Recorrente:  ABS DISTR
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 APURADO ATRAVÉS DE EXAME EM LIVROS E DOCUMENTOS FISCAIS.  Comprovado nos  autos que  a  recorrente deixou  de destacar  e recolher o ICMS e o adicional destinado ao FECP nas operações próprias  de saídas  internas de  mercadorias sujeitas  ao regime  de Substituição Tributária  (ST), ocorridas entre  janeiro e dezembro  de 2019. RECURSO DESPROVIDO. AUTO DE INFRAÇÃO PROCEDENTE.
 
@@ -949,9 +949,9 @@ Art.  1ºFica  designado,  a  contar  de  13  de  março  de  2026,  o  servidor
 - I  manter, sempre, no mínimo,  2 (dois) membros da comissão fiscalizadora  em  condições de  analisar,  conferir,  atestar ou  validar  a atestação  das  notas  fiscais  do  contrato  relacionado;
 - II  viabilizar,  na  hipótese de transferência do servidor designado como fiscal, que a apresentação na  Unidade de destino, somente ocorra após  a  publicação  em  DOERJ  do  substituto.  A  indicação  para  substituição  de  servidores  designados  como  fiscais  deverá  ser  feita  junto  a Diretoria  de Licitações  e  Contratos -  DLC, devendo  o  Gestor do  Contrato  ser  informado  imediatamente.
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 III  providenciar  a  substituição  imediata  de  servidor  designado  que  se achar  impedido  na  forma  do  art.10  do  Decreto  Estadual  nº  45.600,  de 16  de  março  de  2016,  encaminhando  a  solicitação  através  de  SEI  à Diretoria  de  Licitações  e  Contratos  -  DLC. §1º  O  agente público em situação de impedimento  fica obrigado a comunicá-lo aos  seus superiores  imediatamente, a  fim de  que seja providenciada  a  designação  de  outro  servidor. §2º  Enquanto não for publicada  no  DOERJ a substituição  dos  membros desta comissão fiscal, ficam  estes servidores vinculados à atividade  de  acompanhamento  e  controle  da  execução  contratual.
 
@@ -1007,17 +1007,17 @@ Art.  6º  O Gestor  e  o  Gestor  Substituto  deverão se  inteirar  do  teor d
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
 127386298  e  127386301), anotando,  em  registro  próprio, todas  as ocorrências  relacionadas com  a execução  do Contrato,  na forma  do art.  11,  Decreto  Estadual  nº  48.817,  de  24  de  Novembro  de  2023.
 
@@ -1079,7 +1079,7 @@ Art.  7º -  A  Comissão  Fiscalizadora  deverá  se  inteirar  do  teor  do  T
 
 Art.  8º -  Os  Fiscais  de Contrato  deverão  se  matricular no  Programa de  Capacitação em  Licitações  e  Contratos Administrativos  realizado pela  Secretaria  de  Estado  de  Polícia  Militar,  bem  como  nos  cursos  de capacitação  e  especialização sobre  Gestão  e  Fiscalização de  Contratos  Administrativos  promovidos  gratuitamente  pela  Escola  de  Contas  e Gestão do Tribunal de Contas o Estado do Rio de Janeiro -ECG/TCE-RJ  (link:  https://portal-br.tcerj.tc.br/web/ecg/publico-alvo-esta-
 
-/U0037
+7
 
 dual), a  fim de que se  capacitem para exercer as  suas respectivas funções.
 
@@ -1375,17 +1375,17 @@ Id:  2725962
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLICIA MILITAR DIRETORIA DE TRANSPORTE
 
@@ -1473,7 +1473,7 @@ Id:  2725939
 
 PROCESSO  N° SEI-350005/012707/2025 Trata-se  de processo  administrativo  nº SEI-350005/012707/2025,  cujo objeto  é a  contratação de empresa para a prestação de serviços de manutenção preventiva e corretiva  em veículos  automotores, por  demanda, com  fornecimento de  peças de  reposição  e  acessórios originais  ou  genuínos que  atendam às  recomendações dos fabricantes, para  atender as necessidades desta  Secretaria de Estado  de Polícia Militar (SEPM).  Tendo em vista a Reserva Orçamentária, os documentos (127882094) / (127882096),  e  a  Declaração  do  Ordenador da  Diretoria  Geral  de  Administração e Finanças (DGAF), os documentos (127890252) / (127891889), este  Subdiretor de Transporte,  no uso de  suas atribuições legais e com base na Resolução SEPM Nº 8.193 de 18/11/2025,
 
-/U0039
+9
 
 de  peças de  reposição  e  acessórios originais  ou  genuínos que  atendam às  recomendações dos fabricantes, para  atender as necessidades desta  Secretaria de Estado  de Polícia Militar (SEPM).  Tendo em vista a Reserva Orçamentária, os documentos (127932554) / (127931584),  e  a  Declaração  do  Ordenador da  Diretoria  Geral  de  Administração e Finanças (DGAF), os documentos (127976923) / (127977720), bem  como o Estudo de Impacto Financeiro, índex (127932138). RATIFICO A DESPESA,  de acordo  com o  que estabelece  o  §1º do  Artigo  82  da  Lei Estadual  n.º  287/79,  em favor  da  Empresa  RECUPERADORA  DE  VEICULOS LIOMAR  TEDESCO  LTDA, inscrita  no CNPJ  sob  o nº  13.592.206/0001-08,  estabelecida no  endereço  Rua Leonor  Maia, 2138  -  Alto Independência  Petrópolis  Cep:  25.645-340,  no  valor  de  R$  500.000,00  (quinhentos  mil  reais) pelo  período  de  12  meses  relativos  à  reserva  orçamentária  de  2026  e 2027, para  atender às necessidades  de manutenção de frota  da Polícia  Militar  do  Estado  do  Rio  de  Janeiro.
 
@@ -1525,17 +1525,17 @@ PROCESSO  N° SEI-350005/012715/2025 -  Trata-se  de processo  administrativo  n
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 (127977720),  bem como  o Estudo  de Impacto Financeiro, índex (127932138), este  Subdiretor de  Transporte, no  uso de  suas atribuições legais e com base na Resolução SEPM Nº 8.193 de 18/11/2025, A  U  TO  R  I  Z  A A DESPESA na forma do Projeto Básico e do instrumento convocatório,  que  entre  si  celebram  o  Estado  do  Rio  de  Janeiro,  por meio da Secretaria  de Estado da Polícia Militar e  a empresa RECUPERADORA  DE VEICULOS  LIOMAR  TEDESCO  LTDA, inscrita  no CNPJ sob  o nº 13.592.206/0001-08, estabelecida  no endereço Rua Leonor Maia,  2138 -Alto  Independência -Petrópolis -  Cep: 25.645340, no valor de R$ 500.000,00 (quinhentos mil reais) pelo período de 12 meses  relativos à  reserva orçamentária de  2026 e  2027, para atender  as  necessidades  de  manutenção  de  frota  da  Polícia  Militar  do Estado  do  Rio  de  Janeiro.
 
@@ -1726,17 +1726,17 @@ Penitenciária  Moniz  Sodré  -  SEPPEN/MS -  Diretor; -  Subdiretor; -  Chefe 
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - Grupamento de Intervenção Tática -  SEPPEN/GIT
 -  Diretor;
@@ -2187,17 +2187,17 @@ II  anotar,  em  registro  próprio,  todas  as  ocorrências  relacionadas  com
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - a execução do contrato, determinando  o que for necessário à regularização  das  faltas  ou  impropriedades  observadas;
 
@@ -2460,17 +2460,17 @@ O Decreto 47.365/2020 determina a obrigatoriedade da contratação da certifica�
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 dias, a partir da data da  publicação, para a conclusão dos trabalhos. Processo  nº  SEI  210001/026630/2026.
 
@@ -2577,17 +2577,17 @@ Id:  2725950
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - Art. 3º -Todos os atos praticados com base  nesta Resolução deverão, obrigatoriamente, ser publicados no  Diário Oficial do Estado do Rio  de  Janeiro.
 
@@ -2680,17 +2680,17 @@ Id:  2726082
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE DEFESA CIVIL CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO
 
@@ -2698,7 +2698,7 @@ Id:  2726082
 
 DESIGNA ,  a  contar  de  03/03/2026,  os  seguintes  membros  para  comporem  as  Comissões  de  Fiscalização  dos  Contratos,  ficando  revogadas  quaisquer  outras  publicações  anteriores  de  comissões  de  fiscalização  para  os  respectivos  contratos,  devendo  as  referidas  Comissões seguirem  ao  disposto  no  Decreto  Estadual  nº  48.817  de  24  de  novembro  de  2023,  que  regulamenta  a  gestão  e  a  fiscalização  das  contratações  da  Administração  Pública  e  demais  rotinas  que  seguem elencadas. Processo  SEI-270006/007113/2026. Contrato  nº  080/2022  firmado  com  a  empresa  ENGE  PRAT  ENGENHARIA E SERVIÇOS LTDA (SEI-270042/000135/2021 e SEI270131/000067/2023). GESTOR TÉCNICO OPERACIONAL MAJ BM QOC/06 ROBSON CLEMENTINO DA SILVA, RG: 37.893, ID  FUNCIONAL:  4262711-7. FISCAL MAJ BM QOC/09 LUIS HENRIQUES SALES PEREIRA, RG: 45.318, ID  FUNCIONAL:  4359906-  0. CAP BM QOC/17 MURILO CEZAR ROCHA ARAUJO, RG: 53.398, ID  FUNCIONAL:  5088130-  2. CAP BM QOC/13 EDUARDO MOREIRA NETTO, RG: 49.119, ID FUNCIONAL: 5088130-2. FISCAL SUBSTITUTO Cap BM QOC/12 ALLAN DE SOUZA ROCHA, RG: 48.071, Id Funcional:  4142518-9. Contrato  nº  081/2022  firmado  com  a  empresa  ENGE  PRAT  ENGENHARIA E SERVIÇOS LTDA (SEI-270042/000135/2021 e SEI270131/000068/2023). GESTOR TÉCNICO OPERACIONAL Maj  BM  QOC/06  ROBSON CLEMENTINO DA SILVA, RG: 37.893, Id Funcional:  4262711-7. FISCAL 2º  SGT  BM  Q02/08  CLÁUDIO  BONFANTE  DE  OLIVEIRA,  RG: 43.119,  ID  FUNCIONAL:  4341079-0. 2º  SGT  BM  Q02/08  VICTOR  LEANDRO  SOUZA  DOS  SANTOS,  RG: 43.208,  ID  FUNCIONAL:  434116-8. MAJ BM QOC/09 LUIS HENRIQUES SALES PEREIRA, RG: 45.318, ID  FUNCIONAL:  4359906-  0. SD BM Q00/24 GILCIMAR AZEVEDO ROZA JUNIOR, RG: 54.457, ID  FUNCIONAL:  5151014-6. FISCAL SUBSTITUTO SUBTEN BM Q01/97 BRUNO OLIVEIRA SILVEIRA, RG: 21.021, ID FUNCIONAL: 2676338-9. Contrato  nº  082/2022  firmado  com  a  empresa  ENGE  PRAT  ENGENHARIA E SERVIÇOS LTDA (SEI-270042/000135/2021 e SEI270131/000069/2023). GESTOR TÉCNICO OPERACIONAL MAJ BM QOC/06 ROBSON CLEMENTINO DA SILVA, RG: 37.893, ID  FUNCIONAL:  4262711-7. FISCAL 2º  SGT  BM  Q02/08  CLÁUDIO  BONFANTE  DE  OLIVEIRA,  RG: 43.119,  ID  FUNCIONAL:  4341079-0. 2º  SGT  BM  Q02/08  VICTOR  LEANDRO  SOUZA  DOS  SANTOS,  RG: 43.208,  ID  FUNCIONAL:  434116-8. SUBTEN BM Q01/97 BRUNO OLIVEIRA SILVEIRA, RG: 21.021, ID FUNCIONAL: 2676338-9. SD BM Q00/24 GILCIMAR AZEVEDO ROZA JUNIOR, RG: 54.457, ID  FUNCIONAL:  5151014-6. FISCAL SUBSTITUTO SD BM Q00/24 JEFERSON DE SOUZA FREITAS, RG: 54.461, ID FUNCIONAL: 5151060-0. Contrato  nº  083/2022  firmado  com  a  empresa  ENGE  PRAT  ENGENHARIA E SERVIÇOS LTDA (SEI-270042/000135/2021 e SEI270131/000070/2023). GESTOR TÉCNICO OPERACIONAL MAJ BM QOC/06 ROBSON CLEMENTINO DA SILVA, RG: 37.893, ID  FUNCIONAL:  4262711-7. FISCAL 2º  SGT  BM  Q00/08  RAFAEL  GOMES  DE  SOUZA  DOS  SANTOS, RG:  44.142,  ID  FUNCIONAL:  4341670-5. 2º  SGT  BM  Q02/08  CLÁUDIO  BONFANTE  DE  OLIVEIRA,  RG: 43.119,  ID  FUNCIONAL:  4341079-0. SUBTEN BM Q01/97 BRUNO OLIVEIRA SILVEIRA, RG: 21.021, ID FUNCIONAL: 2676338-9. SD BM Q00/24 VITOR JOSÉ ALVES FRANCISQUINI, RG: 54.492, ID  FUNCIONAL:  5152015-  0. FISCAL SUBSTITUTO SD BM Q00/24 DANIEL VITOR MIRANDA DUARTE, RG: 54.459, ID FUNCIONAL: 5151809-5. Contrato  nº  084/2022  firmado  com  a  empresa  ENGE  PRAT  ENGENHARIA E SERVIÇOS LTDA (SEI-270042/000135/2021 e SEI270131/000071/2023). GESTOR TÉCNICO OPERACIONAL MAJ BM QOC/06 ROBSON CLEMENTINO DA SILVA, RG: 37.893, ID  FUNCIONAL:  4262711-7. FISCAL 2º  SGT  BM  Q02/08  VICTOR  LEANDRO  SOUZA  DOS  SANTOS,  RG: 43.208,  ID  FUNCIONAL:  434116-8. 2º  SGT  BM  Q02/08  CLÁUDIO  BONFANTE  DE  OLIVEIRA,  RG: 43.119,  ID  FUNCIONAL:  4341079-0. SUBTEN BM Q01/97 BRUNO OLIVEIRA SILVEIRA, RG: 21.021, ID FUNCIONAL: 2676338-9. SD BM Q00/24 JEFERSON DE SOUZA FREITAS, RG: 54.461, ID FUNCIONAL: 5151060-0. FISCAL SUBSTITUTO SD BM Q00/24 GILCIMAR AZEVEDO ROZA JUNIOR, RG: 54.457, ID  FUNCIONAL:  5151014-6. Contrato  nº  085/2022  firmado  com  a  empresa  ARGAL  CONSTRUTORA LTDA. (  SEI270042/000135/2021  e  SEI-270131/000075/2023). GESTOR TÉCNICO OPERACIONAL MAJ BM QOC/06 RAMON RODRIGO SILVA VIEIRA, RG: 37.887, ID FUNCIONAL: 4262706-0. FISCAL MAJ BM QOC/09 LEANDRO FERNANDES MOREIRA AGUIAR GONÇALVES, RG: 45.319, ID  FUNCIONAL: 4359907-9. SD BM Q00/24 DAVIDSON GABRIEL SILVA DOS SANTOS, RG: 54.475,  ID  FUNCIONAL:  5130631-0. CAP BM QOA/02 MARCOS VINICIUS PIMPA DOS SANTOS, RG: 31.361,  ID  FUNCIONAL:  614291-5. FISCAL SUBSTITUTO SD BM Q00/24 VICTOR MANHÃES DA PENHA, RG: 54.473, ID FUNCIONAL: 5152001-0. Contrato  nº  086/2022  firmado  com  a  empresa  ARGAL  CONSTRUTORA LTDA (SEI270042/000135/2021 e SEI-270131/000073/2023). GESTOR TÉCNICO OPERACIONAL MAJ BM QOC/06 RAMON RODRIGO SILVA VIEIRA, RG: 37.887, ID FUNCIONAL: 4262706-0. FISCAL SUBTEN BM Q06/AXE/08 CRISTIANO FÉLIX NOBREGA, RG: 42.248,  ID  FUNCIONAL:  4339666-6. CAP BM QOC/14 THIAGO SIMÕES DA SILVA, RG: 49.203, ID FUNCIONAL: 5027688-3. FISCAL SUBSTITUTO MAJ BM QOC/06 ROBSON CLEMENTINO DA SILVA, RG: 37.893, ID  FUNCIONAL:  4262711-7. Contrato  nº  87/2022  firmado  com  a  empresa  ENGE  PRAT  ENGENHARIA E SERVIÇOS LTDA (SEI-270042/000135/2021 e SEI270131/000074/2023).
 
-/U0049
+I
 
 GESTOR TÉCNICO OPERACIONAL MAJ BM QOC/06 ROBSON CLEMENTINO DA SILVA, RG: 37.893, ID  FUNCIONAL:  4262711-7. FISCAL MAJ BM QOA/97 LUCIANO SODRÉ, RG: 20.728, ID FUNCIONAL: 612253-1. SUBTEN BM Q00/00 VITAL WAGNER MARIA DA VITORIA, RG: 27.467,  ID  FUNCIONAL:  2638096-0. FISCAL SUBSTITUTO 2º  SGT  BM  Q00/08  RAFAEL  GOMES  DE  SOUZA  DOS  SANTOS, RG:  44.142,  ID  FUNCIONAL:  4341670-5. Contrato  nº  088/2022  firmado  com  a  empresa  ARGAL  CONSTRUTORA LTDA (SEI270042/000135/2021 e SEI-270131/000072/2023). GESTOR TÉCNICO OPERACIONAL MAJ BM QOC/06 RAMON RODRIGO SILVA VIEIRA, RG: 37.887, ID FUNCIONAL: 4262706-0. FISCAL SUBTEN BM Q06/AXE/08 CRISTIANO FÉLIX NOBREGA, RG: 42.248,  ID  FUNCIONAL:  4339666-6. CAP BM QOC/14 THIAGO SIMÕES DA SILVA, RG: 49.203, ID FUNCIONAL: 5027688-3. MAJ BM QOC/06 ROBSON CLEMENTINO DA SILVA, RG: 37.893, ID  FUNCIONAL:  4262711-7. FISCAL SUBSTITUTO SUBTEN BM Q02/98 ODEMIS QUEIROZ DA SILVA, RG: 23.871, ID FUNCIONAL: 2617661-0. Contrato  nº  89/2022  firmado  com  a  empresa  ENGE  PRAT  ENGENHARIA E SERVIÇOS LTDA (SEI-270042/000135/2021 e SEI270131/000076/2023). GESTOR TÉCNICO OPERACIONAL MAJ BM QOC/06 ROBSON CLEMENTINO DA SILVA, RG: 37.893, ID  FUNCIONAL:  4262711-7. FISCAL CAP BM QOC/16 ARTUR ANTÔNIO PEREIRA VIANNA, RG: 53.347, ID  FUNCIONAL:  5034547-8. MAJ BM QOC/09 LUIS HENRIQUES SALES PEREIRA, RG: 45.318, ID  FUNCIONAL:  4359906-  0. FISCAL SUBSTITUTO CAP BM QOC/17 MURILO CEZAR ROCHA ARAÚJO, RG: 53.398, ID  FUNCIONAL:  5088130-2. Contrato  nº  090/2022  firmado  com  a  empresa  ARGAL  CONSTRUTORA LTDA (SEI270042/000135/2021 e SEI-270131/000077/2023). GESTOR TÉCNICO OPERACIONAL MAJ BM QOC/06 RAMON RODRIGO SILVA VIEIRA, RG: 37.887, ID FUNCIONAL: 4262706-0. FISCAL MAJ BM QOC/06 ROBSON CLEMENTINO DA SILVA, RG: 37.893, ID  FUNCIONAL:  4262711-7. CAP BM QOC/14 THIAGO SIMÕES DA SILVA, RG: 49.203, ID FUNCIONAL: 5027688-3. FISCAL SUBSTITUTO SUBTEN BM Q06/AXE/08 CRISTIANO FÉLIX NOBREGA, RG: 42.248,  ID  FUNCIONAL:  4339666-6. Contrato  nº  091/2022  firmado  com  a  empresa  ARGAL  CONSTRUTORA LTDA (SEI270042/000135/2021 e SEI-270131/000078/2023). GESTOR TÉCNICO OPERACIONAL MAJ BM QOC/06 RAMON RODRIGO SILVA VIEIRA, RG: 37.887, ID FUNCIONAL: 4262706-0. FISCAL MAJ BM QOC/06 ROBSON CLEMENTINO DA SILVA, RG: 37.893, ID  FUNCIONAL:  4262711-7. CAP BM QOC/14 THIAGO SIMÕES DA SILVA, RG: 49.203, ID FUNCIONAL: 5027688-3. FISCAL SUBSTITUTO CAP BM QOA/02 MARCOS VINICIUS PIMPA DOS SANTOS, RG: 31.361,  ID  FUNCIONAL:  614291-5. Contrato  nº  006/2024  firmado  com  a  empresa  ENGE  PRAT  ENGENHARIA E SERVIÇOS LTDA (SEI-270042/000828/2021 e SEI270006/023309/2024). GESTOR TÉCNICO OPERACIONAL 2º  SGT  BM  Q02/08  CLÁUDIO  BONFANTE  DE  OLIVEIRA,  RG: 43.119,  ID  FUNCIONAL:  4341079-0. FISCAL 2º  SGT  BM  Q02/08  VICTOR  LEANDRO  SOUZA  DOS  SANTOS,  RG: 43.208,  ID  FUNCIONAL:  4341168-1. SUBTEN BM Q01/97 BRUNO OLIVEIRA SILVEIRA, RG: 21.021, ID FUNCIONAL: 2676338- 9. FISCAL SUBSTITUTO CAP BM QOC/12 ALLAN DE SOUZA ROCHA, RG: 48.071, ID FUNCIONAL: 4142518-9. Contrato  nº  129/2022  firmado  com  a  empresa  CONSTRUTORA  METROPOLITANA SA (SEI270054/000807/2021, SEI270042/001102/2023  e  SEI-270042/001172/2023). GESTOR TÉCNICO OPERACIONAL 2º  SGT  BM  Q02/08  CLÁUDIO  BONFANTE  DE  OLIVEIRA,  RG: 43.119,  ID  FUNCIONAL:  4341079-0. FISCAL 2º  SGT  BM  Q02/08  VICTOR  LEANDRO  SOUZA  DOS  SANTOS,  RG: 43.208,  ID  FUNCIONAL:  4341168-1. SUBTEN BM Q01/97 BRUNO OLIVEIRA SILVEIRA, RG: 21.021, ID FUNCIONAL: 2676338-9. FISCAL SUBSTITUTO SUBTEN BM Q02/98 ODEMIS QUEIROZ DA SILVA, RG: 23.871, ID FUNCIONAL: 2617661-0.
 
@@ -2722,37 +2722,37 @@ PROCESSO  SEI-080001/023838/2025 -  RECONHEÇO A  DÍVIDA  DE EXERCÍCIO  ANTERI
 
 Id:  2726187
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0036/U0030
+060
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0036
+6
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 ## SECRETARIA DE ESTADO DE SAÚDE SUBSECRETARIA EXECUTIVA
 
@@ -2828,7 +2828,7 @@ PROCESSO  SEI-080001/017270/2025 -ADJUDICO  e HOMOLOGO, por  estar  em  conformi
 
 Id:  2726184
 
-/U0032/U0030/U0032/U0036
+2026
 
 Id:  2726188
 
@@ -2836,17 +2836,17 @@ Id:  2726189
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 811/84 e Calculada com o Art. 29 da Lei nº 1.531/89) R$ 33,28; 80 % Gratificação Encargos SES ( Procs.E-12/1238/1994 e E08/602358/1994)  R$  125,63; GEELED  (  Processo  Autorizativo nº  E08/656/1999 publicado em 26/04/1999) R$ 260,00; Subtotal:  R$ 630,91; Proporcionalidade (6622/10950) R$ 381,54; a partir de 29/03/2012  a  partir  de  29/03/2012.  Processo:  SEI-E-08/221130/2007.
 
@@ -2983,17 +2983,17 @@ HELEN KELLER SARAIVA E SILVA BARRETO Superintendente  de  Vigilância  Sanitári
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## SECRETARIA DE ESTADO DE SAÚDE
 
@@ -3223,17 +3223,17 @@ Id:  2726236
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA
 
@@ -3410,17 +3410,17 @@ PROCESSO  Nº SEI-E-03/011/503/2017 -MONALISA  MARIA PAIVA LIMA COSTA, Professor
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA COORDENADORIA GERAL DE INSPEÇÃO ESCOLAR, CERTIFICAÇÃO E ACERVO
 
@@ -3440,7 +3440,7 @@ PROCESSO Nº SEI-030001/105441/2024  A  COORDENADORA  GERAL DE INSPEÇÃO ESCOLA
 
 Id:  2726148
 
-/U0031 /U0039
+1 9
 
 PROCESSO  Nº SEI-E-03/011/1203/2019 -SIMONE  JORDÃO MORAES PEREIRA, Professor Docente I, Identidade Funcional nº 42544661/01, matrícula  nº 927068-7, período base  de 09/07/2016 a 08/07/2021.
 
@@ -3588,17 +3588,17 @@ APOSENTA  ALDA  APARECIDA  CONDE  RIBEIRO, matrícula nº 0223.621-4,  ID  39955
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO D  E  PA  R  TA  M  E  N  TO  GERAL DE AÇÕES S  O  C  I  O  E  D  U  C  AT  I  VA  S
 
@@ -3770,17 +3770,17 @@ PROCESSO  Nº SEI-260005/010400/2023  -  AUTORIZO , EM  CARÁTER PERMANENTE, a c
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 nº 6720, de 24 de março de 2014, art. 13, combinado com o art. 3°, § 4°  e  art.  10,  §  5º,  da  Resolução  Conjunta  SECTI/FAETEC/SEPLAG  nº 11, de 14 de  janeiro de 2016, e de acordo com  o parecer da Comissão Permanente  de Avaliação  de Desempenho e  Formação Acadêmica  -  CPADF,  revogando  dispositivos  anteriores.
 
@@ -4028,17 +4028,17 @@ PROCESSO Nº SEI-020001/001474/2026  - AUTORIZO cancelamento do Registro sob o n
 
 Id:  2726086
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Cultura e Economia Criativa
 
@@ -4136,17 +4136,17 @@ Macedo, Moises Santana Gomes, João Batista Pereira Neto, Anderson Vieitas  Cabr
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 to  das  atividades  do  Conselho.  O  conselheiro  Wanderley  Rabello  informou  que qualquer  alteração  demandaria alteração  da Lei  Complementar 178/1997 e concordou com a Conselheira Anne Caroline sobre a  inadequação  do  termo  'repressão'.  Sugeriu  que  fosse  registrada  em Ata  a concordância  do Pleno  quanto  à necessidade  futura de  alteração, mediante  elaboração de minuta  de lei a ser  apresentada oportunamente.  A conselheira  Gislaine Kepe  colocou a  sugestão do  conselheiro  Wanderley em  votação, destacando  que  a minuta  de lei  poderia  ser  elaborada  e  apresentada  em  momento oportuno, considerando o  calendário eleitoral  e demais  prioridades. O  Conselheiro Marcelo de Miranda  comentou que, sob  outra perspectiva, a  nomenclatura 'repressão' poderia favorecer  a captação  de recursos  oriundos de  apreensões  do  tráfico  pelo  Estado,  mas reconheceu  ser  um  ponto  para reflexão futura.  A conselheira Anne  Caroline sugeriu que  a discussão sobre a nomenclatura  do fundo fosse retomada  na próxima reunião ordinária. Foi  deliberado e  aprovado pelo Pleno  que o  próximo ponto de pauta  será a  elaboração de  minuta de  Lei para  eventual alteração do  nome do  fundo  do  CEPOPD. Em  seguida,  a conselheira  Gislaine Kepe passou a palavra à  colaboradora Victória Gutierrez, que ressaltou  a  importância de  todos  os  Conselheiros  terem acesso  ao  Regimento  Interno e  suas atualizações,  enfatizando a  necessidade de ajustes  contínuos no  documento.  A Secretária  Adjunta agradeceu  a colaboração  de  todos  e  deu  prosseguimento  ao  próximo  ponto  de pauta. Te  r  c  e  i   r  o  Ponto de Pauta: Apresentação do Relatório dos Conselheiros faltosos  Substituições:  O Secretário Executivo,  Marco Antonio Marques da Silva, informou  que, conforme deliberado na 43ª Reunião Ordinária, devido  ao baixo número de  participantes em algumas reuniões,  foi realizado levantamento dos  conselheiros faltosos. Foi sugerido  que cada conselheiro seja  comunicado individualmente para  verificar  seu  interesse  em  continuar no  Conselho,  com  prazo  estipulado de cinco dias para  resposta. Caso não haja manifestação, a comunicação será encaminhada  às instituições responsáveis, considerando que o trabalho sobrecarrega os Conselheiros que participam regularmente,  muitas  vezes  assumindo  três  ou  mais  grupos  de  trabalho. O  levantamento  baseia-se  nas  listas  de  presença  das  reuniões.  Caso o Conselheiro não  manifeste interesse em continuar,  será solicitada a sua  substituição. A  Conselheira Anne  Caroline sugeriu  que os  nomes dos Conselheiros ausentes não fossem mencionados em reunião, sendo encaminhados apenas por e-mail, a fim de evitar constrangimentos. Foi  ressaltado  também  a  importância  de  informar  as  instituições  sobre as ausências  dos Conselheiros, garantindo transparência  e formalidade no processo.  Todos os presentes concordaram com  a proposta, ficando definido e aprovado que, caso não haja manifestação dos Conselheiros,  será  solicitada  a  substituição  junto  às  respectivas  instituições.  A Conselheira  Gislaine Kepe salientou que  o procedimento  está previsto  no Regimento  Interno, Art.16,  parágrafo 2º,  que estabelece que, com  aprovação de dois  terços do Conselho, podem  ser feitas substituições.  Todos os  presentes concordaram,  ficando com  o encaminhamento  o  envio de  e-mail  ao  Pleno  informando sobre  as  faltas, seguido de  comunicação às respectivas instituições. Te  r  c  e  i   r  o  ponto de pauta: Deliberação  sobre  as  Eleições da  Sociedade  Civil,  após  a Atualização  do  Regimento  Interno;  Em  seguida,  o  Secretário  Executivo,  Marco  Marques,  apresentou  a necessidade  de  regularização  do Grupo  de  Trabalho  (GT)  para  organizar  as  eleições  da  Sociedade  Civil.  A  Conselheira Anne Caroline sugeriu a nomeação da comissão naquele momento e perguntou se  algum conselheiro gostaria de participar,  solicitando apoio  do Secretário  Executivo. Foi  informado que  o número mínimo seria  de  cinco  integrantes,  preferencialmente  incluindo representantes  da sociedade  civil. Na  sequência, a  Conselheira Anne Caroline propôs  realizar levantamento dos Conselheiros  que não participam  de  nenhuma  comissão,  a  fim  de  verificar  quem  poderia  se candidatar.  A conselheira  Neusa  Jordão sugeriu  que  a formação  do grupo  fosse  realizada  na  próxima  reunião,  devido  ao  horário,  proposta aprovada  por  todos  os  presentes.  Em  seguida,  a  Conselheira  Anne Caroline sugeriu que  fosse estipulada a data para  a realização da conferência,  antes  das  considerações  finais.  Foi  ressaltado  que  o  mês de  junho  possui  diversas  atividades,  como  a  Semana  da  Prevenção  e a  Copa  do  Mundo,  o  que  exige  planejamento  prévio  para  evitar  coincidências de datas e facilitara  organização do evento. Ficou definido que a  comissão responsável pela  Conferência ainda será  debatida na próxima  reunião.  Na  sequência,  a  colaboradora  Victória  Gutierrez  destacou a necessidade de verificar  a disponibilidade de espaço adequado, incluindo  auditório e, no  mínimo, três  salas para os  eixos temáticos.  Foram  mencionadas  possibilidades  como a  UERJ,  a  Defensoria Pública do  Estado e a  Procuradoria Geral do Estado  (PGE), considerando  que  o evento  ocorrerá  em  dois  dias consecutivos  (quinta  e sexta-feira),  com  o  primeiro  dia  dedicado  à  apresentação  e  o  segundo às  atividades. Em  seguida,  ficou definido  como encaminhamento  que a discussão sobre a I Conferência Estadual será retomada na próxima reunião,  para  que  o  Pleno  delibere  sobre  local,  data  e  organização.  A Conselheira Anne  Caroline passou a palavra  ao Secretário Executivo, Marco  Marques. Informes e Considerações Finais: I. Comunicar  ao Pleno  sobre o  falecimento da  Assessora Especial.  O Secretário  Executivo informou  ao Pleno sobre  o falecimento da  Assessora Especial Dra.  Glauce  dos Reis  Pinto,  que  faleceu no  início  de  janeiro. O  Secretário  Executivo  se  solidarizou  com  a  perda  e  comunicou  o  fato  aos presentes.  Na  sequência,  não  havendo  mais assuntos  a  tratar,  a  Secretária  Adjunta  agradeceu  a  participação  de  todos.  O  Secretário  Executivo agradeceu  aos presentes  e declarou  encerrada a  44ª Reunião Ordinária  do  CEPOPD  -  RJ.  Eu, Marco  Antonio  Marques  da  Silva,  lavro  e  assino  a  presente  ata.  Processo  SEI-310001/001583/2026.
 
@@ -4360,17 +4360,17 @@ Id:  2726141
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ## FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEM COORDENADORIA DE RECURSOS HUMANOS
 
@@ -4504,9 +4504,9 @@ Id:  2726294
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ## Secretaria de Estado de Defesa do Consumidor
 
@@ -4657,29 +4657,29 @@ Diretora-Presidente  do  Instituto  de  Segurança  Pública
 
 Id:  2726108
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Id:  2726176
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0036
+6
 
-/U0032/U0035
+25
 
 ## SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA INSTITUTO DE SEGURANÇA PÚBLICA
 
@@ -4778,39 +4778,39 @@ Diretora-Presidente  do  Instituto  de  Segurança  Pública
 
 Id:  2725039
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0030
+060
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0036
+6
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA INSTITUTO DE SEGURANÇA PÚBLICA
 
@@ -4904,17 +4904,17 @@ Id:  2726111
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA INSTITUTO DE SEGURANÇA PÚBLICA
 
@@ -5106,17 +5106,17 @@ Id:  2726201
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Fazenda
 
@@ -5415,39 +5415,39 @@ R$  500.000,00  (quinhentos  mil  reais).
 
 DATA DA ASSINATURA :  31/03/2026
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0036/U0030
+060
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0036
+6
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 FUNDAMENTO  DO ATO :  Lei nº  14.133, de  1º de  abril de  2021, e pelos  normativos  estaduais  aplicáveis.
 
@@ -5513,17 +5513,17 @@ INSTRUMENTO: Termo  de  Contrato  nº  88/2026. PA  RTES: SEPM e  a empresa  COM
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 OBJETO: AQUISIÇÃO  DE  MEDICAMENTO  ERITROPOETINA  (ALFAEPOETINA) 4.000 UI - SOLUÇÃO INJETÁVEL. PRAZO DE VIGÊNCIA: 12 meses, a partir da publicação  no  PNCP. VALOR  TOTAL: R$  95.278,50 (noventa  e cinco  mil duzentos  e setenta  e  oito  reais  e  cinquenta  centavos). DATA DA ASSINATURA :  01/04/2026. GESTOR: Bruno  de  Andrade  Marchese,  ID  44286163. GESTOR SUBSTITUTO: Alberto  Ribeiro  Silva,  ID  23962682. FISCAIS: CAP PM FARM Paula Nívea Gonçalves Lomardo RG 90877/ ID 4403260-9  TEN PM FARM Camile Moreira Mascarenhas RG 03000022 / ID 5133825-4 TEN PM FARM Jessica Hellen Souza da Silva RG 03000042  / ID 44591470  SUPLENTE HCPM: TEN CEL  PM FARM Andre  Nascimento  de Melo  RG  76907  /  ID  2444254-2 MAJ  PM  FARM Michele Martins Fernandes Reis RG 89497 / ID 4398751-6. F  U  N  D  A  M  E  N  TO  : O constante no Processo nº SEI-350010/005417/2026 -  PE  N°  174/2025  da  SES  -  ARP  nº  0227/2025.
 
@@ -5818,17 +5818,17 @@ Não serão  aceitos  recursos  encaminhados  através  de  e-mail.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 12º  5648149  Felipe  Viana  Barbosa  08.05.08  23.05.28  23.05.28  23.05.28  23.05.28  43,50  13º  5649412  Rogerio  Ferreira  da  Costa  08.05.08  23.05.28  23.05.28  23.05.28  23.05.28  55,00  14º  5647720  Carlos  Roberto  Luz  08.05.08  23.05.28  23.05.28  23.05.28  23.05.28  43,00  15º  5648750  Marcelo  Correa  de  Moura  Machado  08.05.08  23.05.28  23.05.28  23.05.28  23.05.28  35,00  16º  5647924  Edneide  Aparecida  Almeida  Alvaredo  08.05.08  23.05.28  23.05.28  23.05.28  23.05.28  36,75  17º  5647584  Barbara  Sabbatino  Silva  08.05.08  23.05.28  23.05.28  23.05.28  23.05.28  54,75  18º  5648041  Fabiana  Fiorese  Toledo  Chevitarese  08.05.08  23.05.28  23.05.28  23.05.28  23.05.28  47,75  19º  41378032  Luciano  dos  Santos  Bezerra  08.05.08  23.05.28  23.05.28  23.05.28  23.05.28  57,50  20º  5647983  Ellen  de  Mattos  08.05.08  23.05.28  23.05.28  23.05.28  23.05.28  43,50  21º  5649544  Tessia  Farias  da  Silva  08.05.08  23.05.28  23.05.28  23.05.28  23.05.28  38,25  22º  5649137  Oswalcy  Duarte  Vianna  Filho  08.05.08  23.05.25  23.05.25  23.05.25  26.04.06  55,00  23º  5  5  5  1 1  4   5  Wladimir  Gurgel  Cavalcante  08.05.08  23.05.12  23.05.12  28.01.22  30.05.12  35,50  24º  5709270  Marta  Malafaia  Caetano  dos  Santos  08.05.08  22.07.15  22.07.15  22.07.15  30.08.30  50,00  25º  5709229  Darlene  Rocha  de  Paiva  Santos  08.05.08  22.07.15  22.07.15  22.07.15  22.07.15  55,00  26º  5709407  Soraia  Costa  de  Melo  Vieira  08.05.08  22.07.15  22.07.15  22.07.15  22.07.15  52,25  27º  5709458  Henrique  Alves  Pinto  de  Lima  08.05.08  2  2  .  0  7  .   11  2  2  .  0  7  .   11  2  2  .  0  7  .   11  2  2  .  0  7  .   11  38,00  28º  5709644  Roberto  Saint  Clair  Lima  Rodrigues  08.05.08  22.07.10  22.07.10  22.07.10  26.00.26  37,00  29º  5709300  Andre  Luiz  Franco  Pereira  08.05.08  22.07.04  22.07.04  22.07.04  22.07.04  43,00  30º  30024447  Nelson  Gigante  Mendes  08.05.08  22.03.13  3  4  .   11  .  1  0  3  4  .   11  .  1  0  3  4  .   11  .  1  0  55,50  31º  19809662  Alexandra  Zari  08.05.08  22.03.13  22.03.13  2  6  .   11  .  2  8  2  6  .   11  .  2  8  49,00  32º  41773055  Jorio  Branco  da  Silva  08.05.08  22.03.13  22.03.13  22.03.13  23.07.18  50,00  33º  41788486  Amaro Gil  Teixeira  Barcelos  08.05.08  22.03.13  22.03.13  22.03.13  22.03.13  44,00  34º  41788478  Andre  Luiz  Barreiros  de  Lima  Rodrigues  08.05.08  22.03.13  22.03.13  22.03.13  22.03.13  55,25  35º  5648203  Germano Cabral Gallo  08.00.00  23.05.28  23.05.28  23.05.28  26.08.25  38,75  36º  5648360  Jaime  Borja  Junior  08.00.00  23.05.28  23.05.28  23.05.28  23.05.28  55,75  37º  5647347  Alexandre  Jose  Lobo  Badui  Miziara  08.00.00  23.05.28  23.05.28  23.05.28  23.05.28  35,25  38º  5648521  Leonardo  Augusto  Botto  Maia  08.00.00  23.05.28  23.05.28  23.05.28  23.05.28  21,50  39º  5649234  Renata  Ferreira  da  Mota  08.00.00  23.05.28  23.05.28  23.05.28  23.05.28  47,00  40º  5647819  Cleber  de  Melo  Souza  Junior  08.00.00  23.05.28  23.05.28  23.05.28  23.05.28  35,50  41º  5648998  Maria  Margareth  Racy  Teixeira  de  Freitas  08.00.00  23.05.28  23.05.28  23.05.28  23.05.28  59,75  42º  5649528  Tatiana  Moraes  Burlamarqui  de  Freitas  08.00.00  23.05.28  23.05.28  23.05.28  23.05.28  58,25  43º  5649307  Renato  Santos  Dias  08.00.00  23.05.28  23.05.28  23.05.28  23.05.28  47,25  44º  5647363  Alverne  Almeida  Lins  08.00.00  23.05.25  23.05.25  23.05.25  23.05.25  36,25  45º  5648009  Enio  Roberto  Ferreira  Feitoza  08.00.00  23.02.30  23.02.30  23.02.30  28.03.26  39,00  46º  5649650  Vinicius  de  Freitas  Carvalho  *  08.00.00  2  2  .   11  .  2  6  2  2  .   11  .  2  6  2  2  .   11  .  2  6  2  2  .   11  .  2  6  -71,00  47º  5709148  Marcos  Vinicius  da  Costa  Moreira  08.00.00  22.07.16  22.07.16  22.07.16  22.07.16  48,75  48º  5709318  Alvaro  Alberto  Miranda  Costa  08.00.00  22.07.15  22.07.15  22.07.15  2  7  .   11  .  1  5  46,00  49º  5709423  Fabiana  Ribeiro  de  Oliveira  Souza  08.00.00  22.07.15  22.07.15  22.07.15  23.07.12  44,75  50º  41383729  Luiz  Octavio  Domingues  de  Castro  08.00.00  22.07.15  22.07.15  22.07.15  22.07.15  58,00  51º  5709350  Daniel  Lisboa  Maia  08.00.00  22.07.15  22.07.15  22.07.15  22.07.15  37,00  52º  5709539  Luiz  Claudio  Mendes  da  Cunha  08.00.00  2  2  .  0  7  .   11  2  2  .  0  7  .   11  2  2  .  0  7  .   11  23.05.05  26,75  53º  5709490  Marcelo  Silva  de  Almeida  08.00.00  2  2  .  0  7  .   11  2  2  .  0  7  .   11  2  2  .  0  7  .   11  23.03.10  44,00  54º  5709520  Alexandre  Paz  da  Silva  08.00.00  2  2  .  0  7  .   11  2  2  .  0  7  .   11  2  2  .  0  7  .   11  23.03.07  34,50  55º  5709482  Marcelo  de  Freitas  da  Silva  08.00.00  2  2  .  0  7  .   11  2  2  .  0  7  .   11  2  2  .  0  7  .   11  2  2  .  0  7  .   11  50,75  56º  5709717  Ronner  Anguita  Monteiro  08.00.00  22.07.05  22.07.05  22.07.05  22.07.05  45,25  57º  5709776  Pilar  Gomes  Placias  08.00.00  22.07.03  22.07.03  22.07.03  22.07.03  53,00  58º  5709830  Roberta  da  Costa  Pereira  Dias  08.00.00  22.06.23  22.06.23  22.06.23  22.06.23  51,75  59º  19818637  Bruno  Lopes  Vieira  *  08.00.00  22.03.13  22.03.13  26.10.12  26.10.12  35,25  60º  4  1  7  7   2  9  11  Arthur  Augusto  Teixeira  Alexandre  08.00.00  22.03.13  22.03.13  22.03.13  43.10.13  47,25  61º  41773004  Cecilia  Beatriz  Teixeira  dos  Santos  08.00.00  22.03.13  22.03.13  22.03.13  22.03.13  39,50  62º  41788532  Leonardo  de  Andrade  Melo  08.00.00  22.03.13  22.03.13  22.03.13  22.03.13  43,75  63º  41773020  Marcella  Matos  e  Silva  Ribeiro  08.00.00  22.03.13  22.03.13  22.03.13  22.03.13  45,50  64º  5709180  Alexandre  Kairis  Sampaio  Correa  0  7  .   11  .  2  6  22.07.12  22.07.12  22.07.12  22.07.12  29,25  65º  43182607  Danielle  Lecomte  Caliman  07.05.25  15.03.00  15.03.00  17.09.30  17.09.30  46,00  66º  5709091  Priscila  Duarte  da  Silva  07.05.08  22.07.16  22.07.16  22.07.16  23.05.05  37,75  67º  5709342  Cristiano  da  Silva  Tatagiba  07.05.08  22.07.15  22.07.15  22.07.15  25.02.08  42,25  68º  5709377  Marcelo  Babaioff  da  Silva  07.05.08  22.07.15  22.07.15  22.07.15  22.07.15  55,50  69º  5709288  Marcelo  Collart  Villa  07.05.08  22.07.15  22.07.15  22.07.15  22.07.15  40,50  70º  5642566  Roberto  Carlos  da  Gama  Cunha  07.05.08  22.03.13  22.03.13  23.05.20  23.05.20  34,00  71º  41772890  Andrea  dos  Santos  Azevedo  07.05.08  22.03.13  22.03.13  22.03.13  22.03.13  35,75  72º  41772970  Cristiano  Manso  Pedroso  07.05.08  22.03.13  22.03.13  22.03.13  22.03.13  34,75  73º  5709741  Renata  Cerante  Cotan  07.05.08  18.03.24  18.03.24  18.03.24  18.03.24  43,00  74º  44031408  Pedro  Policarpo  de  Mendonça  Previato  07.05.08  14.06.06  14.06.06  14.06.06  14.06.06  13,00  75º  43647804  Alexandre  Lourenço  Martinez  07.05.05  15.03.00  16.00.00  16.00.00  21.00.17  43,25  76º  43857752  Kelmer  Lyra  Lopez  07.05.05  15.03.00  15.03.00  15.03.00  15.03.00  38,00  77º  43857221  Enzo  de  Castro  Freitas  07.05.05  15.03.00  15.03.00  15.03.00  15.03.00  38,00  78º  43649475  Carlos  Henrique  Jenne  Junior  07.00.00  15.03.00  16.00.00  16.00.00  24.01.03  68,25  79º  43651712  Rodrigo  Serpa  Sad  07.00.00  15.03.00  16.00.00  16.00.00  22.07.25  48,50  80º  43649645  Carlos  Thiago  Parente  Lanhas  07.00.00  15.03.00  16.00.00  16.00.00  16.00.00  62,25  81º  43648770  Mildo  Carlos  Ferreira  da  Cunha  Filho  07.00.00  15.03.00  16.00.00  16.00.00  16.00.00  51,50  82º  43649742  Delmara  Cristina  Costantin  de  Sá  07.00.00  15.03.00  16.00.00  16.00.00  16.00.00  34,00  83º  43648819  Thaisa  Vasconcellos  dos  Santos  07.00.00  15.03.00  16.00.00  16.00.00  16.00.00  38,25  84º  23003049  Leonardo  Ferreira  Dimas  07.00.00  15.03.00  15.03.00  27.03.28  27.03.28  51,75  85º  23614030  Douglas  Rodrigues  Franca  07.00.00  15.03.00  15.03.00  25.07.20  25.10.06  30,50  86º  24364860  Wellington  da  Silva  Salles  07.00.00  15.03.00  15.03.00  24.00.26  24.00.26  62,50  87º  43858333  Marcos  dos  Santos  Carneiro  07.00.00  15.03.00  15.03.00  22.06.28  22.06.28  28,50  88º  42080568  Tiago  Lorenzo  de  Godoy  Springer  Pitanga  07.00.00  15.03.00  15.03.00  20.06.08  20.06.08  37,50  89º  42191858  Sheila  Araujo  Marques  Fontes  da  Silva  07.00.00  15.03.00  15.03.00  20.00.02  20.00.02  29,25  90º  42688981  Monica  Mendes  Lira  Torres  07.00.00  15.03.00  15.03.00  18.10.08  18.10.08  45,25  91º  42697271  Juliana  Motta  de  Lemos  Migon  07.00.00  15.03.00  15.03.00  18.09.15  18.09.15  40,75  92º  42698944  Felipe  Diniz  Novellino  07.00.00  15.03.00  15.03.00  18.09.14  18.09.14  69,75  93º  43858627  Bernardo  Paiva  Macedonio  de  Vasconcellos  07.00.00  15.03.00  15.03.00  1  6  .   11  .  0  8  1  6  .   11  .  0  8  46,00  94º  43857639  Mirela  Roux  de  Oliveira  07.00.00  15.03.00  15.03.00  16.03.27  16.03.27  52,50  95º  43857140  Cristiane  de  Almeida  Figueiredo  07.00.00  15.03.00  15.03.00  16.03.00  16.03.00  21,00  96º  43858260  Renato  Wagner  Ladeira  dos  Anjos  07.00.00  15.03.00  15.03.00  15.03.00  20.03.29  53,75  97º  43858236  Bruno  Amarante  Monnerat  07.00.00  15.03.00  15.03.00  15.03.00  17.00.01  59,00  98º  43857922  Jose  Gustavo  Dias  Bandeira  de  Mello  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  35,50  99º  43858015  Flavia  Couto  Guimaraes  Figueiredo  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  60,00  100º  43857590  Rita  de  Cassia  Fonseca  Campista  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  47,00  101º  43868010  Fernanda  Valsechy  Rodrigues  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  45,25  102º  43856551  Marcio  Silva  Miglievich  Guimarães  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  24,00  103º  43858198  Daniel  Accioly  de  Souza  Fragoso  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  44,25  104º  43857400  Flávia  Jabur  Ferreira  França  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  48,00  105º  43857957  Fabyll  Alves  dos  Santos  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  41,75  106º  43858295  Marcos  Lopes  de  Araujo  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  65,25  107º  43857353  Patricia  Goldner  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  47,25  108º  43857132  Raquel  Cardozo  Pereira  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  42,00  109º  43857434  Evelyne  Cortes  Andrade  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  56,75  11  0  º  43858732  Jefferson  Sharpedeudarc  dos  Santos  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  44,50  111  º  43857370  Marcel  de  Gusmão  Delfino  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  59,25  11  2  º  43857981  Carlos  dos  Anjos  Brito  Amaral  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  70,00  11  3  º  43857159  Bruna  Alves  Zavarize  07.00.00  15.03.00  15.03.00  15.03.00  15.03.00  48,25  11  4  º  43181872  Francisco  Tanaka  de  Andrade  06.05.08  15.03.00  15.03.00  17.07.15  17.07.15  46,50  11  5  º  43367631  Janata  Xavier  Gevigler  *  06.05.08  15.03.00  15.03.00  17.00.19  20.09.19  -23,50  11  6  º  43546919  Ibson  de  Araujo  Meireles  06.05.08  15.03.00  15.03.00  16.03.24  1  9  .  0  7  .   11  28,50  11  7  º  43857817  Luiz  Eduardo  Accioly  Cruz  06.05.08  15.03.00  15.03.00  16.03.09  16.03.09  38,50  11  8  º  43858325  Fabrício  de  Castro  Fernandes  06.05.08  15.03.00  15.03.00  15.03.00  24.08.10  37,75  11  9  º  43858465  Maya Yasmin Cotting  Mesquita  da  Silva  06.05.08  15.03.00  15.03.00  15.03.00  23.10.08  33,00  120º  43858759  Mayron  Lage  Andrade  06.05.08  15.03.00  15.03.00  15.03.00  23.07.26  87,00  121º  43857787  Daniele  Fontoura  Marques  06.05.08  15.03.00  15.03.00  15.03.00  2  3  .  0  2  .   11  35,25  122º  43857540  Margareth  Moreira  Maciel  06.05.08  15.03.00  15.03.00  15.03.00  22.04.08  39,50  123º  43857000  Marcelo  de  Oliveira  Navega  06.05.08  15.03.00  15.03.00  15.03.00  22.03.00  41,75  124º  43856900  Alex  Soares  da  Silva  06.05.08  15.03.00  15.03.00  15.03.00  22.02.30  71,50  125º  43857035  Bruno  Almeida  Lima  06.05.08  15.03.00  15.03.00  15.03.00  19.02.12  44,50  126º  43857310  Leonardo  Otavio  Gonzales  Engel  06.05.08  15.03.00  15.03.00  15.03.00  17.00.13  41,00  127º  43858252  Alessandra  Fablicio  de  Araujo  06.05.08  15.03.00  15.03.00  15.03.00  16.07.22  49,25  128º  43856640  Pablo  Ramoa  Caixeiro  06.05.08  15.03.00  15.03.00  15.03.00  16.01.06  32,75  129º  43856586  Rodrigo  Santana  Barcelos  da  Silva  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  35,50  130º  43857582  Daniele  de  Souza  Malafaia  da  Silva  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  37,75  131º  43858708  Fernanda  Medeiros  Blasquez  Olmedo  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  42,00  132º  43858481  Fabio  dos  Santos  Alves  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  44,25  133º  43858520  Bruno  Silva  Lemos  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  39,00  134º  43858503  Marcio  Correa  de  Sá  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5837,17 +5837,17 @@ Não serão  aceitos  recursos  encaminhados  através  de  e-mail.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 135º  43856691  Melina  Santana  Morais  Mccane  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  136º  43857965  Breno  Ramos  Mendes  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  137º  43857043  Robson da Silva  Saraiva  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  138º  43856942  Fabiano  Gonçalves  Pedroza  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  139º  43858651  Ana  Carolina  Barboza  Costa  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  140º  43857663  Juliana  Magalhães  de  Oliveira  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  141º  43857485  Natalia  Gomes  da  Silva  Comissário  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  142º  43858040  Stefanie  Dalsgaard  Barreto  06.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  143º  44031505  João  Moraes  Gomes  Ribeiro  06.05.08  14.06.06  14.06.06  14.06.06  14.06.06  (***)  144º  44032048  Francisco  Lopes  de  Araujo  Junior  06.05.08  14.06.06  14.06.06  14.06.06  14.06.06  (***)  145º  44034091  Rafael  Martins  Paulista  06.05.08  14.06.06  14.06.06  14.06.06  14.06.06  (***)  146º  50007165  Daniele  Rosa  de  Oliveira  06.05.08  14.06.06  14.06.06  14.06.06  14.06.06  (***)  147º  43856802  Marcos  Gonzales  de  Abreu  06.00.00  15.03.00  15.03.00  15.03.00  20.03.22  (***)  148º  43857493  João  Paulo  Nogueira  Coutinho  06.00.00  15.03.00  15.03.00  15.03.00  19.07.06  (***)  149º  43856837  Michelle  Monteiro  Garcia  06.00.00  15.03.00  15.03.00  15.03.00  16.08.07  (***)  150º  43857671  Filipe  Bravo  Duque  06.00.00  15.03.00  15.03.00  15.03.00  16.00.14  (***)  151º  43857809  Leonardo  Assis  Rodrigues  06.00.00  15.03.00  15.03.00  15.03.00  15.07.18  (***)  152º  43858228  Paulo  Fernando  Rocha  Nascimento  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  153º  43857248  Cristianne  Greenhalgh  Vilalta  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  154º  43857477  Ricardo  Henrique  Cabral  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  155º  43856713  Mario  Celso  Botelho  dos  Santos  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  156º  43892221  Marcos  Thomaz  Vieira  Pereira  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  157º  43857191  Marcelo  Gomes  Pereira  da  Silva  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  158º  43857183  Kleber  de  Souza  Leite  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  159º  43858740  Daniele  de  Souza  Armstrong  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  160º  43857647  Gisele  Torres  Maia  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  161º  43857299  Karina  Reis  dos  Santos  Nunes  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  162º  43868061  Jamile  de  Macedo  Roda  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  163º  43858716  Vanessa  Alves  Cortez  Gama  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  164º  43856632  Priscila  Torazza  de  Carvalho  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  165º  43858147  Flavia  Dias  Moreira  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  166º  43858678  Viviane  Silva  da  Costa  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  167º  43858350  Henrique  Raposo  de  Azevedo  Jesus  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  168º  43857507  Max Bill  Monteiro  Ratamero  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  169º  42635489  Paulo  Rossano  Fernandes  dos  Santos  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  170º  43857698  Carolina  Cardoso  e  Cardoso  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  171º  43858570  Renato  Valdemar  Barroso  da  Costa  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  172º  10678158  Victor  Dias  Gloria  06.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  173º  43858058  Luiz  Cezar  Peres  Huais  Junior  0  5  .   11  .  1  6  15.02.16  15.02.16  15.02.16  1  5  .   11  .  1  8  (***)  174º  43858473  Jeanne  Jose  Maria  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  175º  43857566  Marcio  Bastos  de  Oliveira  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  176º  43858694  Fernando  Rodrigues  Gonçalves  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  177º  43858104  Alvaro  Emiliano  Marcos  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  178º  43858180  Rodrigo  Xavier  Pinto  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  179º  43857361  Ana  Paula  Tayarol  Ribeiro  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  180º  4  3  8  5   8  5  11  Marcos  de  Souza  Teixeira  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  181º  43857736  Alini  de  Paula  Mozella  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  182º  43856861  Fabio  Barroso  Porto  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  183º  43858341  Uilliam  Carvalho  Faria  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  184º  43857728  Fernanda  Guarana  Antonini  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  185º  42431042  Marcella  Vargas  de  Toledo  Duque  Estrada  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  186º  43857574  Renata  Rodrigues  Carneiro  Costa  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  187º  43858384  Danillo  Lima  da  Silva  Lengruber  05.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  188º  42698324  Gilvando  Cavalcanti  de  Melo  Junior  05.05.08  14.06.06  14.06.06  18.09.14  19.03.02  (***)  189º  44031386  Renata  da  Silva  Almeida  05.05.08  14.06.06  14.06.06  14.06.06  2  2  .   11  .  1  5  (***)  190º  44031971  Leila  Naumann  Falcão  05.05.08  14.06.06  14.06.06  14.06.06  15.04.21  (***)  191º  44031840  Leonardo  Rosalba  05.05.08  14.06.06  14.06.06  14.06.06  14.06.06  (***)  192º  44031580  Renata  Soares  Guaraciaba  05.05.08  14.06.06  14.06.06  14.06.06  14.06.06  (***)  193º  43858490  Tato  Correa  Brandão  05.04.22  15.02.14  15.02.14  15.02.14  15.02.14  (***)  194º  43858023  Delano  Luis  de  Leon  Moraes  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  195º  43857620  Rogerio  Hinsch  Frias  Barbosa  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  196º  42697409  Tania  Lima  de  Negreiros  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  197º  43858376  Lucio  Eduardo  da  Costa  Abrantes  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  198º  43858139  Antonio  Victor  Teixeira  Vieira  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  199º  41962567  Wagner Lisboa  Vieira  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  200º  43856659  Marcelo  Luiz  Burgos  Rocha  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  201º  43856594  Marco  Frankling  Parangaba  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  202º  43857515  Marsol  Amanda  Sant  Anna  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  203º  43856730  Maycon da Costa Antônio  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  204º  43856993  Carlos  Eduardo  Aida  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  205º  43857973  Manoel  Jorge  da  Silva  Mello  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  206º  43858392  Marcelo  Sussekind  Sequeira  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  207º  43857949  Dulmara  Paiva  Rocha  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  208º  43858074  Pedro  Rodrigues  Ferreira  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  209º  43858635  Rodrigo  Bispo  da  Silva  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  210º  43857876  Ricardo  Rossi  Jullien  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  2  11  º  43858120  Teodorico  Maximiano  da  Fonseca  Filho  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  212º  43857388  Livia  Maria  Valadares  Teixeira  Bitana  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  213º  43858287  Samantha Balestero  Pereira  Portela  Elysio  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  214º  4  3  8  5   8  11  2  Rafael  Machado  Lobato  Matos  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  215º  43856985  Bernardo  Schwan  Belem  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  216º  43858554  Diego  Garrett  de  Lima  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  217º  43857078  Camila  Costa  dos  Santos  05.00.00  15.03.00  15.03.00  15.03.00  15.03.00  (***)  218º  44300255  Marcia  Cristina  da  Silva  Santos  05.00.00  13.05.19  13.05.19  13.05.19  13.05.19  (***)  219º  43856934  Alexandre  Rezende  de  Oliveira  04.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  220º  43857833  Diego  Mendonça  Lessa  04.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  221º  43858457  Thiago  do  Rio  Novo  Figueiredo  04.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  222º  43857604  Paula  Martins  Moraes  dos  Santos  04.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  223º  43857914  Gabriel  Chermont  Sapia  04.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  224º  43858171  Romulo Bandeira  Rosa  04.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  225º  43856853  Renata  Cristina  Leal  Cavalheiro  04.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  226º  43856560  Tatiana  de  Oliveira  Gonçalves  04.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  227º  43858546  Diego  Magalhães  Alonso  04.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  228º  43858082  Thiago  Fernandes  Barbosa  Pinto  de  Almeida  04.05.08  15.02.22  15.02.22  15.02.22  15.02.22  (***)  229º  43359663  Alexandre  Alves  Ferraz  04.05.08  14.06.06  15.00.07  15.00.07  18.03.28  (***)  230º  25530542  Antonio  Dias  da  Silva  04.05.08  14.06.06  14.06.06  30.06.14  33.09.18  (***)  231º  43715427  Pedro  Fontes  Torres  04.05.08  14.06.06  14.06.06  17.04.22  17.04.22  (***)  232º  44031394  Valdivan  Lima  Pires  04.05.08  14.06.06  14.06.06  14.06.06  14.06.06  (***)  233º  44031475  Leandro  de  Oliveira  Araujo  04.05.08  14.06.06  14.06.06  14.06.06  14.06.06  (***)  234º  44031335  Ariane  Dalben  Rodrigues  04.05.08  14.06.06  14.06.06  14.06.06  14.06.06  (***)  235º  44031742  Julio  Cesar  Ferreira  Gaspar  04.05.08  14.06.06  14.06.06  14.06.06  14.06.06  (***)  236º  4  3  8  5   7  11  6  Willy  Pinheiro  Pereira  04.01.06  14.10.13  14.10.13  14.10.13  15.08.03  (***)  237º  43858317  Pedro  Paulo  Andrade  de  Almeida  04.00.00  15.02.28  15.02.28  15.02.28  17.02.01  (***)  238º  43905218  Rodrigo  da  Silva  Perdigão  04.00.00  15.01.20  15.01.20  15.01.20  15.01.20  (***)  239º  43925960  Davi  Avelino  Gripp  04.00.00  15.00.01  15.00.01  15.00.01  15.00.01  (***)  240º  50779923  Felipe  de  Freitas  Gomes  03.06.08  09.09.18  09.09.18  09.09.18  09.09.18  (***)  241º  43368549  Rodrigo  Andrade  de  Araujo  03.06.08  09.08.00  09.08.00  17.00.13  17.00.13  (***)  242º  43856950  Amilcar  Jose  Soares  Valente  Junior  03.05.08  15.03.00  15.03.00  15.03.00  15.03.00  (***)  243º  44031270  Fabiana  dos  Santos  de  Araujo  03.05.08  14.06.06  14.06.06  14.06.06  14.06.06  (***)  244º  44183615  André  Luiz  Repsold  de  Azevedo  03.05.08  14.01.17  14.01.17  14.01.17  14.01.17  (***)  245º  43858090  Marcos  Roberto  de  Vasconcellos  Lopes  Soares  03.05.08  13.00.05  13.00.05  13.00.05  13.00.05  (***)  246º  43457878  Luiza  Fernandes  Xavier  03.05.08  12.07.22  12.07.22  14.05.07  14.05.07  (***)  247º  50817469  Mateus  Rangel  de  Castro  Soares  03.03.20  09.05.16  09.05.16  09.05.16  09.05.16  (***)  248º  50834878  Ronaldo  da  Silva  Mamedes  03.03.20  09.02.08  09.02.08  10.05.14  10.05.14  (***)  249º  50795716  Vitor  Medeiros  Porcino  03.01.09  09.08.00  09.08.00  09.08.00  09.08.00  (***)  250º  50795490  Francis  Lima  de  Almeida  03.01.09  09.08.00  09.08.00  09.08.00  09.08.00  (***)  251º  50835360  Thiago  de  Freitas  Oliveira  03.01.09  09.02.08  09.02.08  09.02.08  11  .  0  8  .  1   5  (***)  252º  44137451  Flavia  de  Moura  Bezerra  Amorim  03.01.09  09.02.08  09.02.08  09.02.08  0  9  .   11  .  1  6  (***)  253º  43857523  Diego  Olimpio  Machado  03.00.00  15.00.02  15.00.02  15.00.02  15.00.02  (***)  254º  50795724  Marcel  Nunes  Ferreira  Vasconcellos  02.06.28  02.06.28  02.06.28  02.06.28  02.06.28  (***)  255º  50093576  Thiago  do  Nascimento  02.06.27  09.02.08  09.02.08  12.08.18  16.06.23  (***)  256º  50833782  Fabio  Frederico  do  Nascimento  02.06.01  09.02.08  09.02.08  09.02.08  09.02.08  (***)  257º  24201430  Rogério  de  Oliveira  Gomes  02.04.20  09.00.01  09.00.01  24.01.03  24.01.03  (***)  258º  44243626  Iuri  Garcia  Laino  02.04.10  09.02.08  09.02.08  13.09.02  13.09.02  (***)  259º  50834487  Carlos  Roberto  de  Almeida  Junior  02.04.10  09.02.08  09.02.08  09.02.08  13.09.16  (***)  260º  50835750  Thiago  Mattos  Georges  Semaan  02.04.10  09.02.08  09.02.08  09.02.08  09.02.08  (***)  261º  50817337  Vitor  da  Silva  02.01.26  09.05.16  09.05.16  09.05.16  09.05.16  (***)   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5866,17 +5866,17 @@ Categoria  Funcional:  PERITO  PAPILOSCOPISTA  -  3ª  CLASSE
 
 O DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS, através  do Serviço de  Promoções (SEPROM/DGGP), faz publicar  o Edital Provisório de Apuração  de Tempo de Serviço de  concorrentes, com vistas à  promoção na categoria funcional de Perito Papiloscopista à 2ª Classe, na validade de 29/09/2025,  em cumprimento ao despacho de 01/04/2026,  do processo  administrativo nº  SEI-360008/000826/2026, para ciência  e eventuais  contestações dos  interessados, no  prazo de
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
 <!-- image -->
 
@@ -6085,39 +6085,39 @@ Id:  2726226
 
 INSTRUMENTO: Termo de Ajuste  de Contas nº 024/2026. PA  R  T  E  S  : Fundação Saúde  do Estado do  Rio de  Janeiro e a  empresa MEDSUR COMÉRCIO DE MATERIAL HOSPITALAR LTDA. OBJETO: Te  m por  objeto  a  indenização  pelo  fornecimento  de  OPME,  para  o  Hospital Estadual Getúlio Vargas -HEGV, no período de 04/10/2025 a 28/10/2025,  conforme solicitado  e  comprovado  através da  apresenta-
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0030
+060
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0036
+6
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ministrativo SEI-080002/006837/2026. DATA DA ASSINATURA: 31/03/2026.
 
@@ -6141,17 +6141,17 @@ INSTRUMENTO: Termo  de Ajuste  de Contas nº  789/2026. PA  R  T  E  S  : Funda�
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 indenização  pela  prestação  de  serviços  odontológicos,  para  o  Hospital Estadual de Traumatologia  e Ortopedia Dona Lindu  (HTODL), no período  de  01/02/2026  à  28/02/2026, conforme  solicitado  e  comprovado através da apresentação das notas fiscais devidamente atestadas, tendo  sua viabilidade  jurídica  confirmada pelo  Parecer  n.º 1080  (SEI128528128). VALOR  TOTAL: R$  12.025,12  (doze  mil,  vinte  e  cinco reais  e doze  centavos). FUNDAMENTO: Decidido no  processo administrativo SEI-080002/007872/2026. DATA DA ASSINATURA: 31/03/2026.
 
@@ -6256,17 +6256,17 @@ A  COORDENADORIA GERAL  DE  INSPEÇÃO ESCOLAR,  CERTIFICAÇÃO  E  ACERVO ,  no
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -6305,39 +6305,39 @@ A  COORDENADORIA GERAL  DE INSPEÇÃO  ESCOLAR, CERTIFICAÇÃO E ACERVO ,  nos  
 
 Id:  2726149
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0030/U0036/U0030
+060
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0036
+6
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA COORDENADORIA DE INSPEÇÃO ESCOLAR SERRANA II CEJA PEDRO AMÉRICO DA SILVA
 
@@ -6389,17 +6389,17 @@ Id:  2726097
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 ## Secretaria de Estado de Ciência, Tecnologia e Inovação
 
@@ -6620,17 +6620,17 @@ Id:  2726105
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 ## SECRETARIA DE ESTADO DE TRANSPORTE E MOBILIDADE URBANA COMPANHIA ESTADUAL DE ENGENHARIA DE TRANSPORTES E LOGÍSTICA
 
@@ -6716,9 +6716,9 @@ DATA DE ASSINATURA: 31/03/2026. PROCESSO N° SEI-100006/000837/2024.
 
 Id:  2726117
 
-/U0049
+I
 
-/U0033/U0035
+35
 
 PUBLICAÇÃO  E  REGISTRO: O  presente  termo  será  registrado  no processo  administrativo correspondente  e as  partes notificadas  para os  fins  de execução  contratual  e  comunicações oficiais,  conforme  exigido  pelo  Art.  3º,  §  2º  do  Decreto  de  19/01/2026. DATA DA ASSINATURA: 24/03/2026.
 
@@ -6808,39 +6808,39 @@ INSTRUMENTO: Termo  de  Apostilamento  n°  16/2026. PARTES: SECRETARIA DE DESEN
 
 OBJETO: O  presente Apostilamento  tem por  objeto formalizar  a alteração da titularidade da Unidade Gestora e do Órgão Contratante do
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0030/U0036/U0030
+060
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U0049
+I
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0036
+6
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 Contrato nº 004/2023, que passa a ser a Secretaria de Estado de Desenvolvimento  Regional  do  Interior,  Pesca e  Agricultura  Familiar  (SEDIPAF), em sucessão à Secretaria de Estado de Agricultura, Pecuária, Pesca  e  Abastecimento  (SEAPPA).
 
@@ -6960,17 +6960,17 @@ R$  32.000,00
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 Processo  nº
 
@@ -7277,17 +7277,17 @@ FUNDAMENTO: Processo  nº  SEI-330003/002771/2025.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 o Estado do  Rio de Janeiro e  a Secretaria de Estado  de Polícia Civil.
 

@@ -244,17 +244,17 @@ Ceres Pimenta Diretora Industrial
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ças (Dgaf), do  Gabinete de Segurança Institucional  do Governo. Processo  nº  SEI-390002/000283/2026.
 
@@ -408,17 +408,17 @@ PROCESSO  Nº  SEI-150016/236428/2025 -ADJUDICO e HOMOLOGO o  Procedimento Eletr
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 Centro  de  Documentação  da  Divisão de  Arquivo  Central  deste  Departamento  de  Trânsito do  Estado  do  Rio  de  Janeiro -  DETRAN/RJ,  em conformidade com os preceitos estabelecidos na Lei Federal n.º 14.133/2021 e no Decreto Estadual n.º 48.816/2023, em favor das seguintes  empresas:  THAIS  HAILA  EUFRASIO  GONCALVES  SEABRA, CNPJ  n.º 37.568.044/0001-22, para o item 1, no valor de  R$ 35.779,94 (trinta  e cinco mil setecentos  e setenta e nove  reais e noventa  e quatro  centavos);  LC  LOG REPRESENTACOES  COMERCIO E  SERVICOS LTDA., CNPJ nº 23.681.312/0001-03,  para  o item  2,  no valor  de R$  3.358,88 (três  mil trezentos  e cinquenta  e oito  reais e oitenta  e  oito  centavos).
 
@@ -508,27 +508,27 @@ A PRESIDENTE DA LOTERIA DO ESTADO DO RIO DE JANEIRO LOTERJ, no  uso de  suas atr
 
 Id:  2724419
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0049
+I
 
-/U0030/U0035/U0036
+056
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U006F
+o
 
-/U0033
+3
 
 -o  disposto no  artigo 58,  inciso III,  c/c o  artigo 67  da Lei  Federal nº 8.666/93; no  Decreto nº  45.600, de  16 de março  de 2016,  que regulamenta  a gestão  e  a fiscalização  das  contratações da  administração e altera  o Decreto nº 42.301/2010;  o Decreto Lei nº  138, de 23 de junho  de 1975, que regulamenta  a Loteria do Estado  do Rio de Janeiro;
 
@@ -695,17 +695,17 @@ Esta de  sua pu-
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 ## SUBSECRETARIA DE ADMINISTRAÇÃO DEPARTAMENTO GERAL DE ADMINISTRAÇÃO E FINANÇAS
 
@@ -874,17 +874,17 @@ Parágrafo  Único -/Os  efeitos  do cancelamento  da  inscrição  estadual ret
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Rio  de  Janeiro,  24  de  março  de  2026
 
@@ -956,27 +956,27 @@ Art.  1º  Declarar o cancelamento da seguinte inscrição estadual, com fulcro 
 
 Razão  Social: VAREMAR MADEIRA PARA CONSTRUCAO ESPECIALIZADA LTDA EPP Inscrição  Estadual:  79.172.316 CNPJ: 12.499.028/0001-02 Endereço: Avn Governador Roberto Silveira, 1645 Galpão Parte Posse -  Nova  Iguaçu  RJ  26.285-060
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0036
+056
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0035
+5
 
 Id:  2724449
 
@@ -1130,17 +1130,17 @@ Art.  2º  Declarar a  inidoneidade dos documentos fiscais emitidos, desde  a  d
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 Parágrafo  Único -O contribuinte  que tenha efetuado registros com base nos documentos fiscais acima mencionados e não adotar as providências  previstas na  legislação  em vigor,  inclusive  o estorno  dos créditos  decorrentes,  sujeitar-se-á  às  sanções  legais  pertinentes.
 
@@ -1320,17 +1320,17 @@ Recurso nº 80992 - Processo nº SEI-040035/000104/2022 - Recorrentes:  FAZENDA 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 cidos  os  Conselheiros  Gustavo  Kelly  Alencar,  Jayme  Di  Giorgio  Neto, Ricardo Garcia  de Araujo  Jorge, Igor  Edelstein de  Oliveira, Marcelo Costa  Marques d'Oliveira,  Rodrigo  Barreto de  Faria Pinho,  Ricardo Nunes Ramos  e Antonio Lopes  Caetano Lourenço. -  Acórdão nº 12.167 -  EMENTA: DECADÊNCIA. Na forma do que dispõe o § 4º do artigo 150 do CTN, se a lei  não fixar prazo à homologação, será ele de 5 (cinco) anos, a contar  da ocorrência do fato gerador; expirado esse prazo  sem que a  Fazenda Pública se tenha  pronunciado, considera-se  homologado o  lançamento e  definitivamente extinto  o crédito,  salvo  se  comprovada  a  ocorrência de  dolo,  fraude  ou  simulação. RECURSO ESPECIAL DA  REPRESENTAÇÃO DA FAZENDA DESPROVIDO. - PRELIMINAR DE NULIDADE DO AUTO DE INFRAÇÃO. A  Recorrente sustenta  a  nulidade do  auto de  infração  por vício  de motivação,  alegando  que a  fiscalização  deixou  de explicitar  a  fundamentação  jurídica para  desconsideração do  negócio jurídico.  O auto de  infração não  questionou a  validade dos  documentos fiscais  apresentados, nem  houve acusação de  que o contribuinte tenha  agido de forma  a dissimular  a ocorrência  do fato  gerador. A  conclusão pela ocorrência  do fato  gerador  do ICMS  Importação  neste Estado  decorreu  da  análise  dos  fatos  e  da  interpretação  da  lei  e  da  jurisprudência do STF  pela Autoridade Fiscal.  Além disso, a Recorrente  questiona a identificação  da sujeição  passiva da  obrigação tributária,  argumentando  haver  incerteza  quanto  à  figura aplicável  ao  caso:  se  contribuinte ou  responsável  tributário. A  descrição  dos  fatos e  a  fundamentação legal  no  lançamento  não  deixam  dúvidas  quanto  à  condição  da  Recorrente de contribuinte do ICMS Importação, dada a sua relação pessoal  e  direta  com  a  ocorrência do  fato  gerador,  considerando  que, conforme  relato, 'foi  o estabelecimento  que deu  causa à  operação de importação'. PRELIMINAR DE NULIDADE REJEITADA. MÉRITO - PEDIDO PRINCIPAL -  DESTINATÁRIO DA  IMPORTAÇÃO -  TEMA 520/STF -  INAPLICABILIDADE. Comprovado que a  filial situada em outra  unidade  da  Federação  atuou  apenas  como  intermediária  formal da importação, sendo a matriz localizada no Estado do Rio de Janeiro o  estabelecimento que efetivamente deu causa à operação e explorou economicamente as mercadorias, legítima a exigência do ICMS-Importação  e  do  FECP  pelo  Estado  fluminense, nos  termos  do  art.  155,  § 2º, IX,  'a', da Constituição Federal  e do art.  30, I, 'd.1.2', da  Lei Estadual nº  2.657/96. Inaplicável  o Tema  520 do  STF quando  a forma documental  não reflete  a realidade material. PEDIDO  PRINCIPAL DESPROVIDO. - MÉRITO. PEDIDO SUBSIDIÁRIO. - Trata-se de auto de infração que exige ICMS Importação, segundo a interpretação legal dada  pela  Fazenda Estadual,  e  não  ICMS  sobre a  operação  subsequente  à  importação,  a  saber,  operação  interestadual  de  saída  do  estado do  RJ para outros  Estados. Logo,  não há operações  a serem excluídas  do  lançamento.  RECURSO  ESPECIAL  DESPROVIDO.
 
@@ -1416,17 +1416,17 @@ Recurso  nº 79949.  - Processo  nº SEI-E-04/211/004859/2020.  - Recorrente:  J
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 lidade  de  auto  de  infração,  em  julgamento  de  recurso  de  ofício,  suscitada pelo Conselheiro Luis Pedro  Martelo Teixeira, nos termos do voto  da Conselheira  Luciana  Dornelles do  Espírito Santo,  designada Redatora da preliminar. Vencido o Conselheiro Luis Pedro Martelo Teixeira,  que acolhia. Pelo voto de qualidade, foi acolhida a preliminar de nulidade da  decisão da  Junta de Revisão  Fiscal, suscitada  pelo Conselheiro  Luis  Pedro  Martelo  Teixeira,  designado  Redator  da  preliminar. Vencidos  os  Conselheiros Luciana  Dornelles  do  Espírito Santo  e  Antonio  Lopes Caetano Lourenço, que rejeitavam. - Acórdão nº 20.828. EMENTA: PRELIMINAR.  POSSIBILIDADE  DE SE  AGRAVAR A  POSIÇÃO DA FAZENDA EM SEDE DE RECURSO DE OFÍCIO. Com base no princípio  da autotutela, a Administração tem  o poder-dever de controlar os seus próprios atos, anulando os eivados de nulidade. Portanto, a Fazenda  Estadual, ao perceber vício  insanável no processo, pode revisar  os atos e  verificar se  o crédito tributário  ora discutido, mais a frente,  terá  condições  de  ser  efetivamente  cobrado.  Esse  Conselho  de Contribuintes,  reiteradas  vezes, já  declarou  a nulidade  de Autos de  Infração em sede de  Recurso de Ofício, com  base em pedidos  da R.  Representação  da  Fazenda. PRELIMINAR  REJEITADA. PRELIMINAR DE NULIDADE DA DECISÃO DA JUNTA DE REVISÃO FISCAL.  FALHA  NA  FUNDAMENTAÇÃO.  DECLARADA  A  NULIDADE DA  DECISÃO DE  PRIMEIRA  INSTÂNCIA.  Constatadas a  existência de  falhas  na  planilha  que  subsidia  a decisão  e  a  ausência  de  exposição  do motivo  para exclusão  de valor  referente a  etanol, deve  ser declarada a nulidade da decisão da Junta de Revisão Fiscal, por falha na sua  fundamentação, devendo os autos  retornarem àquele órgão para,  após  saneadas  todas  as  falhas  apontadas,  ser  realizado  novo julgamento.  RECURSO  DE  OFÍCIO  PROVIDO.
 
@@ -1479,37 +1479,37 @@ Id:  2724718
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0039
-
-<!-- image -->
+9
 
 <!-- image -->
 
 <!-- image -->
 
-/U0044/U004F
+<!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+DO
 
-/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+DO
 
-/U0044/U0045
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+DE
+
+JANEIRO
 
 Id:  2724388
 
@@ -1619,17 +1619,17 @@ CONCEDE a MABILIA ALMEIDA DE MORAES ,  na  qualidade de VIÚVA  do(a) ex-segurad
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 CONCEDE a NEUZA LOPES MARTINS  DA SILVA ,  na  qualidade  de VIÚVA do(a) ex-segurado(a) ANTONIO MARTINS DA SILVA, matrícula 3703-6, cargo de  CONTADOR do(a) FUNDAÇÃO DEPARTAMENTO DE  ESTRADAS DE RODAGEM, a pensão por morte,  no  valor de  R$ 20.096,60, correspondente  a cota  de 100,00%, com  fundamento no art. 40, §7°,  inciso I, CRFB/1988, combinado com o  art. 14 da Lei 5.260/2008,  com validade  a  contar de  06/09/2021.  Processo SEI  Nº PD-04/154.500/2021.
 
@@ -2003,17 +2003,17 @@ Id:  2724670
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 19  do  art.  40  da  Constituição  Federal  de  1988,  o  disposto  no  art.  64A  da  Lei  nº  279/1979,  com  base  na  Resolução  SARE  nº  3026/2004  e nas informações prestadas  pelo órgão de pessoal  no presente administrativo,  o  servidor FAZ  JUS ao abono  de  permanência  a  partir  de 0  6  / 11  /  2  0 2  5  .
 
@@ -2140,7 +2140,7 @@ III  prestação, ao Gestor,  de todas  as informações relativas  a execução
 
 <!-- image -->
 
-/U0031 /U0034
+1 4
 
 IV  comunicação,  ao  Gestor do  contrato, de  todas  as alterações  na execução do  ajuste contratual  para fins  de adoção  das providências administrativas  cabíveis,  o  mais  breve  possível;
 
@@ -2212,17 +2212,17 @@ V  efetuar  a  glosa  nas  notas fiscais  por  eventuais  falhas  durante  a exe
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
 VI abrir  processo de liquidação com as notas fiscais relativas ao serviço,  conforme previsão  contratual,  inserindo  um despacho  relatando todas as  falhas observadas na  execução contratual de modo  a municiar o  gestor com as  informações necessárias  a fim de  notificar a contratada visando à apuração e a aplicação das devidas sanções administrativas  por  descumprimento  de  contrato.
 
@@ -2490,25 +2490,25 @@ Id:  2724375
 
 Id:  2724566
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0049
+I
 
-/U002D
+-
 
-/U0030/U0035/U0036
+056
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U006F
+o
 
 ## Secretaria de Estado de Polícia Civil
 
@@ -2582,7 +2582,7 @@ Id:  2724664
 
 PROCESSO Nº SEI-360008/001819/2025 -CONCEDO o benefício  de Isenção de Imposto de Renda  ao servidor inativo ARIBERTO DOS SANTOS OLIVEIRA, Oficial de Polícia, Id. Funcional nº 2.922.752-6, a
 
-/U0031/U0035
+15
 
 <!-- image -->
 
@@ -2672,17 +2672,17 @@ Id:  2724570
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA CIVIL DEPARTAMENTO GERAL DE PESSOAS SERVIÇO DE DIREITOS E VANTAGENS
 
@@ -2952,17 +2952,17 @@ DESIGNA, como  sindicante,  o  inspetor  de  polícia  penal JOSE RENATO  AMORIM
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## INSTITUTO PENAL OSCAR STEVENSON ATO DA DIRETORA
 
@@ -2998,41 +2998,41 @@ Ata da 201ª Sessão Deliberativa do Conselho Penitenciário do Estado do Rio de
 
 ATA  201/26. Aos  vinte dias  do  mês  de  março  de  dois mil  e  vinte  e seis,  às  dez  horas  e  trinta minutos  realizou-se  a  Sessão  Deliberativa do  Conselho Penitenciário  do  Estado  do Rio  de  janeiro,  de forma  virtual, através  do Google  Meet, sob a  presidência da  Doutora Sandra Regina da Silva  de Almeida e secretariada  pela Secretária Executiva do  CPERJ,  Gessica  Machado  dos  Santos  Mesquita.  Verificada  a  existência de  quórum regimental, a  Presidente declarou aberta  a sessão. Item  1.  Aprovação  da  Ata  200.26.  Foi realizada  a  leitura  da  ata  que foi aprovada, por unanimidade, pelos  presentes. Item 2. Consignar as presenças:  Estiveram presentes  na  reunião  os seguintes  conselheiros efetivos  que compuseram,  portanto,  o Corpo  Deliberativo: Sandra  Regina da Silva de Almeida (Presidente), Amanda Pereira de Magalhães, Tatiana Pollo Flores, Murilo  Nunes de Bustamante, Lucas Pedrosa Castellar Pinto,  César Augusto  S. K.  De Oliveira  e Sônia  Regina S. De Oliveira.  Estiveram presentes,  como suplentes,  com direito  a voto os  conselheiros Gabriela  Rodrigues  Figueiredo  Pereira, Lívia  Madeira, Adriana  Vasconcelos H.  Dias,  Isabel  Schprejer, Elizabeth  Rodrigues Félix  e  Eunice da  Silva  Cavalcante.  Esteve presente  como  membro suplente,  sem  direito  a  voto,  a  conselheira  Fatima  Elizabeth  de  Souza Silva  conforme  atesta  a  lista  de  presença  subscrita  em  apartado.  Item 3. Presença  do Superintendente  de Reintegração  Social, o  Sr. Rafael Tony  Cruz. A  presidente  agradeceu a  participação  do convidado,  Sr. Rafael Tony Cruz, Superintendente de reintegração social da SEAP/RJ.  Prosseguindo, a  presidente  concedeu a  palavra ao  convidado  que  falou sobre  questões  administrativas  concernentes ao  trabalho  realizado  pelo  Patronato  Magarinos Torres  em  conjunto  com  o CPERJ. Em seguida, a  presidente passou  a palavra  aos conselheiros que falaram sobre dificuldades  ocorridas na cerimônia de livramento condicional  e solicitou  ajustes  administrativos  para melhor  desenvolvimento  dos trabalhos.  Continuando,  a  conselheira Gabriela  Rodrigues Figueiredo  Pereira  sugeriu  que  seja  criado  um  grupo  de  trabalho  para tratar  do  assunto,  o  que  foi  acolhido,  por  unanimidade.  Nesse  sentido, integrarão  o  grupo  as  conselheiras:  Sandra  de  Almeida,  Tatiana  Pollo, Gabriela  Rodrigues, Elisabeth  Felix, Eunice  Cavalcante e  o conselheiro Roberto de Assis Almeida Conceição, com a primeira reunião agendada  para  o  dia  16/04/2026.  Item  4.  Breves  comentários  sobre  a  reunião  do Comitê  de  Políticas  Penais -  Plano  Pena  Justa -  Conselheiro Felippe Barcellos. O assunto retornará na pauta do dia 24/03/206, terça-feira.  Item  5.  Outros  assuntos  ligados  à  Execução  Penal.  Não  houve.  Nada  mais havendo  tratar,  a  sessão  foi  encerrada às  doze  horas, foi lavrada  a presente ata  pela Secretária Executiva,  Gessica Machado  dos Santos  Mesquita e  pela sua  auxiliar Ligia  Guimarães G.  Moreira  (conforme  dispõe  o art.  3º  da  Lei  6181/2012  e art.  7º  da  Resolução  SEAP Nº  870  de 22/04/2021)  que a  subscrevem  com a  presidente Sandra Regina  da Silva de Almeida,  ficando consignado que os conselheiros Marta Cristina Pires Anciães Martins, Andrezza Duarte Cançado, Leonardo Guida, Daniel Diamantaras de Figueiredo, Wagner de  Oliveira,  Claudia  Maria  Pires  da  Mota,  Rayssa  Costa  Vieira,  Felippe  Oliveira  Barcellos  e  Roberto de  Assis  Almeida  Conceição  não compareceram  à  sessão,  justificadamente. Realizaram  cerimônias  de Livramento  Condicional os  conselheiros:  16/03/2026:  Amanda de  Magalhães,  César  Kuhner e  Lucas  Castellar;  17/03/2026: Rayssa  Vieira,
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0031/U0037
+17
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0035/U0036
+056
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
 Roberto  de  Assis;  18/03/2026:  Roberto  de  Assis,  Fátima  Elisabeth  Silva  e  Gabriela  Pereira;  19/03/2026:  Roberto  de  Assis,  Gabriela  Pereira e  Tatiana  Flores.  Processo  nº  SEI-210001/038383/2026.
 
@@ -3118,17 +3118,17 @@ SAI: CAPITÃO BM QOC/11 FELIPE PORTELA DE LIMA ,  RG:  47.110, ID:  4405143-3. I
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 SECRETARIA DE ESTADO DE DEFESA CIVIL
 
@@ -3238,17 +3238,17 @@ Id:  2724696
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO DIRETORIA EXECUTIVA
 
@@ -3422,17 +3422,17 @@ A  P  O  S  E  N  TA  SONIA  MARIA  SEARA  DA  CUNHA ,  Professor  Docente  I 18
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 A  P  O  S  E  N  TA  ERLANE VIANA  FERREIRA ,  Merendeira-CIEP, nível  I, Identidade  funcional  nº  34745068,  vínculo 01,  matrícula  nº  5.015.7213, nos  termos do  art. 3°,  caput e  §§ 5° e  6°, inciso  I, alínea  'a' da Emenda Constitucional nº 90/2021, fixando os proventos mensais com validade a  partir desta publicação,  tendo por base a  última remuneração integral do cargo efetivo do servidor, sendo reajustados pela paridade nos  seguintes termos propostos: Vencimento-base  atribuído ao cargo  de  Merendeira  CIEP,  nível  I  (Lei  nº  9952/2023),no  valor  de  R$ 936,21,  R$ 936,21  e  Complemento Salário  Mínimo Ex-FAEP  (SEI030001/102696/2024), no valor de R$ 684,79. Processo nº SEI030001/001237/2026.
 
@@ -3570,17 +3570,17 @@ PROCESSO Nº SEI-030035/006290/2022  ELMA  MARTINS BARROSO PACHECO, Identidade  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO  Nº  SEI-030001/028366/2026  SABRINA  TEIXEIRA  DE OLIVEIRA SILVA, Identidade Funcional 41940164/02, matrícula 942.757-6,  Professor  Inspetor Escolar. AV  E  R  B  E  -  S  E nos  termos do  § 9º  do  art.  201  da  CRFB/88  e  no inciso  I  do  art.  80  do  Decreto  nº 2479/79,  o período  de 03/05/2004  a  16/03/2008, num  total de  1414 dias  de  serviço prestado  à  Secretaria  de  Estado  de Educação  do  Rio de  Janeiro  -  SEEDUC  (RPPS),  como  Professor  Docente  I.
 
@@ -3626,17 +3626,17 @@ PROCESSO  Nº SEI-030001/002737/2026 -  CONCEDO o benefício Abono  de Permanên
 
 PROCESSO  Nº SEI-030001/004208/2026 -  CONCEDO o benefício Abono  de  Permanência  ao  servidor CESAR  DE  OLIVEIRA  SOARES , Professor Docente  I 18  horas, nível C,  referência 8,  Identidade Funcional no 34899065,  vínculo 2, matrícula 0827738-6,  tendo em vista
 
-/U002D
+-
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ter reunido, na forma dos arts. 6° e 7°  da Lei  Complementar 195/2021, os  requisitos necessários  para a  sua aposentadoria  a partir de  11/05/2023.
 
@@ -3688,41 +3688,41 @@ SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA COORD
 
 PROCESSO Nº SEI-E-03/1700948/1996 - ANGILA  MARIA DOS  SANTOS CAMPINHO,Prof. Doc. II, mat. nº 0.804.898-5, Id. nº 40423760/2, período  base  de  01/02/2021  a  31/01/2026.
 
-/U0032/U0032
+22
 
-/U0044/U0045
+DE
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0035/U0036
+056
 
-/U002D
+-
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0037
+27
 
-/U0032/U0030/U0032/U0036
+2026
 
 PROCESSO  Nº SEI-E-03/10402091/2009 -ELEONORA FALCÃO AGUIAR,  Prof. Doc.  II, mat.  nº  5.021.226-5, Id.  nº 33922900/1,  período  base  de  29/07/2017  a  28/07/2022.
 
@@ -3798,17 +3798,17 @@ O DIRETOR-GERAL  DO DEPARTAMENTO  GERAL DE  AÇÕES SOCIOEDUCATIVAS  (DEGASE ), 
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 -  que  o  tratamento  de  dados  pessoais  de  adolescentes  e  jovens  exige proteção  específica e  reforçada, em  razão de  sua condição  peculiar de pessoa em desenvolvimento, nos termos da Lei Federal nº 8.069/1990  (Estatuto  da  Criança  e  do  Adolescente  -  ECA);
 
@@ -4017,17 +4017,17 @@ Parágrafo  Único -Os  incidentes deverão receber tratamento prioritário  e i
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
 Art.  27 -A  comunicação  do incidente  deverá  observar  critérios  reforçados,  considerando:
 
@@ -4126,19 +4126,19 @@ Em  caso  de  risco  elevado,  indicar  se  houve  encaminhamento  para RIPD:
 
 - (  )  Sim
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U0030/U0035/U0036
+056
 
-/U006F
+o
 
 (  )  Não (  )  Não  se  aplica
 
@@ -4186,7 +4186,7 @@ PROCESSO  Nº SEI-030002/010406/2025 -ARQUIVE-SE ,  a  Decisão exarada pela i. 
 
 Id:  2724575
 
-/U002D
+-
 
 ## Secretaria de Estado de Ciência, Tecnologia e Inovação
 
@@ -4216,45 +4216,45 @@ PROCESSO SEI-260005/003576/2022  DIÓGENES  GOMES  DA  SILVA, Id. Funcional n° 
 
 Id:  2724738
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0032/U0033
+23
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0035/U0036
+056
 
-/U002D
+-
 
-/U0032/U0037
+27
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E  INOVAÇÃO FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
 
@@ -4326,17 +4326,17 @@ PROCESSO Nº SEI-260006/009292/2026 JANAINA DA  SILVA CARDOSO,  matr.  nº  33.3
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 PROCESSO Nº  S  E  I  -  2  6  0  0  0  6  /  0  1  0  9  11  /  2  0  2  6 -MARCIA DA  SILVA OLIVEIRA,  matr.nº  32.978-9,  ID  nº  25699652, com  validade  a  contar  de 23/07/2022.
 
@@ -4561,17 +4561,17 @@ Art.  1° -  Aprovar  a  Revisão  1  da  Norma  Operacional  -  NOP-INEA-38R.1 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Parágrafo Único -  A  Norma  Operacional  (NOP-INEA-38-R.1)  será  publicada  no sítio  eletrônico do  Inea, na  rede mundial  de computadores (www.inea.rj.gov.br), e  no 'Boletim de  Serviço' do Instituto,  pela Gerência  de Publicações  e  Acervo Técnico  (GERPAT), e  disponibilizados pelo Serviço de  Normatização  (SERVNOR)  no Menu  'Legislação Inea'.
 
@@ -4627,17 +4627,17 @@ PROCESSO Nº SEI-070002/001305/2026 -RECONHEÇO a dívida em favor da empresa D.
 
 PROCESSO Nº SEI-070002/000974/2026 - RECONHEÇO a  dívida  em favor  da  empresa  LAZARUS, GERENCIAMENTO,  CONSULTORIA  E ENGENHARIA LTDA, referente a 9ª  Medição ao Contrato INEA n° 02/2025  (122691464) ,  cujo  o  objeto versa  sobre  o  ESTUDO DE  AL-
 
-/U002D
+-
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 TERNATIVAS E ELABORAÇÃO DE PROJETOS BÁSICOS E EXECUTIVOS PARA CONTROLE DE INUNDAÇÕES NA BACIA HIDROGRÁFICA DO RIO PIABANHA, entre os períodos de 01/12/2025 a 31/12/2025, no valor de R$ 11.076,79 (onze mil setenta e seis reais e setenta  e  nove  centavos).
 
@@ -4763,17 +4763,17 @@ Art . 6º -  O Gestor  e  Fiscais  de  Contrato  deverão participar  nos  progr
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Art. 7º -Esta designação  não afasta a responsabilidade  solidária dos demais  agentes públicos  envolvidos  na gestão  e  fiscalização, nos  termos da legislação  vigente.
 
@@ -4991,17 +4991,17 @@ Id:  2724673
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Controladoria Geral do Estado
 
@@ -5055,41 +5055,41 @@ Art.  4ºA  apresentação do  Programa de  Integridade pela  empresa compreende
 
 Ia realização  de cadastro  no Sistema  de Avaliação  de Programa  de
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0035/U0036
+056
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0037
+27
 
-/U0049
+I
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
 Integridade  -  SAPI,  para  obter  acesso  ao  sistema;
 
@@ -5439,17 +5439,17 @@ I  observar rigorosamente  os  princípios,  tais como:  finalidade,  adequaçã
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 III  se  atentar de  que  o tratamento  de dados  pessoais sensíveis  somente poderá  ocorrer sem  fornecimento de consentimento  do titular, para  exercício  regular  de  direitos,  inclusive  em  contrato  e  em  processo  judicial, administrativo  e  arbitral, conforme  art.11,  inciso II,  alínea 'd' da  Lei  Geral  de  Proteção  de  Dados. I  Vassinar  termo  de  confidencialidade  específico,  comprometendo-se com o sigilo  das  informações  acessadas  e  com  a  observância  integral das  normas  de  proteção  de  dados  pessoais. Vregistrar  e  confeccionar  a  documentação de todas as operações de tratamento de  dados realizadas  no âmbito da  Comissão, para  fins de prestação  de contas,  rastreabilidade e  eventual auditoria,  em consonância  com  o  princípio  da  responsabilização  e  prestação  de  contas (accountability),  previsto  no  art.  6º,  inciso  X,  da  Lei  Geral  de  Proteção de  Dados.
 
@@ -5545,41 +5545,41 @@ Secretário  de  Estado  de  Infraestrutura  e  Obras  Públicas
 
 Id:  2724653
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0035/U0036
+056
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0032/U0039
+29
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0037
+27
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE INFRAESTRUTURA E OBRAS PÚBLICAS
 
@@ -5769,17 +5769,17 @@ Diretor  Presidente Id:  2724465
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE INFRAESTRUTURA E OBRAS PÚBLICAS EMPRESA DE OBRAS PÚBLICAS DO ESTADO DO RIO DE JANEIRO
 
@@ -5943,9 +5943,9 @@ Id:  2724636
 
 *PROCESSO Nº  SEI-330005/000040/2026 - RATIFICO o Ato  de Dispensa  de  Licitação, em  conformidade  com  o Art.  75,  inciso  II, da  Lei Federal n° 14.133/2021 e suas  alterações posteriores, cujo objeto é Aquisição  de troféus  institucionais padronizados,  consistentes em  display em acrílico, destinados às  solenidades oficiais de entrega de títulos  de  regularização fundiária  realizadas  pelo  Instituto de  Terras  e Cartografia  do Estado  do  Rio de  Janeiro  ITERJ,  em  favor da  empresa  LMAS COMERCIO  E SERVICOS  LTDA (62.867.689/0001-03), no valor  de R$ 61.530,00  (sessenta e  um mil quinhentos  e trinta reais), nos  termos da  autorização do Ilmo.  Sr. Diretor  de Administração e Finanças, autoridade ordenadora de despesa, doc. SEI 124932384. *Omitido  no  D.O.  de  11.02.2026.
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 ## FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEM
 
@@ -6019,17 +6019,17 @@ Id:  2724594
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE DEFESA DO CONSUMIDOR
 
@@ -6051,41 +6051,41 @@ DESLIGUE-SE por  Descumprimento  do  Regulamento,  a  contar  da data  assinalad
 
 DEFIRO os  pedidos  de  desligamento  do  estágio,  a  contar  das  datas assinaladas: SEI-140001/037554/2024-  JULIANA  SOUZA  XAVIER  DA  SILVA-DATA: 17/02/2026 SEI-140001/051408/2024-  MARIA  CLARA  PINTO  DE  OLIVEIRA-  DATA:  23/02/2026 SEI-140001/077013/2025-  MARIA  EDUARDA LOPES ALMEIDA- DATA:  26/02/2026 SEI-140001/027134/2024-  CAMILA  FONSECA DE OLIVEIRA GRANHA- DATA: 29/01/2026 SEI-140001/008563/2024-  CÁSSIA  BEATRIZ  DA  CONCEIÇÃO  FARIAS-  DATA:  07/01/2026 SEI-140001/068839/2024-  EDUARDA DE SOUZA FARIA- DATA: 23/01/2026 SEI-140001/026662/2024-  FERNANDO VIEIRA DE CASTRO RIBEIRO- DATA: 06/02/2026 SEI-140001/100167/2025-  GIULIA  DAL  BELLO  FAOUR-  DATA: 05/02/2026 SEI-140001/033989/2025-  JULIA  COELHO  RIBEIRO-  DATA: 01/02/2026 SEI-140001/029878/2025-  LETICIA  PESSOA  CARDOSO- DATA: 09/02/2026 SEI-140001/019693/2025-  LUIS  GUILHERME  QUINTAES  DA  COSTADATA:  09/02/2026 SEI-140001/061862/2025-  LYCIA  PAULA  DE  CASTRO  SOUZA  COSTA-  DATA:  10/02/2026 SEI-140001/007481/2025-  MARIANA  MARTINS DA SILVA LIMA- DATA:  01/02/2026 SEI-140001/068135/2024-  RAQUEL  DE  OLIVEIRA  SANTOS  GASPAR-  DATA:  21/01/2026 SEI-140001/028434/2024-  RENATA  CARVALHO RASTOLDO- DATA: 31/01/2026 SEI-140001/097169/2024-  RONALDO DE PAULA LEITE- DATA: 06/02/2026 SEI-140001/028275/2024-  VINICIUS  AVELINO  XIMENES  DO  PRADODATA:  05/02/2026 SEI-140001/007490/2025-  YASMIN  LOURENCO DE MATTOS- DATA: 27/01/2026 SEI-140001/040205/2024-  BRENDO LUIZ GONÇALVES DOS SANTOS- DATA: 25/02/2026 SEI-140001/017877/2024-  JEHNNYFER LELLES DINIZ DA SILVADATA:  19/02/2026 SEI-140001/004422/2026-  KAREN  DE  JESUS  GOMES-  DATA: 25/02/2026 SEI-140001/033287/2025-  KETHELEN CRISTINA GONÇALVES VIDEIRA- DATA: 27/02/2026 SEI-140001/017935/2024-  NATHALIA  LIMA  SARTORE-  DATA: 28/02/2026 SEI-140001/019614/2024-  ANA  BEATRIZ  MORAES  DOS  SANTOSDATA:  19/01/2026 SEI-140001/027539/2025-  ANA  CLARA  DA  SILVA  MAIA-  DATA: 07/02/2026 SEI-140001/055162/2023-  ANNA  KAROLYNA TRINDADE SANTOSDATA:  05/01/2026 SEI-140001/017936/2024-  ANNA  LUIZA  FREITAS  FERREIRA-  DATA: 02/01/2026 SEI-140001/033152/2024-  ARIEL  CRISTINE  RODRIGUES  CARVALHO PEREZ- DATA: 23/01/2026 SEI-140001/060256/2024-  BARBARA MACHADO LISBOA- DATA: 01/02/2026 SEI-140001/027568/2025-  BERNARDO FERREIRA FONSECA- DATA: 19/01/2026 SEI-140001/033304/2025-  BRUNA  MARQUES COSTA- DATA: 09/02/2026 SEI-140001/049239/2024-  DIANA  DA  SILVA  PEDRON-  DATA: 19/01/2026 SEI-140001/019654/2024-  DIOGO  DA  SILVA  SANTOS-  DATA: 22/01/2026 SEI-140001/060273/2024-  EDUARDO CARMO MARQUES MOREIRADATA:  20/01/2026 SEI-140001/033202/2024-  HEITOR  DE  OLIVEIRA  COELHO-  DATA: 15/01/2026 SEI-140001/033208/2024-  JOAB  CARVALHO CURVINA FILHO- DATA:  05/01/2026 SEI-140001/017943/2024-  LETICIA  MOURA  HONORATO- DATA: 01/02/2026 SEI-140001/019622/2024-  LUÍS  FELIPHE  FREITAS  FERREIRA-  DATA:  19/01/2026 SEI-140001/026214/2024-  LUIZA  DE  JESUS  FRANCISCO  FORTEDATA:  07/01/2026 SEI-140001/026214/2024-  LUIZA  DE  JESUS  FRANCISCO  FORTEDATA:  07/01/2026 SEI-140001/043268/2025-  MARIA  EDUARDA PEREIRA CARBONIDATA:  11/02/2026 SEI-140001/049232/2024-  MATHEUS DUARTE SAMPAIO- DATA: 31/01/2026 SEI-140001/050702/2024-  MILENA  CORDEIRO MORAES- DATA: 05/02/2026 SEI-140001/004381/2026-  PEDRO  DE  MELO  VIEIRA  RIVEIRA  MOTHÉ- DATA: 05/02/2026
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0033/U0031
+31
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0032/U0037
+27
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0036
+056
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 DECLARO desligado  do  estágio,  por  conclusão  do  período,  a  contar das  datas  assinaladas SEI-140001/055134/2023-  ALEXSANDER ALVES GIL- DATA: 11  /  0  1 /  2   0  2  6 SEI-140001/055149/2023-  AMANDA LOBO THOMAZ- DATA: 11  /  0  1 /  2   0  2  6 SEI-140001/001247/2024-  BEATRIZ  PESSOA  ALEXANDRINO- DATA: 01/02/2026 SEI-140001/050835/2023-  CLAUDIO  DE  SÁ  PACHECO  JUNIOR-  DATA:  04/01/2026 SEI-140001/055130/2023-  FABIANE  RODRIGUES TORRES- DATA: 11  /  0  1 /  2   0  2  6 SEI-140001/055123/2023-  JOÃO  CARLOS  VASCONCELOS LOPESDATA:  11/01/2026 SEI-140001/055176/2023-  JULIA  ALBUQUERQUE GUIMARAES- DATA:  11/01/2026 SEI-140001/055151/2023-  JULIA  ARAUJO  DE  MORAES-  DATA: 11  /  0  1 /  2   0  2  6 SEI-140001/001248/2024-  JULIA  CRISTINA  DOS  SANTOS  SENNADATA:  01/02/2026 SEI-140001/055129/2023-  LAURA  HELENA  RIZZO  DA  COSTA-  DATA:  11/01/2026 SEI-140001/001250/2024-  LUCAS  SANTIAGO DA SILVA AMÂNCIODATA:  01/02/2026 SEI-140001/001366/2024-  MARIANA  DOS  SANTOS ALEXANDRIA CARDOSO- DATA: 05/02/2026 SEI-140001/055177/2023-  OSMAR  JACINTO  DE  OLIVEIRA  JÚNIORDATA:  11/01/2026 SEI-140001/055179/2023-  RHAYANE  DUARTE CARDOSO- DATA: 11  /  0  1 /  2   0  2  6 SEI-140001/055128/2023-  RICHARDY  BARBOSA SILVA- DATA: 11  /  0  1 /  2   0  2  6 SEI-140001/001253/2024-  SARAH  JORDÃO DE CARVALHO VERDAN- DATA: 01/02/2026 SEI-140001/002120/2024-  ARTHUR  COUTINHO SILVA- DATA: 01/02/2026 SEI-140001/002126/2024-  BEATRIZ  CAMÊLO  SAMPAIO-  DATA: 01/02/2026 SEI-140001/050901/2023-  CARLOS  ANDRÉ PINTO MOREIRA- DATA: 10/01/2026 SEI-140001/055165/2023-  EDUARDA VICTÓRIA BARBOSA DE MOURA CASAES- DATA: 15/01/2026 SEI-140001/055164/2023-  FELIPE  CASTRO  FREITAS-  DATA: 15/01/2026 SEI-140001/055163/2023-  GIOVANA  FUCK  DE  MAGALHÃES- DATA: 15/01/2026 SEI-140001/054305/2023-  GUILHERME HENRIQUE MARTINS FREIRE-  DATA:  10/01/2026 SEI-140001/055159/2023-  JOÃO  VICTOR  DOS  SANTOS  BOMFIMDATA:  08/01/2026 SEI-140001/006390/2024-  JOÃO  VICTTOR  SILVA  CARDOSO-  DATA: 07/02/2026 SEI-140001/054276/2023-  JOSEMARA NUNES DE ALMEIDA- DATA: 10/01/2026 SEI-140001/002469/2024-  LETICIA  ALVARENGA  DE  SANTANA-  DATA:  01/02/2026 SEI-140001/002128/2024-  MATEUS  DOS  SANTOS FERNANDESDATA:  01/02/2026
 
@@ -6109,39 +6109,39 @@ DEFIRO o  pedido  de  afastamento  por  motivo  de  paternidade,  a  contar  das
 
 Id:  2724631
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0035/U0036
+056
 
-/U002D
+-
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U002D
+-
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0032/U0037
+27
 
 ## AVISOS, EDITAIS E TERMOS DE CONTRATOS
 
@@ -6199,17 +6199,17 @@ Id:  2724608
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## Secretaria de Estado de Planejamento e Gestão
 
@@ -6378,17 +6378,17 @@ LOTE  0129/17 -2 (dois)  telefones celulares, 1 (um)  rádio comunicador; LOTE  
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 LOTE 6205/24 -  3  (três)  telefones  celulares; LOTE 6207/25 -  5  (cinco) telefones celulares; LOTE  7438/24 -2 (duas) motoserras; LOTE 7744/24 -1  (um) telefone  celular; LOTE  7853/24 -  2 (duas)  sucatas de motocicleta  marca HONDA; LOTE  8215/24 -1 (uma)  caixa de som; LOTE 8232/24 -  7  (sete) telefones  celulares; LOTE 8305/24 - 1 (um) telefone celular; LOTE 8608/24 -  8  (oito)  telefones  celulares; LOTE 8728/24 -  1  (um)  telefone  celular; LOTE 8792/24 -  1  (um)  telefone celular; LOTE  9389/24 -  1  (uma)  sucata  de  motocicleta  marca  HONDA, modelo CG150 TITAN ES; LOTE  9390/24 -  1  (uma)  motocicleta marca  HONDA,  modelo  CG150  TITAN  ES; LOTE  9423/24 -  1  (uma) sucata de motocicleta marca HONDA, modelo  XRE 300; LOTE 9458/24 -  1 (um)  telefone celular; LOTE 9554/24 -5  (cinco) telefones celulares; LOTE 10017/24 -6 (seis) telefones celulares; LOTE 10034/24 -1  (um) telefone celular; LOTE  0087/25 -  1 (um) telefone celular; LOTE 0330/25 -2  (dois)  telefones celulares; LOTE 0579/25 -1 (um) telefone celular; LOTE 1016/25 -  1  (um)  telefone  celular; LOTE 1017/25 -1  (um)  telefone celular; LOTE  1437/25 -  2 (dois)  telefones celulares; LOTE 1444/25 -  1  (um) telefone  celular; LOTE 1449/25 - 1 (um)  telefone  celular; LOTE  1582/25 -  1  (um)  telefone  celular; LOTE 1915/25 - 1  (uma)  sucata de  motocicleta marca  HONDA,  1 (uma)  sucata de motocicleta marca YAMAHA, modelo YBR 125; LOTE 2035/25 -1  (um) telefone celular; LOTE 2273/25 - 1 (uma)  motocicleta marca HONDA,  modelo  TWISTER; LOTE  2390/25 -  1  (um)  telefone  celular; LOTE  2458/25 -  1 (um)  rádio comunicador,  1 (uma)  bolsa; LOTE 2573/25 -  1  (uma)  motocicleta  marca  HONDA, modelo NXR150 BROS ES; LOTE  2592/25 -1 (um)  telefone celular; LOTE  2750/25 -  1  (um) telefone  celular; LOTE  2791/25 -2  (dois)  telefones celulares; LOTE 2912/25 -  1  (um)  telefone  celular; LOTE  2830/25 -  1  (um)  telefone celular; LOTE  2996/25 -  13  (treze) telefones  celulares,  1  (um)  notebook; LOTE 3197/25 -  1  (um)  telefone celular; LOTE 3329/25 -  1  (um) telefone  celular, 1  (um) rádio  comunicador; LOTE  3331/25 -  1 (um) rádio comunicador; LOTE  3403/25 -1 (um)  aparelho de  telefone celular; LOTE 3439/25 -  1  (uma)  motocicleta marca HONDA, modelo CG 160  START; LOTE  3442/25 -  1 (uma)  sucata  de  motocicleta  marca HONDA,  modelo  CG150 FAN; LOTE  3598/25 -1  (uma)  motocicleta marca  HONDA; LOTE 3611/25 -  1 (uma)  motocicleta, marca  HONDA, modelo  BIZ; LOTE 3689/25 -  (um)  rádio comunicador; LOTE 3692/25 -  1  (um)  telefone  celular; LOTE  3693/25 -  1  (um)  rádio  comunicador; LOTE  4494/26 -  2 (duas) facas de mesa; LOTE  4622/26 -  1  (uma) sucata  de  motocicleta  marca  BMW,  modelo  G650  GS; LOTE 4803/26 -  2  (duas)  condensadoras  de  ar  condicionado,  2  (duas)  evaporadoras de  ar  condicionado,  1  (uma)  lavadora.
 
@@ -6503,7 +6503,7 @@ por  todos os membros da
 
 Id:  2724524
 
-/U0049
+I
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -6628,17 +6628,17 @@ O DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS ,  através  do Serviço  de  Promoç
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Tempo de Serviço - Validade  29/09/2025
 
@@ -6664,17 +6664,17 @@ O DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS ,  através  do  Serviço  de  Promo�
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO POLÍCIA CIVIL DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS SERVIÇO DE PROMOÇÕES
 
@@ -6686,17 +6686,17 @@ O DEPARTAMENTO-GERAL DE GESTÃO DE PESSOAS ,  através  do  Serviço  de  Promo�
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 109º  43857590  Rita  de  Cassia  Fonseca  Campista  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  43,00  11  0  º  43868010  Fernanda  Valsechy  Rodrigues  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  41,25  111  º  43856551  Marcio  Silva  Miglievich  Guimarães  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  23,00  11  2  º  43858198  Daniel  Accioly  de  Souza  Fragoso  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  39,25  11  3  º  43857400  Flávia  Jabur  Ferreira  França  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  39,75  11  4  º  43857957  Fabyll  Alves  dos  Santos  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  40,75  11  5  º  43858295  Marcos  Lopes  de  Araujo  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  61,00  11  6  º  43857353  Patricia  Goldner  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  42,25  11  7  º  43857132  Raquel  Cardozo  Pereira  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  39,00  11  8  º  43857434  Evelyne  Cortes  Andrade  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  46,75  11  9  º  43858732  Jefferson  Sharpedeudarc  dos  Santos  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  40,50  120º  43857370  Marcel  de  Gusmão  Delfino  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  54,50  121º  43857981  Carlos  dos  Anjos  Brito  Amaral  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  64,50  122º  43857159  Bruna  Alves  Zavarize  06.06.23  14.09.23  14.09.23  14.09.23  14.09.23  43,25  123º  43181872  Francisco  Tanaka  de  Andrade  06.00.00  14.09.23  14.09.23  17.02.07  17.02.07  46,50  124º  43367631  Janata  Xavier  Gevigler  *  06.00.00  14.09.23  14.09.23  1  6  .  0  7  .   11  2  0  .  0  4  .   11  -24,00  125º  43546919  Ibson  de  Araujo  Meireles  06.00.00  14.09.23  14.09.23  15.10.16  19.02.03  28,50  126º  43857817  Luiz  Eduardo  Accioly  Cruz  06.00.00  14.09.23  14.09.23  15.10.01  15.10.01  38,50  127º  43858325  Fabrício  de  Castro  Fernandes  06.00.00  14.09.23  14.09.23  14.09.23  24.03.02  37,75  128º  43858465  Maya Yasmin Cotting  Mesquita  da  Silva  06.00.00  14.09.23  14.09.23  14.09.23  23.05.00  33,00  129º  43858759  Mayron  Lage  Andrade  06.00.00  14.09.23  14.09.23  14.09.23  23.02.18  70,50  130º  43857787  Daniele  Fontoura  Marques  06.00.00  14.09.23  14.09.23  14.09.23  22.09.03  35,25  131º  43857540  Margareth  Moreira  Maciel  06.00.00  14.09.23  14.09.23  14.09.23  2  1  .   11  .  0  0  34,50  132º  43857000  Marcelo  de  Oliveira  Navega  06.00.00  14.09.23  14.09.23  14.09.23  21.09.23  41,75  133º  43856900  Alex  Soares  da  Silva  06.00.00  14.09.23  14.09.23  14.09.23  21.09.22  71,50  134º  43857035  Bruno  Almeida  Lima  06.00.00  14.09.23  14.09.23  14.09.23  18.09.04  (***)  135º  43857310  Leonardo  Otavio  Gonzales  Engel  06.00.00  14.09.23  14.09.23  14.09.23  16.07.05  (***)  136º  43858252  Alessandra  Fablicio  de  Araujo  06.00.00  14.09.23  14.09.23  14.09.23  16.02.14  (***)  137º  43856640  Pablo  Ramoa  Caixeiro  06.00.00  14.09.23  14.09.23  14.09.23  15.07.29  (***)  138º  43856586  Rodrigo  Santana  Barcelos  da  Silva  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  139º  43857582  Daniele  de  Souza  Malafaia  da  Silva  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  140º  43858708  Fernanda  Medeiros  Blasquez  Olmedo  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  141º  43858481  Fabio  dos  Santos  Alves  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  142º  43858520  Bruno  Silva  Lemos  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  143º  43858503  Marcio  Correa  de  Sá  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  144º  43856691  Melina  Santana  Morais  Mccane  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  145º  43857965  Breno  Ramos  Mendes  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  146º  43857043  Robson da Silva  Saraiva  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  147º  43856942  Fabiano  Gonçalves  Pedroza  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  148º  43858651  Ana  Carolina  Barboza  Costa  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  149º  43857663  Juliana  Magalhães  de  Oliveira  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  150º  43857485  Natalia  Gomes  da  Silva  Comissário  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  151º  43858040  Stefanie  Dalsgaard  Barreto  06.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  152º  44031505  João  Moraes  Gomes  Ribeiro  06.00.00  14.00.29  14.00.29  14.00.29  14.00.29  (***)  153º  44032048  Francisco  Lopes  de  Araujo  Junior  06.00.00  14.00.29  14.00.29  14.00.29  14.00.29  (***)  154º  44034091  Rafael  Martins  Paulista  06.00.00  14.00.29  14.00.29  14.00.29  14.00.29  (***)  155º  50007165  Daniele  Rosa  de  Oliveira  06.00.00  14.00.29  14.00.29  14.00.29  14.00.29  (***)  156º  43856802  Marcos  Gonzales  de  Abreu  05.06.23  14.09.23  14.09.23  14.09.23  19.10.14  (***)  157º  43857493  João  Paulo  Nogueira  Coutinho  05.06.23  14.09.23  14.09.23  14.09.23  19.01.29  (***)  158º  43856837  Michelle  Monteiro  Garcia  05.06.23  14.09.23  14.09.23  14.09.23  16.02.30  (***)  159º  43857671  Filipe  Bravo  Duque  05.06.23  14.09.23  14.09.23  14.09.23  15.07.06  (***)  160º  43858058  Luiz  Cezar  Peres  Huais  Junior  05.06.23  14.09.23  14.09.23  14.09.23  15.06.25  (***)  161º  43857809  Leonardo  Assis  Rodrigues  05.06.23  14.09.23  14.09.23  14.09.23  15.02.10  (***)  162º  43858228  Paulo  Fernando  Rocha  Nascimento  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  163º  43857248  Cristianne  Greenhalgh  Vilalta  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  164º  43857477  Ricardo  Henrique  Cabral  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  165º  43856713  Mario  Celso  Botelho  dos  Santos  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  166º  43892221  Marcos  Thomaz  Vieira  Pereira  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  167º  43857191  Marcelo  Gomes  Pereira  da  Silva  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  168º  43857183  Kleber  de  Souza  Leite  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  169º  43858740  Daniele  de  Souza  Armstrong  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  170º  43857647  Gisele  Torres  Maia  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  171º  43857299  Karina  Reis  dos  Santos  Nunes  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  172º  43868061  Jamile  de  Macedo  Roda  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  173º  43858716  Vanessa  Alves  Cortez  Gama  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  174º  43856632  Priscila  Torazza  de  Carvalho  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  175º  43858147  Flavia  Dias  Moreira  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  176º  43858678  Viviane  Silva  da  Costa  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  177º  43858350  Henrique  Raposo  de  Azevedo  Jesus  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  178º  43857507  Max Bill  Monteiro  Ratamero  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  179º  42635489  Paulo  Rossano  Fernandes  dos  Santos  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  180º  43857698  Carolina  Cardoso  e  Cardoso  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  181º  43858570  Renato  Valdemar  Barroso  da  Costa  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  182º  10678158  Victor  Dias  Gloria  05.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  183º  43858473  Jeanne  Jose  Maria  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  184º  43857566  Marcio  Bastos  de  Oliveira  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  185º  43858694  Fernando  Rodrigues  Gonçalves  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  186º  43858104  Alvaro  Emiliano  Marcos  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  187º  43858180  Rodrigo  Xavier  Pinto  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  188º  43857361  Ana  Paula  Tayarol  Ribeiro  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  189º  4  3  8  5   8  5  11  Marcos  de  Souza  Teixeira  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  190º  43857736  Alini  de  Paula  Mozella  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  191º  43856861  Fabio  Barroso  Porto  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  192º  43858341  Uilliam  Carvalho  Faria  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  193º  43857728  Fernanda  Guarana  Antonini  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  194º  42431042  Marcella  Vargas  de  Toledo  Duque  Estrada  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  195º  43857574  Renata  Rodrigues  Carneiro  Costa  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  196º  43858384  Danillo  Lima  da  Silva  Lengruber  05.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  197º  42698324  Gilvando  Cavalcanti  de  Melo  Junior  05.00.00  14.00.29  14.00.29  18.04.06  18.09.25  (***)  198º  44031386  Renata  da  Silva  Almeida  05.00.00  14.00.29  14.00.29  14.00.29  22.06.07  (***)  199º  44031971  Leila  Naumann  Falcão  05.00.00  14.00.29  14.00.29  14.00.29  1  4  .   11  .  1  3  (***)  200º  44031840  Leonardo  Rosalba  05.00.00  14.00.29  14.00.29  14.00.29  14.00.29  (***)  201º  44031580  Renata  Soares  Guaraciaba  05.00.00  14.00.29  14.00.29  14.00.29  14.00.29  (***)  202º  43858490  Tato  Correa  Brandão  *  0  4  .   11  .  1  4  14.09.06  14.09.06  14.09.06  14.09.06  (***)  203º  43858023  Delano  Luis  de  Leon  Moraes  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  204º  43857620  Rogerio  Hinsch  Frias  Barbosa  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  205º  42697409  Tania  Lima  de  Negreiros  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  206º  43858376  Lucio  Eduardo  da  Costa  Abrantes  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  207º  43858139  Antonio  Victor  Teixeira  Vieira  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  208º  41962567  Wagner Lisboa  Vieira  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  209º  43856659  Marcelo  Luiz  Burgos  Rocha  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  210º  43856594  Marco  Frankling  Parangaba  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  2  11  º  43857515  Marsol  Amanda  Sant  Anna  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  212º  43856730  Maycon da Costa Antônio  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  213º  43856993  Carlos  Eduardo  Aida  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  214º  43857973  Manoel  Jorge  da  Silva  Mello  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  215º  43858392  Marcelo  Sussekind  Sequeira  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  216º  43857949  Dulmara  Paiva  Rocha  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  217º  43858074  Pedro  Rodrigues  Ferreira  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  218º  43858635  Rodrigo  Bispo  da  Silva  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  219º  43857876  Ricardo  Rossi  Jullien  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  220º  43858120  Teodorico  Maximiano  da  Fonseca  Filho  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  221º  43857388  Livia  Maria  Valadares  Teixeira  Bitana  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  222º  43858287  Samantha Balestero  Pereira  Portela  Elysio  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  223º  4  3  8  5   8  11  2  Rafael  Machado  Lobato  Matos  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  224º  43856985  Bernardo  Schwan  Belem  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  225º  43858554  Diego  Garrett  de  Lima  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  226º  43857078  Camila  Costa  dos  Santos  04.06.23  14.09.23  14.09.23  14.09.23  14.09.23  (***)  227º  44300255  Marcia  Cristina  da  Silva  Santos  04.06.23  1  3  .  0  0  .   11  1  3  .  0  0  .   11  1  3  .  0  0  .   11  1  3  .  0  0  .   11  (***)  228º  43856934  Alexandre  Rezende  de  Oliveira  04.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  229º  43857833  Diego  Mendonça  Lessa  04.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  230º  43858457  Thiago  do  Rio  Novo  Figueiredo  04.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  231º  43857604  Paula  Martins  Moraes  dos  Santos  04.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6733,17 +6733,17 @@ A  DIRETORA-GERAL  DO  DEPARTAMENTO  GERAL  DE  CONTRATAÇÕES  E CONVÊNIOS  NO
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 232º  43857914  Gabriel  Chermont  Sapia  04.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  233º  43858171  Romulo Bandeira  Rosa  04.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  234º  43856853  Renata  Cristina  Leal  Cavalheiro  04.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  235º  43856560  Tatiana  de  Oliveira  Gonçalves  04.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  236º  43858546  Diego  Magalhães  Alonso  04.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  237º  43858082  Thiago  Fernandes  Barbosa  Pinto  de  Almeida  04.00.00  14.09.14  14.09.14  14.09.14  14.09.14  (***)  238º  43359663  Alexandre  Alves  Ferraz  04.00.00  14.00.29  14.06.30  14.06.30  17.10.20  (***)  239º  25530542  Antonio  Dias  da  Silva  04.00.00  14.00.29  14.00.29  30.01.06  33.04.10  (***)  240º  43715427  Pedro  Fontes  Torres  04.00.00  14.00.29  14.00.29  1  6  .   11  .  1  4  1  6  .   11  .  1  4  (***)  241º  44031394  Valdivan  Lima  Pires  04.00.00  14.00.29  14.00.29  14.00.29  14.00.29  (***)  242º  44031475  Leandro  de  Oliveira  Araujo  04.00.00  14.00.29  14.00.29  14.00.29  14.00.29  (***)  243º  44031335  Ariane  Dalben  Rodrigues  04.00.00  14.00.29  14.00.29  14.00.29  14.00.29  (***)  244º  44031742  Julio  Cesar  Ferreira  Gaspar  04.00.00  14.00.29  14.00.29  14.00.29  14.00.29  (***)  245º  4  3  8  5   7  11  6  Willy  Pinheiro  Pereira  03.07.29  14.05.05  14.05.05  14.05.05  15.02.26  (***)  246º  43858317  Pedro  Paulo  Andrade  de  Almeida  03.06.23  14.09.20  14.09.20  14.09.20  16.08.24  (***)  247º  43905218  Rodrigo  da  Silva  Perdigão  03.06.23  14.08.12  14.08.12  14.08.12  14.08.12  (***)  248º  43925960  Davi  Avelino  Gripp  03.06.23  14.06.24  14.06.24  14.06.24  14.06.24  (***)  249º  50779923  Felipe  de  Freitas  Gomes  03.01.00  09.04.10  09.04.10  09.04.10  09.04.10  (***)  250º  43368549  Rodrigo  Andrade  de  Araujo  03.01.00  09.02.23  09.02.23  16.07.05  16.07.05  (***)  251º  43856950  Amilcar  Jose  Soares  Valente  Junior  03.00.00  14.09.23  14.09.23  14.09.23  14.09.23  (***)  252º  44031270  Fabiana  dos  Santos  de  Araujo  03.00.00  14.00.29  14.00.29  14.00.29  14.00.29  (***)  253º  44183615  André  Luiz  Repsold  de  Azevedo  03.00.00  13.08.09  13.08.09  13.08.09  13.08.09  (***)  254º  43858090  Marcos  Roberto  de  Vasconcellos  Lopes  Soares  03.00.00  12.06.28  12.06.28  12.06.28  12.06.28  (***)  255º  43457878  Luiza  Fernandes  Xavier  03.00.00  12.02.14  12.02.14  1  3  .   11  .  3  0  1  3  .   11  .  3  0  (***)  256º  50817469  Mateus  Rangel  de  Castro  Soares  02.10.12  09.00.08  09.00.08  09.00.08  09.00.08  (***)  257º  50834878  Ronaldo  da  Silva  Mamedes  02.10.12  08.09.00  08.09.00  10.00.06  10.00.06  (***)  258º  50795716  Vitor  Medeiros  Porcino  02.08.01  09.02.23  09.02.23  09.02.23  09.02.23  (***)  259º  50795490  Francis  Lima  de  Almeida  02.08.01  09.02.23  09.02.23  09.02.23  09.02.23  (***)  260º  50835360  Thiago  de  Freitas  Oliveira  02.08.01  08.09.00  08.09.00  08.09.00  11  .  0  3  .  0   7  (***)  261º  44137451  Flavia  de  Moura  Bezerra  Amorim  02.08.01  08.09.00  08.09.00  08.09.00  09.06.08  (***)  262º  43857523  Diego  Olimpio  Machado  02.06.23  14.06.25  14.06.25  14.06.25  14.06.25  (***)  263º  24201430  Rogério  de  Oliveira  Gomes  02.01.20  08.09.00  08.09.00  23.10.03  23.10.03  (***)  264º  50795724  Marcel  Nunes  Ferreira  Vasconcellos  02.01.20  02.01.20  02.01.20  02.01.20  02.01.20  (***)  265º  50093576  Thiago  do  Nascimento  02.01.19  08.09.00  08.09.00  12.03.10  16.01.15  (***)  266º  50833782  Fabio  Frederico  do  Nascimento  02.00.24  08.09.00  08.09.00  08.09.00  08.09.00  (***)   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6910,17 +6910,17 @@ O Decreto 47.365/2020 determina a obrigatoriedade da contratação da certifica�
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 O  B  J  E  TO  : O objeto do presente instrumento é a aquisição de Viaturas do  tipo  Pick\_Up
 
@@ -7034,17 +7034,17 @@ Id:  2724679
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE SAÚDE SUBSECRETARIA EXECUTIVA SUPERINTENDÊNCIA DE COMPRAS E LICITAÇÕES COORDENAÇÃO DE LICITAÇÃO
 
@@ -7133,23 +7133,23 @@ A SECRETARIA DE ESTADO DE SAÚDE - SES/RJ, ATRAVÉS DA COMISSÃO DO ADICIONAL DE
 | PROCESSO  ID  FUNCIONAL  NOME  NÍVEL DO CAR-  GO  ADICIONAL DE QUALIFI-  CAÇÃO REQUERIDO  R  E  S  U  LTA  D  O  VÁLIDO A CONTAR DE:  (conforme  §  1º,  Art.  1º  da  Resolução Conjunta  SES/IASERJ/SECC nº  1057/2022)  FUNDAMENTAÇÃO LEGAL  SEI-080001/027678/2025  30454174  ALINE FERNANDES DA SILVA  MÉDIO  PÓS-GRADUAÇÃO  DEFERIDO  01/09/2025  §  1º,  Art.  2º  da  Resolução  Conjunta  SES/IASERJ/SECC nº 1057, de 27  de  julho  de  2022  SEI-080001/026094/2025  30802377  AMANDA VIANNA DE SOUZA  SUPERIOR  MESTRADO  DEFERIDO  01/09/2025  §  1º,  Art.  2º  da  Resolução  Conjunta  SES/IASERJ/SECC nº 1057, de 27  de  julho  de  2022   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0037
+27
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0033/U0039
+39
 
 ## SECRETARIA DE ESTADO DE SAÚDE SUBSECRETARIA EXECUTIVA SUPERINTENDÊNCIA DE COMPRAS E LICITAÇÕES COORDENAÇÃO DE LICITAÇÃO
 
@@ -7213,17 +7213,17 @@ Id:  2724560
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | SEI-080001/027985/2025  30339448  ANDREA PINHEIRO DA GAMA  MÉDIO  PÓS-GRADUAÇÃO  DEFERIDO  01/09/2025  §  1º,  Art.  2º  da  Resolução  Conjunta  SES/IASERJ/SECC nº 1057, de 27  de  julho  de  2022  S  E  I  -  0  8  0  0  0  1  /  0  2  1  2  11  /  2  0   2  5  16496388  ARIETE LIMA DE AQUINO  SUPERIOR  PÓS-GRADUAÇÃO  DEFERIDO  01/07/2025  §  1º,  Art.  2º  da  Resolução  Conjunta  SES/IASERJ/SECC nº 1057, de 27  de  julho  de  2022  SEI-080001/029392/2025  30448298  CLAUDIA SIMOES HAINE  SUPERIOR  PÓS-GRADUAÇÃO  DEFERIDO  01/09/2025  §  1º,  Art.  2º  da  Resolução  Conjunta  SES/IASERJ/SECC nº 1057, de 27  de  julho  de  2022  SEI-080001/027301/2025  42486670  FERNANDA CRISTINA DIAS DE  FREITAS CRUZ  SUPERIOR  MESTRADO  DEFERIDO  01/09/2025  §  1º,  Art.  2º  da  Resolução  Conjunta  SES/IASERJ/SECC nº 1057, de 27  de  julho  de  2022  SEI-080001/028017/2025  30293138  ISABEL CRISTINA DO NASCIMEN-  TO COELHO  SUPERIOR  PÓS-GRADUAÇÃO  DEFERIDO  01/09/2025  §  1º,  Art.  2º  da  Resolução  Conjunta  SES/IASERJ/SECC nº 1057, de 27  de  julho  de  2022   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7322,59 +7322,59 @@ I  N S  T  R  U  M  E  N  TO  : Termo de Ajuste  de Contas nº 515/2026. PA  R  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 I  N S  T  R  U  M  E  N  TO  : Termo de Ajuste  de Contas nº 672/2026. PA  R  T  E  S  : Fundação Saúde  do Estado  do Rio  de Janeiro  e a  empresa LIFECARE - GESTÃO, ASSISTÊNCIA E EDUCAÇÃO EM SAÚDE LTDA. OBJ  E  TO  : Tem por objeto a  indenização pela prestação de serviços médicos, para Centro de Diagnóstico por Imagem da Baixada Fluminense -CEDI  Baixada, no  período de  01/02/2026 à  28/02/2026, conforme solicitado  e  comprovado  através  da  apresentação  das  notas  fiscais devidamente  atestadas, tendo  sua  viabilidade  jurídica confirmada  pelo Parecer  n.º 948  (SEI-127969129). VALOR TOTAL: R$  13.560,00 (treze mil,  quinhentos e sessenta reais). F  U  N  D  A  M  E  N  TO  : Decidido  no processo administrativo SEI-080002/006483/2026. DATA  DA  ASSINATURA: 25/03/2026. I  N S  T  R  U  M  E  N  TO  : Termo de Ajuste  de Contas nº 679/2026. PA  R  T  E  S  : Fundação Saúde do Estado do Rio de Janeiro e a empresa FORSAÚDE  SERVIÇOS MÉDICOS  LTDA. O  B  J  E  TO  : Tem por  objeto a  indenização  pela  prestação  de  serviços  médicos,  para  UPA  24h  Ricardo  Albuquerque,  no  período  de  01/02/2026 à  28/02/2026,  conforme  solicitado e comprovado através da  apresentação das notas fiscais devidamente atestadas,  tendo  sua  viabilidade  jurídica  confirmada  pelo  Parecer  n.º  923 (SEI-127864400). VALOR  TOTAL: R$ 469.180,06  (quatrocentos  e sessenta  e nove  mil, cento  e oitenta  reais e  seis centavos). F  U  N  D  A  M  E  N  TO  : Decidido no processo administrativo SEI080002/006900/2026. DATA DA ASSINATURA: 25/03/2026. I  N S  T  R  U  M  E  N  TO  : Termo de Ajuste  de Contas nº 741/2026. PA  R  T  E  S  : Fundação  Saúde  do  Estado  do  Rio de  Janeiro  e  a  empresa  GUERREIRO  SERVIÇOS MÉDICOS  LTDA. O  B  J  E  TO  : Tem  por  objeto a  indenização  pela  prestação de  serviços  médicos,  para UPA  24h  Nova Iguaçu II,  no  período  de  01/02/2026  a  28/02/2026,  conforme  solicitado e  comprovado através da apresentação das notas fiscais devidamente atestadas, tendo  sua viabilidade  jurídica confirmada pelo  Parecer n.º 1006  (SEI-128198845). VALOR  TOTAL: R$  456.735,36 (quatrocentos e  cinquenta  e  seis  mil,  setecentos  e  trinta  e  cinco  reais  e  trinta  e  seis centavos). F  U  N  D  A  M  E  N  TO  : Decidido  no  processo  administrativo  SEI080002/006730/2026. DATA DA ASSINATURA: 25/03/2026. I  N S  T  R  U  M  E  N  TO  : Termo de  Ajuste  de Contas  nº 1896/2025. PA  R  T  E  S  : Fundação Saúde do  Estado do Rio de Janeiro e  a empresa INTER QUALITY REPRESENTAÇÕES LTDA. O  B  J  E  TO  : Tem por  objeto a indenização pela prestação de  serviços de locação de equipamentos hospitalares (Monitor BIS), para o Hospital Estadual Dr. Ricardo Cruz HERCRUZ, no  período de 01/10/2025 à  31/10/2025, conforme solicitado e comprovado através da  apresentação das notas fiscais devidamente  atestadas, tendo  sua  viabilidade  jurídica confirmada  pelo Parecer n.º  2784  (SEI-119365932). VALOR TOTAL: R$ 2.400,00 (dois mil e quatrocentos reais). F  U  N  D  A  M  E  N  TO  : Decidido  no  processo  administrativo SEI-080002/027960/2025. DATA DA ASSINATURA: 24/03/2026. I  N S  T  R  U  M  E  N  TO  : Termo de  Ajuste  de Contas  nº 2205/2025. PA  R  T  E  S  : Fundação  Saúde do  Estado do  Rio de  Janeiro e  a empresa  LABORATÓRIO DE ANÁLISES CLÍNICAS SÃO JOSÉ LTDA. O  B  J  E  TO  : Te  m por objeto a indenização pela prestação de serviços laboratoriais, para UPA 24h  Jacarepaguá, no  período de  20/08/2025 à  31/08/2025, conforme solicitado  e  comprovado  através  da  apresentação  das  notas  fiscais  devidamente atestadas,  tendo  sua  viabilidade jurídica  confirmada pelo Parecer n.º 3113 (SEI-120699995). VALOR TOTAL: R$ 41.742,08  (quarenta  e  um  mil,  setecentos e  quarenta  e  dois  reais  e oito  centavos). F  U  N  D  A  M  E  N  TO  : Decidido no  processo administrativo SEI-080002/024186/2025. DATA DA ASSINATURA: 24/03/2026. I  N S  T  R  U  M  E  N  TO  : Termo de  Ajuste  de Contas  nº 2399/2025. PA  R  T  E  S  : Fundação  Saúde do  Estado  do Rio  de Janeiro  e  a empresa  QUATTUOR ESTRUTURAS E SERVIÇOS DE ENGENHARIA LTDA. OBJETO  : Tem por  objeto a  indenização pela  prestação de  serviços de  manutenção  preventiva  e corretiva  predial,  para  o Centro  Psiquiátrico  do Rio  de Janeiro  - CPRJ,  no período  de 01/08/2025  à 31/08/2025,  conforme solicitado  e  comprovado  através  da  apresentação  das  notas  fiscais  devidamente atestadas,  tendo  sua  viabilidade jurídica  confirmada pelo Parecer n.º 3311 (SEI-121213241). VALOR TOTAL: R$ 166.379,28  (cento  e  sessenta  e  seis  mil,  trezentos  e  setenta  e  nove reais  e  vinte  e  oito  centavos). F  U  N  D  A  M  E  N  TO  : Decidido  no  processo administrativo SEI-080002/028611/2025. DATA DA ASSINATURA: 25/03/2026. I  N S  T  R  U  M  E  N  TO  : Termo de  Ajuste  de Contas  nº 2424/2025. PA  R  T  E  S  : Fundação  Saúde do  Estado do  Rio de  Janeiro e  a empresa  AIR LIQUIDE BRASIL  LTDA. O  B  J  E  TO  : Tem por  objeto a  indenização pela prestação de  serviços de  locação e  instalação de  equipamentos, sistema de ar  medicinal comprimido, sistema de  vácuo e fornecimento de  gases medicinais,  para  o  Hospital Estadual  da  Mãe  de Mesquita  HMÃE, no período de 01/10/2025 à 31/10/2025,  conforme  solicitado  e comprovado  através da  apresentação  das  notas fiscais  devidamente atestadas, tendo  sua viabilidade  jurídica confirmada pelo  Parecer n.º 3284  (SEI-121161885). VALOR  TOTAL: R$ 23.999,41  (vinte e  três mil,  novecentos  e  noventa  e  nove reais  e  quarenta  e  um  centavos). F  U  N  D  A  M  E  N  TO  : Decidido no processo administrativo SEI080002/028591/2025. DATA DA ASSINATURA: 24/03/2026. I  N S  T  R  U  M  E  N  TO  : Termo de  Ajuste  de Contas  nº 2486/2025. PA  R  T  E  S  : Fundação  Saúde do  Estado do  Rio  de Janeiro  e  a empresa  M 4  IMPORTAÇÃO E COMÉRCIO DE MATERIAIS MÉDICO HOSPITALARES LTDA. O  B  J  E  TO  : Tem por objeto a indenização pela prestação de serviços de fornecimento de OPME,  para o Hospital Estadual de Traumatologia e Ortopedia Dona Lindu -HTODL, no período de 01/09/2025  à 30/09/2025,  conforme  solicitado  e comprovado  através da  apresentação das  notas fiscais  devidamente atestadas,  tendo sua viabilidade  jurídica  confirmada  pelo  Parecer  n.º  3372  (SEI-121405504). VALOR TOTAL: R$ 57.820,20 (cinquenta  e  sete  mil,  oitocentos  e  vinte  reais e  vinte  centavos). F  U  N  D  A  M  E  N  TO  : Decidido  no processo  administrativo SEI-080002/027426/2025. DATA DA ASSINATURA: 24/03/2026. I  N S  T  R  U  M  E  N  TO  : Termo de  Ajuste  de Contas  nº 2488/2025. PA  R  T  E  S  : Fundação  Saúde  do  Estado  do  Rio  de  Janeiro  e  a  empresa  SUPPLEX  COMÉRCIO E  SERVIÇOS LTDA. O  B  J  E  TO  : Tem  por objeto  a indenização pela locação de equipamento (Broncoscópio), para o Hospital  Estadual  Getúlio Vargas  (HEGV),  no  período de  02/11/2025  à 30/11/2025,  conforme solicitado  e  comprovado  através da  apresentação das notas fiscais devidamente atestadas, tendo sua viabilidade jurídica  confirmada pelo Parecer n.º 3374 (SEI-121405926). VALOR TOTA  L  : 49.138,57 (quarenta e nove mil, cento e trinta  e  oito  reais  e  cinquenta  e  sete centavos). F  U  N  D  A  M  E  N  TO  : Decidido  no processo  administrativo SEI-080002/031877/2025. DATA DA ASSINATURA: 24/03/2026. I  N S  T  R  U  M  E  N  TO  : Termo  de Ajuste  de Contas nº  2511/2025. PA  R  T  E  S  : Fundação  Saúde do  Estado do  Rio de  Janeiro e  a empresa  AIR LIQUIDE BRASIL  LTDA. O  B  J  E  TO  : Tem por  objeto a  indenização pela prestação de  serviços de  locação e  instalação de  equipamentos, sistema de ar  medicinal comprimido, sistema de  vácuo e fornecimento de gases medicinais, para o Hospital Estadual de Traumatologia e Ortopedia Dona Lindu - HTODL, no período de 01/11/2025 à 30/11/2025, conforme  solicitado  e comprovado  através  da  apresentação das  notas fiscais  devidamente atestadas,  tendo  sua  viabilidade jurídica  confirmada pelo Parecer n.º  3429 (SEI-121707031). VALOR  TOTAL: R$ 19.808,84  (dezenove mil,  oitocentos e  oito  reais e  oitenta e  quatro centavos). F  U  N  D  A  M  E  N  TO  : Decidido  no  processo  administrativo  SEI080002/031323/2025. DATA DA ASSINATURA: 24/03/2026.
 
 Id:  2724515
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0036
+056
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U002D
+-
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE SAÚDE
 
-/U0034/U0031
+41
 
 ## FUNDAÇÃO SAÚDE DO ESTADO DO RIO DE JANEIRO
 
@@ -7566,17 +7566,17 @@ INSCRIÇÃO
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 designada no DOERJ de 23/03/2023, página 23, 2ª coluna. Servidores que  autorizaram a  publicação: Amanda  Ferreira Santos  Braga, ID. Funcional  nº  4372231-8  e  Selma  Regina  Carvalho  de  Macedo,  ID. Funcional  nº  4329312-3.  Processo  nº  SEI-030001/013942/2025.
 
@@ -7842,9 +7842,9 @@ Id:  2724669
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E  INOVAÇÃO FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
 
@@ -7881,13 +7881,13 @@ MARILIA ALBUQUERQUE NUNES DE SOUZA
 
 DIANA MORAIS FONSECA SOARES
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E  INOVAÇÃO FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
 
@@ -8070,17 +8070,17 @@ CONVOCA:
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PRID, no prazo de 20 dias para tomar ciência do processo, à Avenida Conselheiro Julius Arp, n° 85, Centro  Nova Friburgo -RJ. O processo terá  continuidade independente  do comparecimento  do convocado.
 
@@ -8277,17 +8277,17 @@ NOME: CONSTRUSUL INDUSTRIAL LTDA. CNPJ/CPF: 56.967.194/0001-53.  ENDEREÇO: RODO
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 7275  KM 7/9.  MUNICIPIO: PINHEIRAL.  INFRAÇÃO: Art.:  83 da  Lei Estadual 3.467/2000. PENALIDADE: Multa simples Valor: R$ 8.742,17. PROCESSO N° SEI-070002/005848/2025.
 
@@ -8433,7 +8433,7 @@ Id:  2724493
 
 <!-- image -->
 
-/U0034/U0036
+46
 
 Fundo Estadual de Cultura do Rio  de Janeiro, referentes à gestão do Fundo,  limitadas  a  5%  dos  recursos  arrecadados  pelo  Fundo  no  ano anterior, com avaliação  e divulgação de resultados na  forma do parágrafo  1º  do  art.  39,  da  Lei  nº  7.035,  de  07  de  julho  de  2015.
 
@@ -8651,55 +8651,55 @@ As  comprovações  deverão:
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
 ## EXPERIÊNCIAS ANTERIORES COMO PARECERISTA DE PROJETOS CULTURAIS
 
-/U002D
+-
 
-/U004E
+N
 
-/U0030/U0035/U0036
+056
 
-/U006F
+o
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0044/U0045
+DE
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0032/U0037
+27
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0034/U0037
+47
 
 | Experiência  prévia  com  avaliação  de  projetos,  sendo  parecerista  na área  cultural.  (0  a  25  pon-  tos)  05 (cinco) pontos por comprovação, limitando-se  ao máximo de 25 (vinte e cinco)  pontos,  equivalente  às  comprovações  de  5  (cinco)  diferentes  experiências  25  EXPERIÊNCIAS PROFISSIONAIS CULTURAIS COMPLEMENTARES  Experiência  profissional  em  outras  áreas  culturais,  considerando  as  duas  áreas  complementares  indicadas  pelo  C  A  N  D  I  D  ATO  ,  de  acordo  com  o  subitem 8.5.2.1  ,  e  das  demais  áreas  culturais  dis-  postas  no  mesmo  item.  (0  a  10  pontos)  01 (um) ponto por comprovação, limitando-se ao máximo de 10 (dez) pontos, equi-  valente  às  comprovações  de  10  (dez)  diferentes  experiências  10  Experiências  profissionais  com  Povos  e  Comunidades  Tradicionais.  (0  a  3  pontos)  01 (um) ponto por comprovação, limitando-se ao máximo de 03 (três) pontos, equi-  valente  às  comprovações  de  03  (três)  diferentes  experiências  3  Experiências profissionais em Diversidade cultural, considerando questões sociais, raciais e de gê-  nero  .  (0  a  3  pontos)  01 (um) ponto por comprovação, limitando-se ao máximo de 03 (três) pontos, equi-  valente  às  comprovações  de  03  (três)  diferentes  experiências  3  Experiências  profissionais  com  Formação  de  público  e/ou  Acessibilidade  .  (0  a  3  pontos)  01 (um) ponto por comprovação, limitando-se ao máximo de 03 (três) pontos, equi-  valente  às  comprovações  de  03  (três)  diferentes  experiências  3  Certificado  de  conclusão  do  Curso  de  Parecerista  da  Escola  Solano  Trindade  de  Formação  e  Qualificação  Artística,  Técnica  e  Cultural  (ESCULT)  .  (0  a  1  ponto)  01  (um)  ponto  por  comprovação,  limitando-se  ao  máximo  de  01  (um)  ponto  1  ## NOTA MÁXIMA  100   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8832,7 +8832,7 @@ c.1) Comunicado  o número  de  projetos  designado ao PA  R  E  C  E  R  I  S  
 
 <!-- image -->
 
-/U0034/U0038
+48
 
 DENCIADO as  seguintes  sanções:
 
@@ -8870,17 +8870,17 @@ f) Emissão de parecer  técnico considerado insatisfatório, que permaneça  in
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - 17.2 O  consentimento  somente  será utilizado  quando  a  finalidade  do tratamento  não estiver  amparada  nas demais  bases legais  previstas na LGPD, em  especial nos arts. 7º e 23.  Quando utilizado, será específico, destacado  e com possibilidade  de revogação, nos  termos da lei.
 
@@ -9020,17 +9020,17 @@ b) R$  100,00  (cem  reais)  a  cada  projeto  cultural  cuja  premiação  tota
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 - 3  O  PARECERISTA  CREDENCIADO é  o  único responsável  pelos encargos  de  natureza tributária,  fiscal,  trabalhista  e previdenciária  decorrentes  de  sua  atuação,  não  havendo  qualquer  vínculo  empregatício com o Estado.
 - 4 - O Estado não se responsabiliza por compromissos assumidos pelo PARECERISTA CREDENCIADO com terceiros, ainda que relacionados à  execução  dos  serviços  objeto  deste  Termo.
@@ -9099,35 +9099,35 @@ A COMISSÃO TÉCNICA PERMANENTE DE ELABORAÇÃO DE EDITAIS E ANÁLISE DE PROJETO
 | CÓDIGO  TÍTULO DO PROJETO  PROPONENTE  D  O  C  U  M  E  N  TO  MUNICÍPIO  REGIÃO  S  TAT  U  S  7  111  6  ENCANTANDO COM CORDEL  CILENE ALVES DE OLIVEIRA  984.XXX.XXX-72  RIO  DE  JANEIRO  METROPOLITANA I  ELIMINADO  73200  1,  2,  3...  NO  MUNDO  DO  ERA  UMA  VEZ...  GLAUTER PORTO DE SOUZA BARROS  876.XXX.XXX-53  ANGRA DOS REIS  COSTA VERDE  ELIMINADO  73428  HISTÓRIAS DA CAROCHINHA EM CENA  IARA SOUZA LIMA  915.XXX.XXX-53  CAMPOS DOS GOYTA-  CAZES  NORTE FLUMINENSE  ELIMINADO   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0035/U0036
+056
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U002D
+-
 
-/U0032/U0037
+27
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
 2.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -9178,27 +9178,27 @@ Id:  2724479
 
 (...)
 
-/U0049
+I
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0034/U0039
-
-<!-- image -->
+49
 
 <!-- image -->
 
-/U0044/U004F
+<!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+DO
 
-/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+DO
 
-/U0044/U0045
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+DE
+
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
 
@@ -9393,17 +9393,17 @@ ELIMINADO
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA
 
@@ -9558,7 +9558,7 @@ CONVOCADO
 
 <!-- image -->
 
-/U0035/U0032
+52
 
 V-  Valor  total  do  projeto (R$) R$  18.226.352,81 VI-  Valor  aprovado  para captação  (R$) R$  3.000.000,00 VII  -  Produção  Cultural Nacional
 
@@ -9600,17 +9600,17 @@ mórias  -  1ª  edição II-  Número  do  projeto 80847 III-  Nome/Razão  Soc
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - VII  -  Produção  Cultural Nacional
 
@@ -9822,17 +9822,17 @@ DATA DA ASSINATURA: 18.03.2026.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
 Praia  do  Barbudo,  no  Município  de Araruama,  visando  à  sua  estruturação  e consolidação  como Complexo  Esportivo, com  a finalidade de ampliar o acesso ao esporte, promover a inclusão social, incentivar a  prática  de  atividades  físicas,  fomentar  ações  socioeducativas  e  contribuir  para  a  melhoria  da  qualidade  de  vida  da  população. DATA DA ASSINATURA :  25/03/2026
 
@@ -9972,7 +9972,7 @@ TIPO: Menor  Preço  em  Regime  de  Empreitada  por  Preço  Unitário. MODO DE
 
 DATA DE ABERTURA: 15/05/2026  às  11:00  horas. OBJETO: CONTRATAÇÃO DE  EMPRESA ESPECIALIZADA  PARA EXECUÇÃO DE  OBRA  DE  CONTENÇÃO  DE  ENCOSTA  DE  CORTINA  ATIRANTADA,  COM  ELABORAÇÃO DE  PROJETO  EXECUTIVO,
 
-/U0049
+I
 
 Comissão, a fim de apresentar DEFESA ESCRITA, em 2 vias, sob pena  de  REVELIA,  por  ter  sido indiciada  por  inobservância  aos  artigos 38,  39,  incisos  V,  VII,  e  transgressão  ao  artigo  44  c/c  artigo  50,  inciso I e  artigo 52, incisos  I, VIII,  IX, c/c 55,  inciso I, todos  do Decreto-Lei nº 220/75, regulamentado pelo Decreto 2479/79, tudo conforme consta dos  autos.
 
@@ -10094,17 +10094,17 @@ Guarda Digitalização Indexação e Gerenciamento Sistema 100% em nuvem Id:  27
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 

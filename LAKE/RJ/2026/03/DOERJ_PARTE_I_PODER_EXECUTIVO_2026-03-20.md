@@ -206,17 +206,17 @@ INSTITUI O PROGRAMA DE TURISMO RURAL DO ESTADO DO  RIO DE JANEIRO "VIVÊNCIAS  D
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - Art.  7º -Para todas as  finalidades desta lei, a  coleta, o armazenamento,  o tratamento  e o  compartilhamento de  dados do  Banco de Perfis Genéticos do Estado do Rio de Janeiro observarão integralmente  o  disposto  na  Lei  Federal n.º 13.709, de 14 de agosto de 2018 (Lei Geral de  Proteção de  Dados Pessoais), especialmente  os princípios da finalidade,  necessidade, segurança, prevenção  e responsabilização.
 - Art.  8º -O  Poder  Executivo  poderá  celebrar  convênios  e  parcerias com universidades públicas, institutos  públicos de pesquisa e órgãos federais  para o  desenvolvimento,  aprimoramento  e manutenção  do Banco de  Perfis Genéticos,  observadas as diretrizes  técnicas nacionais vigentes relativas  à Rede Integrada de Bancos  de Perfis Genéticos  e  preservado  o  sigilo  dos  dados  pessoais.
@@ -401,17 +401,17 @@ Rio  de  Janeiro,  19  de  março  de  2026
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## ANEXO II
 
@@ -735,17 +735,17 @@ III  excursões escolares de  caráter pedagógico conduzidas por pro-
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 fessores  ou  responsáveis  da  instituição  de  ensino,  salvo  quando  incluírem visita  a atrativos ou  equipamentos turísticos com  fins comerciais;
 
@@ -1023,17 +1023,17 @@ Id:  2722858
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 ## DECRETO DE 19 DE MARÇO DE 2026
 
@@ -1137,41 +1137,41 @@ NOMEAR  ANDERSON DE  AZEVEDO COELHO ,  ID FUNCIONAL  Nº 51382822, para exercer 
 
 CLÁUDIO CASTRO Governador
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0030/U0035/U0031
+051
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0049
+I
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0032/U0030
+20
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0035
+5
 
 ## DECRETO DE 19 DE MARÇO DE 2026
 
@@ -1293,39 +1293,39 @@ EXONERAR, a pedido, ALEXANDRE ISQUIERDO MOREIRA, ID  FUNCIONAL  Nº 5137203-7,  
 
 no  uso  de
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0031
+051
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U002D
+-
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## DECRETO DE 19 DE MARÇO DE 2026
 
@@ -1399,17 +1399,17 @@ NOMEAR CARLOS CESAR DE CIMA AIRES , ID FUNCIONAL Nº 33275815/4, para exercer, c
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 cargo de  Superintendente, símbolo  DG, do  mesmo Órgão.  Processo nº S  E  I -  3 3  0  0   0 1  / 0  0  0   5 11  /  2 0  2  6   .
 
@@ -1451,81 +1451,81 @@ Id:  2722859
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
-
-<!-- image -->
+JANEIRO
 
 <!-- image -->
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+<!-- image -->
 
-/U0044/U004F
+ESTADO
+
+DO
 
 <!-- image -->
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
-
-<!-- image -->
-
-/U0045/U0053/U0054/U0041/U0044/U004F
-
-/U0044/U004F
+JANEIRO
 
 <!-- image -->
 
-<!-- image -->
+ESTADO
 
-/U0044/U004F
-
-/U0052/U0049/U004F
-
-/U0044/U0045
-
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
-
-<!-- image -->
-
-/U0039
+DO
 
 <!-- image -->
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+DO
 
-/U0044/U004F
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+9
 
 <!-- image -->
 
 <!-- image -->
 
-/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+DO
 
-/U0044/U0045
+<!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+<!-- image -->
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
 
 ## DESPACHOS DO GOVERNADOR EXPEDIENTE DE 19 DE MARÇO DE 2026
 
@@ -1563,11 +1563,11 @@ NOMEAR ANA CAROLINA SANTOS DE JESUS para  exercer o cargo  em  comissão  de  Aj
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 <!-- image -->
 
@@ -1597,11 +1597,11 @@ NOMEAR  ERICK JOSÉ  GUIMARÃES DE  ANDRADE JUNIOR ,  ID FUNCIONAL Nº 5116607-0
 
 NOMEAR  MARIANA PISANI  MATA , ID  FUNCIONAL Nº  43461263-2, para exercer o cargo em comissão de Assistente II, símbolo DAI-6, da Subsecretaria  de  Planejamento e  Inovação  da  Secretaria de  Estado do  Gabinete  do  Governador,  em  vaga  resultante  da  transformação  estabelecida pelo Decreto nº 50.235, de 19 de março de 2026. Processo nº  SEI-150001/003144/2026.
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 NOMEAR  ISAAC  IZOLANI  DE  OLIVEIRA para  exercer  o  cargo  em comissão  de  Ajudante  I,  símbolo  DAI-1,  da  Secretaria  de  Estado  da Casa Civil, em vaga resultante da transformação estabelecida pelo Decreto  nº 50.219, de  13 de  março de 2026.  Processo nº SEI-150001/003144/2026.
 
@@ -1631,7 +1631,7 @@ NOMEAR  JOAO HENRIQUE  DE ARAUJO  MARINHO , ID  FUNCIONAL  Nº 50299492/1,  para
 
 <!-- image -->
 
-/U0031/U0032
+12
 
 NOMEAR  JULIA MORAES  DE OLIVEIRA , ID FUNCIONAL Nº 51288419-2,  para exercer  o  cargo  em comissão  de  Ajudante I,  símbolo  DAI-1,  da  Subsecretaria  de Planejamento  e  Inovação  da  Secretaria  de  Estado do  Gabinete  do  Governador,  em vaga  resultante  da transformação  estabelecida  pelo  Decreto  nº 50.235,  de  19  de  março de  2026.  Processo  nº  SEI-150001/003144/2026.
 
@@ -1673,17 +1673,17 @@ EXONERAR CARLOS ANDERSON  GOMES FIORE ,  ID FUNCIONAL Nº 43491219/1,  do cargo 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 politana IV,  da Superintendente de Gestão  Das Regionais Administrativas,  da  Subsecretaria  de  Gestão Administrativa, da Secretaria de Estado  de  Educação.  Processo  nº  SEI-030001/028300/2026.
 
@@ -1813,17 +1813,17 @@ PROCESSO  Nº SEI-120001/000466/2026  -  AUTORIZO a cessão  da servidora  Paola
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 de Contas do Estado do Rio de Janeiro/Contadoria-Geral - COG, com ônus  para  o  órgão  cessionário.
 
@@ -1889,39 +1889,39 @@ PROCESSO  N º SEI-150016/147295/2025  -  RENOVO pelo prazo  de 01  (um)  ano  o
 
 ## PROCESSO  N º SEI-150016/054632/2026 -DETERMINO a  cassação
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0035/U0031
+051
 
-/U0049
+I
 
-/U006F
+o
 
-/U0032/U0030
+20
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
 da CNH, nos  termos do artigo 263,  III da Lei 9.503/97  (CTB), e Permissão Internacional para Dirigir se  houver, expedida(s) em nome de ANTONIO SAVIO WILLEMEN DE OLIVEIRA (Registro nº 00043474290) , levando-se  em  consideração  o prazo  de 10  (dez)  meses de suspensão de sua habilitação para conduzir veículo automotor , conforme sentença penal condenatória nos autos do processo criminal 0003193-69.2017.8.19.0051,  transitada  em  julgado  em  30/10/2025;  A aplicação  do disposto  no artigo  268, inciso  IV, do  CTB, devendo  o condutor submeter-se ao  curso de reciclagem; A  submissão a novos exames  (I  -  de aptidão  física  e  mental,  II  avaliação  psicológica,  III  escrito,  sobre  legislação  de  trânsito,  e  IV  -  de  direção  veicular,  realizado  na via  pública, em veículo da  categoria para  a qual  estiver habilitado), conforme  estabelecido no art.  160, caput,  do CTB com a regulamentação  da  Resolução  CONTRAN  nº 300/2008;  A  entrega  da CNH  e  PID, se  houver,  pelo  condutor, no  prazo  de  até 05  (cinco) dias,  para  cumprimento  deste  ato,  se  ainda  não  o  houver  realizado.
 
@@ -1986,39 +1986,39 @@ Para  a  Operação  Segurança  Presente 1º Fiscal: Maurício Meyer Beniste, I
 
 1º  Suplente:  Fernanda  Feitosa  da  Silva,  ID  Funcional  nº  5014861-3;2º Suplente:  Cinthia  Santos  Oliveira  de  Araújo,  ID  Funcional  nº  51599937.
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0030/U0035/U0031
+051
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030
+20
 
 Art.  2º -O  gestor  e  os fiscais  ora  designados  deverão observar  e cumprir as regras estabelecidas pelo  Decreto Estadual nº 45.600, de 16  de  março  de  2016,  que  regulamenta  a  gestão  e  a  fiscalização  das contratações no âmbito do Poder Executivo  do Estado do Rio de Janeiro,  especialmente,  os  artigos  12  e  13  da  referida  norma.
 
@@ -2114,17 +2114,17 @@ RICARDO CARDOSO DOS SANTOS Subsecretário  de  Gestão  Administrativa  e  Finan
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 Secretaria de Estado de
 
@@ -2354,17 +2354,17 @@ ESTABELECE OS PROCEDIMENTOS  PARA CREDENCIAMENTO DE INSTITUIÇÕES E FUNDOS  DE 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 CIÁRIA  DO  FUNDO  ÚNICO  DE  PREVIDÊNCIA SOCIAL  DO ESTADO  DO RIO  DE JANEIRO  RIOPREVIDÊNCIA  E  DÁ  OUTRAS  PROVIDÊNCIAS.
 
@@ -2490,17 +2490,17 @@ gistrado,  em  se  tratando  de  sociedades  comerciais;  e,  no  caso  de  so-
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ciedades  por  ações, acompanhado  do  documento  de eleição  de  seus
 
@@ -2604,41 +2604,41 @@ Nos termos  do Art.  11 da Portaria  RIOPREV/PRESI nº  606/2026, por meio deste
 
 Local  e  data (Assinatura  do  representante  legal  com  firma  reconhecida  ou  digital certificada) ANEXO III  -  SOLICITAÇÃO  DE  CREDENCIAMENTO E DECLARAÇÃO ÚNICA PARA DISTRIBUIDOR DE FUNDO DE INVESTIMENTO AO RIOPREVIDÊNCIA A/C  Diretoria  de  Investimentos Comissão Especial  de  Credenciamento
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0031/U0037
+17
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0031
+051
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 Rua da Alfândega,  8  -  6°  andar  -  Centro Rio  de  Janeiro  -  RJ  -  20.070-000 Nos termos  do Art.  11 da Portaria  RIOPREV/PRESI nº  606/2026, por meio deste instrumento, \_\_\_\_\_\_\_&lt;representante legal&gt;\_\_\_\_\_\_\_, \_\_\_\_\_\_\_&lt;cargo&gt;\_\_\_\_\_\_\_, requer o credenciamento da instituição \_\_\_\_\_\_\_&lt;nome da instituição&gt;\_\_\_\_\_\_\_,  inscrita no CNPJ \_\_\_\_\_\_&lt;número&gt;\_\_\_\_\_\_,  apresentando, em  anexo, as  documentações na  íntegra,  sob  pena  de  sumário  indeferimento. A instituição \_\_\_\_\_&lt;razão social&gt;\_\_\_\_\_ inscrita sob o  CNPJ nº
 
@@ -2744,17 +2744,17 @@ Id:  2722211
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 A  P  O  S  E  N  TA , a contar de  16/03/2026, FABIO  DE  OLIVEIRA  FREIRE , AUDITOR  FISCAL DA  RECEITA ESTADUAL,  SECRETARIA DE  ESTADO DE FAZENDA,  ID funcional nº 44273037,  vínculo 1, matrícula 976008-3,  nos  termos  do  Art.  4º,  §5º,  da  Emenda  Constitucional  Estadual  n°  90/2021.  Processo  Nº  SEI-040002/003679/2024.
 
@@ -2956,9 +2956,9 @@ Id:  2722657
 
 <!-- image -->
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 Secretaria de Estado de Desenvolvimento Econômico, Indústria, Comércio e Serviços
 
@@ -3055,41 +3055,41 @@ Art.  9º  O  Termo  de  Adesão  deverá  ser individualizado  para  cada servi
 - Art.  14 -  Os  servidores em  regime de  teletrabalho  terão sua  produtividade  avaliada  trimestralmente  pela  Chefia  Imediata.
 - Art. 15 -  A identificação do teletrabalho deverá ser  feita na folha de
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0031 /U0039
+1 9
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0035/U0031
+051
 
-/U002D
+-
 
-/U006F
+o
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
 - ponto,  nos dias  equivalentes,  assinada pelo  servidor  e pela  Chefia Imediata.
 
@@ -3293,17 +3293,17 @@ Art.  14º  As  Chefias  Imediatas  deverão  fiscalizar o  cumprimento  desta P
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Parágrafo  único  -  Caberá  às  Chefias  Imediatas,  garantir  o  armazenamento na rede interna dos  documentos que se fizerem necessários para  fins  de  controle,  acompanhamento  e  auditoria.
 
@@ -3429,17 +3429,17 @@ Art.  2º -  Os servidores  designados  no artigo  anterior deverão  acompanhar
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 III -prestação,  ao  gestor,  de todas  as  informações  relativas à  execução  do  contrato  que  o  mesmo  necessitar; IV -  comunicação,  ao  gestor  do contrato,  de  todas  as  alterações  na execução do  ajuste contratual  para fins  de adoção  das providências administrativas  cabíveis,  o  mais  breve  possível; V -  efetuar  a  glosa  nas  notas fiscais  por  eventuais  falhas  durante  a execução  do  contrato; VI -  abrir  processo de liquidação com as notas fiscais relativas ao serviço,  conforme previsão  contratual,  inserindo  um despacho  relatando todas as  falhas observadas na  execução contratual de modo  a municiar o  gestor com as  informações necessárias  a fim de  notificar a contratada visando à apuração e a aplicação das devidas sanções administrativas  por  descumprimento  de  contrato.
 
@@ -3485,41 +3485,41 @@ Art.  2º -  Os servidores  designados  no artigo  anterior deverão  acompanhar
 
 Art.  3º -  Fica  sob  a  responsabilidade  da  UNIDADE BENEFICIADA pelo  contrato: I -manter,  sempre,  no  mínimo, dois  membros  da comissão  fiscalizadora em condições de analisar, conferir, atestar ou validar a atestação das  notas  fiscais  do  contrato  relacionado;
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0032/U0031
+21
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0032/U0030
+20
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0031
+051
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 II -viabilizar,  na  hipótese de transferência do servidor designado como fiscal, que a apresentação na  Unidade de destino, somente ocorra após  a  publicação  em  DOERJ  do  substituto.  A  indicação  para  substituição  de  servidores designados  como  fiscais  deverá ser  feita  aos gestores  do  Contrato (Diretoria  de  Licitações  e Contratos)  para  decisão  junto  à  Diretoria  Geral  de  Apoio  Logístico. III -  providenciar  a  substituição  imediata  de  servidor  designado  que  se achar  impedido  na  forma  do  art.10  do  Decreto  Estadual  nº  45.600,  de 16 de março de 2016, encaminhando a solicitação através de SEI aos Gestores  do  Contrato.
 
@@ -3647,17 +3647,17 @@ Id:  2722419
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 0  -  Fiscal SUBTEN  PM RG  68.259 CARLOS  ALBERTO CHAGAS  DOS SANTOS,  ID  2360955-9  -  Fiscal CB  PM  RG  103.561  LUCAS  RIBEIRO ESPOSTI,  ID  5030346-5  -  Fiscal
 
@@ -3793,39 +3793,39 @@ Art. 2º -O(s)  servidor(es)  designado(s)  no artigo  anterior  deverá acompan
 
 Id:  2722390
 
-/U0041/U004E/U004F
+ANO
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0032/U0030
+20
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0031
+051
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 III  prestação, ao Gestor,  de todas  as informações relativas  à execução  do  contrato  que  o  mesmo  necessitar;
 
@@ -3957,17 +3957,17 @@ Id:  2722497
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -4127,17 +4127,17 @@ Término:  9h
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 inexigibilidade de licitação  à Empresa F P L  GARCIA COMERCIO E SERVIÇOS, CNPJ nº 13.073.140/0001-31, para fins de credenciamento  de  serviços especializados de manutenção preventiva e corretiva de veículos  automotores,  por  demanda,  com  fornecimento  e  aplicação  de peças  originais  ou  genuínas.
 
@@ -4260,17 +4260,17 @@ Id:  2722668
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 NOMEIA , nos termos  do inciso V, do art. 1º  do Decreto Estadual nº 40644,  de  08  de março  de  2007  c/c  artigo  1º,  do Decreto  nº  01,  de 13 de  março de  2018, do  Interventor Federal c/c  art. 1º,  do Decreto Estadual nº 46.581,  de 22 de fevereiro de  2019, CAMILA JANNOTTI DE  SOUZA CARDOZO ,  Agente  de Polícia  Científica, Id.  Funcional 51417936,  com validade  a contar  de  01/03/2026, no  cargo em  comissão de Chefe de Serviço, símbolo DAI-6, do Serviço de Logística, Patrimônio e Fiscalização, do Instituto de Criminalística Carlos Éboli - ICCE, do Departamento-Geral de  Polícia Técnico Científica, da Subsecretaria de Estado de Polícia  Técnico-Cientifica, da Secretaria de Estado de Polícia  Civil, do Estado do Rio de  Janeiro, que teve como último  ocupante Adriana  Da Costa  Damasceno. Processo  nº SEI360007/002074/2026.
 
@@ -4466,17 +4466,17 @@ DESLIGA os candidatos ADRIEL  ALEXSANDER MONTEIRO  DE CASTRO ,  Inscrição nº 
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 9981043609; MATEUS FERREIRA TEIXEIRA , Inscrição nº 9991011839; MATHEUS DA SILVA DE LIMA , Inscrição nº 9991021567; MICHEL  VÍCTOR MONTEIRO SANTANA ,  Inscrição nº 9991045827; MOISES DE OLIVEIRA SOARES Inscrição nº 9991036373; PEDRO  DOS SANTOS GOMES JUNIOR ,  Inscrição nº 9991025105; RAFAEL  DE SOUZA DE MENDONÇA Inscrição nº 9991015697; RILLEY RICHARD SILVA RAMOS Inscrição nº 9991039751; ROBERTO  DE BORJA REIS NETO , Inscrição nº 9991054071; SUENIA  FERNANDA RIBEIRO  FIGUEIREDO ,  Inscrição nº  9981025535; THAYANNE DA SILVA RODRIGUES DE SOUZA ,  Inscrição  nº  9981029710, do  Curso  de  Formação Profissional,  com  validade  a  contar  de  16  de  março de  2026,  referente  ao  concurso  público  para o  cargo  de Inspetor  de Polícia  Penal,  realizado por  esta Secretaria de Estado de Administração  Penitenciária no ano de 2024, com  fundamento no  artigo  80, inciso  VI, da  Resolução  SEAP nº  575, de  31  de  agosto  de  2015.  Processo  nº  SEI-210001/123124/2025.
 
@@ -4538,19 +4538,19 @@ Id:  2722731
 
 DESIGNA os  servidores, abaixo relacionados para  compor a Comissão  Técnica  de  Classificação  desta  Unidade  Prisional: PRESIDENTE: HERMELINDO SOUZA JUNIOR, Inspetor  de Polícial  Penal,  ID: 4219059-2,Diretor; M EMBROS: RAPHAEL  MALAPHAIA COUTINHO  OLIVEIRA, Inspetor de  Polícia Penal,  ID:  5000856-0,  Subdiretor; FLAVIO ROBERTO  CELESTINO, Inspetor de Policia Penal, ID: 5012759-4,  Chefe  do  Serviço  de  Segurança  e  Disciplina; ANTONIO CARLOS FREITAS DA LUZ, Inspetor  de  Policial  Penal,  ID: 4320845-2,  Chefe  do  Serviço  de  Administração;
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030
+20
 
 LUIS AUGUSTO FERREIRA DA SILVA, Inspetor  de  Polícia  Penal,  ID: 5082753-7,  Chefe  do  Serviço  de  Classificação  e  Tratamento; ALDINÉLIO NASCIMENTO E SILVA JUNIOR ,  Inspetor  de Polícia  Penal,  ID:  4371523-0,  Chefe  da  Seção  de  Bens  e  Valores; JULIO CESAR PESTANA DE AGUIAR, Inspetor  de Polícia  Penal,  ID: 4318293-3,  Chefe  da  Seção  de  Manutenção; MARCUS  PAULO MACHADO  RODRIGUES , Inspetor  de Polícia  Penal,  ID:  5029952-2,  Chefe  da  Seção  de  Turma  I; IVAN CARLOS  FERREIRA VIEIRA, Inspetor de  Polícia Penal, ID: 51218453,  Chefe  da  Seção  de  Turma  II; CHARLES  DE CARVALHO  SILVA ,  Inspetor de  Polícia Penal, ID: 1978564-0,  Chefe  da  Seção  de  Turma  III; RAFAEL DIAS DE MORAES ,  Inspetor  de  Polícia  Penal,  ID:  50102079,  Chefe  da  Seção  de  Turma  IV; MARQUECILANE PINTO DA SILVA LÍGIA  CHRISTINE  PEREIRA MARTINS ,  Psicológa,  ID:  5143617-5 Deixa-se  de nomear  e  o Psiquiatra  por não  contar  com
 
@@ -4676,17 +4676,17 @@ Id:  2722707
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Ten  Cel  BM  QOS/Dent/00 VIVIAN MENEZES  BESSA ,  RG  28.536,  Id Funcional  2587852-2;
 
@@ -4919,41 +4919,41 @@ Pelo presente Termo  de Compromisso, de um lado  a Secretaria Estadual  de  Saú
 
 1.  Os recursos  transferidos para  o Município  de Piraí  são destinados à  reforma  e  ampliação  da  Casa  de  Caridade de Piraí - Hospital Flávio Leal,  localizada  na  referida  municipalidade. 2.  O  valor  total  do  projeto  aprovado  é  de  R$  20.000.000,00  (vinte  milhões de reais), o qual será  repassado em até três parcelas. A primeira parcela corresponderá  ao montante de 40%  (quarenta por cento,  ou  seja,  R$  8.000.000,00  -  oito  milhões  de  reais)  do  valor  total  do projeto; a  segunda parcela corresponderá  ao montante de  30% (trinta por  cento, ou  seja, R$  6.000.000,00  seis  milhões de  reais) do  valor total  do  projeto;  a  terceira  parcela  corresponderá  ao  montante  de  30% (trinta  por  cento,  ou  seja,  R$  6.000.000,00  -  seis  milhões  de  reais)  do valor  total  do  projeto. 3.  A solicitação  da transferência  da  segunda parcela  deverá ser  encaminhada à SES com antecedência mínima de 45 (quarenta e cinco) dias  para  o  final  da  execução  dos  recursos  referentes  à  primeira  parcela. A  solicitação da  transferência da terceira  parcela deverá  ser encaminhada  à  SES com  antecedência  mínima  de 60  (sessenta)  dias para  o  final  da  execução  dos recursos  referentes  à  segunda  parcela. Os aludidos prazos serão contabilizados de acordo com o cronograma de  execução  apresentado  pelo  município  beneficiário  à  SES/RJ. 4. Os  repasses ocorrerão mediante transferência  do Fundo Estadual de  Saúde  -  FES ao  Fundo  Municipal  de  Saúde  FMS,  através  da conta corrente\_\_\_\_\_\_\_\_\_, Banco\_\_\_\_\_\_\_\_\_\_ sob CNPJ\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_de titularidade  do  FMS  de  Piraí.
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0032/U0039
+29
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0030/U0035/U0031
+051
 
-/U0049
+I
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030
+20
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 5. A  Secretaria Municipal de  Saúde não  poderá deixar de  executar o projeto  aprovado  de  acordo  com  a  finalidade  detalhada  no  Projeto  Assistencial,  Memorial  Descritivo,  Planta  Básica  Arquitetônica  e  Plano  de Trabalho, sob  a condição  de devolver o  recurso financeiro  já repassado.
 
@@ -5034,17 +5034,17 @@ A SECRETÁRIA DE ESTADO DE SAÚDE DO RIO DE JANEIRO ,  no uso  de suas  atribui�
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 -  a  Portaria GM/MS n° 631,  de  16 de  abril  de  2019, que  suspende  o repasse do recurso financeiro destinado  ao incentivo de custeio mensal de Unidades do Serviço  de Atendimento Móvel de Urgência (SAMU192) e a Portaria n° 654, de 1 de abril de 2020, que restabelece a transferência mensal de recursos financeiros para o custeio mensal de Unidades destinadas  ao Serviço  de Atendimento Móvel  de Urgência (SAMU 192);
 - -a Portaria GM/MS n° 1.809, de  11 de novembro de 2015 que habilita  o  município  de  Petrópolis  (RJ)  a  receber  a  Central  de  Regulação das  Urgências  (CRU),  destinada  ao  Serviço  de  Atendimento  Móvel  de Urgência (SAMU  192), e autoriza  a transferência de  custeio mensal ao  Município;
@@ -5128,17 +5128,17 @@ Rio  de  Janeiro,  19  de  março  de  2026
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | São João de Meriti  R$  164.128,64  R$  1.969.543,68  Seropédica  R$  45.591,52  R$  547.098,24  TO  TA  L  R$  1.486.803,76  R$  17.841.645,12   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5209,39 +5209,39 @@ Id:  2722569
 
 Id:  2722570
 
-/U0041/U004E/U004F
+ANO
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U002D
+-
 
-/U0030/U0035/U0031
+051
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U002D
+-
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE SAÚDE COMISSÃO INTERGESTORES BIPARTITE
 
@@ -5321,45 +5321,45 @@ A  PRESIDENTE DA  COMISSÃO INTERGESTORES  BIPARTITE, no uso  de  suas  atribui�
 
 Art.  1º -  Pactuar  a  solicitação, do  Reforço  Pontual  de  Incremento PAP,  junto  ao  Ministério  da  Saúde  (MS),  no  valor  de  R$  1.000.000,00 (um milhão de reais), destinado ao Fundo Municipal de Saúde do município  de Cabo  Frio/RJ, vinculado  à  Rede de  Atenção Primária  à Saúde à  Saúde, desde que  não ultrapasse os  limites estabelecidos pelo  artigo 17º  conforme  descrito  na Portaria  GM/MS  nº 10.297,  de 27/02/2026.
 
-/U0033/U0031
+31
 
 Id:  2722571
 
 Id:  2722572
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U002D
+-
 
-/U0049
+I
 
-/U0030/U0035/U0031
+051
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 Art.  2° -  Esta Deliberação  entrará em  vigor na  data de  sua publicação,  ficando  revogadas  as  disposições  em  contrário.
 
@@ -5451,17 +5451,17 @@ A  PRESIDENTE DA  COMISSÃO  INTERGESTORES  BIPARTITE E  A PRESIDENTE  DO CONSEL
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 - -a Lei  Complementar nº 141, de  13 de janeiro de  2.012, que regulamenta  o  parágrafo 3º  do  artigo  198  da Constituição  Federal,  para dispor  sobre os  valores mínimos  a serem  aplicados anualmente  pela União, Estados, Distrito  Federal e Municípios em  ações de serviços públicos  de  saúde  e  dá  outras  providências.
 -  o Decreto  Estadual  nº 48.300/2022,  que  regulamenta as  transferências  de  recursos  financeiros  do  Fundo  Estadual  de  Saúde  diretamente aos  Fundos  Municipais  de  Saúde;
@@ -5589,9 +5589,9 @@ A  PRESIDENTE DA  COMISSÃO INTERGESTORES  BIPARTITE E  A PRESIDENTE DO  CONSELH
 
 Id:  2722716
 
-/U0050/U004F/U0044/U0045/U0052
+PODER
 
-/U0045/U0058/U0045/U0043/U0055/U0054/U0049/U0056 /U004F
+EXECUTIV O
 
 -  o  Oficio  n°  068/2026  SMS Bom  Jardim  que  solicita  apoio  financeiro para  reforma  de  unidades  de  saúde;
 
@@ -5673,17 +5673,17 @@ A PRESIDENTE  DA COMISSÃO  INTERGESTORES BIPARTITE  E A PRESIDENTE  DO  CONSELH
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 -  que o  Hospital  Nossa  Senhora da  Piedade  presta assistência  nos níveis ambulatorial,  hospitalar, cirúrgico eletivo, urgência  e emergência;
 
@@ -5759,41 +5759,41 @@ A PRESIDENTE  DA COMISSÃO INTERGESTORES BIPARTITE  E A PRESIDENTE DO CONSELHO  
 
 Art.  1° -  Pactuar, Ad  Referendum,  no  âmbito  do  estado do  Rio  de Janeiro a  aprovação dos  recursos solicitados pelos  gestores estadual e/ou municipais, para o exercício de 2026, direcionados a Atenção Especializada  à  Saúde, relacionados  à  Portaria  GM/MS N°  10.297/2026, de acordo com os montantes  previstos publicados no site do Fundo Nacional de Saúde (FNS) disponível em https://portalfns.saud  e  . g  o  v.  b r  / e  m  e  n  d  a  s   i n  d  i v  i d  u  a  i s  c  o  n  f i r  a -  o -  c r  o n  o  g  r a  m  a  -  e -  a -  p o  r t  a r  i   a  -   gmms-no-10-297-de-27-de-fevereiro-de-2026/
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0033/U0033
+33
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0032/U0030
+20
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0035/U0031
+051
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
 Os  montantes disponibilizados  relacionados ao  demonstrativo de  produção MAC para o Estado do Rio de Janeiro e seus municípios estão na planilha disponibilizada em:  http://www.cib.rj.gov.br/arquivos-parabaixar/boletins-cib/2934-demonstrativo-com-producao-mac-das-secretarias-estaduais-e-municipais-de-saude/file.html
 
@@ -5906,17 +5906,17 @@ Art. 1º -  Indeferir  o processo  de visto  em  plantas dos  estabelecimentos  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | CNPJ:  39.086.160/0008-07  Proc.  nº:  E-08/001/5543/2013  Atividade:  Motivo:  Serviços  Médicos,  Clínica  e  Ambulatório  sem  Interna-  ção.  Em face  do  requerente  não  ter  cumprido  as  exigên-  cias  do  Termo  de  Intimação  nº  046074  de  05/05/2015  no  prazo  estipulado.   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6180,17 +6180,17 @@ Id:  2722442
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - Art.  6º - No caso  de não atingimento das  metas pela rede,  são adotados  os  seguintes  critérios  de  inelegibilidade:
 - §  1º -  Unidades  escolares  que  não  atingirem  ou  atingirem  parcialmente  as metas  estabelecidas para  cada  etapa de  ensino previstas  no Anexo  I.
@@ -6215,53 +6215,53 @@ Rio  de  Janeiro,  18  de  março  de  2026
 
 LUCIANA MARTINS CALAÇA Secretária  de  Estado  de  Educação
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
-/U0030/U0035/U0031
+051
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0032/U0030
+20
 
-/U0049
+I
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 | SEI-030001/106567/2025  CTC  MARCIA DE FATIMA SILVA DUARTE  R$  2.687,23  R$  3.473,12  R$  6.160,35  SEI-030001/107528/2025  CTC  ELIANE DA COSTA SOUSA  R$  1.570,36  R$  2.010,59  R$  3.580,95  SEI-030001/097929/2025  CTC  ROGERIA MONTEIRO ALVES  R$  1.570,36  R$  2.010,59  R$  3.580,95  S  E  I  -  0  3  0  0  0  1  /  11  7  2  7  6  /   2  0  2  5  CTC  MARCELO FREITAS DOS SANTOS  R$  1.554,36  R$  2.010,59  R$  3.564,95  SEI-030039/001673/2022  CTC  PAULO CESAR LUIZ FURTADO  R$  2.731,82  R$  3.473,12  R$  6.204,94  TOTAL GERAL  R$  21.691,00  R$  25.866,79  R$  47.557,79   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6454,17 +6454,17 @@ Id:  2722623
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE EDUCAÇÃO SUBSECRETARIA DE GESTÃO ADMINISTRATIVA SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
 
@@ -6650,17 +6650,17 @@ PROCESSO Nº SEI-E-03/011/1077/2019 -  CÍNTIA CARDOSO DA SILVA  DE VASCONCELLOS
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 PROCESSO  Nº  SEI-E-03/011/1791/2015 -  EDUARDO  NOGUEIRA, Professor  Docente I,  Identidade  Funcional  nº 43843000/02,  matrícula nº  0961463-7,  período  base  de  25/05/2020  a  24/05/2025.
 
@@ -6816,38 +6816,38 @@ VICTOR POUBEL Diretor  Geral  -  DEGASE
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 ## ANEXO ÚNICO
 
 | APD 2022  ID  NOME  CARGO  N  O  TA  42532949  ADILSON CAMARA  Agente  de  Segurança  Socioeducativa  36  42528003  ADRIANO GUEDES CUSTODIO  Agente  de  Segurança  Socioeducativa  35  22188819  CARLOS ELIZIO DOS SANTOS SIMOES  Agente  de  Segurança  Socioeducativa  33  19872682  MAURICIO GUALTER RAIMUNDO  Professor  Degase  I  36  50237500  MAXIMILLER DA CONCEICAO GUIMARAES  Agente  de  Segurança  Socioeducativa  22  42536278  SOLANGE PEREIRA  Agente  de  Segurança  Socioeducativa  34  50092375  SUANNY VALLADARES GOMES  Psicólogo  35  50975889  THATHIANA FARIA MOTTA  Agente  Administrativo  33  APD 2023  ID  NOME  CARGO  N  O  TA  42532949  ADILSON CAMARA  Agente  de  Segurança  Socioeducativa  36  42528003  ADRIANO GUEDES CUSTODIO  Agente  de  Segurança  Socioeducativa  35  42542464  LEANDRO PEREIRA DO NASCIMENTO  Agente  de  Segurança  Socioeducativa  32  50237500  MAXIMILLER DA CONCEICAO GUIMARAES  Agente  de  Segurança  Socioeducativa  22  42536278  SOLANGE PEREIRA  Agente  de  Segurança  Socioeducativa  34  42535727  TELMO PINHEIRO JUNIOR  Agente  de  Segurança  Socioeducativa  35  50975889  THATHIANA FARIA MOTTA  Agente  Administrativo  33  APD 2024  ID  NOME  CARGO  N  O  TA  42532949  ADILSON CAMARA  Agente  de  Segurança  Socioeducativa  36  42528003  ADRIANO GUEDES CUSTODIO  Agente  de  Segurança  Socioeducativa  35  50367102  ANA MARCIA LOPES  Agente  Administrativo  36  42527961  CLAUDEMIR SAGATERIO  Agente  de  Segurança  Socioeducativa  36  42000122  GUSTAVO FELIPE CARVALHO LIMA  Agente  de  Segurança  Socioeducativa  36  50358871  EDSON RODRIGUES CARDOSO  Agente  de  Segurança  Socioeducativa  34  42532825  EDUARDO ANTONIO DOS SANTOS  Agente  de  Segurança  Socioeducativa  35  41967100  ERLON COUTO ZACARIAS  Agente  de  Segurança  Socioeducativa  34  42528208  FERNANDO ANTONIO PIRES MOTA  Agente  de  Segurança  Socioeducativa  28  50232720  GILCINEY ANTUNES FABIANO  Agente  de  Segurança  Socioeducativa  36  42532680  GILMAR MATOS DA SILVA  Agente  de  Segurança  Socioeducativa  35  19845758  JAMES WILLIAM NASCIMENTO DE OLIVEIRA  Agente  de  Segurança  Socioeducativa  34  50180649  JENIFER MACHADO DE SOUZA  Assistente  Social  35  43558208  JOAO PAULO DA SILVA SEABRA  Técnico  de  Enfermagem  36  42534496  JOSE RICARDO SOUSA CAETANO  Agente  de  Segurança  Socioeducativa  30  42542464  LEANDRO PEREIRA DO NASCIMENTO  Agente  de  Segurança  Socioeducativa  32  50371878  MARCELO LUIZ DO NASCIMENTO  Agente  de  Segurança  Socioeducativa  36  19861877  MARCELO MENDES BRUM  Agente  Administrativo  30  42542510  MARCOS TADEU DE SOUZA ALVES  Agente  de  Segurança  Socioeducativa  34  50368192  MARISTELA DE OLIVEIRA ALBUQUERQUE  Agente  Administrativo  36  50237500  MAXIMILLER DA CONCEICAO GUIMARAES  Agente  de  Segurança  Socioeducativa  22  50944487  MELISSA VALENTIM BANDEIRA  Técnico  de  Enfermagem  36  42536480  RICARDO DE OLIVEIRA GOMES  Agente  de  Segurança  Socioeducativa  33  50237632  ROMULLO LEITE DOS SANTOS DORNA  Agente  de  Segurança  Socioeducativa  36  42536278  SOLANGE PEREIRA  Agente  de  Segurança  Socioeducativa  32  42535727  TELMO PINHEIRO JUNIOR  Agente  de  Segurança  Socioeducativa  35  50975889  THATHIANA FARIA MOTTA  Agente  Administrativo  33  50232304  THIAGO LUIZ ROMUALDO DE SOUZA  Agente  de  Segurança  Socioeducativa  35  APD 2025  ID  NOME  CARGO  N  O  TA  42532949  ADILSON CAMARA  Agente  de  Segurança  Socioeducativa  36  50940805  ADILSON JUNIO DE ASSIS SILVA  Agente  de  Segurança  Socioeducativa  35  50975900  ADRIANO DA SILVA RIFAN  Agente  Administrativo  33  42528003  ADRIANO GUEDES CUSTODIO  Agente  de  Segurança  Socioeducativa  35  50940864  ADRIANO PEREIRA MACIEL GUIMARAES  Agente  de  Segurança  Socioeducativa  35  50156055  ALAN SALES DO NASCIMENTO  Agente  de  Segurança  Socioeducativa  21  42532590  ALDECIR XAVIER DE MARINS  Agente  de  Segurança  Socioeducativa  33  19808933  ALDEMIR DA SILVA LEITE  Agente  de  Segurança  Socioeducativa  34  42528909  ALEIXO BENEDITO DERO BARBOSA  Agente  de  Segurança  Socioeducativa  33  42000688  ALEX DE SOUZA BARRETO  Agente  de  Segurança  Socioeducativa  29  19809433  ALEXANDER AUGUSTO CORREA MARTINS  Agente  de  Segurança  Socioeducativa  36  43175406  ALEXANDRE AZEVEDO DE OLIVEIRA  Agente  de  Segurança  Socioeducativa  30  44094949  ALEXSANDRE VIEIRA FARIAS  Agente  de  Segurança  Socioeducativa  33  44122268  ALINE PAIVA DE ARAUJO  Agente  Administrativo  35  19812760  ANA CLAUDIA PERROTTA DA COSTA  Pedagogo  36  50179578  ANA CRISTINA DINIZ  Agente  Administrativo  33  50367102  ANA MARCIA LOPES  Agente  Administrativo  36  44354584  ANA PAULA DE MELO BATISTA  Técnico  de  Enfermagem  35  20398824  ANA PAULA MARQUES TOSTES  Agente  de  Segurança  Socioeducativa  36  34081844  ANDERSON BARRETO DE SOUZA  Pedagogo  34  50371983  ANDERSON LINS DOS SANTOS  Agente  de  Segurança  Socioeducativa  25  42536014  ANDRE LUIZ ANTUNES ALVES DA COSTA  Agente  de  Segurança  Socioeducativa  34  41992083  ANTONIO ALVES DA SILVA JUNIOR  Agente  de  Segurança  Socioeducativa  34  50177109  ANTONIO CARLOS DA SILVA  Agente  de  Segurança  Socioeducativa  34  19817762  APARECIDA MARTINS DA SILVA  Professor  Degase  II  35  51324784  BEATRIZ CARVALHO MARTINS MANHAES  Assistente  Social  33  5  0  0  9   111  5  BIANCA RIBEIRO VELOSO  Pedagogo  22  51325772  BRUNO LUIZ DA SILVA MIRANDA  Terapeuta  Ocupacional  26  5  1  3  2   4  9  11  BRUNO MORAES DOS SANTOS  Agente  de  Segurança  Socioeducativa  34  30610966  CARLA NUNES BRANDAO RAMOS  Agente  Administrativo  33  19818939  CARLOS ALAN SILVEIRA DE OLIVEIRA  Agente  de  Segurança  Socioeducativa  34  50368001  CARLOS EDUARDO POUBEL DE SOUZA  Agente  de  Segurança  Socioeducativa  28  42529026  CARLOS HENRIQUE FERREIRA BORGES  Agente  de  Segurança  Socioeducativa  34  19822170  CARMEM LUCIA SOARES DE OLIVEIRA  Técnico  de  Enfermagem  34  43774490  CAROLINA ALVES DE OLIVEIRA  Assistente  Social  35  19822774  CELESTE ANUNCIATA BAPTISTA DIAS MOREIRA  Assistente  Social  35  50096400  CELSO DE OLIVEIRA SANTOS  Agente  de  Segurança  Socioeducativa  33  51326787  CHARLES WILLIAM MACEDO DE MELLO  Bibliotecário  36  42527961  CLAUDEMIR SAGATERIO  Agente  de  Segurança  Socioeducativa  36  50092103  CLAUDIA ALVES DE ARAUJO  Pedagogo  36  19824157  CLAUDIA DA SILVA MALTA  Pedagogo  35  42624568  CLAUDIO MARTINS FERNANDES  Agente  de  Segurança  Socioeducativa  34  43323723  CRISTIANO DE OLIVEIRA SOARES  Pedagogo  34  50371827  DANIEL SOARES DE OLIVEIRA SIQUEIRA  Agente  de  Segurança  Socioeducativa  35  25892800  DANIELA URSULA TORRES VIEIRA  Psicólogo  31  50179675  DANYELLE NUNES ALECRIN DA SILVEIRA PONTES  Assistente  Social  35  20388497  DENIR PRISCO FERNANDES  Agente  de  Segurança  Socioeducativa  34  51325390  DENISE FERNANDES PEREIRA  Pedagogo  35  43261221  DERALCIMERE ROCHA BARRETO  Pedagogo  36  50178784  DIEGO XAVIER SOUZA  Agente  de  Segurança  Socioeducativa  29  19829035  DOMINGOS SANTOS NETO  Agente  de  Segurança  Socioeducativa  33  50367595  EANYS NASCIMENTO ANASTACIO  Agente  Administrativo  36  50091557  EDIARA DE CASTRO COUTINHO  Pedagogo  35  50358928  EDILSON JOSE DO NASCIMENTO JUNIOR  Agente  de  Segurança  Socioeducativa  33  50179160  EDISON MOREIRA CARNEIRO JUNIOR  Agente  de  Segurança  Socioeducativa  35  42532825  EDUARDO ANTONIO DOS SANTOS  Agente  de  Segurança  Socioeducativa  35  42000742  EDUARDO DA SILVA BERGOSSI  Agente  de  Segurança  Socioeducativa  28  50237870  EDVALDO GOMES DA SILVA  Agente  de  Segurança  Socioeducativa  34  50091050  ELAINE DIAS MARINHO BUIATI  Pedagogo  31  50975587  ELAINE DUARTE DA SILVA  Agente  Administrativo  36  41967100  ERLON COUTO ZACARIAS  Agente  de  Segurança  Socioeducativa  36  50367633  EVANDRO SILVA NOGUEIRA  Agente  de  Segurança  Socioeducativa  27  19836023  FATIMA DE SOUZA  Artífice  35  50156071  FELIPE MARTINS VASCONCELOS  Agente  de  Segurança  Socioeducativa  36  19836325  FELIPPE ARTHUR MELO WANDERLEY  Agente  de  Segurança  Socioeducativa  30  50091506  FERNANDA FERREIRA ACIOLY  Pedagogo  34  51325373  FERNANDA PEREIRA DE CASTRO  Estatístico  29  50178709  FERNANDA RODRIGUES PEREIRA  Psicólogo  34  42528208  FERNANDO ANTONIO PIRES MOTA  Agente  de  Segurança  Socioeducativa  28   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
-
-<!-- image -->
+JANEIRO
 
 <!-- image -->
 
-/U0044/U004F
+<!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+DO
 
-/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+DO
 
-/U0044/U0045
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+DE
+
+JANEIRO
 
 | 51325535  FILIPE  LOPES  ARAUJO  Agente  de  Segurança  Socioeducativa  36  50095510  FLAVIA SILVA LOPES DOS SANTOS  Agente  Administrativo  33  50156128  FLAVIO SLADE FARIA  Agente  de  Segurança  Socioeducativa  33  51325241  GABRIELA LORENZO FERNANDEZ KOATZ  Musicoterapeuta  28  19838530  GENTIL FERIGUETTI JUNIOR  Agente  de  Segurança  Socioeducativa  30  50232720  GILCINEY ANTUNES FABIANO  Agente  de  Segurança  Socioeducativa  36  42532680  GILMAR MATOS DA SILVA  Agente  de  Segurança  Socioeducativa  35  44026609  GISELLE PESSANHA JUNQUEIRA  Psicólogo  35  19840454  GLAUBER GONÇALVES FORTE  Artífice  35  19628951  GLORIA GOMES DE ABREU  Digitador  33  41968824  GLORIA MARCIA BRITO ANDRE  Agente  de  Segurança  Socioeducativa  36  50092251  GRAZIELLE FONTES CAULO  Odontólogo  36  50224204  GUILHERME DOS SANTOS BRAGA  Agente  de  Segurança  Socioeducativa  30  5  0  11  3  0  6  2  GUILHERME VIEIRA RIBEIRO  Agente  de  Segurança  Socioeducativa  36  42000122  GUSTAVO FELIPE CARVALHO LIMA  Agente  de  Segurança  Socioeducativa  36  50178156  HEITOR FELIPE DO CARMO SOARES  Agente  de  Segurança  Socioeducativa  33  19844646  IVANE RAMOS DE OLIVEIRA DA VEIGA  Auxiliar  de  Serviços  Gerais  34  19845758  JAMES WILLIAM NASCIMENTO DE OLIVEIRA  Agente  de  Segurança  Socioeducativa  35  43193129  JANAINA OLIVEIRA DE CASTRO  Pedagogo  35  50177257  JANSE DE OLIVEIRA THEOBALD  Agente  de  Segurança  Socioeducativa  32  50179128  JAQUELINE CRISTINA MENEZES DE MATOS  Agente  Administrativo  35  50180649  JENIFER MACHADO DE SOUZA  Assistente  Social  34  50097342  JESSICA SOUZA PINTO  Técnico  de  Enfermagem  36  50093649  JOAO CARLOS DANTAS ARAUJO FIGUEIRA  Agente  de  Segurança  Socioeducativa  36  43558208  JOAO PAULO DA SILVA SEABRA  Técnico  de  Enfermagem  36  41862830  JORGE LUIS JOSE BORGES  Agente  de  Segurança  Socioeducativa  28  50179632  JORGE LUIZ DE SOUZA CALDAS JUNIOR  Agente  de  Segurança  Socioeducativa  34  19849451  JORGE LUIZ GIL APPARICIO  Agente  de  Segurança  Socioeducativa  32  42533600  JOSE GUILHERME DA SILVA CORTEZ  Agente  de  Segurança  Socioeducativa  36  19851456  JOSE LUIZ DOS SANTOS PACHECO  Agente  de  Segurança  Socioeducativa  35  19851561  JOSE MARCELO DA SILVA  Cozinheiro  34  42534496  JOSE RICARDO SOUSA CAETANO  Agente  de  Segurança  Socioeducativa  26  42533457  JOSUE DE ALMEIDA BORGES  Agente  de  Segurança  Socioeducativa  36  19852487  JOSUE MARTINS DOS SANTOS  Auxiliar  de  Serviços  Gerais  29  50179225  JULIANA NUNES AMORIM  Enfermeiro  24  43878059  JULIANE LESSA PEREIRA  Psicólogo  29  50262866  JULIO  CESAR PEIXOTO  Agente  de  Segurança  Socioeducativa  30  50975633  KARINA DE SOUZA BARBOSA GOMES BISPO  Agente  Administrativo  36  20369956  KATIA  SOARES VELLOSO  Professor  Degase  I  35  42533708  LAURO COUTINHO COELHO JUNIOR  Agente  de  Segurança  Socioeducativa  32  21518947  LEANDRO ALVES DA SILVA  Agente  de  Segurança  Socioeducativa  32  50096419  LEANDRO FONTES BITTENCOURT  Agente  de  Segurança  Socioeducativa  33  42542464  LEANDRO PEREIRA DO NASCIMENTO  Agente  de  Segurança  Socioeducativa  31  50156144  LEANDRO SOARES DE SOUSA  Pedagogo  36  50177508  LEONARDO KEIBER SOUZA  Agente  de  Segurança  Socioeducativa  35  50243292  LETICIA  ROISENBERG DA SILVA FEITOZA  Assistente  Social  35  43577466  LIZIENE  DIAS  DE  ASSIS  Assistente  Social  36  50232991  LUCAS ALVES FREITAS  Agente  de  Segurança  Socioeducativa  36  50367463  LUCIANA PAULA SOARES FARIAS DOS SANTOS  Psicólogo  34  19856938  LUCIANO LOPES DE SOUSA  Agente  de  Segurança  Socioeducativa  27  51325357  LUIZ  AUGUSTO PERES CARLOS JUNIOR  Agente  de  Segurança  Socioeducativa  35  42533945  LUIZ  CLAUDIO DA SILVA GOMES  Agente  de  Segurança  Socioeducativa  36  43334512  MARCELO DE CARVALHO GUARISA  Agente  de  Segurança  Socioeducativa  34  19861575  MARCELO HONORATO GUIMARAES LIMA  Agente  de  Segurança  Socioeducativa  34  50889877  MARCELO LUIS DA SILVA FERREIRA  Agente  de  Segurança  Socioeducativa  34  50371878  MARCELO LUIZ DO NASCIMENTO  Agente  de  Segurança  Socioeducativa  31  19642865  MARCIO ALEXANDRE BONISOLO  Servente  34  50359240  MARCIO DE CARVALHO  Agente  de  Segurança  Socioeducativa  35  6146937  MARCIO JOSE DA VITORIA  Agente  de  Segurança  Socioeducativa  35  41992040  MARCO ANTONIO DE ANDRADE NOVAES  Agente  de  Segurança  Socioeducativa  29  42533996  MARCO ANTONIO PECANHA LEAO  Agente  de  Segurança  Socioeducativa  28  19865716  MARCOS ANTONIO CARDOZO  Agente  de  Segurança  Socioeducativa  33  19866224  MARCOS DOS SANTOS MORAES  Agente  de  Segurança  Socioeducativa  25  19866631  MARCOS MATHIAS DONEILL  Agente  Administrativo  34  42542510  MARCOS TADEU DE SOUZA ALVES  Agente  de  Segurança  Socioeducativa  34  50358642  MARCOS ULISSES COELHO DA SILVA  Agente  de  Segurança  Socioeducativa  34  50368052  MARIA HELENA COSTA DA SILVA  Agente  Administrativo  36  37175513  MARIA NILCE DA ROCHA MORAES BARCELOS  Pedagogo  36  19870540  MARIA TEREZA NERY VIEIRA  Professor  Degase  I  29  51325217  MARIANA RODRIGUES DOS SANTOS MANHAES EMANOEL  Assistente  Social  35  43577644  MARINA LUCIA RAMOS DO NASCIMENTO  Técnico  de  Enfermagem  27  19871341  MARIO CESAR MARTINS ESTEVES DE OLIVEIRA  Médico  31  50368192  MARISTELA DE OLIVEIRA ALBUQUERQUE  Agente  Administrativo  36  50237500  MAXIMILLER DA CONCEICAO GUIMARAES  Agente  de  Segurança  Socioeducativa  22  50944487  MELISSA VALENTIM BANDEIRA  Técnico  de  Enfermagem  36  50156250  MIGUEL DURAO DOMINGUES DA SILVA  Agente  de  Segurança  Socioeducativa  26  50180819  MIRIAN MARIA DA FONSECA  Agente  Administrativo  35  19873921  MIRTES LOPES BANDEIRA  Pedagogo  36  42535514  MONICA COELHO  Agente  de  Segurança  Socioeducativa  34  42534186  MURILO DE OLIVEIRA BORGES  Agente  de  Segurança  Socioeducativa  28  50352857  NATHALIE BORGES TORRES SILVA  Assistente  Social  35  20754787  NEIMAR MANACEZ  Pedagogo  35  50941313  NILSON DA SILVEIRA  Agente  de  Segurança  Socioeducativa  34  50179462  PATRICIA DA ROSA REPINALDO  Estatístico  28  42534275  PAULO HENRIQUE FERREIRA RESENDE  Agente  de  Segurança  Socioeducativa  36  50177095  PAULO MARCUS RIBEIRO DO NASCIMENTO  Agente  de  Segurança  Socioeducativa  22  42534410  PAULO ROBERTO COELHO DA SILVA  Agente  de  Segurança  Socioeducativa  36  50095358  PRISCILA STELLET RANGEL  Técnico  de  Enfermagem  35  42816890  RANIERI DE OLIVEIRA  Agente  de  Segurança  Socioeducativa  36  42536480  RICARDO DE OLIVEIRA GOMES  Agente  de  Segurança  Socioeducativa  32  50093266  RODRIGO FIGUEIREDO DE MORAES  Agente  de  Segurança  Socioeducativa  29  44360053  ROGERIO FRANCISCO SEBASTIAO  Agente  de  Segurança  Socioeducativa  28  50237632  ROMULLO LEITE DOS SANTOS DORNA  Agente  de  Segurança  Socioeducativa  36  41862589  RONALDO GUIMARAES DE AGUIAR  Agente  de  Segurança  Socioeducativa  34  19885849  ROSANE DUARTE DE MORAES BRAGA  Pedagogo  35  50367404  SAVIO GOMES DA SILVA  Agente  de  Segurança  Socioeducativa  24  42536430  SEBASTIAO DE MOURA TORRES  Agente  de  Segurança  Socioeducativa  34  42536278  SOLANGE PEREIRA  Agente  de  Segurança  Socioeducativa  29  50949888  SONIA MARGARIDA ANSELMO FIGUEIREDO DA SILVA  Assistente  Social  35  19893388  TANIA MARA TRINDADE GONCALVES  Assistente  Social  36  50237896  TARCISIO LUZIMAR DE ARAUJO  Agente  de  Segurança  Socioeducativa  35  42535727  TELMO PINHEIRO JUNIOR  Agente  de  Segurança  Socioeducativa  35  20109458  TERESINHA TEIXEIRA DE ARAUJO  Assistente  Social  35  51324644  THAIS DE PAIVA ANTONIO  Psicólogo  36  50975889  THATHIANA FARIA MOTTA  Agente  Administrativo  33  50094874  THIAGO GOMES PINHEIRO  Agente  de  Segurança  Socioeducativa  36  50232304  THIAGO LUIZ ROMUALDO DE SOUZA  Agente  de  Segurança  Socioeducativa  35  44033257  TIAGO DALPERIO DE ANDRADE  Nutricionista  33  1  9  8  9   5  0  11  VALDINEI FERNANDES DA SILVA  Agente  de  Segurança  Socioeducativa  34  50155814  VANDERSON COSTA DO NASCIMENTO  Agente  de  Segurança  Socioeducativa  34  50367560  VICTOR ROSA DA CRUZ  Agente  de  Segurança  Socioeducativa  35  50179071  VIRGINIA  MARIA  DE  SOUZA  FERNANDES  Agente  Administrativo  35  19896956  WAGNER COSTA FIGUEIRA  Agente  de  Segurança  Socioeducativa  33  19897758  WANDERLEY OLIVEIRA DO NASCIMENTO  Agente  de  Segurança  Socioeducativa  34  50232371  WILSON CASTRO DE SOUZA  Agente  de  Segurança  Socioeducativa  31   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6968,17 +6968,17 @@ Id:  2722404
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E  INOVAÇÃO FUNDAÇÃO DE APOIO À ESCOLA TÉCNICA
 
@@ -7032,19 +7032,19 @@ PORTARIA Nº 259/2026 - PROMOVE ,  a  contar  de  13/10/2025, THAIS SPIEGEL ,  m
 
 PORTARIA  Nº 260/2026  - PROGRID E,  a contar  de 20/01/2026, HERIKA CRHISTINA  MACIEL DE OLIVEIRA  COSTA , matr. nº  396572 / ID  nº  50861549,  lotada  na  Faculdade  de  Administração  e  Finanças,  à categoria  de  Professor  Adjunto  Nível  2,  nos  termos  da  Resolução  nº 01/2024,  complementada pela  Resolução  21/2024,  da Deliberação  nº
 
-/U002D
+-
 
-/U0032/U0030
+20
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 40/2025, do Decreto nº 44.788/2014 e  da Lei nº 5.343/2008, com nova redação dada pela Lei nº 7.423/2016. Processo nº SEI260006/002932/2026
 
@@ -7090,17 +7090,17 @@ PROCESSO Nº SEI-260006/009797/2026 -A  U  TO  R  I  Z  O a  Licença  sem Venci
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº SEI-260006/005496/2026 -INDEFIRO a  Licença Sem Vencimentos para  Acompanhar Cônjuge de MARCELLI  SOUZA PRAXEDES, matr.  nº 37.071-8, Técnico  Universitário II /  Assistente Administrativo, para  o período de  01/06/2026 a 30/05/2028, por  não atender  aos  termos  do  item  V,  do  Art.  19,  do  Decreto  Estadual  nº  220,  de 18/07/1975,  com  a redação  data  pela  Lei nº  800/1984  e  ao Art.  125 do  Decreto  nº  2.479,  de  08/03/1979.
 
@@ -7384,53 +7384,53 @@ Id:  2722544
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0034/U0033
+43
 
-/U002D
+-
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0035/U0031
+051
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
 ## SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA FUNDAÇÃO MUSEU DA IMAGEM E DO SOM DO ESTADO DO RIO DE JANEIRO
 
@@ -7592,17 +7592,17 @@ Art.  1º  Designar  o  Gestor  e os  Fiscais  do  Contrato 38/2025,  celebrado 
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 GESTOR DO CONTRATO
 
@@ -7819,17 +7819,17 @@ Art.  1º -Art.1º - Alterar  a composição da Comissão de Acompanhamento,  Ge
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 - N.º  029/2022 DE  31 DE  JANEIRO DE  2022, para  o Contrato  nº 002/2022, celebrado  entre a  SECRETARIA DE ESTADO  DE TURISMO e a empresa DADY ILHA SOLUÇÕES INTEGRADAS EIRELI, referente ao  processo administrativo nº  SEI-050003/001216/2021 cujo objeto é a prestação de serviços de solução continuada de impressão, cópia e  digitalização corporativa -  Estações Digitais de  Serviço (EDS) Departamentais, integrada a sistemas corporativos e à rede de dados, compreendendo  a  cessão  de  direito de  uso  de  equipamentos,  incluindo a prestação de serviços de manutenção preventiva e corretiva, fornecimento  de peças  e consumíveis  necessários (exceto  papel), assim como serviços de gestão, controle  e operacionalização da solução e treinamento, na  forma do  Termo de Referência  e do  instrumento convocatório,  Ata  de  Registro  de  Preços  n.º  0006/2021,  ficando  composta na  forma  abaixo:
 
@@ -8050,17 +8050,17 @@ Id:  2722409
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
 ## Secretaria de Estado de Trabalho e Renda
 
@@ -8293,17 +8293,17 @@ O  PRESIDENTE DA  FUNDAÇÃO  DEPARTAMENTO DE  ESTRADAS DE RODAGEM DO  ESTADO DO
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 -que  a  circulação de  veículos  a  serviço  do  DER, de  qualquer  espécie,  a  critério  do  órgão,  é  indispensável  à  manutenção  e  operação  da via;
 
@@ -8371,41 +8371,41 @@ Processo:SEI-330022/001170/2022.Contratada: Horizonte  16 Locadora de Veículos 
 
 cional  nº  44015640.
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U004E
+N
 
-/U0030/U0035/U0031
+051
 
-/U0049
+I
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0032/U0030
+20
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0034/U0037
+47
 
 Gestor  Suplente: Valeria  Perdigão Mauriel  Nantes (SUPAD)  - Superintendente  -  ID  Funcional  nº  4186607-0. Fiscalização Técnica: Alexandre da  Silva Ramos (COOENG) - Assistente  II  -  ID  Funcional  nº  2847954-8. Fiscalização  Administrativa:  Maria  Clara  Bessa Lopes  da  Silva  (SUPAD)  -  Adjunto  I  -  ID  Funcional  nº  5144369-4. Fiscal Suplente: Omar da Silva Ferreira (COOENG) - Assistente II - ID Funcional  nº  5160693-3. Contrato  nº  001/2024 Processo:SEI-330032/004073/2023.Contratada: CS Brasil Frotas S/A.Objeto: Serviços de locação de veículos de serviço e utilitários para  atender  as necessidades  dos  órgãos  e entidades  da  administração estadual  do  Rio  de  Janeiro. Gestor:  Adilson  de  Jesus  Oliveira  (COOFEQ)  -  Coordenador  -  ID  Funcional  nº  44015640. Gestor  Suplente: Valeria  Perdigão Mauriel  Nantes (SUPAD)  - Superintendente  -  ID  Funcional  nº  4186607-0. Fiscalização Técnica: Alexandre da  Silva Ramos (COOENG) - Assistente  II  -  ID  Funcional  nº  2847954-8. Fiscalização  Administrativa:  Maria  Clara  Bessa Lopes  da  Silva  (SUPAD)  -  Adjunto  I  -  ID  Funcional  nº  5144369-4. Fiscal Suplente: Omar da Silva Ferreira (COOENG) - Assistente II - ID Funcional  nº  5160693-3. Contrato  nº  010/2024 Processo:SEI-330002/003462/2024.Contratada:  Estacionamento  Pare  e Lave Mecânica LTDA-ME.Objeto:  Serviço de locação de  20 vagas de estacionamento  para  veículos  oficiais  da  Fundação  DER-RJ. Gestor:  Adilson  de  Jesus  Oliveira  (COOFEQ)  -  Coordenador  -  ID  Funcional  nº  44015640. Gestor  Suplente: Valeria  Perdigão Mauriel  Nantes (SUPAD)  - Superintendente  -  ID  Funcional  nº  4186607-0. Fiscalização Técnica: Alexandre da  Silva Ramos (COOENG) - Assistente  II  -  ID  Funcional  nº  2847954-8. Fiscalização  Administrativa:  Maria  Clara  Bessa Lopes  da  Silva  (SUPAD)  -  Adjunto  I  -  ID  Funcional  nº  5144369-4. Fiscal Suplente: Omar da Silva Ferreira (COOENG) - Assistente II - ID Funcional  nº  5160693-3. Contrato  nº  011/2019 Processo:SEI-330027/003194/2021.Contratada:  Green Card  S/A Refeições, Comércio e Serviços.Objeto: Serviço de confecção, fornecimento e  administração  de  até  606  cartões  de  vale  refeição,  com  chip  de  segurança,  disponibilização  de  cargas  e  recargas,  na  modalidade  online, no  valor  de  R$  35,00  diários,  em  quantidade  variável. Gestor:  Evaldo José  Ferreira de  Mendonça (COORHU)  - Adjunto  I -ID  Funcional  nº  51469375. Gestor Suplente: Maria  Clara Bessa Lopes da Silva  (SUPAD) -Adjunto  I  -  ID  Funcional  nº  5144369-4. Fiscalização Técnica:  João Pedro Azevedo de  Carvalho (COORHU) Adjunto  I  -  ID  Funcional  nº  5143974-3. Fiscalização  Administrativa:  Daniele da  Hora  Santos  (COORHU) -  Assistente  II  -  ID  Funcional  nº  5106332-8. Fiscal Suplente:  Alexsander de Faria Ramos  (COORHU) - Assistente II  -  ID  Funcional  nº  5106332-8. Contrato  nº  060/2022 Processo:SEI-330027/003531/2021.Contratada: Webtrip Agência de Viagens  e  Turismo Ltda.Objeto:  Prestação  de  Serviços de  Agenciamento  de  Viagens. Gestor:  Evaldo José  Ferreira de  Mendonça (COORHU)  - Adjunto  I -ID  Funcional  nº  51469375. Gestor Suplente: Maria  Clara Bessa Lopes da Silva  (SUPAD) -Adjunto  I  -  ID  Funcional  nº  5144369-4. Fiscalização Técnica:  João Pedro Azevedo de  Carvalho (COORHU) Adjunto  I  -  ID  Funcional  nº  5143974-3. Fiscalização  Administrativa:  Daniele da  Hora  Santos  (COORHU) -  Assistente  II  -  ID  Funcional  nº  5106332-8. Fiscal Suplente:  Alexsander de Faria Ramos  (COORHU) - Assistente II  -  ID  Funcional  nº  5106332-8. Contrato  nº  014/2024 Processo:SEI-330002/007594/2024.Contratada: Fechadura Combate Comércio  e Serviços  LTDA.Objeto: Serviço  de manutenção  preventiva e corretiva de catracas eletrônicas,  bem como de seu sistema, dedicados  às  dependências  do  Edifício  Sede. Gestor:  Evaldo José  Ferreira de  Mendonça (COORHU)  - Adjunto  I -ID  Funcional  nº  51469375. Gestor Suplente: Maria  Clara Bessa Lopes da Silva  (SUPAD) -Adjunto  I  -  ID  Funcional  nº  5144369-4. Fiscalização Técnica:  João Pedro Azevedo de  Carvalho (COORHU) Adjunto  I  -  ID  Funcional  nº  5143974-3. Fiscalização  Administrativa:  Daniele da  Hora  Santos  (COORHU) -  Assistente  II  -  ID  Funcional  nº  5106332-8. Fiscal Suplente:  Alexsander de Faria Ramos  (COORHU) - Assistente II  -  ID  Funcional  nº  5106332-8. Contrato  nº  004/2026 Processo:  SEI-330002/043000/2025 Contratada:  BVIX  Seguradora  S/A Objeto: Contratação  de empresa  especializada na prestação  de serviço de cobertura de seguro ao  prédio e ao seu conteúdo, contemplando  coberturas  de incêndio,  raio,  explosão,  danos elétricos,  quebra de  vidros, vendaval,  roubo e  furto  qualificado de  bens e  responsabilidade civil,  de forma a cobrir  o edifício sede  do Rio de Janeiro  e o Edifício  subsede de  Niterói da  Fundação Departamento  de Estradas de  Rodagem  -  DER-RJ. Gestor:  Thamiris  Ravizzini Curvelo  (COOSGE)  -  Coordenadora -  ID Funcional  nº  5106344-1. Gestor  Suplente:  Marcos  Evandro  Costa  Soares  (COOENG)  -  COORDENADOR - ID Funcional nº 5159270-3; Fiscalização Técnica: Alexandre da  Silva Ramos (COOENG) - Assistente  II  -  ID  Funcional  nº  2847954-8. Fiscalização Administrativa: Guilherme Paraizo da Silva (SUPAD) - Adjunto  I  -  ID  Funcional  nº  5162386-2. Fiscal Suplente: Omar da Silva Ferreira (COOENG) - Assistente II - ID Funcional  nº  5160693-3.
 
@@ -8487,17 +8487,17 @@ CAPÍTULO VII -  DOS  GRUPOS DE TRABALHO Art.  8º  -  Do  requerimento  de  con
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
 Art.  9º  -  O  Grupo  de  Trabalho  será  composto  por  membros  do  Fórum  e  poderá  convidar  para  participar  de  suas  reuniões,  representantes  de  entidades  públicas  ou  privadas,  técnicos  profissionais  especializados  com  atuação  na  área  e/ou  membros  da  academia. §1º  O  Grupo  de  trabalho  será  presidido  por  um  membro  do  Grupo G  e  s  t o  r. §2º  Terminados  os  trabalhos  e  estudos,  o  Grupo  de  Trabalho  elaborará  seus  relatórios  finais  que  serão  submetidos  à  apreciação  e  en-
 
@@ -8723,17 +8723,17 @@ PROCESSO SEI  E-24/004/3163/2014-FALKLAND TECNOLOGIA EM TELECOMUNICACOES S.A.
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 PROCESSO SEI E-24/004/1029/2015-DELI MIX CAFE E BAR LTDA DETERMINO  O  ARQUIVAMENTO de  todos  os  processos  acima  relacionados.
 
@@ -8801,41 +8801,41 @@ Art. 7º -O descumprimento das obrigações imputadas  ao Gestor de Contratos e 
 
 DETERMINO dos
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0034/U0039
+49
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U002D
+-
 
-/U0030/U0035/U0031
+051
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0030
+20
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
 Art.  8º  O Agente Público responde civil, penal e administrativamente pelo exercício irregular  das  atribuições  que  lhe  são  confiadas,  estando sujeito  às  penalidades  previstas  nas  normas  em  vigor.
 
@@ -9021,17 +9021,17 @@ Art.  15  Em caráter transitório,  para os ciclos avaliativos da GRV já conso
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Art.  16  Fica  alterada  a  redação  do  parágrafo  8º  do  artigo  8º  da  Resolução PGE nº 3.919, de 14 de  julho de 2016, que passará a ter a seguinte  redação:
 
@@ -9283,17 +9283,17 @@ Id:  2722620
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 ## PROCURADORIA GERAL DO ESTADO DIRETORIA DE GESTÃO
 
@@ -9381,37 +9381,37 @@ FUNDAMENTO: art.  107  da  Lei  nº  14.133/2021  e  na  Cláusula  Segun- da  d
 
 Id:  2722710
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0030/U0035/U0031
+051
 
-/U006F
+o
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0032/U0030
+20
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## DATA DA ASSINATURA: 18/03/2026
 
@@ -9727,17 +9727,17 @@ S/A,  inscrita no
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 DUTOS DE SAÚDE LTDA, inscrita no CNPJ nº 17.700.763/0001-48. O  B  J  E  TO  : Aquisição de medicamentos anti-infecciosos gerais para uso sistêmico  2,  adquiridos  no  Pregão  Eletrônico  (SRP)  nº  077/2025. PRAZO DE VIGÊNCIA: 12  (doze)  meses,  contados  da  data  da  divulgação  no  Portal  Nacional  de  Contratações  Públicas
 
@@ -9902,17 +9902,17 @@ Id:  2722651
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | LUIZ  ADRIANO TRAVAGLIA FERREIRA  58  ANTONIO UOSTOM BORGES GERMANO  56  DIDÁTICA APLICADA A INSTRUÇÃO POLICIAL MILITAR  LAILA  FERNANDA DE CASTRO GONCALVES  163  JORGE LUIZ DA SILVA APOLINARIO  139  LUIZ  FERNANDO SILVA DOS SANTOS  11  5  DIREITO ADMINISTRATIVO MILITAR  PIETRO DE CASTRO MASELLO  129  BRUNO DE OLIVEIRA FELIPE  109  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  108  HANILTON BELARMINO DOS SANTOS  105  ANTONIO EDUARDO MIGUEZ DA TRINDADE  105  SERGIO CARNEIRO DE SANTA ANNA  104  CARLA REGINA NASCIMENTO DE AZEVEDO  75  LEONARDO FERNANDES  75  VICTOR SILVA E SILVA  65  LEANDRO DELFINO DA SILVA  65  DIEGO GRILLO GOMES DE OLIVEIRA  55  DIREITO PROCESSUAL PENAL MILITAR  LEONARDO OLIVEIRA TOGNOC  125  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  11  5  HANILTON BELARMINO DOS SANTOS  106  ANTONIO EDUARDO MIGUEZ DA TRINDADE  100  LEANDRO DELFINO DA SILVA  68  ALEXANDRE JOSE NUNES DE MEDEIROS  57  DIREITOS HUMANOS APLICADOS À ATIVIDADE POLICIAL  PATRICIA KALIFE PAIVA  193  ANTONIO FERNANDES DA COSTA NETO  122  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  11  4  PEDRO HENRIQUE PEREIRA NOVOA  106  MARCIO GARCIA LINARES  103  JOZY PASSOMIDES RODRIGUES  103  FELIPE DA SILVA RODRIGUES  103  LEONARDO GOMES ZUMA  100  MAURICIO SENA MIRANDA  86  LEONARDO FERNANDES  78  ESTATÍSTICA BÁSICA APLICADA  ANDRE LUIS BROWN DE CARVALHO  143  GESTÃO DE SISTEMA DE SAÚDE  JOSE AROLDO LIMA GONCALVES FILHO  147  LUCIANO DE ASSIS MEIRELES  11  2  GESTÃO E ELABORAÇÃO DE PROJETOS  RODRIGO BENTO DA SILVA  101  DIEGO LUCIANO DE ALMEIDA  63  HISTÓRIA E FORMAÇÃO DE MEMÓRIA DA PMERJ  CAIO HENRIQUE VALENTES DO NASCIMENTO  79  IMAGEM INSTITUCIONAL  LUIZ  FERNANDO SILVA DOS SANTOS  11  6  LEONARDO GOMES ZUMA  101  JOUBERTH MARLOM CARDOSO DOS SANTOS  81  FELIPE DA SILVA RODRIGUES  78  RENATA DA SILVA RAMALDES  77  WANDER TEODORO SOUZA  72  ANA CAROLINA ALVES UCHOA QUEIROZ  60  LASARO DENIS DA CONCEICAO CARVALHO FILHO  50  INTRODUÇÃO A CIÊNCIAS SOCIAIS  RENATO ASSIS FERREIRA  11  6  ANTONIO FERNANDES DA COSTA NETO  11  5  INVESTIGAÇÃO E PERÍCIA CRIMINAL  ALEX SANDRO DA SILVA  149  RENATO ASSIS FERREIRA  139  ANDRE LUIS SANTOS DE AGUIAR  137  PIETRO DE CASTRO MASELLO  134  LEANDRO DELFINO DA SILVA  108  LEONARDO GOMES ZUMA  105  LEGISLAÇÃO PENAL ESPECIAL APLICADA A PMERJ II  LEONARDO OLIVEIRA TOGNOC  150  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  11  5  CARLOS FABRIZIO CAFE SOBRINHO  100  PIETRO DE CASTRO MASELLO  100  LEONARDO FERNANDES  73  CALBER FERNANDES FARIA  63  LEONARDO GOMES ZUMA  60  JESSICA DA COSTA BATINGA  50  LICITAÇÕES E CONTRATOS ADMINISTRATIVOS NA PMERJ  LEONARDO OLIVEIRA TOGNOC  131  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  123  HANILTON BELARMINO DOS SANTOS  11  4  ROBERTA DA SILVA RAMALDES  11  3  GEORG ZELENKA JUNIOR  85  LIDERANÇA APLICADA À ATIVIDADE POLICIAL  MARLISA DE OLIVEIRA AMORIM NEVES  137  MARCIO MENDES DE OLIVEIRA  124  PIETRO DE CASTRO MASELLO  108  PATRICIA KALIFE PAIVA  107  CARLOS HENRIQUE MAQUINEZ AVILHEIRA  99  DIOGO RIBEIRO DE SOUZA  98  CARLOS FABRIZIO CAFE SOBRINHO  90  GEORG ZELENKA JUNIOR  74  CLAUDIO PORTUGAL RODRIGUES JUNIOR  64  LEANDRO PEREIRA GONCALVES  61  LUIZ  ADRIANO TRAVAGLIA FERREIRA  59  ANTONIO UOSTOM BORGES GERMANO  56  O  R  AT  Ó  R  I  A  MARLISA DE OLIVEIRA AMORIM NEVES  162  PATRICIA KALIFE PAIVA  104  POLICIAMENTO E LEGISLAÇÃO DE TRÂNSITO  MARCO ANTONIO ANDRADE SANTOS  122  CLAUDIO PORTUGAL RODRIGUES JUNIOR  77  PORTUGUÊS INSTRUMENTAL  ADRIANE OUVERNEY DE CARVALHO  74  JULIANA VITAL MARTINS  60  ALINE VIVIANE DE FREITAS LIMA  40  PSICOLOGIA APLICADA A PMERJ I  NENHUM CANDIDATO SELECIONADO  0  PSICOLOGIA APLICADA A PMERJ II  NENHUM CANDIDATO SELECIONADO  0  SOCIOLOGIA DO CRIME E DA VIOLÊNCIA  RENATO ASSIS FERREIRA  142  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  133  LEONARDO GOMES ZUMA  11  0  CARLOS FABRIZIO CAFE SOBRINHO  11  0  LEANDRO DELFINO DA SILVA  92  LEONARDO FERNANDES  80  TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO  CARLOS HENRIQUE CARVALHO BARRIM  130  FABIO DA ROCHA BASTOS CAJUEIRO  95  THYAGO FERREIRA VIEIRA  53  TIRO DE DEFESA I  JADER DA SILVA CORDEIRO  137  GUILHERME DE AZEVEDO CARDOSO  136  CLAUDIO ROCHA DA SILVA  11  2  RODRIGO FERNANDES FERREIRA  105   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9927,17 +9927,17 @@ Id:  2722651
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  11  6  PIETRO DE CASTRO MASELLO  11  6  CLEBER SILVA MAIA  11  3  PATRICIA KALIFE PAIVA  106  DIEGO LUCIANO DE ALMEIDA  98  GEORG ZELENKA JUNIOR  89  ANÁLISE CRIMINAL  LEONARDO OLIVEIRA TOGNOC  105  PIETRO DE CASTRO MASELLO  80  ARMAMENTO I  JADER DA SILVA CORDEIRO  134  LEONARDO OLIVEIRA TOGNOC  124  RODRIGO FERNANDES FERREIRA  11  0  WILLIAM COSENDEY MAGALHAES DA TRINDADE  101  MAURO MACHADO CONCEICAO  86  ARMAMENTO II  LEONARDO OLIVEIRA TOGNOC  124  RODRIGO FERNANDES FERREIRA  11  0  WILLIAM COSENDEY MAGALHAES DA TRINDADE  101  MAURO MACHADO CONCEICAO  86  ATIVIDADE DE INTELIGÊNCIA  HANILTON BELARMINO DOS SANTOS  11  5  WILLIAM COSENDEY MAGALHAES DA TRINDADE  102  RODRIGO BENTO DA SILVA  101  DIEGO GRILLO GOMES DE OLIVEIRA  90  CARLOS FABRIZIO CAFE SOBRINHO  86  MAURICIO SENA  79  FABIO DA ROCHA BASTOS CAJUEIRO  64  MARLON GARCIA DA SILVA BASTOS  62  JOAO CLAUDIO MARTINS DOS SANTOS  30  CRIMINOLOGIA I  LEONARDO OLIVEIRA TOGNOC  124  CLEBER SILVA MAIA  111  CARLA REGINA NASCIMENTO DE AZEVEDO  11  0  CARLOS FABRIZIO CAFE SOBRINHO  73  JESSICA DA COSTA BATINGA  50  CRIMINOLOGIA II  LEONARDO OLIVEIRA TOGNOC  124  CLEBER SILVA MAIA  111  CARLA REGINA NASCIMENTO DE AZEVEDO  11  0  CARLOS FABRIZIO CAFE SOBRINHO  73  JESSICA DA COSTA BATINGA  50  DIDÁTICA APLICADA A INSTRUÇÃO POLICIAL MILITAR  LAILA  FERNANDA DE CASTRO GONCALVES  176  LEONARDO OLIVEIRA TOGNOC  108  DIEGO LUCIANO DE ALMEIDA  94  DIREITOS HUMANOS APLICADOS À ATIVIDADE POLICIAL  PATRICIA KALIFE PAIVA  193  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  133  PIETRO DE CASTRO MASELLO  129  ESTATÍSTICA BÁSICA APLICADA  RONALDO CAMARA CAVALCANTE  145  MYRIAN INES SURIANO DE LIMA VASCONCELOS DOS SANTOS  15  GESTÃO DE SISTEMA DE SAÚDE  JOSE AROLDO LIMA GONCALVES FILHO  147  LUCIANO DE ASSIS MEIRELES  11  2  GESTÃO E ELABORAÇÃO DE PROJETOS  PANDO ANGELOFF PANDEFF  225  PIETRO DE CASTRO MASELLO  174  LEONARDO OLIVEIRA TOGNOC  156  RONALDO CAMARA CAVALCANTE  153  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  135  FABIO DA ROCHA BASTOS CAJUEIRO  63  BIANCA CESAR ALYRIO RAMUNDO  30  HISTÓRIA E FORMAÇÃO DE MEMÓRIA DA PMERJ  RICARDO RIBEIRO BALDANZA  121  CARLOS VIEIRA MENDES  101  LEONARDO OLIVEIRA TOGNOC  88  DIEGO GRILLO GOMES DE OLIVEIRA  80  CAIO HENRIQUE VALENTES DO NASCIMENTO  79  ROBSON DA SILVA RAMOS  65  IMAGEM INSTITUCIONAL  RENATA DA SILVA RAMALDES  77  INSTRUÇÕES PRÁTICAS EM AÇÕES TÁTICAS I  WILLIAM COSENDEY MAGALHAES DA TRINDADE  99  CARLOS ALBERTO PENCO FERREIRA LOBATO  48  INSTRUÇÕES PRÁTICAS EM AÇÕES TÁTICAS II  WILLIAM COSENDEY MAGALHAES DA TRINDADE  99  CARLOS ALBERTO PENCO FERREIRA LOBATO  48  INTRODUÇÃO A CIÊNCIAS SOCIAIS  LEONARDO OLIVEIRA TOGNOC  143  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  11  8  INVESTIGAÇÃO E PERÍCIA CRIMINAL  ALEX SANDRO DA SILVA  101  ANDRE LUIS SANTOS DE AGUIAR  98  PIETRO DE CASTRO MASELLO  80  LEGISLAÇÃO PENAL ESPECIAL APLICADA A PMERJ II  LEONARDO OLIVEIRA TOGNOC  150  PIETRO DE CASTRO MASELLO  11  7  LICITAÇÕES E CONTRATOS ADMINISTRATIVOS NA PMERJ  LEONARDO OLIVEIRA TOGNOC  144  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  132  ROBERTA DA SILVA RAMALDES  11  8  HANILTON BELARMINO DOS SANTOS  11  4  GEORG ZELENKA JUNIOR  96  LIDERANÇA APLICADA À ATIVIDADE POLICIAL  LAILA  FERNANDA DE CASTRO GONCALVES  206  LEONARDO OLIVEIRA TOGNOC  160  PIETRO DE CASTRO MASELLO  133  DIEGO LUCIANO DE ALMEIDA  123  DIOGO RIBEIRO DE SOUZA  11  4  PATRICIA KALIFE PAIVA  107  CLEBER SILVA MAIA  101  GEORG ZELENKA JUNIOR  82  FABIO DA ROCHA BASTOS CAJUEIRO  76  WAGNER WILSON ELEUTERIO JUSTINO  70  MÉTODO DE DEFESA POLICIAL MILITAR I  DIEGO LUCIANO DE ALMEIDA  97  MAURICIO SENA  72  GABRIEL LANNA DOS SANTOS  69  MÉTODO DE DEFESA POLICIAL MILITAR II  DIEGO LUCIANO DE ALMEIDA  97  MAURICIO SENA  72  GABRIEL LANNA DOS SANTOS  69  O  R  AT  Ó  R  I  A  LAILA  FERNANDA DE CASTRO GONCALVES  161  ADRIANE OUVERNEY DE CARVALHO  108  PATRICIA KALIFE PAIVA  104  PENITENCIARISMO  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  108  CLEBER SILVA MAIA  106  CARLA REGINA NASCIMENTO DE AZEVEDO  85  JESSICA DA COSTA BATINGA  65   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9950,22 +9950,22 @@ Id:  2722651
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | ADMINISTRAÇÃO NA PMERJ III - APROVISIONAMENTO  PIETRO DE CASTRO MASELLO  169  LAILA  FERNANDA DE CASTRO GONCALVES  161  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  120  LEONARDO OLIVEIRA TOGNOC  11  8  CLEBER SILVA MAIA  11  4  SERGIO CARNEIRO DE SANTA ANNA  109  DIEGO LUCIANO DE ALMEIDA  98  GEORG ZELENKA JUNIOR  89  VICTOR SILVA E SILVA  86  JESSICA DA COSTA BATINGA  55  ALEX SANDRO FAIOES DE OLIVEIRA  44  ADMINISTRAÇÃO NA PMERJ IV - RESERVA DE MATERIAL BÉLICO  PIETRO DE CASTRO MASELLO  185  LAILA  FERNANDA DE CASTRO GONCALVES  161  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  11  9  LEONARDO OLIVEIRA TOGNOC  11  7  CLEBER SILVA MAIA  11  4  CARLOS MAGNUM BASTOS DE AZEVEDO  106  DIEGO LUCIANO DE ALMEIDA  103  SERGIO CARNEIRO DE SANTA ANNA  99  VICTOR SILVA E SILVA  90  GEORG ZELENKA JUNIOR  89  JESSICA DA COSTA BATINGA  44  ADMINISTRAÇÃO NA PMERJ V - MANUTENÇÃO E TRANSPORTE  PIETRO DE CASTRO MASELLO  170  LAILA  FERNANDA DE CASTRO GONCALVES  161  LEONARDO OLIVEIRA TOGNOC  11  9  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  11  8  CARLA REGINA NASCIMENTO DE AZEVEDO  11  5  CLEBER SILVA MAIA  11  3  DIEGO LUCIANO DE ALMEIDA  103  SERGIO CARNEIRO DE SANTA ANNA  99  GEORG ZELENKA JUNIOR  90  VICTOR SILVA E SILVA  89  JESSICA DA COSTA BATINGA  44  ADMINISTRAÇÃO NA PMERJ VI - ALMOXARIFADO  LAILA  FERNANDA DE CASTRO GONCALVES  161  LEONARDO OLIVEIRA TOGNOC  11  8  CARLOS MAGNUM BASTOS DE AZEVEDO  11  6  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  11  6  PIETRO DE CASTRO MASELLO  11  6  CLEBER SILVA MAIA  11  3  DIEGO LUCIANO DE ALMEIDA  103  CARLA REGINA NASCIMENTO DE AZEVEDO  102  VICTOR SILVA E SILVA  94  SERGIO CARNEIRO DE SANTA ANNA  90  GEORG ZELENKA JUNIOR  89  JESSICA DA COSTA BATINGA  46  ADMINISTRAÇÃO: GESTÃO APLICADA A PMERJ  LAILA  FERNANDA DE CASTRO GONCALVES  146  ANTONIO FERNANDES DA COSTA NETO  142  JADER DA SILVA CORDEIRO  127  LEONARDO OLIVEIRA TOGNOC  11  8  CLEBER SILVA MAIA  11  3  PATRICIA KALIFE PAIVA  106  MARCO ANTONIO ANDRADE SANTOS  101  CARLA REGINA NASCIMENTO DE AZEVEDO  100  DIEGO LUCIANO DE ALMEIDA  98  CARLOS MAGNUM BASTOS DE AZEVEDO  96  GEORG ZELENKA JUNIOR  89  LEANDRO DELFINO DA SILVA  85  JANSEN JONATHAS DE ALBUQUERQUE FERRET  80  JESSICA DA COSTA BATINGA  47  ANÁLISE CRIMINAL  GUILHERME DE AZEVEDO CARDOSO  132  LEONARDO OLIVEIRA TOGNOC  105  PIETRO DE CASTRO MASELLO  80  ARMAMENTO I  GUILHERME DE AZEVEDO CARDOSO  11  3  RODRIGO FERNANDES FERREIRA  11  0  WILLIAM COSENDEY MAGALHAES DA TRINDADE  101  MAURO MACHADO CONCEICAO  86  ARMAMENTO II  GUILHERME DE AZEVEDO CARDOSO  11  3  RODRIGO FERNANDES FERREIRA  11  0  WILLIAM COSENDEY MAGALHAES DA TRINDADE  101  MAURO MACHADO CONCEICAO  86  CRIMINOLOGIA I  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  128  LEONARDO OLIVEIRA TOGNOC  124  CLEBER SILVA MAIA  111  CARLA REGINA NASCIMENTO DE AZEVEDO  11  0  DIEGO LUCIANO DE ALMEIDA  98  LEANDRO DELFINO DA SILVA  79  CARLOS FABRIZIO CAFE SOBRINHO  73  VICTOR SILVA E SILVA  60  JESSICA DA COSTA BATINGA  50  CRIMINOLOGIA II  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  128  LEONARDO OLIVEIRA TOGNOC  124  CLEBER SILVA MAIA  111  CARLA REGINA NASCIMENTO DE AZEVEDO  11  0  DIEGO LUCIANO DE ALMEIDA  98  LEANDRO DELFINO DA SILVA  79  CARLOS FABRIZIO CAFE SOBRINHO  73  VICTOR SILVA E SILVA  60  JESSICA DA COSTA BATINGA  50  DIDÁTICA APLICADA A INSTRUÇÃO POLICIAL MILITAR  LAILA  FERNANDA DE CASTRO GONCALVES  176  JADER DA SILVA CORDEIRO  11  7  LEONARDO OLIVEIRA TOGNOC  108  DIEGO LUCIANO DE ALMEIDA  94  VANESSA DE FREITAS MARCOLLA  85  DIREITOS HUMANOS APLICADOS À ATIVIDADE POLICIAL  PATRICIA KALIFE PAIVA  193  DIOGO RIBEIRO DE SOUZA  129  ANTONIO FERNANDES DA COSTA NETO  105  MAURICIO SENA MIRANDA  66  VICTOR SILVA E SILVA  60  ESTATÍSTICA BÁSICA APLICADA  RONALDO CAMARA CAVALCANTE  145  MYRIAN INES SURIANO DE LIMA VASCONCELOS DOS SANTOS  15  GERENCIAMENTO DE CRISES  WILLIAM COSENDEY MAGALHAES DA TRINDADE  104  GESTÃO DE SISTEMA DE SAÚDE  JOSE AROLDO LIMA GONCALVES FILHO  137  VANESSA DE FREITAS MARCOLLA  131  LUCIANO DE ASSIS MEIRELES  97  GESTÃO E ELABORAÇÃO DE PROJETOS  PIETRO DE CASTRO MASELLO  174  LUCIANO DE ASSIS MEIRELES  132  DIEGO LUCIANO DE ALMEIDA  107   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0035/U0035
+55
 
 | RODRIGO BENTO DA SILVA  85  HISTÓRIA E FORMAÇÃO DE MEMÓRIA DA PMERJ  CARLOS VIEIRA MENDES  101  LEONARDO OLIVEIRA TOGNOC  88  DIEGO GRILLO GOMES DE OLIVEIRA  80  IMAGEM INSTITUCIONAL  RENATA DA SILVA RAMALDES  77  INSTRUÇÕES PRÁTICAS EM AÇÕES TÁTICAS I  LEONE PINHEIRO BORGES  108  WILLIAM COSENDEY MAGALHAES DA TRINDADE  99  JANSEN JONATHAS DE ALBUQUERQUE FERRET  91  CARLOS ALBERTO PENCO FERREIRA LOBATO  48  INSTRUÇÕES PRÁTICAS EM AÇÕES TÁTICAS II  WILLIAM COSENDEY MAGALHAES DA TRINDADE  99  JANSEN JONATHAS DE ALBUQUERQUE FERRET  91  CARLOS ALBERTO PENCO FERREIRA LOBATO  48  INTRODUÇÃO A CIÊNCIAS SOCIAIS  ANTONIO FERNANDES DA COSTA NETO  150  LEONARDO OLIVEIRA TOGNOC  143  JADER DA SILVA CORDEIRO  126  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  11  8  JANSEN JONATHAS DE ALBUQUERQUE FERRET  80  INVESTIGAÇÃO E PERÍCIA CRIMINAL  LEANDRO DELFINO DA SILVA  108  LEONARDO GOMES ZUMA  105  ANDRE LUIS SANTOS DE AGUIAR  98  LICITAÇÕES E CONTRATOS ADMINISTRATIVOS NA PMERJ  LEONARDO OLIVEIRA TOGNOC  144  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  132  ROBERTA DA SILVA RAMALDES  11  8  GEORG ZELENKA JUNIOR  96  LIDERANÇA APLICADA A ATIVIDADE POLICIAL  LAILA  FERNANDA DE CASTRO GONCALVES  206  LEONARDO OLIVEIRA TOGNOC  160  PIETRO DE CASTRO MASELLO  133  DIEGO LUCIANO DE ALMEIDA  123  DIOGO RIBEIRO DE SOUZA  11  4  PATRICIA KALIFE PAIVA  107  CLEBER SILVA MAIA  101  GEORG ZELENKA JUNIOR  82  MÉTODO DE DEFESA POLICIAL MILITAR I  DIEGO LUCIANO DE ALMEIDA  97  GABRIEL LANNA DOS SANTOS  69  MÉTODO DE DEFESA POLICIAL MILITAR II  DIEGO LUCIANO DE ALMEIDA  97  GABRIEL LANNA DOS SANTOS  69  O  R  AT  Ó  R  I  A  LAILA  FERNANDA DE CASTRO GONCALVES  161  PATRICIA KALIFE PAIVA  104  FANNI HAMPHREIS DA SILVA  85  ADRIANE OUVERNEY DE CARVALHO  51  POLÍCIA DE PROXIMIDADE  DIOGO RIBEIRO DE SOUZA  11  6  LEONARDO GOMES ZUMA  11  5  RODRIGO BENTO DA SILVA  11  4  GEORG ZELENKA JUNIOR  100  POLICIAMENTO E LEGISLAÇÃO DE TRANSITO  VICTOR SILVA E SILVA  62  PORTUGUES INSTRUMENTAL  ADRIANE OUVERNEY DE CARVALHO  51  ALEX SANDRO FAIOES DE OLIVEIRA  42  JULIANA VITAL MARTINS  38  ALINE VIVIANE DE FREITAS LIMA  25  PRÁTICA PROCEDIMENTAL E PROCESSUAL I  CARLOS MAGNUM BASTOS DE AZEVEDO  11  6  ROBERTA DA SILVA RAMALDES  11  4  SERGIO CARNEIRO DE SANTA ANNA  105  LEONE PINHEIRO BORGES  103  CLEBER SILVA MAIA  99  LEANDRO DELFINO DA SILVA  90  VICTOR SILVA E SILVA  69  JESSICA DA COSTA BATINGA  55  PRÁTICA PROCEDIMENTAL E PROCESSUAL II  CARLOS MAGNUM BASTOS DE AZEVEDO  11  6  ROBERTA DA SILVA RAMALDES  11  4  SERGIO CARNEIRO DE SANTA ANNA  105  LEONE PINHEIRO BORGES  103  CLEBER SILVA MAIA  99  LEANDRO DELFINO DA SILVA  90  VICTOR SILVA E SILVA  69  JESSICA DA COSTA BATINGA  55  SISTEMA DE SEGURANÇA PÚBLICA  ANTONIO FERNANDES DA COSTA NETO  140  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  130  LEONARDO OLIVEIRA TOGNOC  11  8  DIOGO RIBEIRO DE SOUZA  11  0  CARLA REGINA NASCIMENTO DE AZEVEDO  102  DIEGO LUCIANO DE ALMEIDA  98  GEORG ZELENKA JUNIOR  97  PIETRO DE CASTRO MASELLO  95  JANSEN JONATHAS DE ALBUQUERQUE FERRET  91  LEONARDO GOMES ZUMA  75  JESSICA DA COSTA BATINGA  58  SOCIOLOGIA DO CRIME E DA VIOLÊNCIA  LEONARDO OLIVEIRA TOGNOC  11  7  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  103  CARLA REGINA NASCIMENTO DE AZEVEDO  96  ANTONIO FERNANDES DA COSTA NETO  96  DIEGO LUCIANO DE ALMEIDA  94  LEANDRO DELFINO DA SILVA  84  JESSICA DA COSTA BATINGA  50  TEC DE CONTR DE DISTURB CIVIS  WILLIAM COSENDEY MAGALHAES DA TRINDADE  91  JANSEN JONATHAS DE ALBUQUERQUE FERRET  41  TECNOLOGIA DA INFORMACAO E COMUNICACAO  PIETRO DE CASTRO MASELLO  11  2  MARCO ANTONIO ANDRADE SANTOS  106  DIEGO LUCIANO DE ALMEIDA  98  TIRO DE DEFESA I  JADER DA SILVA CORDEIRO  124  GUILHERME DE AZEVEDO CARDOSO  122  LEONARDO GOMES ZUMA  11  7  WILLIAM COSENDEY MAGALHAES DA TRINDADE  96  RODRIGO FERNANDES FERREIRA  93  MAURO MACHADO CONCEICAO  85  TIRO DE DEFESA II  JADER DA SILVA CORDEIRO  124  GUILHERME DE AZEVEDO CARDOSO  122  LEONARDO GOMES ZUMA  11  7  WILLIAM COSENDEY MAGALHAES DA TRINDADE  96  RODRIGO FERNANDES FERREIRA  93  MAURO MACHADO CONCEICAO  85   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9976,17 +9976,17 @@ Id:  2722651
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | TRABALHO DE COMANDO  LAILA  FERNANDA DE CASTRO GONCALVES  156  MARCIO MENDES DE OLIVEIRA  124  LUIZ  AUGUSTO VIEIRA DE OLIVEIRA  123  LEONARDO OLIVEIRA TOGNOC  122  PIETRO DE CASTRO MASELLO  11  9  CARLOS MAGNUM BASTOS DE AZEVEDO  11  6  CLEBER SILVA MAIA  11  2  DIEGO LUCIANO DE ALMEIDA  93  CARLOS FABRIZIO CAFE SOBRINHO  91  GEORG ZELENKA JUNIOR  84  TREINAMENTO FÍSICO MILITAR I  LUIZ  FELIPE  FURTADO DE OLIVEIRA  11  4  MAURICIO SENA MIRANDA  58  TREINAMENTO FÍSICO MILITAR II  LUIZ  FELIPE  FURTADO DE OLIVEIRA  11  4  MAURICIO SENA MIRANDA  58  TREINAMENTO FÍSICO MILITAR III  LUIZ  FELIPE  FURTADO DE OLIVEIRA  11  4  MAURICIO SENA MIRANDA  58  VIOLÊNCIA CONTRA MULHER  PATRICIA KALIFE PAIVA  187  NORBERTO ALEXANDRE DA SILVA MARQUES COSTA  137  MARCIO MENDES DE OLIVEIRA  132  CARLOS MAGNUM BASTOS DE AZEVEDO  11  6  LEONARDO OLIVEIRA TOGNOC  11  5  PIETRO DE CASTRO MASELLO  11  2  LEONARDO GOMES ZUMA  111   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -10007,17 +10007,17 @@ Id:  2722651
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -10127,17 +10127,17 @@ O  constante
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | REVISOR DE CONTEÚ-  DO  R  E  C  O  N  TA  G  E  M  INTRODUÇÃO A CIÊNCIAS SOCIAIS  INDEFERIDO  REVISOR DE CONTEÚ-  DO  R  E  C  O  N  TA  G  E  M  HISTÓRIA E FORMAÇÃO DE MEMORIA DA PMERJ  INDEFERIDO  REVISOR DE CONTEÚ-  DO  R  E  C  O  N  TA  G  E  M  TRABALHO DE COMANDO  INDEFERIDO  REVISOR DE CONTEÚ-  DO  R  E  C  O  N  TA  G  E  M  SOCIOLOGIA DO CRIME E DA VIOLÊNCIA  INDEFERIDO  REVISOR DE CONTEÚ-  DO  R  E  C  O  N  TA  G  E  M  LIDERANÇA APLICADA À ATIVIDADE POLICIAL  INDEFERIDO  SEI-350007/006060/2026  LEONARDO GOMES ZUMA  DOCENTE  INCLUSÃO  INVESTIGAÇÃO E PERÍCIA CRIMINAL  DEFERIDO  DOCENTE  INCLUSÃO  IMAGEM INSTITUCIONAL  DEFERIDO  DOCENTE  INCLUSÃO  ADMINISTRAÇÃO NA PMERJ IV - RESERVA DE MATE-  RIAL  BÉLICO  DEFERIDO  DOCENTE  R  E  C  O  N  TA  G  E  M  TIRO DE DEFESA I  INDEFERIDO  DOCENTE  R  E  C  O  N  TA  G  E  M  TIRO DE DEFESA II  INDEFERIDO  REVISOR DE CONTEÚ-  DO  INCLUSÃO  INVESTIGAÇÃO E PERÍCIA CRIMINAL  DEFERIDO   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -10191,17 +10191,17 @@ A COMISSÃO DE AVALIAÇÃO E SELEÇÃO torna público o Resultado da Análise de
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 
@@ -10212,17 +10212,17 @@ A COMISSÃO DE AVALIAÇÃO E SELEÇÃO torna público o Resultado da Análise de
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | GILBERTO SZTERENZEJER  PA  E  S  L  E  R  TÉCNICAS DEFENSIVAS DE COMBATE CORPO A  CORPO  INDEFERIDO  GILBERTO SZTERENZEJER  PA  E  S  L  E  R  TÉCNICAS OFENSIVAS DE COMBATE CORPO A  CORPO  INDEFERIDO  GILBERTO SZTERENZEJER  PA  E  S  L  E  R  DEFESA PESSOAL FEMININA  INDEFERIDO  GLORIA JANE PINHEIRO DA  S  I  L VA  ESTÁGIO (SUPERVISÃO) - OFICIAL DE POLÍCIA  DEFERIDO  GUILHERME GOMES DE AL-  MEIDA SERODIO  SISTEMA DE CONTROLE OPERACIONAL (SCO) -  OFICIAL  DE  POLÍCIA  DEFERIDO  GUILHERME GOMES DE AL-  MEIDA SERODIO  ESTÁGIO (SUPERVISÃO) - OFICIAL DE POLÍCIA  DEFERIDO  HELIO MARTINS JUNIOR  CRIMINALÍSTICA  DEFERIDO  HELIO MARTINS JUNIOR  LOCAL DE CRIME E CADEIA DE CUSTÓDIA  INDEFERIDO  IGOR FERNANDES PIO DA  FONSECA  INTRODUÇÃO À ATIVIDADE DE INTELIGÊNCIA  INDEFERIDO  IGOR FERNANDES PIO DA  FONSECA  BUSCA ELETRÔNICA  DEFERIDO  IGOR FERNANDES PIO DA  FONSECA  ESTÁGIO (SUPERVISÃO) - OFICIAL DE POLÍCIA  DEFERIDO  IGOR FERNANDES PIO DA  FONSECA  SISTEMA DE CONTROLE OPERACIONAL (SCO) - DE-  LEGADO DE POLÍCIA  INDEFERIDO  IGOR FERNANDES PIO DA  FONSECA  SISTEMA DE CONTROLE OPERACIONAL (SCO) -  OFICIAL  DE  POLÍCIA  DEFERIDO  IGOR FERNANDES PIO DA  FONSECA  SISTEMA INTEGRADO DA POLÍCIA CIVIL (SIPOL ) -  DELEGADO DE POLÍCIA  INDEFERIDO  IGOR FERNANDES PIO DA  FONSECA  SISTEMA INTEGRADO DA POLÍCIA CIVIL (SIPOL ) -  OFICIAL  DE  POLÍCIA  INDEFERIDO  IGOR FERNANDES PIO DA  FONSECA  SISTEMAS INFORMATIZADOS - IPOL  DEFERIDO  IGOR SILVA MARINHO PIN-  TO  METODOLOGIA GERAL DE INVESTIGAÇÃO  DEFERIDO  IVI  GABRIELE  SOUZA  CA-  BRAL  SISTEMA DE CONTROLE OPERACIONAL (SCO) - DE-  LEGADO DE POLÍCIAESTÁGIO (SUPERVISÃO) - DE-  LEGADO DE POLÍCIA  INDEFERIDO  IVI  GABRIELE  SOUZA  CA-  BRAL  SISTEMA DE CONTROLE OPERACIONAL (SCO) - DE-  LEGADO DE POLÍCIAESTÁGIO (SUPERVISÃO) - DE-  LEGADO DE POLÍCIA  INDEFERIDO  JANAINA DE SOUZA VERLY  ESTÁGIO (SUPERVISÃO) - OFICIAL DE POLÍCIA  DEFERIDO  JONI  BARBOSA AMORA  REGIME JURÍDICO-DISCIPLINAR  DEFERIDO  JORGE LUIZ RIBEIRO DOS  S  A  N  TO  S  ESTÁGIO (SUPERVISÃO) - OFICIAL DE POLÍCIA  DEFERIDO  JORGE LUIZ RIBEIRO DOS  S  A  N  TO  S  ESTÁGIO (SUPERVISÃO) - DELEGADO DE POLÍCIA  INDEFERIDO  JOSÉ CARLOS FERNANDES  MENDES  FORMALIZAÇÃO DOS ATOS DE POLÍCIA JUDICIÁRIA  DEFERIDO  JUAN JASMIN ALMEIDA FA-  RIA  ATENDIMENTO PRÉ-HOSPITALAR TÁTICO  INDEFERIDO  JUAN JASMIN ALMEIDA FA-  RIA  METODOLOGIA DE INVESTIGAÇÃO DE HOMICÍDIOS  E  DESAPARECIDOS  DEFERIDO  JULIANA BENTO VIANNA  ESTÁGIO (SUPERVISÃO) - OFICIAL DE POLÍCIA  DEFERIDO  JULIANA SANTOS THOMP-  SON BLOISE SERRA  METODOLOGIA DE INVESTIGAÇÃO DE HOMICÍDIOS  E  DESAPARECIDOS  INDEFERIDO  LEANDRO HENRIQUE DE  ALMEIDA DA SILVA  DEFESA PESSOAL FEMININA  DEFERIDO  LEANDRO HENRIQUE DE  ALMEIDA DA SILVA  TÉCNICAS DEFENSIVAS DE COMBATE CORPO A  CORPO  DEFERIDO  LEANDRO HENRIQUE DE  ALMEIDA DA SILVA  TÉCNICAS OFENSIVAS DE COMBATE CORPO A  CORPO  DEFERIDO  LEANDRO HENRIQUE DE  ALMEIDA DA SILVA  TÉCNICAS POLICIAIS DE DOMÍNIO E DEFESA PES-  SOAL  DEFERIDO  LEANDRO HENRIQUE DE  ALMEIDA DA SILVA  TÉCNICAS PREPARATÓRIAS DE AUTO-DEFESA  DEFERIDO  LEANDRO HENRIQUE DE  ALMEIDA DA SILVA  MÓDULO BÁSICO PREPARATÓRIO DA EDUCAÇÃO  FÍSICA  POLICIAL  DEFERIDO  LEANDRO HENRIQUE DE  ALMEIDA DA SILVA  MÓDULO DE APTIDÃO TÉCNICA E FÍSICA DA EDU-  CAÇÃO FÍSICA POLICIAL  DEFERIDO  LEANDRO HENRIQUE DE  ALMEIDA DA SILVA  MÓDULO DE DESENVOLVIMENTO FÍSICO DA EDU-  CAÇÃO FÍSICA POLICIAL  DEFERIDO  LEANDRO HENRIQUE DE  ALMEIDA DA SILVA  MÓDULO DE DESENVOLVIMENTO MOTOR DA EDU-  CAÇÃO FÍSICA POLICIAL  DEFERIDO  LEANDRO HENRIQUE DE  ALMEIDA DA SILVA  MÓDULO TÉCNICO POLICIAL DA EDUCAÇÃO FÍSICA  POLICIAL  DEFERIDO  LENDRO DE SOUSA PON-  TES  MÓDULO DE DESENVOLVIMENTO MOTOR DA EDU-  CAÇÃO FÍSICA POLICIAL  DEFERIDO  LEONARDO BARBOSA COR-  RÊA  SISTEMAS DE CONTROLE OPERACIONAL - SCO  (OFICIAL  DE  POLÍCIA)  DEFERIDO  LEONARDO BARBOSA COR-  RÊA  ESTÁGIO (SUPERVISÃO) - OFICIAL DE POLÍCIA  DEFERIDO  LEONARDO BARBOSA COR-  RÊA  SAÚDE DO TRABALHADOR  DEFERIDO  LEONARDO CABRAL ARA-  NHA DE ARAUJO  OPERAÇÕES AEROPOLICIAIS  DEFERIDO  LIDIANE  SOL  DA  SILVA  C  O  S  TA  SISTEMAS DE CONTROLE OPERACIONAL - SCO  (DELEGADO DE POLÍCIA)  INDEFERIDO  LIDIANE  SOL  DA  SILVA  C  O  S  TA  ESTÁGIO (SUPERVISÃO) - OFICIAL DE POLÍCIA  DEFERIDO  LILIAN  VILLA  MELO  DE  MOURA  SISTEMA DE CONTROLE OPERACIONAL (SCO) - DE-  LEGADO DE POLÍCIA  INDEFERIDO  LILIAN  VILLA  MELO  DE  MOURA  METODOLOGIA DE INVESTIGAÇÃO DE VIOLÊNCIA  CONTRA A MULHER  DEFERIDO  LILIAN  VILLA  MELO  DE  MOURA  METODOLOGIA DE INVESTIGAÇÃO EM CRIMES DE  I  N  TO  L  E  R  Â  N  C  I  A  DEFERIDO  LILIAN  VILLA  MELO  DE  MOURA  SISTEMA INTEGRADO DA POLÍCIA CIVIL (SIPOL) -  DELEGADO DE POLÍCIA  INDEFERIDO  LUANA DOS SANTOS CAR-  NEIRO  SISTEMAS DE CONTROLE OPERACIONAL - SCO  (OFICIAL  DE  POLÍCIA)  DEFERIDO  LUANA TATIANA ALBU-  QUERQUE GUERREIRO  GENÉTICA FORENSE  DEFERIDO  LUCAS ALVES TEIXEIRA  BUSCA EM AMBIENTE CONFINADO  DEFERIDO  LUCAS ALVES TEIXEIRA  COMBATE VEICULAR  DEFERIDO  LUCAS ALVES TEIXEIRA  ATENDIMENTO PRÉ-HOSPITALAR TÁTICO  DEFERIDO  LUCAS ALVES TEIXEIRA  ABORDAGEM DE PESSOAS E VEÍCULOS  DEFERIDO  LUCAS ALVES TEIXEIRA  PROGRESSÃO EM ÁREA DE RISCO  DEFERIDO  LUIS  CLAUDIO XAVIER  SISTEMAS DE CONTROLE OPERACIONAL - SCO  (OFICIAL  DE  POLÍCIA)  DEFERIDO  LUIZ  PAULO  SILVA  FERNAN-  DES  SISTEMAS DE CONTROLE OPERACIONAL - SCO  (DELEGADO DE POLÍCIA)  INDEFERIDO  LUIZ  PAULO  SILVA  FERNAN-  DES  ESTÁGIO (SUPERVISÃO) - DELEGADO DE POLÍCIA  INDEFERIDO  LUIZ  PAULO  SILVA  FERNAN-  DES  SISTEMAS INFORMATIZADOS - IPOL  DEFERIDO  LUIZ  PAULO  SILVA  FERNAN-  DES  ESTÁGIO (SUPERVISÃO) - SCO (OFICIAL DE POLÍ-  CIA)  INDEFERIDO  MARCELA DE LEONI DUTRA  A  LTO  M  A  R  SISTEMA DE CONTROLE OPERACIONAL (SCO) -  OFICIAL  DE  POLÍCIA  DEFERIDO  MARCELO DE AZEVEDO  LEITE  OPERAÇÕES EM INTELIGÊNCIA  DEFERIDO  MARCELO DE FIGUEREDO  MENDES  ESTÁGIO (SUPERVISÃO) - OFICIAL DE POLÍCIA  DEFERIDO  MARCELO DE FIGUEREDO  MENDES  SISTEMA DE CONTROLE OPERACIONAL (SCO) -  OFICIAL  DE  POLÍCIA  DEFERIDO  MARCELO DE FIGUEREDO  MENDES  ESTÁGIO (SUPERVISÃO) - DELEGADO DE POLÍCIA  INDEFERIDO  MARCELO DE FIGUEREDO  MENDES  SISTEMA DE CONTROLE OPERACIONAL (SCO) - DE-  LEGADO DE POLÍCIA  INDEFERIDO  MARCELO DO CARMO NU-  NES  BUSCA EM AMBIENTE CONFINADO  DEFERIDO  MARCELO DO CARMO NU-  NES  COMBATE VEICULAR  DEFERIDO   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -10234,17 +10234,17 @@ FURTOS E RECEPTAÇÕES
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | RAMON LUIZ MENEZES DE  LAMONICA  BALÍSTICA POLICIAL  DEFERIDO  RAMON LUIZ MENEZES DE  LAMONICA  GESTÃO DE PESSOAS  DEFERIDO  RAPHAEL RUBEN ARAUJO  SIMÕES MARTINS SILVA  FERRAMENTAS ESPECIAIS DE INVESTIGAÇÃO (FI-  NANCEIRA, CRIPTOATIVOS E RECUPERAÇÃO DE  AT  I  V  O  S  )  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  FERRAMENTAS ESPECIAIS DE INVESTIGAÇÃO (FI-  NANCEIRA, CRIPTOATIVOS E RECUPERAÇÃO DE  AT  I  V  O  S  )  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  FERRAMENTAS ESPECIAIS DE INVESTIGAÇÃO (IN-  TERCEPTAÇÃO TELEFÔNICA E DE DADOS, CAPTA-  ÇÃO AMBIENTAL)  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  FERRAMENTAS ESPECIAIS DE INVESTIGAÇÃO (PRI-  SÕES CAUTELARES)  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  FERRAMENTAS ESPECIAIS DE INVESTIGAÇÃO (BUS-  CA E APREENSÃO)  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  FERRAMENTAS ESPECIAIS DE INVESTIGAÇÃO (BUS-  CA EXPLORATÓRIA, AÇÃO CONTROLADA, INFILTRA-  ÇÃO DE AGENTES)  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  FERRAMENTAS ESPECIAIS DE INVESTIGAÇÃO (CO-  LABORAÇÃO PREMIADA)  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  FERRAMENTAS ESPECIAIS DE INVESTIGAÇÃO (TÉC-  NICAS DE PESQUISA EM FONTES ABERTAS E RE-  DES SOCIAIS)  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  ENTREVISTA COGNITIVA, TÉCNICAS DE DEPOIMEN-  TO E RECONHECIMENTO PESSOAL  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  METODOLOGIA DE INVESTIGAÇÃO DE ARMAS  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  LOCAL DE CRIME E CADEIA DE CUSTÓDIA DA  P  R  O  VA  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  METODOLOGIA DE INVESTIGAÇÃO DE CIBERCRI-  MES  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  METODOLOGIA DE INVESTIGAÇÃO DE CRIMES AM-  B  I  E  N  TA  I  S  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  METODOLOGIA DE INVESTIGAÇÃO DE DROGAS  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  METODOLOGIA DE INVESTIGAÇÃO DE ESTELIONA-  TO  S  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  MÓDULO DE DESENVOLVIMENTO MOTOR DA EDU-  CAÇÃO FÍSICA POLICIAL  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  METODOLOGIA DE INVESTIGAÇÃO DE ORCRIM  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  METODOLOGIA DE INVESTIGAÇÃO DE ROUBOS E  FURTOS DE CARGA  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  METODOLOGIA DE INVESTIGAÇÃO DE ROUBOS E  FURTOS DE VEÍCULO  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  METODOLOGIA DE INVESTIGAÇÃO DE ROUBOS,  FURTOS E RECEPTAÇÕES  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  METODOLOGIA DE INVESTIGAÇÃO DE VIOLÊNCIA  CONTRA MULHER  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  METODOLOGIA DE INVESTIGAÇÃO EM CRIMES DE  I  N  TO  L  E  R  Â  N  C  I  A  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  METODOLOGIA DE INVESTIGAÇÃO EM CRIMES NAS  RELAÇÕES DE CONSUMO  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  METODOLOGIA GERAL DE INVESTIGAÇÃO  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  OUTRAS METODOLOGIAS (CRIMES CONTRA A FA-  ZENDA PÚBLICA E CONTRA A ADMNISTRAÇÃO PÚ-  BLICA)  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  OUTRAS METODOLOGIAS (PROCEDIMENTO DE FO-  RO POR PRERROGATIVA DE FUNÇÃO)  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  CRIMES CONTRA A PROPRIEDADE IMATERIAL  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  GESTÃO DE PESSOAS  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  GESTÃO DE DELEGACIAS  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  GESTÃO DE PROCESSOS  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  GESTÃO DE PROJETOS  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  GOVERNANÇA, INTEGRIDADE E CONTROLE INTER-  NO  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  LIDERANÇA  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  PLANEJAMENTO ESTRATÉGICO  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  REGIME JURÍDICO-DISCIPLINAR  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  DIREITOS E VANTAGENS FUNCIONAIS  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  RELAÇÕES INTERPESSOAIS  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  QUALIDADE NO ATENDIMENTO  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  HISTÓRIA DAS INSTITUIÇÕES POLICIAIS  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  CRIMINOLOGIA  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  DIREITOS HUMANOS  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  SOCIOLOGIA  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  BUSCA ELETRÔNICA  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  INTRODUÇÃO À ATIVIDADE DE INTELIGÊNCIA  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  CONTRAINTELIGÊNCIA  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  INTRODUÇÃO ÀS TECNOLOGIAS DE INFORMAÇÃO  POLICIAL  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  OPERAÇÕES EM INTELIGÊNCIA  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  ANÁLISE DE RISCOS  DEFERIDO  RAPHAEL VAROTTO FERRA-  RI  ANÁLISE DE VÍNCULOS  DEFERIDO  RAQUEL CARDOZO PEREI-  RA  DEPOIMENTO ESPECIAL DE CRIANÇÃS E ADOLES-  CENTES  DEFERIDO  RAQUEL CARDOZO PEREI-  RA  METODOLOGIA DE INVESTIGAÇÃO DE VIOLÊNCIA  CONTRA A MULHER  DEFERIDO  RAQUEL CARDOZO PEREI-  RA  METODOLOGIA DE INVESTIGAÇÃO EM CRIMES DE  I  N  TO  L  E  R  Â  N  C  I  A  DEFERIDO  RENATA GUIMARÃES TROT-  TA  SISTEMA INTEGRADO DA POLÍCIA CIVIL (SIPOL) -  OFICIAL  DE  POLÍCIA  DEFERIDO  RENATA GUIMARÃES TROT-  TA  SISTEMAS DE CONTROLE OPERACIONAL - SCO  (OFICIAL  DE  POLÍCIA)  DEFERIDO  RENATA SILVA MONTENE-  GRO  FERRAMENTAS ESPECIAIS DE INVESTIGAÇÃO (IN-  VESTIGAÇÃO FINANCEIRA, CRIPTOATIVOS E RECU-  PERAÇÃO DE ATIVOS)  DEFERIDO  ROBERTO ALVES CORRÊA  METODOLOGIA DE INVESTIGAÇÃO DE ESTELIONA-  TO  S  DEFERIDO  ROBERTO ALVES CORRÊA  SISTEMAS DE CONTROLE OPERACIONAL - SCO  (DELEGADO DE POLÍCIA)  INDEFERIDO  ROBERTO ALVES CORRÊA  SISTEMA INTEGRADO DA POLÍCIA CIVIL (SIPOL) -  DELEGADO DE POLÍCIA  INDEFERIDO  ROBERTO ALVES CORRÊA  ESTÁGIO (SUPERVISÃO) - DELEGADO DE POLÍCIA  INDEFERIDO  ROBERTO ALVES CORRÊA  METODOLOGIA DE INVESTIGAÇÃO DE ROUBOS,  DEFERIDO   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -10267,25 +10267,25 @@ O DEPARTAMENTO-GERAL  DE GESTÃO  DE PESSOAS ,  através do  Serviço de  Promo�
 | Ord.  Ant.  Id.  Funcional  Nome  Classe  aa.mm.dd  Class.  Concurso  Pontos  1º  50982532  Haroldo  Assumpção  Martins  05.09.16  207º  (**)  2º  12444065  Ana  Beatriz  Freitas  Imbuzeiro  05.09.16  208º  (**)  3º  51026317  Rodrigo  de  Oliveira  Alves  05.09.16  209º  (**)  4º  51026449  Alice  Barroso  de  Antonio  05.09.16  212º  (**)  5º  51026325  Walberto  de  Souza  Castello  05.09.16  213º  (**)  6º  50102044  Rafael  Azevedo  Pires  Domingues  05.09.16  214º  34,50  7º  51026490  Rafaella  de  Oliveira  Azevedo  05.09.16  219º  32,00   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0031
+051
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
 L  I   C  I  TA  Ç  Ã  O  : Pregão  Eletrônico  nº  001/2026. DIA: 16/04/2026 HORÁRIO: 10h. TIPO: Menor  Preço  Global O  B  J  E  TO  : Contratação  de empresa especializada para  a lavagem e higienização  de  uniformes.
 
@@ -10323,17 +10323,17 @@ Análises  Clínicas  para  atender  o  Hospital  Estadual  Getúlio  Vargas
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
 (HEGV)  e UPA  Penha, a  serem executados  nas condições  estabelecidas no Edital de Licitação 323 id. 120328167, proposta id. 122070171 e nos anexos deste  Contrato. VIGÊNCIA: 12 (Doze)  meses,  contado  da data  da  divulgação no  Portal  Nacional  de  Contratações  Públicas. VALOR TOTAL: R$ 5.185.611,29 (cinco milhões cento e oitenta e cinco  mil  seiscentos  e  onze  reais  e  vinte  e  nove  centavos). NOTA DE EMPENHO: 2026NE02827. DATA DA ASSINATURA: 16/03/2026. PA  R  E  C  E  R  : 2183/2025  FS/DIRJUR/GERCPA id. 112614962  e Autorização  do  Ordenador  de  Despesa  id.  116923563. F  U  N  D  A  M  E  N  TA  Ç  Ã  O  : Lei  nº  14.133,  de  1º  de  abril  de  2021. PROCESSO N° SEI-080002/010471/2024.
 
@@ -10363,21 +10363,21 @@ I  N S  T  R  U  M  E  N  TO  : Termo de Ajuste  de Contas nº 621/2026. PA  R  
 
 I  N S  T  R  U  M  E  N  TO  : Termo de Ajuste  de Contas nº 625/2026. PA  R  T  E  S  : Fundação  Saúde  do  Estado  do  Rio de  Janeiro  e  a  empresa  ARAMI SAUDE E PLANEJAMENTO  REPRODUTIVO LTDA. O  B  J  E  TO  : Te  m por objeto a indenização pela  prestação de serviços médicos, para o
 
-/U0053/U0045/U0058/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SEXT A-FEIRA
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U002D
+-
 
-/U0032/U0030
+20
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 Centro de Diagnóstico por Imagem da Baixada Fluminense (CEDI Baixada), no período  de 01/02/2026 a 28/02/2026,  conforme solicitado e comprovado  através da  apresentação  das  notas fiscais  devidamente atestadas, tendo  sua viabilidade  jurídica confirmada pelo  Parecer n.º 866  (SEI-127177761). VALOR  TOTAL: R$  90.138,18 (noventa  mil, cento e trinta e oito  reais e dezoito centavos). F  U  N  D  A  M  E  N  TO  : Decidido  no  processo  administrativo SEI-080002/005431/2026. DATA  DA A  S  S  I  N  AT  U  R  A  : 18/03/2026.
 
@@ -10501,17 +10501,17 @@ Id:  2722735
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 - ço de 2022, e tendo em vista a comprovação da regularidade dos cursos de: 1º Grau, 2º Grau, Ensino Fundamental, Ensino Médio e Curso Técnico,  concluídos  em  Instituições  de  Ensino  Extintas,  inframencionadas,  torna  público  os  nomes  dos  alunos  concluintes.  Processo  nº  SEI030029/000787/2022.
 
@@ -10588,17 +10588,17 @@ Id:  2722728
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | 15/04  -  QUA  Refresco  de  caju,  pão  integral  com  queijo  prato.  Leite  desnatado  com  café  e  biscoito  salgado  inte-  gral  Sobrecoxa  assada,  couve  refogada,  arroz  integral,  feijão.  16/04  -  QUI  Iogurte  natural  desnatado  e  banana  Suco  de  caju  e  pão  integral  com  queijo  minas  Salada  de  agrião,  moela  com  cenoura,  arroz  integral,  feijão.  Sobremesa:  Mamão.  17/04  -  SEX  Café  com  leite  e  biscoito  integral  Mingau  de  aveia  dietético  Salada  de  pepino,  iscas  de  frango  ao  sugo,  macarrão  integral,  feijão.  20/04  - SEG  Iogurte  natural  desnatado  e  mamão  Suco  de  uva  e  pão  integral  com  queijo  minas  Salada de tomate  com toque de orégano, ensopadinho de  carne, vagem refogada,  arroz  integral,  feijão.  21/04  - TER  FERIADO  22/04  - QUA  Leite  desnatado  com  café  e  pão  integral  com  queijo  mi-  nas  Leite  desnatado  batido  com  banana,  mamão  e  aveia  Iscas  de  carne  acebolada,  cenoura  ralada,  macarrão  integral,  feijão. Sobremesa:  Maçã.  23/04  - QUI  FERIADO  24/04  - SEX  Leite  desnatado  batido  com  banana,  mamão  e  aveia  Suco  de  manga  e  pão  integral com queijo  minas  Jardineira  (patinho,  batata  doce,  cenoura  e  vagem),  arroz  integral,  feijão.  Sobremesa:  Me-  lancia.  27/04  - SEG  Café  e  biscoito  salgado  integral  Mingau  de  aveia  dietético  com  canela  em  pó  Estrogonofe  de  frango,  batata  doce  sauté,  arroz,  feijão.  28/04  -  TER  Leite  desnatado  com  café  e  pão  integral  com  requeijão Leite  desnatado  com  café  e  biscoito  salgado  inte-  gral  Cenoura  ralada,  filé  de  peixe  ao  molho,  vagem,  arroz  integral,  feijão.  Sobremesa:  Caqui.  29/04  -  QUA  Iogurte  natural  desnatado  e  maçã  Suco  de  uva  e  pão  francês  com  queijo  prato  Sobrecoxa  assada,  abobrinha,  arroz  integral,  feijão.  30/04  -  QUI  Suco  de  goiaba  e  pão  integral  com  queijo  prato  Iogurte  natural  desnatado  e  banana  Salada  verde,  filé  mignon  suíno,  purê  abóbora,  arroz  integral,  feijão.  Sobremesa:  Maçã.  As  orientações  para  adaptação  dos  cardápios  com  o  intuito  de  atender  aos  alunos  com  diabetes  encontram-se  no  Manual  de  Fichas  Técnicas  enviado  mensalmente  junto  com  os  cardápios  e  suas  respectivas  informações  nutricionais.   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -10705,17 +10705,17 @@ FILHO ,  Censo  Escolar  nº  33106614,  torna  pública  a  seguinte  listagem 
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
 Lemos  dos Santos;  Raquel Pereira  da Silva;  Rita de  Cássia da  Silva Ferreira  de  Oliveira;  Simone  Jorge  Vasconcelos;  Tauanny  Almeida  dos Santos;  Tayani de  Carvalho Pereira;  Yuri Andrade  Siqueira. Diretora: Rizocleide Santos Gonçalo da Silva, designada no  DOERJ de 29/01/2024,  página 60,  2ª  coluna. Secretária  Escolar: Georgete  Ferreira  das  Neves,  designada  no  DOERJ de  10/03/2003,  página  15,  3ª coluna. Servidores  que autorizaram  a publicação:  Tarciane Azevedo Correia, ID.  Funcional nº 4368508-0  e Adriana dos Santos  Viana Alves, ID. Funcional nº 4368445-9. Processo nº SEI030001/027932/2026.
 
@@ -10945,17 +10945,17 @@ Id:  2722660
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 

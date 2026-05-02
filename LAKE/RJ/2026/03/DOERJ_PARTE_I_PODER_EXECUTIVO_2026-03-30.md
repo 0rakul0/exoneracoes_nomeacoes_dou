@@ -98,41 +98,41 @@ PROCESSO Nº SEI-040161/003640/2022 - RECONHEÇO a  dívida  de despesas de exer
 
 PROCESSO Nº SEI-040169/000311/2022 -  RECONHEÇO a  dívida  de
 
-/U0032
+2
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0037
+057
 
-/U0053/U0045 /U0047/U0055/U004E/U0044/U0041/U002D/U0046/U0045/U0049/U0052/U0041
+SE GUNDA-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0033/U0030
+30
 
-/U0044/U0045
+DE
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 reserva orçamentária para pagamento  relativo a Período Inicial de pensão do  pensionista, da  Secretaria de  Estado de  Educação, JOSE ROBERTO DE MEDEIROS  FERRAZ, no valor total  de R$ 19.996,41 (dezenove mil  novecentos e noventa e  seis reais e quarenta  e um centavos),  não  paga  até  então.
 
@@ -168,17 +168,17 @@ PROCESSO Nº SEI-040161/011234/2022  - RECONHEÇO a dívida  de despesas de exer
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PROCESSO Nº SEI-040161/016401/2022 - RECONHEÇO a dívida  de despesas de exercícios anteriores, referente ao encerramento de folha do ex-servidor,  da Secretaria  de  Estado  de Educação,  JUCIMAR CRUZ DOS  SANTOS, no valor total  de R$ 2.852,97 (dois  mil oitocentos e cinquenta e dois reais e noventa e sete centavos), não paga até então, em favor de  seus herdeiros OLGUIMAR DOS SANTOS DIAS, AGNALDO CRUZ DOS  SANTOS e ARNALDO CRUZ DOS S  A  N  TO  S  .
 
@@ -277,17 +277,17 @@ PROCESSO Nº  SEI-330032/006310/2023 -  RECONHEÇO a  dívida de despesas de exe
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 paga até então, em favor de seus herdeiros MARIA LUIZA MACEDO DE ARAUJO e ANDRE LUIZ MACEDO DE ARAUJO.
 
@@ -335,23 +335,23 @@ PROCESSO Nº SEI-220001/000706/2025 - RECONHEÇO a dívida  no valor total de  R
 
 Id:  2724971
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0035/U0037
+057
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
 ## Secretaria de Estado de Polícia Militar
 
@@ -424,9 +424,9 @@ PROCESSO  Nº  SEI-270006/016858/2024  - ADJUDICO e HOMOLOGO o  processo licitat
 
 Id:  2724856
 
-/U0049
+I
 
-/U0033
+3
 
 14.133 de  01 de  abril de  2021 e  Art. 45  do Decreto  Estadual n.º 48.778,  de  30  de  outubro  de  2023,  que  teve  como  vencedora  as  empresas;  DROGAFONTE  LTDA. (08.778.201/0001-26),  com  proposta nos  valores unitários  de R$  0,77 (setenta  e sete  centavos) -  ID 58198;  R$  0,58  (cinquenta  e  oito  centavos)  -  ID  17604;  R$  0,63  (sessenta e três centavos) - ID 17752; R$ 1,03 (um real e três centavos) ID  18067;  R$  35,93  (trinta  e  cinco  reais  e  noventa  e  três  centavos)  ID 6975; R$ 1,07 (um real e sete centavos) - ID 18120; R$ 3,60 (três reais e sessenta centavos) - ID  18227; 0,86 (oitenta e seis centavos) -  ID 17556;  7,79 (sete  reais e  setenta e  nove centavos)  ID  58250; COSTA CAMARGO COMERCIO DE PRODUTOS HOSPITALARES LTDA (MATRIZ) (36.325.157/0001-34), com proposta no valor unitário de R$  5,82  (cinco  reais  e  oitenta  e  dois  centavos)  -  ID  58206;  GREEN MED  DISTRIBUIDORA  E  IMPORTADORA DE  MEDICAMENTOS  E PRODUTOS PARA SAUDE LTDA. (47.454.600/0001-93) com proposta no valor  unitário  de  R$  6,53  (seis  reais  e  cinquenta  e  três  centavos)  ID 17803;  ESPECIFARMA  COMERCIO  DE MEDICAMENTOS  E PRODUTOS  HOSPITALARES  LTDA (00.085.822/0001-12)  com  proposta  no  valor  unitário de  R$  1,09  (um  real  e nove  centavos)  -  ID 17270;  TARGET  MEDICAMENTOS E  PRODUTOS  HOSPITALARES LTDA ME (52.969.017/0001-55) com  proposta no valor unitário de R$  0,57  (cinquenta  e  sete  centavos)  -  ID  18008.
 
@@ -456,17 +456,17 @@ Id:  2724948
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## ADMINISTRAÇÃO VINCULADA
 
@@ -612,17 +612,17 @@ Id:  2725102
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ## ADMINISTRAÇÃO VINCULADA
 
@@ -642,37 +642,37 @@ Aos  vinte  e  três  dias  do  mês  de  março  de  dois  mil  e  vinte  e  se
 
 AVANTE PORTES PRODUÇÕES ARTÍSTICAS LTDA, CNPJ 34.504.591/0001-56, com  o artista FREDERICO  SANTIAGO, após avaliação dos critérios estabelecidos na  Portaria Nº 1706 foi atribuído
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0035/U0037
+057
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U002D
+-
 
-/U006F
+o
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U004D/U0041/U0052Ç/U004F
+MARÇO
 
-/U0044/U0045
+DE
 
-/U0033/U0030
+30
 
 <!-- image -->
 
@@ -841,17 +841,17 @@ DIRETOR PRESIDENTE  DA EMPRESA  DE OBRAS  PÚBLICAS DO ESTADO DO RIO DE JANEIRO 
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 - de  talude  e  montante  do  Centro  POP, Rua  Dr.  Celso  José  de  Carvalho,  nº  945  -  Jardim  Meriti.
 
@@ -1118,17 +1118,17 @@ I  N  S  T  R  U  M  E  N  TO : Contrato  nº  160/2026/HUPE. PA  R  T  E  S : U
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 FUNDAMENTAÇÃO DA DESPESA: Pregão  Eletrônico  nº  044/2026. VALOR: R$  84.999,96 (oitenta  e  quatro  mil  novecentos  e  noventa  e nove  reais  e  noventa  e  seis  centavos).
 
@@ -1401,17 +1401,17 @@ Id:  2724820
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 PA  R  T  E  S  : FUNARJ e EMPRESA BERNARDO DUGIN MONNERAT DE AZEVEDO
 

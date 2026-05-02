@@ -123,17 +123,17 @@ Ceres Pimenta Diretora Industrial
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Administrativa, da  Secretaria de  Estado de Educação.  Processo nº SEI-030001/036881/2026.
 
@@ -343,17 +343,17 @@ PROCESSO Nº  SEI-E-03/10203690/2010 -MARCELO  DE SOUZA
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Id:  2728718
 
@@ -425,17 +425,17 @@ Art.  1º  Designar  o(s)  Agente(s)  de  Trânsito  da  Secretaria  de  Estado 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Art.  2º  Esta  Portaria  entra  em  vigor  na  data  de  sua  publicação.
 
@@ -564,17 +564,17 @@ Id:  2728919
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE FAZENDA SUBSECRETARIA DE ADMINISTRAÇÃO SUPERINTENDÊNCIA DE COMPRAS E CONTRATOS
 
@@ -658,41 +658,41 @@ JULIANA RIBEIRO DO AMARAL TEIXEIRA Superintendente  de  Aquisições  e  Contrat
 
 Id:  2728649
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0030/U0036/U0037
+067
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0035
+5
 
-/U002D
+-
 
-/U0031/U0035
+15
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
 Art.  2º -  O referido  manual será  disponibilizado na  página da  SEFAZ na  Internet,  no  endereço  https://portal.fazenda.rj.gov.br/municipios/ .
 
@@ -810,17 +810,17 @@ despesa de  exercícios anteriores,  para pagamento do  período inicial
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 de  pensão  da  pensionista  NUBIA MARIA  FERREIRA  CARVALHO,  da SEAP, no valor total  de  R$  24.717,02  (vinte  e  quatro  mil  setecentos  e dezessete  reais  e  dois  centavos),  não  paga  até  então. PROCESSO Nº SEI-040161/002101/2023 - RECONHEÇO a dívida  de despesa  de  exercícios  anteriores,  referente ao  encerramento  de  folha do  ex-servidor,  da  Secretaria  de Estado  de  Educação,  ALDIRLENE DA SILVA,  no valor total  de R$ 1.584,93  (mil quinhentos e  oitenta e quatro reais e noventa e três centavos), não paga até então, em favor de seus herdeiros  FABIANE DA SILVA GOMES  e FABIO MAURICIO DA SILVA GOMES. PROCESSO Nº SEI-040161/008582/2023 - RECONHEÇO a dívida  de despesa  de  exercícios  anteriores,  referente ao  encerramento  de  folha do ex-servidor,  da SEFAZ,  WILSON DOS  SANTOS LOPES,  no valor total  de R$  1.099,75  (mil e  noventa  e  nove reais  e  setenta e  cinco centavos),  não paga  até então,  em favor  de sua  herdeira VANILDA ALVES BRITO. PROCESSO Nº SEI-040146/000401/2023 - RECONHEÇO a dívida  de despesa de exercícios  anteriores, referente ao resíduo  de pensão da pensionista,  da SEPM,  MARLENE SOUTO  DANIEL, no  valor total  de R$ 87.008,44 (oitenta e sete mil e oito reais  e  quarenta  e  quatro  centavos),  não  paga  até  então. PROCESSO Nº SEI-040161/008121/2023 - RECONHEÇO a dívida  de despesa  de  exercícios  anteriores,  referente ao  encerramento  de  folha do ex-servidor,  da Secretaria de  Estado de Educação,  SELSA HENRIQUES DA ROCHA, no valor total  de R$  158,83  (cento e  cinquenta e oito  reais e  oitenta e  três centavos),  não paga  até então,  em favor de  seu  herdeiro  ROBSON  HENRIQUES  DA  ROCHA. PROCESSO Nº SEI-040161/003506/2022 - RECONHEÇO a dívida  de despesas de exercícios anteriores, referente ao encerramento de folha do ex-servidor, da  Secretaria de Estado de  Educação, ARACY SANGINETO AZEDO EVANGELISTA, no valor total de R$ 842,13 (oitocentos e quarenta e dois reais e treze centavos), não paga até então, em favor  de  seus  herdeiros  ENEIDA  HELOISA  HELENA  EVANGELISTA e MAYSA MARIA AMELIA EVANGELISTA. PROCESSO  Nº SEI-E-03/007951/2012  - RECONHEÇO a dívida  de despesa  de exercícios  anteriores referente  a diferença  de proventos da  servidora da  Secretaria de  Estado de  Educação, CLAUDIA  MARINS  SANTOS  no  valor  total  de  R$  26.830,27  (vinte  e  seis  mil  oitocentos  e  trinta  reais  e  vinte  e  sete  centavos),  não  paga  até  então. PROCESSO Nº SEI-040150/000422/2023 - RECONHEÇO a dívida  de despesa de exercícios  anteriores,  referente  ao  resíduos  de  pensão  da pensionista, da  Secretaria de Estado de  Educação, DILENE BATISTA DE OLIVEIRA,  no valor  total de R$  60.427,54 (sessenta  mil quatrocentos  e  vinte  e sete  reais  e  cinquenta  e  quatro centavos),  não  paga até  então. PROCESSO  Nº SEI-E-04/144/001163/2019  - RECONHEÇO a  dívida de despesa de exercícios anteriores  referente a pagamento de resíduos de pensão do pensionista da Secretaria de Estado de Educação, MARIO  CORREA  FILHO, no  valor  total  de  R$10.528,30 (dez  mil  quinhentos  e  vinte  e  oito  reais  e  trinta  centavos),  não  paga  até  então. PROCESSO Nº  SEI-E-04/204/000669/2018 - RECONHEÇO a  dívida de  despesa  de  exercícios  anteriores  referente  ao  encerramento  de  folha  do  ex-servidor  da  SEFAZ,  JOSE ALENCAR DE SOUZA REIS, no valor total  de  R$  33.276,38 (trinta e três mil duzentos e setenta e seis reais  e  trinta  e  oito  centavos),  não paga  até  então,  em  favor  de  seus herdeiros  ENY SILVEIRA REIS, JANICE SILVEIRA REIS LEITE, CARLOS  FERNANDO SILVEIRA  REIS,  FLAVIA SILVEIRA  REIS e  MONICA SILVEIRA ROLLO. PROCESSO Nº  SEI-E-09/162/100067/2018 - RECONHEÇO a  dívida de despesa de exercícios anteriores,  referente ao pagamento de encerramento de  folha do ex-servidor  da SEPOL, PAULO  CESAR COUTINHO  ROXO, no  valor total  de R$  5.549,97 (cinco  mil quinhentos  e quarenta e  nove reais  e noventa  e sete centavos),  não paga  até então,  em  favor  dos  seus  herdeiros:  da  Meeira  e  herdeira  ANGELA  MARIA BORSATO, da  herdeira LAIS COUTINHO ROXO  e do herdeiro PAULO CESAR DUNLOP ROXO. (Procurador SILDNEY GONÇALVES MUNIZ -representante do  herdeiro PAULO CESAR DUNLOP ROXO). PROCESSO  Nº SEI-E-27/037/263/2013  - RECONHEÇO a dívida  de despesa  de  exercícios  anteriores,  referente ao  pagamento  de  proventos  do  servidor,  da  SEDEC,  IDILBERTO  ANTONIO  CALIXTÎ,  no  valor total  de  R$ 11.760,91 (onze mil setecentos e sessenta reais e noventa e  um  centavos),  não  paga  até  então. PROCESSO Nº SEI-040145/000254/2023 - RECONHEÇO a dívida  de despesa de exercícios anteriores para pagamento de resíduos de pensão  do  pensionista,  do  DER/RJ,  ANDRE  SOUZA  DA  SILVA,  no  valor total  de  R$  122.422,67 (cento  e  vinte  e  dois  mil quatrocentos  e  vinte e  dois  reais  e  sessenta  e  sete  centavos),  não  paga  até  então. PROCESSO Nº SEI-040137/000229/2022 - RECONHEÇO a dívida  de despesas de exercícios  anteriores,  referente  a  valores  retidos  de  pensão  previdenciária,  da  pensionista,  da  SEFAZ,  NELLY  MORAES  DA SILVA, no valor total de R$  154.254,59 (cento e cinquenta e quatro mil e duzentos e cinquenta e  quatro reais e cinquenta e nove centavos),  não  paga  até  então. PROCESSO  Nº SEI-E-04/146/1828/2019  - RECONHEÇO a dívida  de despesa de exercícios anteriores, referente ao pagamento de resíduos de  pensão da  pensionista,  do  TJ/RJ, VERA  LUCIA  DA SILVA  FERNANDES,  no valor  total de  R$ 50.431,59  (cinquenta mil  e quatrocentos  e trinta  e um  reais  e cinquenta  e  nove centavos),  não paga  até então. PROCESSO Nº SEI-040161/012119/2020  - RECONHEÇO a dívida  de despesa de  exercícios anteriores  para pagamento de  Pecúlio Facultativo  da ex-beneficiária,  do TCE,  DYRCE BAPTISTA  FERNANDES, no valor total  de  R$  13.858,82  (treze  mil  oitocentos  e  cinquenta  e  oito reais e  oitenta e  dois centavos),  não paga até  então, em  favor de suas  herdeiras RITA  ERICSON FERNANDES  e JOANA  ERICSON FERNANDES. PROCESSO Nº SEI-040204/000845/2022 - RECONHEÇO a dívida  de despesa  de  exercícios  anteriores,  referente ao  encerramento  de  folha do  ex-servidor ANTENOR TAVARES JUNIOR, da SEFAZ, no valor total de R$  16.380,57 (dezesseis mil trezentos e oitenta  reais e cinquenta  e  sete  centavos),  não  pagas  até  então,  em  favor  de  seus  herdeiros  CARMEN LIGIA FERRAZ TAVARES, CASSIUS FERRAZ TAVARES e ANDREZZA FERRAZ TAVARES DE AZEVEDO. PROCESSO  Nº SEI-E-04/142/178/2017  - RECONHEÇO a dívida  de despesa de  exercícios anteriores para  pagamento de revisão  de pensão  da  pensionista,  da  SEPM,  MARINELZA  CANTARINE  DE  SOUZA BRAGA,  no  valor total  de  R$  107.147,48 (cento  e  sete  mil cento  e quarenta  e  sete  reais e  quarenta  e  oito  centavos),  não paga  até  então. PROCESSO Nº SEI-040161/015991/2022 - RECONHEÇO a dívida  de despesa  de  exercícios  anteriores,  referente ao  encerramento  de  folha da ex-servidora, da  SETRAB, LAÍS ARANTES VIEIRA,  no valor total de R$  380,77 (trezentos  e oitenta  reais e  setenta e  sete centavos), não paga até então, em  favor de seus herdeiros ANTONIO CARLOS VIEIRA CARIELLO, DENISE MARIA CARIELLO BAPTISTA e ORLANDO CARIELLO FILHO.
 
@@ -896,17 +896,17 @@ Art. 1º Instituir Comissão para  análise da prestação de  contas, emissão 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 I  FÁBIO  LUIZ  NOGUEIRA, Id.  Funcional  nº 5.152.085-0,  representante  da  Diretoria  de  Incentivos  Fiscais  -  DIRIF;
 
@@ -1016,7 +1016,7 @@ Art.  5º -Fica  estabelecido  que as  comissões  fiscalizadoras das  Unidades 
 
 As comissões fiscalizadoras das  Unidades beneficiadas de-
 
-/U0037
+7
 
 Gestão do Tribunal de Contas do Estado do Rio de Janeiro -ECG/TCE-RJ  (link: https://portal-br.tcerj.tc.br/web/ecg/publico-alvo-estadual), a  fim de que se  capacitem para exercer as  suas respectivas funções. Art. 9º -Todos os  Fiscais de Contratos  devem atentar quanto  à inclusão  obrigatória  de  fotografia  dos bens  adquiridos  nos  Termos  de Recebimento  Provisório  de  Objeto,  a  ser  juntado  nos  processos  de pagamento, com o  objetivo de aprimorar os processos  internos e garantir  maior  transparência. Art. 10 -Enquanto  não for  publicada em  DOERJ a  substituição dos servidores  designados, os  mesmos ficam  vinculados à  atividade de acompanhamento e controle  da  execução  contratual. Art.  11 -  Esta  Resolução  entrará  em  vigor  na  data  de  sua  publicação, revogadas  as  disposições  em  contrário. Rio  de  Janeiro,  13  de  abril  de  2026
 
@@ -1026,39 +1026,39 @@ Id:  2728874
 
 <!-- image -->
 
-/U0030/U0036/U0037
+067
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0031/U0035
+15
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 verão obter  em arquivo próprio a  cópia do Termo de  Referência e do Instrumento  Contratual, bem  como  municiar-se  de informações  acerca da  consecução  da fiscalização,  na  forma  do  art.  11, IV  do  Decreto Estadual  nº 45.600,  de 16  de  março de  2016, bem  como, em  cumprimento  do mandamento  esculpido  no BOL  da  PM nº  068  de 16  de abril de  2020 atentar  à obrigatoriedade de  realização do  curso de Gestão  e  fiscalização  de  contratos.
 
@@ -1434,17 +1434,17 @@ Id:  2728958
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR DIRETORIA GERAL DE ADMINISTRAÇÃO E FINANÇAS
 
@@ -1498,39 +1498,39 @@ PROCESSO  ADMINISTRATIVO Nº  SEI-350005/000506/2026 -Cujo objeto  é a  contrat
 
 Id:  2728885
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U0030/U0036/U0037
+067
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U0031/U0035
+15
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
 ## SECRETARIA DE ESTADO DE POLÍCIA M  I  L  I  TA  R DIRETORIA DE TRANSPORTE
 
@@ -1597,7 +1597,7 @@ DELMIR DA SILVA GOUVEA
 
 Secretário  de  Estado  de  Polícia  Civil
 
-/U0039
+9
 
 Id:  2728699
 
@@ -1681,17 +1681,17 @@ PROCESSO  Nº SEI-390001/000066/2026  -  AUTORIZO a cessão  do servidor  SÉRGI
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 Janeiro  GSI/RJ,  sem  ônus para  o cessionário,  pelo  período de  2 (dois) anos,  com validade  a contar  de 13 de  abril de  2026, podendo ser  renovada  mediante  solicitação  do  órgão  cessionário,  e  revogada  a qualquer tempo, mediante critério de conveniência e oportunidade, por decisão  deste  Titular  da  Pasta.
 
@@ -1887,17 +1887,17 @@ DESIGNA ,  como  sindicante, o  Inspetor  de  Polícia Penal JADER BRIGIDA CORDE
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 DESIGNA ,  como  sindicante, o  Inspetor  de  Polícia Penal JADER BRIGIDA CORDEIRO  SILVA , ID.  5009287-1. Fixa o  prazo de  30 (trinta) dias, a partir da data da  publicação, para a conclusão dos trabalhos. Processo  nº  SEI-210001/040440/2026.
 
@@ -1975,23 +1975,23 @@ DESIGNA , como  Sindicante, o Inspetor de  Polícia Penal THIAGO SANTOS  RAINHO 
 
 DESIGNA , como  Sindicante, o Inspetor de  Polícia Penal S  I  L VA  N  O FONSECA  DA  VEIGA , ID.  43815588  .  Fixa  o  prazo de  30  (trinta) dias, a partir da data da  publicação, para a conclusão dos trabalhos. Processo  n.º  SEI-210001/036632/2026.
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0037
+067
 
-/U006F
+o
 
 ## CADEIA PÚBLICA COTRIM NETO
 
@@ -2061,7 +2061,7 @@ PROCESSO.  Nº  SEI-210001/033671/2026R  H  E  U  RY  LAYME  SCHEIDEGGER  CONTSA
 
 PROCESSO. Nº SEI-210001/036655/2026ANDERSON DOS SANTOS FELIPPE ID:  50754106 CONCEDO 03  (três) meses de  Licença Prêmio  relativa  ao  Período  Base  de  01/01/2021  a  14/02/2026.
 
-/U0049
+I
 
 ## DE 10/04/2026
 
@@ -2133,17 +2133,17 @@ Id:  2728935
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## Secretaria de Estado de Defesa Civil
 
@@ -2233,17 +2233,17 @@ Id:  2728901
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
 Art. 2º - Os  recursos do  COFI-RAPS em  2026 serão  destinados aos municípios  que  tiverem  serviços  de  saúde  mental  adequados  aos  critérios  técnicos  desta  Resolução.
 
@@ -2308,25 +2308,25 @@ Art.  8º -  Os recursos financeiros de que tratam  esta Deliberação correrão
 
 - 100,  122  e  148.
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0037
+067
 
-/U002D
+-
 
-/U006F
+o
 
 - Art.  9° -  O  repasse  dos  recursos  será  imediatamente  interrompido  caso  o  município  beneficiário  deixe  de  atender  a  um  dos  critérios  ou  requisitos que  constam na  presente Resolução,  e, nos  casos excepcionais,  por  interesse  público.
 - Art.  10 -  Esta  Resolução  entrará  em  vigor  na  data  de  sua  publicação produzindo  efeitos  a  partir  de  1º  de  janeiro  de  2026.
@@ -2362,17 +2362,17 @@ Centros  de  Referência  para  Atendimento  de  Acidentes  por  Animais  Peçon
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 | Va  l  e  n  ç   a  R$  442.418,40  Va  r  r  e  -  S  a   i  ----  Va  s  s  o  u  r   a  s  R$  383.155,20  Volta  Redonda  R$  916.977,60  Estimativa  para  adicional  do  indicador  Supervisão  Clínico-Institucional :  R$  3.564.000,00  TO  TA  L  ## R$  51.083.805,60   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2490,17 +2490,17 @@ Id:  2728788
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE SAÚDE COMISSÃO DE INTERGESTORES BIPARTITE
 
@@ -2591,39 +2591,39 @@ PACTUA,  O  PROJETO  DE  TRANSPORTE  SANITÁRIO ELETIVO REFERENTE A PROPOSTA Nº
 
 ## Rio  de  Janeiro,  09  de  abril  de  2026 CLAUDIA MARIA BRAGA DE MELLO Presidente
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0049
+I
 
-/U0030/U0036/U0037
+067
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U002D
+-
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0031/U0035
+15
 
-/U0044/U0045
+DE
 
 ## SECRETARIA DE ESTADO DE SAÚDE SUBSECRETARIA DO FUNDO ESTADUAL DE SAÚDE
 
@@ -2701,17 +2701,17 @@ Art.1º -  Conceder Licença  Inicial  de  Funcionamento aos  estabelecimentos  
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
 Art.  2º  Esta  Portaria  entra  em  vigor  na  data  de  sua  publicação. Rio  de  Janeiro,  09  de  abril  de  2026
 
@@ -2899,17 +2899,17 @@ DESIGNA JULIANA DE ARAUJO  VANELIS SOARES ,  Prof.  Doc.  I, ID  50716867/02,  p
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 teriormente  ocupada  por  Karla  Alexandra  Sampaio  Sant'Anna  Dias,  ID 44209983/01.  Processo  nº  SEI-030001/109728/2025.
 
@@ -2959,7 +2959,7 @@ PROMOVE por formação  o servidor MIRIAN PEREIRA  LIMA GONC  A  LV  E  S  , ID.
 
 PROMOVE por formação  o  servidor RENATA FALCAO  ANGELO S  A  N  TO  , ID.  Funcional  37010565/01, matrícula  846417-4,  Professor Docente II  22  horas,  do  nível  C  para  o  nível  D,  tendo  em  vista  o  dis-
 
-/U0049
+I
 
 - posto  no art.  30 da  Lei nº  1614, de  24 de  janeiro de  1990 e  no uso das atribuições legais conferidas pelo Decreto Estadual nº 45.046/2014.  Processo  nº  SEI-030001/035449/2026.
 
@@ -3057,17 +3057,17 @@ EXONERA a pedido,  nos  termos do  art.  54, inciso  I,  do Decreto  nº 2479/79
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 EXONERA a  pedido,  nos termos  do  art.  54,  inciso  I, do  Decreto  nº 2479/79, o servidor CINTIA DIEL HANG FUNCHAL ,  Professor  Docente  I  18h,  nível  D,  referência  6,  Identidade  Funcional  n°  42037077,  vínculo  02,  matrícula  n°  945181-6,  do  Quadro  I,  da  Secretaria  de  Estado de  Educação,  com  validade  a  contar  de  03/04/2026.  Processo  nº  SEI030001/023310/2026.
 
@@ -3309,17 +3309,17 @@ Art. 1º -  Autorizar,  nos  termos  da  legislação  vigente,  o  funcionament
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 Laudo Favorável da Comissão de Vi  s  t  o  r  i  a  : 28/03/2025. Eficácia a partir de: 28/02/2025. Fundamentação Legal: Del.  CEE  nº  388  art.  56  e  58. Capacidade máxima de matrículas: 330  alunos,  distribuídos  em  02 turnos. Cursos a serem ministrados: Ensino  Médio. Art. 2º -  Laudo Técnico  de  Acessibilidade e  Segurança Predial:  registrado  no  CREA-RJ  em  17/07/2024,  sob  ART  o  nº  2020240216598.
 
@@ -3389,27 +3389,27 @@ DESIGNA  OS PROFESSORES  INSPETORES ESCOLARES PARA COMPOR COMISSÃO REFERENTE AO
 
 A  COORDENADORIA GERAL  DE  INSPEÇÃO ESCOLAR,  CERTIFICAÇÃO  E  ACERVO ,  no  uso  de suas  atribuições  legais  e  tendo  em
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U002D
+-
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0037
+067
 
-/U006F
+o
 
-/U0031 /U0039
+1 9
 
 vista a necessidade de atendimento ao processo nº SEI030001/094822/2025.
 
@@ -3477,39 +3477,39 @@ Rio  de  Janeiro,  13  de  abril  de  2026
 
 ## RITA  DE  CASSIA  FAVORETO Corregedora
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0030/U0036/U0037
+067
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0031/U0035
+15
 
-/U0049
+I
 
-/U0044/U0045
+DE
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 Id:  2728677
 
@@ -3581,17 +3581,17 @@ PROCESSO  Nº SEI-260001/000137/2026  -  APROVO a  contratação, por  dispensa 
 
 <!-- image -->
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 N°  14.133/2021,  com a  empresa  Imprensa  Oficial  do Estado  do  Rio de  Janeiro,  CNPJ n.º  28.542.017/0001-90,  referente  à aquisição  de Certificado Digital  Tipo A3 Pessoa  Jurídica com Token, para  a Secretaria de Estado de Ciência, Tecnologia e Inovação, CNPJ: 27.865.021/0001-26.
 
@@ -3800,17 +3800,17 @@ Id:  2728869
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
 cartão  tipo  Duodesign  250g,  com  laminação fosca,  e  o  miolo  deverá ser impresso em  papel couchê 90g, com  acabamento em lombada quadrada,  conforme especificações  técnicas  constantes  no Termo  de Referência, em favor da  empresa SORAYA DOS SANTOS DAMASCO,  CNPJ:  36.370.614/0001-02, no  valor  total  de R$  58.670,00  (cinquenta e oito mil, seiscentos e  setenta reais), nos termos do artigo 71,  inciso  IV  e  §  4º  da  Lei  nº  14.133/2021.
 
@@ -4024,17 +4024,17 @@ Id:  2728828
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0052/U0049/U004F
+RIO
 
 ## Secretaria de Estado de Esporte e Lazer
 
@@ -4256,17 +4256,17 @@ Id:  2728879
 
 <!-- image -->
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 ## SECRETARIA DE ESTADO DE INFRAESTRUTURA E  OBRAS PÚBLICAS SUBSECRETARIA DE FINANÇAS
 
@@ -4362,39 +4362,39 @@ José  Jorge  Fernandes  Batista,  ID  Funcional  nº  2850982-0;
 
 Marcela  Gomes  da  Silva  Alvarenga,  ID  Funcional  nº  5128821-4.
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U004E
+N
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0030/U0036/U0037
+067
 
-/U002D
+-
 
-/U006F
+o
 
-/U0031/U0035
+15
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0032/U0030/U0032/U0036
+2026
 
 Art.  2º -  A  presente  Portaria  entra  em  vigor  na  data  de  sua  publicação no  DOERJ,  com efeitos  a  contar  de  26/03/2026da data  da  publicação do  Contrato supramencionado,  revogadas as  disposições em  contrário.
 
@@ -4494,41 +4494,41 @@ DIRETOR  PRESIDENTE DA  EMPRESA DE  OBRAS PÚBLICAS  DO ESTADO DO RIO DE JANEIRO
 
 gulamento  de Licitações  e  Contrato  da EMOP-RJ  e  a indicação  da
 
-/U0032/U0034
+24
 
-/U002D
+-
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U0041/U004E/U004F
+ANO
 
-/U0030/U0036/U0037
+067
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0031/U0035
+15
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 Comissão  de  Gestora do  Novo  PAC  (129578554) constante  do  Processo  SEI-330003/002768/2025;
 
@@ -4620,17 +4620,17 @@ Art.  2º -  Designar o servidor o ROMUALDO  MELLO DOS SANTOS, ID Funcional nº 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
 Art.  3º -  A  Comissão em  questão  passa a  vigorar  com a  seguinte composição:
 
@@ -4830,17 +4830,17 @@ O  PRESIDENTE DO  INSTITUTO  ESTADUAL  DE ENGENHARIA  E ARQUITETURA, no uso  de 
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Caroline  da Conceição  Souza,  ID Funcional  n°5142976-4, para  exercer  a  função  de  Gestora  da  Comissão  e  Fiscalização,  em  SUBSTITUIÇÃO ao servidor Felipe Lino  Ribeiro da Costa, ID Funcional n° 5139729-3,  bem como  o servidor  Marcelo Cardozo  Franco, ID  Funcional  n°5161647-5,  para  exercer  a  função  de  fiscal  suplente.
 
@@ -5035,7 +5035,7 @@ Regina  Célia  Martins  da  Veiga  -  ID  5006803-2  -  Cargo:  Coordenadora;
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
 Como Fiscais  Titulares:
 
@@ -5051,15 +5051,15 @@ Rio  de  Janeiro,  14  de  abril  de  2026
 
 ## DEBORA DE SOUZA CRAVEIRO Superintendente  de  Administração  e  Finanças
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 Id:  2728781
 
@@ -5320,17 +5320,17 @@ Id:  2728657
 
 <!-- image -->
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
 ## SECRETARIA DE ESTADO DE FAZENDA SUBSECRETARIA DE ESTADO DE RECEITA SUPERINTENDÊNCIA DE ATENDIMENTO AO CONTRIBUINTE AUDITORIA FISCAL REGIONAL SERRANA - AFR 34.01
 
@@ -5394,25 +5394,25 @@ CASA DE CARNES MAROTO LTDA CNPJ 25.302.073/0001-69  -  Processo  nº  SEI-040006
 
 CELSO RENATO BRANCHER CPF 046.923.459-85  -  Processo  nº  SEI-040006/006286/2026 Auto  de  Infração  nº  03.690060-3,  de  08/02/2026 Valor  reclamado:  R$  4.960,41.
 
-/U0041/U004E/U004F
+ANO
 
-/U002D
+-
 
-/U004E
+N
 
-/U004C/U0049/U0049
+LII
 
-/U002D
+-
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0030/U0036/U0037
+067
 
-/U002D
+-
 
-/U006F
+o
 
 CF LOG TRANSPORTES LTDA CNPJ 19.004.938/0005-31  -  Processo  nº  SEI-040006/041415/2025 Auto  de  Infração  nº  03.685066-7,  de  25/10/2025 Valor  reclamado:  R$  127.212,88.
 
@@ -5582,17 +5582,17 @@ Id:  2728619
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -5780,17 +5780,17 @@ Id:  2728638
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR DIRETORIA DE RECRUTAMENTO E SELEÇÃO DE PESSOAL
 
@@ -5825,41 +5825,41 @@ II  CPM  -  1º  ANO
 | OR.  INSCRIÇÃO  C  A  N  D  I  D  ATO  DATA DE NASCIMENTO  CONCORRÊNCIA  ANO A CURSAR  01  2026602  GIOVANI DE AMORIM AZEVEDO FILHO  11  /  0  7  /  2   0  1  0  DEPENDENTE  1º  Ano  02  20263872  ALYCIA SOBRAL FERREIRA  08/09/2010  DEPENDENTE  1º  Ano  03  2026328  MIGUEL REBELLO GIACOMELLE  0  9  /  0  5  /   2  0  11  DEPENDENTE  1º  Ano  04  2026540  GABRIELA BARBOSA COSTA DOS SANTOS  0  4  /  0  1  /   2  0  11  DEPENDENTE  1º  Ano  05  2026383  LAVÍNIA  NOBRE HORSTH  1  7  /  0  5  /   2  0  11  DEPENDENTE  1º  Ano  06  20261543  MIGUEL ROCHA DE OLIVEIRA  1  5  /  0  2  /   2  0  11  NÃO DEPENDENTE  1º  Ano  07  20262569  LAURA NUNES BASTOS  13/12/2010  ÓRFÃO  1º  Ano  08  20263093  ARTHUR ROMÃO MARTINS DE BRITO  16/04/2010  ÓRFÃO  1º  Ano   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-/U0041/U004E/U004F
+ANO
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U002D
+-
 
-/U004C/U0049/U0049
+LII
 
-/U0031/U0035
+15
 
-/U002D
+-
 
-/U004E
+N
 
-/U0044/U0045
+DE
 
-/U006F
+o
 
-/U002D
+-
 
-/U0030/U0036/U0037
+067
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U002D
+-
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U0044/U0045
+DE
 
-/U0049
+I
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0032/U0039
+29
 
 ## Secretaria de Estado de Polícia Civil
 
@@ -5887,15 +5887,15 @@ O DIRETOR-GERAL  DA ACADEMIA ESTADUAL DE  POLÍCIA SYLVIO  TERRA -  ACADEPOL , n
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 ## III  CPM  -  6º  ANO
 
@@ -5909,7 +5909,7 @@ III  CPM  -  9º  ANO
 
 Id:  2728755
 
-/U0044/U004F
+DO
 
 PRAZO: O prazo de  validade da Ata de Registro de  Preços é de 01 (um) ano, contado a partir do 1º (primeiro) dia útil subsequente à data de  divulgação  no  PNCP.
 
@@ -6126,17 +6126,17 @@ Id:  2728957
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 FUNDAMENTAÇÃO: Nos termos  da Lei  Federal nº  14.133, de  1º de abril  de  2021. PA  R  T  E  S  : Estado  do  Rio  de  Janeiro,  através  da  Secretaria  de  Estado de Saúde do Rio de Janeiro, e a empresa MEDILAR IMPORTAÇÃO E DISTRIBUIÇÃO DE PRODUTOS MÉDICO HOSPITALARES S/A. OBJETO: Registro  de Preços  para  Aquisição  de Medicamento  (VALGANCICLOVIR 450 MG - COMPRIMIDO). VALOR TOTAL ADJUDICADO: R$ 328.582,80 (trezentos e vinte e oito  mil  quinhentos  e  oitenta  e  dois  reais  e  oitenta  centavos) PRAZO: O  prazo de validade  da Ata de Registro  de Preços é  de 01 (um) ano, contado a partir do 1º (primeiro) dia útil subsequente à data de  divulgação  no  PNCP. DATA DA ASSINATURA :  13/04/2026
 
@@ -6270,17 +6270,17 @@ INSTRUMENTO: Termo de Ajuste  de Contas nº 429/2026. PA  R  T  E  S  : Fundaç�
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 133.630,61  (cento e  trinta e  três  mil, seiscentos  e trinta  reais e  sessenta  e um  centavos). F  U  N  D  A  M  E  N  TO  : Decidido no  processo administrativo SEI-080002/004234/2026. DATA DA ASSINATURA: 13/04/2026.
 
@@ -6419,17 +6419,17 @@ O DIRETOR  DA UNIDADE  CEJA MADUREIRA, Censo Escolar 33075042, torna  pública a
 
 <!-- image -->
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U004F
+DO
 
 DE 2026:Aliane dos  Santos de Jesus Martins,Amanda  Marise de Oliveira,Anna  Beatriz  Ferreira  Amorim,Bruno  Araújo  Domingues,Claudia Jessyca da  Conceição da Silva,Emelly Izabelly  Lopes Pereira,Fabiana dos Santos  Tavares,Gleison Fernandes Nunes da  Silva,Guilherme do Nascimento  Marques,Irani Fonseca  Filho,Jeferson  Ricardo Carneiro  e Silva,Natasha  Aquino da  Silva,Raphael  Pires Nogueira,Rayane  Vitória Souza Passos,Rodrigo  Viegas do Amaral,Rômulo da  Silva de Oliveira,Thiago  Fernandes  Santos Carvalho,Valentina  Barros  Santos,Valessa Vicente Domingos,Secretária  Escolar: Iacy de Oliveira  Gama e Silva Langer,  designada  no  DOERJ  de  01/09/2025,  página  18,Diretor  Hilario Araujo Ribeiro Junior, designado no DOERJ de 24/02/2025, página 43, Servidores responsáveis pela publicação Rita de Cassia Santos Couto, ID-4326126-4, Lidia  Dias do  Amaral Corrêa, ID-  4182154-8 Processo nº  SEI-030001/036380/2026.
 
@@ -6573,21 +6573,21 @@ DATA DA ASSINATURA: 14  de  abril  de  2026.
 
 FUNDAMENTO DO ATO: Processo  nº  SEI-260007/010786/2025.
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0049
+I
 
-/U0031/U0035
+15
 
-/U0044/U0045
+DE
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
 I  N  S  T  R  U  M  E  N  TO
 
@@ -6727,39 +6727,39 @@ Id:  2728830
 
 Editais  e  anexos  disponíveis  no  site:  www.compras.rj.gov.br
 
-/U0041/U004E/U004F
+ANO
 
-/U004C/U0049/U0049
+LII
 
-/U004E
+N
 
-/U002D
+-
 
-/U002D
+-
 
-/U0030/U0036/U0037
+067
 
-/U0049
+I
 
-/U0050 /U0041/U0052/U0054/U0045
+P ARTE
 
-/U002D
+-
 
-/U006F
+o
 
-/U0051/U0055/U0041/U0052/U0054 /U0041/U002D/U0046/U0045/U0049/U0052/U0041
+QUART A-FEIRA
 
-/U0044/U0045
+DE
 
-/U0032/U0030/U0032/U0036
+2026
 
-/U0044/U0045
+DE
 
-/U0031/U0035
+15
 
-/U002D
+-
 
-/U0041/U0042/U0052/U0049/U004C
+ABRIL
 
 ## PREGÃO ELETRÔNICO Nº 161/2026
 
@@ -6895,17 +6895,17 @@ F  U  N  D  A  M  E  N  TO  : Processo  nº  SEI-260009/000651/2020.
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0044/U0045
+DE
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
 A  UNIVERSIDADE ESTADUAL  DO NORTE  FLUMINENSE DARCY RIBEIRO - UENF torna público que foi ANULADO o Pregão Eletrônico nº  017/2025  R1,  cujo  objeto  era a  aquisição  de  transformadores,  por ilegalidade  insanável  (divergências  e/ou  equívocos  nas  especificações do objeto infringindo os princípios da competitividade e isonomia), com fundamento no art. 71 da  Lei nº 14.133/2021. Processo nº SEI260002/002738/2025.
 
@@ -7281,17 +7281,17 @@ Id:  2728763
 
 <!-- image -->
 
-/U0044/U004F
+DO
 
-/U0045/U0053/U0054/U0041/U0044/U004F
+ESTADO
 
-/U0044/U004F
+DO
 
-/U0052/U0049/U004F
+RIO
 
-/U0044/U0045
+DE
 
-/U004A/U0041/U004E/U0045/U0049/U0052/U004F
+JANEIRO
 
 <!-- image -->
 

@@ -1,4 +1,5 @@
 docling>=2.0.0
 pandas>=2.0.0
+pypdf>=5.0.0
 requests>=2.31.0
 spacy>=3.7.0
