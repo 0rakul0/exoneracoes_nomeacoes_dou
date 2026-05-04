@@ -1,0 +1,3490 @@
+<!-- paginas 1-15 -->
+
+ESTA PARTE É EDITADA ELETRONICAMENTE DESDE 3 DE MARÇO DE 2008
+
+<!-- image -->
+
+## PARTE I PODER EXECUTIVO
+
+<!-- image -->
+
+## GOVERNADOR
+
+Cláudio
+
+Bomfim de Castro e Silva
+
+VICE-GOVERNADOR
+
+Thiago Pampolha Gonçalves
+
+## ÓRGÃOS DO PODER EXECUTIVO
+
+SECRETARIA DE ESTADO DA CASA CIVIL
+
+Nicola
+
+Moreira
+
+Miccione
+
+SECRETARIA DE ESTADO DO GABINETE DO GOVERNADOR Rodrigo Ratkus Abel
+
+SECRETARIA DE ESTADO DE GOVERNO
+
+Andre
+
+Luis
+
+Dantas
+
+Ferreira
+
+SECRETARIA DE ESTADO DE PLANEJAMENTO E GESTÃO
+
+Adilson
+
+de Faria
+
+Maciel
+
+SECRETARIA DE ESTADO DE FAZENDA
+
+Leonardo
+
+Lobo Pires
+
+SECRETARIA DE ESTADO DE DESENVOLVIMENTO ECONÔMICO, INDÚSTRIA, COMÉRCIO E SERVIÇOS Fernanda Pereira Curdi (Interina)
+
+SECRETARIA DE ESTADO DE POLÍCIA MILITAR
+
+Marcelo
+
+de Menezes Nogueira
+
+SECRETARIA DE ESTADO DE POLÍCIA CIVIL
+
+Marcus
+
+Vinícius Amim Fernandes
+
+SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA
+
+Maria Rosa Lo Duca Nebel
+
+SECRETARIA DE ESTADO DE DEFESA CIVIL
+
+Leandro
+
+Sampaio Monteiro
+
+SECRETARIA DE ESTADO DE SAÚDE
+
+Cláudia
+
+Maria
+
+Braga
+
+de Mello
+
+SECRETARIA DE ESTADO DE EDUCAÇÃO
+
+Roberta
+
+Barreto
+
+de Oliveira
+
+SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+
+Anderson
+
+Luis
+
+de Moraes
+
+SECRETARIA DE ESTADO DE TRANSPORTE E MOBILIDADE URBANA W ashington Reis de Oliveira
+
+SECRETARIA DE ESTADO DO AMBIENTE E SUSTENTABILIDADE Bernardo Chim Rossi
+
+SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA, PESCA E ABASTECIMENTO Deodalto José Ferreira SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA Danielle Christian Ribeiro Barros SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL E DIREITOS HUMANOS Rosangela de Souza Gomes SECRETARIA DE ESTADO DE ESPORTE E LAZER Rafael Carneiro Monteiro Picciani SECRETARIA DE ESTADO DE TURISMO Gustavo Reis Ferreira CONTROLADORIA GERAL DO ESTADO Demetrio Abdennur Farah Neto GABINETE DE SEGURANÇA INSTITUCIONAL DO GOVERNO DO ESTADO DO RIO DE JANEIRO Edu Guimarães ce Souza SECRETARIA DE ESTADO DE TRABALHO E RENDA Felipe Rangel Garcia SECRETARIA EXTRAORDINÁRIA DE REPRESENTAÇÃO DO GOVERNO EM BRASÍLIA André Luís Dantas Ferreira (Interino) SECRETARIA DE ESTADO DE TRANSFORMAÇÃO DIGITAL José Mauro de Farias Junior SECRETARIA DE ESTADO DE INFRAESTRUTURA E OBRAS PÚBLICAS Uruan Cintra de Andrade SECRETARIA DE ESTADO DE ENERGIA E ECONOMIA DO MAR Rodrigo Ratkus Abel (Interino) SECRETARIA DE ESTADO DE HABITAÇÃO DE INTERESSE SOCIAL Bruno Felgueira Dauaire SECRETARIA DE ESTADO INTERGERACIONAL DE JUVENTUDE E ENVELHECIMENTO SAUDÁVEL Isabela Silva Alves (Interina) SECRETARIA DE ESTADO DA MULHER Heloisa Helena de Alencar Aguiar SECRETARIA DE ESTADO DAS CIDADES Douglas Ruas dos Santos SECRETARIA DE ESTADO DE DEFESA DO CONSUMIDOR Gutemberg de Paula Fonseca SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA Victor Cesar Carvalho dos Santos PROCURADORIA GERAL DO ESTADO Renan Miguel Saad
+
+## GOVERNO DO ESTADO
+
+www.rj.gov.br
+
+## ATOS DO PODER LEGISLATIVO
+
+<!-- image -->
+
+<!-- image -->
+
+ANO L - SUPLEMENTO AO Nº 131-S
+
+Q  U  I  N  TA  -  F  E  I   R   A  , 18 DE JULHO DE 2024
+
+## S U M Á R I O
+
+Atos  do  Poder  Legislativo
+
+................................................................  1
+
+Atos  do  Poder  Executivo
+
+................................................................
+
+...
+
+Gabinete  do  Governador.............................................................
+
+...
+
+Governadoria  do  Estado .............................................................
+
+...
+
+Gabinete  do  Vice-Governador ......................................................
+
+...
+
+Vice-Governadoria  do  Estado.......................................................
+
+...
+
+## ÓRGÃOS DA CHEFIA DO PODER EXECUTIVO (Secretarias de Estado)
+
+Casa Civil ................................................................................
+
+Gabinete  do  Governador.............................................................
+
+Governo ..................................................................................
+
+Planejamento  e  Gestão ..............................................................
+
+Fazenda ..................................................................................
+
+Desenvolvimento  Econômico,  Indústria,  Comércio  e  Serviços .............
+
+Polícia  Militar ............................................................................
+
+Polícia  Civil ..............................................................................
+
+Administração  Penitenciária .........................................................
+
+Defesa  Civil..............................................................................
+
+Saúde .....................................................................................
+
+Educação  .................................................................................
+
+Ciência,  Tecnologia  e  Inovação ....................................................
+
+Transportes  e  Mobilidade  Urbana .................................................
+
+Ambiente  e  Sustentabilidade........................................................
+
+Agricultura,  Pecuária,  Pesca  e  Abastecimento .................................
+
+Cultura  e  Economia  Criativa ........................................................
+
+Desenvolvimento  Social  e  Direitos  Humanos...................................
+
+Esporte  e  Lazer ........................................................................
+
+Turismo ...................................................................................
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+Controladoria  Geral  do  Estado .....................................................
+
+...
+
+Gabinete de Segurança Institucional do Governo do Estado do Rio de Janeiro...  ...
+
+Trabalho  e  Renda......................................................................
+
+Extraordinária  de  Representação  do  Governo  em  Brasília .................
+
+Transformação  Digital .................................................................
+
+Infraestrutura  e  Obras  Públicas ....................................................
+
+Energia  e  Economia  do  Mar........................................................
+
+Habitação  de  Interesse  Social......................................................
+
+Intergeracional  de  Juventude  e  Envelhecimento  Saudável .................
+
+Mulher  .....................................................................................
+
+Cidades ...................................................................................
+
+Defesa  do  Consumidor ...............................................................
+
+Segurança  Pública.....................................................................
+
+Procuradoria  Geral  do  Estado ......................................................
+
+AVISOS, EDITAIS E TERMOS DE CONTRATO
+
+....................................
+
+REPARTIÇÕES FEDERAIS
+
+...............................................................
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+8
+
+9
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+12
+
+13
+
+<!-- image -->
+
+<!-- image -->
+
+15
+
+4
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+16
+
+17
+
+<!-- image -->
+
+<!-- image -->
+
+PODER
+
+EXECUTIV O
+
+19
+
+<!-- image -->
+
+<!-- image -->
+
+DIÁRIO
+
+DO
+
+ESTADO
+
+21
+
+DO
+
+RIO
+
+OFICIAL
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+23
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+INSERIR IMAGEM EPS
+
+25
+
+Id:  2588520
+
+27
+
+<!-- image -->
+
+29
+
+30
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+31
+
+## 32
+
+34
+
+35
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+| 36   |
+|------|
+
+37
+
+38
+
+39
+
+40
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+41
+
+42
+
+## 43
+
+45
+
+46
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+47
+
+48
+
+50
+
+51
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+| Id:   |
+|-------|
+
+## Id:  2588521
+
+52
+
+53
+
+55
+
+56
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+57
+
+<!-- image -->
+
+59
+
+60
+
+61
+
+62
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+64
+
+## OUTRAS METAS E PRIORIDADES APROVADAS PELO PODER LEGISLATIVO
+
+HAVENDO DISPONIBILIDADE FINANCEIRA E CONSIDERANDO OS LIMITES DA DESPESA DE PESSOAL E AS /g53/g40/g54/g55/g53/g44/g100/g174/g40/g54 DO REGIME DE /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 FISCAL, O PODER EXECUTIVO /g51/g50/g39/g40/g53/g200 CRIAR /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g36/g53/g44/g36/g15 CASO /g49/g40/g49/g38/g40/g54/g54/g200/g53/g44/g50/g15 DE MODO A ATENDER AOS PISOS SALARIAIS DOS ENFERMEIROS, DOS /g55/g101/g38/g49/g44/g38/g50/g54 DE ENFERMAGEM, DOS AUXILIARES DE ENFERMAGEM E PARTEIRAS.
+
+HAVENDO DISPONIBILIDADE FINANCEIRA E CONSIDERANDO OS LIMITES DA DESPESA DE PESSOAL E AS /g53/g40/g54/g55/g53/g44/g100/g174/g40/g54 DO REGIME DE /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 FISCAL, O PODER EXECUTIVO /g51/g50/g39/g40/g53/g200 CRIAR /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200RIA, CASO /g49/g40/g49/g38/g40/g54/g54/g200/g53/g44/g50/g15 DE MODO A ATENDER AOS PISOS SALARIAIS DO /g48/g36/g42/g44/g54/g55/g101/g53/g44/g50/g15 INCIDENTE APENAS SOBRE O /g49/g203/g57/g40/g47 INICIAL DA CARREIRA DOS /g51/g53/g50/g41/g40/g54/g54/g50/g53/g40/g54/g3/g39/g50/g3/g40/g49/g54/g44/g49/g50/g3/g37/g200/g54/g44/g38/g50/g3/g40/g54/g55/g36/g39/g56/g36/g47
+
+HAVENDO RECURSOS FINANCEIROS /g39/g44/g54/g51/g50/g49/g203/g57/g40/g44/g54/g15 O PODER EXECUTIVO FICA AUTORIZADO A PROMOVER /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA /g38/g50/g49/g38/g40/g54/g54/g173/g50 DE /g53/g40/g38/g50/g48/g51/g50/g54/g44/g100/g173/g50 SOBRE A /g53/g40/g48/g56/g49/g40/g53/g36/g100/g173/g50 DOS SERVIDORES ATIVOS, INATIVOS E PENSIONISTAS DO ESTADO DO RIO DE JANEIRO.
+
+O PODER EXECUTIVO, HAVENDO DISPONIBILIDADE DE RECURSOS FINANCEIROS, E CONSIDERANDO OS LIMITES IMPOSTOS PELO REGIME DE /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 FISCAL, /g51/g50/g39/g40/g53/g200 PROGRAMAR /g39/g50/g55/g36/g100/g174/g40/g54 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36/g54 VISANDO A /g38/g50/g49/g38/g40/g54/g54/g173/g50 DE /g53/g40/g38/g50/g48/g51/g50/g54/g44/g100/g173/g50 SALARIAL PREVISTA NA LEI 9.436, DE 14 DE OUTUBRO DE 2021.
+
+O PODER EXECUTIVO FICA AUTORIZADO, SOB A /g38/g50/g49/g39/g44/g100/g173/g50 DE EXISTIREM RECURSOS FINANCEIROS /g39/g44/g54/g51/g50/g49/g203/g57/g40/g44/g54 E CONSIDERANDO AS NORMAS DO REGIME DE /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 FISCAL, A PROGRAMAR /g39/g50/g55/g36/g100/g174/g40/g54 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36/g54 PARA A /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 PARA PROVIMENTO DE CARGOS NA SECRETARIA DE ESTADO DE /g40/g39/g56/g38/g36/g100/g173/g50 E NA FAETEC, ASSIM COMO NA SECRETARIA DE ESTADO DE /g38/g44/g199/g49/g38/g44/g36/g15 TECNOLOGIA /g40/g3/g44/g49/g50/g57/g36/g100/g173/g50/g17
+
+HAVENDO DISPONIBILIDADE FINANCEIRA E CONSIDERANDO OS LIMITES DA DESPESA DE PESSOAL E AS /g53/g40/g54/g55/g53/g44/g100/g174/g40/g54 DO REGIME DE /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 FISCAL, O PODER EXECUTIVO /g51/g50/g39/g40/g53/g200 CRIAR /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200RIA, CASO /g49/g40/g38/g40/g54/g54/g200/g53/g44/g50/g15DEMODO A PROMOVER CONCURSO /g51/g210/g37/g47/g44/g38/g50 PARA ENGENHEIROS, ARQUITETOS, /g42/g40/g207/g47/g50/g42/g50/g54 E /g38/g36/g53/g55/g207/g42/g53/g36/g41/g50/g54/g17
+
+HAVENDO DISPONIBILIDADE FINANCEIRA E CONSIDERANDO OS LIMITES DA DESPESA DE PESSOAL E AS /g53/g40/g54/g55/g53/g44/g100/g174/g40/g54 DO REGIME DE /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 FISCAL, O PODER EXECUTIVO /g51/g50/g39/g40/g53/g200 CRIAR /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200RIA, CASO /g49/g40/g49/g38/g40/g54/g54/g200/g53/g44/g50/g15 DE MODOAPROMOVERCONCURSO/g51/g210/g37/g47/g44/g38/g50 PARA A SECRETARIA DE ESTADO DE /g54/g36/g210/g39/g40 /g40/g3/g36/g3/g41/g56/g49/g39/g36/g100/g173/g50/g3/g54/g36/g210/g39/g40/g3/g39/g50/g3/g40/g54/g55/g36/g39/g50/g3/g39/g50/g3/g53/g44/g50/g3/g39/g40/g3/g45/g36/g49/g40/g44/g53/g50 -FESRJ.
+
+APOIAR AS /g36/g100/g174/g40/g54 DE /g54/g40/g42/g56/g53/g36/g49/g100/g36 /g51/g210/g37/g47/g44/g38/g36 NAS /g53/g40/g42/g44/g174/g40/g54 NORTE E NOROESTE FLUMINENSE, COM AUMENTO DE EFETIVOS E DE EQUIPAMENTOS.
+
+DE FUNDAMENTAL /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 O GOVERNO DO ESTADO APOIAR OS MUNIC/g203PIOS NA /g48/g36/g49/g56/g55/g40/g49/g100/g173/g50 DAS UNIDADES DE /g54/g36/g210/g39/g40 DA /g41/g36/g48/g203/g47/g44/g36 EM ESPECIAL NOS /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 DAS /g53/g40/g42/g44/g174/g40/g54 NORTE E NOROESTE FLUMINENSE, VISTO QUE /g54/g36/g210/g39/g40 /g51/g210/g37/g47/g44/g38/g36 /g101 UM DEVER DE ESTADO, NA FORMA DO ART.196 /g38/g53/g41/g37/g18/g27/g27/g3/g40/g3/g21/g27/g26/g3/g39/g36/g3/g38/g50/g49/g54/g55/g44/g55/g56/g44/g100/g173/g50/g17/g3/g39/g50/g3/g40/g53/g45/g17
+
+/g36/g47/g101/g48 DAS 10 /g48/g44/g54/g54/g174/g40/g54 APROVADAS PARA O PEDES, SEUS EIXOS ESTRUTURADORES, O PODER EXECUTIVO /g37/g56/g54/g38/g36/g53/g200 OBSERVAR OS /g51/g53/g44/g49/g38/g203/g51/g44/g50/g54 GERAIS ABAIXO VISANDO A /g51/g53/g50/g48/g50/g100/g173/g50 DE /g51/g50/g47/g203/g55/g44/g38/g36/g54 DE DESENVOLVIMENTO E EQUIDADE: MULHERES
+
+I -E MPODERAMENTO DAS MULHERES, NOTADAMENTE DAS NEGRAS;
+
+/g173
+
+/g199
+
+63
+
+65
+
+66
+
+;
+
+- /g44/g44/g3/g16/g3/g44/g49/g38/g47/g56/g54/g173/g50/g3/g39/g36/g3/g51/g40/g54/g54/g50/g36/g3/g38/g50/g48/g3/g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36/g30
+- III - PROTAGONISMO JUVENIL;
+- /g44/g57/g3/g16/g3/g36/g55/g40/g49/g100/g173/g50/g3/g40/g54/g51/g40/g38/g44/g36/g47/g3/g172/g3/g44/g49/g41/g198/g49/g38/g44/g36/g30
+- /g57/g3/g16/g3/g40/g49/g41/g53/g40/g49/g55/g36/g48/g40/g49/g55/g50/g3/g36/g3/g55/g50/g39/g36/g3/g41/g50/g53/g48/g36/g3/g39/g40/g3/g51/g53/g40/g38/g50/g49/g38/g40/g44/g55/g50/g3/g50/g56/g3/g39/g44/g54/g38/g53/g44/g48/g44/g49/g36/g100/g173/g50/g30 VI - DESENVOLVIMENTO, CIDADANIA E DIREITOS EM /g55/g40/g53/g53/g44/g55/g207/g53/g44/g50/g54 DE FAVELA /g40/g3/g39/g40/g48/g36/g44/g54/g3/g200/g53/g40/g36/g54/g3/g51/g50/g51/g56/g47/g36/g53/g40/g54/g30
+- VII -DESENVOLVIMENTO /g54/g56/g54/g55/g40/g49/g55/g200/g57/g40/g47 E /g40/g52/g56/g198/g49/g44/g48/g40 DA /g53/g40/g42/g44/g173/g50 METROPOLITANA;
+- /g57/g44/g44/g44/g3/g16/g3/g39/g40/g54/g40/g49/g57/g50/g47/g57/g44/g48/g40/g49/g55/g50/g3/g54/g56/g54/g55/g40/g49/g55/g200/g57/g40/g47/g3/g40/g3/g40/g52/g56/g198/g49/g44/g48/g40/g3/g39/g50/g3/g44/g49/g55/g40/g53/g44/g50/g53/g30
+- /g44/g59/g3/g16/g3/g51/g53/g40/g54/g40/g53/g57/g36/g100/g173/g50/g3/g39/g36/g54/g3/g38/g50/g48/g56/g49/g44/g39/g36/g39/g40/g54/g3/g55/g53/g36/g39/g44/g38/g44/g50/g49/g36/g44/g54/g30
+- /g59/g3/g16/g3/g41/g50/g48/g40/g49/g55/g50/g3/g172/g3/g51/g36/g53/g55/g44/g38/g44/g51/g36/g100/g173/g50/g3/g51/g50/g51/g56/g47/g36/g53/g17
+
+OPODEREXECUTIVO/g39/g40/g57/g40/g53/g200 EMPREGAR SEUS MELHORES /g40/g54/g41/g50/g53/g100/g50/g54 PARA, HAVENDO DISPONIBILIDADE FINACEIRA, PROGRAMAR RECURSOS /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g50/g54 DESTINADOS /g172 /g38/g50/g49/g57/g50/g38/g36/g100/g173/g50 DE NOVOS SERVIDORES APROVADOS EM CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 REALIZADOS ANTES DA /g36/g39/g40/g54/g173/g50 DO ESTADO DO RIO DE JANEIRO AO REGIME DE /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 FISCAL E SOBRESTADOS PELA LEI 8.391, DE 7 DE MAIO DE 2019, CONSIDERANDO AS NECESSIDADES DE PESSOAL DOS /g207/g53/g42/g173/g50/g54 E ENTIDADES DO PODER EXECUTIVO.
+
+O PODER EXECUTIVO /g39/g40/g48/g50/g49/g54/g55/g53/g36/g53/g200 NO /g54/g203/g55/g44/g50 /g40/g47/g40/g55/g53/g208/g49/g44/g38/g50 DA SECRETARIA DE PLANEJAMENTO E /g42/g40/g54/g55/g173/g50/g15 A /g53/g40/g47/g36/g100/g173/g50 DE TODOS OS SERVIDORES /g47/g50/g55/g36/g39/g50/g54/g3/g40/g48/g3/g38/g36/g39/g36/g3/g207/g53/g42/g173/g50/g3/g39/g36/g3/g36/g39/g48/g44/g49/g44/g54/g55/g53/g36/g100/g173/g50/g3/g51/g210/g37/g47/g44/g38/g36/g3/g39/g44/g53/g40/g55/g36/g3/g40/g3/g44/g49/g39/g44/g53/g40/g55/g36/g17
+
+HAVENDO RECURSOS FINANCEIROS O PODER EXECUTIVO /g51/g50/g39/g40/g53/g200 PREVER NA LEI /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025 A /g39/g40/g54/g55/g44/g49/g36/g100/g173/g50 DE RECURSOS PARA O FOMENTO E INCENTIVO AOS BLOCOS DE CARNAVAL DE RUA.
+
+HAVENDO RECURSOS FINANCEIROS /g39/g44/g54/g51/g50/g49/g203/g57/g40/g44/g54 O PODER EXECUTIVO /g51/g50/g39/g40/g53/g200 PREVER NA LEI /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025 A /g39/g40/g54/g55/g44/g49/g36/g100/g173/g50 DERECURSOSPARAAREFORMAE/g53/g40/g36/g39/g40/g52/g56/g36/g100/g173/g50 DE SALAS DE AULA NA REDE ESTADUAL DE ENSINO.
+
+VERIFICADA A /g40/g59/g44/g54/g55/g199/g49/g38/g44/g36 DE DISPONIBILIDADES FINANCEIRAS O PODER EXECUTIVO /g51/g50/g39/g40/g53/g200 PROGRAMAR NA LEI /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025 A /g39/g40/g54/g55/g44/g49/g36/g100/g173/g50 DE RECURSOS PARA A /g36/g52/g56/g44/g54/g44/g100/g173/g50 DE EQUIPAMENTOS /g55/g40/g38/g49/g50/g47/g207/g42/g44/g38/g50/g54/g3/g51/g36/g53/g36/g3/g36/g54/g3/g54/g36/g47/g36/g54/g3/g39/g40/g3/g36/g56/g47/g36/g3/g39/g36/g3/g53/g40/g39/g40/g3/g40/g54/g55/g36/g39/g56/g36/g47/g3/g39/g40/g3/g40/g49/g54/g44/g49/g50/g17
+
+HAVENDO RECURSOS FINANCEIROS O PODER EXECUTIVO /g51/g50/g39/g40/g53/g200 PREVER NA LEI /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025 A /g39/g40/g54/g55/g44/g49/g36/g100/g173/g50 DE RECURSOS PARA CURSOS DE /g40/g59/g55/g40/g49/g54/g173/g50 E /g38/g36/g51/g36/g38/g44/g55/g36/g100/g173/g50 /g55/g40/g38/g49/g50/g47/g207/g42/g44/g38/g36 PARA OS PROFISSIONAIS DA REDE ESTADUAL DE ENSINO.
+
+FICA O PODER EXECUTIVO AUTORIZADO A PREVER RECURSOS NA LEI /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 DO /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025 PARA A /g51/g53/g40/g57/g40/g49/g100/g173/g50 DE EVENTOS /g38/g47/g44/g48/g200/g55/g44/g38/g50/g54/g3/g40/g59/g55/g53/g40/g48/g50/g54/g17
+
+FICA O PODER EXECUTIVO AUTORIZADO A PREVER, HAVENDO RECURSOS FINANCEIROS /g39/g44/g54/g51/g50/g49/g203/g57/g40/g44/g54/g15 /g39/g50/g55/g36/g100/g174/g40/g54 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36/g54 PARA /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE/g38/g47/g203/g49/g44/g38/g36/g54 DE/g51/g53/g40/g57/g40/g49/g100/g173/g50 AO/g38/g198/g49/g38/g40/g53 DE MAMA NO ESTADO DO RIO DE JANEIRO.
+
+FICA O PODER EXECUTIVO AUTORIZADO A PROGRAMAR, HAVENDO DISPONIBILIDADES FINANCEIRAS, RECURSOS NA LEI DO /g50/g53/g100/g36/g48/g40/g49/g55/g50 ANUAL PARA /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, PARA O DESASSOREAMENTO DE RIOS, /g38/g207/g53/g53/g40/g42/g50/g54 E LAGOS.
+
+HAVENDO DISPONIBILIDADES FINANCEIRAS E COMPATIBILIDADE COM AS DIRETRIZES DO PEDES E DO PPA, O GOVERNO ESTADUAL /g51/g50/g39/g40/g53/g200 PREVER NA LEI /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 ANUAL PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025 /g39/g40/g54/g55/g44/g49/g36/g100/g173/g50 DE RECURSOS PARA INCENTIVO E /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 DO SETOR DE /g38/g50/g49/g54/g55/g53/g56/g36/g100/g173/g50 E REPARO NAVAL NO ESTADO DO RIO DE JANEIRO.
+
+O PODER EXECUTIVO /g51/g50/g39/g40/g53/g200 PROGRAMAR NA LEI /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 ANUAL PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, HAVENDO RECURSOS FINANCEIROS, /g39/g40/g54/g55/g44/g49/g36/g100/g173/g50/g3/g39/g40/g3/g53/g40/g38/g56/g53/g54/g50/g54/g3/g51/g36/g53/g36/g3/g50/g37/g53/g36/g54/g3/g39/g40/g3/g38/g50/g49/g55/g40/g49/g100/g173/g50/g3/g39/g40/g3/g40/g49/g38/g50/g54/g55/g36/g54/g17
+
+- O PODER EXECUTIVO /g51/g50/g39/g40/g53/g200/g15 VERIFICADA A /g40/g59/g44/g54/g55/g199/g49/g38/g44/g36 E RECURSOS FINANCEIROS E RESPEITADAS AS DIRETRIZES DO PEDES E DO PPA, PREVER NA LEI /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025 A /g39/g40/g54/g55/g44/g49/g36/g100/g173/g50 DE RECURSOS PARA FRESAGEM E RECAPEAMENTO DAS RODOVIAS E ESTRADAS ESTADUAIS.
+
+O PODER EXECUTIVO /g51/g50/g39/g40/g53/g200 PROGRAMAR NA LEI /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 ANUAL PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, HAVENDO RECURSOS FINANCEIROS E RESPEITADAS AS DIRETRIZES DO PEDES E DO PPA, RECURSOS PARA CAMPANHAS EDUCATIVAS, RESGATE DA /g48/g40/g48/g207/g53/g44/g36 DO ESTADO DO RIO DE /g45/g36/g49/g40/g44/g53/g50/g3/g40/g3/g51/g36/g53/g36/g3/g36/g3/g53/g40/g36/g47/g44/g61/g36/g100/g173/g50/g3/g39/g40/g3/g41/g40/g44/g53/g36/g54/g3/g39/g40/g3/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g3/g51/g50/g51/g56/g47/g36/g53/g17
+
+- O PODER EXECUTIVO /g51/g50/g39/g40/g53/g200/g15 HAVENDO DISPONIBILIDADES FINACEIRAS, PROGRAMAR NA LEI /g50/g53/g100/g36/g48/g40/g49/g55/g36/g53/g44/g36 PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025 A /g39/g40/g54/g55/g44/g49/g36/g100/g173/g50 DERECURSOSPARACOMPRAE/g48/g36/g49/g56/g55/g40/g49/g100/g173/g50 DE PARELHOS DE /g38/g47/g44/g48/g36/g55/g44/g61/g36/g100/g173/g50/g3/g49/g36/g54/g3/g54/g36/g47/g36/g54/g3/g39/g40/g3/g36/g56/g47/g36/g3/g49/g36/g3/g53/g40/g39/g40/g3/g40/g54/g55/g36/g39/g56/g36/g47/g3/g39/g40/g3/g40/g49/g54/g44/g49/g50/g17
+
+HAVENDO RECURSOS FINANCEIROS, CONSIDERADOS AINDA OS LIMITES DE PESSOAL PREVISTOS NA LEI COMPLEMENTAR NO 101/2000 E AS /g53/g40/g54/g55/g53/g44/g100/g174/g40/g54 DO REGIME DE /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 FISCAL, /g51/g50/g39/g40/g53/g200 O GOVERNO DO ESTADO DO RIO DE JANEIRO ELABORAR UM PLANO DE REAJUSTE E /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 SALARIAL PARA OS SERVIDORES ESTADUAIS.
+
+O PODER EXECUTIVO FICA AUTORIZADO A REAJUSTAR O /g54/g36/g47/g200/g53/g44/g50 DOS SERVIDORES DESDE QUE HAJA RECURSOS FINANCEIROS /g39/g44/g54/g51/g50/g49/g203/g57/g40/g44/g54 PARA TAL E QUE SEJAM OBSERVADOS OS LIMITES DA DESPESA DE PESSOAL PREVISTOS NA LEI COMPLEMENTAR NO 101/2000 E AS /g53/g40/g54/g55/g53/g44/g100/g174/g40/g54 DO /g53/g40/g42/g44/g48/g40/g3/g39/g40/g3/g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50/g3/g41/g44/g54/g38/g36/g47/g17
+
+HAVENDO RECURSOS FINANCEIROS SUFICIENTES E CONSIDERANDO, AINDA, OS LIMITES DA DESPESA DE PESSOAL ESTABELECIDOS NA LEI COMPLEMENTAR NO 101/2000, /g36/g47/g101/g48 DOS COMPROMISSOS FIRMADOS PELO ESTADO DO RIO DE JANEIRO NO REGIME DE /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 FISCAL, O PODER EXECUTIVO FICA AUTORIZADO A PROGRAMAR /g39/g50/g55/g36/g100/g174/g40/g54 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36/g54 VISANDO A /g53/g40/g38/g50/g48/g51/g50/g54/g44/g100/g173/g50 SALARIAL DOS SERVIDORES, CONFORME
+
+DISPOSTO NO ARTIGO 37, INCISO X DA /g38/g50/g49/g54/g55/g44/g55/g56/g44/g100/g173/g50 FEDERAL E NA LEI 9.436, DE 14 DE OUTUBRO DE 2021.
+
+A LEI DE /g50/g53/g100/g36/g48/g40/g49/g55/g50 ANUAL - LOA PARA 2025 /g51/g50/g39/g40/g53/g200 ESTIMAR, HAVENDO DISPONIBILIDADE FINANCEIRA, A /g53/g40/g57/g44/g54/g173/g50 GERAL DOS SERVIDORES DO PODER EXECUTIVO CONFORME DISPOSTOS NO ARTIGO, 37, INCISO X DA /g38/g50/g49/g54/g55/g44/g55/g56/g44/g100/g173/g50/g3/g41/g40/g39/g40/g53/g36/g47/g17
+
+OPODEREXECUTIVO/g39/g40/g57/g40/g53/g200 EMPREGAR SEUS MELHORES /g40/g54/g41/g50/g53/g100/g50/g54 PARA, HAVENDO DISPONIBILIDADE FINANCEIRA, PROGRAMAR RECURSOS /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g50/g54 DESTINADOS /g172 /g38/g50/g49/g54/g40/g38/g56/g100/g173/g50 DAS SEGUINTES MEDIDAS
+
+- ADMINISTRATIVAS: I -/g36/g51/g40/g53/g41/g40/g44/g100/g50/g36/g48/g40/g49/g55/g50 E /g36/g48/g51/g47/g44/g36/g100/g173/g50 DA /g51/g53/g40/g54/g55/g36/g100/g173/g50 DO /g54/g40/g53/g57/g44/g100/g50 DE /g54/g40/g42/g56/g53/g36/g49/g100/g36/g3/g51/g210/g37/g47/g44/g38/g36/g3/g38/g50/g49/g55/g40/g49/g39/g50/g29 A) /g36/g48/g51/g47/g44/g36/g100/g173/g50 DO REGIME DE ADICIONAL DE /g54/g40/g53/g57/g44/g100/g50 (RAS) ABRANGENDO
+
+<!-- image -->
+
+/g100
+
+- A) - /g36/g48/g51/g47/g44/g36/g100/g173/g50 DO REGIME DE ADICIONAL DE /g54/g40/g53/g57/g44/g100/g50 (RAS) ABRANGENDO OS POLICIAIS PENAIS, OS AGENTES DE /g54/g40/g42/g56/g53/g36/g49/g100/g36 /g54/g207/g38/g44/g50/g40/g39/g56/g38/g36/g55/g44/g57/g50/g54 E O APROVEITAMENTO DOS GUARDAS MUNICIPAIS NOS MOLDES DOS AGENTES CIVIS DO
+2. /g3/g51/g53/g50/g42/g53/g36/g48/g36/g3/g54/g40/g42/g56/g53/g36/g49/g100/g36/g3/g51/g53/g40/g54/g40/g49/g55/g40/g30
+- B) A /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 OU O APRIMORAMENTO DO CONJUNTO DE ITENS QUE /g38/g50/g48/g51/g174/g40 O ATENDIMENTO /g51/g53/g101 HOSPITALAR (APH) E OS KITS DE PRIMEIROSSOCORROS DOS SERVIDORES DA /g54/g40/g42/g56/g53/g36/g49/g100/g36 /g51/g210/g37/g47/g44/g38/g36 (DEFESA CIVIL, PMERJ, PCERJ, DEGASE, SEAP E CBMERJ) INDIVIDUALMENTE E DE SUAS UNIDADES;
+- C) APRIMORAMENTO DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE TRABALHO DOS POLICIAIS PENAIS E CUMPRIMENTO DA LEI /g50/g53/g42/g198/g49/g44/g38/g36 DA /g51/g50/g47/g203/g38/g44/g36 PENAL - LEI /g49/g158 206 DE 21 DE JULHO 2022, A SABER:
+1. ADICIONAL DE INSALUBRIDADE OU APRIMORAMENTO DAS /g44/g49/g54/g55/g36/g47/g36/g100/g174/g40/g54 OFERECIDAS AOS POLICIAIS PENAIS;
+2. ADICIONAL DE NECESSIDADES ESPECIAIS, NOS TERMOS DA /g44/g49/g39/g44/g38/g36/g100/g173/g50 /g47/g40/g42/g44/g54/g47/g36/g55/g44/g57/g36/g3/g49/g131/g3/g19/g26/g21/g18/g21/g19/g21/g22/g30
+3. ADICIONAL DE PERICULOSIDADE NOS TERMOS DA /g44/g49/g39/g44/g38/g36/g100/g173/g50 LEGISLATIVA /g49/g131 034/2023;
+4. A /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 DO PCCS (PLANO DE CARGOS, CARREIRAS E /g54/g36/g47/g200/g53/g44/g50/g54/g12 /g39/g36/g3/g51/g50/g47/g203/g38/g44/g36/g3/g51/g40/g49/g36/g47/g30
+- D) APRIMORAMENTO DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE TRABALHO DOS POLICIAIS CIVIS E CUMPRIMENTODALEI/g50/g53/g42/g198/g49/g44/g38/g36 DA /g51/g50/g47/g203/g38/g44/g36 CIVIL - LEI /g49/g158 204 DE 30 DE JUNHO DE 2022, A SABER:
+1. APRIMORAMENTO DOS RECURSOS /g39/g44/g54/g51/g50/g49/g203/g57/g40/g44/g54 PARA A /g44/g49/g55/g40/g47/g44/g42/g199/g49/g38/g44/g36/g15 /g51/g40/g53/g203/g38/g44/g36 E /g51/g40/g53/g203/g38/g44/g36 /g51/g36/g51/g44/g47/g50/g54/g38/g207/g51/g44/g38/g36 EM /g38/g50/g48/g51/g36/g53/g36/g100/g173/g50 COM OS ANOS DE 2023, 2022 E 2021;
+2. /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 DO PCCS (PLANO DE CARGOS, CARREIRAS E /g54/g36/g47/g200/g53/g44/g50/g54/g12 DA /g51/g50/g47/g203/g38/g44/g36 CIVIL, ESPECIALMENTE QUANTO /g172 /g56/g49/g44/g41/g44/g38/g36/g100/g173/g50 DAS CARREIRAS E /g50/g54/g3/g36/g39/g44/g38/g44/g50/g49/g36/g44/g54/g3/g51/g53/g40/g57/g44/g54/g55/g50/g54/g3/g49/g36/g3/g47/g40/g44/g3/g50/g53/g42/g198/g49/g44/g38/g36/g30
+3. REAJUSTE DOS /g36/g56/g59/g203/g47/g44/g50/g54 DE TRANSPORTE E /g36/g47/g44/g48/g40/g49/g55/g36/g100/g173/g50/g30 D) ESTUDO DO IMPACTO QUANTO A /g53/g40/g42/g56/g47/g36/g48/g40/g49/g55/g36/g100/g173/g50 DA /g51/g53/g40/g57/g44/g39/g199/g49/g38/g44/g36 DOS POLICIAIS CIVIS OPTANTES PELO REGIME /g51/g53/g40/g57/g44/g39/g40/g49/g38/g44/g200/g53/g44/g50 DE INTEGRALIDADE E PARIDADE;
+13. /g23/g17/g3/g53/g40/g42/g56/g47/g36/g48/g40/g49/g55/g36/g100/g173/g50/g3/g39/g36/g54/g3/g43/g50/g53/g36/g54/g16/g40/g59/g55/g53/g36/g54/g17
+- E) /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 DE NOVO RECURSO ADICIONAL AOS MOLDES DA GRAM /g11/g42/g53/g36/g55/g44/g41/g44/g38/g36/g100/g173/g50 DE RISCO DE ATIVIDADE MILITAR) PARA DEPENDENTES E PENSIONISTAS DE SERVIDORES DA /g54/g40/g42/g56/g53/g36/g49/g100/g36 /g51/g210/g37/g47/g44/g38/g36 MORTOS EM /g54/g40/g53/g57/g44/g100/g50
+- F) /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 DE PROGRAMA DE /g54/g40/g42/g56/g53/g36/g49/g100/g36 ESCOLAR NOS TERMOS /g39/g36/g3/g44/g49/g39/g44/g38/g36/g100/g173/g50/g3/g47/g40/g42/g44/g54/g47/g36/g55/g44/g57/g36/g3/g49/g131/g3/g24/g27/g18/g21/g19/g21/g22/g17
+
+OPODEREXECUTIVO/g39/g40/g57/g40/g53/g200 PROMOVER SEUS MELHORES /g40/g54/g41/g50/g53/g100/g50/g54 PARA, HAVENDO DISPONIBILIDADE FINANCEIRA, IMPLEMENTAR, NO /g198/g48/g37/g44/g55/g50 DA SECRETARIA DE /g40/g39/g56/g38/g36/g100/g173/g50 E DA FAETEC, A /g36/g48/g51/g47/g44/g36/g100/g173/g50 DA OFERTA DE /g38/g50/g47/g101/g42/g44/g50/g54/g3/g48/g44/g47/g44/g55/g36/g53/g40/g54/g3/g40/g3/g54/g56/g36/g3/g39/g44/g54/g51/g40/g53/g54/g173/g50/g3/g51/g40/g47/g50/g3/g40/g54/g55/g36/g39/g50/g17
+
+O PODER EXECUTIVO /g39/g40/g57/g40/g53/g200 ENVIDAR SEUS MELHORES /g40/g54/g41/g50/g53/g100/g50/g54 PARA, HAVENDO RECURSOS FINANCEIROS, IMPLEMENTAR, NO /g198/g48/g37/g44/g55/g50 DO PODER EXECUTIVO, O TRIBUNAL DE /g45/g56/g54/g55/g44/g100/g36 MILITAR DO ESTADO DO RIO DE JANEIRO.
+
+AS UNIVERSIDADES ESTATUAIS /g51/g56/g37/g47/g44/g38/g36/g53/g173/g50 NO /g39/g44/g200/g53/g44/g50 OFICIAL, TRIMESTRALMENTE, E /g39/g44/g54/g51/g50/g49/g44/g37/g44/g47/g44/g61/g36/g53/g173/g50 EM SEUS PORTAIS DE INTERNET, /g53/g40/g47/g36/g55/g207/g53/g44/g50/g54 DETALHADOS CONTENDO OS REPASSES ORIUNDOS DO ESTADO E AS RECEITAS PROVENIENTES DE OUTRAS FONTES, OS CURSOS OFERECIDOS E O /g49/g210/g48/g40/g53/g50 DE ALUNOS ATENDIDOS, O CUSTO MENSAL DO ALUNO MATRICULADO E FORMADO POR CURSO, A QUANTIDADE /g48/g101/g39/g44/g36 DE HORAS-AULAS SEMANAIS EM SALA DE AULA POR PROFESSOR E POR CURSO, BEM COMO AS DESPESAS EFETUADAS PARA O DESEMPENHO DE SUAS ATIVIDADES, INCLUINDO A /g40/g59/g40/g38/g56/g100/g173/g50 DE PESQUISAS E ATIVIDADES DE /g40/g59/g55/g40/g49/g54/g173/g50/g17
+
+DO
+
+ESTADO
+
+68
+
+69
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+70
+
+72
+
+<!-- image -->
+
+ESTADO
+
+73
+
+Id:  2588526
+
+74
+
+DO
+
+75
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+76
+
+77
+
+<!-- paginas 16-30 -->
+
+<!-- image -->
+
+78
+
+79
+
+<!-- image -->
+
+80
+
+81
+
+<!-- image -->
+
+82
+
+- 83
+
+84
+
+85
+
+86
+
+<!-- image -->
+
+87
+
+Id:  2588527 88
+
+90
+
+91
+
+<!-- image -->
+
+ESTADO
+
+92
+
+93
+
+DO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+94
+
+95
+
+96
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+| Id:  2588698   |
+|----------------|
+
+99
+
+100
+
+97
+
+98
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+101
+
+102
+
+103
+
+| INSERIR IMAGEM   |     |
+|------------------|-----|
+|                  | EPS |
+
+Id:  2588865
+
+<!-- image -->
+
+| INSERIR IMAGEM   | EPS   |
+|------------------|-------|
+| INSERIR IMAGEM   | EPS   |
+
+Id:  2588868
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+|                | EPS   |             |
+|----------------|-------|-------------|
+| INSERIR IMAGEM |       |             |
+|                |       | Id: 2588888 |
+
+| INSERIR IMAGEM EPS   |
+|----------------------|
+
+## Id:  2588894
+
+| INSERIR IMAGEM EPS   |
+|----------------------|
+
+## Id:  2588899
+
+INSERIR IMAGEM EPS
+
+INSERIR IMAGEM EPS
+
+| INSERIR IMAGEM EPS   |
+|----------------------|
+
+<!-- image -->
+
+Id:  2588900
+
+Id:  2588902
+
+| INSERIR IMAGEM     |             |
+|--------------------|-------------|
+| EPS                |             |
+|                    | Id: 2588909 |
+| INSERIR IMAGEM EPS |             |
+|                    | Id: 2588910 |
+| INSERIR IMAGEM     |             |
+| EPS                |             |
+
+Id:  2588906
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+| INSERIR IMAGEM EPS   |             |
+|----------------------|-------------|
+|                      | Id:         |
+|                      | 2588926     |
+| INSERIR IMAGEM EPS   |             |
+|                      | Id: 2588929 |
+| INSERIR IMAGEM EPS   |             |
+|                      | Id: 2588933 |
+| INSERIR IMAGEM EPS   |             |
+|                      | Id:         |
+|                      | 2588935     |
+| INSERIR IMAGEM EPS   |             |
+
+Id:  2588936
+
+| IMAGEM EPS         |             |
+|--------------------|-------------|
+| INSERIR            |             |
+|                    | Id: 2588937 |
+| INSERIR IMAGEM EPS |             |
+| INSERIR IMAGEM EPS |             |
+| INSERIR IMAGEM     |             |
+| EPS                |             |
+
+Id:  2588944
+
+<!-- image -->
+
+148
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+Id:  2588945
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+174
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+INSERIR IMAGEM EPS
+
+<!-- image -->
+
+Id:  2588947
+
+<!-- image -->
+
+333
+
+173
+
+<!-- image -->
+
+334
+
+<!-- paginas 31-45 -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+335
+
+336
+
+337
+
+<!-- image -->
+
+<!-- image -->
+
+338
+
+339
+
+<!-- image -->
+
+INSERIR IMAGEM EPS
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+340
+
+Id:  2588984
+
+341
+
+342
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+343
+
+344
+
+345
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+346
+
+347
+
+DO
+
+RIO
+
+DE
+
+348
+
+349
+
+350
+
+INSERIR IMAGEM EPS
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Id:  2588986
+
+351
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+352
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82
+
+/g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g49/g50/g57/g50/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g36/g53/g36/g3/g36/g3/g200/g53/g40/g36/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50
+
+META: 1
+
+Justificativa: SOLICITA-SE /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE NOVOS /g38/g50/g49/g38/g56/g53/g54/g50/g54/g3/g49/g36/g3/g200/g53/g40/g36/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+Deputada Martha Rocha
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g21/g20
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g44/g81/g87/g72/g74/g85/g68/g111/g109/g82/g3/g72/g81/g87/g85/g72/g3/g68/g3/g54/g82/g70/g76/g72/g71/g68/g71/g72/g3/g72/g3/g68/g3/g51/g82/g79/g116/g70/g76/g68/g3/g38/g76/g89/g76/g79 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g49/g50/g57/g50/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g54/g40/g42/g56/g53/g36/g49/g100/g36/g3/g51/g210/g37/g47/g44/g38/g36 META: 1
+
+Justificativa: /g39/g40/g57/g40/g53/g200 CONSTAR NA LEI /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 ANUAL DE 2025 A /g51/g53/g40/g57/g44/g54/g173/g50 DE RECURSOS /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g50/g54 PARA GASTOS /g40/g54/g51/g40/g38/g203/g41/g44/g38/g50/g54 COM O /g49/g40/g38/g40/g54/g54/g200/g53/g44/g50 AUMENTO DE EFETIVO DO QUADRO DE PROFISSIONAIS DA /g51/g50/g47/g203/g38/g44/g36 CIVIL, POR MEIO DA ABERTURA DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54/g15 DE MODO A ASSEGURAR O QUADRO /g48/g203/g49/g44/g48/g50 ESSENCIAL PARA DESEMPENHO NORMAL E EFICIENTE DAS /g41/g56/g49/g100/g174/g40/g54 DA /g44/g49/g54/g55/g44/g55/g56/g44/g100/g173/g50/g17 ATUALMENTE, O QUADRO DESSES PROFISSIONAIS ESPECIFICADOS ENCONTRA-SE MENOR DO QUE A METADE DO PREVISTO LEGALMENTE. ASSEGURAR O QUADRO /g48/g203/g49/g44/g48/g50 ESSENCIAL EQUIVALE DIZER UM QUADRO QUE CORRESPONDA /g172 EFICIENTE /g40/g47/g56/g38/g44/g39/g36/g100/g173/g50 DE CRIMES DE /g43/g50/g48/g44/g38/g203/g39/g44/g50/g15 DENTRO DE /g51/g36/g53/g198/g48/g40/g55/g53/g50/g54 /g45/g200 /g40/g59/g44/g54/g55/g40/g49/g55/g40/g54/g3/g40/g48/g3/g51/g36/g203/g54/g40/g54/g3/g39/g40/g54/g40/g49/g57/g50/g47/g57/g44/g39/g50/g54/g17
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Deputada Renata Souza
+
+## /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g21/g20
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g25/g26/g3/g16/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g36/g79/g76/g80/g72/g81/g87/g68/g85/g3/g72/g3/g49/g88/g87/g85/g76/g70/g76/g82/g81/g68/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g25/g26/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g72/g3/g42/g68/g85/g68/g81/g87/g76/g68/g3/g71/g68/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g36/g79/g76/g80/g72/g81/g87/g68/g85/g3/g72/g3/g49/g88/g87/g85/g76/g70/g76/g82/g81/g68/g79 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g61/g44/g49/g43/g36/g54/g3/g54/g50/g47/g44/g39/g200/g53/g44/g36/g54
+
+META: 50
+
+Justificativa: IMPLEMENTAR COZINHAS /g54/g50/g47/g44/g39/g200/g53/g44/g36/g54 COMO FINALIDADE FORNECER /g36/g47/g44/g48/g40/g49/g55/g36/g100/g173/g50 GRATUITA PREFERENCIALMENTE /g172 /g51/g50/g51/g56/g47/g36/g100/g173/g50 EM /g54/g44/g55/g56/g36/g100/g173/g50 DE VULNERABILIDADE E RISCO SOCIAL, INCLUINDO A /g51/g50/g51/g56/g47/g36/g100/g173/g50 EM /g54/g44/g55/g56/g36/g100/g173/g50 DE RUA, VISANDO A /g51/g53/g50/g48/g50/g100/g173/g50 DE /g51/g50/g47/g203/g55/g44/g38/g36/g54 DE /g54/g40/g42/g56/g53/g36/g49/g100/g36 ALIMENTAR E NUTRICIONAL, DE /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 SOCIAL, /g40/g41/g40/g55/g44/g57/g36/g100/g173/g50 DE DIREITOS SOCIAIS, DIGNIDADE HUMANA, RESGATE SOCIAL E MELHORIA DA QUALIDADE DE VIDA.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Deputado Tande Vieira
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g20/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 INICIATIVA: 0136 - Fortalecimento do Bem-Estar Animal /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g43/g50/g54/g51/g44/g55/g36/g47/g3/g51/g210/g37/g47/g44/g38/g50/g3/g57/g40/g55/g40/g53/g44/g49/g200/g53/g44/g50/g3/g53/g40/g42/g44/g50/g49/g36/g47 Justificativa: A /g38/g53/g44/g36/g100/g173/g50 DE HOSPITAIS /g57/g40/g55/g40/g53/g44/g49/g200/g53/g44/g50/g54 REGIONAIS (LEI /g49/g158 10.107 DE 19 DE SETEMBRO DE 2023) TEM COMO /g51/g53/g44/g49/g38/g203/g51/g44/g50 CENTRAL O DE PROTEGER OS ANIMAIS E ASSIM RESGUARDAR OS DIREITOS E DEVERES PRESCRITOS NO ARTIGO 225DA CRFB/88. SABEMOS QUE, INFELIZMENTE NOS DIAS DE HOJE, PESSOAS MALINTENCIONADAS MALTRATAM,ABANDONAM E /g36/g55/g101 TORTURAM OS ANIMAIS, MAS /g49/g173/g50 /g54/g207 ISSO, OS ANIMAIS EM CERTOS MOMENTOS PRECISAMDE AJUDA POR /g52/g56/g40/g54/g55/g174/g40/g54 DE /g39/g50/g40/g49/g100/g36/g54 OU ACIDENTES E ASSIM, O ESTADO PRECISA INTERVIR PARA CUIDAR /g39/g40/g41/g36/g55/g50/g15/g3/g44/g49/g38/g47/g56/g54/g44/g57/g40/g3/g39/g50/g54/g3/g36/g49/g44/g48/g36/g44/g54/g3/g52/g56/g40/g3/g49/g173/g50/g3/g55/g40/g48/g3/g56/g48/g3/g47/g36/g53/g3/g40/g3/g57/g44/g57/g40/g48/g3/g49/g36/g54/g3/g53/g56/g36/g54/g17 DESTA FORMA, OS HOSPITAIS /g57/g40/g55/g40/g53/g44/g49/g200/g53/g44/g50/g54 REGIONAIS /g53/g40/g36/g47/g44/g61/g36/g53/g173/g50 TODOS OS TIPOS DE ATENDIMENTO, TODOSOS DIAS, DE FORMA GRATUITA E SEGUINDO REGRAS ESTABELECIDAS PELO CONSELHO FEDERAL DE /g48/g40/g39/g44/g38/g44/g49/g36/g57/g40/g55/g40/g53/g44/g49/g200/g53/g44/g36 E ASSIM /g55/g53/g36/g53/g200 DIGNIDADE AOS ANIMAIS QUE PRECISAM E PARA SEUS TUTORES, CUIDADORESE/OU PROTETORES.
+
+## Deputado Tande Vieira
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g20/g25 PROGRAMA: 0512 - Desenvolvimento Territorial /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g19/g26/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g71/g68/g3/g44/g81/g73/g85/g68/g72/g86/g87/g85/g88/g87/g88/g85/g68/g3/g81/g82/g86/g3/g48/g88/g81/g76/g70/g116/g83/g76/g82/g86/g3/g71/g82/g3/g40/g53/g45 PRODUTO: 4380 - Via urbana pavimentada META: 25 Justificativa: A /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DA /g51/g36/g57/g44/g48/g40/g49/g55/g36/g100/g173/g50 DA VIA QUE LIGA FLORIANO E RIALTO, EM BARRA MANSA /g54/g40/g53/g200 PRIMORDIALPARA A VIDA SOCIAL E /g40/g38/g50/g49/g208/g48/g44/g38/g36 DOS /g48/g56/g49/g203/g38/g44/g51/g40/g54 DESTA CIDADE, UMA VEZ QUE, A RODOVIA PRESIDENTEDUTRA, NOS /g51/g53/g207/g59/g44/g48/g50/g54 ANOS, /g51/g36/g54/g54/g36/g53/g200 POR UM ENORME INVESTIMENTO: /g54/g40/g53/g173/g50 NOVOS RETORNOS,PASSARELAS E A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE /g22/g157 E /g23/g157 FAIXA NA MAIOR PARTE DO TRAJETO.
+
+DESTA FORMA, UMA NOVA /g50/g51/g100/g173/g50 PARA DESAFOGAR O /g55/g53/g198/g49/g54/g44/g55/g50/g15 QUE /g45/g200 /g101 /g38/g36/g207/g55/g44/g38/g50/g15 /g54/g40/g53/g200 FUNDAMENTAL PARAMINIMIZAR OS /g51/g53/g40/g45/g56/g203/g61/g50/g54 /g55/g40/g48/g51/g50/g53/g200/g53/g44/g50/g54/g15 COM ESTA REFORMA DA VIA DUTRA.
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+Id:  2588987
+
+## Deputado Tande Vieira /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g20/g26
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 PRODUTO: 5750 - Unidade escolar reequipada META: 4 Justificativa: /g43/g200 A NECESSIDADE DE REEQUIPAR ESCOLAS ESTADUAIS DA /g53/g40/g42/g44/g173/g50 DO /g48/g101/g39/g44/g50/g3/g51/g36/g53/g36/g203/g37/g36/g17 EQUIPAMENTOS NOVOS E DE QUALIDADE CONTRIBUEM SIGNIFICATIVAMENTE PARA A MELHORIA DAAPRENDIZAGEM. OFERECER AOS ALUNOS UM AMBIENTE ESCOLAR ESTRUTURADO TORNA AS ATIVIDADESESCOLARES MAIS ATRATIVAS E ESTIMULANTES. DESTA FORMA, O OBJETIVO /g101 PROPICIAR MAIS QUALIDADE AOS ALUNOS DO /g38/g50/g47/g101/g42/g44/g50 ESTADUAL PROFESSOR /g45/g50/g54/g101/g48/g40/g39/g40/g44/g53/g50/g54 DE CAMARGO, /g48/g56/g49/g44/g38/g203/g51/g44/g50 DE RESENDE PARA QUE CADA VEZ MAIS TENHAM PRAZER EM IR /g172 ESCOLA /g40/g39/g44/g48/g44/g49/g56/g44/g53/g48/g50/g54/g3/g36/g3/g40/g57/g36/g54/g173/g50/g3/g40/g54/g38/g50/g47/g36/g53/g17
+
+Deputado Tande Vieira /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g20/g27
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g20/g19/g3/g16/g3/g48/g82/g69/g76/g79/g76/g71/g68/g71/g72/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g19/g26/g3/g16/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g81/g68/g3/g44/g81/g87/g72/g74/g85/g68/g111/g109/g82/g3/g71/g72/g3/g55/g85/g68/g81/g86/g83/g82/g85/g87/g72/g3/g51/g126/g69/g79/g76/g70/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g22/g25/g21/g3/g16/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g81/g82/g3/g86/g76/g86/g87/g72/g80/g68/g3/g73/g72/g85/g85/g82/g89/g76/g105/g85/g76/g82/g3/g76/g80/g83/g79/g68/g81/g87/g68/g71/g68 META: 1
+
+Justificativa: TRATA-SE DE EMENDA PARA A SECRETARIA DE TRANSPORTES DO ESTADO DO RIO DE JANEIRO PARAPRODUZIR ESTUDOS DE /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DA FERROVIA LIGANDO BARRA MANSA A ANGRA DOS REIS, VISANDODESTINAR RECURSO PARA PRODUZIR ESTUDOS DE /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DA FERROVIA LIGANDO BARRA MANSA AANGRA DOS REIS, TRECHO ESTE QUE FOI /g38/g50/g49/g54/g55/g53/g56/g203/g39/g50 EM 1895 PELA ESTRADA DE FERRO OESTE DE MINAS E SEENCONTRA SEM /g55/g53/g200/g41/g40/g42/g50 DE TRENS DESDE 2010.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Deputado Thiago Rangel /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g19/g24
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g22/g23/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g36/g86/g86/g76/g86/g87/g114/g81/g70/g76/g68/g3/g72/g80/g3/g54/g68/g126/g71/g72/g3/g81/g68/g86/g3/g56/g81/g76/g71/g68/g71/g72/g86/g3/g51/g68/g70/g87/g88/g68/g71/g68/g86 PRODUTO: 1842 - Consulta ambulatorial realizada META: 373.370
+
+Justificativa: DE FUNDAMENTAL /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 AMPLIAR A META DE ATENDIMENTOS /g36/g48/g37/g56/g47/g36/g55/g50/g53/g44/g36/g44/g54/g3/g51/g36/g53/g36/g3/g51/g53/g40/g57/g40/g49/g100/g173/g50/g3/g39/g36/g3/g54/g36/g210/g39/g40/g3/g17
+
+## Deputado Thiago Rangel
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g19/g25
+
+PROGRAMA: 0442 - Ensino Superior INICIATIVA: 0143 - Acesso ao Ensino Superior /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g21/g26/g3/g16/g3/g38/g88/g85/g86/g82/g3/g71/g72/g3/g74/g85/g68/g71/g88/g68/g111/g109/g82/g3EaD implantado META: 2
+
+Justificativa: DE FUNDAMENTAL /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 AMPLIAR A META DE /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE CURSOS DE /g42/g53/g36/g39/g56/g100/g173/g50 SUPERIOR NA MODALIDADE A /g39/g44/g54/g55/g198/g49/g38/g44/g36 (EAD) EM /g40/g54/g51/g40/g38/g44/g36/g47/g3/g49/g50/g3/g44/g49/g55/g40/g53/g44/g50/g53/g3/g49/g36/g54/g3/g53/g40/g42/g44/g174/g40/g54/g3/g49/g50/g53/g55/g40/g3/g40/g3/g49/g50/g53/g50/g40/g54/g55/g40/g3/g39/g50/g3/g40/g54/g55/g36/g39/g50/g17
+
+Deputado Thiago Rangel /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g19/g26
+
+PROGRAMA: 0501 - Esporte e Lazer /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g24/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g68/g82/g3/g40/g86/g83/g82/g85/g87/g72/g3/g72/g3/g47/g68/g93/g72/g85 PRODUTO: 8539 - Atividade socioesportiva realizada META: 550
+
+Justificativa: FUNDAMENTAL /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 AMPLIAR /g49/g210/g38/g47/g40/g50/g54 DE ESPORTES NO ESTADO EM ESPECIAL NAS COMUNIDADES DAS /g53/g40/g42/g44/g174/g40/g54 NORTE E NOROESTE FLUMINENSE.
+
+## Deputado Thiago Rangel /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g19/g27
+
+Justificativa: SUMA /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 FAZER /g48/g36/g49/g56/g55/g40/g49/g100/g173/g50 PREVENTIVA EM TODAS AS
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g20/g19/g3/g16/g3/g48/g82/g69/g76/g79/g76/g71/g68/g71/g72/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g19/g27/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g50/g83/g72/g85/g68/g70/g76/g82/g81/g68/g79/g3/g71/g72/g3/g53/g82/g71/g82/g89/g76/g68/g86 PRODUTO: 8642 - Rodovia estadual pavimentada/restaurada/conservada META: 6.000 RODOVIAIS ESTADUAIS DE RESPONSABILIDADE DO DER RJ
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Deputada Tia Ju
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g24/g26
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g24/g19/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g82/g3/g54/g56/g36/g54/g15/g3/g51/g85/g82/g87/g72/g111/g109/g82/g3/g54/g82/g70/g76/g68/g79/g3/g72/g3/g53/g72/g71/g88/g111/g109/g82/g3/g71/g68/g3/g51/g82/g69/g85/g72/g93/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g19/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g51/g85/g82/g87/g72/g111/g109/g82/g3/g54/g82/g70/g76/g68/g79/g3/g37/g105/g86/g76/g70/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g26/g28/g20/g22/g3/g16/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g85/g72/g68/g79/g76/g93/g68/g71/g82/g3/g106/g3/g83/g82/g83/g88/g79/g68/g111/g109/g82/g3/g72/g80/g3/g86/g76/g87/g88/g68/g111/g109/g82/g3/g71/g72/g3/g85/g88/g68
+
+META: 20.000
+
+Justificativa: EM TODAS AS GRANDES CIDADES FLUMINENSES /g101 PREMENTE A NECESSIDADE DA /g36/g48/g51/g47/g44/g36/g100/g173/g50 DO /g49/g210/g48/g40/g53/g50 DE EQUIPAMENTOS /g51/g210/g37/g47/g44/g38/g50/g54 E DE ATENDIMENTOS DESTINADOS /g172/g54 PESSOAS EM /g54/g44/g55/g56/g36/g100/g173/g50 DE RUA. /g36/g51/g207/g54 A PANDEMIA DE COVID-19, TORNOU-SE AINDA MAIS ELEVADA QUANTIDADE DE PESSOAS /g57/g56/g47/g49/g40/g53/g200/g57/g40/g44/g54/g15 EM /g41/g56/g49/g100/g173/g50 DA PERDA DOS /g57/g203/g49/g38/g56/g47/g50/g54 FAMILIARES E /g38/g50/g48/g56/g49/g44/g55/g200/g53/g44/g50/g54 E PELO DO USO INDISCRIMINADO DE /g200/g47/g38/g50/g50/g47 E DROGAS, QUE DEPENDEM DO APOIO DO ESTADO PARA FORTALECER POTENCIALIDADES E RETOMAR SUAS VIDAS.
+
+## Deputada Tia Ju /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g24/g27
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g26/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g51/g126/g69/g79/g76/g70/g68/g86/g3/g83/g68/g85/g68/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g19/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g44/g81/g87/g72/g74/g85/g68/g71/g82/g3/g71/g72/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g72/g3/g36/g70/g82/g79/g75/g76/g80/g72/g81/g87/g82/g3/g106/g3/g48/g88/g79/g75/g72/g85/g3/g57/g116/g87/g76/g80/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g24/g20/g19/g3/g16/g3/g39/g72/g79/g72/g74/g68/g70/g76/g68/g3/g40/g86/g83/g72/g70/g76/g68/g79/g76/g93/g68/g71/g68/g3/g71/g72/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g106/g3/g48/g88/g79/g75/g72/g85/g3/g76/g80/g83/g79/g68/g81/g87/g68/g71/g68
+
+META: 4
+
+Justificativa: A GARANTIA DE /g51/g53/g50/g55/g40/g100/g173/g50 DAS MULHERES /g57/g203/g55/g44/g48/g36/g54 DE /g57/g44/g50/g47/g199/g49/g38/g44/g36 DEPENDE DIRETAMENTE DA OFERTA DE EQUIPAMENTOS /g51/g210/g37/g47/g44/g38/g50/g54 COMO AS DELEGACIAS ESPECIALIZADAS DE ATENDIMENTO /g172 MULHER, QUE EXISTEM EM QUANTITATIVO MUITO INFERIOR AO /g49/g40/g38/g40/g54/g54/g200/g53/g44/g50/g15 DIANTE DO AUMENTO SEM PRECEDENTES DO /g49/g210/g48/g40/g53/g50 DE CASOS DE /g36/g42/g53/g40/g54/g54/g174/g40/g54 E DE /g41/g40/g48/g44/g49/g44/g38/g203/g39/g44/g50/g54 QUE /g40/g54/g55/g173/g50/g3/g50/g38/g50/g53/g53/g40/g49/g39/g50/g3/g40/g48/g3/g49/g50/g54/g54/g50/g3/g40/g54/g55/g36/g39/g50/g17
+
+## Deputada Tia Ju
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g24/g28
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g24/g24/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g36/g74/g85/g82/g83/g72/g70/g88/g105/g85/g76/g82/g15/g3/g51/g72/g86/g84/g88/g72/g76/g85/g82/g3/g72/g3/g36/g84/g88/g116/g70/g82/g79/g68/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g79
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g24/g22/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g15/g3/g41/g82/g80/g72/g81/g87/g82/g3/g72/g3/g39/g72/g73/g72/g86/g68/g3/g54/g68/g81/g76/g87/g105/g85/g76/g68/g3/g71/g68/g3/g36/g74/g85/g82/g83/g72/g70/g88/g105/g85/g76/g68/g3/g41/g79/g88/g80/g76/g81/g72/g81/g86/g72 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g21/g24/g25/g20/g3/g16/g3/g51/g85/g82/g77/g72/g87/g82/g3/g68/g74/g85/g82/g83/g72/g70/g88/g105/g85/g76/g82/g3/g73/g76/g81/g68/g81/g70/g76/g68/g71/g82 META: 300
+
+Justificativa: OS AGROPECUARISTAS FLUMINENSES CARECEM DE INCENTIVO GOVERNAMENTAL PARA A SUA /g54/g56/g54/g55/g40/g49/g55/g36/g100/g173/g50 E DESENVOLVIMENTO NO /g198/g48/g37/g44/g55/g50 DE TODAS AS /g53/g40/g42/g44/g174/g40/g54 DO ESTADO, EM ESPECIAL OS DE PEQUENO PORTE, /g39/g36/g203 A /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36/g3/g39/g50/g3/g41/g44/g49/g36/g49/g38/g44/g36/g48/g40/g49/g55/g50/g3/g39/g40/g3/g56/g48/g3/g48/g36/g44/g50/g53/g3/g49/g210/g48/g40/g53/g50/g3/g39/g40/g3/g51/g53/g50/g45/g40/g55/g50/g54/g17
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g19
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g27/g27/g3/g16/g3/g42/g68/g85/g68/g81/g87/g76/g68/g3/g71/g72/g3/g36/g70/g72/g86/g86/g82/g3/g71/g82/g86/g3/g36/g79/g88/g81/g82/g86/g3/g106/g3/g40/g86/g70/g82/g79/g68 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g36/g48/g51/g47/g44/g36/g100/g173/g50/g3/g39/g36/g3REDE  EM TEMPO INTEGRAL Justificativa: A EMENDA VISA TORNAR A ESCOLA EM UM /g40/g54/g51/g36/g100/g50 DE OPORTUNIDADE PARA O ESTUDANTE, COM /g48/g210/g47/g55/g44/g51/g47/g36/g54 POSSIBILIDADES DE /g41/g50/g53/g48/g36/g100/g173/g50/g15 LEVANDO-O A COMPREENDER QUE O INVESTIMENTO NOS ESTUDOS /g101 /g44/g49/g39/g44/g54/g51/g40/g49/g54/g200/g57/g40/g47 PARA SEU FUTURO. NESTE CONTEXTO /g43/g200 A NECESSIDADE DE EXPANDIR A REDE EXISTENTE NOS /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 DO ESTADO DO RIO DE JANEIRO PARA A /g41/g50/g53/g48/g36/g100/g173/g50 PLENA DOS ESTUDANTES QUE /g54/g40/g53/g200 COORDENADA NO PROGRAMA DE /g40/g39/g56/g38/g36/g100/g173/g50 INTEGRAL DA /g54/g40/g38/g53/g40/g55/g36/g53/g44/g36/g3/g39/g40/g3/g40/g54/g55/g36/g39/g50/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+## /g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g20
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g21/g3/g16/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g43/g68/g69/g76/g87/g68/g70/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g74/g88/g79/g68/g85/g76/g93/g68/g111/g109/g82/g3/g41/g88/g81/g71/g76/g105/g85/g76/g68
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g21/g21/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g44/g81/g73/g85/g68/g72/g86/g87/g85/g88/g87/g88/g85/g68/g3/g72/g80/g3/g200/g85/g72/g68/g86/g3/g71/g72/g3/g53/g76/g86/g70/g82/g3/g72/g3/g57/g88/g79/g81/g72/g85/g68/g69/g76/g79/g76/g71/g68/g71/g72/g3
+
+/g54/g121/g70/g76/g82/g68/g80/g69/g76/g72/g81/g87/g68/g79
+
+NOVO PRODUTO: CENSO  DE/g3/g39/g101/g41/g44/g38/g44/g55/g3/g40/g3/g44/g49/g36/g39/g40/g52/g56/g36/g100/g173/g50/g3/g43/g36/g37/g44/g55/g36/g38/g44/g50/g49/g36/g47/g3/g53/g40/g36/g47/g44/g61/g36/g39/g50 META: 1
+
+Justificativa: A /g38/g53/g44/g36/g100/g173/g50 DO CENSO DE /g39/g101/g41/g44/g38/g44/g55 E /g44/g49/g36/g39/g40/g52/g56/g36/g100/g173/g50 HABITACIONAL NO ESTADO DO RIO DE JANEIRO SE MOSTRA AINDA MAIS URGENTE, COM A FINALIDADE DE IDENTIFICAR OS /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 COM MAIORES /g39/g101/g41/g44/g38/g44/g55/g54 HABITACIONAIS ACUMULADOS, BEM COMO MAPEAR AS /g200/g53/g40/g36/g54 E OS /g39/g50/g48/g44/g38/g203/g47/g44/g50/g54 QUE APRESENTAM /g44/g49/g36/g39/g40/g52/g56/g36/g100/g173/g50 HABITACIONAL NO /g55/g40/g53/g53/g44/g55/g207/g53/g44/g50 FLUMINENSE. APENAS A PARTIR DA /g44/g39/g40/g49/g55/g44/g41/g44/g38/g36/g100/g173/g50 DAS /g200/g53/g40/g36/g54 DE MAIOR VULNERABILIDADE SOCIAL, /g54/g40/g53/g200 /g51/g50/g54/g54/g203/g57/g40/g47 /g55/g53/g36/g100/g36/g53 /g51/g50/g47/g203/g55/g44/g38/g36/g54 /g51/g210/g37/g47/g44/g38/g36/g54 /g40/g54/g51/g40/g38/g203/g41/g44/g38/g36/g54 PARA ATENDER /g172/g54 DEMANDAS DAS /g51/g50/g51/g56/g47/g36/g100/g174/g40/g54 MAIS AFETADAS, GARANTINDO O ACESSO /g172 MORADIA ADEQUADA E DIGNA.
+
+## /g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82
+
+## /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g21
+
+NOVO PRODUTO: CENTRO DE REFERENCIA EM ONCOLOGIA CONSTRUIDA
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g21/g3/g16/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g72/g3/g48/g82/g71/g72/g85/g81/g76/g93/g68/g111/g109/g82/g3/g81/g68/g3/g54/g68/g126/g71/g72 META: 1
+
+Justificativa: A EMENDA VISA ATENDER A NECESSIDADE /g38/g50/g49/g55/g203/g49/g56/g36 DE MELHORIAS NA REDE DE /g54/g36/g210/g39/g40 EM TODO ESTADO DO RIO DE JANEIRO E PRINCIPALMENTE NAS
+
+/g174
+
+/g53/g40/g42/g44/g174/g40/g54 METROPOLITANAS E BAIXADA FLUMINENSE, NO QUE TANGE ATENDIMENTOS A PACIENTES COM /g38/g50/g48/g51/g47/g44/g38/g36/g100/g174/g40/g54 DAS /g39/g50/g40/g49/g100/g36/g54 /g50/g49/g38/g50/g47/g207/g42/g44/g38/g36/g54/g17 SEGUNDO DADOS DE PESQUISA REALIZADA PELA DEFENSORIA /g51/g210/g37/g47/g44/g38/g36 DO ESTADO DO RIO DE JANEIRO, A FILA DE ESPERA DE PACIENTES /g50/g49/g38/g50/g47/g207/g42/g44/g38/g50/g54 PARA PRIMEIRO ATENDIMENTO PODE ULTRAPASSAR SESSENTA DIAS, TENDO COMO /g38/g50/g49/g54/g40/g52/g56/g199/g49/g38/g44/g36/g54 MAIOR LETALIDADE E O AGRAVAMENTO DAS /g39/g50/g40/g49/g100/g36/g54 /g50/g49/g38/g50/g47/g207/g42/g44/g38/g36/g54/g17
+
+QUANTO AOS MEDICAMENTOS, O FINANCIAMENTO DE MEDICAMENTOS /g50/g49/g38/g50/g47/g207/g42/g44/g38/g50/g54 /g49/g173/g50 SE /g39/g200 POR MEIO DOS COMPONENTES DA /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 /g41/g36/g53/g48/g36/g38/g199/g56/g55/g44/g38/g36/g17/g17 O FORNECIMENTO DESTES MEDICAMENTOS, OCORRE POR MEIO DA /g44/g49/g38/g47/g56/g54/g173/g50 DO PACIENTE NOS PROCEDIMENTOS /g52/g56/g44/g48/g44/g50/g55/g40/g53/g200/g51/g44/g38/g50/g54/g15 REGISTRADOS
+
+NO SUBSISTEMA DE /g36/g56/g55/g50/g53/g44/g61/g36/g100/g173/g50 DE PROCEDIMENTO DE ALTA COMPLEXIDADE DO SISTEMA DE /g44/g49/g41/g50/g53/g48/g36/g100/g173/g50 AMBULATORIAL (APAC-SAI), DO SUS. LOGO /g101 PRIMORDIAL A /g36/g39/g50/g100/g173/g50 DE /g51/g53/g50/g57/g44/g39/g199/g49/g38/g44/g36/g54/g15 PARA VIABILIZAR A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE UM CENTRO DE /g53/g40/g41/g40/g53/g199/g49/g38/g44/g36 EM ONCOLOGIA E /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 /g41/g36/g53/g48/g36/g38/g199/g56/g55/g44/g38/g36 PARA TRATAMENTO DE PACIENTES DA BAIXADA FLUMINENSE
+
+## /g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g22
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g26/g3/g16/g3/g40/g80/g83/g85/g72/g74/g82/g15/g3/g53/g72/g81/g71/g68/g3/g72/g3/g41/g82/g85/g80/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g82/g3/g48/g72/g85/g70/g68/g71/g82/g3/g71/g72/g3/g55/g85/g68/g69/g68/g79/g75/g82
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g23/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g42/g72/g85/g68/g111/g109/g82/g3/g71/g72/g3/g40/g80/g83/g85/g72/g74/g82/g3/g72/g3/g53/g72/g81/g71/g68
+
+NOVO PRODUTO: INICIATIVA AO PRIMEIRO EMPREGO APOIADA
+
+META: 1
+
+Justificativa: A PRESENTE EMENDA VISA CONSIDERAR COMO /g40/g59/g51/g40/g53/g44/g199/g49/g38/g44/g36 PROFISSIONAL O /g40/g54/g55/g200/g42/g44/g50 CURRICULAR REALIZADO PELO ESTUDANTE, PARA FINS DE /g36/g39/g48/g44/g54/g54/g173/g50 EM PRIMEIRO EMPREGO E CONCURSO /g51/g210/g37/g47/g44/g38/g50 PERANTE A /g36/g39/g48/g44/g49/g44/g54/g55/g53/g36/g100/g173/g50 /g51/g210/g37/g47/g44/g38/g36 ESTADUAL DIRETA E INDIRETA, NA FORMA QUE ESPECIFICA. UM DOS MAIORES DESAFIOS A SER ENFRENTADO, NA ATUALIDADE, /g101 O DESEMPREGO, SOBRETUDO, ENTRE JOVENS. UMA DAS CAUSAS PARA OS ALTOS /g49/g203/g57/g40/g44/g54 DE DESEMPREGO DOS JOVENS /g101 A FALTA DE /g40/g59/g51/g40/g53/g44/g199/g49/g38/g44/g36 LOGO ESTA INCIATIVA PERMITIR QUE O /g51/g40/g53/g203/g50/g39/g50 EXERCIDO NAS REFERIDAS ATIVIDADES SEJA COMPUTADO PARA FINS DE /g40/g59/g51/g40/g53/g44/g199/g49/g38/g44/g36 PROFISSIONAL, ASSIM VALORIZANDO A ATIVIDADE EXERCIDA E PERMITINDO A /g44/g49/g38/g47/g56/g54/g173/g50 DE TAIS JOVENS NO MERCADO DE TRABALHO.
+
+## /g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g23
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g24/g24/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g36/g74/g85/g82/g83/g72/g70/g88/g105/g85/g76/g82/g15/g3/g51/g72/g86/g84/g88/g72/g76/g85/g82/g3/g72/g3/g36/g84/g88/g116/g70/g82/g79/g68/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g24/g22/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g15/g3/g41/g82/g80/g72/g81/g87/g82/g3/g72/g3/g39/g72/g73/g72/g86/g68/g3/g54/g68/g81/g76/g87/g105/g85/g76/g68/g3/g71/g68/g3/g36/g74/g85/g82/g83/g72/g70/g88/g105/g85/g76/g68/g3/g41/g79/g88/g80/g76/g81/g72/g81/g86/g72 PRODUTO: 7932 - Mercado do Produtor implantado META: 4
+
+Justificativa: /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE DUAS NOVAS UNIDADES DO MERCADO DO PRODUTOR AGRORJ PARA OS /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 DE /g48/g36/g42/g101 E MIRACEMA , ESTENDENDO SEUS /g37/g40/g49/g40/g41/g203/g38/g44/g50/g54 /g172 /g51/g50/g51/g56/g47/g36/g100/g173/g50 LOCAL. O PROGRAMA QUE TEM COMO OBJETIVO O FORTALECIMENTO DA AGRICULTURA NO ESTADO DO RIO DE JANEIRO, POR MEIO DA /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DE MERCADOS PARA ACOMODAR OS PRODUTORES LOCAIS QUE PERMITEM POPULARIZAR OS PRODUTOS, INCREMENTAR O ABASTECIMENTO LOCAL E AUXILIAR NO ESCOAMENTO DA /g51/g53/g50/g39/g56/g100/g173/g50/g15 /g54/g40/g53/g200 DE GRANDE /g53/g40/g47/g40/g57/g198/g49/g38/g44/g36 PARA /g50/g54/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g3/g39/g40/g3/g48/g36/g42/g101/g3/g40/g3MIRACEMA .
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g24
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 INICIATIVA: 0136 - Fortalecimento do Bem-Estar Animal /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g56/g49/g44/g39/g36/g39/g40/g3/g57/g40/g55/g40/g53/g44/g49/g200/g53/g44/g36/g3/g38/g50/g49/g54/g55/g53/g56/g44/g39/g36 META: 1
+
+Justificativa: A EMENDA VISA INSTALAR UM HOSPITAL /g57/g40/g55/g40/g53/g44/g49/g200/g53/g44/g50 NO /g48/g56/g49/g44/g38/g203/g51/g44/g50 DE /g48/g36/g42/g101/g15 VISANDO CRIAR UM /g40/g54/g51/g36/g100/g50 ADEQUADO PARA OS CUIDADOS COM A /g54/g36/g210/g39/g40/g3/g36/g49/g44/g48/g36/g47/g17
+
+DESDE O ANO DE 2020 FORAM REALIZADAS POR PARCEIROS E /g57/g50/g47/g56/g49/g55/g200/g53/g44/g50/g54 NO /g48/g56/g49/g44/g38/g203/g51/g44/g50 16 (DEZESSEIS) FEIRAS DE /g36/g39/g50/g100/g173/g50 COM OS ANIMAIS RESGATADOS QUE, EM CASO DE /g39/g50/g40/g49/g100/g36/g15 PASSAM POR TRATAMENTO E ESTANDO EM IDADE REPRODUTIVA /g54/g173/g50 CASTRADOS. EM APENAS DOIS ANOS, SOMAM-SE MAIS DE 650 ANIMAIS ADOTADOS. PORTANTO /g101 /g51/g40/g53/g38/g40/g51/g55/g203/g57/g40/g47 QUE A /g51/g50/g51/g56/g47/g36/g100/g173/g50 ANIMAL NA /g38/g44/g39/g36/g39/g40/g3/g101/g3/g42/g53/g36/g49/g39/g40/g17
+
+EMBORA O /g48/g56/g49/g44/g38/g203/g51/g44/g50 DESEJE ATENDER DIRETAMENTE E INTEGRALMENTE A DEMANDA DA CAUSA ANIMAL, POR /g36/g56/g54/g199/g49/g38/g44/g36 DE /g40/g54/g51/g36/g100/g50 /g41/g203/g54/g44/g38/g50 E MATERIAIS ADEQUADOS, /g49/g173/g50 POSSUI /g38/g50/g49/g39/g44/g100/g174/g40/g54/g17 A PROCURA PELOS /g54/g40/g53/g57/g44/g100/g50/g54 NA CIDADE /g101 EXPRESSIVA. POR ORA, OS ATENDIMENTOS REALIZADOS CONTAM COM A AJUDA DE PARCEIROS E /g57/g50/g47/g56/g49/g55/g200/g53/g44/g50/g54/g17 CONTUDO, UM /g49/g210/g48/g40/g53/g50 EXPRESSIVO DE ATENDIMENTOS DEIXA DE ACONTECER POR FALTA DE ESTRUTURA.
+
+## /g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g25
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g21/g3/g16/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g43/g68/g69/g76/g87/g68/g70/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g74/g88/g79/g68/g85/g76/g93/g68/g111/g109/g82/g3/g41/g88/g81/g71/g76/g105/g85/g76/g68
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g22/g26/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g36/g70/g72/g86/g86/g82/g3/g106/g3/g48/g82/g85/g68/g71/g76/g68/g3/g39/g76/g74/g81/g68
+
+NOVO PRODUTO: PROGRAMA DE ADAPT.  DE MORADIAS PARA DEFICIENTES OU MOB.REDUZIDA IMPLEMENTADO
+
+META: 1
+
+Justificativa: A /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 DO PROGRAMA ESTADUAL DE /g36/g39/g36/g51/g55/g36/g100/g173/g50 DE MORADIAS PARA PESSOAS COM /g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36 OU MOBILIDADE REDUZIDA, TEM COMO OBJETIVO GARANTIR O DIREITO /g172 ACESSIBILIDADE E /g44/g49/g38/g47/g56/g54/g173/g50 SOCIAL DE PESSOAS DE BAIXA RENDA COM /g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36 OU MOBILIDADE REDUZIDA NO ESTADO DO RIO DE JANEIRO. A ACESSIBILIDADE /g101 UM DIREITO HUMANO FUNDAMENTAL QUE DEVE SER ASSEGURADO A TODAS AS PESSOAS, INDEPENDENTEMENTE DE SUA /g38/g50/g49/g39/g44/g100/g173/g50 /g41/g203/g54/g44/g38/g36/g15 MENTAL OU SENSORIAL. NO ENTANTO, MUITAS PESSOAS COM /g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36 OU MOBILIDADE REDUZIDA DE BAIXA RENDA ENFRENTAM BARREIRAS EM SUAS /g51/g53/g207/g51/g53/g44/g36/g54 /g53/g40/g54/g44/g39/g199/g49/g38/g44/g36/g54/g15 O QUE LIMITA SUA AUTONOMIA E /g51/g36/g53/g55/g44/g38/g44/g51/g36/g100/g173/g50 PLENA NA SOCIEDADE.
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g22/g19
+
+PROGRAMA: 0442 - Ensino Superior
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g21/g27/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g15/g3/g51/g72/g86/g84/g88/g76/g86/g68/g15/g3/g40/g91/g87/g72/g81/g86/g109/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 NOVO PRODUTO: INFRAESTRUTURA DA NOVA UNIDADE DA UERJ -  ZONA OESTE IMPLEMENTADO
+
+META: 1
+
+Justificativa: A EMENDA VISA APOIAR A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE NOVA UNIDADE DO CAMPUS DA UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO (UEZO) NA ZONA OESTE. CONSIDERANDO QUE A UERJ VENCEU A ETAPA DA /g39/g40/g54/g36/g51/g53/g50/g51/g53/g44/g36/g100/g173/g50 DE DOIS /g44/g48/g207/g57/g40/g44/g54 NAS RUAS ENGENHEIRO TRINDADE E AMARAL COSTA LOCAL QUE ANTES ABRIGAVA O CENTRO /g56/g49/g44/g57/g40/g53/g54/g44/g55/g200/g53/g44/g50 MOACYR SREDER BASTOS, PARA A /g44/g49/g54/g55/g36/g47/g36/g100/g173/g50 DO NOVO CAMPUS DA UERJ/ZONA OESTE. NESTE MOMENTO NECESSITA REALIZAR AS OBRAS DE INFRAESTRUTURA E /g36/g52/g56/g44/g54/g44/g100/g173/g50 DE MATERIAIS E EQUIPAMENTOS
+
+<!-- image -->
+
+JANEIRO
+
+ESTADO
+
+RIO
+
+DO
+
+DE
+
+## /g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g22/g22
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g23/g28/g3/g16/g3/g36/g83/g82/g76/g82/g3/g106/g3/g51/g72/g86/g84/g88/g76/g86/g68/g3/g38/g76/g72/g81/g87/g116/g73/g76/g70/g68/g15/g3/g55/g72/g70/g81/g82/g79/g121/g74/g76/g70/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g3/g81/g82/g3/g40/g86/g87/g68/g71/g82/g3/g71/g82/g3/g53/g76/g82/g3/g71/g72/g3 Janeiro
+
+/g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g50/g37/g54/g40/g53/g57/g36/g55/g207/g53/g44/g50/g3/g39/g40/g3/g41/g44/g49/g36/g49/g100/g36/g54/g3/g51/g210/g37/g47/g44/g38/g36/g54/g3/g49/g36/g3/g56/g40/g53/g45/g3/g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g39/g50
+
+META: 1
+
+Justificativa: A EMENDA VISA GARANTIR A /g40/g59/g40/g38/g56/g100/g173/g50 DO /g50/g37/g54/g40/g53/g57/g36/g55/g207/g53/g44/g50 DO /g41/g44/g49/g36/g49/g100/g36/g54 /g51/g210/g37/g47/g44/g38/g36/g54 DO ESTADO DO RIO DE JANEIRO, SEDIADO NA UERJ, COM O OBJETIVO DE PROMOVER ESTUDOS E PESQUISA RELACIONADOS A SUSTENTABILIDADE FISCAL DO RIO DE JANEIRO COMPARADO COM AS DEMAIS 27 UNIDADES DA /g41/g40/g39/g40/g53/g36/g100/g173/g50/g17 A PROPOSTA /g101 FAZER A /g38/g50/g48/g37/g44/g49/g36/g100/g173/g50 DE EXPERTISE /g36/g38/g36/g39/g199/g48/g44/g38/g36 E FERRAMENTAS DE /g36/g49/g200/g47/g44/g54/g40 DE DADOS PARA DAR SUPORTE AO ESTADO DO RIO DE JANEIRO, QUE AINDA /g49/g173/g50 SE RECUPEROU COM OS EFEITOS DA CRISE FISCAL DESDE 2016. O GRUPO DE ESTUDOS DA ACADEMIA /g44/g53/g200 CONTRIBUIR PARA O APRIMORAMENTO DA /g42/g40/g54/g55/g173/g50 FISCAL E /g51/g53/g50/g48/g50/g100/g173/g50 DE ESTUDOS DA /g36/g51/g47/g44/g38/g36/g100/g173/g50/g3/g39/g50/g54/g3/g53/g40/g38/g56/g53/g54/g50/g54/g3/g51/g210/g37/g47/g44/g38/g50/g54/g17
+
+## /g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g22/g23
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g23/g28/g3/g16/g3/g36/g83/g82/g76/g82/g3/g106/g3/g51/g72/g86/g84/g88/g76/g86/g68/g3/g38/g76/g72/g81/g87/g116/g73/g76/g70/g68/g15/g3/g55/g72/g70/g81/g82/g79/g121/g74/g76/g70/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g3/g81/g82/g3/g40/g86/g87/g68/g71/g82/g3/g71/g82/g3/g53/g76/g82/g3/g71/g72/g3 Janeiro
+
+/g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g50/g37/g54/g40/g53/g57/g36/g55/g207/g53/g44/g50/g3/g39/g50/g3/g47/g40/g42/g44/g54/g47/g36/g55/g44/g57/g50/g3/g49/g36/g3/g56/g40/g53/g45/g3/g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g39/g50 META: 1
+
+Justificativa: A EMENDA VISA GARANTIR A /g40/g59/g40/g38/g56/g100/g173/g50 DO /g50/g37/g54/g40/g53/g57/g36/g55/g207/g53/g44/g50 DO LEGISLATIVO ESTADUAL, SEDIADO NO IESP/UERJ, /g49/g210/g38/g47/g40/g50 DE ESTUDOS E PESQUISA VOLTADO /g172 /g38/g50/g48/g37/g44/g49/g36/g100/g173/g50 DE EXPERTISE /g36/g38/g36/g39/g199/g48/g44/g38/g36 E FERRAMENTAS DE /g36/g49/g200/g47/g44/g54/g40 DE DADOS PARA PRODUZIR /g44/g49/g55/g40/g47/g44/g42/g199/g49/g38/g44/g36 SOBRE COMPORTAMENTO DOS PARLAMENTARES DO ESTADO DO RIO DE JANEIRO, COM VISTAS A CONTRIBUIR PARA O APRIMORAMENTO DAS ATIVIDADES DE ADVOCACY DAS /g50/g53/g42/g36/g49/g44/g61/g36/g100/g174/g40/g54 DA SOCIEDADE CIVIL E PARA A /g51/g53/g50/g48/g50/g100/g173/g50 DA /g55/g53/g36/g49/g54/g51/g36/g53/g199/g49/g38/g44/g36 DA ATIVIDADE LEGISLATIVA.
+
+## /g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g22/g24
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82
+
+/g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g36/g39/g36/g54/g55/g53/g50/g3/g39/g40/g3/g51/g40/g53/g48/g36/g49/g199/g49/g38/g44/g36/g3/g39/g40/g3/g36/g47/g56/g49/g50/g3/g38/g53/g44/g36/g39/g50
+
+META: 1
+
+Justificativa: A EMENDA VISA CRIAR UM CADASTRO DE /g51/g40/g53/g48/g36/g49/g199/g49/g38/g44/g36 DE ALUNO, COM A FINALIDADE REALIZAR ESTUDO DE ACOMPANHAMENTO /g40/g54/g55/g36/g55/g203/g54/g55/g44/g38/g50 DOS ALUNOS DA REDE ESTADUAL DE ENSINO QUE SE ENQUADRAM NAS /g54/g44/g55/g56/g36/g100/g174/g40/g54 DEFINIDAS PELA DIRETORIA REGIONAL DE /g40/g39/g56/g38/g36/g100/g173/g50 (DRE) E POR ESCOLA, PARA /g41/g50/g53/g48/g56/g47/g36/g100/g173/g50/g3/g39/g40/g3/g41/g56/g55/g56/g53/g36/g54/g3/g51/g50/g47/g203/g55/g44/g38/g36/g54/g3/g51/g210/g37/g47/g44/g38/g36/g54/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g22/g27
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g23/g28/g3/g16/g3/g36/g83/g82/g76/g82/g3/g106/g3/g51/g72/g86/g84/g88/g76/g86/g68/g3/g38/g76/g72/g81/g87/g116/g73/g76/g70/g68/g15/g3/g55/g72/g70/g81/g82/g79/g121/g74/g76/g70/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g3/g81/g82/g3/g40/g86/g87/g68/g71/g82/g3/g71/g82/g3/g53/g76/g82/g3/g71/g72/g3 Janeiro
+
+NOVO PRODUTO: PROGRAMA DE PESQUISA PERMANENTE DO ESTADO DO RIO DE JANEIRO APOIADO
+
+META: 1
+
+/g40/g54/g55/g173/g50 PRESENTES EM TODAS AS /g53/g40/g42/g44/g174/g40/g54 DO ESTADO: UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO (UERJ); UNIVERSIDADE ESTADUAL DO NORTE FLUMINENSE DARCY RIBEIRO (UENF); UNIVERSIDADE FEDERAL DO RIO DE JANEIRO (UFRJ); UNIVERSIDADE FEDERAL FLUMINENSE (UFF); UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO (UFRRJ); UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO (UNIRIO); INSTITUTO FEDERAL DO RIO DE JANEIRO (IFRJ); INSTITUTO FEDERAL FLUMINENSE (IFF); CENTRO FEDERAL DE /g40/g39/g56/g38/g36/g100/g173/g50 /g55/g40/g38/g49/g50/g47/g207/g42/g44/g38/g36 CELSO SUCKOW /g39/g36/g3/g41/g50/g49/g54/g40/g38/g36/g3/g11/g38/g40/g41/g40/g55/g18/g53/g45/g12/g30/g3/g40/g3/g38/g50/g47/g101/g42/g44/g50/g3/g51/g40/g39/g53/g50/g3/g44/g44/g3/g11/g38/g51/g44/g44/g12/g17/g3 Justificativa: O ESTADO DO RIO DE JANEIRO, QUE FOI A CAPITAL DO BRASIL POR QUASE DUZENTOS ANOS, /g36/g55/g101 OS DIAS ATUAIS TEM FORTE /g55/g53/g36/g39/g44/g100/g173/g50 DE /g53/g40/g41/g47/g40/g59/g173/g50 SOBRE /g55/g40/g48/g200/g55/g44/g38/g36/g54 NACIONAIS E POUCA /g55/g53/g36/g39/g44/g100/g173/g50 DE /g53/g40/g41/g47/g40/g59/g173/g50 REGIONAL. POR OUTRO LADO, POSSUI DEZ /g44/g49/g54/g55/g44/g55/g56/g44/g100/g174/g40/g54 /g51/g210/g37/g47/g44/g38/g36/g54 DE ENSINO SUPERIOR, QUE
+
+EVIDENCIA-SE, ASSIM, A NECESSIDADE DE FOMENTAR A /g38/g53/g44/g36/g100/g173/g50 DE UMA CULTURA DE PESQUISA E DE /g53/g40/g41/g47/g40/g59/g173/g50 REGIONAL, COM O OBJETIVO DE SUBSIDIAR O DESENVOLVIMENTO /g54/g50/g38/g44/g50/g40/g38/g50/g49/g208/g48/g44/g38/g50 FLUMINENSE, A PARTIR DA /g38/g53/g44/g36/g100/g173/g50 DE UM PROGRAMA PERMANENTE DE PESQUISA /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36/g15 /g55/g40/g38/g49/g50/g47/g207/g42/g44/g38/g36 E DE /g44/g49/g50/g57/g36/g100/g173/g50 NO ESTADO DO RIO DE JANEIRO. ESSE PROGRAMA /g54/g40/g53/g200 REALIZADO POR MEIO DE UMA PARCERIA ENTRE AS UNIVERSIDADES ESTADUAIS E AS DEMAIS /g44/g49/g54/g55/g44/g55/g56/g44/g100/g174/g40/g54 /g51/g210/g37/g47/g44/g38/g36/g54/g3/g39/g40/g3/g40/g49/g54/g44/g49/g50/g3/g54/g56/g51/g40/g53/g44/g50/g53/g3/g40/g59/g44/g54/g55/g40/g49/g55/g40/g54/g3/g49/g50/g3/g40/g54/g55/g36/g39/g50/g17
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Deputado Vitor Junior
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g28/g23
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g21/g3/g16/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g43/g68/g69/g76/g87/g68/g70/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g74/g88/g79/g68/g85/g76/g93/g68/g111/g109/g82/g3/g41/g88/g81/g71/g76/g105/g85/g76/g68
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g22/g26/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g36/g70/g72/g86/g86/g82/g3/g106/g3/g48/g82/g85/g68/g71/g76/g68/g3/g39/g76/g74/g81/g68
+
+PRODUTO: 8844 - Localidade urbanizada ou atendida com infraestrutura
+
+META: 93
+
+Justificativa: O DIREITO A TER UM /g40/g54/g51/g36/g100/g50 PARA RESIDIR, TER PRIVACIDADE E LAZER /g101 DE EXTREMA /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 PARA O DESENVOLVIMENTO DE QUALQUER SER HUMANO. AO GARANTIR UMA MORADIA DIGNA /g55/g36/g48/g37/g101/g48 /g101 /g51/g50/g54/g54/g203/g57/g40/g47 GARANTIR CIDADANIA E DIGNIDADE DE ESTAR INSERIDO EM UMA SOCIEDADE MAIS /g39/g40/g48/g50/g38/g53/g200/g55/g44/g38/g36/g3/g40/g3/g44/g49/g38/g47/g56/g54/g44/g57/g36/g17
+
+Deputado Vitor Junior
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g28/g24
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g20/g23/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g68/g82/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g3/g38/g76/g72/g81/g87/g116/g73/g76/g70/g82/g86/g3/g72/g3/g55/g72/g70/g81/g82/g79/g121/g74/g76/g70/g82
+
+/g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g25/g25/g23/g3/g16/g3/g51/g82/g79/g82/g15/g3/g83/g68/g85/g84/g88/g72/g3/g72/g3/g70/g79/g88/g86/g87/g72/g85/g3/g87/g72/g70/g81/g82/g79/g121/g74/g76/g70/g82/g3/g68/g83/g82/g76/g68/g71/g82 META: 10
+
+Justificativa:
+
+PROMOVER
+
+/g36/g48/g51/g47/g44/g36/g100/g173/g50
+
+A
+
+DESENVOLVIMENTO
+
+/g54/g56/g54/g55/g40/g49/g55/g200/g57/g40/g47
+
+/g55/g40/g38/g49/g50/g47/g207/g42/g44/g38/g36/g17
+
+UM ECOSSISTEMA DE /g44/g49/g50/g57/g36/g100/g173/g50 TEM A CAPACIDADE DE TRANSFORMAR O /g39/g40/g54/g40/g49/g57/g50/g47/g57/g44/g48/g40/g49/g55/g50/g3/g54/g50/g38/g44/g36/g47/g3/g40/g38/g50/g49/g208/g48/g44/g38/g50/g3/g39/g40/g3/g38/g44/g39/g36/g39/g40/g54/g3/g40/g3/g53/g40/g42/g44/g174/g40/g54/g17
+
+## Deputado Vitor Junior
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g28/g25
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g24/g24/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g36/g74/g85/g82/g83/g72/g70/g88/g105/g85/g76/g82/g15/g3/g51/g72/g86/g84/g88/g72/g76/g85/g82/g3/g72/g3/g36/g84/g88/g116/g70/g82/g79/g68/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g24/g22/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g15/g3/g41/g82/g80/g72/g81/g87/g82/g3/g72/g3/g39/g72/g73/g72/g86/g68/g3/g54/g68/g81/g76/g87/g105/g85/g76/g68/g3/g71/g68/g3/g36/g74/g85/g82/g83/g72/g70/g88/g105/g85/g76/g68/g3/g41/g79/g88/g80/g76/g81/g72/g81/g86/g72 PRODUTO: 7932 - Mercado do Produtor implantado
+
+META: 5
+
+Justificativa: O /g43/g200/g37/g44/g55/g50 DE PROCURA POR ALIMENTOS MAIS /g54/g36/g56/g39/g200/g57/g40/g44/g54 VEM AUMENTANDO COM O OBJETIVO NA /g54/g36/g210/g39/g40 E BEM ESTAR DA /g51/g50/g51/g56/g47/g36/g100/g173/g50/g15 ASSIM INCENTIVAR A PRODUTORES NA /g51/g53/g50/g39/g56/g100/g173/g50 DE ALIMENTOS LIVRES DO USO DE /g36/g42/g53/g50/g55/g207/g59/g44/g38/g50/g54/g15/g3/g51/g50/g53/g3/g40/g59/g40/g48/g51/g47/g50/g15/g3/g38/g50/g49/g55/g53/g44/g37/g56/g44/g3/g51/g36/g53/g36/g3/g40/g54/g55/g36/g3/g51/g53/g200/g55/g44/g38/g36/g17
+
+## Deputado Vitor Junior
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g28/g26
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g26/g3/g16/g3/g39/g72/g86/g72/g80/g83/g72/g81/g75/g82/g3/g36/g70/g68/g71/g114/g80/g76/g70/g82/g3/g44/g81/g70/g79/g88/g86/g76/g89/g82/g3/g81/g68/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 PRODUTO: 3574 - Evento esportivo realizado
+
+META: 100
+
+<!-- image -->
+
+E
+
+DE
+
+FORTALECER
+
+/g51/g50/g47/g203/g55/g44/g38/g36/g54
+
+O AMBIENTE
+
+/g51/g210/g37/g47/g44/g38/g36/g54
+
+DE
+
+DE
+
+/g44/g49/g50/g57/g36/g100/g173/g50
+
+DO
+
+## /g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g22/g20
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g28/g19/g3/g16/g3/g48/g82/g71/g72/g85/g81/g76/g93/g68/g111/g109/g82/g3/g72/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g71/g82/g3/g36/g80/g69/g76/g72/g81/g87/g72/g3/g71/g72/g3/g55/g44/g38
+
+/g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g47/g36/g37/g50/g53/g36/g55/g207/g53/g44/g50/g3/g39/g40/g3/g44/g49/g41/g50/g53/g48/g200/g55/g44/g38/g36/g3/g49/g36/g3/g40/g54/g38/g50/g47/g36/g3/g39/g40/g3/g42/g50/g57/g40/g53/g49/g50/g3/g40/g48/g3 /g48/g36/g42/g101/g3/g36/g51/g50/g44/g36/g39/g50
+
+META: 1
+
+Justificativa: A EMENDA VIDA APOIAR A /g40/g54/g55/g53/g56/g55/g56/g53/g36/g100/g173/g50 DO /g47/g36/g37/g50/g53/g36/g55/g207/g53/g44/g50 DE /g44/g49/g41/g50/g53/g48/g200/g55/g44/g38/g36 A SER INSTALADO NA ESCOLA DE GOVERNO DE /g48/g36/g42/g101/g15 COM VISTA A APLICAR AULAS DE /g38/g36/g51/g36/g38/g44/g55/g36/g100/g173/g50 DE SISTEMAS AOS SERVIDORES COM O OBJETIVO /g39/g40/g3/g48/g40/g47/g43/g50/g53/g3/g36/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g50/g3/g54/g40/g53/g57/g44/g100/g50/g3/g51/g53/g40/g54/g55/g36/g39/g50/g3/g172/g3/g51/g50/g51/g56/g47/g36/g100/g173/g50/g3/g39/g50/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g17
+
+## /g39/g72/g83/g88/g87/g68/g71/g82/g3/g57/g76/g81/g116/g70/g76/g88/g86/g3/g38/g82/g93/g93/g82/g79/g76/g81/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g22/g21
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g25/g3/g16/g3/g53/g72/g86/g76/g79/g76/g114/g81/g70/g76/g68/g15/g3/g53/g72/g71/g88/g111/g109/g82/g3/g71/g72/g3/g53/g76/g86/g70/g82/g15/g3/g53/g72/g86/g83/g82/g86/g87/g68/g3/g72/g3/g53/g72/g70/g88/g83/g72/g85/g68/g111/g109/g82/g3/g72/g80/g3/g39/g72/g86/g68/g86/g87/g85/g72/g86/g3/g72/g3 /g40/g80/g72/g85/g74/g114/g81/g70/g76/g68/g86
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g25/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g36/g87/g76/g89/g76/g71/g68/g71/g72/g3/g72/g3/g36/g111/g109/g82/g3/g71/g72/g3/g53/g72/g86/g83/g82/g86/g87/g68/g3/g68/g3/g36/g70/g76/g71/g72/g81/g87/g72/g86/g15/g3/g40/g80/g72/g85/g74/g114/g81/g70/g76/g68/g86/g3/g72/g3 Desastres
+
+/g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g50/g37/g53/g36/g54/g3/g40/g48/g40/g53/g42/g199/g49/g38/g44/g36/g54/g3/g39/g40/g3/g39/g40/g54/g36/g54/g55/g53/g40/g54/g3/g39/g40/g3/g38/g43/g56/g57/g36/g54/g3/g40/g48/g3/g48/g36/g42/g101/g3 APOIADA
+
+META: 1
+
+Justificativa: A EMENDA VISA PROVER MAIS /g54/g40/g42/g56/g53/g36/g49/g100/g36 AOS MORADORES DO /g48/g56/g49/g44/g38/g203/g51/g44/g50 DE /g48/g36/g42/g101 COM OBRAS DE /g38/g50/g49/g55/g40/g49/g100/g173/g50/g15 /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 DA MARGEM DE CANAL E VIAS, /g36/g51/g207/g54 A /g39/g40/g54/g55/g53/g56/g44/g100/g173/g50 CAUSADA PELAS FORTES CHUVAS QUE ATINGIRAM O DISTRITO DE SANTO ALEIXO.
+
+Justificativa: NA /g200/g53/g40/g36 DE ESPORTE, OS CENTROS DE /g40/g39/g56/g38/g36/g100/g173/g50 /g41/g203/g54/g44/g38/g36 E ESPORTES ASSUMEM UM PAPEL DE DESTAQUE NA REDE FAETEC, BENEFICIANDO ALUNOS E INTEGRANTES DA COMUNIDADE COM PROJETOS DE DIVERSAS NATUREZAS. ASSOCIANDO A /g54/g36/g210/g39/g40 DO CORPO /g172 /g54/g36/g210/g39/g40 DA MENTE, PROFESSORES /g39/g173/g50 AULAS /g39/g40/g3/g40/g54/g51/g50/g53/g55/g40/g54/g3/g38/g50/g47/g40/g55/g44/g57/g50/g54/g3/g40/g3/g49/g36/g55/g36/g100/g173/g50/g15/g3/g40/g49/g55/g53/g40/g3/g50/g56/g55/g53/g36/g54/g3/g48/g50/g39/g36/g47/g44/g39/g36/g39/g40/g54/g17
+
+## Deputado Vitor Junior /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g28/g27
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g24/g24/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g36/g74/g85/g82/g83/g72/g70/g88/g105/g85/g76/g82/g15/g3/g51/g72/g86/g84/g88/g72/g76/g85/g82/g3/g72/g3/g36/g84/g88/g116/g70/g82/g79/g68/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g24/g24/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g68/g82/g3/g54/g72/g87/g82/g85/g3/g51/g72/g86/g84/g88/g72/g76/g85/g82/g3/g72/g3/g36/g84/g88/g116/g70/g82/g79/g68
+
+PRODUTO: 8498 - Documento para acesso /g106/g3/g83/g82/g79/g116/g87/g76/g70/g68/g86/g3/g83/g126/g69/g79/g76/g70/g68/g86/g3/g72/g80/g76/g87/g76/g71/g82/g3/g68/g82/g3/g83/g72/g86/g70/g68/g71/g82/g85/g3/g72/g3
+
+aquicultor
+
+META: 80
+
+Justificativa: FORTALECIMENTO DO SETOR PESQUEIRO COMO /g42/g40/g53/g36/g100/g173/g50 DE RENDA E /g44/g49/g39/g56/g100/g173/g50/g3/g39/g36/g3/g40/g38/g50/g49/g50/g48/g44/g36/g3/g39/g50/g3/g40/g54/g55/g36/g39/g50
+
+## Deputado Vitor Junior
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g28/g28
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g24/g19/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g82/g3/g54/g56/g36/g54/g15/g3/g51/g85/g82/g87/g72/g111/g109/g82/g3/g54/g82/g70/g76/g68/g79/g3/g72/g3/g53/g72/g71/g88/g111/g109/g82/g3/g71/g68/g3/g51/g82/g69/g85/g72/g93/g68
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g22/g23/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g51/g85/g82/g87/g72/g111/g109/g82/g3/g54/g82/g70/g76/g68/g79/g3/g40/g86/g83/g72/g70/g76/g68/g79
+
+/g51/g53/g50/g39/g56/g55/g50/g29/g3/g26/g28/g26/g26/g3/g16/g3/g51/g72/g86/g86/g82/g68/g3/g72/g80/g3/g89/g88/g79/g81/g72/g85/g68/g69/g76/g79/g76/g71/g68/g71/g72/g3/g86/g82/g70/g76/g82/g72/g70/g82/g81/g123/g80/g76/g70/g68/g3/g68/g87/g72/g81/g71/g76/g71/g68
+
+META: 350.000
+
+Justificativa: O CADASTRO /g210/g49/g44/g38/g50 /g101 A PORTA DE ENTRADA PARA MUITOS PROGRAMAS SOCIAIS OFERTADOS PELO GOVERNO FEDERAL E /g55/g36/g48/g37/g101/g48 /g38/g50/g49/g39/g44/g100/g173/g50 PARA ALGUNS PROGRAMA SOCIAIS OFERTADOS PELO GOVERNO DO ESTADO DO RIO DE JANEIRO.
+
+Deputado Vitor Junior
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g19/g19
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g21/g3/g16/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g43/g68/g69/g76/g87/g68/g70/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g74/g88/g79/g68/g85/g76/g93/g68/g111/g109/g82/g3/g41/g88/g81/g71/g76/g105/g85/g76/g68
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g28/g3/g16/g3/g39/g72/g80/g82/g70/g85/g68/g87/g76/g93/g68/g111/g109/g82/g3/g71/g82/g3/g36/g70/g72/g86/g86/g82/g3/g106/g3/g55/g72/g85/g85/g68/g3/g72/g3/g106/g3/g48/g82/g85/g68/g71/g76/g68/g3/g81/g82/g3/g72/g86/g87/g68/g71/g82/g3/g71/g82/g3/g53/g76/g82/g3/g71/g72/g3 Janeiro
+
+/g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g24/g25/g28/g3/g16/g3/g56/g81/g76/g71/g68/g71/g72/g3/g75/g68/g69/g76/g87/g68/g70/g76/g82/g81/g68/g79/g3/g70/g82/g81/g86/g87/g85/g88/g116/g71/g68/g18/g85/g72/g73/g82/g85/g80/g68/g71/g68
+
+META: 200
+
+Justificativa: A /g53/g40/g42/g56/g47/g36/g53/g44/g61/g36/g100/g173/g50 /g41/g56/g49/g39/g44/g200/g53/g44/g36 /g101 ESSENCIAL PARA ASSEGURAR O /g39/g44/g53/g40/g44/g55/g50/g3/g172/g3/g55/g40/g53/g53/g36/g3/g40/g3/g172/g3/g48/g50/g53/g36/g39/g44/g36/g15/g3/g38/g44/g39/g36/g39/g36/g49/g44/g36/g3/g40/g3/g56/g48/g36/g3/g57/g44/g39/g36/g3/g48/g36/g44/g54/g3/g39/g44/g42/g49/g36/g17
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Deputada Zeidan
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g25/g21
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g28/g3/g16/g3/g44/g81/g89/g72/g86/g87/g76/g80/g72/g81/g87/g82/g86/g3/g72/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g40/g70/g82/g81/g123/g80/g76/g70/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g20/g27/g3/g16/g3/g40/g86/g87/g116/g80/g88/g79/g82/g3/g68/g3/g39/g76/g89/g72/g85/g86/g76/g73/g76/g70/g68/g111/g109/g82/g3/g72/g3/g82/g3/g36/g71/g72/g81/g86/g68/g80/g72/g81/g87/g82/g3/g71/g72/g3/g38/g68/g71/g72/g76/g68/g86/g3/g51/g85/g82/g71/g88/g87/g76/g89/g68/g86 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g39/g40/g54/g40/g49/g57/g50/g47/g57/g44/g48/g40/g49/g55/g50/g3/g39/g50/g3/g51/g50/g47/g50/g3/g42/g36/g54/g47/g56/g37
+
+Justificativa: O CRESCIMENTO DO ERJ PASSA PELO DESENVOLVIMENTO, /g48/g50/g39/g40/g53/g49/g44/g61/g36/g100/g173/g50 E /g39/g44/g49/g36/g48/g44/g61/g36/g100/g173/g50 DO SETOR DE /g51/g40/g55/g53/g207/g47/g40/g50 E /g42/g200/g54/g17 A /g44/g49/g54/g55/g36/g47/g36/g100/g173/g50 DO POLO GASLUB, QUE /g51/g53/g50/g39/g56/g61/g44/g53/g200 PRODUTOS /g51/g40/g55/g53/g50/g52/g56/g203/g48/g44/g38/g50/g54 EM LARGA ESCALA, VAI TRAZER PROGRESSO, EMPREGO E RENDA PARA A /g51/g50/g51/g56/g47/g36/g100/g173/g50 DE /g44/g55/g36/g37/g50/g53/g36/g203 E DE TODA A /g53/g40/g42/g44/g173/g50 METROPOLITANA, /g36/g47/g101/g48 DE FORTALECER A /g44/g49/g39/g210/g54/g55/g53/g44/g36 NAVAL BRASILEIRA EM GERAL.
+
+## Deputada Zeidan /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g25/g22
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g28/g3/g16/g3/g44/g81/g89/g72/g86/g87/g76/g80/g72/g81/g87/g82/g86/g3/g72/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g40/g70/g82/g81/g123/g80/g76/g70/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g19/g22/g3/g16/g3/g51/g82/g87/g72/g81/g70/g76/g68/g79/g76/g93/g68/g111/g109/g82/g3/g71/g82/g3/g54/g72/g87/g82/g85/g3/g40/g81/g72/g85/g74/g112/g87/g76/g70/g82/g3/g68/g87/g85/g68/g89/g112/g86/g3/g71/g72/g3/g40/g81/g72/g85/g74/g76/g68/g3/g53/g72/g81/g82/g89/g105/g89/g72/g79/g3/g71/g82/g3/g40/g53/g45 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g44/g49/g38/g40/g49/g55/g44/g57/g50/g3/g36/g50/g3/g56/g54/g50/g3/g39/g50/g3/g43/g44/g39/g53/g50/g42/g199/g49/g44/g50/g3/g38/g50/g48/g50/g3/g41/g50/g49/g55/g40/g3/g39/g40/g3/g40/g49/g40/g53/g42/g44/g36
+
+## Deputada Zeidan
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g25/g23
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g28/g3/g16/g3/g44/g81/g89/g72/g86/g87/g76/g80/g72/g81/g87/g82/g86/g3/g72/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g40/g70/g82/g81/g123/g80/g76/g70/g82
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g19/g22/g3/g16/g3/g51/g82/g87/g72/g81/g70/g76/g68/g79/g76/g93/g68/g111/g109/g82/g3/g71/g82/g3/g54/g72/g87/g82/g85/g3/g40/g81/g72/g85/g74/g112/g87/g76/g70/g82/g3/g68/g87/g85/g68/g89/g112/g86/g3/g71/g72/g3/g40/g81/g72/g85/g74/g76/g68/g3/g53/g72/g81/g82/g89/g105/g89/g72/g79/g3/g71/g82/g3/g40/g53/g45
+
+/g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g25/g25/g28/g3/g16/g3/g40/g81/g72/g85/g74/g76/g68/g3/g85/g72/g81/g82/g89/g105/g89/g72/g79/g3/g72/g3/g86/g88/g86/g87/g72/g81/g87/g105/g89/g72/g79/g3/g76/g80/g83/g79/g72/g80/g72/g81/g87/g68/g71/g68
+
+META: 1
+
+Justificativa: O /g43/g44/g39/g53/g50/g42/g199/g49/g44/g50 VERDE APRESENTA VANTAGENS SIGNIFICATIVAS PARA A /g39/g40/g54/g38/g36/g53/g37/g50/g49/g44/g61/g36/g100/g173/g50 DA ECONOMIA GLOBAL. /g101 UMA FONTE /g54/g56/g54/g55/g40/g49/g55/g200/g57/g40/g47/g15 /g49/g173/g50 /g40/g48/g44/g55/g44/g49/g39/g50/g3/g42/g36/g54/g40/g54/g3/g51/g50/g47/g56/g40/g49/g55/g40/g54/g3/g39/g56/g53/g36/g49/g55/g40/g3/g54/g56/g36/g3/g51/g53/g50/g39/g56/g100/g173/g50/g3/g50/g56/g3/g38/g50/g48/g37/g56/g54/g55/g173/g50/g17
+
+## Deputada Zeidan
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g21/g25
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g28/g3/g16/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g37/g72/g81/g86/g3/g38/g88/g79/g87/g88/g85/g68/g76/g86/g3/g72/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g38/g88/g79/g87/g88/g85/g68 INICIATIVA: 0113 - Apoio e Desenvolvimento da Arte e da Cultura NOVO PRODUTO: BLOCO DE CARNAVAL DE RUA APOIADO META: 100
+
+Justificativa: O CARNAVAL, /g36/g47/g101/g48 DE CARREGAR A ALMA DA CULTURA FLUMINENSE, /g101 GERADOR DE EMPREGO, /g50/g38/g56/g51/g36/g100/g173/g50 E RENDA NO ERJ, SENDO MOTOR DE /g39/g40/g54/g40/g49/g57/g50/g47/g57/g44/g48/g40/g49/g55/g50/g3/g40/g38/g50/g49/g208/g48/g44/g38/g50/g3/g40/g3/g54/g50/g38/g44/g36/g47/g17
+
+Id:  2588988
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+364
+
+<!-- image -->
+
+365
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+Deputada Marina Do Mst /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g25/g23 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g19/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g71/g72/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g43/g88/g80/g68/g81/g82/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g27/g27/g19/g3/g16/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g72/g3/g83/g85/g82/g87/g72/g111/g109/g82/g3/g68/g3/g70/g85/g76/g68/g81/g111/g68/g86/g3/g72/g3/g68/g71/g82/g79/g72/g86/g70/g72/g81/g87/g72/g86/g3/g68/g80/g72/g68/g111/g68/g71/g82/g86/g3/g85/g72/g68/g79/g76/g93/g68/g71/g82 META: 600 Justificativa: O OBJETIVO DO PRODUTO VISA /g172 RETIRADA DA /g38/g53/g44/g36/g49/g100/g36 E DO ADOLESCENTE EM /g54/g44/g55/g56/g36/g100/g173/g50 DE /g36/g48/g40/g36/g100/g36 DE MORTE, BEM COMO DE SEUS FAMILIARES, DO LOCAL DA /g36/g48/g40/g36/g100/g36 E A /g38/g50/g47/g50/g38/g36/g100/g173/g50 EM NOVOS /g40/g54/g51/g36/g100/g50/g54 DE MORADIA E /g38/g50/g49/g57/g44/g57/g199/g49/g38/g44/g36/g15 PROMOVENDO A /g53/g40/g44/g49/g54/g40/g53/g100/g173/g50 SOCIAL EM LOCAL SEGURO. VISA CONSTRUIR ALTERNATIVAS DE VIDA COM OS PROTEGIDOS /g36/g55/g53/g36/g57/g101/g54 DE UMA /g51/g50/g47/g203/g55/g44/g38/g36 ARTICULADA ENTRE A REDE EDUCACIONAL, DE /g54/g36/g210/g39/g40/g15 LAZER, CULTURA E PROFISSIONALIZANTE, ENTRE OUTRAS.
+
+Id:  2588989
+
+/g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g23/g25/g25/g3/g16/g3/g40/g84/g88/g76/g83/g68/g80/g72/g81/g87/g82/g3/g88/g85/g69/g68/g81/g82/g3/g83/g126/g69/g79/g76/g70/g82/g3/g70/g82/g81/g86/g87/g85/g88/g116/g71/g82/g18/g85/g72/g73/g82/g85/g80/g68/g71/g82 META: 50 Justificativa: A PRESENTE EMENDA TEM POR OBJETIVO POSSIBILITAR /g172 /g36/g39/g48/g44/g49/g44/g54/g55/g53/g36/g100/g173/g50 /g51/g210/g37/g47/g44/g38/g36 A /g36/g48/g51/g47/g44/g36/g100/g173/g50 DA OFERTA DE UNIDADES HABITACIONAIS DESTINADAS /g172/g54 PESSOAS VITIMADAS POR EVENTOS /g38/g47/g44/g48/g200/g55/g44/g38/g50/g54 EXTREMOS QUE RESULTEM EM ENCHENTES E ALAGAMENTOS, CULMINANDO COM A PERDA DE /g48/g50/g53/g36/g39/g44/g36/g3/g39/g44/g42/g49/g36/g3/g39/g36/g54/g3/g53/g40/g41/g40/g53/g44/g39/g36/g54/g3/g57/g203/g55/g44/g48/g36/g54/g17
+
+Deputada Marina Do Mst /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g24/g28 PROGRAMA: 0494 - Meio Ambiente e Sustentabilidade /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g25/g19/g3/g16/g3/g36/g80/g83/g79/g76/g68/g111/g109/g82/g3/g72/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g38/g82/g69/g72/g85/g87/g88/g85/g68/g3/g71/g72/g3/g54/g68/g81/g72/g68/g80/g72/g81/g87/g82/g3/g37/g105/g86/g76/g70/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g22/g22/g22/g22/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g71/g72/g3/g68/g69/g68/g86/g87/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g72/g3/g105/g74/g88/g68/g3/g68/g80/g83/g79/g76/g68/g71/g82 META: 30 Justificativa: A PRESENTE EMENDA OBJETIVA POSSIBILITAR O FOMENTO DAS /g36/g100/g174/g40/g54 1611 /g11/g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DA /g40/g54/g55/g36/g100/g173/g50 DE TRATAMENTO DE /g200/g42/g56/g36 DO NOVO GUANDU), 1663 /g11/g36/g48/g51/g47/g44/g36/g100/g173/g50 E MELHORIA OPERACIONAL DOS SISTEMAS GUANDU E IMUNANA /g47/g36/g53/g36/g49/g45/g36/g47/g12/g3/g40/g3/g21/g22/g19/g28/g3/g11/g51/g50/g47/g203/g55/g44/g38/g36/g3/g44/g49/g54/g55/g44/g55/g56/g38/g44/g50/g49/g36/g47/g3/g39/g40/g3/g48/g40/g44/g50/g3/g36/g48/g37/g44/g40/g49/g55/g40/g3/g39/g36/g3/g38/g40/g39/g36/g40/g12/g17 A OFERTA DE SANEAMENTO /g37/g200/g54/g44/g38/g50 /g172 /g51/g50/g51/g56/g47/g36/g100/g173/g50 /g101 MAIS QUE DEVER DO ESTADO, /g101 A /g40/g59/g51/g53/g40/g54/g54/g173/g50 DO RESPEITO AO DIREITO HUMANO A UMA VIDA DIGNA E A OFERTA /g39/g40/g3/g38/g50/g49/g39/g44/g100/g174/g40/g54/g3/g39/g40/g3/g48/g36/g49/g56/g55/g40/g49/g100/g173/g50/g3/g39/g36/g3/g57/g44/g39/g36/g3/g54/g36/g56/g39/g200/g57/g40/g47/g17
+
+Deputada Marina Do Mst /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g25/g19 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g21/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g44/g74/g88/g68/g79/g71/g68/g71/g72/g3/g53/g68/g70/g76/g68/g79 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g21/g21/g28/g27/g3/g16/g3/g38/g68/g80/g83/g68/g81/g75/g68/g3/g71/g72/g3/g83/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g76/g74/g88/g68/g79/g71/g68/g71/g72/g3/g85/g68/g70/g76/g68/g79/g3/g85/g72/g68/g79/g76/g93/g68/g71/g68 META: 10 /g45/g88/g86/g87/g76/g73/g76/g70/g68/g87/g76/g89/g68/g29/g3/g51/g53/g50/g48/g50/g100/g173/g50/g3/g39/g40/g3/g38/g36/g48/g51/g36/g49/g43/g36/g54/g3/g40/g48/g3/g39/g40/g41/g40/g54/g36/g3/g39/g36/g3/g40/g52/g56/g44/g39/g36/g39/g40/g3/g53/g36/g38/g44/g36/g47/g17
+
+Deputada Marina Do Mst /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g25/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g25/g26/g3/g16/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g36/g79/g76/g80/g72/g81/g87/g68/g85/g3/g72/g3/g49/g88/g87/g85/g76/g70/g76/g82/g81/g68/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g20/g27/g3/g16/g3/g44/g81/g70/g72/g81/g87/g76/g89/g82/g3/g68/g82/g3/g73/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g72/g3/g54/g76/g86/g87/g72/g80/g68/g86/g3/g36/g74/g85/g82/g68/g79/g76/g80/g72/g81/g87/g68/g85/g72/g86/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g76/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g26/g25/g26/g20/g3/g16/g3/g50/g85/g74/g68/g81/g76/g93/g68/g111/g109/g82/g3/g71/g68/g3/g68/g74/g85/g76/g70/g88/g79/g87/g88/g85/g68/g3/g73/g68/g80/g76/g79/g76/g68/g85/g3/g76/g81/g86/g72/g85/g76/g71/g68/g3/g81/g82/g3/g80/g72/g85/g70/g68/g71/g82/g3/g76/g81/g86/g87/g76/g87/g88/g70/g76/g82/g81/g68/g79 META: 100 Justificativa: O OBJETIVO DESTA EMENDA /g101 POSSIBILITAR UMA MAIOR /g44/g49/g54/g40/g53/g100/g173/g50 DA AGRICULTURA FAMILIAR NO MERCADO INSTITUCIONAL, VALORIZANDO O IMPORTANTE TRABALHO DOS AGRICULTORES E DAS AGRICULTORAS NO COMBATE /g172 /g41/g50/g48/g40/g3/g40/g3/g49/g36/g3/g50/g41/g40/g53/g55/g36/g3/g39/g40/g3/g36/g47/g44/g48/g40/g49/g55/g36/g100/g173/g50/g3/g54/g36/g56/g39/g200/g57/g40/g47/g3/g172/g3/g51/g50/g51/g56/g47/g36/g100/g173/g50/g3/g41/g47/g56/g48/g44/g49/g40/g49/g54/g40/g17
+
+Deputada Marina Do Mst /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g25/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g26/g3/g16/g3/g40/g80/g83/g85/g72/g74/g82/g15/g3/g53/g72/g81/g71/g68/g3/g72/g3/g41/g82/g85/g80/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g82/g3/g48/g72/g85/g70/g68/g71/g82/g3/g71/g72/g3/g55/g85/g68/g69/g68/g79/g75/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g23/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g42/g72/g85/g68/g111/g109/g82/g3/g71/g72/g3/g40/g80/g83/g85/g72/g74/g82/g3/g72/g3/g53/g72/g81/g71/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g26/g20/g20/g25/g3/g16/g3/g44/g81/g76/g70/g76/g68/g87/g76/g89/g68/g3/g71/g72/g3/g72/g70/g82/g81/g82/g80/g76/g68/g3/g86/g82/g79/g76/g71/g105/g85/g76/g68/g3/g68/g83/g82/g76/g68/g71/g68 META: 50 Justificativa: A PRESENTE EMENDA TEM POR FINALIDADE A /g36/g48/g51/g47/g44/g36/g100/g173/g50 DO INCENTIVO, POR PARTE DO PODER /g51/g210/g37/g47/g44/g38/g50/g15 AOS PROJETOS NA /g200/g53/g40/g36 DA ECONOMIA /g54/g50/g47/g44/g39/g200/g53/g44/g36/g15 POSSIBILITANDO MAIOR /g42/g40/g53/g36/g100/g173/g50 DE EMPREGO E RENDA /g172 /g51/g50/g51/g56/g47/g36/g100/g173/g50 FLUMINENSE.
+
+Deputada Marina Do Mst /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g25/g22 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g19/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g71/g72/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g43/g88/g80/g68/g81/g82/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g27/g26/g27/g3/g16/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g68/g3/g89/g116/g87/g76/g80/g68/g86/g3/g71/g72/g3/g89/g76/g82/g79/g68/g111/g125/g72/g86/g3/g71/g72/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g43/g88/g80/g68/g81/g82/g86/g3/g85/g72/g68/g79/g76/g93/g68/g71/g82 META: 1.000 Justificativa: /g36/g48/g51/g47/g44/g36/g100/g173/g50 E /g48/g36/g49/g56/g55/g40/g49/g100/g173/g50 DOS ATENDIMENTOS /g172/g54 /g57/g203/g55/g44/g48/g36/g54 DE /g57/g44/g50/g47/g36/g100/g174/g40/g54/g3/g39/g40/g3/g39/g44/g53/g40/g44/g55/g50/g54/g3/g43/g56/g48/g36/g49/g50/g54/g17
+
+Deputada Marina Do Mst /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g25/g24 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g21/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g44/g74/g88/g68/g79/g71/g68/g71/g72/g3/g53/g68/g70/g76/g68/g79 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g26/g23/g26/g21/g3/g16/g3/g38/g68/g80/g83/g68/g81/g75/g68/g3/g83/g68/g85/g68/g3/g71/g72/g73/g72/g86/g68/g3/g72/g3/g83/g85/g72/g86/g72/g85/g89/g68/g111/g109/g82/g3/g71/g68/g3/g80/g72/g80/g121/g85/g76/g68/g3/g71/g72/g3vitimas/g3/g71/g72/g3/g89/g76/g82/g79/g114/g81/g70/g76/g68/g3 realizada META: 10 Justificativa: /g51/g53/g50/g48/g50/g100/g173/g50 DA /g48/g40/g48/g207/g53/g44/g36 E LEGADO DE /g57/g203/g55/g44/g48/g36/g54 DA /g57/g44/g50/g47/g199/g49/g38/g44/g36 DO ESTADO.
+
+Deputada Marina Do Mst /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g25/g25 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g19/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g71/g72/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g43/g88/g80/g68/g81/g82/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g27/g27/g20/g3/g16/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g72/g3/g83/g85/g82/g87/g72/g111/g109/g82/g3/g68/g3/g71/g72/g73/g72/g81/g86/g82/g85/g72/g86/g3/g71/g72/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g43/g88/g80/g68/g81/g82/g86/g3/g68/g80/g72/g68/g111/g68/g71/g82/g86/g3 realizado META: 600 Justificativa: A /g48/g36/g49/g56/g55/g40/g49/g100/g173/g50 DA CONTINUIDADE DAS ATIVIDADES DO PROGRAMA DE /g51/g53/g50/g55/g40/g100/g173/g50 AOS DEFENSORES DE DIREITOS HUMANOS (PPDDH) TEM O OBJETIVO DE OFERECER /g51/g53/g50/g55/g40/g100/g173/g50 A DEFENSORES DE DIREITOS HUMANOS, COMUNICADORES E /g36/g48/g37/g44/g40/g49/g55/g36/g47/g44/g54/g55/g36/g54/g3/g52/g56/g40/g3/g40/g54/g55/g40/g45/g36/g48/g3/g40/g48/g3/g54/g44/g55/g56/g36/g100/g173/g50/g3/g39/g40/g3/g53/g44/g54/g38/g50/g3/g50/g56/g3/g54/g50/g41/g53/g40/g49/g39/g50/g3/g36/g48/g40/g36/g100/g36/g54/g17
+
+Deputada Marina Do Mst /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g25/g26 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g19/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g71/g72/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g43/g88/g80/g68/g81/g82/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g27/g26/g25/g3/g16/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g72/g3/g83/g85/g82/g87/g72/g111/g109/g82/g3/g68/g3/g89/g116/g87/g76/g80/g68/g86/g3/g72/g3/g87/g72/g86/g87/g72/g80/g88/g81/g75/g68/g86/g3/g68/g80/g72/g68/g111/g68/g71/g68/g86/g3/g85/g72/g68/g79/g76/g93/g68/g71/g82 META: 600 Justificativa: A /g48/g36/g49/g56/g55/g40/g49/g100/g173/g50 DA CONTINUIDADE DAS ATIVIDADES DO PROGRAMA FEDERAL DE /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 A /g57/g203/g55/g44/g48/g36/g54 E A TESTEMUNHAS /g36/g48/g40/g36/g100/g36/g39/g36/g54 - PROVITA CRIADO EM 1999 QUE CONSISTE NO CONJUNTO DE MEDIDAS ADOTADAS PARA PROPORCIONAR /g51/g53/g50/g55/g40/g100/g173/g50 E /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 A PESSOAS /g36/g48/g40/g36/g100/g36/g39/g36/g54 OU COAGIDAS /g39/g40/g57/g44/g39/g50/g3/g172/g3/g54/g56/g36/g3/g38/g50/g47/g36/g37/g50/g53/g36/g100/g173/g50/g3/g38/g50/g48/g3/g44/g49/g57/g40/g54/g55/g44/g42/g36/g100/g174/g40/g54/g3/g50/g56/g3/g51/g53/g50/g38/g40/g54/g54/g50/g54/g3/g38/g53/g44/g48/g44/g49/g36/g44/g54/g17
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g21/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g27/g26/g3/g16/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g51/g85/g72/g86/g72/g81/g87/g72 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g36/g48/g51/g47/g44/g36/g100/g173/g50/g3/g39/g50/g3/g51/g53/g50/g42/g53/g36/g48/g36/g3/g54/g40/g42/g56/g53/g36/g49/g100/g36/g3/g51/g53/g40/g54/g40/g49/g55/g40 Justificativa: DECORRE DO /g45/g200 CONSTATADO AUMENTO DA CRIMINALIDADE NA /g53/g40/g42/g44/g173/g50 CENTRAL, ONDE EXISTE GRANDE FLUXO DE /g38/g50/g48/g101/g53/g38/g44/g50/g15 /g36/g47/g101/g48 DE INTENSA ATIVIDADE CULTURAL. A /g57/g44/g50/g47/g199/g49/g38/g44/g36 VEM DEIXANDO OS MORADORES DA /g53/g40/g42/g44/g173/g50 EM
+
+CLIMA DE TOTAL /g44/g49/g54/g40/g42/g56/g53/g36/g49/g100/g36/g17 FAZ-SE /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36 A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DO PROGRAMA /g54/g40/g42/g56/g53/g36/g49/g100/g36 PRESENTE. OS MORADORES /g55/g199/g48 SIDO /g57/g203/g55/g44/g48/g36/g54/g15 EM /g49/g210/g48/g40/g53/g50 CADA VEZ MAIOR, DE ROUBOS, FURTOS E OUTROS CRIMES, ENQUANTO QUE, POR OUTRO LADO, VEMOS QUE, COMPROVADAMENTE, TEM HAVIDO EXPRESSIVA /g53/g40/g39/g56/g100/g173/g50 DE TODOS OS /g203/g49/g39/g44/g38/g40/g54 DE CRIMINALIDADE NOS BAIRROS /g45/g200 ATENDIDOS PELO PROGRAMA NESTE ESTADO. DIANTE DO EXPOSTO, SOLICITO A /g40/g59/g55/g40/g49/g54/g173/g50/g3/g39/g50/g3/g51/g53/g50/g42/g53/g36/g48/g36/g3/g54/g40/g42/g56/g53/g36/g49/g100/g36/g3/g51/g53/g40/g54/g40/g49/g55/g40/g3/g51/g36/g53/g36/g3/g50/g3/g37/g36/g44/g53/g53/g50/g3/g39/g36/g3/g42/g47/g207/g53/g44/g36/g17 A /g36/g100/g173/g50 SE ENQUADRA NA SEGUINTE /g48/g44/g54/g54/g173/g50 DO PEDES - /g48/g44/g54/g54/g173/g50 9: A GARANTIA DA /g54/g40/g42/g56/g53/g36/g49/g100/g36/g3/g51/g210/g37/g47/g44/g38/g36/g3/g49/g50/g54/g3/g55/g40/g53/g53/g44/g55/g207/g53/g44/g50/g54/g17/g5
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g21/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g26/g3/g16/g3/g40/g80/g83/g85/g72/g74/g82/g15/g3/g53/g72/g81/g71/g68/g3/g72/g3/g41/g82/g85/g80/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g82/g3/g48/g72/g85/g70/g68/g71/g82/g3/g71/g72/g3/g55/g85/g68/g69/g68/g79/g75/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g27/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g3/g51/g85/g82/g73/g76/g86/g86/g76/g82/g81/g68/g79/g3/g81/g68/g3/g41/g36/g40/g55/g40/g38 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g40/g39/g56/g38/g36/g100/g173/g50/g3/g51/g53/g50/g41/g44/g54/g54/g44/g50/g49/g36/g47/g3/g39/g44/g53/g40/g38/g44/g50/g49/g36/g39/g36/g3/g172/g54/g3/g48/g56/g47/g43/g40/g53/g40/g54 Justificativa: INSERIR UMA /g36/g100/g173/g50 /g40/g54/g51/g40/g38/g203/g41/g44/g38/g36 NA SECRETARIA DE ESTADO DE /g38/g44/g199/g49/g38/g44/g36/g15 TECNOLOGIA E /g44/g49/g50/g57/g36/g100/g173/g50 (SECTI), ESPECIFICAMENTE NA /g41/g56/g49/g39/g36/g100/g173/g50 DE APOIO /g172 ESCOLA /g55/g101/g38/g49/g44/g38/g36 DO ESTADO DO RIO DE JANEIRO (FAETEC), POIS /g45/g200 PRATICA ATIVIDADES PARA ESSE FIM, INCLUSIVE, DESTINADAS /g172/g54 MULHERES /g57/g203/g55/g44/g48/g36/g54 DE /g57/g44/g50/g47/g199/g49/g38/g44/g36/g17 A /g36/g100/g173/g50 SE ENQUADRA NA SEGUINTE /g48/g44/g54/g54/g173/g50 DO PEDES - /g48/g44/g54/g54/g173/g50 10: A /g51/g53/g50/g48/g50/g100/g173/g50 /g39/g36/g54/g3/g44/g42/g56/g36/g47/g39/g36/g39/g40/g54/g3/g53/g36/g38/g44/g36/g47/g3/g40/g3/g39/g40/g3/g42/g199/g49/g40/g53/g50/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g21/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g23/g3/g16/g3/g57/g76/g74/g76/g79/g107/g81/g70/g76/g68/g3/g72/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g3/g54/g68/g126/g71/g72 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g51/g53/g50/g42/g53/g36/g48/g36/g3/g39/g40/g3/g38/g50/g48/g37/g36/g55/g40/g3/g36/g3/g55/g56/g37/g40/g53/g38/g56/g47/g50/g54/g40 Justificativa: /g101 /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36 A /g38/g53/g44/g36/g100/g173/g50 DE UMA /g36/g100/g173/g50 /g40/g54/g51/g40/g38/g203/g41/g44/g38/g36 NA LOA 2025, QUE INCLUA CLARAMENTE O PROGRAMA DE COMBATE /g172 TUBERCULOSE, VISTO QUE, POSSUI GRANDE /g44/g49/g38/g44/g39/g199/g49/g38/g44/g36 DE TUBERCULOSE NO ERJ, SENDO O SEGUNDO COM MAIS CASOS NO BRASIL. DADA A REPRESENTATIVIDADE DO TEMA, VALE RESSALTAR QUE /g45/g200 EXISTE UMA FRENTE PARLAMENTAR NA ALERJ QUE VISA "O COMBATE E /g51/g53/g40/g57/g40/g49/g100/g173/g50/g3/g172/g3/g55/g56/g37/g40/g53/g38/g56/g47/g50/g54/g40/g15/g3/g43/g44/g57/g3/g40/g3/g39/g44/g36/g37/g40/g55/g40/g54/g5/g17 A /g36/g100/g173/g50 SE ENQUADRA NA SEGUINTE /g48/g44/g54/g54/g173/g50 DO PEDES - /g48/g44/g54/g54/g173/g50 8: AS ECONOMIAS URBANAS FORTES E CIDADES SOCIOAMBIENTALMENTE INCLUSIVAS.
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g21/g25 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g24/g28/g3/g16/g3/g52/g88/g68/g79/g76/g73/g76/g70/g68/g111/g109/g82/g3/g71/g68/g86/g3/g36/g87/g76/g89/g76/g71/g68/g71/g72/g86/g3/g71/g72/g3/g51/g82/g79/g116/g70/g76/g68/g3/g45/g88/g71/g76/g70/g76/g105/g85/g76/g68 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g210/g37/g47/g44/g38/g50/g3/g41/g44/g49/g36/g47/g44/g61/g36/g39/g50 META: 19 Justificativa: A PRESENTE EMENDA VISA ASSEGURAR OS RECURSOS /g49/g40/g38/g40/g54/g54/g200/g53/g44/g50/g54 PARA O CURSO DE /g41/g50/g53/g48/g36/g100/g173/g50 DE AGENTES SOCIOEDUCATIVOS E QUADRO /g55/g101/g38/g49/g44/g38/g50 AUXILIAR DO DEPARTAMENTO GERAL DE /g36/g100/g174/g40/g54 SOCIOEDUCATIVAS, ESPECIALMENTE PARA A /g28/g157 (NONA) TURMA DO CONCURSO DE 2011. IMPERIOSO ESCLARECER QUE O ESTADO DO RIO DE JANEIRO CELEBROU TERMO DE AJUSTAMENTO DE CONDUTA COM O /g48/g44/g49/g44/g54/g55/g101/g53/g44/g50 /g51/g210/g37/g47/g44/g38/g50 DO ESTADO DO RIO DE JANEIRO, NO QUAL FICOU ENTABULADO QUE NOVAS UNIDADES SERIAM CRIADAS PARA GARANTIR A QUALIDADE E OS /g51/g36/g53/g198/g48/g40/g55/g53/g50/g54 ESTABELECIDOS NA LEI 8.069/90 (ECA), BEM COMO NA LEI /g49/g131/g17 12.594/12 (SINASE) E NA /g53/g40/g54/g50/g47/g56/g100/g173/g50 /g49/g131/g17 119/2006, DO CONSELHO NACIONAL DE DIREITOS DA /g38/g53/g44/g36/g49/g100/g36 E DO ADOLESCENTE. LOGO, A /g38/g53/g44/g36/g100/g173/g50 DE NOVAS UNIDADES SOCIOEDUCATIVAS, POR OBVIEDADE, /g49/g40/g38/g40/g54/g54/g44/g55/g36/g53/g200 DE NOVOS SERVIDORES, /g53/g36/g61/g173/g50 PELA QUAL A PRESENTE EMENDA PRETENDE VIABILIZAR AS ETAPAS DO CERTAME.
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g21/g26
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g25/g3/g16/g3/g53/g72/g86/g76/g79/g76/g114/g81/g70/g76/g68/g15/g3/g53/g72/g71/g88/g111/g109/g82/g3/g71/g72/g3/g53/g76/g86/g70/g82/g15/g3/g53/g72/g86/g83/g82/g86/g87/g68/g3/g72/g3/g53/g72/g70/g88/g83/g72/g85/g68/g111/g109/g82/g3/g72/g80/g3/g39/g72/g86/g68/g86/g87/g85/g72/g86/g3/g72/g3 /g40/g80/g72/g85/g74/g114/g81/g70/g76/g68/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g24/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g71/g82/g86/g3/g54/g72/g85/g89/g76/g111/g82/g86/g3/g71/g82/g3/g38/g82/g85/g83/g82/g3/g71/g72/g3/g37/g82/g80/g69/g72/g76/g85/g82/g86 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g210/g37/g47/g44/g38/g50/g3/g41/g44/g49/g36/g47/g44/g61/g36/g39/g50 META: 1 Justificativa: ESTA EMENDA VISA GARANTIR O /g55/g101/g53/g48/g44/g49/g50 DE TODAS AS ETAPAS DO CERTAME E, POR VIA DE /g38/g50/g49/g54/g40/g52/g56/g199/g49/g38/g44/g36/g15 NOMEAR OS CANDIDATOS APROVADOS. VALE RESSALTAR A ENORME DEFASAGEM DE PESSOAL NO REFERIDO /g207/g53/g42/g173/g50 DE MODO QUE /g101 PREMENTE A /g38/g50/g49/g57/g50/g38/g36/g100/g173/g50 E /g49/g50/g48/g40/g36/g100/g173/g50 DOS APROVADOS. POR FIM, IMPERIOSO CONSIGNAR O RISCO DE /g48/g200 /g51/g53/g40/g54/g55/g36/g100/g173/g50 DO /g54/g40/g53/g57/g44/g100/g50 /g51/g210/g37/g47/g44/g38/g50 OU AINDA A /g51/g36/g53/g36/g47/g44/g61/g36/g100/g173/g50 PARCIAL OU TOTAL DAS ATIVIDADES, TENDO EM VISTA A FALTA DE SERVIDORES.
+
+/g57/g44/g50/g47/g199/g49/g38/g44/g36 NA /g53/g40/g42/g44/g173/g50 DA LEOPOLDINA, CUJOS /g203/g49/g39/g44/g38/g40/g54 DE /g57/g44/g50/g47/g199/g49/g38/g44/g36 /g172 MULHER /g45/g56/g54/g55/g44/g41/g44/g38/g36/g48/g3/g36/g3/g38/g53/g44/g36/g100/g173/g50/g3/g50/g53/g36/g3/g51/g53/g50/g51/g50/g54/g55/g36/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g21/g27 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g25/g3/g16/g3/g53/g72/g86/g76/g79/g76/g114/g81/g70/g76/g68/g15/g3/g53/g72/g71/g88/g111/g109/g82/g3/g71/g72/g3/g53/g76/g86/g70/g82/g15/g3/g53/g72/g86/g83/g82/g86/g87/g68/g3/g72/g3/g53/g72/g70/g88/g83/g72/g85/g68/g111/g109/g82/g3/g72/g80/g3/g39/g72/g86/g68/g86/g87/g85/g72/g86/g3/g72/g3 /g40/g80/g72/g85/g74/g114/g81/g70/g76/g68/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g24/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g71/g82/g86/g3/g54/g72/g85/g89/g76/g111/g82/g86/g3/g71/g82/g3/g38/g82/g85/g83/g82/g3/g71/g72/g3/g37/g82/g80/g69/g72/g76/g85/g82/g86 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g210/g37/g47/g44/g38/g50/g3/g41/g44/g49/g36/g47/g44/g61/g36/g39/g50 META: 1 Justificativa: ESTA EMENDA VISA GARANTIR O /g55/g101/g53/g48/g44/g49/g50 DE TODAS AS ETAPAS DO CERTAME E, POR VIA DE /g38/g50/g49/g54/g40/g52/g56/g199/g49/g38/g44/g36/g15 NOMEAR OS CANDIDATOS APROVADOS. VALE RESSALTAR A ENORME DEFASAGEM DE PESSOAL NO REFERIDO /g207/g53/g42/g173/g50 DE MODO QUE /g101 PREMENTE A /g38/g50/g49/g57/g50/g38/g36/g100/g173/g50 E /g49/g50/g48/g40/g36/g100/g173/g50 DOS APROVADOS. POR FIM, IMPERIOSO CONSIGNAR O RISCO DE /g48/g200 /g51/g53/g40/g54/g55/g36/g100/g173/g50 DO /g54/g40/g53/g57/g44/g100/g50 /g51/g210/g37/g47/g44/g38/g50 OU AINDA A /g51/g36/g53/g36/g47/g44/g61/g36/g100/g173/g50 PARCIAL OU TOTAL DAS ATIVIDADES, TENDO EM VISTA A FALTA DE SERVIDORES.
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g21/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g24/g28/g3/g16/g3/g52/g88/g68/g79/g76/g73/g76/g70/g68/g111/g109/g82/g3/g71/g68/g86/g3/g36/g87/g76/g89/g76/g71/g68/g71/g72/g86/g3/g71/g72/g3/g51/g82/g79/g116/g70/g76/g68/g3/g45/g88/g71/g76/g70/g76/g105/g85/g76/g68 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g210/g37/g47/g44/g38/g50/g3/g41/g44/g49/g36/g47/g44/g61/g36/g39/g50 META: 1 Justificativa: ESTA EMENDA VISA GARANTIR O /g55/g101/g53/g48/g44/g49/g50 DE TODAS AS ETAPAS DO CERTAME E, POR VIA DE /g38/g50/g49/g54/g40/g52/g56/g199/g49/g38/g44/g36/g15 NOMEAR OS CANDIDATOS APROVADOS. VALE RESSALTAR A ENORME DEFASAGEM DE PESSOAL NO REFERIDO /g207/g53/g42/g173/g50 DE MODO QUE /g101 PREMENTE A /g38/g50/g49/g57/g50/g38/g36/g100/g173/g50 E /g49/g50/g48/g40/g36/g100/g173/g50 DOS APROVADOS. POR FIM, IMPERIOSO CONSIGNAR O RISCO DE /g48/g200 /g51/g53/g40/g54/g55/g36/g100/g173/g50 DO /g54/g40/g53/g57/g44/g100/g50 /g51/g210/g37/g47/g44/g38/g50 OU AINDA A /g51/g36/g53/g36/g47/g44/g61/g36/g100/g173/g50 PARCIAL OU TOTAL DAS ATIVIDADES, TENDO EM VISTA A FALTA DE SERVIDORES.
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g22/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g21/g3/g16/g3/g36/g87/g88/g68/g111/g109/g82/g3/g71/g68/g3/g54/g40/g51/g48/g3/g81/g68/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g71/g68/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g71/g82/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3 Criminalidade /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g210/g37/g47/g44/g38/g50/g3/g41/g44/g49/g36/g47/g44/g61/g36/g39/g50 META: 1 Justificativa: ESTA EMENDA VISA GARANTIR O /g55/g101/g53/g48/g44/g49/g50 DE TODAS AS ETAPAS DO CERTAME E, POR VIA DE /g38/g50/g49/g54/g40/g52/g56/g199/g49/g38/g44/g36/g15 NOMEAR OS CANDIDATOS APROVADOS. VALE RESSALTAR A ENORME DEFASAGEM DE PESSOAL NO REFERIDO /g207/g53/g42/g173/g50 DE MODO QUE /g101 PREMENTE A /g38/g50/g49/g57/g50/g38/g36/g100/g173/g50 E /g49/g50/g48/g40/g36/g100/g173/g50 DOS APROVADOS. POR FIM, IMPERIOSO CONSIGNAR O RISCO DE /g48/g200 /g51/g53/g40/g54/g55/g36/g100/g173/g50 DO /g54/g40/g53/g57/g44/g100/g50 /g51/g210/g37/g47/g44/g38/g50 OU AINDA A /g51/g36/g53/g36/g47/g44/g61/g36/g100/g173/g50 PARCIAL OU TOTAL DAS ATIVIDADES, TENDO EM VISTA A FALTA DE SERVIDORES.
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g22/g20
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g24/g19/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g82/g3/g54/g56/g36/g54/g15/g3/g51/g85/g82/g87/g72/g111/g109/g82/g3/g54/g82/g70/g76/g68/g79/g3/g72/g3/g53/g72/g71/g88/g111/g109/g82/g3/g71/g68/g3/g51/g82/g69/g85/g72/g93/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g22/g23/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g51/g85/g82/g87/g72/g111/g109/g82/g3/g54/g82/g70/g76/g68/g79/g3/g40/g86/g83/g72/g70/g76/g68/g79 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g48/g50/g39/g44/g41/g44/g38/g36/g100/g173/g50/g3/g49/g50/g3/g51/g47/g36/g49/g50/g3/g39/g40/g3/g38/g36/g53/g42/g50/g54/g3/g40/g3/g54/g36/g47/g200/g53/g44/g50/g54 META: 1 Justificativa: SOLICITA-SE /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 NA LOA 2025 /g38/g50/g53/g53/g40/g100/g173/g50 DA TABELA DE VENCIMENTOS DA /g41/g56/g49/g39/g36/g100/g173/g50 /g47/g40/g173/g50 XIII (FLXIII) - EXPLICITADA NA LEI /g49/g158 4.794/2006 QUE INSTITUI O PLANO DE CARGOS E /g54/g36/g47/g200/g53/g44/g50/g54 DESTA /g44/g49/g54/g55/g44/g55/g56/g44/g100/g173/g50/g17 NESTA /g38/g50/g53/g53/g40/g100/g173/g50 /g39/g40/g57/g40/g53/g173/g50 SER /g44/g49/g38/g47/g56/g203/g39/g36/g54 DUAS FAIXAS SALARIAIS A FIM DE COMPLEMENTAR A TABELA EXISTENTE, ESPECIFICANDO DOIS NOVOS GRUPOS FUNCIONAIS (25-30 ANOS E ACIMA DE 30 ANOS EM TODOS OS GRUPOS - QUE /g39/g40/g57/g40/g53/g173/g50 SER /g44/g49/g38/g47/g56/g203/g39/g50/g54 EM TODOS OS /g49/g203/g57/g40/g44/g54 DESDE O /g49/g203/g57/g40/g47 FUNDAMENTAL INCOMPLETO /g36/g55/g101 O /g49/g203/g57/g40/g47 SUPERIOR) EM /g38/g50/g49/g54/g50/g49/g198/g49/g38/g44/g36 COM O PLANO DE CARGOS E /g54/g36/g47/g200/g53/g44/g50/g54 DA /g41/g56/g49/g39/g36/g100/g173/g50 DA /g38/g53/g44/g36/g49/g100/g36 E ADOLESCENTE (FIA). ESTA /g210/g47/g55/g44/g48/g36 /g44/g49/g54/g55/g44/g55/g56/g44/g100/g173/g50 FOI TOMADA COMO /g53/g40/g41/g40/g53/g199/g49/g38/g44/g36/g15 VISTO QUE TAL COMO A /g41/g56/g49/g39/g36/g100/g173/g50 EM VOGA, /g55/g36/g48/g37/g101/g48 DESEMPENHA ATIVIDADES NO /g198/g48/g37/g44/g55/g50 DA /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 SOCIAL /g11/g51/g53/g50/g55/g40/g100/g173/g50 E /g51/g53/g50/g48/g50/g100/g173/g50 DOS DIREITOS HUMANOS) E /g40/g54/g55/g173/g50 NO /g198/g48/g37/g44/g55/g50 DA MESMA SECRETARIA, QUE /g101 A SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL E DE DIREITOS HUMANOS -SEDSODH. DADO O QUANTITATIVO DE SERVIDORES /g40/g54/g55/g36/g55/g56/g55/g200/g53/g44/g50/g54 (ATIVOS E INATIVOS) DA /g41/g56/g49/g39/g36/g100/g173/g50 /g47/g40/g173/g50 XIII - ESTIMOU-SE UM VALOR APROXIMADO DE 1 /g48/g44/g47/g43/g173/g50 DE REAIS POR /g48/g199/g54 PARA QUE ESSA /g48/g56/g39/g36/g49/g100/g36 SEJA IMPLEMENTADA. COM ISSO, PRETENDE-SE VALORIZAR E FORTALECER O FUNCIONALISMO /g51/g210/g37/g47/g44/g38/g50 ATENDENDO O /g51/g53/g44/g49/g38/g203/g51/g44/g50 DA EQUIDADE, /g36/g47/g101/g48 DE BUSCAR MITIGAR OS PROBLEMAS /g43/g44/g54/g55/g207/g53/g44/g38/g50/g54 DECORRENTES DA DEFASAGEM SALARIAL E DE PROFISSIONAIS EM UMA /g44/g49/g54/g55/g44/g55/g56/g44/g100/g173/g50 IMPORTANTE PARA NOSSO /g40/g54/g55/g36/g39/g50/g3/g52/g56/g40/g3/g55/g40/g57/g40/g3/g54/g56/g36/g3/g210/g47/g55/g44/g48/g36/g3/g38/g50/g49/g55/g53/g36/g55/g36/g100/g173/g50/g3/g39/g40/g3/g40/g41/g40/g55/g44/g57/g50/g54/g3/g49/g36/g3/g39/g101/g38/g36/g39/g36/g3/g39/g40/g3/g28/g19/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g22/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g44/g81/g87/g72/g74/g85/g68/g111/g109/g82/g3/g72/g81/g87/g85/g72/g3/g68/g3/g54/g82/g70/g76/g72/g71/g68/g71/g72/g3/g72/g3/g68/g3/g51/g82/g79/g116/g70/g76/g68/g3/g38/g76/g89/g76/g79 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g53/g44/g36/g100/g173/g50/g3/g39/g40/g3/g49/g210/g38/g47/g40/g50/g3/g39/g40/g3/g36/g55/g40/g49/g39/g44/g48/g40/g49/g55/g50/g3/g172/g3/g48/g56/g47/g43/g40/g53 META: 1 Justificativa: /g39/g40/g57/g40/g53/g200 CONSTAR NAS DESPESAS, NO /g50/g53/g100/g36/g48/g40/g49/g55/g50 DA LOA 2025, /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA A /g38/g53/g44/g36/g100/g173/g50 DE UM /g49/g210/g38/g47/g40/g50 DE ATENDIMENTO /g172 MULHER (NUAN) NA /g20/g24/g28/g157 DELEGACIA DE /g51/g50/g47/g203/g38/g44/g36/g15 SITUADA NO /g48/g56/g49/g44/g38/g203/g51/g44/g50 DE CACHOEIRAS DE MACACU.
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g22/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g26/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g51/g126/g69/g79/g76/g70/g68/g86/g3/g83/g68/g85/g68/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g19/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g44/g81/g87/g72/g74/g85/g68/g71/g82/g3/g71/g72/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g72/g3/g36/g70/g82/g79/g75/g76/g80/g72/g81/g87/g82/g3/g106/g3/g48/g88/g79/g75/g72/g85/g3/g57/g116/g87/g76/g80/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g24/g20/g19/g3/g16/g3/g39/g72/g79/g72/g74/g68/g70/g76/g68/g3/g40/g86/g83/g72/g70/g76/g68/g79/g76/g93/g68/g71/g68/g3/g71/g72/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g106/g3/g48/g88/g79/g75/g72/g85/g3/g76/g80/g83/g79/g68/g81/g87/g68/g71/g68 META: 5 Justificativa: /g39/g40/g57/g40/g53/g200 CONSTAR NAS DESPESAS, NO /g50/g53/g100/g36/g48/g40/g49/g55/g50 DA LOA 2025, /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA A /g38/g53/g44/g36/g100/g173/g50 DE UMA DELEGACIA ESPECIALIZADA DE ATENDIMENTO /g172 MULHER/DEAM, NA ESTRUTURA DA SECRETARIA DE /g51/g50/g47/g203/g38/g44/g36 CIVIL, NA CIDADE DE /g44/g55/g36/g42/g56/g36/g203/g17 ESSA MEDIDA TEM POR OBJETIVO ASSEGURAR UM MELHOR ACOLHIMENTO /g172/g54 MULHERES /g57/g203/g55/g44/g48/g36/g54 DE /g57/g44/g50/g47/g199/g49/g38/g44/g36 NA CIDADE DE /g44/g55/g36/g42/g56/g36/g203/g15 CUJOS /g203/g49/g39/g44/g38/g40/g54/g3/g39/g40/g3/g57/g44/g50/g47/g199/g49/g38/g44/g36/g3/g172/g3/g48/g56/g47/g43/g40/g53/g3/g45/g56/g54/g55/g44/g41/g44/g38/g36/g48/g3/g36/g3/g38/g53/g44/g36/g100/g173/g50/g3/g50/g53/g36/g3/g51/g53/g50/g51/g50/g54/g55/g36/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g22/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g26/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g51/g126/g69/g79/g76/g70/g68/g86/g3/g83/g68/g85/g68/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g19/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g44/g81/g87/g72/g74/g85/g68/g71/g82/g3/g71/g72/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g72/g3/g36/g70/g82/g79/g75/g76/g80/g72/g81/g87/g82/g3/g106/g3/g48/g88/g79/g75/g72/g85/g3/g57/g116/g87/g76/g80/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g24/g20/g19/g3/g16/g3/g39/g72/g79/g72/g74/g68/g70/g76/g68/g3/g40/g86/g83/g72/g70/g76/g68/g79/g76/g93/g68/g71/g68/g3/g71/g72/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g106/g3/g48/g88/g79/g75/g72/g85/g3/g76/g80/g83/g79/g68/g81/g87/g68/g71/g68 META: 5 Justificativa: /g39/g40/g57/g40/g53/g200 CONSTAR NAS DESPESAS, NO /g50/g53/g100/g36/g48/g40/g49/g55/g50 DA LOA 2025, /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA A /g38/g53/g44/g36/g100/g173/g50 DE UMA DELEGACIA ESPECIALIZADA DE ATENDIMENTO /g172 MULHER/DEAM, NA ESTRUTURA DA SECRETARIA DE /g51/g50/g47/g203/g38/g44/g36 CIVIL, NA /g53/g40/g42/g44/g173/g50 DA LEOPOLDINA, NA CIDADE DO RIO DE JANEIRO.ESSA MEDIDA TEM POR OBJETIVO ASSEGURAR UM MELHOR ACOLHIMENTO /g172/g54 MULHERES /g57/g203/g55/g44/g48/g36/g54 DE
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g22/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g26/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g51/g126/g69/g79/g76/g70/g68/g86/g3/g83/g68/g85/g68/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g19/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g44/g81/g87/g72/g74/g85/g68/g71/g82/g3/g71/g72/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g72/g3/g36/g70/g82/g79/g75/g76/g80/g72/g81/g87/g82/g3/g106/g3/g48/g88/g79/g75/g72/g85/g3/g57/g116/g87/g76/g80/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g24/g20/g19/g3/g16/g3/g39/g72/g79/g72/g74/g68/g70/g76/g68/g3/g40/g86/g83/g72/g70/g76/g68/g79/g76/g93/g68/g71/g68/g3/g71/g72/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g106/g3/g48/g88/g79/g75/g72/g85/g3/g76/g80/g83/g79/g68/g81/g87/g68/g71/g68 META: 5 Justificativa: /g39/g40/g57/g40/g53/g173/g50 CONSTAR NAS DESPESAS, NO /g50/g53/g100/g36/g48/g40/g49/g55/g50 DA LOA 2025, /g51/g53/g40/g57/g44/g54/g174/g40/g54 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36/g54 /g40/g54/g51/g40/g38/g203/g41/g44/g38/g36/g54 PARA /g172 /g38/g53/g44/g36/g100/g173/g50 DE UMA DELEGACIA ESPECIALIZADA DE ATENDIMENTO /g172 MULHER /DEAM, NO BAIRRO DO /g48/g101/g44/g40/g53/g15 NESTE /g48/g56/g49/g44/g38/g203/g51/g44/g50/g17 A DEMANDA POR UMA DEAM NO /g48/g101/g44/g40/g53 /g101 FRUTO DE UM /g53/g40/g47/g36/g55/g207/g53/g44/g50 FEITO EM CONJUNTO PELA OAB /g48/g101/g44/g40/g53 E A OAB /g48/g101/g44/g40/g53 MULHER, CHAMADO: DEAM /g48/g101/g44/g40/g53 E A /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DE REDE DE ATENDIMENTO ABRANGENTE. O /g53/g40/g47/g36/g55/g207/g53/g44/g50 ATENTA PARA O FATO DE QUE A /g200/g53/g40/g36 SUBURBANA DA NOSSA CAPITAL, QUE ABRANGE, ENTRE OUTROS, BAIRROS COMO /g48/g101/g44/g40/g53/g15 CACHAMBI, PENHA, MARECHAL HERMES, CASCADURA, ENGENHO DE DENTRO, ENGENHO NOVO, CAMPINHO, PIEDADE, /g44/g53/g36/g45/g200/g15 QUINTINO /g37/g50/g38/g36/g44/g210/g57/g36/g15 ENCANTADO, /g200/g42/g56/g36 SANTA, TODOS OS SANTOS, DEL CASTILHO, PILARES, OLARIA, BONSUCESSO, /g54/g173/g50 /g38/g53/g44/g54/g55/g207/g57/g173/g50 E MADUREIRA, SEM FALAR NOS BAIRROS /g54/g36/g55/g101/g47/g44/g55/g40/g54/g15 QUE OCUPAM UMA /g200/g53/g40/g36 APROXIMADA DE 160 /g46/g48/g240/g15 SOFRE DE UMA ESCASSEZ DESTE TIPO DE ATENDIMENTO ESPECIALIZADO.
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g22/g25 PROGRAMA: 0442 - Ensino Superior /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g19/g21/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g15/g3/g51/g72/g86/g84/g88/g76/g86/g68/g15/g3/g40/g91/g87/g72/g81/g86/g109/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g16 /g54/g68/g126/g71/g72 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g210/g37/g47/g44/g38/g50/g3/g53/g40/g36/g47/g44/g61/g36/g39/g50 META: 1 Justificativa: SOLICITA-SE /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 NA LOA 2025 PARA /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE NOVO CONCURSO PARA A /g41/g56/g49/g39/g36/g100/g173/g50 DE APOIO /g172 ESCOLA /g55/g101/g38/g49/g44/g38/g36 (FAETEC), NO /g198/g48/g37/g44/g55/g50 DA SECRETARIA DE ESTADO DE /g38/g44/g199/g49/g38/g44/g36/g15 TECNOLOGIA E /g44/g49/g50/g57/g36/g100/g173/g50 (SECTI)
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g22/g26 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g22/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g72/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g71/g68/g3/g44/g81/g73/g82/g85/g80/g68/g111/g109/g82/g3/g72/g3/g42/g82/g89/g72/g85/g81/g82/g3/g39/g76/g74/g76/g87/g68/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g28/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g3/g39/g76/g74/g76/g87/g68/g79 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g210/g37/g47/g44/g38/g50/g3/g53/g40/g36/g47/g44/g61/g36/g39/g50 META: 1 Justificativa: SOLICITA-SE /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 NA LOA 2025 PARA /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE NOVO CONCURSO PARA O CENTRO DE TECNOLOGIA DE /g44/g49/g41/g50/g53/g48/g36/g100/g173/g50 E /g38/g50/g48/g56/g49/g44/g38/g36/g100/g173/g50 DO ESTADO DO RIO DE JANEIRO (PRODERJ) NO /g198/g48/g37/g44/g55/g50 DA /g54/g40/g38/g53/g40/g55/g36/g53/g44/g36/g3/g39/g40/g3/g40/g54/g55/g36/g39/g50/g3/g39/g40/g3/g55/g53/g36/g49/g54/g41/g50/g53/g48/g36/g100/g173/g50/g3/g39/g44/g42/g44/g55/g36/g47/g3/g11/g54/g40/g55/g39/g12/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g22/g27 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g25/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g85/g76/g86/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g86/g86/g82/g70/g76/g68/g79/g76/g93/g68/g111/g109/g82/g3/g71/g82/g86/g3/g38/g88/g86/g87/g82/g71/g76/g68/g71/g82/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g20/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g82/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g72/g81/g76/g87/g72/g81/g70/g76/g105/g85/g76/g82 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g210/g37/g47/g44/g38/g50/g3/g53/g40/g36/g47/g44/g61/g36/g39/g50 META: 1 Justificativa: SOLICITA-SE /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 NA LOA 2025 PARA /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE NOVO CONCURSO PARA SECRETARIA DE ESTADO DE /g36/g39/g48/g44/g49/g44/g54/g55/g53/g36/g100/g173/g50 /g51/g40/g49/g44/g55/g40/g49/g38/g44/g200/g53/g44/g36/g3/g11/g54/g40/g36/g51/g12/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g22/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g25/g3/g16/g3/g53/g72/g86/g76/g79/g76/g114/g81/g70/g76/g68/g15/g3/g53/g72/g71/g88/g111/g109/g82/g3/g71/g72/g3/g53/g76/g86/g70/g82/g15/g3/g53/g72/g86/g83/g82/g86/g87/g68/g3/g72/g3/g53/g72/g70/g88/g83/g72/g85/g68/g111/g109/g82/g3/g72/g80/g3/g39/g72/g86/g68/g86/g87/g85/g72/g86/g3/g72/g3 /g40/g80/g72/g85/g74/g114/g81/g70/g76/g68/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g24/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g71/g82/g86/g3/g54/g72/g85/g89/g76/g111/g82/g86/g3/g71/g82/g3/g38/g82/g85/g83/g82/g3/g71/g72/g3/g37/g82/g80/g69/g72/g76/g85/g82/g86 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g210/g37/g47/g44/g38/g50/g3/g53/g40/g36/g47/g44/g61/g36/g39/g50 META: 1 Justificativa: SOLICITA-SE /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 NA LOA 2025 PARA /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE NOVO CONCURSO PARA O CORPO DE BOMBEIROS, NO /g198/g48/g37/g44/g55/g50 DA SECRETARIA DE ESTADO DE DEFESA CIVIL E CORPO DE BOMBEIROS MILITAR (SEDEC).
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g23/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g44/g81/g87/g72/g74/g85/g68/g111/g109/g82/g3/g72/g81/g87/g85/g72/g3/g68/g3/g54/g82/g70/g76/g72/g71/g68/g71/g72/g3/g72/g3/g68/g3/g51/g82/g79/g116/g70/g76/g68/g3/g38/g76/g89/g76/g79 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g21/g24/g23/g26/g3/g16/g3/g38/g82/g81/g70/g88/g85/g86/g82/g3/g83/g126/g69/g79/g76/g70/g82/g3/g85/g72/g68/g79/g76/g93/g68/g71/g82 META: 1 Justificativa: SOLICITA-SE /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 NA LOA 2025 PARA /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 /g39/g40/g3/g49/g50/g57/g50/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g36/g53/g36/g3/g36/g3/g51/g50/g47/g203/g38/g44/g36/g3/g38/g44/g57/g44/g47/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g23/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g21/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g51/g85/g72/g89/g76/g71/g72/g81/g70/g76/g105/g85/g76/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g22/g21/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g82/g86/g3/g51/g68/g74/g68/g80/g72/g81/g87/g82/g86/g3/g71/g72/g3/g36/g83/g82/g86/g72/g81/g87/g68/g71/g82/g85/g76/g68/g3/g72/g3/g51/g72/g81/g86/g109/g82 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g210/g37/g47/g44/g38/g50/g3/g53/g40/g36/g47/g44/g61/g36/g39/g50 META: 1 Justificativa: SOLICITA-SE /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 NA LOA 2025 PARA /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 /g39/g40/g3/g49/g50/g57/g50/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g36/g53/g36/g3/g50/g3/g53/g44/g50/g3/g51/g53/g40/g57/g44/g39/g199/g49/g38/g44/g36
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g23/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g28/g3/g16/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g37/g72/g81/g86/g3/g38/g88/g79/g87/g88/g85/g68/g76/g86/g3/g72/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g38/g88/g79/g87/g88/g85/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g25/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g72/g3/g39/g72/g80/g82/g70/g85/g68/g87/g76/g93/g68/g111/g109/g82/g3/g106/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g36/g70/g72/g86/g86/g82/g3/g68/g3/g38/g88/g79/g87/g88/g85/g68 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g210/g37/g47/g44/g38/g50/g3/g53/g40/g36/g47/g44/g61/g36/g39/g50 META: 1 Justificativa: SOLICITA-SE /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 NA LOA 2025 PARA /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE NOVO CONCURSO PARA O TEATRO MUNICIPAL.
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g23/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g44/g81/g87/g72/g74/g85/g68/g111/g109/g82/g3/g72/g81/g87/g85/g72/g3/g68/g3/g54/g82/g70/g76/g72/g71/g68/g71/g72/g3/g72/g3/g68/g3/g51/g82/g79/g116/g70/g76/g68/g3/g38/g76/g89/g76/g79 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g53/g44/g36/g100/g173/g50/g3/g39/g40/g3/g49/g210/g38/g47/g40/g50/g54/g3/g40/g54/g51/g40/g38/g44/g36/g47/g44/g61/g36/g39/g50/g54 META: 27 Justificativa: /g39/g40/g57/g40/g53/g200 CONSTAR NAS DESPESAS, NO /g50/g53/g100/g36/g48/g40/g49/g55/g50 DA LOA 2025, /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA A /g38/g53/g44/g36/g100/g173/g50 DE /g49/g210/g38/g47/g40/g50/g54 ESPECIALIZADOS DE COMBATE A CRIMES RACIAIS E DELITOS DE /g44/g49/g55/g50/g47/g40/g53/g198/g49/g38/g44/g36 NA ESTRUTURA DA SECRETARIA DE /g51/g50/g47/g203/g38/g44/g36 CIVIL, A SEREM IMPLANTADOS NAS DELEGACIAS POLICIAIS DE /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 COM MAIS DE 100 MIL HABITANTES. NO CASO DO ERJ, DE ACORDO COM O CENSO 2022, EXISTEM 28 /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 QUE ATENDEM ESSA /g38/g50/g49/g39/g44/g100/g173/g50 E UMA DECRADI NA CIDADE DO RJ, PORTANTO /g54/g40/g53/g200 /g49/g40/g38/g40/g54/g54/g200/g53/g44/g50 INSTALAR 27 NOVOS /g49/g210/g38/g47/g40/g50/g54/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g24/g24 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g19/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g71/g72/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g43/g88/g80/g68/g81/g82/g86 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g53/g40/g39/g40/g3/g40/g54/g55/g36/g39/g56/g36/g47/g3/g39/g40/g3/g39/g50/g40/g49/g100/g36/g54/g3/g53/g36/g53/g36/g54 META: 1 Justificativa: /g39/g40/g57/g40/g53/g200 CONTAR NA LOA 2025 /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA A /g38/g53/g44/g36/g100/g173/g50 DE UMA REDE PARA /g36/g48/g51/g47/g44/g36/g100/g173/g50 DE CONHECIMENTO E /g39/g44/g54/g54/g40/g48/g44/g49/g36/g100/g173/g50 /g44/g49/g41/g50/g53/g48/g36/g100/g174/g40/g54 ACERCA DA EPIDEMIOLOGIA, QUADRO /g38/g47/g203/g49/g44/g38/g50/g15 RECURSOS
+
+PODER
+
+EXECUTIV O
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+/g39/g44/g36/g42/g49/g207/g54/g55/g44/g38/g50/g54 E /g55/g40/g53/g36/g51/g199/g56/g55/g44/g38/g50/g54 EMPREGADOS E CUSTOS COM /g39/g50/g40/g49/g100/g36/g54 RARAS DE ORIGEM /g42/g40/g49/g101/g55/g44/g38/g36 E /g49/g173/g50 /g42/g40/g49/g101/g55/g44/g38/g36 NO ERJ, /g36/g47/g101/g48 DE OUTRAS /g44/g49/g41/g50/g53/g48/g36/g100/g174/g40/g54 E /g38/g50/g49/g43/g40/g38/g44/g48/g40/g49/g55/g50/g54/g3/g53/g40/g47/g40/g57/g36/g49/g55/g40/g54/g3/g52/g56/g40/g3/g40/g49/g57/g50/g47/g57/g40/g48/g3/g50/g3/g39/g50/g48/g203/g49/g44/g50/g3/g39/g40/g3/g39/g50/g40/g49/g100/g36/g54/g3/g53/g36/g53/g36/g54/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g24/g25 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g25/g3/g16/g3/g53/g72/g86/g76/g79/g76/g114/g81/g70/g76/g68/g15/g3/g53/g72/g71/g88/g111/g109/g82/g3/g71/g72/g3/g53/g76/g86/g70/g82/g15/g3/g53/g72/g86/g83/g82/g86/g87/g68/g3/g72/g3/g53/g72/g70/g88/g83/g72/g85/g68/g111/g109/g82/g3/g72/g80/g3/g39/g72/g86/g68/g86/g87/g85/g72/g86/g3/g72/g3 /g40/g80/g72/g85/g74/g114/g81/g70/g76/g68/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g26/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g36/g111/g109/g82/g3/g71/g72/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g72/g3/g51/g85/g72/g83/g68/g85/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g53/g72/g71/g88/g111/g109/g82/g3/g71/g72/g3/g53/g76/g86/g70/g82/g3/g71/g72/g3 Desastre /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50/g3/g39/g40/g3/g51/g47/g36/g49/g50/g3/g39/g40/g3/g42/g40/g54/g55/g173/g50/g3/g39/g40/g3/g53/g44/g54/g38/g50/g54/g3/g40/g3/g39/g40/g54/g36/g54/g55/g53/g40/g54/g3 AMB. META: 1 Justificativa: /g39/g40/g57/g40/g53/g200 CONSTAR NAS DESPESAS, NO /g50/g53/g100/g36/g48/g40/g49/g55/g50 DA LOA 2025, /g51/g53/g40/g57/g44/g54/g173/g50 DE RECURSOS /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g50/g54 PARA A /g38/g53/g44/g36/g100/g173/g50 DO PLANO INTEGRADO DE /g42/g40/g54/g55/g173/g50 DE RISCOS DE DESASTRES, COM /g36/g100/g174/g40/g54 DE /g51/g53/g40/g57/g40/g49/g100/g173/g50 E /g40/g39/g56/g38/g36/g100/g173/g50 AMBIENTAL /g45/g200 INSTITUIDO PELA LEI 9.688 DE 18 DE MAIO DE 2022 DE MINHA AUTORIA. A /g44/g49/g54/g55/g44/g55/g56/g44/g100/g173/g50 DESSE PLANO TORNA-SE URGENTE DIANTE DO DESASTRE AMBIENTAL E SOCIAL NA CAPITAL E OUTROS /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 DESTE ESTADO /g11/g53/g40/g42/g44/g173/g50 SERRANA, /g43/g200 MAIS DE UMA /g39/g101/g38/g36/g39/g36/g12/g15 E BUSCA ESTABELECER DIRETRIZES DE TRABALHO BASEADO NO PLANEJAMENTO /g40/g54/g55/g53/g36/g55/g101/g42/g44/g38/g50 DE CURTO, /g48/g101/g39/g44/g50 E LONGO PRAZO, PARA /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 DESTINADA /g172 /g42/g40/g54/g55/g173/g50 DE RISCOS DE DESASTRES NO /g198/g48/g37/g44/g55/g50 DESTE ESTADO. O PLANO /g39/g40/g57/g40/g53/g200 CONTEMPLAR PROGRAMAS E /g36/g100/g174/g40/g54 OBJETIVAS COM /g203/g49/g39/g44/g38/g40/g54 /g48/g40/g49/g54/g56/g53/g200/g57/g40/g44/g54/g15 QUE PERMITAM UMA /g36/g49/g200/g47/g44/g54/g40 QUALITATIVA E QUANTITATIVA DOS PROGRESSOS E DO ALCANCE DAS MEDIDAS DE /g48/g44/g49/g44/g48/g44/g61/g36/g100/g173/g50 DE RISCOS INSTALADOS, BEM COMO /g51/g53/g40/g57/g40/g49/g100/g173/g50/g15 PARA QUE SE EVITEM NOVOS DESASTRES.
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g20/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g21/g3/g16/g3/g36/g87/g88/g68/g111/g109/g82/g3/g71/g68/g3/g54/g40/g51/g48/g3/g81/g68/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g71/g68/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g71/g82/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3 Criminalidade NOVO PRODUTO: PAGAMENTO DA GRAM META: 1 Justificativa: /g39/g40/g57/g40/g53/g200 CONSTAR NA LEI /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 ANUAL DE 2025 /g51/g53/g40/g57/g44/g54/g173/g50 DE RECURSOS /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g50/g54 PARA O PAGAMENTO DA /g42/g53/g36/g55/g44/g41/g44/g38/g36/g100/g173/g50 DE RISCO DE ATIVIDADE MILITAR (GRAM) AOS INATIVOS E PENSIONISTAS. A PRESENTE EMENDA VISA REPARAR UMA /g39/g44/g54/g55/g50/g53/g100/g173/g50 /g43/g44/g54/g55/g207/g53/g44/g38/g36 E /g36/g53/g37/g44/g55/g53/g200/g53/g44/g36 CONSUBSTANCIADA NO TRATAMENTO DESIGUAL ENTRE MILITARES DA ATIVA, VETERANOS E PENSIONISTAS DA /g51/g50/g47/g203/g38/g44/g36 MILITAR E DO CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO. COMO SE SABE, A /g42/g53/g36/g55/g44/g41/g44/g38/g36/g100/g173/g50 DE ATIVIDADE DE RISCO MILITAR (GRAM) FOI /g44/g49/g54/g55/g44/g55/g56/g203/g39/g36 PELA LEI ESTADUAL /g49/g158/g29 9.537/2021, A QUAL /g49/g173/g50 FAZ /g39/g44/g54/g55/g44/g49/g100/g173/g50 ENTRE ATIVOS E INATIVOS. RESSALTA-SE QUE ESTA LEI CRIOU O SISTEMA DE /g51/g53/g50/g55/g40/g100/g173/g50 SOCIAL DOS MILITARES DO ESTADO DO RIO DE JANEIRO COM O EXATO OBJETIVO DE CUMPRIR A LEI FEDERAL /g49/g158 13.954/2019. POR /g49/g173/g50 SE TRATAR DE /g42/g53/g36/g55/g44/g41/g44/g38/g36/g100/g173/g50 PRO LABORE FACIENDO, DEVE O PODER EXECUTIVO ESTENDER O /g37/g40/g49/g40/g41/g203/g38/g44/g50 AOS VETERANOS E PENSIONISTA, A FIM DE ATENDER AOS /g51/g53/g44/g49/g38/g203/g51/g44/g50/g54 DA ISONOMIA, PARIDADE E HIERARQUIA. LOGO, A PRESENTE EMENDA PRETENDE FAZER /g36/g3/g53/g40/g54/g40/g53/g57/g36/g3/g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36/g3/g49/g40/g38/g40/g54/g54/g200/g53/g44/g36/g3/g51/g36/g53/g36/g3/g40/g54/g55/g36/g49/g38/g36/g53/g3/g40/g54/g55/g36/g3/g44/g47/g40/g42/g36/g47/g44/g39/g36/g39/g40/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g24/g26 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g20/g3/g16/g3/g36/g87/g72/g81/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79/g3/g106/g3/g54/g68/g126/g71/g72 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g53/g40/g39/g56/g100/g173/g50/g3/g39/g36/g3/g55/g36/g59/g36/g3/g39/g40/g3/g48/g50/g53/g55/g36/g47/g44/g39/g36/g39/g40/g3/g44/g49/g41/g36/g49/g55/g44/g47 META: 5 Justificativa: /g39/g40/g57/g40/g53/g200 CONSTAR NA LOA 2025 /g51/g53/g40/g57/g44/g54/g173/g50 PARA /g40/g54/g55/g53/g36/g55/g101/g42/g44/g36 DE /g53/g40/g39/g56/g100/g173/g50 DA TAXA MORTALIDADE DE /g38/g53/g44/g36/g49/g100/g36/g54 MENORES DE 5 ANOS SE BASEANDO NAS METAS DA AGENDA 2030 ESTABELECIDAS PELA ONU DE 5 POR 1.000 NASCIDOS VIVOS, ADAPTADAS AO CONTEXTO DO BRASIL. ATUALMENTE ESSA /g48/g101/g39/g44/g36 /g49/g50/g3/g40/g53/g45/g3/g101/g3/g39/g40/g3/g20/g22/g15/g21/g3/g51/g50/g53/g3/g20/g17/g19/g19/g19/g3/g49/g36/g54/g38/g44/g39/g50/g54/g3/g57/g44/g57/g50/g54/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g24/g27 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g20/g3/g16/g3/g36/g87/g72/g81/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79/g3/g106/g3/g54/g68/g126/g71/g72 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g53/g40/g39/g56/g100/g173/g50/g3/g39/g36/g3/g55/g36/g59/g36/g3/g39/g40/g3/g48/g50/g53/g55/g36/g47/g44/g39/g36/g39/g40/g3/g48/g36/g55/g40/g53/g49/g36 META: 70 Justificativa: /g39/g40/g57/g40/g53/g200 CONSTAR NA LOA 2025 /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA /g40/g54/g55/g53/g36/g55/g101/g42/g44/g36 DE /g53/g40/g39/g56/g100/g173/g50 DA MORTALIDADE MATERNA, POIS REPRESENTA UM IMPORTANTE INDICADOR DE /g54/g36/g210/g39/g40 /g51/g210/g37/g47/g44/g38/g36 E SOCIAL DE UM /g51/g36/g203/g54/g17 ELE REFLETE A QUALIDADE DA /g36/g55/g40/g49/g100/g173/g50 /g172 /g54/g36/g210/g39/g40 DA MULHER, PORTANTO, ELEVADAS TAXAS /g40/g54/g55/g173/g50 ASSOCIADAS /g172 /g44/g49/g54/g36/g55/g44/g54/g41/g36/g55/g207/g53/g44/g36 /g51/g53/g40/g54/g55/g36/g100/g173/g50 DE /g54/g40/g53/g57/g44/g100/g50/g54 DE /g54/g36/g210/g39/g40/g15 COMO PLANEJAMENTO FAMILIAR, /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 /g51/g53/g101/g16/g49/g36/g55/g36/g47/g15 /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 AO PARTO E AO /g51/g56/g40/g53/g51/g101/g53/g44/g50/g15 /g36/g47/g101/g48 DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 /g54/g50/g38/g44/g50/g40/g38/g50/g49/g208/g48/g44/g38/g36/g54/g15 O ACESSO AOS /g54/g40/g53/g57/g44/g100/g50/g54 DE /g54/g36/g210/g39/g40/g15 A QUALIDADE DO CUIDADO /g50/g37/g54/g55/g101/g55/g53/g44/g38/g50 E A DISPONIBILIDADE DE /g36/g100/g174/g40/g54 PREVENTIVAS EM UMA DETERMINADA /g53/g40/g42/g44/g173/g50/g17 APESAR DOS /g36/g57/g36/g49/g100/g50/g54 SIGNIFICATIVOS /g36/g47/g38/g36/g49/g100/g36/g39/g50/g54 NAS /g210/g47/g55/g44/g48/g36/g54 /g39/g101/g38/g36/g39/g36/g54/g15 A MORTALIDADE MATERNA CONTINUA SENDO DESAFIO EM MUITOS /g51/g36/g203/g54/g40/g54 (BOLETIM /g40/g51/g44/g39/g40/g48/g44/g50/g47/g207/g42/g44/g38/g50 DE MORTALIDADE MATERNA, 2023). /g36/g47/g101/g48 DISSO, /g101 UMA /g55/g53/g36/g42/g101/g39/g44/g36 /g40/g57/g44/g55/g200/g57/g40/g47 EM GRANDE PARTE DOS CASOS, POR ISSO, ESSA /g55/g53/g36/g42/g101/g39/g44/g36 CONFIGURA-SE COMO UMAS DAS GRAVES /g57/g44/g50/g47/g36/g100/g174/g40/g54 DOS DIREITOS HUMANOS DAS MULHERES E UM GRANDE DESAFIO A SER SUPERADO. O /g38/g40/g49/g200/g53/g44/g50 NACIONAL CONFIRMA O GRANDE DESAFIO: NO BRASIL, EM 2020, A /g53/g36/g61/g173/g50 DE MORTALIDADE MATERNA FOI DE 74,7; /g45/g200 NO ESTADO DO RIO DE JANEIRO, DE 95,4, E, NO /g48/g56/g49/g44/g38/g203/g51/g44/g50 DO RIO DE JANEIRO, DE 114 A CADA 100 MIL NASCIDOS VIVOS, NO MESMO ANO.
+
+VISTO ESSAS /g44/g49/g41/g50/g53/g48/g36/g100/g174/g40/g54/g15 A META ESTADUAL DEVE SE BASEAR EM /g53/g40/g39/g56/g100/g173/g50 PARA 70 MORTES POR 100.000 NASCIDOS VIVOS CONDIZENTE COM A AGENDA 2030 DA ONU.
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g24/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g26/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g51/g126/g69/g79/g76/g70/g68/g86/g3/g83/g68/g85/g68/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g19/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g44/g81/g87/g72/g74/g85/g68/g71/g82/g3/g71/g72/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g72/g3/g36/g70/g82/g79/g75/g76/g80/g72/g81/g87/g82/g3/g106/g3/g48/g88/g79/g75/g72/g85/g3/g57/g116/g87/g76/g80/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g26/g22/g28/g3/g16/g3/g54/g68/g79/g68/g3/g47/g76/g79/g105/g86/g3/g72/g86/g83/g72/g70/g76/g68/g79/g76/g93/g68/g71/g68/g3/g81/g82/g3/g68/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g106/g3/g80/g88/g79/g75/g72/g85/g3vitima implantada META: 6 Justificativa: /g39/g40/g57/g40/g53/g173/g50 CONSTAR NAS DESPESAS, NO /g50/g53/g100/g36/g48/g40/g49/g55/g50 DA LOA 2025, /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 /g40/g54/g51/g40/g38/g203/g41/g44/g38/g36 PARA /g172 /g38/g53/g44/g36/g100/g173/g50 DE SALAS /g47/g44/g47/g200/g54 NO INSTITUTO /g48/g101/g39/g44/g38/g50 LEGAL (IML) DA SECRETARIA DE /g51/g50/g47/g203/g38/g44/g36 CIVIL DO ESTADO DO RIO DE JANEIRO.
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g25/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g19/g24/g3/g16/g3/g36/g83/g82/g76/g82/g3/g106/g86/g3/g51/g82/g79/g116/g70/g76/g68/g86/g3/g72/g3/g68/g82/g3/g42/g82/g89/g72/g85/g81/g82/g3/g81/g68/g3/g51/g85/g82/g89/g76/g86/g109/g82/g3/g71/g72/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g51/g126/g69/g79/g76/g70/g68 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g48/g51/g53/g36/g3/g39/g40/g3/g40/g52/g56/g44/g51/g36/g48/g40/g49/g55/g50/g54/g3/g51/g36/g53/g36/g3/g51/g53/g40/g57/g40/g49/g100/g173/g50/g3/g40/g3/g38/g50/g48/g37/g36/g55/g40/g3/g36/g3 /g38/g53/g44/g48/g40/g54/g3/g38/g44/g37/g40/g53/g49/g101/g55/g44/g38/g50/g54 META: 10 Justificativa: /g39/g40/g57/g40/g53/g173/g50 CONSTAR NAS DESPESAS, NO /g50/g53/g100/g36/g48/g40/g49/g55/g50 DA LOA 2025, /g51/g53/g40/g57/g44/g54/g174/g40/g54 /g40/g54/g51/g40/g38/g203/g41/g44/g38/g36/g54 PARA /g36/g52/g56/g44/g54/g44/g100/g173/g50 DE EQUIPAMENTOS DE /g51/g53/g40/g57/g40/g49/g100/g173/g50 E /g38/g50/g48/g37/g36/g55/g40/g3/g36/g3/g38/g53/g44/g48/g40/g54/g3/g38/g44/g37/g40/g53/g49/g101/g55/g44/g38/g50/g54/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g26/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g22/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g3/g42/g72/g86/g87/g109/g82/g3/g40/g86/g87/g68/g71/g88/g68/g79/g3/g71/g82/g3/g54/g56/g54 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g53/g40/g42/g56/g47/g36/g48/g40/g49/g55/g36/g100/g173/g50/g3/g50/g3/g51/g38/g38/g54/g3/g39/g36/g3/g54/g36/g210/g39/g40/g3/g40/g54/g55/g36/g39/g56/g36/g47 META: 1 Justificativa: SOLICITA-SE RECURSOS /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g50/g54 PARA REGULAMENTAR O PCCS DA /g54/g36/g210/g39/g40 ESTADUAL CONSTANDO A /g40/g57/g50/g47/g56/g100/g173/g50 FUNCIONAL /g11/g51/g53/g50/g42/g53/g40/g54/g54/g174/g40/g54 E /g51/g53/g50/g48/g50/g100/g174/g40/g54 NA CARREIRA); O EFETIVO PAGAMENTO DO ADICIONAL DE /g52/g56/g36/g47/g44/g41/g44/g38/g36/g100/g173/g50/g30 /g36/g57/g36/g47/g44/g36/g100/g173/g50 E PAGAR A /g42/g53/g36/g55/g44/g41/g44/g38/g36/g100/g173/g50 DE DESEMPENHO DA ATIVIDADE (GDA) EM /g36/g55/g101 100%. /g36/g47/g101/g48 DISSO, DEVE-SE GARANTIR A /g36/g55/g56/g36/g47/g44/g61/g36/g100/g173/g50 DO /g36/g56/g59/g203/g47/g44/g50 TRANSPORTE E /g36/g56/g59/g203/g47/g44/g50 /g53/g40/g41/g40/g44/g100/g173/g50 (CONGELADO DESDE 2008) E /g55/g36/g48/g37/g101/g48 O ADICIONAL NOTURNO, ADICIONAL INSALUBRIDADE E DAR DEVIDA TRATATIVA AOS ACIDENTES DE TRABALHO, DENTRE OUTROS.
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g20/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g22/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g3/g42/g72/g86/g87/g109/g82/g3/g40/g86/g87/g68/g71/g88/g68/g79/g3/g71/g82/g3/g54/g56/g54 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g49/g50/g57/g50/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g36/g53/g36/g3/g36/g3/g200/g53/g40/g36/g3/g39/g36/g3/g54/g36/g210/g39/g40 META: 3 Justificativa: SOLICITA-SE /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE NOVOS CONCURSOS NA /g200/g53/g40/g36 DA /g54/g36/g210/g39/g40/g15 INCLUSIVE UM CONCURSO /g40/g54/g51/g40/g38/g203/g41/g44/g38/g50 PARA O PROVIMENTO DOS CARGOS VAGOS NAS /g44/g49/g54/g55/g44/g55/g56/g44/g100/g174/g40/g54 - SECRETARIA DE ESTADO DE /g54/g36/g210/g39/g40 (SES)/INSTITUTO DE /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 DOS SERVIDORES DO ESTADO DO RIO DE JANEIRO (IASERJ), TENDO EM CONTA O QUE /g39/g44/g54/g51/g174/g40 A LEI /g49/g158 8.986/2020, QUE /g51/g53/g40/g57/g199 A /g40/g59/g55/g44/g49/g100/g173/g50 DAS OSS, EM 31/07/2024, COM CONSEQUENTE AGRAVAMENTO DA /g38/g36/g53/g199/g49/g38/g44/g36/g3/g39/g40/g3/g51/g40/g54/g54/g50/g36/g47/g3/g49/g36/g3/g200/g53/g40/g36/g3/g39/g40/g3/g54/g36/g210/g39/g40/g3/g39/g50/g3/g40/g54/g55/g36/g39/g50/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g20/g27 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g20/g3/g16/g3/g36/g87/g72/g81/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79/g3/g106/g3/g54/g68/g126/g71/g72 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g48/g51/g47/g44/g36/g100/g173/g50/g3/g39/g40/g3/g36/g100/g174/g40/g54/g3/g16/g3/g38/g198/g49/g38/g40/g53 META: 1 Justificativa: ESSA EMENDA VISA /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA FORTALECECIMENTO DE UMA /g40/g54/g55/g53/g36/g55/g101/g42/g44/g36 DE /g51/g53/g40/g57/g40/g49/g100/g173/g50 E COMBATE AO /g38/g198/g49/g38/g40/g53 /g49/g50/g3/g198/g48/g37/g44/g55/g50/g3/g39/g36/g3/g54/g40/g38/g53/g40/g55/g36/g53/g44/g36/g3/g39/g40/g3/g40/g54/g55/g36/g39/g50/g3/g39/g40/g3/g54/g36/g210/g39/g40/g3/g11/g54/g40/g54/g12/g17
+
+GESTORES DE /g54/g36/g210/g39/g40 /g57/g199/g48 SENDO CADA VEZ MAIS PRESSIONADOS PELO AUMENTO NO /g49/g210/g48/g40/g53/g50 DE CASOS DE /g38/g198/g49/g38/g40/g53 EM /g53/g36/g61/g173/g50 /g49/g173/g50 APENAS DO ENVELHECIMENTO POPULACIONAL, MAS DOS ESTILOS DE VIDA ADOTADOS E DAS /g40/g59/g51/g50/g54/g44/g100/g174/g40/g54 AMBIENTAIS E OCUPACIONAIS QUE COLOCAM A /g51/g50/g51/g56/g47/g36/g100/g173/g50 DIANTE DE UM MAIOR /g53/g44/g54/g38/g50/g3/g39/g40/g3/g39/g40/g54/g40/g49/g57/g50/g47/g57/g44/g48/g40/g49/g55/g50/g3/g39/g36/g3/g39/g50/g40/g49/g100/g36/g17/g3 O /g38/g198/g49/g38/g40/g53 /g101 O PRINCIPAL PROBLEMA DE /g54/g36/g210/g39/g40 /g51/g210/g37/g47/g44/g38/g36 NO MUNDO, FIGURANDO COMO UMA DAS PRINCIPAIS CAUSAS DE MORTE E, COMO /g38/g50/g49/g54/g40/g52/g56/g199/g49/g38/g44/g36/g15 UMA DAS PRINCIPAIS BARREIRAS PARA O AUMENTO DA EXPECTATIVA DE VIDA EM TODO O MUNDO. NA MAIORIA DOS /g51/g36/g203/g54/g40/g54/g15 CORRESPONDE /g172 PRIMEIRA OU /g172 SEGUNDA CAUSA DE MORTE PREMATURA, ANTES DOS 70 ANOS. DESTA FORMA, /g54/g173/g50 ESSENCIAIS MEDIDAS PREVENTIVAS, TAIS COMO A /g39/g40/g55/g40/g38/g100/g173/g50 PRECOCE COMO O /g39/g44/g36/g42/g49/g207/g54/g55/g44/g38/g50/g3/g51/g53/g40/g38/g50/g38/g40/g3/g40/g3/g50/g3/g53/g36/g54/g55/g53/g40/g36/g48/g40/g49/g55/g50/g17
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g20/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g24/g28/g3/g16/g3/g52/g88/g68/g79/g76/g73/g76/g70/g68/g111/g109/g82/g3/g71/g68/g86/g3/g36/g87/g76/g89/g76/g71/g68/g71/g72/g86/g3/g71/g72/g3/g51/g82/g79/g116/g70/g76/g68/g3/g45/g88/g71/g76/g70/g76/g105/g85/g76/g68 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g51/g36/g42/g17/g3/g39/g40/g3/g42/g53/g36/g55/g44/g41/g44/g38/g36/g100/g173/g50/g3/g36/g3/g51/g38 META: 1 Justificativa: /g45/g200 EXISTE O DECRETO /g49/g158 25847/1999, QUE INSTITUIU O PROGRAMA DELEGACIA LEGAL E CONCEDEU ESSE /g37/g40/g49/g40/g41/g203/g38/g44/g50 E PRECISA SER EFETIVAMENTE CUMPRIDO.
+
+Deputada Martha Rocha /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g21/g19
+
+Id:  2588990 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68
+
+<!-- image -->
+
+ANO
+
+L
+
+-
+
+SUPLEMENT O
+
+QUINT A-FEIRA
+
+-
+
+AO
+
+18
+
+N
+
+o
+
+-
+
+DE
+
+131 -S
+
+JULHO
+
+-
+
+P ARTE
+
+I
+
+DE
+
+2024
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- paginas 46-60 -->
+
+Id:  2588991
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Id:  2588993
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+413
+
+Id:  2588995
+
+<!-- image -->
+
+## /g36/g49/g40/g59/g50/g3/g39/g40/g3/g44/g49/g39/g44/g38/g36/g100/g173/g50/g3/g47/g40/g42/g44/g54/g47/g36/g55/g44/g57/g36
+
+Deputado Anderson Moraes /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g20/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g26/g3/g16/g3/g40/g80/g83/g85/g72/g74/g82/g15/g3/g53/g72/g81/g71/g68/g3/g72/g3/g41/g82/g85/g80/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g82/g3/g48/g72/g85/g70/g68/g71/g82/g3/g71/g72/g3/g55/g85/g68/g69/g68/g79/g75/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g27/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g3/g51/g85/g82/g73/g76/g86/g86/g76/g82/g81/g68/g79/g3/g81/g68/g3/g41/g36/g40/g55/g40/g38 NOVO PRODUTO: CURSO PROFISSIONALIZANTE IMPLANTADO/EXPANDIDO META: 500 Justificativa: PRODUTO /g49/g40/g38/g40/g54/g54/g200/g53/g44/g50 PARA MENSURAR NOVOS CURSOS IMPLANTADOS PELA FAETEC, ASSIM COMO CURSOS EXISTENTES QUE TENHAM TIDO AUMENTO DE OFERTAS DE VAGAS. ESSA /g44/g49/g41/g50/g53/g48/g36/g100/g173/g50 /g101 ESSENCIAL PARA GERAR DADOS SOBRE A /g48/g50/g57/g44/g48/g40/g49/g55/g36/g100/g173/g50 E DIRECIONAMENTO DA /g52/g56/g36/g47/g44/g41/g44/g38/g36/g100/g173/g50 PROFISSIONAL E DEVIDAS /g39/g40/g38/g44/g54/g174/g40/g54/g3/g51/g50/g47/g203/g55/g44/g38/g36/g54/g17
+
+Deputado Anderson Moraes /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g20/g22 PROGRAMA: 0512 - Desenvolvimento Territorial /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g20/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g53/g72/g74/g76/g82/g81/g68/g79 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g23/g21/g21/g3/g16/g3/g37/g72/g81/g72/g73/g116/g70/g76/g82/g3/g73/g76/g86/g70/g68/g79/g3/g70/g82/g81/g70/g72/g71/g76/g71/g82 META: 1.000 Justificativa: VISA MENSURAR OS /g37/g40/g49/g40/g41/g203/g38/g44/g50/g54 FISCAIS CONCEDIDOS DURANTE O ANO PARA ATRAIR INVESTIMENTOS AO ESTADO.
+
+Deputado Anderson Moraes /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g20/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g20/g19/g3/g16/g3/g48/g82/g69/g76/g79/g76/g71/g68/g71/g72/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g19/g27/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g50/g83/g72/g85/g68/g70/g76/g82/g81/g68/g79/g3/g71/g72/g3/g53/g82/g71/g82/g89/g76/g68/g86 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50/g3/g53/g50/g39/g50/g57/g3/g36/g55/g44/g49/g42/g44/g39/g36/g54/g3/g36/g38/g44/g39/g40/g49/g55/g40/g54/g3/g49/g36/g55/g56/g53/g36/g44/g54 META: 200 Justificativa: PRODUTO /g49/g40/g38/g40/g54/g54/g200/g53/g44/g50 PARA MENSURAR CLARAMENTE DESPESAS REALIZADAS COM /g54/g40/g53/g57/g44/g100/g50/g54 DE /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 DE RODOVIAS ATINGIDAS POR ACIDENTES NATURAIS, VISTO QUE OS EXISTENTES /g40/g54/g55/g173/g50 VOLTADOS /g172 /g48/g36/g49/g56/g55/g40/g49/g100/g173/g50 DA MALHA /g53/g50/g39/g50/g57/g44/g200/g53/g44/g36/g17 /g55/g36/g48/g37/g101/g48 /g101 /g49/g40/g38/g40/g54/g54/g200/g53/g44/g50 DEVIDO SER /g54/g40/g53/g57/g44/g100/g50/g3/g53/g50/g55/g44/g49/g40/g44/g53/g50/g15/g3/g39/g40/g38/g50/g53/g53/g40/g49/g55/g40/g3/g39/g36/g3/g55/g50/g51/g50/g42/g53/g36/g41/g44/g36/g3/g39/g50/g3/g40/g54/g55/g36/g39/g50/g17
+
+Deputado Anderson Moraes /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g20/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g26/g3/g16/g3/g40/g80/g83/g85/g72/g74/g82/g15/g3/g53/g72/g81/g71/g68/g3/g72/g3/g41/g82/g85/g80/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g82/g3/g48/g72/g85/g70/g68/g71/g82/g3/g71/g72/g3/g55/g85/g68/g69/g68/g79/g75/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g27/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g3/g51/g85/g82/g73/g76/g86/g86/g76/g82/g81/g68/g79/g3/g81/g68/g3/g41/g36/g40/g55/g40/g38 NOVO PRODUTO: UNIDADE PROFISSIONALIZANTE IMPLANTADA META: 5 Justificativa: VISA MENSURAR NOVAS UNIDADES PROFISSIONALIZANTES DA FAETEC /g44/g48/g51/g47/g36/g49/g55/g36/g39/g36/g54/g3/g49/g50/g3/g40/g54/g55/g36/g39/g50/g15/g3/g39/g40/g57/g44/g39/g50/g3/g36/g56/g54/g199/g49/g38/g44/g36/g3/g39/g40/g3/g51/g53/g50/g39/g56/g55/g50/g17
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Deputada Carla Machado
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g23/g25 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g44/g81/g70/g79/g88/g86/g76/g89/g68/g15/g3/g70/g82/g80/g3/g89/g68/g79/g82/g85/g76/g93/g68/g111/g109/g82/g3/g106/g86/g3/g71/g76/g73/g72/g85/g72/g81/g111/g68/g86/g3/g72/g3/g68/g3 diversidade /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g24/g28/g22/g3/g16/g3/g51/g85/g82/g73/g76/g86/g86/g76/g82/g81/g68/g79/g3/g71/g68/g3/g72/g71/g88/g70/g68/g111/g109/g82/g3/g70/g68/g83/g68/g70/g76/g87/g68/g71/g82 META: 2.500 Justificativa: A PROPOSTA DE AUMENTO DA META DE PROFISSIONAIS DA /g40/g39/g56/g38/g36/g100/g173/g50 CAPACITADOS PARA O ANO DE 2025 /g101 FUNDAMENTAL PARA GARANTIR A QUALIDADE E /g40/g41/g44/g38/g200/g38/g44/g36 DO ENSINO, ESPECIALMENTE NO CONTEXTO DA /g51/g53/g50/g48/g50/g100/g173/g50 DA /g40/g39/g56/g38/g36/g100/g173/g50/g3/g44/g49/g38/g47/g56/g54/g44/g57/g36/g3/g40/g3/g39/g36/g3/g57/g36/g47/g50/g53/g44/g61/g36/g100/g173/g50/g3/g39/g36/g3/g39/g44/g57/g40/g53/g54/g44/g39/g36/g39/g40/g17 A /g38/g36/g51/g36/g38/g44/g55/g36/g100/g173/g50 /g38/g50/g49/g55/g203/g49/g56/g36 DOS PROFISSIONAIS DA /g40/g39/g56/g38/g36/g100/g173/g50 /g101 ESSENCIAL PARA QUE POSSAM LIDAR DE FORMA EFICAZ E INCLUSIVA COM A DIVERSIDADE DE ALUNOS PRESENTES NAS ESCOLAS, INCLUINDO AQUELES COM NECESSIDADES ESPECIAIS, COMO OS ALUNOS COM AUTISMO. PROFESSORES E DEMAIS PROFISSIONAIS DA /g40/g39/g56/g38/g36/g100/g173/g50 PRECISAM ESTAR PREPARADOS PARA IDENTIFICAR AS NECESSIDADES INDIVIDUAIS DE CADA ALUNO E ADAPTAR SUAS /g51/g53/g200/g55/g44/g38/g36/g54 /g51/g40/g39/g36/g42/g207/g42/g44/g38/g36/g54 DE ACORDO COM ESSAS NECESSIDADES.
+
+AO AUMENTAR A META DE PROFISSIONAIS DA /g40/g39/g56/g38/g36/g100/g173/g50 CAPACITADOS, ESTAMOS INVESTINDO NA /g41/g50/g53/g48/g36/g100/g173/g50 DE UMA /g41/g50/g53/g100/g36 DE TRABALHO MAIS QUALIFICADA E PREPARADA PARA ENFRENTAR OS DESAFIOS E DEMANDAS DO SISTEMA EDUCACIONAL ATUAL. ISSO CONTRIBUI /g49/g173/g50 APENAS PARA A /g51/g53/g50/g48/g50/g100/g173/g50 DA /g44/g49/g38/g47/g56/g54/g173/g50 E DA DIVERSIDADE, MAS /g55/g36/g48/g37/g101/g48 PARA A MELHORIA GERAL DA QUALIDADE DO ENSINO E PARA O DESENVOLVIMENTO INTEGRAL DOS ALUNOS.
+
+Deputada Carla Machado
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g23/g26 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g23/g26/g3/g16/g3/g42/g68/g85/g68/g81/g87/g76/g68/g3/g71/g82/g86/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g71/g68/g3/g51/g72/g86/g86/g82/g68/g3/g70/g82/g80/g3/g39/g72/g73/g76/g70/g76/g114/g81/g70/g76/g68 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g36/g48/g51/g36/g49/g43/g36/g3/g39/g40/g3/g38/g50/g49/g54/g38/g44/g40/g49/g55/g44/g61/g36/g100/g173/g50/g3/g40/g3/g51/g53/g50/g48/g50/g100/g173/g50/g3/g39/g40/g3/g39/g44/g53/g40/g44/g55/g50/g54/g3/g39/g36/g3 PESSOA COM AUTISMO META: 1
+
+Justificativa: AS CAMPANHAS DE /g38/g50/g49/g54/g38/g44/g40/g49/g55/g44/g61/g36/g100/g173/g50 DESEMPENHAM UM PAPEL CRUCIAL NA /g39/g44/g54/g54/g40/g48/g44/g49/g36/g100/g173/g50 DE /g44/g49/g41/g50/g53/g48/g36/g100/g174/g40/g54 E NA /g48/g56/g39/g36/g49/g100/g36 DE ATITUDES EM /g53/g40/g47/g36/g100/g173/g50 /g172/g54 PESSOAS COM AUTISMO. MUITAS VEZES, O DESCONHECIMENTO E O PRECONCEITO /g54/g173/g50 AS PRINCIPAIS BARREIRAS QUE IMPEDEM A PLENA /g44/g49/g38/g47/g56/g54/g173/g50 E /g51/g36/g53/g55/g44/g38/g44/g51/g36/g100/g173/g50 SOCIAL DESSAS PESSOAS. PORTANTO, /g101 ESSENCIAL PROMOVER /g36/g100/g174/g40/g54 QUE VISEM ESCLARECER E SENSIBILIZAR A /g51/g50/g51/g56/g47/g36/g100/g173/g50 SOBRE AS /g38/g36/g53/g36/g38/g55/g40/g53/g203/g54/g55/g44/g38/g36/g54/g15/g3/g39/g40/g54/g36/g41/g44/g50/g54/g3/g40/g3/g51/g50/g55/g40/g49/g38/g44/g36/g47/g44/g39/g36/g39/g40/g54/g3/g39/g36/g54/g3/g51/g40/g54/g54/g50/g36/g54/g3/g38/g50/g48/g3/g36/g56/g55/g44/g54/g48/g50/g17
+
+AO CRIAR A "CAMPANHA DE /g38/g50/g49/g54/g38/g44/g40/g49/g55/g44/g61/g36/g100/g173/g50 E /g51/g53/g50/g48/g50/g100/g173/g50 DE DIREITOS DA PESSOA COM AUTISMO", ESTAMOS INVESTINDO NA /g40/g39/g56/g38/g36/g100/g173/g50 E NA /g54/g40/g49/g54/g44/g37/g44/g47/g44/g61/g36/g100/g173/g50 DO /g51/g210/g37/g47/g44/g38/g50 EM GERAL, BEM COMO DOS PROFISSIONAIS DE DIFERENTES /g200/g53/g40/g36/g54/g15 INCLUINDO /g54/g36/g210/g39/g40/g15 /g40/g39/g56/g38/g36/g100/g173/g50 E TRABALHO. ESSA CAMPANHA BUSCA /g49/g173/g50 APENAS INFORMAR SOBRE OS DIREITOS LEGAIS DAS PESSOAS COM AUTISMO, MAS /g55/g36/g48/g37/g101/g48 PROMOVER UMA CULTURA DE RESPEITO, /g44/g49/g38/g47/g56/g54/g173/g50 E /g57/g36/g47/g50/g53/g44/g61/g36/g100/g173/g50 DA DIVERSIDADE.
+
+/g101 IMPORTANTE RESSALTAR QUE, EMBORA UMA CAMPANHA ANUAL POSSA PARECER LIMITADA, O IMPACTO DAS /g36/g100/g174/g40/g54 DE /g38/g50/g49/g54/g38/g44/g40/g49/g55/g44/g61/g36/g100/g173/g50 PODE SER SIGNIFICATIVO E DURADOURO. A /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE UMA CAMPANHA ABRANGENTE E BEM PLANEJADA PODE MOBILIZAR A SOCIEDADE CIVIL, OS MEIOS DE /g38/g50/g48/g56/g49/g44/g38/g36/g100/g173/g50/g15 AS /g44/g49/g54/g55/g44/g55/g56/g44/g100/g174/g40/g54 /g51/g210/g37/g47/g44/g38/g36/g54 E PRIVADAS E OUTROS ATORES RELEVANTES, CONTRIBUINDO PARA UMA /g48/g56/g39/g36/g49/g100/g36 POSITIVA NA FORMA COMO A SOCIEDADE ENXERGA E ACOLHE AS PESSOAS COM AUTISMO.
+
+Deputada Carla Machado /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g23/g27 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g26/g3/g16/g3/g40/g80/g83/g85/g72/g74/g82/g15/g3/g53/g72/g81/g71/g68/g3/g72/g3/g41/g82/g85/g80/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g82/g3/g48/g72/g85/g70/g68/g71/g82/g3/g71/g72/g3/g55/g85/g68/g69/g68/g79/g75/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g26/g3/g16/g3/g36/g111/g125/g72/g86/g3/g72/g3/g54/g72/g85/g89/g76/g111/g82/g86/g3/g71/g72/g3/g52/g88/g68/g79/g76/g73/g76/g70/g68/g111/g109/g82/g3/g54/g82/g70/g76/g68/g79/g3/g72/g3/g51/g85/g82/g73/g76/g86/g86/g76/g82/g81/g68/g79 NOVO PRODUTO: AUTISTA CAPACITADO META: 200 Justificativa: A /g44/g49/g54/g40/g53/g100/g173/g50 NO MERCADO DE TRABALHO /g101 UM PASSO FUNDAMENTAL PARA A /g44/g49/g39/g40/g51/g40/g49/g39/g199/g49/g38/g44/g36 E A AUTONOMIA DAS PESSOAS COM AUTISMO, CONTRIBUINDO PARA SUA /g44/g49/g55/g40/g42/g53/g36/g100/g173/g50 SOCIAL E SUA /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 PESSOAL. NO ENTANTO, MUITAS VEZES ESSAS PESSOAS ENFRENTAM BARREIRAS SIGNIFICATIVAS DEVIDO /g172 FALTA DE PREPARO E /g54/g40/g49/g54/g44/g37/g44/g47/g44/g61/g36/g100/g173/g50 POR PARTE DOS EMPREGADORES, BEM COMO /g172 FALTA DE OPORTUNIDADES DE /g38/g36/g51/g36/g38/g44/g55/g36/g100/g173/g50 E /g52/g56/g36/g47/g44/g41/g44/g38/g36/g100/g173/g50 /g40/g54/g51/g40/g38/g203/g41/g44/g38/g36/g54/g3/g51/g36/g53/g36/g3/g54/g56/g36/g54/g3/g49/g40/g38/g40/g54/g54/g44/g39/g36/g39/g40/g54/g17
+
+<!-- image -->
+
+DO
+
+RIO
+
+ESTADO
+
+DE
+
+JANEIRO
+
+DO
+
+AO CRIAR O PRODUTO "TRABALHADOR AUTISTA CAPACITADO", ESTAMOS RECONHECENDO A /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 DE OFERECER OPORTUNIDADES DE /g52/g56/g36/g47/g44/g41/g44/g38/g36/g100/g173/g50 PROFISSIONAL ADAPTADAS /g172/g54 /g38/g36/g53/g36/g38/g55/g40/g53/g203/g54/g55/g44/g38/g36/g54 E HABILIDADES DAS PESSOAS COM AUTISMO. ESSA INICIATIVA VISA /g49/g173/g50 APENAS PROPORCIONAR O DESENVOLVIMENTO DE /g38/g50/g48/g51/g40/g55/g199/g49/g38/g44/g36/g54 /g55/g101/g38/g49/g44/g38/g36/g54 E PROFISSIONAIS, MAS /g55/g36/g48/g37/g101/g48 /g51/g53/g50/g48/g50/g57/g40/g53/g3/g36/g3/g38/g50/g49/g54/g38/g44/g40/g49/g55/g44/g61/g36/g100/g173/g50/g3/g40/g3/g36/g3/g44/g49/g38/g47/g56/g54/g173/g50/g3/g49/g50/g3/g36/g48/g37/g44/g40/g49/g55/g40/g3/g39/g40/g3/g55/g53/g36/g37/g36/g47/g43/g50/g17
+
+Deputada Carla Machado /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g24/g19
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g44/g81/g70/g79/g88/g86/g76/g89/g68/g15/g3/g70/g82/g80/g3/g89/g68/g79/g82/g85/g76/g93/g68/g111/g109/g82/g3/g106/g86/g3/g71/g76/g73/g72/g85/g72/g81/g111/g68/g86/g3/g72/g3/g68/g3
+
+diversidade
+
+NOVO PRODUTO: ESCOLA  ADAPTADA PARA ATENDIMENTO A ALUNOS COM AUTISMO
+
+- 3 UNIDADES EM 2025
+
+META: 3
+
+Justificativa: PRIMEIRAMENTE, /g101 FUNDAMENTAL RECONHECERMOS QUE A /g40/g39/g56/g38/g36/g100/g173/g50 INCLUSIVA /g101 UM DIREITO DE TODOS OS ALUNOS, INDEPENDENTE DE SUAS /g38/g36/g53/g36/g38/g55/g40/g53/g203/g54/g55/g44/g38/g36/g54 INDIVIDUAIS. NO CASO /g40/g54/g51/g40/g38/g203/g41/g44/g38/g50 DE ALUNOS COM AUTISMO, /g101 CRUCIAL GARANTIR QUE ELES TENHAM ACESSO A AMBIENTES EDUCACIONAIS QUE ATENDAM /g172/g54 SUAS NECESSIDADES /g40/g54/g51/g40/g38/g203/g41/g44/g38/g36/g54/g15 PROMOVENDO ASSIM SEU PLENO /g39/g40/g54/g40/g49/g57/g50/g47/g57/g44/g48/g40/g49/g55/g50/g3/g36/g38/g36/g39/g199/g48/g44/g38/g50/g15/g3/g54/g50/g38/g44/g36/g47/g3/g40/g3/g40/g48/g50/g38/g44/g50/g49/g36/g47/g17
+
+A /g38/g53/g44/g36/g100/g173/g50 DE ESCOLAS COM INFRAESTRUTURA ADAPTADA PARA ALUNOS COM AUTISMO /g101 UMA MEDIDA ESSENCIAL PARA GARANTIR QUE ESSES ESTUDANTES TENHAM ACESSO A UM AMBIENTE EDUCACIONAL ADEQUADO E INCLUSIVO. ESSAS ESCOLAS DEVEM SER PROJETADAS LEVANDO EM /g38/g50/g49/g54/g44/g39/g40/g53/g36/g100/g173/g50 AS PARTICULARIDADES DESSE /g51/g210/g37/g47/g44/g38/g50/g15 OFERECENDO RECURSOS E ESTRUTURAS QUE /g41/g36/g38/g44/g47/g44/g55/g40/g48/g3/g54/g56/g36/g3/g36/g51/g53/g40/g49/g39/g44/g61/g36/g42/g40/g48/g3/g40/g3/g54/g40/g56/g3/g38/g50/g49/g57/g203/g57/g44/g50/g3/g54/g50/g38/g44/g36/g47/g17
+
+AO ESTABELECER METAS ANUAIS PARA A /g38/g53/g44/g36/g100/g173/g50 DE UM /g49/g210/g48/g40/g53/g50 /g40/g54/g51/g40/g38/g203/g41/g44/g38/g50 DE ESCOLAS ADAPTADAS PARA ALUNOS COM AUTISMO, ESTAMOS DEMONSTRANDO UM COMPROMISSO EFETIVO COM A /g51/g53/g50/g48/g50/g100/g173/g50 DA /g44/g49/g38/g47/g56/g54/g173/g50 E DA DIVERSIDADE NO SISTEMA EDUCACIONAL. ESSA EMENDA /g49/g173/g50 APENAS ATENDE A UMA DEMANDA URGENTE E /g47/g40/g42/g203/g55/g44/g48/g36/g15 MAS /g55/g36/g48/g37/g101/g48 REPRESENTA UM /g36/g57/g36/g49/g100/g50 SIGNIFICATIVO NA /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50/g3/g39/g40/g3/g56/g48/g36/g3/g54/g50/g38/g44/g40/g39/g36/g39/g40/g3/g48/g36/g44/g54/g3/g45/g56/g54/g55/g36/g3/g40/g3/g44/g42/g56/g36/g47/g44/g55/g200/g53/g44/g36/g17
+
+Deputada Carla Machado
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g24/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g44/g81/g70/g79/g88/g86/g76/g89/g68/g15/g3/g70/g82/g80/g3/g89/g68/g79/g82/g85/g76/g93/g68/g111/g109/g82/g3/g106/g86/g3/g71/g76/g73/g72/g85/g72/g81/g111/g68/g86/g3/g72/g3/g68/g3 diversidade /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g40/g49/g55/g53/g50/g3/g39/g40/g3/g53/g40/g36/g37/g44/g47/g44/g55/g36/g100/g173/g50/g3/g51/g36/g53/g36/g3/g51/g40/g54/g54/g50/g36/g54/g3/g38/g50/g48/g3/g36/g56/g55/g44/g54/g48/g50/g3 IMPLANTADO META: 2 Justificativa: OS CENTROS DE /g53/g40/g36/g37/g44/g47/g44/g55/g36/g100/g173/g50 ESPECIALIZADOS /g54/g173/g50 FUNDAMENTAIS PARA OFERECER SUPORTE E /g54/g40/g53/g57/g44/g100/g50/g54 ESPECIALIZADOS PARA /g44/g49/g39/g44/g57/g203/g39/g56/g50/g54 COM AUTISMO, VISANDO /g172 MELHORIA DE SUA QUALIDADE DE VIDA, DESENVOLVIMENTO PESSOAL E /g44/g49/g38/g47/g56/g54/g173/g50 SOCIAL. ESSES CENTROS PROPORCIONAM /g44/g49/g55/g40/g53/g57/g40/g49/g100/g174/g40/g54 /g55/g40/g53/g36/g51/g199/g56/g55/g44/g38/g36/g54/g15 PROGRAMAS EDUCACIONAIS PERSONALIZADOS, APOIO /g51/g54/g44/g38/g50/g47/g207/g42/g44/g38/g50 E SUPORTE FAMILIAR, ENTRE OUTROS /g54/g40/g53/g57/g44/g100/g50/g54/g15 QUE /g54/g173/g50 ESSENCIAIS PARA O BEM-ESTAR E O DESENVOLVIMENTO INTEGRAL DAS PESSOAS COM AUTISMO.
+
+AO CRIAR O PRODUTO "CENTRO DE /g53/g40/g36/g37/g44/g47/g44/g55/g36/g100/g173/g50 PARA PESSOAS COM AUTISMO", ESTAMOS RECONHECENDO A /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 DE OFERECER /g54/g40/g53/g57/g44/g100/g50/g54 ESPECIALIZADOS E DE QUALIDADE PARA ESSE /g51/g210/g37/g47/g44/g38/g50/g15 CONTRIBUINDO PARA A /g51/g53/g50/g48/g50/g100/g173/g50 DE UMA SOCIEDADE MAIS INCLUSIVA E PARA O RESPEITO AOS DIREITOS /g39/g36/g54/g3/g51/g40/g54/g54/g50/g36/g54/g3/g38/g50/g48/g3/g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36/g17
+
+POR FIM, /g101 IMPORTANTE RESSALTAR QUE, DEVIDO /g172 NATUREZA ESPECIALIZADA E INTENSIVA DOS /g54/g40/g53/g57/g44/g100/g50/g54 OFERECIDOS POR ESSES CENTROS, A /g38/g53/g44/g36/g100/g173/g50 DE /g48/g210/g47/g55/g44/g51/g47/g36/g54 UNIDADES EM UM CURTO /g51/g40/g53/g203/g50/g39/g50 DE TEMPO PODE SER /g44/g49/g57/g44/g200/g57/g40/g47/g17 PORTANTO, AO ESTABELECER METAS ANUAIS PARA A /g38/g53/g44/g36/g100/g173/g50 DE UM /g49/g210/g48/g40/g53/g50 LIMITADO DE CENTROS DE /g53/g40/g36/g37/g44/g47/g44/g55/g36/g100/g173/g50 PARA PESSOAS COM AUTISMO, ESTAMOS SENDO REALISTAS E GARANTINDO QUE OS RECURSOS SEJAM ALOCADOS DE FORMA /g40/g41/g44/g38/g36/g61/g3/g40/g3/g54/g56/g54/g55/g40/g49/g55/g200/g57/g40/g47/g17
+
+Deputada Carla Machado
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g27/g24 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g23/g26/g3/g16/g3/g42/g68/g85/g68/g81/g87/g76/g68/g3/g71/g82/g86/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g71/g68/g3/g51/g72/g86/g86/g82/g68/g3/g70/g82/g80/g3/g39/g72/g73/g76/g70/g76/g114/g81/g70/g76/g68 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g56/g59/g203/g47/g44/g50/g3/g41/g44/g49/g36/g49/g38/g40/g44/g53/g50/g3/g51/g36/g53/g36/g3/g38/g56/g44/g39/g36/g39/g50/g53/g3/g39/g40/g3/g51/g40/g54/g54/g50/g36/g54/g3/g38/g50/g48/g3 /g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36/g3/g40/g48/g3/g57/g56/g47/g49/g40/g53/g36/g37/g44/g47/g44/g39/g36/g39/g40 META: 10.000 Justificativa: MUITAS PESSOAS COM /g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36 ENFRENTAM /g48/g210/g47/g55/g44/g51/g47/g36/g54 FORMAS DE /g39/g44/g54/g38/g53/g44/g48/g44/g49/g36/g100/g173/g50/g15 /g40/g59/g38/g47/g56/g54/g173/g50 E VULNERABILIDADE SOCIAL, O QUE PODE RESULTAR EM DIFICULDADES ADICIONAIS NO ACESSO A CUIDADOS E SUPORTE ADEQUADOS. NESSE CONTEXTO, OS CUIDADORES DESEMPENHAM UM PAPEL FUNDAMENTAL AO FORNECER /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 E SUPORTE /g39/g44/g200/g53/g44/g50 /g172/g54 PESSOAS COM /g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36/g15 MUITAS VEZES SEM RECEBER O RECONHECIMENTO OU A /g38/g50/g48/g51/g40/g49/g54/g36/g100/g173/g50 ADEQUADA PELO SEU TRABALHO.
+
+AO CRIAR O PRODUTO /g5/g36/g56/g59/g203/g47/g44/g50 FINANCEIRO PARA CUIDADOR DE PESSOAS COM /g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36 EM VULNERABILIDADE", ESTAMOS RECONHECENDO A /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 DO TRABALHO DOS CUIDADORES E GARANTINDO QUE ELES RECEBAM O APOIO FINANCEIRO /g49/g40/g38/g40/g54/g54/g200/g53/g44/g50 PARA DESEMPENHAR SUAS /g41/g56/g49/g100/g174/g40/g54 DE MANEIRA DIGNA E /g54/g56/g54/g55/g40/g49/g55/g200/g57/g40/g47/g17 ESSE /g36/g56/g59/g203/g47/g44/g50 PODE CONTRIBUIR PARA ALIVIAR O /g208/g49/g56/g54 FINANCEIRO ENFRENTADO PELOS CUIDADORES E PROPORCIONAR UM MAIOR ACESSO A RECURSOS E /g54/g40/g53/g57/g44/g100/g50/g54 ESSENCIAIS PARA AS PESSOAS COM /g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36/g3/g40/g48/g3/g54/g44/g55/g56/g36/g100/g173/g50/g3/g39/g40/g3/g57/g56/g47/g49/g40/g53/g36/g37/g44/g47/g44/g39/g36/g39/g40/g17
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+/g39/g72/g83/g88/g87/g68/g71/g68/g3/g38/g112/g79/g76/g68/g3/g45/g82/g85/g71/g109/g82 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g22/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g20/g23/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g68/g82/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g3/g38/g76/g72/g81/g87/g116/g73/g76/g70/g82/g86/g3/g72/g3/g55/g72/g70/g81/g82/g79/g121/g74/g76/g70/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g25/g26/g22/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g72/g86/g87/g68/g71/g88/g68/g79/g3/g71/g72/g3/g70/g76/g114/g81/g70/g76/g68/g15/g3/g87/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g76/g81/g82/g89/g68/g111/g109/g82/g3/g76/g80/g83/g79/g68/g81/g87/g68/g71/g82 META: 2 Justificativa: FORTALECER A ESTRUTURA EDUCACIONAL /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 /g55/g40/g38/g49/g50/g47/g207/g42/g44/g38/g36/g15 /g38/g50/g48/g3/g50/g37/g45/g40/g55/g44/g57/g50/g3/g39/g40/g3/g36/g51/g53/g44/g48/g50/g53/g36/g53/g3/g36/g3/g41/g50/g53/g48/g36/g100/g173/g50/g3/g40/g3/g36/g3/g38/g36/g51/g36/g38/g44/g55/g36/g100/g173/g50/g3/g51/g53/g50/g41/g44/g54/g54/g44/g50/g49/g36/g47/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g68/g3/g38/g112/g79/g76/g68/g3/g45/g82/g85/g71/g109/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g22/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g20/g19/g3/g16/g3/g48/g82/g69/g76/g79/g76/g71/g68/g71/g72/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g19/g26/g3/g16/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g81/g68/g3/g44/g81/g87/g72/g74/g85/g68/g111/g109/g82/g3/g71/g72/g3/g55/g85/g68/g81/g86/g83/g82/g85/g87/g72/g3/g51/g126/g69/g79/g76/g70/g82 PRODUTO: 8161 - Transporte orientado implantado META: 3 /g45/g88/g86/g87/g76/g73/g76/g70/g68/g87/g76/g89/g68/g29/g3/g49/g40/g38/g40/g54/g54/g200/g53/g44/g50/g3/g44/g49/g57/g40/g54/g55/g44/g48/g40/g49/g55/g50/g54/g3/g40/g48/g3/g44/g49/g41/g53/g36/g40/g54/g55/g53/g56/g55/g56/g53/g36/g3/g57/g44/g200/g53/g44/g36/g17 /g54/g44/g54/g55/g40/g48/g36/g54/g3/g44/g49/g39/g44/g54/g51/g40/g49/g54/g200/g57/g40/g44/g54/g3/g36/g50/g3/g37/g40/g48/g16/g40/g54/g55/g36/g53/g3/g40/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g40/g3/g57/g44/g39/g36/g3/g39/g36/g3/g51/g50/g51/g56/g47/g36/g100/g173/g50/g17 /g36/g3/g44/g49/g41/g53/g36/g40/g54/g55/g53/g56/g55/g56/g53/g36/g3/g101/g3/g40/g54/g54/g40/g49/g38/g44/g36/g47/g3/g51/g36/g53/g36/g3/g50/g3/g39/g40/g54/g40/g49/g57/g50/g47/g57/g44/g48/g40/g49/g55/g50/g3/g40/g38/g50/g49/g208/g48/g44/g38/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g68/g3/g38/g112/g79/g76/g68/g3/g45/g82/g85/g71/g109/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g22/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g26/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g51/g126/g69/g79/g76/g70/g68/g86/g3/g83/g68/g85/g68/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g22/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g72/g3/g40/g81/g73/g85/g72/g81/g87/g68/g80/g72/g81/g87/g82/g3/g71/g72/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g86/g3/g70/g82/g81/g87/g85/g68/g3/g68/g3/g48/g88/g79/g75/g72/g85 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g51/g50/g47/g203/g55/g44/g38/g36/g54/g3/g51/g210/g37/g47/g44/g38/g36/g54/g3/g51/g18/g3/g51/g53/g50/g55/g40/g100/g173/g50/g3/g44/g49/g55/g40/g42/g53/g36/g47/g3/g48/g56/g47/g43/g40/g53/g40/g54/g3/g57/g203/g55/g44/g48/g36/g54/g3 /g39/g40/g3/g57/g44/g50/g47/g199/g49/g38/g44/g36/g3/g39/g50/g48/g101/g54/g55/g44/g38/g36 META: 1
+
+Justificativa: /g51/g50/g47/g203/g55/g44/g38/g36/g54 /g51/g210/g37/g47/g44/g38/g36/g54 PARA /g51/g53/g50/g55/g40/g100/g173/g50 INTEGRAL DE MULHERES /g57/g203/g55/g44/g48/g36/g54 DE /g57/g44/g50/g47/g199/g49/g38/g44/g36 /g39/g50/g48/g101/g54/g55/g44/g38/g36/g17 OS ELEVADOS /g49/g210/g48/g40/g53/g50/g54 DA /g57/g44/g50/g47/g199/g49/g38/g44/g36 CONTRA A MULHER /g53/g40/g41/g50/g53/g100/g36/g48 A /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 DE /g51/g50/g47/g203/g55/g44/g38/g36/g54 /g51/g210/g37/g47/g44/g38/g36/g54 MAIS ASSERTIVAS, DE /g44/g49/g54/g55/g53/g56/g48/g40/g49/g55/g50/g54/g3/g48/g36/g44/g54/g3/g40/g41/g40/g55/g44/g57/g50/g54/g3/g39/g40/g3/g51/g53/g40/g57/g40/g49/g100/g173/g50/g15/g3/g51/g53/g50/g55/g40/g100/g173/g50/g3/g40/g3/g53/g40/g51/g53/g40/g54/g54/g173/g50/g17
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Deputado Claudio Caiado /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g27/g27 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g21/g3/g16/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g43/g68/g69/g76/g87/g68/g70/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g74/g88/g79/g68/g85/g76/g93/g68/g111/g109/g82/g3/g41/g88/g81/g71/g76/g105/g85/g76/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g22/g26/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g36/g70/g72/g86/g86/g82/g3/g106/g3/g48/g82/g85/g68/g71/g76/g68/g3/g39/g76/g74/g81/g68 PRODUTO: 8844 - Localidade urbanizada ou atendida com infraestrutura META: 15 Justificativa: ESSA EMENDA VISA ALTERAR AS METAS PARA /g56/g53/g37/g36/g49/g44/g61/g36/g100/g173/g50 DE /g200/g53/g40/g36/g54 /g39/g50/g3/g40/g49/g55/g50/g53/g49/g50/g3/g39/g40/g3/g38/g50/g48/g56/g49/g44/g39/g36/g39/g40/g54/g3/g49/g50/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g3/g39/g50/g3/g53/g44/g50/g3/g39/g40/g3/g45/g36/g49/g40/g44/g53/g50/g17
+
+Deputado Claudio Caiado /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g27/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g21/g3/g16/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g43/g68/g69/g76/g87/g68/g70/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g74/g88/g79/g68/g85/g76/g93/g68/g111/g109/g82/g3/g41/g88/g81/g71/g76/g105/g85/g76/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g22/g26/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g36/g70/g72/g86/g86/g82/g3/g106/g3/g48/g82/g85/g68/g71/g76/g68/g3/g39/g76/g74/g81/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g26/g19/g19/g28/g3/g16/g3/g41/g68/g80/g116/g79/g76/g68/g3/g69/g72/g81/g72/g73/g76/g70/g76/g68/g71/g68/g3/g70/g82/g80/g3/g53/g72/g74/g88/g79/g68/g85/g76/g93/g68/g111/g109/g82/g3/g41/g88/g81/g71/g76/g105/g85/g76/g68/g3/g71/g72/g3/g44/g81/g87/g72/g85/g72/g86/g86/g72/g3/g54/g82/g70/g76/g68/g79 META: 7.900 Justificativa: ESSA EMENDA VISA ALTERAR AS METAS PARA /g53/g40/g42/g56/g47/g36/g53/g44/g61/g36/g100/g173/g50 /g41/g56/g49/g39/g44/g200/g53/g44/g36/g3/g49/g50/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g3/g39/g50/g3/g53/g44/g50/g3/g39/g40/g3/g45/g36/g49/g40/g44/g53/g50/g17
+
+Deputado Claudio Caiado /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g28/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g27/g26/g3/g16/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g51/g85/g72/g86/g72/g81/g87/g72 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g26/g21/g26/g19/g3/g16/g3/g50/g83/g72/g85/g68/g111/g109/g82/g3/g71/g72/g3/g83/g68/g87/g85/g88/g79/g75/g68/g80/g72/g81/g87/g82/g3/g85/g72/g68/g79/g76/g93/g68/g71/g68 META: 1.090.000 Justificativa: ESSA EMENDA VISA POSSIBILITAR O AUMENTO DO EFETIVO DO PROGRAMA BARRA PRESENTE E DO PROGRAMA RECREIO DOS BANDEIRANTES /g51/g53/g40/g54/g40/g49/g55/g40/g15/g3/g51/g36/g53/g36/g3/g40/g59/g51/g36/g49/g39/g44/g53/g3/g36/g3/g200/g53/g40/g36/g3/g39/g40/g3/g36/g37/g53/g36/g49/g42/g199/g49/g38/g44/g36/g3/g39/g40/g3/g36/g55/g56/g36/g100/g173/g50/g3/g39/g50/g3/g51/g53/g50/g42/g53/g36/g48/g36/g17
+
+Deputado Claudio Caiado /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g28/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g20/g19/g3/g16/g3/g48/g82/g69/g76/g79/g76/g71/g68/g71/g72/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g27/g3/g16/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g71/g72/g3/g49/g82/g89/g68/g86/g3/g47/g76/g81/g75/g68/g86/g3/g48/g72/g87/g85/g82/g89/g76/g105/g85/g76/g68/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g24/g25/g23/g3/g16/g3/g47/g76/g81/g75/g68/g3/g42/g105/g89/g72/g68/g3/g16/g3/g56/g85/g88/g74/g88/g68/g76/g3/g76/g80/g83/g79/g68/g81/g87/g68/g71/g68 META: 1 Justificativa: ESSA EMENDA VISA POSSIBILITAR A /g40/g59/g51/g36/g49/g54/g173/g50 DA LINHA 1 DO /g48/g40/g55/g53/g208/g15 DA /g40/g54/g55/g36/g100/g173/g50 /g42/g200/g57/g40/g36 /g36/g55/g101 A /g40/g54/g55/g36/g100/g173/g50 URUGUAI, NA TIJUCA, NO /g48/g56/g49/g44/g38/g203/g51/g44/g50 DO RIO DE JANEIRO.
+
+Deputado Claudio Caiado /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g28/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g20/g19/g3/g16/g3/g48/g82/g69/g76/g79/g76/g71/g68/g71/g72/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g27/g3/g16/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g71/g72/g3/g49/g82/g89/g68/g86/g3/g47/g76/g81/g75/g68/g86/g3/g48/g72/g87/g85/g82/g89/g76/g105/g85/g76/g68/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g24/g25/g26/g3/g16/g3/g47/g76/g81/g75/g68/g3/g45/g68/g85/g71/g76/g80/g3/g50/g70/g72/g107/g81/g76/g70/g82/g3/g16/g3/g36/g79/g89/g82/g85/g68/g71/g68/g3/g76/g80/g83/g79/g68/g81/g87/g68/g71/g68 META: 1 Justificativa: ESSA EMENDA VISA POSSIBILITAR A /g40/g59/g51/g36/g49/g54/g173/g50 DA LINHA 4 DO /g48/g40/g55/g53/g208 /g36/g55/g101 O TERMINAL ALVORADA, NA BARRA DA TIJUCA, NO /g48/g56/g49/g44/g38/g203/g51/g44/g50 DO RIO DE JANEIRO.
+
+Deputado Claudio Caiado /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g28/g22
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g27/g27/g3/g16/g3/g42/g68/g85/g68/g81/g87/g76/g68/g3/g71/g72/g3/g36/g70/g72/g86/g86/g82/g3/g71/g82/g86/g3/g36/g79/g88/g81/g82/g86/g3/g106/g3/g40/g86/g70/g82/g79/g68 PRODUTO: 5755 - Unidade escolar implantada Justificativa: ESSA EMENDA VISA ALTERAR AS METAS PARA /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE /g38/g50/g47/g101/g42/g44/g50/g54 ESTADUAIS (ENSINO /g48/g101/g39/g44/g50/g12/g15 SUGERINDO 4 (QUATRO) NOVAS UNIDADES A SEREM /g38/g50/g49/g54/g55/g53/g56/g203/g39/g36/g54 NOS BAIRROS DE GUARATIBA, RECREIO DOS BANDEIRANTES, /g57/g36/g53/g42/g40/g48/g3/g42/g53/g36/g49/g39/g40/g3/g40/g3/g54/g36/g49/g55/g36/g3/g38/g53/g56/g61/g15/g3/g55/g50/g39/g50/g54/g3/g49/g50/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g3/g39/g50/g3/g53/g44/g50/g3/g39/g40/g3/g45/g36/g49/g40/g44/g53/g50/g17
+
+Deputado Claudio Caiado
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g28/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g27/g27/g3/g16/g3/g42/g68/g85/g68/g81/g87/g76/g68/g3/g71/g72/g3/g36/g70/g72/g86/g86/g82/g3/g71/g82/g86/g3/g36/g79/g88/g81/g82/g86/g3/g106/g3/g40/g86/g70/g82/g79/g68 PRODUTO: 5755 - Unidade escolar implantada META: 11 Justificativa: ESSA EMENDA VISA ALTERAR AS METAS PARA /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE UNIDADES DA FAETEC (ENSINO /g48/g101/g39/g44/g50 PROFISSIONALIZANTE), SUGERINDO 4 (QUATRO) NOVAS UNIDADES, A SEREM /g38/g50/g49/g54/g55/g53/g56/g203/g39/g36/g54 NOS BAIRROS DE GUARATIBA, RECREIO DOS BANDEIRANTES, VARGEM GRANDE E JARDIM BANGU, TODOS NO /g48/g56/g49/g44/g38/g203/g51/g44/g50/g3/g39/g50/g3/g53/g44/g50/g3/g39/g40/g3/g45/g36/g49/g40/g44/g53/g50/g17
+
+Deputado Claudio Caiado /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g28/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g24/g19/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g82/g3/g54/g56/g36/g54/g15/g3/g51/g85/g82/g87/g72/g111/g109/g82/g3/g54/g82/g70/g76/g68/g79/g3/g72/g3/g53/g72/g71/g88/g111/g109/g82/g3/g71/g68/g3/g51/g82/g69/g85/g72/g93/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g25/g25/g3/g16/g3/g51/g85/g82/g87/g72/g111/g109/g82/g3/g54/g82/g70/g76/g68/g79/g3/g72/g3/g53/g72/g71/g88/g111/g109/g82/g3/g71/g68/g3/g51/g82/g69/g85/g72/g93/g68 PRODUTO: 5046 - Unidade de atendimento implantada META: 11 Justificativa: ESSA EMENDA VISA A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE UM POSTO DA /g41/g56/g49/g39/g36/g100/g173/g50 /g47/g40/g173/g50 /g59/g44/g44/g44/g3/g49/g50/g3/g45/g36/g53/g39/g44/g48/g3/g37/g36/g49/g42/g56/g15/g3/g49/g50/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g3/g39/g50/g3/g53/g44/g50/g3/g39/g40/g3/g45/g36/g49/g40/g44/g53/g50/g17
+
+Deputado Claudio Caiado /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g28/g25 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g21/g3/g16/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g43/g68/g69/g76/g87/g68/g70/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g74/g88/g79/g68/g85/g76/g93/g68/g111/g109/g82/g3/g41/g88/g81/g71/g76/g105/g85/g76/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g28/g3/g16/g3/g39/g72/g80/g82/g70/g85/g68/g87/g76/g93/g68/g111/g109/g82/g3/g71/g82/g3/g36/g70/g72/g86/g86/g82/g3/g106/g3/g55/g72/g85/g85/g68/g3/g72/g3/g106/g3/g48/g82/g85/g68/g71/g76/g68/g3/g81/g82/g3/g72/g86/g87/g68/g71/g82/g3/g71/g82/g3/g53/g76/g82/g3/g71/g72/g3 Janeiro /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g24/g25/g28/g3/g16/g3/g56/g81/g76/g71/g68/g71/g72/g3/g75/g68/g69/g76/g87/g68/g70/g76/g82/g81/g68/g79/g3/g70/g82/g81/g86/g87/g85/g88/g116/g71/g68/g18/g85/g72/g73/g82/g85/g80/g68/g71/g68 META: 52 Justificativa: ESSA EMENDA VISA ALTERAR AS METAS PARA REFORMA DE 2 CONJUNTOS HABITACIONAIS NO BAIRRO DE SANTA CRUZ, NO /g48/g56/g49/g44/g38/g203/g51/g44/g50 DO RIO DE JANEIRO.
+
+Deputado Claudio Caiado /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g28/g26 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g19/g24/g3/g16/g3/g36/g83/g82/g76/g82/g3/g106/g86/g3/g51/g82/g79/g116/g70/g76/g68/g86/g3/g72/g3/g68/g82/g3/g42/g82/g89/g72/g85/g81/g82/g3/g81/g68/g3/g51/g85/g82/g89/g76/g86/g109/g82/g3/g71/g72/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g51/g126/g69/g79/g76/g70/g68 PRODUTO: 2939 - Policial capacitado META: 500 Justificativa: AUMENTO DO EFETIVO DE POLICIAIS MILITARES NO /g22/g20/g131 E NO /g20/g27/g131 /g37/g36/g55/g36/g47/g43/g174/g40/g54 DE /g51/g50/g47/g203/g38/g44/g36 MILITAR, NOS BAIRROS DA BARRA DA TIJUCA E DE /g45/g36/g38/g36/g53/g40/g51/g36/g42/g56/g200/g15/g3/g49/g50/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g3/g39/g50/g3/g53/g44/g50/g3/g39/g40/g3/g45/g36/g49/g40/g44/g53/g50
+
+Deputado Claudio Caiado /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g28/g27 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g26/g3/g16/g3/g40/g80/g83/g85/g72/g74/g82/g15/g3/g53/g72/g81/g71/g68/g3/g72/g3/g41/g82/g85/g80/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g82/g3/g48/g72/g85/g70/g68/g71/g82/g3/g71/g72/g3/g55/g85/g68/g69/g68/g79/g75/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g27/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g3/g51/g85/g82/g73/g76/g86/g86/g76/g82/g81/g68/g79/g3/g81/g68/g3/g41/g36/g40/g55/g40/g38 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g40/g49/g55/g53/g50/g3/g57/g50/g38/g36/g38/g44/g50/g49/g36/g47/g3/g55/g40/g38/g49/g50/g47/g207/g42/g44/g38/g50/g3/g44/g48/g51/g47/g36/g49/g55/g36/g39/g50 META: 1 Justificativa: ESSA EMENDA VISA A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE UM CENTRO VOCACIONAL /g55/g40/g38/g49/g50/g47/g207/g42/g44/g38/g50/g3/g16/g3/g38/g57/g55/g3/g49/g50/g3/g45/g36/g53/g39/g44/g48/g3/g37/g36/g49/g42/g56/g15/g3/g49/g50/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g3/g39/g50/g3/g53/g44/g50/g3/g39/g40/g3/g45/g36/g49/g40/g44/g53/g50/g17
+
+Deputado Claudio Caiado /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g28/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g27/g26/g3/g16/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g51/g85/g72/g86/g72/g81/g87/g72 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50/g3/g39/g50/g3/g51/g53/g50/g42/g53/g36/g48/g36/g3/g54/g40/g42/g56/g53/g36/g49/g100/g36/g3/g51/g53/g40/g54/g40/g49/g55/g40/g3/g49/g50/g3/g37/g36/g44/g53/g53/g50/g3 /g37/g36/g53/g53/g36/g3/g50/g47/g203/g48/g51/g44/g38/g36 META: 1 Justificativa: ESSA EMENDA VISA A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE UMA UNIDADE DO PROGRAMA /g54/g40/g42/g56/g53/g36/g49/g100/g36 PRESENTE NO BAIRRO BARRA /g50/g47/g203/g48/g51/g44/g38/g36/g15 NO /g48/g56/g49/g44/g38/g203/g51/g44/g50 DO RIO DE JANEIRO.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g22/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 PRODUTO: 8590 - Atividade extracurricular vinculadas ao Programa Cidade Integrada META: 0 Justificativa: RETIRAR A ATIVIDADE EXTRACURRICULAR COM /g51/g50/g47/g203/g38/g44/g36/g54 NA UNIDADE PLANEJAMENTO DA SEEDUC.
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g22/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g44/g81/g87/g72/g74/g85/g68/g111/g109/g82/g3/g72/g81/g87/g85/g72/g3/g68/g3/g54/g82/g70/g76/g72/g71/g68/g71/g72/g3/g72/g3/g68/g3/g51/g82/g79/g116/g70/g76/g68/g3/g38/g76/g89/g76/g79 PRODUTO: 8748 - Delegacia reformada META: 10 Justificativa: DIMINUIR DELEGACIAS NA UNIDADE DE PLANEJAMENTO 14320 -RIOSEGURANCA
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g22/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g21/g3/g16/g3/g36/g87/g88/g68/g111/g109/g82/g3/g71/g68/g3/g54/g40/g51/g48/g3/g81/g68/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g71/g68/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g71/g82/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3 Criminalidade PRODUTO: 6646 - Policial Militar equipado META: 5.000 Justificativa: DIMINUIR EQUIPAMENTOS /g37/g101/g47/g44/g38/g50/g54 DE POLICIAIS NA UNIDADE DE PLANEJAMENTO 14320 - RIOSEGURANCA
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g22/g25 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g25/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g85/g76/g86/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g86/g86/g82/g70/g76/g68/g79/g76/g93/g68/g111/g109/g82/g3/g71/g82/g86/g3/g38/g88/g86/g87/g82/g71/g76/g68/g71/g82/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g20/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g82/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g72/g81/g76/g87/g72/g81/g70/g76/g105/g85/g76/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g22/g28/g28/g26/g3/g16/g3/g56/g81/g76/g71/g68/g71/g72/g3/g83/g85/g76/g86/g76/g82/g81/g68/g79/g3/g70/g82/g81/g86/g87/g85/g88/g116/g71/g68 META: 0 Justificativa: /g36/g56/g54/g101/g49/g38/g44/g36 DE /g39/g44/g54/g38/g56/g54/g54/g103/g40/g54 /g51/g104/g37/g47/g44/g38/g36/g54 SOBRE A /g40/g59/g51/g36/g49/g54/g98/g50 DO SISTEMA SOCIOEDUCATIVO
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g22/g26 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g25/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g85/g76/g86/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g86/g86/g82/g70/g76/g68/g79/g76/g93/g68/g111/g109/g82/g3/g71/g82/g86/g3/g38/g88/g86/g87/g82/g71/g76/g68/g71/g82/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g20/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g82/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g72/g81/g76/g87/g72/g81/g70/g76/g105/g85/g76/g82 PRODUTO: 2340 - Unidade prisional reformada META: 0 Justificativa: /g36/g56/g54/g199/g49/g38/g44/g36 DE /g39/g44/g54/g38/g56/g54/g54/g174/g40/g54 /g51/g210/g37/g47/g44/g38/g36/g54 SOBRE A /g40/g59/g51/g36/g49/g54/g173/g50 DO SISTEMA SOCIOEDUCATIVO
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g22/g27 PROGRAMA: 0498 - Direitos Humanos e Cidadania
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g23/g25/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g72/g3/g57/g76/g71/g68/g3/g81/g82/g3/g54/g76/g86/g87/g72/g80/g68/g3/g54/g82/g70/g76/g82/g72/g71/g88/g70/g68/g87/g76/g89/g82 PRODUTO: 4628 - Unidade socioeducativa implantada META: 0 Justificativa: /g36/g56/g54/g199/g49/g38/g44/g36 DE /g39/g44/g54/g38/g56/g54/g54/g174/g40/g54 /g51/g210/g37/g47/g44/g38/g36/g54 SOBRE A /g40/g59/g51/g36/g49/g54/g173/g50 DO SISTEMA SOCIOEDUCATIVO
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g22/g28 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g23/g25/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g72/g3/g57/g76/g71/g68/g3/g81/g82/g3/g54/g76/g86/g87/g72/g80/g68/g3/g54/g82/g70/g76/g82/g72/g71/g88/g70/g68/g87/g76/g89/g82 PRODUTO: 8460 - Unidade socioeducativa  readequada META: 0 Justificativa: /g36/g56/g54/g199/g49/g38/g44/g36 DE /g39/g44/g54/g38/g56/g54/g54/g174/g40/g54 /g51/g210/g37/g47/g44/g38/g36/g54 SOBRE A /g40/g59/g51/g36/g49/g54/g173/g50 DO SISTEMA SOCIOEDUCATIVO
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g23/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g26/g3/g16/g3/g40/g80/g83/g85/g72/g74/g82/g15/g3/g53/g72/g81/g71/g68/g3/g72/g3/g41/g82/g85/g80/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g82/g3/g48/g72/g85/g70/g68/g71/g82/g3/g71/g72/g3/g55/g85/g68/g69/g68/g79/g75/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g23/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g42/g72/g85/g68/g111/g109/g82/g3/g71/g72/g3/g40/g80/g83/g85/g72/g74/g82/g3/g72/g3/g53/g72/g81/g71/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g22/g26/g3/g16/g3/g38/g50/g50/g51/g40/g53/g36/g55/g44/g57/g36/g18/g36/g54/g54/g50/g38/g44/g36/g100/g173/g50/g3/g36/g51/g50/g44/g36/g39/g36 META: 50
+
+Justificativa: AS COOPERATIVAS DE CATADORES /g54/g173/g50 DE GRANDE /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 PARA
+
+A /g51/g50/g47/g203/g55/g44/g38/g36
+
+/g54/g207/g47/g44/g39/g50/g54/g15 PROMOVEM TRABALHO E
+
+DE RECICLAGEM DE /g53/g40/g54/g203/g39/g56/g50/g54
+
+RENDA PARA PESSOAS PRECARIZADAS. A COOPERATIVA PINHEIRAL EM /g36/g100/g173/g50 /g40/g54/g55/g200
+
+UTILIZANDO UM /g38/g36/g48/g44/g49/g43/g173/g50 DA PREFEITURA APENAS UMA VEZ POR SEMANA, TER O
+
+/g51/g53/g207/g51/g53/g44/g50
+
+/g57/g40/g203/g38/g56/g47/g50
+
+/g39/g36/g53/g200 MAIS AUTONOMIA AOS COOPERADOS. A COOPERATIVA
+
+CIDADE DO /g36/g100/g50 SOFRE COM FALTA DE ESTRUTURA E ABANDONO POR PARTE DA
+
+PREFEITURA A TEMPOS, A PONTO DO /g48/g44/g49/g44/g54/g55/g101/g53/g44/g50
+
+/g51/g210/g37/g47/g44/g38/g50
+
+DO TRABALHO /g45/g200 TER
+
+EMITIDO LIMINAR PARA MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54/g15 DA MESMA FORMA, UM /g57/g40/g203/g38/g56/g47/g50
+
+DARIA
+
+TRABALHADORES,
+
+MAIS
+
+AOS
+
+AUTONOMIA
+
+UM
+
+QUALIDADE
+
+SALTO
+
+E
+
+DE
+
+/g50/g41/g40/g53/g40/g38/g40/g49/g39/g50/g3/g36/g54/g54/g44/g48/g3/g56/g48/g3/g48/g40/g44/g50/g3/g40/g41/g40/g55/g44/g57/g50/g3/g39/g40/g3/g53/g40/g39/g56/g100/g173/g50/g3/g39/g36/g3/g51/g50/g37/g53/g40/g61/g36/g17
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g23/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g28/g3/g16/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g37/g72/g81/g86/g3/g38/g88/g79/g87/g88/g85/g68/g76/g86/g3/g72/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g38/g88/g79/g87/g88/g85/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g25/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g72/g3/g39/g72/g80/g82/g70/g85/g68/g87/g76/g93/g68/g111/g109/g82/g3/g106/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g36/g70/g72/g86/g86/g82/g3/g68/g3/g38/g88/g79/g87/g88/g85/g68 PRODUTO: 8939 - REDE DE CULTURA HIP HOP APOIADA META: 1 Justificativa: A PRESENTE INICIATIVA DE EMENDA DESTINA-SE A VIABILIZAR O FOMENTO A JOVENS AGENTES NILOPOLITANOS QUE USAM O HIP HOP COMO LINGUAGEM DE /g40/g59/g51/g53/g40/g54/g54/g173/g50 E /g50/g38/g56/g51/g36/g100/g173/g50 DO /g40/g54/g51/g36/g100/g50 /g41/g203/g54/g44/g38/g50 DA CIDADE. COMO BEM SABIDO, A /g57/g36/g47/g50/g53/g44/g61/g36/g100/g173/g50 DA CULTURA /g51/g40/g53/g44/g41/g101/g53/g44/g38/g36/g15 DE ARTISTAS E PRODUTORES LOCAIS VAI AO ENCONTRO DE DIRETRIZES INTERNACIONAIS DA ONU QUE VERSAM SOBRE A /g53/g40/g39/g56/g100/g173/g50 DA /g57/g44/g50/g47/g199/g49/g38/g44/g36 E A PLENA /g51/g53/g50/g55/g40/g100/g173/g50 DE VIDA /g39/g40/g54/g54/g40/g54/g3/g54/g56/g45/g40/g44/g55/g50/g54/g3/g36/g3/g51/g36/g53/g55/g44/g53/g3/g39/g50/g3/g36/g38/g40/g54/g54/g50/g3/g172/g3/g38/g56/g47/g55/g56/g53/g36/g17
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g23/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g20/g3/g16/g3/g36/g87/g72/g81/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79/g3/g106/g3/g54/g68/g126/g71/g72 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g24/g23/g3/g16/g3/g36/g51/g50/g44/g50/g3/g47/g50/g42/g203/g54/g55/g44/g38/g50/g3/g51/g36/g53/g36/g3/g51/g53/g50/g38/g40/g39/g44/g48/g40/g49/g55/g50/g54/g3/g39/g40/g3/g43/g50/g53/g48/g50/g49/g44/g61/g36/g100/g173/g50/g3 REALIZADO META: 20 Justificativa: APOIO /g47/g50/g42/g203/g54/g55/g44/g38/g50 AO ACESSO AOS PROCESSOS DE /g43/g50/g53/g48/g50/g49/g44/g61/g36/g100/g173/g50 PELA /g51/g50/g51/g56/g47/g36/g100/g173/g50 TRANS DO INTERIOR DO ESTADO /g101 UMA INICIATIVA CRUCIAL E INCLUSIVA. FREQUENTEMENTE, AS PESSOAS TRANS ENFRENTAM DESAFIOS SIGNIFICATIVOS AO BUSCAR /g54/g40/g53/g57/g44/g100/g50/g54 DE /g54/g36/g210/g39/g40 ESPECIALIZADOS, ESPECIALMENTE NAS /g53/g40/g42/g44/g174/g40/g54 MAIS DISTANTES DOS CENTROS URBANOS. ESSA /g36/g47/g50/g38/g36/g100/g173/g50 DE RECURSOS VISA REDUZIR AS BARREIRAS /g42/g40/g50/g42/g53/g200/g41/g44/g38/g36/g54 E /g47/g50/g42/g203/g54/g55/g44/g38/g36/g54 QUE PODEM IMPEDIR O ACESSO A TRATAMENTOS HORMONAIS
+
+<!-- image -->
+
+ESSENCIAIS PARA A /g54/g36/g210/g39/g40 E BEM-ESTAR DA COMUNIDADE TRANS DO INTERIOR. AO INVESTIR NESSE SUPORTE /g47/g50/g42/g203/g54/g55/g44/g38/g50/g15 A EMENDA BUSCA GARANTIR QUE PESSOAS TRANS TENHAM ACESSO FACILITADO A CONSULTAS /g48/g101/g39/g44/g38/g36/g54/g15 EXAMES E PROCEDIMENTOS /g49/g40/g38/g40/g54/g54/g200/g53/g44/g50/g54/g15 PROMOVENDO, ASSIM, A IGUALDADE DE ACESSO AOS CUIDADOS DE /g54/g36/g210/g39/g40/g17 /g36/g47/g101/g48 DISSO, ESSA MEDIDA DEMONSTRA UM COMPROMISSO /g55/g36/g49/g42/g203/g57/g40/g47 COM A /g51/g53/g50/g48/g50/g100/g173/g50 DA /g54/g36/g210/g39/g40 E O RESPEITO AOS DIREITOS HUMANOS, RECONHECENDO A /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 DA AUTONOMIA E DO /g38/g56/g44/g39/g36/g39/g50/g3/g44/g49/g55/g40/g42/g53/g36/g47/g3/g51/g36/g53/g36/g3/g36/g3/g51/g50/g51/g56/g47/g36/g100/g173/g50/g3/g55/g53/g36/g49/g54/g3/g39/g50/g3/g44/g49/g55/g40/g53/g44/g50/g53/g3/g39/g50/g3/g40/g54/g55/g36/g39/g50/g17
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g23/g22 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g19/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g71/g72/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g43/g88/g80/g68/g81/g82/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g27/g26/g27/g3/g16/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g68/g3/g89/g116/g87/g76/g80/g68/g86/g3/g71/g72/g3/g89/g76/g82/g79/g68/g111/g125/g72/g86/g3/g71/g72/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g43/g88/g80/g68/g81/g82/g86/g3/g85/g72/g68/g79/g76/g93/g68/g71/g82 META: 1.000 Justificativa: /g48/g36/g49/g56/g55/g40/g49/g100/g173/g50 DOS ATENDIMENTOS AS /g57/g203/g55/g44/g48/g36/g54 DE /g57/g44/g50/g47/g36/g100/g174/g40/g54 DE DIREITOS HUMANOS.
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g23/g23 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g23/g25/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g72/g3/g57/g76/g71/g68/g3/g81/g82/g3/g54/g76/g86/g87/g72/g80/g68/g3/g54/g82/g70/g76/g82/g72/g71/g88/g70/g68/g87/g76/g89/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g23/g23/g3/g16/g3/g38/g40/g53/g55/g44/g41/g44/g38/g36/g100/g173/g50/g3/g40/g3/g51/g53/g50/g41/g44/g54/g54/g44/g50/g49/g36/g47/g44/g61/g36/g100/g173/g50/g3/g40/g48/g3/g39/g45/g3/g37/g40/g36/g55/g48/g36/g46/g40/g53/g3 REALIZADA META: 100 Justificativa: A /g39/g40/g54/g55/g44/g49/g36/g100/g173/g50 DE RECURSOS PARA A /g38/g40/g53/g55/g44/g41/g44/g38/g36/g100/g173/g50 E /g51/g53/g50/g41/g44/g54/g54/g44/g50/g49/g36/g47/g44/g61/g36/g100/g173/g50 EM DJ E BEATMAKER A JOVENS DO SISTEMA SOCIOEDUCATIVO, ESPECIFICAMENTE AO DEPARTAMENTO GERAL DE /g36/g100/g174/g40/g54 SOCIOEDUCATIVAS (DEGASE), REPRESENTA UM INVESTIMENTO VALIOSO NA /g53/g40/g54/g54/g50/g38/g44/g36/g47/g44/g61/g36/g100/g173/g50 E NA /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DE PERSPECTIVAS POSITIVAS PARA ESSE GRUPO /g57/g56/g47/g49/g40/g53/g200/g57/g40/g47/g17 AO OFERECER /g38/g36/g51/g36/g38/g44/g55/g36/g100/g173/g50 EM /g200/g53/g40/g36/g54 RELACIONADAS /g172 /g48/g210/g54/g44/g38/g36/g15 COMO DJ E BEATMAKING, A EMENDA BUSCA PROPORCIONAR UMA ALTERNATIVA CONSTRUTIVA E CRIATIVA PARA OS JOVENS QUE /g40/g54/g55/g173/g50 SOB A /g38/g56/g54/g55/g207/g39/g44/g36 DO DEGASE. ESSA ABORDAGEM /g49/g173/g50 APENAS CONTRIBUI PARA O DESENVOLVIMENTO DE HABILIDADES /g55/g101/g38/g49/g44/g38/g36/g54/g15 MAS /g55/g36/g48/g37/g101/g48 PROMOVE A /g36/g56/g55/g50/g40/g59/g51/g53/g40/g54/g54/g173/g50 E A /g36/g56/g55/g50/g38/g50/g49/g41/g44/g36/g49/g100/g36 DOS ADOLESCENTES EM PROCESSO SOCIOEDUCATIVO. /g36/g47/g101/g48 DISSO, AO FOCAR NA /g38/g40/g53/g55/g44/g41/g44/g38/g36/g100/g173/g50/g15 A EMENDA RECONHECE A /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 DE PROPORCIONAR AOS JOVENS A OPORTUNIDADE DE ADQUIRIR HABILIDADES RECONHECIDAS NO MERCADO DE TRABALHO, O QUE PODE AUMENTAR SUAS CHANCES DE /g53/g40/g44/g49/g55/g40/g42/g53/g36/g100/g173/g50 SOCIAL BEMSUCEDIDA. A /g41/g50/g53/g48/g36/g100/g173/g50 EM DJ E BEATMAKER /g49/g173/g50 APENAS OFERECE UMA PERSPECTIVA PROFISSIONAL, MAS /g55/g36/g48/g37/g101/g48 SERVE COMO UM MEIO DE EMPODERAMENTO E /g53/g40/g44/g49/g54/g40/g53/g100/g173/g50 POSITIVA NA SOCIEDADE. DESSA FORMA, A EMENDA /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 REFLETE UM COMPROMISSO COM A /g55/g53/g36/g49/g54/g41/g50/g53/g48/g36/g100/g173/g50 POSITIVA DA VIDA DESSES JOVENS, PROMOVENDO A /g53/g40/g44/g49/g54/g40/g53/g100/g173/g50 SOCIAL POR MEIO DA /g40/g39/g56/g38/g36/g100/g173/g50 E /g38/g36/g51/g36/g38/g44/g55/g36/g100/g173/g50/g3/g51/g53/g50/g41/g44/g54/g54/g44/g50/g49/g36/g47/g3/g49/g50/g3/g38/g50/g49/g55/g40/g59/g55/g50/g3/g39/g50/g3/g39/g40/g42/g36/g54/g40/g17
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g23/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g25/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g85/g76/g86/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g86/g86/g82/g70/g76/g68/g79/g76/g93/g68/g111/g109/g82/g3/g71/g82/g86/g3/g38/g88/g86/g87/g82/g71/g76/g68/g71/g82/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g20/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g82/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g72/g81/g76/g87/g72/g81/g70/g76/g105/g85/g76/g82 PRODUTO: 8959 - INSUMO HOSPITALAR ADQUIRIDO META: 300.000 Justificativa: DIRECIONAR RECURSOS PARA A COMPRA E /g36/g52/g56/g44/g54/g44/g100/g173/g50 DE INSUMOS HOSPITALARES NA /g54/g36/g210/g39/g40 /g51/g40/g49/g44/g55/g40/g49/g38/g44/g200/g53/g44/g36/g15 POR MEIO DA SECRETARIA ESTADUAL DE /g36/g39/g48/g44/g49/g44/g54/g55/g53/g36/g100/g173/g50 /g51/g40/g49/g44/g55/g40/g49/g38/g44/g200/g53/g44/g36 (SEAP) DO ESTADO DO RIO DE JANEIRO, /g101 UMA MEDIDA IMPERATIVA E /g40/g54/g55/g53/g36/g55/g101/g42/g44/g38/g36 PARA GARANTIR A /g51/g53/g40/g54/g40/g53/g57/g36/g100/g173/g50 DA VIDA E A /g51/g53/g50/g48/g50/g100/g173/g50 DA /g54/g36/g210/g39/g40 DENTRO DO SISTEMA PRISIONAL. OS DETENTOS ENFRENTAM /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE VIDA DESAFIADORAS E /g54/g173/g50 /g54/g56/g54/g38/g40/g55/g203/g57/g40/g44/g54 A UMA /g54/g101/g53/g44/g40 DE /g39/g50/g40/g49/g100/g36/g54 DEVIDO /g172 /g54/g56/g51/g40/g53/g47/g50/g55/g36/g100/g173/g50/g15 FALTA DE HIGIENE E /g47/g44/g48/g44/g55/g36/g100/g174/g40/g54 NO ACESSO A
+
+Id:  2588996 PESSOAS DIAGNOSTICADAS COM TRANSTORNO DO ESPECTRO AUTISTA - TEA, QUE VEM SENDO CONSTATADO EM PARALELO AO AUMENTO DA DEMANDA POR /g36/g55/g40/g49/g100/g173/g50 ESPECIAL. A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE "CASAS DO AUTISTA", CONSIDERADAS COMO /g53/g40/g54/g44/g39/g199/g49/g38/g44/g36/g54 /g55/g40/g53/g36/g51/g199/g56/g55/g44/g38/g36/g54 QUE SE CARACTERIZAM POR SEREM UNIDADES /g39/g50/g48/g101/g54/g55/g44/g38/g36/g54 QUE ABRIGAM AS DIVERSAS TERAPIAS /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36/g54 AO TRATAMENTO COM AUTISTAS, COMO A PSICOTERAPIA, A MUSICOTERAPIA, A FONOAUDIOLOGIA, A PEDAGOGIA, A /g38/g47/g203/g49/g44/g38/g36 GERAL E A PSIQUIATRIA, /g101 MEDIDA QUE SE JUSTIFICA POR /g54/g56/g36/g3/g51/g53/g207/g51/g53/g44/g36/g3/g49/g40/g38/g40/g54/g54/g44/g39/g36/g39/g40/g3/g40/g3/g53/g40/g47/g40/g57/g198/g49/g38/g44/g36/g3/g51/g210/g37/g47/g44/g38/g36/g54/g17
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g27/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g20/g3/g16/g3/g36/g87/g72/g81/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79/g3/g106/g3/g54/g68/g126/g71/g72 NOVO PRODUTO: EXAME DE ECOCARDIOGRAMA FETAL REALIZADO META: 115.929 Justificativa: A PROPOSTA, COMPREENDIDA PELA DIRETRIZES DAS /g48/g44/g54/g54/g174/g40/g54 1 E 8, CONFORME ART /g28/g158/g15 I E VIII, DA LEI /g49/g158 10.266/2023, VISA REALIZAR EXAME DE ECOCARDIOGRAMA FETAL, TENDO EM VISTA QUE O EXAME /g101 INDICADO PARA TODAS AS GESTANTES COMO UMA /g38/g50/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 NA ROTINA DO /g51/g53/g101/g16/g49/g36/g55/g36/g47 E AS PRINCIPAIS /g44/g49/g39/g44/g38/g36/g100/g174/g40/g54 /g54/g173/g50 PARA RASTREAMENTO DAS CARDIOPATIAS /g38/g50/g49/g42/g199/g49/g44/g55/g36/g54/g15 SUSPEITA DE /g36/g47/g55/g40/g53/g36/g100/g173/g50 CARDIOVASCULAR DO FETO NO EXAME DE ULTRASSOM /g50/g37/g54/g55/g101/g55/g53/g44/g38/g50 OU /g48/g50/g53/g41/g50/g47/g207/g42/g44/g38/g50/g15 /g36/g47/g55/g40/g53/g36/g100/g173/g50 /g40/g59/g55/g53/g36/g38/g36/g53/g39/g203/g36/g38/g36 DO FETO NO ULTRASSOM /g50/g37/g54/g55/g101/g55/g53/g44/g38/g50 OU /g48/g50/g53/g41/g50/g47/g207/g42/g44/g38/g50/g15 CRESCIMENTO FETAL INADEQUADO, /g38/g36/g53/g44/g207/g55/g44/g51/g50 FETAL ANORMAL, /g39/g50/g40/g49/g100/g36/g54 MATERNAS COMO /g47/g210/g51/g56/g54/g15 DIABETES, /g44/g49/g41/g40/g38/g100/g174/g40/g54 (COMO /g53/g56/g37/g101/g50/g47/g36/g12/g15 /g42/g40/g54/g55/g36/g100/g173/g50 POR /g53/g40/g51/g53/g50/g39/g56/g100/g173/g50 ASSISTIDA, /g42/g40/g54/g55/g36/g100/g173/g50 GEMELAR (MAIS DE UM FETO) E RITMO /g38/g36/g53/g39/g203/g36/g38/g50 FETAL IRREGULAR. A /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 DESTE PRODUTO /g40/g54/g55/g36/g53/g200 CRIADA A /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 DE /g39/g50/g55/g36/g100/g173/g50 PARA A /g40/g59/g40/g38/g56/g100/g173/g50 DA PROPOSTA QUE TRAMITA NESTA CASA LEGISLATIVA /g49/g158 3549/2024, QUE /g39/g44/g54/g51/g174/g40 SOBRE O EXAME DE ECOCARDIOGRAMA FETAL NA /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 /g51/g53/g101/g16/g49/g36/g55/g36/g47 DA REDE /g51/g210/g37/g47/g44/g38/g36 DE /g54/g36/g210/g39/g40 NO /g198/g48/g37/g44/g55/g50 DO RIO DE JANEIRO.
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g27/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g19/g24/g3/g16/g3/g36/g83/g82/g76/g82/g3/g106/g86/g3/g51/g82/g79/g116/g70/g76/g68/g86/g3/g72/g3/g68/g82/g3/g42/g82/g89/g72/g85/g81/g82/g3/g81/g68/g3/g51/g85/g82/g89/g76/g86/g109/g82/g3/g71/g72/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g51/g126/g69/g79/g76/g70/g68 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g41/g50/g53/g49/g40/g38/g44/g48/g40/g49/g55/g50/g3/g39/g40/g3/g46/g44/g55/g3/g36/g51/g43/g16/g55/g200/g55/g44/g38/g50/g3/g36/g3/g51/g50/g47/g44/g38/g44/g36/g44/g54 META: 2.200 Justificativa: ORIENTANDO-SE PELA /g48/g44/g54/g54/g173/g50 9: "A GARANTIA DA /g54/g40/g42/g56/g53/g36/g49/g100/g36 /g51/g210/g37/g47/g44/g38/g36 NOS /g55/g40/g53/g53/g44/g55/g207/g53/g44/g50/g54/g5 E PELA INICIATIVA 0061 - /g51/g53/g50/g48/g50/g100/g173/g50 DA /g44/g49/g55/g40/g42/g53/g36/g100/g173/g50 ENTRE A SOCIEDADE E A /g51/g50/g47/g203/g38/g44/g36 CIVIL, OBJETIVO DE DESENVOLVIMENTO /g54/g56/g54/g55/g40/g49/g55/g200/g57/g40/g47/g29 "0016 - PAZ, /g45/g56/g54/g55/g44/g100/g36 E /g44/g49/g54/g55/g44/g55/g56/g44/g100/g174/g40/g54 EFICAZES", INDICADOR: "I0271 - /g53/g40/g39/g56/g100/g173/g50 DO /g49/g210/g48/g40/g53/g50 DE POLICIAIS CIVIS MORTOS E FERIDOS EM /g54/g40/g53/g57/g44/g100/g50/g5/g15 CONSTANTE DO PLANO PLURIANUAL 2024/2027, BUSCA-SE COM A PRESENTE /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50 FAZER CONSTAR DA /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 O FORNECIMENTO DE KITS DE ATENDIMENTO /g51/g53/g101/g16/g43/g50/g54/g51/g44/g55/g36/g47/g36/g53 (PRIMEIROS SOCORROS) , COMO /g36/g54/g54/g40/g54/g54/g207/g53/g44/g50 APTO A MINIMIZAR A FATALIDADE DE FERIMENTOS E LESOES SOFRIDOS POR /g36/g42/g40/g49/g55/g40/g54/g3/g39/g40/g3/g54/g40/g42/g56/g53/g36/g49/g100/g36/g3/g51/g210/g37/g47/g44/g38/g36/g15/g3/g40/g3/g36/g55/g101/g3/g48/g40/g54/g48/g50/g3/g51/g50/g53/g3/g55/g40/g53/g38/g40/g44/g53/g50/g54/g17 EM QUE PESE /g49/g173/g50 EXISTIR UMA BASE UNIFICADA QUE CONTABILIZE OS CRIMES VIOLENTOS CONTRA POLICIAIS NO /g51/g36/g203/g54/g15 O /g36/g49/g56/g200/g53/g44/g50 BRASILEIRO DE /g54/g40/g42/g56/g53/g36/g49/g100/g36 /g51/g210/g37/g47/g44/g38/g36 2022 PUBLICOU O TEXTO INTITULADO MORTE DE POLICIAIS: /g49/g210/g48/g40/g53/g50/g54 QUE RETRATAM CAMINHOS MUITO MAL ELABORADOS DE NOSSA SOCIEDADE ONDE RELATA QUE O ESTADO DO RIO DE JANEIRO MERECE DESTAQUE /g172 PARTE EM /g53/g36/g61/g173/g50 DE QUE A ALTA DE 45,5% NA /g38/g50/g48/g51/g36/g53/g36/g100/g173/g50 ENTRE 2020 E 2021 REPETE A /g55/g40/g49/g39/g199/g49/g38/g44/g36 DE 2019-2020, QUE IGUALMENTE APRESENTOU UMA ALTA, NA /g39/g44/g48/g40/g49/g54/g173/g50 DE 7,3% (IPEA/FBSP, 2021). NESSES DOIS ANOS, FORAM 108 POLICIAIS FLUMINENSES MORTOS EM /g54/g40/g53/g57/g44/g100/g50/g17 ESTIMANDO-SE QUE AS MORTES EM /g54/g40/g53/g57/g44/g100/g50 REPRESENTAM UM /g55/g40/g53/g100/g50 DAS MORTES VIOLENTAS SOFRIDAS POR POLICIAIS, CUJAS /g38/g44/g53/g38/g56/g49/g54/g55/g198/g49/g38/g44/g36/g54 SE /g39/g173/g50 EM SUA MAIOR PARTE FORA DO TURNO DE /g54/g40/g53/g57/g44/g100/g50/g15 PODE-SE PENSAR QUE /g54/g173/g50/g3/g48/g36/g44/g54/g3/g39/g40/g3/g22/g19/g19/g3/g51/g50/g47/g44/g38/g44/g36/g44/g54/g3/g39/g50/g3/g53/g44/g50/g3/g39/g40/g3/g45/g36/g49/g40/g44/g53/g50/g3/g48/g50/g53/g55/g50/g54/g3/g49/g50/g54/g3/g210/g47/g55/g44/g48/g50/g54/g3/g39/g50/g44/g54/g3/g36/g49/g50/g54/g17/g3 HTTPS://FORUMSEGURANCA.ORG.BR/WP-CONTENT/UPLOADS/2022/07/04-ANUARIO2022-MORTE-DE-POLICIAISNUMEROS-QUE-RETRATAM-CAMINHOS-MUITO-MALELABORADOS-DE-NOSSA-SOCIEDADE.PDF (LINK ACESSADO EM 20.04.20) UM LEVANTAMENTO REALIZADO PELO INSTITUTO FOGO CRUZADO, PUBLICADO NO SITE BRASIL DE FATO, EM 14.12.22, INFORMOU QUE A /g53/g40/g42/g44/g173/g50 METROPOLITANA DO RIO DE JANEIRO REGISTROU 100 POLICIAIS MILITARES BALEADOS EM 2022. DE ACORDO COM ESTE LEVANTAMENTO, 40 AGENTES MORRERAM E OUTROS 60 FICARAM FERIDOS. AINDA SEGUNDO ESTA PESQUISA, DESTES 100 POLICIAIS, 52 FORAM ATINGIDOS QUANDO ESTAVAM DE /g54/g40/g53/g57/g44/g100/g50/g15 SENDO QUE 12 DELES MORRERAM E 40 FICARAM FERIDOS. HTTPS://WWW.BRASILDEFATO.COM.BR/2022/12/14/REGIAO-METROPOLITANA-DO-RIODE-JANEIRO-REGISTOU-100-POLICIAIS-BALEADOS-EM-2022 (LINK ACESSADO EM 20.04.23)
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g27/g25 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g20/g3/g16/g3/g36/g87/g72/g81/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79/g3/g106/g3/g54/g68/g126/g71/g72 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g26/g21/g20/g25/g3/g16/g3/g55/g85/g68/g87/g68/g80/g72/g81/g87/g82/g3/g71/g72/g3/g86/g68/g126/g71/g72/g3/g85/g72/g68/g79/g76/g93/g68/g71/g82 META: 22.322 Justificativa: ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50 SE JUSTIFICA PELA BUSCA AO ATENDIMENTO DAS DEMANDAS CRESCENTES POR MELHORIA DA QUALIDADE E COBERTURA DE /g36/g55/g40/g49/g100/g173/g50 /g51/g53/g44/g48/g200/g53/g44/g36 E HOSPITALAR EM /g54/g36/g210/g39/g40/g15 CONFORME PRECONIZADO PELA /g5/g48/g44/g54/g54/g173/g50 8 -ECONOMIAS URBANAS FORTES E CIDADES AMBIENTALMENTE INCLUSIVAS".
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g27/g26 PROGRAMA: 0501 - Esporte e Lazer /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g24/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g68/g82/g3/g40/g86/g83/g82/g85/g87/g72/g3/g72/g3/g47/g68/g93/g72/g85 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g49/g210/g38/g47/g40/g50/g3/g39/g40/g3/g51/g36/g53/g36/g39/g40/g54/g51/g50/g53/g55/g50/g3/g44/g49/g41/g36/g49/g55/g50/g45/g56/g57/g40/g49/g44/g47/g3/g44/g48/g51/g47/g36/g49/g55/g36/g39/g50 META: 5 Justificativa: ESTA PROPOSITURA, COMPREENDIDA PELAS DIRETRIZES E OBJETIVOS DAS /g48/g44/g54/g54/g174/g40/g54 1 E 8, CONFORME ART. /g28/g158/g15 I E VIII, DA LEI /g49/g158 10.266/2023, A FIM DE PREVER /g39/g50/g55/g36/g100/g173/g50 PARA /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DO PRODUTO NO /g50/g53/g100/g36/g48/g40/g49/g55/g50 ANUAL E POSSIBILITAR A /g40/g59/g40/g38/g56/g100/g173/g50 DA NORMA A SER EDITADA COM A /g36/g51/g53/g50/g57/g36/g100/g173/g50 DO PROJETO DE LEI /g49/g158 044/2023, QUE /g39/g44/g54/g51/g174/g40 SOBRE A /g44/g49/g54/g55/g44/g55/g56/g44/g100/g173/g50 DO PROGRAMA ESPECIATIVO, DEFININDO-LHE A DIRETRIZ NO ESTADO DO RIO DE JANEIRO, PRESTIGIA A /g55/g40/g48/g200/g55/g44/g38/g36 DOS DIREITOS DA PESSOA COM /g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36 (PCD), QUE TEM GANHADO VULTO, SOBRETUDO COM A ENTRADA EM VIGOR DA LEI BRASILEIRA DE /g44/g49/g38/g47/g56/g54/g173/g50/g15 A LEI FEDERAL /g49/g158 13.146/2015, DESTINADA A ASSEGURAR E A PROMOVER, EM /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE IGUALDADE, O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DOS DIREITOS E DAS LIBERDADES FUNDAMENTAIS POR PESSOA COM /g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36/g15 VISANDO /g172 SUA /g44/g49/g38/g47/g56/g54/g173/g50 SOCIAL E CIDADANIA. A /g39/g44/g54/g51/g50/g49/g44/g37/g44/g47/g44/g61/g36/g100/g173/g50 DE EQUIPAMENTO /g51/g210/g37/g47/g44/g38/g50 PARA A /g51/g53/g200/g55/g44/g38/g36 ESPORTIVA QUALIFICADA E INDIVIDUALIZADA PARA PCD CONSTITUI UMA IMPORTANTE FERRAMENTA PARA PROMOVER MAIOR /g44/g49/g55/g40/g42/g53/g36/g100/g173/g50 COM OS DIREITOS RELATIVOS /g172/g3/g39/g44/g42/g49/g44/g39/g36/g39/g40/g3/g43/g56/g48/g36/g49/g36/g15/g3/g45/g200/g3/g39/g40/g41/g44/g49/g44/g39/g50/g54/g3/g49/g50/g3/g40/g54/g55/g36/g55/g56/g55/g50/g3/g39/g36/g3/g51/g40/g54/g54/g50/g36/g3/g38/g50/g48/g3/g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36/g17/g3 COM EFEITO, AO SE ESTIMULAR A /g51/g53/g200/g55/g44/g38/g36 DO PARADESPORTO, ACRESCENTANDO MEDIDAS DE ASPECTO PSICOSSOCIAL, O PODER /g51/g210/g37/g47/g44/g38/g50 CUMPRE SUA /g41/g56/g49/g100/g173/g50 DE REGULAR TEMAS AFETOS /g172 /g54/g36/g210/g39/g40/g15 AO ESPORTE, AO LAZER E A /g44/g49/g38/g47/g56/g54/g173/g50 SOCIAL DAS PCD'S EM SENTIDO MAIS AMPLO, TANTO NA ESFERA /g51/g210/g37/g47/g44/g38/g36/g15 QUANTO NA PRIVADA, DE MODO A POSSIBILITAR A /g38/g50/g50/g51/g40/g53/g36/g100/g173/g50 DA SOCIEDADE NESTA /g39/g44/g49/g198/g48/g44/g38/g36 DE /g51/g53/g50/g55/g40/g100/g173/g50 AOS DIREITOS DA PCD, ESTIMULANDO O EFETIVO CUMPRIMENTO DOS VALORES CONSTITUCIONAIS, DENTRE ELES O DA SOLIDARIEDADE E O DA BUSCA DA /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DE SOCIEDADE MAIS JUSTA, DIGNA E PLURAL. ASSIM, O OBJETO DESTA EMENDA TEM POR IDEIA TORNAR /g51/g50/g54/g54/g203/g57/g40/g47 O ACESSO DE /g38/g53/g44/g36/g49/g100/g36/g54 E ADOLESCENTES COM /g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36 /g172 /g51/g53/g200/g55/g44/g38/g36 PARADESPORTIVA ESPECIALIZADA.
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g27/g27 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g24/g3/g16/g3/g42/g68/g85/g68/g81/g87/g76/g68/g3/g71/g82/g86/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g71/g68/g3/g51/g72/g86/g86/g82/g68/g3/g44/g71/g82/g86/g68/g3/g72/g3/g51/g72/g86/g86/g82/g68/g3/g70/g82/g80/g3/g39/g72/g73/g76/g70/g76/g114/g81/g70/g76/g68 NOVO PRODUTO: SALA SENSORIAL IMPLANTADA META: 5 Justificativa: A PROPOSTA, COMPREENDIDA PELAS DIRETRIZES DA /g48/g44/g54/g54/g173/g50 1, CONFORME ART. /g28/g158/g15 I, DA LEI 10.266/2023, VISA ESTABELECER /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA VIABILIZAR A /g40/g59/g40/g38/g56/g100/g173/g50 DA LEI /g49/g158 10.296 DE 13 DE /g48/g36/g53/g100/g50 DE 2024, QUE /g39/g44/g54/g51/g174/g40 SOBRE A /g38/g53/g44/g36/g100/g173/g50 DE /g40/g54/g51/g36/g100/g50/g54 RESERVADOS E ADAPTADOS, DE /g44/g49/g55/g40/g42/g53/g36/g100/g173/g50 SENSORIAL, PARA PESSOAS COM TRANSTORNO DE ESPECTRO AUTISTA TEA, TRANSTORNO DO /g39/g101/g41/g44/g38/g44/g55 DE /g36/g55/g40/g49/g100/g173/g50 COM HIPERATIVIDADE TDAH E OUTRAS PESSOAS NEURODIVERSAS EM /g40/g54/g55/g200/g39/g44/g50/g54 E ARENAS ESPORTIVAS, EM SHOPPINGS CENTERS, MUSEUS, TEATROS, CINEMAS, ENTRE OUTROS, NO /g198/g48/g37/g44/g55/g50 DO ESTADO DO RIO DE JANEIRO.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Deputado Jair Bittencourt /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g23/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g20/g3/g16/g3/g36/g87/g72/g81/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79/g3/g106/g3/g54/g68/g126/g71/g72 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g51/g53/g50/g45/g40/g55/g50/g3/g48/g36/g44/g54/g3/g54/g36/g210/g39/g40/g3/g49/g50/g3/g38/g36/g48/g51/g50 Justificativa: O OBJETIVO /g101 LEVAR AO CAMPO /g172 /g51/g53/g40/g54/g55/g36/g100/g173/g50 DO /g54/g40/g53/g57/g44/g100/g50 DE /g54/g36/g210/g39/g40/g15 HAJA VISTA QUE DEVIDO AS DEMANDAS DO TRABALHO RURAL E O DESLOCAMENTO ACABAM IMPEDINDO O ACESSO DOS PRODUTORES RURAIS AO DIREITO /g38/g50/g49/g54/g55/g44/g55/g56/g38/g44/g50/g49/g36/g47/g3/g172/g3/g54/g36/g210/g39/g40/g17
+
+Deputado Jair Bittencourt /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g23/g24 PROGRAMA: 0452 - Desenvolvimento do Turismo /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g19/g3/g16/g3/g36/g88/g80/g72/g81/g87/g82/g3/g72/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g36/g87/g76/g89/g76/g71/g68/g71/g72/g86/g3/g55/g88/g85/g116/g86/g87/g76/g70/g68/g86 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50/g3/g39/g40/g3/g51/g53/g50/g45/g40/g55/g50/g3/g39/g40/g3/g55/g56/g53/g44/g54/g48/g50/g3/g53/g56/g53/g36/g47 Justificativa: A DEMANDA POR MELHORIA DE QUALIDADE DA /g54/g36/g210/g39/g40 MENTAL E /g41/g203/g54/g44/g38/g36 TEM AUMENTADO A PROCURA POR ATIVIDADES /g55/g56/g53/g203/g54/g55/g44/g38/g36/g54 QUE TRAZEM BEM ESTAR, ENTRE ELAS O TURISMO RURAL, /g51/g50/g53/g101/g48 ESSA ATIVIDADE /g101 MAIS QUE APENAS UM LAZER, PARA MUITOS /g101 FONTE DE RENDA, DE MELHORIA NA QUALIDADE DE VIDA, DE /g51/g53/g40/g54/g40/g53/g57/g36/g100/g173/g50 E /g38/g50/g49/g54/g40/g53/g57/g36/g100/g173/g50 AMBIENTAL, DENTRE TANTOS OUTROS /g37/g40/g49/g40/g41/g203/g38/g44/g50/g54/g3/g52/g56/g40/g3/g36/g3/g36/g55/g44/g57/g44/g39/g36/g39/g40/g3/g55/g56/g53/g203/g54/g55/g44/g38/g36/g3/g51/g50/g39/g40/g3/g50/g41/g40/g53/g40/g38/g40/g53/g17
+
+Deputado Jair Bittencourt /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g23/g25 PROGRAMA: 0452 - Desenvolvimento do Turismo /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g19/g3/g16/g3/g36/g88/g80/g72/g81/g87/g82/g3/g72/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g36/g87/g76/g89/g76/g71/g68/g71/g72/g86/g3/g55/g88/g85/g116/g86/g87/g76/g70/g68/g86 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g55/g56/g53/g44/g54/g48/g50/g3/g53/g56/g53/g36/g47/g3/g41/g36/g48/g44/g47/g44/g36/g53 Justificativa: AS ATIVIDADES DE TURISMO RURAL NA AGRICULTURA FAMILIAR (TRAF) /g54/g173/g50 TODAS AS ATIVIDADES /g55/g56/g53/g203/g54/g55/g44/g38/g36/g54 QUE OCORREM NA UNIDADE E /g51/g53/g50/g39/g56/g100/g173/g50 DOS AGRICULTORES FAMILIARES QUE /g48/g36/g49/g55/g199/g48 AS ATIVIDADES /g40/g38/g50/g49/g208/g48/g44/g38/g36/g54 /g55/g203/g51/g44/g38/g36/g54 DA AGRICULTURA FAMILIAR, DISPOSTOS A VALORIZAR, RESPEITAR E COMPARTILHAR SEU MODO DE VIDA, O /g51/g36/g55/g53/g44/g48/g208/g49/g44/g50 CULTURAL E NATURAL, OFERTANDO PRODUTOS E /g54/g40/g53/g57/g44/g100/g50/g54 DE QUALIDADE E PROPORCIONANDO BEMESTAR AOS ENVOLVIDOS.
+
+Deputado Jair Bittencourt /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g23/g26 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g25/g26/g3/g16/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g36/g79/g76/g80/g72/g81/g87/g68/g85/g3/g72/g3/g49/g88/g87/g85/g76/g70/g76/g82/g81/g68/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g20/g27/g3/g16/g3/g44/g81/g70/g72/g81/g87/g76/g89/g82/g3/g68/g82/g3/g73/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g72/g3/g54/g76/g86/g87/g72/g80/g68/g86/g3/g36/g74/g85/g82/g68/g79/g76/g80/g72/g81/g87/g68/g85/g72/g86/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g76/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g26/g25/g26/g20/g3/g16/g3/g50/g85/g74/g68/g81/g76/g93/g68/g111/g109/g82/g3/g71/g68/g3/g68/g74/g85/g76/g70/g88/g79/g87/g88/g85/g68/g3/g73/g68/g80/g76/g79/g76/g68/g85/g3/g76/g81/g86/g72/g85/g76/g71/g68/g3/g81/g82/g3/g80/g72/g85/g70/g68/g71/g82/g3/g76/g81/g86/g87/g76/g87/g88/g70/g76/g82/g81/g68/g79
+
+/g101 MEDIDA DE /g39/g50/g40/g49/g100/g36/g54/g15 SENDO MEDIDA IMPORTANTE PARA /g53/g40/g39/g56/g100/g173/g50 DE
+
+META: 42 Justificativa: O AUMENTO DE /g44/g49/g42/g40/g54/g55/g173/g50 DE ALIMENTOS /g54/g36/g56/g39/g200/g57/g40/g44/g54 /g51/g53/g40/g57/g40/g49/g100/g173/g50 DE /g57/g200/g53/g44/g36/g54 GASTOS.
+
+Deputado Jair Bittencourt /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g23/g27 PROGRAMA: 0494 - Meio Ambiente e Sustentabilidade /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g22/g26/g3/g16/g3/g38/g82/g81/g86/g72/g85/g89/g68/g111/g109/g82/g3/g72/g3/g51/g85/g72/g86/g72/g85/g89/g68/g111/g109/g82/g3/g71/g82/g86/g3/g53/g72/g70/g88/g85/g86/g82/g86/g3/g49/g68/g87/g88/g85/g68/g76/g86/g3/g72/g3/g43/g116/g71/g85/g76/g70/g82/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g23/g24/g25/g3/g16/g3/g38/g68/g83/g68/g70/g76/g87/g68/g111/g109/g82/g3/g71/g82/g86/g3/g80/g88/g81/g76/g70/g116/g83/g76/g82/g86/g3/g83/g68/g85/g68/g3/g68/g111/g125/g72/g86/g3/g71/g72/g3/g68/g71/g68/g83/g87/g68/g111/g109/g82/g3/g70/g79/g76/g80/g105/g87/g76/g70/g68/g3/g85/g72/g68/g79/g76/g93/g68/g71/g68 META: 100 Justificativa: A META DEVE SER DOBRADA EM /g39/g40/g38/g50/g53/g53/g199/g49/g38/g44/g36 DE, ATUALMENTE, AS /g36/g100/g174/g40/g54 /g38/g47/g44/g48/g200/g55/g44/g38/g36/g54 SEREM /g53/g40/g54/g51/g50/g49/g54/g200/g57/g40/g44/g54 POR /g51/g53/g40/g45/g56/g203/g61/g50/g54 E /g39/g40/g54/g55/g53/g56/g44/g100/g173/g50 DE /g57/g200/g53/g44/g36/g54/g3/g38/g44/g39/g36/g39/g40/g54/g17
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g23/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g28/g3/g16/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g37/g72/g81/g86/g3/g38/g88/g79/g87/g88/g85/g68/g76/g86/g3/g72/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g38/g88/g79/g87/g88/g85/g68 INICIATIVA: 0110 - Museu Presente PRODUTO: 8648 - Museu adaptado com acessibilidade META: 4 Justificativa: A META DEVE SER ALTERADA DEVIDO A SER IMPORTANTE A ACESSIBILIDADE AOS MUSEUS, POSSIBILITANDO O ACESSO /g172 CULTURA PARA
+
+Deputado Jair Bittencourt TODOS.
+
+Deputado Jair Bittencourt /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g24/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g28/g3/g16/g3/g44/g81/g89/g72/g86/g87/g76/g80/g72/g81/g87/g82/g86/g3/g72/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g40/g70/g82/g81/g123/g80/g76/g70/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g26/g3/g16/g3/g38/g82/g81/g70/g72/g86/g86/g109/g82/g3/g71/g72/g3/g41/g76/g81/g68/g81/g70/g76/g68/g80/g72/g81/g87/g82/g3/g68/g82/g86/g3/g40/g80/g83/g85/g72/g72/g81/g71/g72/g71/g82/g85/g72/g86/g3/g71/g82/g3/g40/g86/g87/g68/g71/g82/g3/g71/g82/g3/g53/g76/g82/g3/g71/g72/g3 Janeiro PRODUTO: 8541 - Prefeitura financiada META: 20 Justificativa: O AUMENTO DA META /g101 DECORRENTE DA NECESSIDADE DE RESTABELECIMENTO DA ECONOMIA DAS CIDADES DO NOROESTE DO ESTADO QUE FORAM MUITO ATINGIDAS PELAS FORTES CHUVAS DE 2023/2024.
+
+Deputado Jair Bittencourt /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g24/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g28/g3/g16/g3/g44/g81/g89/g72/g86/g87/g76/g80/g72/g81/g87/g82/g86/g3/g72/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g40/g70/g82/g81/g123/g80/g76/g70/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g26/g3/g16/g3/g38/g82/g81/g70/g72/g86/g86/g109/g82/g3/g71/g72/g3/g41/g76/g81/g68/g81/g70/g76/g68/g80/g72/g81/g87/g82/g3/g68/g82/g86/g3/g40/g80/g83/g85/g72/g72/g81/g71/g72/g71/g82/g85/g72/g86/g3/g71/g82/g3/g40/g86/g87/g68/g71/g82/g3/g71/g82/g3/g53/g76/g82/g3/g71/g72/g3 Janeiro PRODUTO: 8541 - Prefeitura financiada META: 8 Justificativa: A META DEVE SER AUMENTADA, A /g53/g40/g42/g44/g173/g50 DO NOROESTE TEM /g57/g200/g53/g44/g36/g54 DEMANDAS PARA SEREM ATENDIDAS E GERAR INCREMENTO NA ECONOMIA.
+
+Deputado Jair Bittencourt
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g24/g21 PROGRAMA: 0512 - Desenvolvimento Territorial /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g22/g24/g3/g16/g3/g56/g85/g69/g68/g81/g76/g93/g68/g111/g109/g82/g3/g72/g3/g44/g80/g83/g79/g68/g81/g87/g68/g111/g109/g82/g3/g71/g72/g3/g51/g85/g82/g77/g72/g87/g82/g3/g71/g72/g3/g44/g81/g73/g85/g68/g72/g86/g87/g85/g88/g87/g88/g85/g68/g3/g72/g80/g3/g200/g85/g72/g68/g86/g3 Vulnerabilizadas PRODUTO: 8844 - Localidade urbanizada ou atendida com infraestrutura META: 64 Justificativa: O AUMENTO DEVE-SE A NECESSIDADE DE ATENDIMENTO, PELA /g51/g50/g51/g56/g47/g36/g100/g173/g50 /g57/g56/g47/g49/g40/g53/g200/g57/g40/g47/g15 DE INFRAESTRUTURA, PRIORIZANDO OS /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 DO NOROESTE QUE FORAM PREJUDICADOS COM ENCHENTES.
+
+Deputado Jair Bittencourt /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g24/g22 PROGRAMA: 0494 - Meio Ambiente e Sustentabilidade /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g24/g20/g3/g16/g3/g53/g72/g70/g88/g83/g72/g85/g68/g111/g109/g82/g3/g36/g80/g69/g76/g72/g81/g87/g68/g79/g3/g72/g3/g55/g72/g85/g85/g76/g87/g82/g85/g76/g68/g79
+
+/g51/g53/g50/g39/g56/g55/g50/g29/g3/g25/g20/g22/g25/g3/g16/g3/g50/g69/g85/g68/g3/g83/g68/g85/g68/g3/g80/g76/g87/g76/g74/g68/g111/g109/g82/g3/g71/g72/g3/g76/g81/g88/g81/g71/g68/g111/g125/g72/g86/g3/g76/g80/g83/g79/g68/g81/g87/g68/g71/g68 META: 100 Justificativa: DEVIDO AS RECENTES CONSEQUENCIAS SUPORTADAS PELA /g51/g50/g51/g56/g47/g36/g100/g173/g50 DO NOSSO ESTADO, QUE TIVERAM COMO CONSEQUENCIA AS /g36/g47/g55/g40/g53/g36/g100/g174/g40/g54 /g38/g47/g44/g48/g200/g55/g44/g38/g36/g54/g15/g3/g36/g3/g48/g40/g55/g36/g3/g36/g3/g54/g40/g53/g3/g36/g55/g40/g49/g39/g44/g39/g36/g3/g40/g48/g3/g21/g19/g21/g24/g3/g39/g40/g57/g40/g3/g54/g40/g53/g3/g36/g47/g55/g40/g53/g36/g39/g36/g17
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g22/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 INICIATIVA: 0136 - Fortalecimento do Bem-Estar Animal /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g38/g50/g49/g57/g40/g49/g44/g50/g3/g38/g50/g48/g3/g44/g49/g54/g55/g44/g55/g56/g44/g100/g174/g40/g54/g3/g54/g40/g48/g3/g41/g44/g49/g54/g3/g47/g56/g38/g53/g36/g55/g44/g57/g50/g54/g3/g39/g40/g3/g39/g40/g41/g40/g54/g36/g3/g40/g3 /g51/g53/g50/g55/g40/g100/g173/g50/g3/g36/g49/g44/g48/g36/g47 /g45/g88/g86/g87/g76/g73/g76/g70/g68/g87/g76/g89/g68/g29/g3/g36/g48/g51/g47/g44/g36/g53/g3/g36/g54/g3/g36/g100/g174/g40/g54/g3/g51/g210/g37/g47/g44/g38/g36/g54/g3/g39/g40/g3/g39/g40/g41/g40/g54/g36/g3/g40/g3/g51/g53/g50/g55/g40/g100/g173/g50/g3/g36/g49/g48/g36/g47
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g23/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g26/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g51/g126/g69/g79/g76/g70/g68/g86/g3/g83/g68/g85/g68/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g19/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g44/g81/g87/g72/g74/g85/g68/g71/g82/g3/g71/g72/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g72/g3/g36/g70/g82/g79/g75/g76/g80/g72/g81/g87/g82/g3/g106/g3/g48/g88/g79/g75/g72/g85/g3/g57/g116/g87/g76/g80/g68 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g48/g51/g47/g44/g36/g100/g173/g50/g3/g39/g36/g54/g3/g39/g40/g47/g40/g42/g36/g38/g44/g36/g54/g3/g39/g40/g3/g36/g55/g40/g49/g39/g44/g48/g40/g49/g55/g50/g3/g172/g3/g48/g56/g47/g43/g40/g53/g3/g49/g50/g54/g3 MUN DA BAIXADA FLUMINENSE META: 10 Justificativa: AMPLIAR AS /g36/g100/g174/g40/g54 DE ATENDIMENTO /g172/g54 MULHERES /g57/g203/g55/g44/g48/g36/g54 DE /g57/g44/g50/g47/g199/g49/g38/g44/g36/g3/g39/g50/g48/g101/g54/g55/g44/g38/g36
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g23/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g26/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g51/g126/g69/g79/g76/g70/g68/g86/g3/g83/g68/g85/g68/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g22/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g72/g3/g40/g81/g73/g85/g72/g81/g87/g68/g80/g72/g81/g87/g82/g3/g71/g72/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g86/g3/g70/g82/g81/g87/g85/g68/g3/g68/g3/g48/g88/g79/g75/g72/g85 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g48/g51/g47/g44/g36/g100/g173/g50/g3/g39/g50/g54/g3/g36/g37/g53/g44/g42/g50/g54/g3/g51/g36/g53/g36/g3/g48/g56/g47/g43/g40/g53/g40/g54/g3VITIMAS/g3/g39/g40/g3/g57/g44/g50/g47/g199/g49/g38/g44/g36 SOB MEDIDA PROTETIVA META: 20 Justificativa: AMPLIAR AS MEDIDAS DE ABRIGAMENTO DE MULHERES /g57/g203/g55/g44/g48/g36/g54 DE /g57/g44/g50/g47/g199/g49/g38/g44/g36/g3/g38/g56/g45/g36/g3/g48/g40/g39/g44/g39/g36/g3/g51/g53/g50/g55/g40/g55/g44/g57/g36/g3/g41/g50/g44/g3/g39/g40/g41/g40/g53/g44/g39/g36/g3/g51/g50/g53/g3/g39/g40/g55/g40/g53/g48/g44/g49/g36/g100/g173/g50/g3/g45/g56/g39/g44/g38/g44/g36/g47/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g23/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g28/g3/g16/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g37/g72/g81/g86/g3/g38/g88/g79/g87/g88/g85/g68/g76/g86/g3/g72/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g38/g88/g79/g87/g88/g85/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g25/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g72/g3/g39/g72/g80/g82/g70/g85/g68/g87/g76/g93/g68/g111/g109/g82/g3/g106/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g36/g70/g72/g86/g86/g82/g3/g68/g3/g38/g88/g79/g87/g88/g85/g68 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50/g3/g39/g40/g3/g37/g44/g37/g47/g44/g50/g55/g40/g38/g36/g3/g51/g36/g53/g52/g56/g40/g3/g49/g50/g54/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g54/g3/g39/g36/g3 BAIXADA FLUMINESE META: 10 /g45/g88/g86/g87/g76/g73/g76/g70/g68/g87/g76/g89/g68/g29/g3/g36/g48/g51/g47/g44/g36/g53/g3/g36/g54/g3/g36/g100/g174/g40/g54/g3/g38/g56/g47/g55/g56/g53/g36/g44/g54/g3/g49/g50/g54/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g54
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g23/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g26/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g51/g126/g69/g79/g76/g70/g68/g86/g3/g83/g68/g85/g68/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g23/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g36/g88/g87/g82/g81/g82/g80/g76/g68/g3/g40/g70/g82/g81/g123/g80/g76/g70/g68/g15/g3/g36/g111/g125/g72/g86/g3/g55/g72/g80/g105/g87/g76/g70/g68/g86/g3/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3 Transversais Mulher /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g48/g51/g47/g44/g36/g100/g173/g50/g3/g39/g36/g54/g3/g38/g36/g54/g36/g54/g3/g39/g50/g54/g3/g38/g56/g44/g39/g36/g39/g50/g53/g40/g54/g3/g51/g36/g53/g36/g3/g48/g56/g47/g43/g40/g53/g40/g54/g3 QUILOMBOLAS META: 10 Justificativa: AMPLIAR AS /g51/g50/g47/g203/g55/g44/g38/g36/g54 /g51/g210/g37/g47/g44/g38/g36/g54 DESTINADAS AS MULHERES QUILOMBOLAS
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g23/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g28/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g36/g83/g82/g76/g82/g3/g106/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82
+
+/g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50/g3/g39/g50/g3/g38/g40/g49/g55/g53/g50/g3/g39/g40/g3/g40/g39/g56/g38/g36/g100/g173/g50/g3/g36/g3/g39/g44/g54/g55/g198/g49/g38/g44/g36/g3/g38/g40/g39/g40/g53/g45/g3 /g49/g50/g54/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g54/g3/g39/g36/g3/g37/g36/g44/g59/g36/g39/g36 META: 10 Justificativa: AMPLIAR AS /g36/g100/g174/g40/g54 DE ENSINO DE /g40/g39/g56/g38/g36/g100/g173/g50 A /g39/g44/g54/g55/g198/g49/g38/g44/g36 NOS /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54/g3/g39/g36/g3/g37/g36/g44/g59/g36/g39/g36/g3/g41/g47/g56/g48/g44/g49/g40/g49/g54/g40/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g23/g24 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g22/g24/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g86/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g72/g3/g38/g82/g81/g87/g85/g82/g79/g72/g3/g54/g82/g70/g76/g68/g79/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g71/g68/g3/g45/g88/g89/g72/g81/g87/g88/g71/g72 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50/g3/g39/g40/g3/g38/g40/g49/g55/g53/g50/g3/g39/g40/g3/g53/g40/g41/g40/g53/g199/g49/g38/g44/g36/g3/g39/g36/g3/g45/g56/g57/g40/g49/g55/g56/g39/g40/g3 /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54/g3/g39/g36/g3/g37/g36/g44/g59/g36/g39/g36/g3/g41/g47/g56/g48/g44/g49/g40/g54/g40 META: 10 Justificativa: AMPLIAR AS /g36/g100/g174/g40/g54 PARA JUVENTUDE NOS /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 DA BAIXADA FLUMINENSE
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g23/g25 PROGRAMA: 0494 - Meio Ambiente e Sustentabilidade /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g24/g20/g3/g16/g3/g53/g72/g70/g88/g83/g72/g85/g68/g111/g109/g82/g3/g36/g80/g69/g76/g72/g81/g87/g68/g79/g3/g72/g3/g55/g72/g85/g85/g76/g87/g82/g85/g76/g68/g79 NOVO PRODUTO: OBRAS DE LIMPEZA E DESASSOREAMENTO DE CANAIS E RIOS DOS /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54/g3/g39/g36/g3/g37/g36/g44/g59/g36/g39/g36 META: 100 Justificativa: MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE VIDA E /g54/g36/g210/g39/g40 DOS /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 DA BAIXADA FLUMINENSE
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g23/g26 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g28/g3/g16/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g37/g72/g81/g86/g3/g38/g88/g79/g87/g88/g85/g68/g76/g86/g3/g72/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g38/g88/g79/g87/g88/g85/g68 INICIATIVA: 0113 - Apoio e Desenvolvimento da Arte e da Cultura /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50/g3/g39/g40/g3/g56/g48/g36/g3/g40/g54/g38/g50/g47/g36/g3/g39/g40/g3/g48/g210/g54/g44/g38/g36/g3/g57/g44/g47/g36/g3/g47/g50/g37/g50/g54/g3/g49/g50/g54/g3/g48/g56/g49/g17/g3 DA BAIXADA FLUMINENSE META: 10 Justificativa: ESTIMULAR O DESENVOLVIMENTO CULTURAL E /g36/g53/g55/g203/g54/g55/g44/g38/g50 NOS /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 DA BAIXADA FLUMINENSE, EM ESPECIAL NO /g48/g56/g49/g44/g38/g203/g51/g44/g50 DE /g54/g173/g50 /g45/g50/g173/g50 DE MERITI.
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g23/g27 PROGRAMA: 0494 - Meio Ambiente e Sustentabilidade INICIATIVA: 0187 - Estudo e Monitoramento de Dados e Impactos Ambientais /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g53/g44/g36/g100/g173/g50/g3/g39/g40/g3/g40/g54/g51/g36/g100/g50/g54/g3/g39/g40/g3/g39/g40/g37/g36/g55/g40/g54/g3/g36/g48/g37/g44/g40/g49/g55/g36/g44/g54/g3/g51/g36/g53/g36/g3 /g50/g53/g42/g36/g49/g44/g61/g36/g100/g174/g40/g54/g3/g54/g50/g38/g44/g36/g54/g44 META: 10 Justificativa: AMPLIAR O DEBATE DAS /g52/g56/g40/g54/g55/g174/g40/g54 AMBIENTAIS ENTRE AS /g50/g53/g42/g36/g49/g44/g61/g36/g100/g174/g40/g54/g3/g54/g50/g38/g44/g36/g44/g54
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g23/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g21/g3/g16/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g72/g3/g48/g82/g71/g72/g85/g81/g76/g93/g68/g111/g109/g82/g3/g81/g68/g3/g54/g68/g126/g71/g72 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g54/g55/g53/g56/g100/g173/g50/g3/g39/g40/g3/g56/g48/g3/g43/g50/g54/g51/g44/g55/g36/g47/g3/g42/g40/g53/g36/g47/g3/g49/g50/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g3/g39/g40/g3/g54/g173/g50/g3 /g45/g50/g173/g50/g3/g39/g40/g3/g48/g40/g53/g44/g55/g44/g17 META: 1 Justificativa: MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ATENDIMENTO NA REDE /g51/g210/g37/g47/g44/g38/g36 DE /g54/g36/g210/g39/g40/g3/g51/g36/g53/g36/g3/g36/g3/g51/g50/g51/g56/g47/g36/g100/g173/g50/g3/g53/g40/g54/g44/g39/g40/g49/g55/g40/g3/g49/g50/g54/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g54/g3/g39/g36/g3/g37/g36/g44/g59/g36/g39/g36/g3/g41/g47/g56/g48/g44/g49/g40/g49/g54/g40
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g24/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g22/g3/g16/g3/g56/g87/g76/g79/g76/g93/g68/g111/g109/g82/g3/g71/g72/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g41/g82/g80/g72/g81/g87/g82/g3/g71/g68/g3/g38/g88/g79/g87/g88/g85/g68/g3/g39/g76/g74/g76/g87/g68/g79/g3/g81/g68 Escola /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50/g3/g39/g40/g3/g47/g36/g37/g50/g53/g36/g55/g207/g53/g44/g50/g54/g3/g39/g40/g3/g44/g49/g41/g50/g53/g48/g200/g55/g44/g38/g36/g3/g49/g50/g54/g3 /g38/g50/g47/g101/g42/g44/g50/g54/g3/g39/g36/g3/g37/g36/g44/g59/g36/g39/g36/g3/g41/g47/g56/g48/g44/g49/g40/g49/g54/g40 META: 100 Justificativa: MELHORIA DA QUALIDADE DE ENSINO DA REDE /g51/g210/g37/g47/g44/g38/g36 ESTADUAL NOS /g38/g50/g47/g101/g42/g44/g50/g54/g3/g40/g54/g55/g36/g39/g56/g36/g44/g54/g3/g49/g50/g54/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g54/g3/g39/g36/g3/g37/g36/g44/g59/g36/g39/g36/g3/g41/g47/g56/g48/g44/g49/g40/g49/g54/g40
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g24/g20 PROGRAMA: 0501 - Esporte e Lazer /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g24/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g68/g82/g3/g40/g86/g83/g82/g85/g87/g72/g3/g72/g3/g47/g68/g93/g72/g85 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g53/g40/g41/g50/g53/g48/g36/g3/g40/g3/g38/g50/g49/g54/g55/g53/g56/g100/g173/g50/g3/g39/g40/g3/g52/g56/g36/g39/g53/g36/g3/g51/g50/g47/g44/g40/g54/g51/g50/g53/g55/g44/g57/g36/g3/g49/g50/g54/g3 /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54/g3/g39/g36/g3/g37/g36/g44/g59/g36/g39/g36 META: 50 Justificativa: MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE VIDA, ESPORTE E LAZER DOS /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 DA BAIXADA FLUMINENSE
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g24/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g20/g3/g16/g3/g36/g87/g72/g81/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79/g3/g106/g3/g54/g68/g126/g71/g72 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36/g3/g36/g3/g51/g36/g38/g44/g40/g49/g55/g40/g54/g3/g38/g50/g48/g3/g44/g49/g39/g44/g38/g36/g100/g173/g50/g3/g39/g40/g3/g43/g40/g48/g50/g39/g44/g200/g47/g44/g54/g40 META: 100 Justificativa: /g36/g52/g56/g44/g54/g44/g100/g173/g50 DE EQUIPAMENTOS PARA MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ATENDIMENTO DE PACIENTES COM /g44/g49/g39/g44/g38/g36/g100/g173/g50 DE TRATAMENTO /g36/g55/g53/g36/g57/g101/g54 DE /g43/g40/g48/g50/g39/g44/g200/g47/g44/g54/g40/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g24/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 INICIATIVA: 0136 - Fortalecimento do Bem-Estar Animal /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50/g3/g39/g36/g3/g51/g50/g47/g203/g55/g44/g38/g36/g3/g40/g54/g55/g36/g39/g56/g36/g47/g3/g39/g40/g3/g39/g40/g41/g40/g54/g36/g3/g40/g3/g51/g53/g50/g55/g40/g100/g173/g50/g3 ANIMAL META: 1 Justificativa: IMPLANTAR NO ESTADO DO RIO DE JANEIRO /g51/g50/g47/g203/g55/g44/g38/g36/g54 /g51/g210/g37/g47/g44/g38/g36/g54 DESTINADAS A DEFESA E /g51/g53/g50/g55/g40/g100/g173/g50 ANIMAL, EM PARCERIA COM /g44/g49/g54/g55/g44/g55/g56/g44/g100/g174/g40/g54 SEM FINS LUCRATIVOS.
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g24/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g26/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g51/g126/g69/g79/g76/g70/g68/g86/g3/g83/g68/g85/g68/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g23/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g36/g88/g87/g82/g81/g82/g80/g76/g68/g3/g40/g70/g82/g81/g123/g80/g76/g70/g68/g15/g3/g36/g111/g125/g72/g86/g3/g55/g72/g80/g105/g87/g76/g70/g68/g86/g3/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3 Transversais Mulher /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g40/g54/g51/g36/g100/g50/g3/g36/g48/g37/g44/g40/g49/g55/g36/g47/g3/g51/g36/g53/g36/g3/g53/g50/g39/g36/g3/g55/g40/g53/g36/g199/g56/g55/g44/g38/g36/g54/g3/g51/g36/g53/g36/g3/g48/g56/g47/g43/g40/g53/g40/g54/g3 EM VULNERABILIDADE SOCIAL META: 20 Justificativa: PROPORCIONAR MEIOS DE DEBATES /g55/g40/g53/g36/g51/g199/g56/g55/g44/g38/g36/g54 PARA MULHERES EM VULNERABILIDADE SOCIAL
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g24/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g25/g25/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g68/g82/g3/g56/g86/g82/g3/g71/g72/g3/g39/g85/g82/g74/g68/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g26/g28/g3/g16/g3/g44/g80/g83/g79/g68/g81/g87/g68/g111/g109/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g86/g82/g69/g85/g72/g3/g39/g85/g82/g74/g68/g86 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g41/g50/g53/g55/g36/g47/g40/g38/g40/g53/g3/g36/g54/g3/g36/g100/g174/g40/g54/g3/g39/g40/g3/g55/g53/g36/g55/g36/g48/g40/g49/g55/g50/g3/g36/g50/g54/g3/g56/g54/g56/g54/g200/g53/g44/g50/g54/g3/g39/g40/g3 DROGAS META: 20.000 Justificativa: AMPLIAR AS /g36/g100/g174/g40/g54 DE /g51/g53/g40/g57/g40/g49/g100/g173/g50 E TRATAMENTO AOS /g56/g54/g56/g200/g53/g44/g50/g54 DE DROGAS
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g47/g112/g82/g3/g57/g76/g72/g76/g85/g68 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g24/g25 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g21/g3/g16/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g72/g3/g48/g82/g71/g72/g85/g81/g76/g93/g68/g111/g109/g82/g3/g81/g68/g3/g54/g68/g126/g71/g72 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g53/g44/g36/g100/g173/g50/g3/g39/g40/g3/g56/g49/g44/g39/g36/g39/g40/g54/g3/g39/g40/g3/g51/g53/g50/g49/g55/g50/g3/g36/g55/g40/g49/g39/g44/g48/g40/g49/g55/g50/g3/g49/g50/g54/g3 /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54/g3/g39/g36/g3/g37/g36/g44/g59/g36/g39/g36/g3/g41/g47/g56/g48/g44/g49/g40/g49/g54/g40 META: 100 Justificativa: MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE /g54/g36/g210/g39/g40 DOS /g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 DA BAIXADA FLUMINENSE
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Deputado Luiz Paulo
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g23
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g20/g22/g25/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g47/g72/g74/g76/g86/g79/g68/g87/g76/g89/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g28/g25/g3/g16/g3/g38/g50/g49/g55/g53/g50/g47/g40/g3/g40/g3/g41/g44/g54/g38/g36/g47/g44/g61/g36/g100/g173/g50/g3/g39/g36/g3/g42/g40/g54/g55/g173/g50/g3/g51/g210/g37/g47/g44/g38/g36 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g56/g39/g44/g199/g49/g38/g44/g36/g54/g3/g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36/g54/g3/g53/g40/g36/g47/g44/g61/g36/g39/g36/g54 META: 2 Justificativa: ANUALMENTE, /g54/g173/g50 REALIZADAS NA ALERJ /g36/g56/g39/g44/g199/g49/g38/g44/g36/g54 /g51/g210/g37/g47/g44/g38/g36/g54 PARA DISCUTIR AS LEIS /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36/g54/g15 INCLUINDO O PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL (PEDES), O PLANO PLURIANUAL (PPA), A LEI DE DIRETRIZES /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36/g54/g3/g11/g47/g39/g50/g12/g3/g40/g3/g36/g3/g47/g40/g44/g3/g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36/g3/g36/g49/g56/g36/g47/g3/g11/g47/g50/g36/g12/g17
+
+Deputado Luiz Paulo /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g20/g22/g25/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g47/g72/g74/g76/g86/g79/g68/g87/g76/g89/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g28/g25/g3/g16/g3/g38/g50/g49/g55/g53/g50/g47/g40/g3/g40/g3/g41/g44/g54/g38/g36/g47/g44/g61/g36/g100/g173/g50/g3/g39/g36/g3/g42/g40/g54/g55/g173/g50/g3/g51/g210/g37/g47/g44/g38/g36 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g53/g40/g47/g36/g55/g207/g53/g44/g50/g3FISCAL  APRECIADO POR BIMESTRE META: 6 Justificativa: A LEI COMPLEMENTAR FEDERAL /g49/g158 101, DE 04 DE MAIO DE 2000 (LEI DE RESPONSABILIDADE FISCAL -LRF), ESTABELECEU A OBRIGATORIEDADE DE /g40/g47/g36/g37/g50/g53/g36/g100/g173/g50 E /g51/g56/g37/g47/g44/g38/g36/g100/g173/g50 BIMESTRAL DOS /g53/g40/g47/g36/g55/g207/g53/g44/g50/g54 RESUMIDOS DA /g40/g59/g40/g38/g56/g100/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36/g15 DE RESPONSABILIDADE DO PODER EXECUTIVO, CONSOLIDANDO TODOS OS DADOS DA /g40/g59/g40/g38/g56/g100/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 E FINANCEIRA DA /g36/g39/g48/g44/g49/g44/g54/g55/g53/g36/g100/g173/g50 /g51/g210/g37/g47/g44/g38/g36 ESTADUAL. CABE /g172 ALERJ, NO /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE SUAS /g36/g55/g53/g44/g37/g56/g44/g100/g174/g40/g54 DE CONTROLE EXTERNO, A /g36/g51/g53/g40/g38/g44/g36/g100/g173/g50 E O ACOMPANHAMENTO /g39/g40/g54/g54/g40/g54/g3/g53/g40/g47/g36/g55/g207/g53/g44/g50/g54/g3/g37/g44/g48/g40/g54/g55/g53/g36/g47/g48/g40/g49/g55/g40/g17
+
+Deputado Luiz Paulo /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g25 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g20/g22/g25/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g47/g72/g74/g76/g86/g79/g68/g87/g76/g89/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g28/g25/g3/g16/g3/g38/g50/g49/g55/g53/g50/g47/g40/g3/g40/g3/g41/g44/g54/g38/g36/g47/g44/g61/g36/g100/g173/g50/g3/g39/g36/g3/g42/g40/g54/g55/g173/g50/g3/g51/g210/g37/g47/g44/g38/g36 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g53/g40/g47/g36/g55/g207/g53/g44/g50/g3/g41/g44/g54/g38/g36/g47/g3/g36/g51/g53/g40/g38/g44/g36/g39/g50/g3/g51/g50/g53/g3/g52/g56/g36/g39/g53/g44/g48/g40/g54/g55/g53/g40 META: 3 Justificativa: A LEI COMPLEMENTAR FEDERAL /g49/g158 101, DE 04 DE MAIO DE 2000 (LEI DE RESPONSABILIDADE FISCAL -LRF), ESTABELECEU A OBRIGATORIEDADE DE /g40/g47/g36/g37/g50/g53/g36/g100/g173/g50 E /g51/g56/g37/g47/g44/g38/g36/g100/g173/g50 BIMESTRAL DOS /g53/g40/g47/g36/g55/g207/g53/g44/g50/g54 RESUMIDOS DA /g40/g59/g40/g38/g56/g100/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36/g15 DE RESPONSABILIDADE DO PODER EXECUTIVO, CONSOLIDANDO TODOS OS DADOS DA /g40/g59/g40/g38/g56/g100/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 E FINANCEIRA DA /g36/g39/g48/g44/g49/g44/g54/g55/g53/g36/g100/g173/g50 /g51/g210/g37/g47/g44/g38/g36 ESTADUAL. CABE /g172 ALERJ, NO /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE SUAS /g36/g55/g53/g44/g37/g56/g44/g100/g174/g40/g54 DE CONTROLE EXTERNO, A /g36/g51/g53/g40/g38/g44/g36/g100/g173/g50 E O ACOMPANHAMENTO /g39/g40/g54/g54/g40/g54/g3/g53/g40/g47/g36/g55/g207/g53/g44/g50/g54/g3/g52/g56/g36/g39/g53/g44/g48/g40/g54/g55/g53/g36/g47/g48/g40/g49/g55/g40/g17
+
+Deputado Luiz Paulo /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g19/g20
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g20/g22/g25/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g47/g72/g74/g76/g86/g79/g68/g87/g76/g89/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g28/g25/g3/g16/g3/g38/g50/g49/g55/g53/g50/g47/g40/g3/g40/g3/g41/g44/g54/g38/g36/g47/g44/g61/g36/g100/g173/g50/g3/g39/g36/g3/g42/g40/g54/g55/g173/g50/g3/g51/g210/g37/g47/g44/g38/g36 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g55/g36/g54/g3/g39/g40/g3/g207/g53/g42/g173/g50/g54/g3/g40/g59/g55/g40/g53/g49/g50/g54/g3/g45/g56/g47/g42/g36/g39/g36/g54 META: 2
+
+Justificativa: VISA REFLETIR COM MAIOR /g51/g53/g40/g38/g44/g54/g173/g50 O PROCESSO COMPLETO DE /g38/g50/g49/g55/g53/g50/g47/g40/g3/g40/g3/g41/g44/g54/g38/g36/g47/g44/g61/g36/g100/g173/g50/g3/g53/g40/g36/g47/g44/g61/g36/g39/g50/g3/g51/g40/g47/g36/g3/g36/g47/g40/g53/g45/g17
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## /g39/g72/g83/g88/g87/g68/g71/g82/g3/g48/g105/g85/g70/g76/g82/g3/g42/g88/g68/g79/g69/g72/g85/g87/g82 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g20/g25
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g19/g24/g3/g16/g3/g36/g83/g82/g76/g82/g3/g106/g86/g3/g51/g82/g79/g116/g70/g76/g68/g86/g3/g72/g3/g68/g82/g3/g42/g82/g89/g72/g85/g81/g82/g3/g81/g68/g3/g51/g85/g82/g89/g76/g86/g109/g82/g3/g71/g72/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g51/g126/g69/g79/g76/g70/g68 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g41/g50/g53/g55/g36/g47/g40/g38/g44/g48/g40/g49/g55/g50/g3/g39/g40/g3/g44/g49/g54/g55/g53/g56/g48/g40/g49/g55/g50/g54/g3/g55/g40/g38/g49/g50/g47/g207/g42/g44/g38/g50/g54/g3/g39/g40/g3/g54/g40/g42/g56/g53/g36/g49/g100/g36 Justificativa: A PRESENTE PROPOSTA VISA DESENVOLVER MELHORIAS /g55/g40/g38/g49/g50/g47/g207/g42/g44/g38/g36/g54/g3/g51/g36/g53/g36/g3/g54/g40/g42/g56/g53/g36/g49/g100/g36/g3/g51/g210/g37/g47/g44/g38/g36
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g48/g105/g85/g70/g76/g82/g3/g42/g88/g68/g79/g69/g72/g85/g87/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g20/g26 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g49/g50/g57/g36/g3/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g56/g55/g44/g47/g44/g61/g36/g100/g173/g50/g3/g39/g40/g3/g38/g198/g48/g40/g53/g36/g54/g3/g39/g40/g3/g48/g50/g49/g44/g55/g50/g53/g36/g48/g40/g49/g55/g50/g3/g49/g50/g54/g3/g48/g56/g49/g44/g38/g203/g51/g44/g50/g54 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g40/g52/g56/g44/g51/g36/g48/g40/g49/g55/g50/g54/g3/g51/g36/g53/g36/g3/g54/g40/g42/g56/g53/g36/g49/g100/g36/g3/g51/g210/g37/g47/g44/g38/g36 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g56/g55/g44/g47/g44/g61/g36/g100/g173/g50/g3/g39/g40/g3/g38/g198/g48/g40/g53/g36/g54/g3/g39/g40/g3/g48/g50/g49/g44/g55/g50/g53/g36/g48/g40/g49/g55/g50/g3/g40/g48/g3/g47/g50/g38/g36/g44/g54/g3 /g51/g210/g37/g47/g44/g38/g50/g54 META: 1
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g48/g105/g85/g70/g76/g82/g3/g42/g88/g68/g79/g69/g72/g85/g87/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g20/g27
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g44/g81/g70/g79/g88/g86/g76/g89/g68/g15/g3/g70/g82/g80/g3/g89/g68/g79/g82/g85/g76/g93/g68/g111/g109/g82/g3/g106/g86/g3/g71/g76/g73/g72/g85/g72/g81/g111/g68/g86/g3/g72/g3/g68/g3 diversidade /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g100/g173/g50/g3/g51/g53/g40/g57/g40/g49/g55/g44/g57/g36/g3/g39/g40/g3/g54/g40/g42/g56/g53/g36/g49/g100/g36/g3/g49/g36/g3/g40/g54/g38/g50/g47/g36 META: 1
+
+Justificativa: A PRESENTE EMENDA VISA PROMOVER ATIVIDADES SOCIOEDUCATIVAS /g49/g36/g54/g3/g40/g54/g38/g50/g47/g36/g54/g15/g3/g53/g40/g39/g56/g61/g44/g49/g39/g50/g3/g36/g3/g38/g53/g40/g54/g38/g40/g49/g55/g40/g3/g54/g44/g55/g56/g36/g100/g173/g50/g3/g39/g40/g3/g57/g44/g50/g47/g199/g49/g38/g44/g36/g3/g49/g36/g54/g3/g40/g54/g38/g50/g47/g36/g54/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g48/g105/g85/g70/g76/g82/g3/g42/g88/g68/g79/g69/g72/g85/g87/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g20/g28
+
+PROGRAMA: 0498 - Direitos Humanos e Cidadania
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g21/g19/g3/g16/g3/g44/g71/g72/g81/g87/g76/g73/g76/g70/g68/g111/g109/g82/g3/g72/g3/g43/g68/g69/g76/g79/g76/g87/g68/g111/g109/g82/g3/g71/g82/g3/g38/g76/g71/g68/g71/g109/g82/g3/g72/g3/g53/g72/g74/g76/g86/g87/g85/g82/g3/g71/g72/g3/g57/g72/g116/g70/g88/g79/g82/g86
+
+/g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g38/g40/g54/g54/g50/g3/g36/g3/g37/g36/g49/g43/g40/g44/g53/g50/g3/g52/g56/g203/g48/g44/g38/g50/g3/g36/g50/g54/g3/g36/g42/g40/g49/g55/g40/g54/g3/g40/g3/g38/g44/g39/g36/g39/g173/g50/g54
+
+META: 1
+
+Justificativa: A PRESENTE EMENDA VISA ESTABELECER BANHEIROS /g52/g56/g203/g48/g44/g38/g50/g54 PARA /g50/g54/g3/g36/g42/g40/g49/g55/g40/g54/g3/g40/g3/g50/g54/g3/g38/g44/g39/g36/g39/g173/g50/g54/g3/g49/g50/g54/g3/g47/g50/g38/g36/g44/g54/g3/g39/g40/g3/g51/g53/g50/g57/g36/g54/g3/g39/g50/g3/g39/g40/g55/g53/g36/g49/g3/g36/g56/g55/g50/g40/g54/g38/g50/g47/g36/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g48/g105/g85/g70/g76/g82/g3/g42/g88/g68/g79/g69/g72/g85/g87/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g21/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g44/g81/g70/g79/g88/g86/g76/g89/g68/g15/g3/g70/g82/g80/g3/g89/g68/g79/g82/g85/g76/g93/g68/g111/g109/g82/g3/g106/g86/g3/g71/g76/g73/g72/g85/g72/g81/g111/g68/g86/g3/g72/g3/g68/g3 diversidade /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g54/g54/g40/g42/g56/g53/g36/g53/g3/g40/g39/g56/g38/g36/g100/g173/g50/g3/g40/g54/g51/g40/g38/g44/g36/g47 META: 1 Justificativa:
+
+A PRESENTE EMENDA VISA PROPORCIONAR /g40/g39/g56/g38/g36/g100/g173/g50 ESCOLAR DE QUALIDADE AO ALUNO QUE APRESENTA NECESSIDADES EDUCACIONAIS ESPECIAIS.
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g48/g105/g85/g70/g76/g82/g3/g42/g88/g68/g79/g69/g72/g85/g87/g82 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g21/g20
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3
+
+/g40/g71/g88/g70/g68/g111/g109/g82
+
+/g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g54/g54/g40/g42/g56/g53/g36/g53/g3/g50/g3/g51/g36/g39/g53/g173/g50/g3/g39/g40/g3/g40/g59/g38/g40/g47/g199/g49/g38/g44/g36/g3/g36/g50/g54/g3/g36/g47/g56/g49/g50/g54
+
+META: 1
+
+Justificativa: A PRESENTE EMENDA VISA MELHORAR O ENSINO /g51/g210/g37/g47/g44/g38/g50 PARA O ALUNO, A FIM DE QUE CONCLUA COM O PROJETO DE VIDA PARA O FUTURO.
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g48/g105/g85/g70/g76/g82/g3/g42/g88/g68/g79/g69/g72/g85/g87/g82 /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g21/g21
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g27/g27/g3/g16/g3/g42/g68/g85/g68/g81/g87/g76/g68/g3/g71/g72/g3/g36/g70/g72/g86/g86/g82/g3/g71/g82/g86/g3/g36/g79/g88/g81/g82/g86/g3/g106/g3/g40/g86/g70/g82/g79/g68 NOVO PRODUTO: GARANTIR MATERIAL ESCOLAR AO ALUNO META: 1 Justificativa: A PRESENTE EMENDA VISA GARANTIR O MATERIAL ESCOLAR AO ALUNO /g39/g36/g3/g53/g40/g39/g40/g3/g39/g40/g3/g40/g49/g54/g44/g49/g50/g3/g49/g50/g3/g198/g48/g37/g44/g55/g50/g3/g39/g50/g3/g40/g54/g55/g36/g39/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g48/g105/g85/g70/g76/g82/g3/g42/g88/g68/g79/g69/g72/g85/g87/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g21/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g19/g24/g3/g16/g3/g36/g83/g82/g76/g82/g3/g106/g86/g3/g51/g82/g79/g116/g70/g76/g68/g86/g3/g72/g3/g68/g82/g3/g42/g82/g89/g72/g85/g81/g82/g3/g81/g68/g3/g51/g85/g82/g89/g76/g86/g109/g82/g3/g71/g72/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g51/g126/g69/g79/g76/g70/g68 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g37/g40/g49/g40/g41/g203/g38/g44/g50/g54/g3/g51/g36/g53/g36/g3/g50/g54/g3/g36/g42/g40/g49/g55/g40/g54/g3/g39/g36/g3/g54/g40/g42/g56/g53/g36/g49/g100/g36/g3/g51/g210/g37/g47/g44/g38/g36 META: 1 Justificativa: TRANSPORTES E VALE /g36/g47/g44/g48/g40/g49/g55/g36/g100/g173/g50
+
+A PRESENTE EMENDA VISA ESTABELECER /g37/g40/g49/g40/g41/g203/g38/g44/g50/g54 ADICIONAIS DE PARA TODOS OS AGENTES DE /g54/g40/g42/g56/g53/g36/g49/g100/g36 /g51/g210/g37/g47/g44/g38/g36
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g48/g105/g85/g70/g76/g82/g3/g42/g88/g68/g79/g69/g72/g85/g87/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g21/g23
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g51/g53/g50/g48/g50/g57/g40/g53/g3/g36/g3/g44/g49/g55/g40/g53/g36/g100/g173/g50/g3/g41/g36/g48/g203/g47/g44/g36/g18/g40/g54/g38/g50/g47/g36/g3/g39/g50/g3/g36/g47/g56/g49/g50 META: 1 Justificativa: A PRESENTE EMENDA VISA PROMOVER O MELHOR DESENVOLVIMENTO /g40/g39/g56/g38/g36/g38/g44/g50/g49/g36/g47/g3/g39/g50/g3/g36/g47/g56/g49/g50/g3/g40/g48/g3/g38/g50/g49/g45/g56/g53/g50/g3/g38/g50/g48/g3/g36/g3/g41/g36/g48/g203/g47/g44/g36/g3/g40/g3/g40/g54/g38/g50/g47/g36/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g48/g105/g85/g70/g76/g82/g3/g42/g88/g68/g79/g69/g72/g85/g87/g82
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g22/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g25/g25/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g68/g82/g3/g56/g86/g82/g3/g71/g72/g3/g39/g85/g82/g74/g68/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g26/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g51/g126/g69/g79/g76/g70/g68/g3/g86/g82/g69/g85/g72/g3/g39/g85/g82/g74/g68/g86 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g51/g53/g50/g42/g53/g36/g48/g36/g3/g41/g36/g48/g203/g47/g44/g36/g54/g3/g41/g50/g53/g55/g40/g54 META: 1
+
+Justificativa: A PRESENTE PROPOSTA VISA DESENVOLVER A /g51/g53/g40/g57/g40/g49/g100/g173/g50 POR MEIO DE /g57/g203/g49/g38/g56/g47/g50/g54 FAMILIARES E DESENVOLVIMNETO DE HABILIDADES DE VIDA (PARENTAIS, SOCIAIS, EMOCIONAIS E COGNITIVAS).
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Deputada Marina Do Mst /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g24/g26
+
+PROGRAMA: 0494 - Meio Ambiente e Sustentabilidade INICIATIVA: 0187 - Estudo e Monitoramento de Dados e Impactos Ambientais /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g37/g36/g49/g38/g50/g3/g39/g40/g3/g39/g36/g39/g50/g54/g3/g54/g50/g37/g53/g40/g3/g200/g53/g40/g36/g54/g3/g38/g50/g48/g3/g53/g44/g54/g38/g50/g3/g44/g48/g44/g49/g40/g49/g55/g40/g3/g39/g40/g3/g40/g49/g38/g43/g40/g49/g55/g40/g54/g3 E ALAGAMENTOS. Justificativa: A PRESENTE EMENDA TEM POR FINALIDADE TRAZER CLAREZA NO QUE TANGE /g172/g54 /g36/g100/g174/g40/g54 /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36/g54/g15 POR PARTE DA /g36/g39/g48/g44/g49/g44/g54/g55/g53/g36/g100/g173/g50 /g51/g210/g37/g47/g44/g38/g36/g15 DAS /g200/g53/g40/g36/g54 AS QUAIS DEVE-SE MANTER /g57/g44/g42/g44/g47/g198/g49/g38/g44/g36 CONSTANTE, /g40/g47/g36/g37/g50/g53/g36/g100/g173/g50 DE PLANOS DE /g36/g100/g173/g50 NO CASO DE EVENTOS /g38/g47/g44/g48/g200/g55/g44/g38/g50/g54 EXTREMOS QUE OCASIONEM ENCHENTES E ALAGAMENTOS, E A POSSIBILIDADE DE MELHOR /g36/g55/g40/g49/g100/g173/g50 /g172/g54 /g51/g50/g54/g54/g203/g57/g40/g44/g54/g3/g57/g203/g55/g44/g48/g36/g54/g3/g39/g40/g3/g55/g36/g44/g54/g3/g40/g57/g40/g49/g55/g50/g54/g17
+
+## Deputada Marina Do Mst
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g21/g24/g27 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g21/g3/g16/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g43/g68/g69/g76/g87/g68/g70/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g74/g88/g79/g68/g85/g76/g93/g68/g111/g109/g82/g3/g41/g88/g81/g71/g76/g105/g85/g76/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g21/g21/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g44/g81/g73/g85/g68/g72/g86/g87/g85/g88/g87/g88/g85/g68/g3/g72/g80/g3/g200/g85/g72/g68/g86/g3/g71/g72/g3/g53/g76/g86/g70/g82/g3/g72/g3/g57/g88/g79/g81/g72/g85/g68/g69/g76/g79/g76/g71/g68/g71/g72/g3 /g54/g121/g70/g76/g82/g68/g80/g69/g76/g72/g81/g87/g68/g79
+
+## Id:  2588997
+
+CUIDADOS /g48/g101/g39/g44/g38/g50/g54/g17 AO DIRECIONAR INVESTIMENTOS PARA INSUMOS HOSPITALARES, /g49/g173/g50 APENAS SE ASSEGURA A ADEQUADA /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 /g48/g101/g39/g44/g38/g36 AOS /g44/g49/g39/g44/g57/g203/g39/g56/g50/g54 SOB /g38/g56/g54/g55/g207/g39/g44/g36/g15 MAS /g55/g36/g48/g37/g101/g48 SE CONTRIBUI PARA A /g51/g53/g40/g57/g40/g49/g100/g173/g50 E CONTROLE DE /g39/g50/g40/g49/g100/g36/g54 /g55/g53/g36/g49/g54/g48/g44/g54/g54/g203/g57/g40/g44/g54/g15 PROTEGENDO TANTO A /g51/g50/g51/g56/g47/g36/g100/g173/g50 /g38/g36/g53/g38/g40/g53/g200/g53/g44/g36 QUANTO A SOCIEDADE EM GERAL. /g36/g47/g101/g48 DISSO, AO ADOTAR UMA ABORDAGEM PROATIVA NA /g42/g40/g54/g55/g173/g50 DA /g54/g36/g210/g39/g40 NO AMBIENTE PRISIONAL, A SEAP DEMONSTRA UM COMPROMETIMENTO EFETIVO COM A DIGNIDADE HUMANA E /g53/g40/g41/g50/g53/g100/g36 A /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 DE TRATAR A /g54/g36/g210/g39/g40 COMO UM DIREITO FUNDAMENTAL, MESMO NO CONTEXTO PENAL.
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g23/g25
+
+PROGRAMA: 0442 - Ensino Superior /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g21/g27/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g15/g3/g51/g72/g86/g84/g88/g76/g86/g68/g15/g3/g40/g91/g87/g72/g81/g86/g109/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g23/g26/g3/g16/g3/g37/g50/g47/g54/g36/g3/g39/g50/g3/g47/g36/g37/g50/g53/g36/g55/g207/g53/g44/g50/g3/g38/g44/g39/g36/g39/g40/g54/g3/g38/g50/g49/g38/g40/g39/g44/g39/g36 META: 10 Justificativa: A /g38/g50/g49/g38/g40/g54/g54/g173/g50 DE BOLSAS AO /g47/g36/g37/g50/g53/g36/g55/g207/g53/g44/g50 CIDADES ICS/UERJ POR MEIO DESTA EMENDA /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 /g101 UMA INICIATIVA ESSENCIAL PARA FORTALECER E AMPLIAR AS ATIVIDADES DESSE IMPORTANTE /g49/g210/g38/g47/g40/g50 DE PESQUISA. O CIDADES DESEMPENHA UM PAPEL CRUCIAL NA /g51/g53/g50/g39/g56/g100/g173/g50 DE CONHECIMENTO SOBRE AS /g39/g44/g49/g198/g48/g44/g38/g36/g54 URBANAS, ESPECIALMENTE NO CONTEXTO DO RIO DE JANEIRO, CONTRIBUINDO PARA UMA /g38/g50/g48/g51/g53/g40/g40/g49/g54/g173/g50 MAIS PROFUNDA DOS DESAFIOS E POTENCIAIS DAS CIDADES. AO DIRECIONAR RECURSOS PARA A /g38/g50/g49/g38/g40/g54/g54/g173/g50 DE BOLSAS, A EMENDA VISA APOIAR A /g51/g36/g53/g55/g44/g38/g44/g51/g36/g100/g173/g50 ATIVA DE ESTUDANTES DE /g42/g53/g36/g39/g56/g36/g100/g173/g50 E /g51/g207/g54/g16/g42/g53/g36/g39/g56/g36/g100/g173/g50 NOS PROJETOS E ATIVIDADES DO /g47/g36/g37/g50/g53/g36/g55/g207/g53/g44/g50 CIDADES. ESSA MEDIDA /g49/g173/g50 /g54/g207 /g40/g49/g53/g44/g52/g56/g40/g38/g40/g53/g200 A /g41/g50/g53/g48/g36/g100/g173/g50 /g36/g38/g36/g39/g199/g48/g44/g38/g36 DOS ALUNOS, PROPORCIONANDO UMA /g40/g59/g51/g40/g53/g44/g199/g49/g38/g44/g36 /g51/g53/g200/g55/g44/g38/g36 E MULTIDISCIPLINAR, MAS /g55/g36/g48/g37/g101/g48 /g38/g50/g49/g55/g53/g44/g37/g56/g44/g53/g200 PARA A /g40/g59/g51/g36/g49/g54/g173/g50 E APRIMORAMENTO DAS PESQUISAS URBANAS NA UERJ. A PERSPECTIVA DE /g44/g49/g38/g50/g53/g51/g50/g53/g36/g100/g173/g50 DE PESQUISADORES DE OUTRAS /g44/g49/g54/g55/g44/g55/g56/g44/g100/g174/g40/g54 DEMONSTRA UM COMPROMISSO COM A /g38/g50/g47/g36/g37/g50/g53/g36/g100/g173/g50 /g36/g38/g36/g39/g199/g48/g44/g38/g36 E A /g51/g53/g50/g39/g56/g100/g173/g50 DE CONHECIMENTO EM REDE. /g36/g47/g101/g48 DISSO, AO INVESTIR NAS ATIVIDADES DO /g47/g36/g37/g50/g53/g36/g55/g207/g53/g44/g50 CIDADES, A EMENDA /g53/g40/g41/g50/g53/g100/g36 A /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 DA PESQUISA URBANA COMO UMA FERRAMENTA FUNDAMENTAL PARA ABORDAR /g52/g56/g40/g54/g55/g174/g40/g54 SOCIAIS COMPLEXAS. ISSO /g49/g173/g50 APENAS /g37/g40/g49/g40/g41/g44/g38/g44/g36/g53/g200 A COMUNIDADE /g36/g38/g36/g39/g199/g48/g44/g38/g36/g15 MAS /g55/g36/g48/g37/g101/g48 /g55/g40/g53/g200 IMPACTOS POSITIVOS NA /g38/g50/g48/g51/g53/g40/g40/g49/g54/g173/g50 E NO ENFRENTAMENTO DOS DESAFIOS URBANOS, PROMOVENDO, ASSIM, O DESENVOLVIMENTO /g54/g56/g54/g55/g40/g49/g55/g200/g57/g40/g47 E A MELHORIA DA QUALIDADE DE VIDA NAS CIDADES.
+
+## Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g23/g26
+
+PROGRAMA: 0442 - Ensino Superior /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g19/g21/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g15/g3/g51/g72/g86/g84/g88/g76/g86/g68/g15/g3/g40/g91/g87/g72/g81/g86/g109/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g16 /g54/g68/g126/g71/g72 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g24/g26/g3/g16/g3/g40/g52/g56/g44/g51/g36/g48/g40/g49/g55/g50/g3/g48/g40/g39/g44/g39/g50/g53/g3/g39/g40/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g200/g42/g56/g36/g3/g36/g39/g52/g56/g44/g53/g44/g39/g50 META: 500 Justificativa: TRATA-SE DE UM PROJETO EM /g38/g50/g47/g36/g37/g50/g53/g36/g100/g173/g50 ENTRE O IBRAG/UERJ, IMS/UERJ E A FIOCRUZ ESCOLA NACIONAL DE /g54/g36/g210/g39/g40 /g51/g210/g37/g47/g44/g38/g36/g15 NA /g200/g53/g40/g36 DE /g54/g36/g210/g39/g40 AMBIENTAL, DA /g57/g44/g42/g44/g47/g198/g49/g38/g44/g36 EM /g54/g36/g210/g39/g40 E MEDICINA SOCIAL, ENVOLVENDO ALUNOS DOS PROGRAMAS DE /g51/g207/g54/g16/g42/g53/g36/g39/g56/g36/g100/g173/g50/g29 /g54/g36/g210/g39/g40 /g51/g210/g37/g47/g44/g38/g36 E MEIO AMBIENTE (STRICTO SENSU), DA /g200/g53/g40/g36 DE PESQUISA /g42/g40/g54/g55/g173/g50 E SANEAMENTO AMBIENTAL; E DE /g42/g40/g54/g55/g173/g50 E TECNOLOGIAS DO SANEAMENTO (LATO SENSU) ENVOLVENDO EQUIPES DA /g38/g50/g50/g51/g40/g53/g36/g100/g173/g50/g3/g54/g50/g38/g44/g36/g47/g3/g39/g36/g3/g51/g53/g40/g54/g44/g39/g199/g49/g38/g44/g36/g3/g39/g36/g3/g41/g44/g50/g38/g53/g56/g61/g17 O PROJETO VISA A /g44/g49/g57/g40/g54/g55/g44/g42/g36/g100/g173/g50 DA QUALIDADE /g54/g36/g49/g44/g55/g200/g53/g44/g36 DA /g200/g42/g56/g36 DE CONSUMO DE MORADORES DE COMUNIDADES, PORTANTO /g40/g54/g55/g200 ENVOLVIDO NA /g55/g40/g48/g200/g55/g44/g38/g36 DA /g57/g44/g42/g44/g47/g198/g49/g38/g44/g36/g3/g40/g48/g3/g54/g36/g210/g39/g40/g17 ESSE PROJETO TEM COMO OBJETIVO VERIFICAR SE A QUALIDADE /g54/g36/g49/g44/g55/g200/g53/g44/g36 DA /g200/g42/g56/g36 RECEBIDA POR MORADORES DE COMUNIDADES NO ERJ /g40/g54/g55/g173/g50 DENTRO DOS QUATRO /g51/g36/g39/g53/g174/g40/g54 ESTABELECIDOS NA DIRETRIZ NACIONAL DO PLANO DE
+
+<!-- image -->
+
+ESTADO
+
+DO
+
+JANEIRO
+
+RIO
+
+DO
+
+DE
+
+AMOSTRAGEM DA /g57/g44/g42/g44/g47/g198/g49/g38/g44/g36 DA QUALIDADE DA /g200/g42/g56/g36 PARA CONSUMO HUMANO DO /g48/g44/g49/g44/g54/g55/g101/g53/g44/g50 DA /g54/g36/g210/g39/g40/g15 DEFINIDO PELA SECRETARIA DE /g57/g44/g42/g44/g47/g198/g49/g38/g44/g36 EM /g54/g36/g210/g39/g40/g15 SENDO ELES AS /g36/g49/g200/g47/g44/g54/g40/g54 /g41/g203/g54/g44/g38/g50/g16/g52/g56/g203/g48/g44/g38/g36/g54 (CLORO RESIDUAL LIVRE E TURBIDEZ) E /g38/g50/g47/g44/g48/g101/g55/g53/g44/g38/g36/g54/g3/g11/g38/g50/g47/g44/g41/g50/g53/g48/g40/g54/g3/g55/g50/g55/g36/g44/g54/g3/g40/g3/g40/g54/g38/g43/g40/g53/g44/g38/g43/g44/g36/g3/g38/g50/g47/g44/g12/g17
+
+Deputada Dani Monteiro
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g23/g27
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g20/g3/g16/g3/g36/g87/g72/g81/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79/g3/g106/g3/g54/g68/g126/g71/g72
+
+/g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g24/g22/g3/g16/g3/g38/g40/g49/g55/g53/g50/g3/g39/g40/g3/g38/g50/g49/g57/g44/g57/g199/g49/g38/g44/g36/g3/g40/g3/g38/g56/g47/g55/g56/g53/g36/g3/g40/g54/g55/g53/g56/g55/g56/g53/g36/g39/g50
+
+META: 1 Justificativa: A /g39/g40/g54/g55/g44/g49/g36/g100/g173/g50 DE INVESTIMENTOS PARA A /g40/g54/g55/g53/g56/g55/g56/g53/g36/g100/g173/g50 DO CENTRO DE /g38/g50/g49/g57/g44/g57/g199/g49/g38/g44/g36 E CULTURA FAZENDO ARTE, COM O OBJETIVO DE APOIAR A REDE DE /g36/g55/g40/g49/g100/g173/g50 PSICOSSOCIAL (RAPS) POR MEIO DO FUNDO ESTADUAL DA /g54/g36/g210/g39/g40 /g11/g55/g53/g36/g49/g54/g41/g40/g53/g199/g49/g38/g44/g36 FUNDO A FUNDO), REPRESENTA UMA MEDIDA /g40/g54/g55/g53/g36/g55/g101/g42/g44/g38/g36 E HUMANIZADA NO FORTALECIMENTO DOS /g54/g40/g53/g57/g44/g100/g50/g54 DE /g54/g36/g210/g39/g40 MENTAL. O CENTRO DE /g38/g50/g49/g57/g44/g57/g199/g49/g38/g44/g36 E CULTURA FAZENDO ARTE DESEMPENHA UM PAPEL CRUCIAL NA /g51/g53/g50/g48/g50/g100/g173/g50 DA /g44/g49/g38/g47/g56/g54/g173/g50 SOCIAL, NA /g51/g53/g40/g57/g40/g49/g100/g173/g50 DE TRANSTORNOS MENTAIS E NO APOIO AO PROCESSO DE /g53/g40/g36/g37/g44/g47/g44/g55/g36/g100/g173/g50 PSICOSSOCIAL. AO VIABILIZAR INVESTIMENTOS PARA A /g40/g54/g55/g53/g56/g55/g56/g53/g36/g100/g173/g50 DESSE CENTRO, A EMENDA BUSCA CRIAR UM AMBIENTE ACOLHEDOR E /g51/g53/g50/g51/g203/g38/g44/g50 AO DESENVOLVIMENTO DE ATIVIDADES CULTURAIS E DE /g38/g50/g49/g57/g44/g57/g199/g49/g38/g44/g36/g15 FUNDAMENTAIS PARA O BEM-ESTAR E A /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 DOS /g56/g54/g56/g200/g53/g44/g50/g54 DA RAPS. ESSA ABORDAGEM ALINHA-SE COM UMA /g57/g44/g54/g173/g50 MAIS AMPLA DA /g54/g36/g210/g39/g40 MENTAL, QUE RECONHECE A /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 DA /g44/g49/g55/g40/g42/g53/g36/g100/g173/g50 COM A CULTURA E A COMUNIDADE NA /g51/g53/g50/g48/g50/g100/g173/g50 DA /g54/g36/g210/g39/g40 MENTAL E NA /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DE /g53/g40/g47/g36/g100/g174/g40/g54 SOCIAIS /g54/g36/g56/g39/g200/g57/g40/g44/g54/g17 AO CANALIZAR OS RECURSOS /g36/g55/g53/g36/g57/g101/g54 DO FUNDO ESTADUAL DA /g54/g36/g210/g39/g40 VIA /g55/g53/g36/g49/g54/g41/g40/g53/g199/g49/g38/g44/g36 FUNDO A FUNDO, A EMENDA ASSEGURA UMA /g42/g40/g54/g55/g173/g50 EFICIENTE E TRANSPARENTE DOS INVESTIMENTOS, GARANTINDO QUE OS RECURSOS SEJAM DIRECIONADOS DIRETAMENTE PARA A /g40/g54/g55/g53/g56/g55/g56/g53/g36/g100/g173/g50 E /g50/g51/g40/g53/g36/g100/g173/g50 DO CENTRO DE /g38/g50/g49/g57/g44/g57/g199/g49/g38/g44/g36 E CULTURA FAZENDO ARTE. DESSA FORMA, A INICIATIVA /g49/g173/g50 APENAS FORTALECE A INFRAESTRUTURA DE APOIO /g172 /g54/g36/g210/g39/g40 MENTAL, MAS /g55/g36/g48/g37/g101/g48 CONTRIBUI PARA A /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DE UMA REDE MAIS INTEGRADA E EFICAZ DE /g36/g55/g40/g49/g100/g173/g50 PSICOSSOCIAL /g49/g50/g3/g198/g48/g37/g44/g55/g50/g3/g40/g54/g55/g36/g39/g56/g36/g47/g17
+
+## Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g23/g28
+
+PROGRAMA: 0498 - Direitos Humanos e Cidadania
+
+INICIATIVA: 0131 - Oportunidade e Desenvolvimento da Cidadania
+
+/g51/g53/g50/g39/g56/g55/g50/g29/g3/g26/g21/g28/g28/g3/g16/g3/g40/g89/g72/g81/g87/g82/g3/g71/g72/g3/g83/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g86/g3/g83/g82/g79/g116/g87/g76/g70/g68/g86/g3/g71/g72/g3/g80/g76/g74/g85/g68/g111/g109/g82/g3/g72/g3/g85/g72/g73/g126/g74/g76/g82/g3/g85/g72/g68/g79/g76/g93/g68/g71/g82
+
+META: 2
+
+Justificativa: VENHO, POR MEIO DESTA, JUSTIFICAR A NECESSIDADE E /g56/g53/g42/g199/g49/g38/g44/g36 NA
+
+/g39/g40/g54/g55/g44/g49/g36/g100/g173/g50
+
+DE EMENDA PARLAMENTAR PARA APOIAR A /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 DA LEI
+
+9567/22,
+
+A
+
+QUAL /g39/g44/g54/g51/g174/g40
+
+SOBRE A /g40/g47/g36/g37/g50/g53/g36/g100/g173/g50
+
+DE /g53/g40/g47/g36/g55/g207/g53/g44/g50/g54 COM DADOS
+
+/g40/g54/g55/g36/g55/g203/g54/g55/g44/g38/g50/g54 RELACIONADOS AOS REFUGIADOS NO /g198/g48/g37/g44/g55/g50 DO ESTADO DO RIO DE
+
+JANEIRO.
+
+DE
+
+/g44/g49/g41/g50/g53/g48/g36/g100/g174/g40/g54
+
+/g53/g40/g47/g36/g55/g207/g53/g44/g50
+
+ACORDO
+
+/g5/g53/g40/g41/g210/g42/g44/g50/g54
+
+DIVULGADAS
+
+NA
+
+/g25/g157
+
+/g40/g39/g44/g100/g173/g50
+
+COM
+
+DO
+
+EM /g49/g210/g48/g40/g53/g50/g54/g5/g15
+
+APRESENTADO PELO /g38/g50/g48/g44/g55/g199
+
+NACIONAL
+
+PARA OS REFUGIADOS (CONARE), AO /g55/g101/g53/g48/g44/g49/g50 DO ANO DE 2020, CONTABILIZAVAM-
+
+SE
+
+PESSOAS
+
+OFICIALMENTE
+
+RECONHECIDAS
+
+REFUGIADAS
+
+NO
+
+57.099
+
+BRASIL.
+
+APENAS NO MESMO ANO, FORAM REGISTRADAS 28.899 NOVAS /g54/g50/g47/g44/g38/g44/g55/g36/g100/g174/g40/g54 DA
+
+/g38/g50/g49/g39/g44/g100/g173/g50 DE REFUGIADO EM /g55/g40/g53/g53/g44/g55/g207/g53/g44/g50 NACIONAL. NO ENTANTO, /g101 ALARMANTE
+
+A /g36/g56/g54/g199/g49/g38/g44/g36 DE DADOS MAIS PRECISOS ACERCA DOS REFUGIADOS RESIDENTES OU
+
+/g37/g40/g49/g40/g41/g44/g38/g44/g200/g53/g44/g50/g54
+
+NO ESTADO DO RIO DE JANEIRO. /g36/g55/g101 O
+
+DE /g51/g50/g47/g203/g55/g44/g38/g36/g54
+
+/g51/g210/g37/g47/g44/g38/g36/g54
+
+MOMENTO, AS /g44/g49/g41/g50/g53/g48/g36/g100/g174/g40/g54
+
+/g39/g44/g54/g51/g50/g49/g203/g57/g40/g44/g54
+
+REALIZADOS POR /g50/g53/g42/g36/g49/g44/g61/g36/g100/g174/g40/g54
+
+/g54/g173/g50 LIMITADAS AOS LEVANTAMENTOS
+
+/g49/g173/g50/g16/g42/g50/g57/g40/g53/g49/g36/g48/g40/g49/g55/g36/g44/g54 DEDICADAS A ASSISTIR
+
+ESSA /g51/g50/g51/g56/g47/g36/g100/g173/g50/g17
+
+DIANTE DESSE /g38/g40/g49/g200/g53/g44/g50/g15
+
+CONSOLIDAR
+
+REFUGIADOS
+
+/g36/g49/g200/g47/g44/g54/g40
+
+RESSALTO A /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 CRUCIAL DE
+
+/g40/g54/g51/g40/g38/g203/g41/g44/g38/g36/g54
+
+SOBRE A /g54/g44/g55/g56/g36/g100/g173/g50 CONCRETA DOS
+
+/g44/g49/g41/g50/g53/g48/g36/g100/g174/g40/g54
+
+EM NOSSO ESTADO. SOMENTE POR MEIO DA /g54/g44/g54/g55/g40/g48/g36/g55/g44/g61/g36/g100/g173/g50
+
+E
+
+DESSES DADOS /g54/g40/g53/g200 /g51/g50/g54/g54/g203/g57/g40/g47
+
+/g51/g210/g37/g47/g44/g38/g36/g54 MAIS
+
+DESENVOLVER /g51/g50/g47/g203/g55/g44/g38/g36/g54
+
+EFICIENTES, QUE VISEM /g172 /g44/g49/g55/g40/g42/g53/g36/g100/g173/g50 PLENA DOS REFUGIADOS NA SOCIEDADE
+
+FLUMINENSE. PORTANTO, DESTINO A EMENDA PARLAMENTAR PARA FINANCIAR A COLETA, PROCESSAMENTO E /g39/g44/g57/g56/g47/g42/g36/g100/g173/g50 DESSAS /g44/g49/g41/g50/g53/g48/g36/g100/g174/g40/g54/g15 PROPORCIONANDO UMA BASE /g54/g207/g47/g44/g39/g36 PARA O DESENVOLVIMENTO DE /g40/g54/g55/g53/g36/g55/g101/g42/g44/g36/g54 GOVERNAMENTAIS VOLTADAS /g172 /g44/g49/g38/g47/g56/g54/g173/g50 E ACOLHIMENTO EFETIVO DOS REFUGIADOS NO ESTADO DO RIO DE JANEIRO. CERTAMENTE, ESSA INICIATIVA /g38/g50/g49/g55/g53/g44/g37/g56/g44/g53/g200 /g49/g173/g50 APENAS PARA O CUMPRIMENTO DOS /g51/g53/g44/g49/g38/g203/g51/g44/g50/g54 FUNDAMENTAIS DOS DIREITOS HUMANOS, MAS /g55/g36/g48/g37/g101/g48 PARA A /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DE UMA SOCIEDADE /g48/g36/g44/g54/g3/g45/g56/g54/g55/g36/g15/g3/g54/g50/g47/g44/g39/g200/g53/g44/g36/g3/g40/g3/g44/g49/g38/g47/g56/g54/g44/g57/g36/g17
+
+Deputada Dani Monteiro
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g24/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g28/g3/g16/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g37/g72/g81/g86/g3/g38/g88/g79/g87/g88/g85/g68/g76/g86/g3/g72/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g38/g88/g79/g87/g88/g85/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g25/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g72/g3/g39/g72/g80/g82/g70/g85/g68/g87/g76/g93/g68/g111/g109/g82/g3/g106/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g36/g70/g72/g86/g86/g82/g3/g68/g3/g38/g88/g79/g87/g88/g85/g68 PRODUTO: 8943 - ATIVIDADE CULTURAL EXTRA-CURRICULAR FOMENTADA META: 40 Justificativa: A PROPOSTA DE EMENDA PARA O FOMENTO DE ATIVIDADES CULTURAIS EXTRA-CURRICULARES EM ITAPERUNA VISA ENRIQUECER O AMBIENTE EDUCACIONAL E PROMOVER O DESENVOLVIMENTO INTEGRAL DOS ESTUDANTES. AO DIRECIONAR RECURSOS PARA ATIVIDADES CULTURAIS /g36/g47/g101/g48 DO /g38/g56/g53/g53/g203/g38/g56/g47/g50 REGULAR, A EMENDA BUSCA PROPORCIONAR /g40/g59/g51/g40/g53/g44/g199/g49/g38/g44/g36/g54 ENRIQUECEDORAS, ESTIMULANDO A CRIATIVIDADE, /g40/g59/g51/g53/g40/g54/g54/g173/g50 /g36/g53/g55/g203/g54/g55/g44/g38/g36 E O INTERESSE PELOS DIVERSOS ASPECTOS CULTURAIS. O INVESTIMENTO EM ATIVIDADES CULTURAIS EXTRA-CURRICULARES /g49/g173/g50 APENAS AMPLIA O LEQUE DE OPORTUNIDADES EDUCACIONAIS PARA OS ESTUDANTES, MAS /g55/g36/g48/g37/g101/g48 CONTRIBUI PARA A /g41/g50/g53/g48/g36/g100/g173/g50 DE /g38/g44/g39/g36/g39/g173/g50/g54 MAIS CONSCIENTES E CULTURALMENTE ENRIQUECIDOS. ESSAS ATIVIDADES PODEM ABRANGER /g200/g53/g40/g36/g54 COMO /g48/g210/g54/g44/g38/g36/g15 TEATRO, /g39/g36/g49/g100/g36/g15 ARTES VISUAIS, LITERATURA E OUTRAS /g48/g36/g49/g44/g41/g40/g54/g55/g36/g100/g174/g40/g54 CULTURAIS, PROPORCIONANDO UM AMBIENTE EDUCATIVO MAIS DIVERSIFICADO E INCLUSIVO. AO CENTRAR OS /g40/g54/g41/g50/g53/g100/g50/g54 EM ITAPERUNA, A EMENDA DEMONSTRA UM COMPROMISSO COM O FORTALECIMENTO DA IDENTIDADE CULTURAL LOCAL, INCENTIVANDO A /g51/g36/g53/g55/g44/g38/g44/g51/g36/g100/g173/g50 ATIVA DA COMUNIDADE NAS ATIVIDADES PROPOSTAS. /g36/g47/g101/g48 DISSO, INVESTIR EM ATIVIDADES CULTURAIS EXTRACURRICULARES CONTRIBUI PARA A /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DE UM AMBIENTE ESCOLAR MAIS MOTIVADOR, CAPAZ DE ESTIMULAR O INTERESSE E A /g51/g40/g53/g48/g36/g49/g199/g49/g38/g44/g36 DOS ALUNOS NA ESCOLA. ESSA EMENDA /g49/g173/g50 APENAS FORTALECE A OFERTA EDUCACIONAL EM ITAPERUNA, MAS /g55/g36/g48/g37/g101/g48 RECONHECE A /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 DAS ATIVIDADES CULTURAIS COMO INSTRUMENTO DE DESENVOLVIMENTO PESSOAL E SOCIAL, PROMOVENDO UMA /g40/g39/g56/g38/g36/g100/g173/g50 MAIS ABRANGENTE E SIGNIFICATIVA PARA OS ESTUDANTES.
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g24/g20
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g20/g22/g25/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g47/g72/g74/g76/g86/g79/g68/g87/g76/g89/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g28/g26/g3/g16/g3/g36/g55/g40/g49/g39/g44/g48/g40/g49/g55/g50/g3/g172/g54/g3/g39/g40/g48/g36/g49/g39/g36/g54/g3/g39/g36/g3/g54/g50/g38/g44/g40/g39/g36/g39/g40 PRODUTO: 8940 - MEPCT OPERACIONALIZADO META: 1 Justificativa: A /g38/g53/g44/g36/g100/g173/g50 DE UMA EMENDA /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 DESTINADA AO MECANISMO ESTADUAL DE COMBATE /g172 TORTURA DO RIO DE JANEIRO (MEPCT/RJ) /g101 ESSENCIAL PARA FORTALECER AS ATIVIDADES DESSE /g207/g53/g42/g173/g50 CRUCIAL NA DEFESA DOS DIREITOS HUMANOS E NA /g51/g53/g40/g57/g40/g49/g100/g173/g50 DA TORTURA EM /g40/g54/g51/g36/g100/g50/g54 DE /g51/g53/g44/g57/g36/g100/g173/g50 DE LIBERDADE. DADA A /g53/g40/g47/g40/g57/g198/g49/g38/g44/g36 DA /g48/g44/g54/g54/g173/g50 DO MEPCT/RJ, QUE SE ALINHA /g172/g54 DIRETRIZES DA ONU, /g101 IMPERATIVO ASSEGURAR RECURSOS ADEQUADOS PARA QUE O /g207/g53/g42/g173/g50 POSSA DESEMPENHAR EFETIVAMENTE SUAS /g36/g55/g53/g44/g37/g56/g44/g100/g174/g40/g54/g15 TAIS COMO A /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE VISITAS /g51/g40/g53/g44/g207/g39/g44/g38/g36/g54/g15 A /g44/g39/g40/g49/g55/g44/g41/g44/g38/g36/g100/g173/g50 DE /g54/g44/g55/g56/g36/g100/g174/g40/g54 DE RISCO E A /g53/g40/g38/g50/g48/g40/g49/g39/g36/g100/g173/g50 DE MEDIDAS PARA /g36/g39/g40/g52/g56/g36/g100/g173/g50 DOS /g40/g54/g51/g36/g100/g50/g54 DE /g51/g53/g44/g57/g36/g100/g173/g50 DE LIBERDADE AOS /g51/g36/g39/g53/g174/g40/g54 INTERNACIONAIS E NACIONAIS. A EMENDA PROPOSTA VISA GARANTIR QUE O MEPCT/RJ TENHA OS MEIOS /g49/g40/g38/g40/g54/g54/g200/g53/g44/g50/g54 PARA CUMPRIR SUA IMPORTANTE /g41/g56/g49/g100/g173/g50 NA /g51/g53/g50/g55/g40/g100/g173/g50 DOS DIREITOS FUNDAMENTAIS E NA
+
+/g51/g53/g50/g48/g50/g100/g173/g50/g3/g39/g40/g3/g56/g48/g3/g54/g44/g54/g55/g40/g48/g36/g3/g39/g40/g3/g51/g53/g44/g57/g36/g100/g173/g50/g3/g39/g40/g3/g47/g44/g37/g40/g53/g39/g36/g39/g40/g3/g48/g36/g44/g54/g3/g43/g56/g48/g36/g49/g50/g3/g40/g3/g45/g56/g54/g55/g50/g17
+
+## Deputada Dani Monteiro
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g24/g21 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g21/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g44/g74/g88/g68/g79/g71/g68/g71/g72/g3/g53/g68/g70/g76/g68/g79 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g21/g21/g28/g27/g3/g16/g3/g38/g68/g80/g83/g68/g81/g75/g68/g3/g71/g72/g3/g83/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g76/g74/g88/g68/g79/g71/g68/g71/g72/g3/g85/g68/g70/g76/g68/g79/g3/g85/g72/g68/g79/g76/g93/g68/g71/g68 META: 10 /g45/g88/g86/g87/g76/g73/g76/g70/g68/g87/g76/g89/g68/g29/g3/g51/g53/g50/g48/g50/g100/g173/g50/g3/g39/g40/g3/g38/g36/g48/g51/g36/g49/g43/g36/g54/g3/g40/g48/g3/g39/g40/g41/g40/g54/g36/g3/g39/g36/g3/g40/g52/g56/g44/g39/g36/g39/g40/g3/g53/g36/g38/g44/g36/g47
+
+Deputada Dani Monteiro
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g24/g22
+
+PROGRAMA: 0442 - Ensino Superior /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g21/g27/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g15/g3/g51/g72/g86/g84/g88/g76/g86/g68/g15/g3/g40/g91/g87/g72/g81/g86/g109/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g23/g24/g3/g16/g3/g47/g36/g37/g50/g53/g36/g55/g207/g53/g44/g50/g3/g39/g40/g3/g51/g40/g54/g52/g56/g44/g54/g36/g3/g39/g40/g3/g40/g54/g55/g56/g39/g50/g54/g3/g48/g44/g42/g53/g36/g55/g207/g53/g44/g50/g54/g3 EQUIPADO META: 1 Justificativa: A /g39/g40/g54/g55/g44/g49/g36/g100/g173/g50 DE RECURSOS PARA A /g36/g52/g56/g44/g54/g44/g100/g173/g50 DE INSUMOS MATERIAIS PARA O /g40/g54/g51/g36/g100/g50 /g41/g203/g54/g44/g38/g50 DO /g47/g36/g37/g50/g53/g36/g55/g207/g53/g44/g50 DE PESQUISA DE ESTUDO /g48/g44/g42/g53/g36/g55/g207/g53/g44/g50/g54 DA UERJ REPRESENTA UM INVESTIMENTO /g40/g54/g55/g53/g36/g55/g101/g42/g44/g38/g50 N /g51/g53/g50/g48/g50/g100/g173/g50 DA PESQUISA E NO /g36/g57/g36/g49/g100/g50 DO CONHECIMENTO SOBRE /g52/g56/g40/g54/g55/g174/g40 /g48/g44/g42/g53/g36/g55/g207/g53/g44/g36/g54/g17 AO GARANTIR OS RECURSOS /g49/g40/g38/g40/g54/g54/g200/g53/g44/g50/g54 PARA INFRAESTRUTURA DO /g47/g36/g37/g50/g53/g36/g55/g207/g53/g44/g50/g15 A EMENDA CONTRIBUI PARA A /g40/g59/g51/g36/g49/g54/g173/g50 APRIMORAMENTO DAS ATIVIDADES DE PESQUISA RELACIONADAS AOS ESTUDO /g48/g44/g42/g53/g36/g55/g207/g53/g44/g50/g54 NA UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO. O INVESTIMENT PROPOSTO /g49/g173/g50 APENAS FORTALECE AS CAPACIDADES /g55/g101/g38/g49/g44/g38/g36/g54 E OPERACIONAI DO /g47/g36/g37/g50/g53/g36/g55/g207/g53/g44/g50/g15 MAS /g55/g36/g48/g37/g101/g48 OFERECE SUPORTE ESSENCIAL PARA /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE PESQUISAS DE ALTA QUALIDADE, QUE PODEM ABORDAR /g52/g56/g40/g54/g55/g174/g40 COMPLEXAS E RELEVANTES RELACIONADAS AOS FLUXOS /g48/g44/g42/g53/g36/g55/g207/g53/g44/g50/g54/g17 /g36/g47/g101/g48 DISSO, A /g36/g48/g51/g47/g44/g36/g100/g173/g50 E REEQUIPAMENTO DA UERJ COMO DESTINO PARA ESSE RECURSOS PROMOVEM A /g40/g59/g38/g40/g47/g199/g49/g38/g44/g36 /g36/g38/g36/g39/g199/g48/g44/g38/g36 E A /g38/g50/g49/g54/g50/g47/g44/g39/g36/g100/g173/g50 D UNIVERSIDADE COMO UM CENTRO DE /g53/g40/g41/g40/g53/g199/g49/g38/g44/g36 EM ESTUDOS /g48/g44/g42/g53/g36/g55/g207/g53/g44/g50/g54/g17 EMENDA SE ALINHA COM A /g48/g44/g54/g54/g173/g50 DA UERJ DE PROMOVER A PESQUISA /g38/g44/g40/g49/g55/g203/g41/g44/g38 E A /g51/g53/g50/g39/g56/g100/g173/g50 DE CONHECIMENTO EM /g200/g53/g40/g36/g54 /g40/g54/g55/g53/g36/g55/g101/g42/g44/g38/g36/g54 PARA DESENVOLVIMENTO SOCIAL E CULTURAL. AO FOCAR NOS ESTUDOS /g48/g44/g42/g53/g36/g55/g207/g53/g44/g50/g54/g15 EMENDA ABORDA UMA /g55/g40/g48/g200/g55/g44/g38/g36 ATUAL E CRUCIAL, FORNECENDO FERRAMENTAS RECURSOS PARA QUE PESQUISADORES POSSAM REALIZAR /g44/g49/g57/g40/g54/g55/g44/g42/g36/g100/g174/g40 INOVADORAS E RELEVANTES PARA A /g38/g50/g48/g51/g53/g40/g40/g49/g54/g173/g50 DAS /g39/g44/g49/g198/g48/g44/g38/g36/g54 /g48/g44/g42/g53/g36/g55/g207/g53/g44/g36/g54 EM RESUMO, A /g39/g40/g54/g55/g44/g49/g36/g100/g173/g50 DESSES RECURSOS /g49/g173/g50 APENAS BENEFICI DIRETAMENTE O /g47/g36/g37/g50/g53/g36/g55/g207/g53/g44/g50 DE PESQUISA DE ESTUDOS /g48/g44/g42/g53/g36/g55/g207/g53/g44/g50/g54 DA UER MAS /g55/g36/g48/g37/g101/g48 CONTRIBUI PARA O /g36/g57/g36/g49/g100/g50 DO CONHECIMENTO E A /g38/g50/g49/g54/g50/g47/g44/g39/g36/g100/g173 DA UNIVERSIDADE COMO UMA /g44/g49/g54/g55/g44/g55/g56/g44/g100/g173/g50 DE /g40/g59/g38/g40/g47/g199/g49/g38/g44/g36 NA /g200/g53/g40/g36 DE ESTUDO /g48/g44/g42/g53/g36/g55/g207/g53/g44/g50/g54/g17
+
+## Deputada Dani Monteiro
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g24/g23
+
+PROGRAMA: 0498 - Direitos Humanos e Cidadania
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g19/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g71/g72/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g43/g88/g80/g68/g81/g82/g86
+
+/g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g55/g40/g49/g39/g44/g48/g40/g49/g55/g50/g3/g40/g3/g51/g53/g50/g55/g40/g100/g173/g50/g3/g36/g3/g38/g53/g44/g36/g49/g100/g36/g54/g3/g40/g3/g36/g39/g50/g47/g40/g54/g38/g40/g49/g55/g40/g54/g3
+
+/g36/g48/g40/g36/g100/g36/g39/g50/g54/g3/g53/g40/g36/g47/g44/g61/g36/g39/g50
+
+META: 600
+
+Justificativa: A /g48/g36/g49/g56/g55/g40/g49/g100/g173/g50 DA CONTINUIDADE DAS ATIVIDADES DO PROGRAMA D /g51/g53/g50/g55/g40/g100/g173/g50 /g172 /g38/g53/g44/g36/g49/g100/g36 E ADOLESCENTE /g36/g48/g40/g36/g100/g36/g39/g50/g54 DE MORTE (PPCAAM) CRIAD EM 2003 PARA PROMOVER A /g51/g53/g50/g55/g40/g100/g173/g50 DA VIDA DE /g38/g53/g44/g36/g49/g100/g36/g54 E ADOLESCENTES EM CONTEXTOS DE /g36/g48/g40/g36/g100/g36 DE MORTE, ASSEGURANDO OS SEUS DIREITO FUNDAMENTAIS, NA PERSPECTIVA DA /g51/g53/g50/g55/g40/g100/g173/g50 INTEGRAL, CONSTRUIND ALTERNATIVAS DE VIDA COM OS PROTEGIDOS E SUA /g41/g36/g48/g203/g47/g44/g36/g15 /g36/g55/g53/g36/g57/g101/g54 DE UM /g51/g50/g47/g203/g55/g44/g38/g36 ARTICULADA ENTRE A REDE EDUCACIONAL, DE /g54/g36/g210/g39/g40/g15 LAZER, CULTURA PROFISSIONALIZANTE, ENTRE OUTRAS.
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g24/g24 PROGRAMA: 0498 - Direitos Humanos e Cidadania
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g19/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g71/g72/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g43/g88/g80/g68/g81/g82/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g27/g27/g20/g3/g16/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g72/g3/g83/g85/g82/g87/g72/g111/g109/g82/g3/g68/g3/g71/g72/g73/g72/g81/g86/g82/g85/g72/g86/g3/g71/g72/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g43/g88/g80/g68/g81/g82/g86/g3/g68/g80/g72/g68/g111/g68/g71/g82/g86/g3 realizado META: 600
+
+Justificativa: A /g48/g36/g49/g56/g55/g40/g49/g100/g173/g50 DA CONTINUIDADE DAS ATIVIDADES DO PROGRAMA DE /g51/g53/g50/g55/g40/g100/g173/g50 AOS DEFENSORES DE DIREITOS HUMANOS (PPDDH) TEM O OBJETIVO DE OFERECER /g51/g53/g50/g55/g40/g100/g173/g50 A DEFENSORES DE DIREITOS HUMANOS, COMUNICADORES E /g36/g48/g37/g44/g40/g49/g55/g36/g47/g44/g54/g55/g36/g54/g3/g52/g56/g40/g3/g40/g54/g55/g40/g45/g36/g48/g3/g40/g48/g3/g54/g44/g55/g56/g36/g100/g173/g50/g3/g39/g40/g3/g53/g44/g54/g38/g50/g3/g50/g56/g3/g54/g50/g41/g53/g40/g49/g39/g50/g3/g36/g48/g40/g36/g100/g36/g54/g17
+
+## Deputada Dani Monteiro
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g24/g25
+
+PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g19/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g71/g72/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g43/g88/g80/g68/g81/g82/g86 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g55/g40/g49/g39/g44/g48/g40/g49/g55/g50/g3/g40/g3/g51/g53/g50/g55/g40/g100/g173/g50/g3/g36/g3/g57/g203/g55/g44/g48/g36/g54/g3/g40/g3/g55/g40/g54/g55/g40/g48/g56/g49/g43/g36/g54/g3 /g36/g48/g40/g36/g100/g36/g39/g36/g54/g3/g53/g40/g36/g47/g44/g61/g36/g39/g50 META: 600
+
+Justificativa: A /g48/g36/g49/g56/g55/g40/g49/g100/g173/g50 DA CONTINUIDADE DAS ATIVIDADES DO PROGRAMA FEDERAL DE /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 A /g57/g203/g55/g44/g48/g36/g54 E A TESTEMUNHAS /g36/g48/g40/g36/g100/g36/g39/g36/g54 - PROVITA CRIADO EM 1999 QUE CONSISTE NO CONJUNTO DE MEDIDAS ADOTADAS PARA PROPORCIONAR /g51/g53/g50/g55/g40/g100/g173/g50 E /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 A PESSOAS /g36/g48/g40/g36/g100/g36/g39/g36/g54 OU COAGIDAS /g39/g40/g57/g44/g39/g50/g3/g172/g3/g54/g56/g36/g3/g38/g50/g47/g36/g37/g50/g53/g36/g100/g173/g50/g3/g38/g50/g48/g3/g44/g49/g57/g40/g54/g55/g44/g42/g36/g100/g174/g40/g54/g3/g50/g56/g3/g51/g53/g50/g38/g40/g54/g54/g50/g54/g3/g38/g53/g44/g48/g44/g49/g36/g44/g54/g17
+
+Deputada Dani Monteiro
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g24/g26
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g20/g3/g16/g3/g36/g87/g72/g81/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79/g3/g106/g3/g54/g68/g126/g71/g72 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g24/g24/g3/g16/g3/g36/g52/g56/g44/g54/g44/g100/g173/g50/g3/g39/g40/g3/g48/g40/g39/g44/g38/g36/g48/g40/g49/g55/g50/g54/g3/g39/g40/g3/g51/g53/g50/g41/g44/g47/g36/g59/g44/g36/g3/g51/g53/g101/g16/g40/g59/g51/g50/g54/g44/g100/g173/g50/g3/g36/g50 HIV PREP VIABILIZADOS META: 500.000 Justificativa: A PREP /g101 A /g38/g50/g48/g37/g44/g49/g36/g100/g173/g50 DE DOIS MEDICAMENTOS (TENOFOVIR + ENTRICITABINA) QUE BLOQUEIAM ALGUNS CAMINHOS QUE O HIV USA PARA INFECTAR O ORGANISMO. SE UTILIZAR PREP DIARIAMENTE, A /g48/g40/g39/g44/g38/g36/g100/g173/g50 PODE IMPEDIR QUE O HIV SE /g40/g54/g55/g36/g37/g40/g47/g40/g100/g36 E SE ESPALHE NO CORPO, FAZENDO UMA ANALOGIA, FUNCIONARIA COMO UM ANTICONCEPCIONAL, UM MEDICAMENTO DE USO /g38/g50/g49/g55/g203/g49/g56/g50/g17 SEGUNDO SITE DO GOVERNO FEDERAL, NO ESTADO DO RIO DE JANEIRO A /g48/g40/g39/g44/g38/g36/g100/g173/g50 /g101 OFERECIDA EM 267 LOCALIDADES.[1] /g49/g173/g50 /g43/g200 OFERTA DO MEDICAMENTO EM VOLTA REDONDA, APENAS DO MEDICAMENTO /g51/g207/g54 /g40/g59/g51/g50/g54/g44/g100/g173/g50/g15 PEP. ACREDITAMOS QUE /g51/g50/g47/g203/g55/g44/g38/g36 DE /g54/g36/g210/g39/g40 DEVA SER MAJORITARIAMENTE PREVENTIVA, PORTANTO/g3/g36/g3/g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36/g3/g39/g40/g3/g50/g41/g40/g53/g55/g36/g53/g3/g50/g3/g48/g40/g39/g44/g38/g36/g48/g40/g49/g55/g50/g17 /g49/g173/g50 /g43/g200 /g38/g200/g47/g38/g56/g47/g50 DE DEMANDA, POIS /g49/g173/g50 /g43/g200 OFERTA, A SECRETARIA DE /g54/g36/g210/g39/g40 /g49/g173/g50 DISPONIBILIZA DADOS NESTE SENTIDO, MAS O MOVIMENTO FRENTE PELA DIVERSIDADE /g40/g54/g55/g200 COM UM ABAIXOASSINADO PEDINDO O MEDICAMENTO E /g45/g200 CONTA COM CERCA DE 400 ASSINATURAS. SEGUNDO DADOS DO SITE DA PREFEITURA, EM 2021, VOLTA REDONDA REGISTROU MAIS 149 NOVOS CASOS DA /g39/g50/g40/g49/g100/g36/g15 A MAIORIA /g101 FORMADA POR PESSOAS COM IDADE ENTRE 20 A 39 ANOS.[2]
+
+NESTAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 FAZEMOS A EMENDA DA COMPRA DE UM LOTE DE /g48/g40/g39/g44/g38/g36/g100/g173/g50 PARA O /g51/g53/g207/g59/g44/g48/g50 ANO ENQUANTO A PREFEITURA /g49/g173/g50 IMPLEMENTA ESSA /g51/g50/g47/g203/g55/g44/g38/g36 NA CIDADE, O QUE PODE INCLUSIVE DEMONSTRAR A DEMANDA NO LOCAL.
+
+Deputada Dani Monteiro
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g24/g27 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g21/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g44/g74/g88/g68/g79/g71/g68/g71/g72/g3/g53/g68/g70/g76/g68/g79 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g26/g23/g26/g21/g3/g16/g3/g38/g68/g80/g83/g68/g81/g75/g68/g3/g83/g68/g85/g68/g3/g71/g72/g73/g72/g86/g68/g3/g72/g3/g83/g85/g72/g86/g72/g85/g89/g68/g111/g109/g82/g3/g71/g68/g3/g80/g72/g80/g121/g85/g76/g68/g3/g71/g72/g3vitimas/g3/g71/g72/g3/g89/g76/g82/g79/g114/g81/g70/g76/g68/g3 realizada META: 10 Justificativa: /g51/g53/g50/g48/g50/g100/g173/g50 DA /g48/g40/g48/g207/g53/g44/g36 E LEGADO DE /g57/g203/g55/g44/g48/g36/g54 DA /g57/g44/g50/g47/g199/g49/g38/g44/g36 DO ESTADO.
+
+## Deputada Dani Monteiro
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g24/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g25/g25/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g68/g82/g3/g56/g86/g82/g3/g71/g72/g3/g39/g85/g82/g74/g68/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g26/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g51/g126/g69/g79/g76/g70/g68/g3/g86/g82/g69/g85/g72/g3/g39/g85/g82/g74/g68/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g27/g24/g19/g3/g16/g3/g53/g72/g76/g81/g86/g72/g85/g111/g109/g82/g3/g86/g82/g70/g76/g68/g79/g3/g71/g68/g3/g83/g72/g86/g86/g82/g68/g3/g71/g72/g83/g72/g81/g71/g72/g81/g87/g72/g3/g84/g88/g116/g80/g76/g70/g68/g3/g85/g72/g68/g79/g76/g93/g68/g71/g68 META: 500 Justificativa: INCLUIR A /g53/g40/g44/g49/g54/g40/g53/g52/g98/g50 SOCIAL DE PESSOAS QUE FAZEM USO ABUSIVO
+
+DE DROGAS NA UNIDADE DE PLANEJAMENTO SECC.
+
+Deputada Dani Monteiro
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g25/g19
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g28/g3/g16/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g37/g72/g81/g86/g3/g38/g88/g79/g87/g88/g85/g68/g76/g86/g3/g72/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g38/g88/g79/g87/g88/g85/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g25/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g72/g3/g39/g72/g80/g82/g70/g85/g68/g87/g76/g93/g68/g111/g109/g82/g3/g106/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g36/g70/g72/g86/g86/g82/g3/g68/g3/g38/g88/g79/g87/g88/g85/g68 PRODUTO: 8941 - PROGRAMA /g179HIP HOP NAS ESCOLAS/g180 IMPLANTADO META: 1
+
+Justificativa: A NECESSIDADE DE UMA EMENDA /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 DESTINADA /g172 /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 DO PROGRAMA "HIP HOP NAS ESCOLAS" NO ESTADO DO RIO DE JANEIRO REFLETE UM COMPROMISSO SIGNIFICATIVO COM O ENRIQUECIMENTO CULTURAL E EDUCACIONAL DOS ESTUDANTES. A /g36/g47/g50/g38/g36/g100/g173/g50 DE RECURSOS ABRANGE A /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CURSOS DE SEIS MESES SOBRE A CULTURA HIP-HOP E SEUS ELEMENTOS, PROMOVENDO APROFUNDAMENTO /g49/g173/g50 APENAS NAS /g40/g59/g51/g53/g40/g54/g54/g174/g40/g54 /g36/g53/g55/g203/g54/g55/g44/g38/g36/g54 DO MOVIMENTO, COMO BREAKING, GRAFITE, RAP, MCS E DJS, MAS /g55/g36/g48/g37/g101/g48 ABORDANDO A ECONOMIA CRIATIVA ASSOCIADA /g172 CULTURA E A /g43/g44/g54/g55/g207/g53/g44/g36 DO MOVIMENTO NO BRASIL E GLOBALMENTE. ESSA INICIATIVA BUSCA /g49/g173/g50 APENAS ESTIMULAR A /g51/g53/g50/g39/g56/g100/g173/g50 /g36/g53/g55/g203/g54/g55/g44/g38/g36 ENTRE OS JOVENS, MAS /g55/g36/g48/g37/g101/g48 CONTRIBUIR PARA A /g53/g40/g39/g56/g100/g173/g50 DA /g40/g57/g36/g54/g173/g50 ESCOLAR, PROMOVENDO A /g44/g49/g55/g40/g42/g53/g36/g100/g173/g50 DA CULTURA NEGRA NA /g57/g44/g57/g199/g49/g38/g44/g36 ESCOLAR E CUMPRINDO A /g47/g40/g42/g44/g54/g47/g36/g100/g173/g50 FEDERAL QUE ESTABELECE O ENSINO DE /g43/g44/g54/g55/g207/g53/g44/g36 E CULTURA AFRO-BRASILEIRA. O CUIDADO COM A /g51/g36/g53/g55/g44/g38/g44/g51/g36/g100/g173/g50 DOS ESTUDANTES, RESPEITANDO A VONTADE DOS PAIS E /g53/g40/g54/g51/g50/g49/g54/g200/g57/g40/g44/g54/g15 E A /g199/g49/g41/g36/g54/g40 NA CONFORMIDADE COM /g51/g53/g44/g49/g38/g203/g51/g44/g50/g54 DE /g51/g53/g50/g55/g40/g100/g173/g50 /g172 /g38/g53/g44/g36/g49/g100/g36 E AO ADOLESCENTE EVIDENCIAM A ABORDAGEM /g53/g40/g54/g51/g50/g49/g54/g200/g57/g40/g47 E INCLUSIVA DESSE INVESTIMENTO, FORTALECENDO O PAPEL DA ESCOLA COMO /g40/g54/g51/g36/g100/g50/g3/g39/g40/g3/g40/g59/g51/g53/g40/g54/g54/g173/g50/g3/g38/g56/g47/g55/g56/g53/g36/g47/g3/g40/g3/g36/g51/g53/g40/g49/g39/g44/g61/g36/g39/g50/g3/g40/g49/g53/g44/g52/g56/g40/g38/g40/g39/g50/g53/g17
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g25/g20
+
+PROGRAMA: 0442 - Ensino Superior /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g21/g27/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g15/g3/g51/g72/g86/g84/g88/g76/g86/g68/g15/g3/g40/g91/g87/g72/g81/g86/g109/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g24/g21/g3/g16/g3/g51/g53/g50/g45/g40/g55/g50/g3/g39/g40/g3/g40/g54/g51/g36/g100/g50/g3/g39/g40/g3/g39/g40/g54/g40/g49/g57/g50/g47/g57/g44/g48/g40/g49/g55/g50/g3/g44/g49/g41/g36/g49/g55/g44/g47/g3 ELABORADO META: 1 Justificativa: A PROPOSTA DE EMENDA PARA O PROJETO DE /g40/g54/g51/g36/g100/g50 DE DESENVOLVIMENTO INFANTIL NA UERJ /g101 UMA INICIATIVA SIGNIFICATIVA QUE VISA ATENDER /g172/g54 NECESSIDADES ESSENCIAIS DAS COMUNIDADES /g36/g38/g36/g39/g199/g48/g44/g38/g36 E CIRCUNVIZINHA. AO DIRECIONAR RECURSOS PARA A /g38/g53/g44/g36/g100/g173/g50 DE UM /g40/g54/g51/g36/g100/g50 DEDICADO AO DESENVOLVIMENTO INFANTIL, A EMENDA /g49/g173/g50 APENAS ATENDE A UMA DEMANDA IMPORTANTE DA COMUNIDADE, MAS /g55/g36/g48/g37/g101/g48 CONTRIBUI PARA A /g51/g53/g50/g48/g50/g100/g173/g50 DO BEM ESTAR, /g40/g39/g56/g38/g36/g100/g173/g50 E /g44/g49/g38/g47/g56/g54/g173/g50/g17 A /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 DE UM /g40/g54/g51/g36/g100/g50 DE DESENVOLVIMENTO INFANTIL NA UERJ OFERECE /g37/g40/g49/g40/g41/g203/g38/g44/g50/g54 SUBSTANCIAIS, INCLUINDO A DISPONIBILIDADE DE CUIDADO E /g40/g39/g56/g38/g36/g100/g173/g50 DE QUALIDADE PARA OS FILHOS DE MEMBROS DA COMUNIDADE /g36/g38/g36/g39/g199/g48/g44/g38/g36/g17 ISSO /g49/g173/g50 APENAS FACILITA A /g38/g50/g49/g38/g44/g47/g44/g36/g100/g173/g50 ENTRE VIDA PROFISSIONAL E FAMILIAR, MAS /g55/g36/g48/g37/g101/g48 CRIA UM AMBIENTE MAIS ACOLHEDOR E INCLUSIVO PARA ESTUDANTES, PROFESSORES E /g41/g56/g49/g38/g44/g50/g49/g200/g53/g44/g50/g54 COM RESPONSABILIDADES PARENTAIS. /g36/g47/g101/g48 DISSO, O PROJETO CONTRIBUI PARA A /g41/g50/g53/g48/g36/g100/g173/g50 INTEGRAL DAS /g38/g53/g44/g36/g49/g100/g36/g54/g15 PROMOVENDO ATIVIDADES EDUCATIVAS, /g47/g210/g39/g44/g38/g36/g54 E SOCIAIS QUE /g54/g173/g50 FUNDAMENTAIS PARA O DESENVOLVIMENTO /g54/g36/g56/g39/g200/g57/g40/g47 NA PRIMEIRA /g44/g49/g41/g198/g49/g38/g44/g36/g17 A EMENDA /g53/g40/g41/g50/g53/g100/g36/g15 ASSIM, O COMPROMISSO DA UERJ COM A RESPONSABILIDADE SOCIAL E A /g38/g53/g44/g36/g100/g173/g50 DE /g38/g50/g49/g39/g44/g100/g174/g40/g54 QUE PERMITAM QUE TODOS OS MEMBROS DA
+
+COMUNIDADE /g36/g38/g36/g39/g199/g48/g44/g38/g36 ALCANCEM SEU PLENO POTENCIAL. AO INVESTIR NA /g38/g53/g44/g36/g100/g173/g50 DE UM /g40/g54/g51/g36/g100/g50 DE DESENVOLVIMENTO INFANTIL, A EMENDA /g49/g173/g50 APENAS ATENDE /g172/g54 DEMANDAS IMEDIATAS DA COMUNIDADE, MAS /g55/g36/g48/g37/g101/g48 SINALIZA UM COMPROMISSO DURADOURO COM O APOIO /g172/g54 /g41/g36/g48/g203/g47/g44/g36/g54 E AO DESENVOLVIMENTO INTEGRAL DAS /g38/g53/g44/g36/g49/g100/g36/g54/g15 PROMOVENDO, ASSIM, UMA UNIVERSIDADE MAIS INCLUSIVA E COMPROMETIDA COM O BEM-ESTAR DE SEUS MEMBROS.
+
+## Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g25/g21
+
+PROGRAMA: 0442 - Ensino Superior /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g25/g3/g16/g3/g36/g83/g82/g76/g82/g3/g68/g82/g3/g40/g81/g86/g76/g81/g82/g15/g3/g51/g72/g86/g84/g88/g76/g86/g68/g15/g3/g40/g91/g87/g72/g81/g86/g109/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g24/g20/g3/g16/g3/g48/g36/g55/g40/g53/g44/g36/g47/g3/g39/g50/g3/g51/g53/g50/g45/g40/g55/g50/g3/g39/g40/g3/g40/g59/g55/g3/g38/g50/g49/g57/g199/g49/g44/g50/g3/g56/g40/g53/g45/g16/g48/g49/g47/g48/g3 VIABILIZADO META: 1
+
+Justificativa: /g38/g50/g50/g51/g40/g53/g36/g100/g173/g50 /g55/g101/g38/g49/g44/g38/g36 ENTRE O PROJETO DE /g40/g59/g55/g40/g49/g54/g173/g50 "CANTEIRO EXPERIMENTAL DE ARQUITETURA E URBANISMO DA UERJ" DO DAU - DEPARTAMENTO DE ARQUITETURA E URBANISMO DA ESDI/UERJ E A /g50/g38/g56/g51/g36/g100/g173/g50 SOLANO TRINDADE (DO MOVIMENTO NACIONAL DE LUTA PELA MORADIA - MNLM): ESTA PROPOSTA TEM COMO OBJETIVO A /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DE UMA UNIDADE MODELO DE MORADIA POPULAR PRODUZIDA DE MODO /g36/g56/g55/g50/g42/g40/g54/g55/g44/g50/g49/g200/g53/g44/g50 COM /g55/g101/g38/g49/g44/g38/g36/g54 DE /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 POPULARES. A PROPOSTA SE JUSTIFICA PARTINDO DE UMA NECESSIDADE ENORME MATERIAL DE MOVIMENTOS POPULARES COMO AGENTES NA /g51/g53/g50/g39/g56/g100/g173/g50 DOS /g40/g54/g51/g36/g100/g50/g54 DA CIDADE. A /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DE UMA UNIDADE MODELO PODE, AO MESMO TEMPO, FUNCIONAR COMO UM PROCESSO DE ENSINO E APRENDIZAGEM ENTRE UNIVERSIDADE E MOVIMENTO POPULAR E /g40/g59/g51/g40/g53/g44/g48/g40/g49/g55/g36/g100/g173/g50 /g51/g53/g200/g55/g44/g38/g36 CONSTRUTIVA DE MODOS DE /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 QUE POSSAM PARTICIPAR NA /g42/g40/g53/g36/g100/g173/g50 DE TRABALHO E DE RENDA PARA O /g51/g53/g207/g51/g53/g44/g50 MOVIMENTO. A PROPOSTA SE JUSTIFICA POR AMPLIAR A /g38/g50/g47/g36/g37/g50/g53/g36/g100/g173/g50 ENTRE ATORES /g56/g49/g44/g57/g40/g53/g54/g44/g55/g200/g53/g44/g50/g54 E /g50/g53/g42/g36/g49/g44/g61/g36/g100/g174/g40/g54 POPULARES DEMANDANTES DE TECNOLOGIAS SOCIAIS, NO SENTIDO DO DESENVOLVIMENTO DE FORMAS ASSOCIATIVAS DE TRABALHO E DE /g51/g53/g50/g39/g56/g100/g173/g50 DO AMBIENTE /g38/g50/g49/g54/g55/g53/g56/g203/g39/g50 URBANO. PARA ISSO, A BASE DA /g36/g100/g173/g50 /g101 NAS /g51/g53/g200/g55/g44/g38/g36/g54 EDUCATIVAS HUMANIZADORAS, VINCULANDO CRITICAMENTE O SABER /g36/g38/g36/g39/g199/g48/g44/g38/g50 COM O SABER POPULAR NAS ETAPAS DE PLANEJAMENTO, /g40/g59/g40/g38/g56/g100/g173/g50 E /g36/g57/g36/g47/g44/g36/g100/g173/g50 DOS PROJETOS DE ASSESSORIA NA /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 DA QUALIDADE AMBIENTAL, NA /g38/g50/g49/g38/g40/g51/g100/g173/g50 /g36/g53/g52/g56/g44/g55/g40/g55/g208/g49/g44/g38/g36 E /g56/g53/g37/g36/g49/g203/g54/g55/g44/g38/g36 DOS EMPREENDIMENTOS HABITACIONAIS E NOS SEUS PROCESSOS CONSTRUTIVOS.
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g25/g22
+
+PROGRAMA: 0442 - Ensino Superior
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g25/g3/g16/g3/g36/g83/g82/g76/g82/g3/g68/g82/g3/g40/g81/g86/g76/g81/g82/g15/g3/g51/g72/g86/g84/g88/g76/g86/g68/g15/g3/g40/g91/g87/g72/g81/g86/g109/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82
+
+/g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g23/g27/g3/g16/g3/g51/g53/g50/g45/g40/g55/g50/g3/g39/g40/g3/g40/g59/g55/g40/g49/g54/g173/g50/g3/g36/g51/g50/g44/g36/g39/g50
+
+META: 1
+
+Justificativa: ESSE PROJETO REPRESENTA IMPORTANTE ELO ENTRE A UNIVERSIDADE E A COMUNIDADE, COM A /g39/g44/g57/g56/g47/g42/g36/g100/g173/g50 DA /g38/g44/g199/g49/g38/g44/g36 DE MANEIRA /g47/g210/g39/g44/g38/g36 E INTERATIVA, DE FORMA A SENSIBILIZAR O /g51/g210/g37/g47/g44/g38/g50 PARA /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 DO CONHECIMENTO /g38/g44/g40/g49/g55/g203/g41/g44/g38/g50 E, PARA A /g39/g44/g57/g56/g47/g42/g36/g100/g173/g50 DE TECNOLOGIAS SOCIALMENTE JUSTAS, AMBIENTALMENTE CORRETAS E ECONOMICAMENTE /g57/g44/g200/g57/g40/g44/g54/g17 ENTRETANTO, NO MOMENTO, O /g40/g54/g51/g36/g100/g50 DA /g38/g44/g199/g49/g38/g44/g36 /g40/g54/g55/g200 FECHADO, NECESSITANDO DE /g48/g36/g49/g56/g55/g40/g49/g100/g173/g50 PARA QUE POSSA CONTINUAR ATENDENDO AO /g51/g210/g37/g47/g44/g38/g50/g17 ISTO COMPREENDE A /g54/g56/g37/g54/g55/g44/g55/g56/g44/g100/g173/g50 DA TENDA DE LONA, A /g38/g47/g44/g48/g36/g55/g44/g61/g36/g100/g173/g50 E REFORMA DO PISO, BEM COMO A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE RECURSOS DE ACESSIBILIDADES E POSSIBILIDADE A /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DE UMA /g40/g59/g51/g50/g54/g44/g100/g173/g50 PERMANENTE. A /g53/g40/g57/g44/g55/g36/g47/g44/g61/g36/g100/g173/g50 DESSE /g40/g54/g51/g36/g100/g50 /g51/g50/g54/g54/g44/g37/g44/g47/g44/g55/g36/g53/g200 A /g38/g53/g44/g36/g49/g100/g36/g54/g15 ADOLESCENTES E ADULTOS, DO INTERIOR DO ESTADO DO RIO DE JANEIRO, PRINCIPALMENTE DE COMUNIDADES RURAIS E PEQUENOS DISTRITOS, A POSSIBILIDADE DE TEREM ACESSO A /g44/g49/g41/g50/g53/g48/g36/g100/g174/g40/g54 QUE /g51/g50/g39/g40/g53/g173/g50 INFLUENCIAR NAS ESCOLHAS E NO FUTURO DE /g57/g200/g53/g44/g50/g54 ESTUDANTES. /g49/g173/g50 MENOS IMPORTANTE, CONSISTE /g55/g36/g48/g37/g101/g48 EM UM IMPORTANTE PONTO /g55/g56/g53/g203/g54/g55/g44/g38/g50 E CULTURAL PARA A CIDADE DE CAMPOS DOS GOYTACAZES. A /g51/g53/g40/g57/g44/g54/g173/g50 DE VISITAS ANUAIS NO /g40/g54/g51/g36/g100/g50
+
+DA /g38/g44/g199/g49/g38/g44/g36 /g101 DE CERCA DE 20 MIL PESSOAS DURANTE VISITAS GUIADAS PARA
+
+/g40/g54/g55/g56/g39/g36/g49/g55/g40/g54/g3/g40/g3/g51/g210/g37/g47/g44/g38/g50/g3/g40/g48/g3/g42/g40/g53/g36/g47/g17 Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g25/g23 PROGRAMA: 0498 - Direitos Humanos e Cidadania INICIATIVA: 0176 - Defesa dos Direitos LGBTQIA+ /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g36/g48/g51/g36/g49/g43/g36/g3/g39/g40/g3/g38/g50/g48/g37/g36/g55/g40/g3/g172/g3/g39/g44/g54/g38/g53/g44/g48/g44/g49/g36/g100/g173/g50/g3/g47/g42/g37/g55/g52/g44/g36/g14/g3/g53/g40/g36/g47/g44/g61/g36/g39/g36 META: 1 Justificativa: PROPOSTA DE EMENDA DESTINADA /g172 /g38/g53/g44/g36/g100/g173/g50 DE UM /g38/g50/g49/g57/g199/g49/g44/g50 DA SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL E DE DIREITOS HUMANOS (SEDSODH) COM A SECRETARIA MUNICIPAL DE DIREITOS HUMANOS (SMDH) DE /g49/g44/g55/g40/g53/g207/g44/g17 ESSA INICIATIVA /g101 JUSTIFICADA PELA NECESSIDADE DE /g38/g40/g47/g40/g37/g53/g36/g100/g173/g50 DE UM ACORDO ENTRE ESSES /g207/g53/g42/g173/g50/g54/g15 BUSCANDO DESTINAR RECURSOS DA LOA PARA A /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CAMPANHAS DE /g38/g50/g49/g54/g38/g44/g40/g49/g55/g44/g61/g36/g100/g173/g50 SOBRE DIREITOS HUMANOS, DIVERSIDADE E COMBATE /g172/g54 /g39/g44/g54/g38/g53/g44/g48/g44/g49/g36/g100/g174/g40/g54 NO /g48/g56/g49/g44/g38/g203/g51/g44/g50 DE /g49/g44/g55/g40/g53/g207/g44/g15 QUE /g45/g200 SE ENCONTRAM PREVIAMENTE ALINHADAS COM A SECRETARIA CITADA. ESSA ABORDAGEM VISA FORTALECER PARCERIAS LOCAIS E PROMOVER A /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 EFICIENTE DE PROGRAMAS QUE CONTRIBUAM PARA A /g51/g53/g50/g48/g50/g100/g173/g50 E DEFESA DOS DIREITOS LGBTQIA+.
+
+Deputada Dani Monteiro
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g25/g24 PROGRAMA: 0442 - Ensino Superior /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g21/g27/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g15/g3/g51/g72/g86/g84/g88/g76/g86/g68/g15/g3/g40/g91/g87/g72/g81/g86/g109/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 PRODUTO: 8946 - IFCH/UERJ REFORMADO META: 1 Justificativa: A EMENDA PARA A REFORMA E /g53/g40/g40/g52/g56/g44/g51/g36/g100/g173/g50 DO INSTITUTO DE FILOSOFIA E /g38/g44/g199/g49/g38/g44/g36/g54 HUMANAS (IFCH) DA UERJ /g101 UMA INICIATIVA CRUCIAL PARA FORTALECER AS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE PESQUISA, ENSINO E APRENDIZADO NESSE IMPORTANTE CENTRO /g36/g38/g36/g39/g199/g48/g44/g38/g50/g17 AO DIRECIONAR RECURSOS PARA A REFORMA E REEQUIPAMENTO DO IFCH, A EMENDA BUSCA GARANTIR UM AMBIENTE ADEQUADO E ATUALIZADO, CAPAZ DE ATENDER /g172/g54 DEMANDAS CRESCENTES DA COMUNIDADE /g36/g38/g36/g39/g199/g48/g44/g38/g36 E PROMOVER A /g40/g59/g38/g40/g47/g199/g49/g38/g44/g36 NAS ATIVIDADES DESENVOLVIDAS PELO INSTITUTO. A REFORMA PROPOSTA /g49/g173/g50 APENAS VISA REVITALIZAR AS /g44/g49/g54/g55/g36/g47/g36/g100/g174/g40/g54 /g41/g203/g54/g44/g38/g36/g54 DO IFCH, MAS /g55/g36/g48/g37/g101/g48 OFERECE A OPORTUNIDADE DE MODERNIZAR E ATUALIZAR OS EQUIPAMENTOS UTILIZADOS EM PESQUISAS, SALAS DE AULA E /g40/g54/g51/g36/g100/g50/g54 DE /g38/g50/g49/g57/g44/g57/g199/g49/g38/g44/g36/g17 ESSA ABORDAGEM CONTRIBUI DIRETAMENTE PARA A MELHORIA DA QUALIDADE DO ENSINO, PESQUISA E /g40/g59/g55/g40/g49/g54/g173/g50 OFERECIDOS PELO INSTITUTO, PROPORCIONANDO UMA INFRAESTRUTURA CONDIZENTE COM AS DEMANDAS /g38/g50/g49/g55/g40/g48/g51/g50/g53/g198/g49/g40/g36/g54 DAS /g200/g53/g40/g36/g54 DE FILOSOFIA E /g38/g44/g199/g49/g38/g44/g36/g54 HUMANAS. /g36/g47/g101/g48 DISSO, AO INVESTIR NA REFORMA E REEQUIPAMENTO DO IFCH, A EMENDA /g53/g40/g41/g50/g53/g100/g36 O COMPROMISSO DA UERJ COM O DESENVOLVIMENTO /g36/g38/g36/g39/g199/g48/g44/g38/g50 E /g38/g44/g40/g49/g55/g203/g41/g44/g38/g50 EM DISCIPLINAS FUNDAMENTAIS PARA A /g38/g50/g48/g51/g53/g40/g40/g49/g54/g173/g50 DA SOCIEDADE E DA CULTURA. A /g48/g50/g39/g40/g53/g49/g44/g61/g36/g100/g173/g50 DAS /g44/g49/g54/g55/g36/g47/g36/g100/g174/g40/g54 E EQUIPAMENTOS /g49/g173/g50 APENAS BENEFICIA DIRETAMENTE OS ESTUDANTES E PESQUISADORES, MAS /g55/g36/g48/g37/g101/g48 CONTRIBUI PARA A /g51/g53/g50/g45/g40/g100/g173/g50 E O /g51/g53/g40/g54/g55/g203/g42/g44/g50 DO INSTITUTO, ATRAINDO TALENTOS E FOMENTANDO A /g51/g53/g50/g39/g56/g100/g173/g50 DE CONHECIMENTO RELEVANTE. /g49/g210/g48/g40/g53/g50/g54/g29 O INSTITUTO DE FILOSOFIA E /g38/g44/g199/g49/g38/g44/g36/g54 HUMANAS (IFCH), ESTABELECIDO EM 1987, OFERECE ATUALMENTE QUATRO CURSOS DE /g42/g53/g36/g39/g56/g36/g100/g173/g50 (ARQUEOLOGIA, FILOSOFIA, /g43/g44/g54/g55/g207/g53/g44/g36 E /g53/g40/g47/g36/g100/g174/g40/g54 INTERNACIONAIS) E /g55/g53/g199/g54 PROGRAMAS DE /g51/g207/g54/g16 /g42/g53/g36/g39/g56/g36/g100/g173/g50 STRICTO SENSU (MESTRADO E DOUTORADO EM FILOSOFIA, /g43/g44/g54/g55/g207/g53/g44/g36 E /g53/g40/g47/g36/g100/g174/g40/g54 INTERNACIONAIS). A PARTIR DE 2024, /g54/g40/g53/g200 ADICIONADO UM PROGRAMA DE MESTRADO /g36/g38/g36/g39/g199/g48/g44/g38/g50 EM ESTUDOS /g101/g55/g49/g44/g38/g50/g16/g53/g36/g38/g44/g36/g44/g54/g15 AFRICANOS E OUTRAS EPISTEMOLOGIAS. /g36/g47/g101/g48 DISSO, O IFCH POSSUI UM PROGRAMA DE MESTRADO PROFISSIONAL EM ENSINO DE /g43/g44/g54/g55/g207/g53/g44/g36 /g11/g51/g53/g50/g41/g43/g44/g54/g55/g207/g53/g44/g36/g12 E UM CURSO DE /g40/g54/g51/g40/g38/g44/g36/g47/g44/g61/g36/g100/g173/g50 EM /g43/g44/g54/g55/g207/g53/g44/g36 ANTIGA E MEDIEVAL (CEHAM). ESTUDOS /g40/g54/g55/g173/g50 EM ANDAMENTO PARA REATIVAR OS CURSOS DE /g40/g54/g51/g40/g38/g44/g36/g47/g44/g61/g36/g100/g173/g50 EM FILOSOFIA E /g53/g40/g47/g36/g100/g174/g40/g54 INTERNACIONAIS EM 2024. NO QUE DIZ RESPEITO AO CORPO DOCENTE, O INSTITUTO CONTA COM 90 PROFESSORES EFETIVOS, /g39/g44/g54/g55/g53/g44/g37/g56/g203/g39/g50/g54 ENTRE OS CURSOS. O CORPO DISCENTE INCLUI 1.443 ALUNOS DE /g42/g53/g36/g39/g56/g36/g100/g173/g50 E 455 ALUNOS DE /g51/g207/g54/g16/g42/g53/g36/g39/g56/g36/g100/g173/g50 (MESTRADO, DOUTORADO E /g40/g54/g51/g40/g38/g44/g36/g47/g44/g61/g36/g100/g173/g50/g12/g15 TOTALIZANDO 1.898 ALUNOS ATIVOS EM NOVEMBRO DE 2023. O IFCH ABRIGA 40 PROGRAMAS, /g47/g36/g37/g50/g53/g36/g55/g207/g53/g44/g50/g54/g15 /g49/g210/g38/g47/g40/g50/g54/g15 GRUPOS E COMUNIDADES DE ESTUDO E PESQUISA, /g39/g44/g54/g55/g53/g44/g37/g56/g203/g39/g50/g54 EM QUATRO DEPARTAMENTOS, COM PROJETOS DE PESQUISA E ATIVIDADES EXTENSIONISTAS. ADICIONALMENTE, /g48/g36/g49/g55/g101/g48 16 REVISTAS /g36/g38/g36/g39/g199/g48/g44/g38/g50/g16 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36/g54/g3/g40/g47/g40/g55/g53/g208/g49/g44/g38/g36/g54/g3/g36/g55/g44/g57/g36/g54/g17
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g25/g25 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g23/g3/g16/g3/g57/g76/g74/g76/g79/g107/g81/g70/g76/g68/g3/g72/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g3/g54/g68/g126/g71/g72 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g26/g22/g3/g16/g3/g51/g50/g51/g56/g47/g36/g100/g173/g50/g3/g44/g49/g39/g203/g42/g40/g49/g36/g3/g36/g55/g40/g49/g39/g44/g39/g36 META: 100 Justificativa: A /g54/g44/g55/g56/g36/g100/g36/g50 DA /g54/g36/g210/g39/g40 INDIGENA /g101 EXTREMAMENTE PRECARIA, PRINCIPALMENTE NA /g53/g40/g42/g44/g173/g50 DA COSTA VERDE, ONDE /g43/g200 MAIOR /g44/g49/g38/g44/g39/g199/g49/g38/g44/g36 DE RESERVAS /g44/g49/g39/g203/g42/g40/g49/g36/g54/g17 A /g54/g36/g210/g39/g40 MENTAL DESTA /g51/g50/g51/g56/g47/g36/g100/g173/g50 /g101 UM PROBLEMA GRAVE QUE VEM OCASIONANDO /g54/g56/g44/g38/g203/g39/g44/g50 ENTRE ADOLESCENTES E JOVENS. OS /g48/g50/g55/g44/g57/g50/g54/g3/g54/g173/g50/g3/g40/g48/g3/g54/g56/g36/g3/g48/g36/g44/g50/g53/g44/g36/g3/g36/g3/g41/g36/g47/g55/g36/g3/g39/g40/g3/g51/g40/g53/g54/g51/g40/g38/g55/g44/g57/g36/g3/g52/g56/g40/g3/g39/g40/g54/g40/g49/g38/g36/g39/g40/g44/g36 PROFUNDAS /g39/g40/g51/g53/g40/g54/g54/g174/g40/g54/g17 O RACISMO /g101 UM FATOR DE ADOECIMENTO E A /g57/g44/g50/g47/g199/g49/g38/g44/g36 PROMOVIDA PELO ESTADO E SOCIEDADE, /g55/g36/g48/g37/g101/g48 CONTRIBUEM PARA O AGRAVAMENTO DESTA REALIDADE. SEM /g40/g39/g56/g38/g36/g100/g173/g50 ADEQUADA NAS ALDEIAS, SEM ESCOLAS /g37/g44/g47/g203/g49/g42/g56/g40/g15 A SAUDE MENTAL ESTA AMEACADA. O INDICE DE SUICIDIO /g101 TRES VEZES MAIOR NA /g51/g50/g51/g56/g47/g36/g100/g173/g50 INDIGENA. A ESCASSEZ DE ALIMENTO E SANEAMENTO BASICO NAS ALDEIAS FRAGILIZA E VULNERABILIZA AINDA MAIS OS POVOS ALDEADOS. NA ALDEIA MATA VERDE BONITA, EM MARICA, POR EXEMPLO, EXISTE APENAS O ANTIGO POSTO DE /g54/g36/g210/g39/g40/g15 FEITO DE BAMBU E MADEIRAS, QUE /g49/g173/g50 GARANTIA A PRIVACIDADE /g48/g203/g49/g44/g48/g36 PARA ATENDIMENTO. DIANTE DISSO, FOI FEITO UM /g40/g54/g41/g50/g53/g100/g50 PELA /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DO POSTO DE ALVENARIA, CONTUDO, AINDA LONGE DO IDEAL. A FALTA DE ATENDIMENTO /g50/g39/g50/g49/g55/g50/g47/g207/g42/g44/g38/g50 /g101 MAIS UM ASPECTO PREOCUPANTE QUE PRECISA SER ABORDADO PARA GARANTIR UMA /g38/g50/g37/g40/g53/g55/g56/g53/g36/g3/g36/g37/g53/g36/g49/g42/g40/g49/g55/g40/g3/g40/g3/g40/g41/g44/g38/g36/g61/g3/g51/g36/g53/g36/g3/g40/g54/g55/g36/g3/g51/g50/g51/g56/g47/g36/g100/g173/g50/g3/g40/g54/g51/g40/g38/g203/g41/g44/g38/g36/g17 /g40/g49/g39/g40/g53/g40/g100/g50/g29 POLO BASE DE /g54/g36/g210/g39/g40 DE ANGRA DOS REIS - RUA /g37/g36/g53/g173/g50 DE MABUCABA ,/g3/g49/g131/g3/g22/g25/g3/g16/g3/g51/g36/g53/g52/g56/g40/g3/g48/g36/g48/g37/g56/g38/g36/g37/g36/g3/g16/g3/g36/g49/g42/g53/g36/g3/g39/g50/g54/g3/g53/g40/g44/g54/g3/g16/g3/g53/g45 CONTATO: VICE CACICA NEUSA /g46/g56/g49/g43/g173/g15 ALDEIA RIO PEQUENO, DO POVO GUARANI, DE ANGRA DOS REIS.
+
+Deputada Dani Monteiro /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g24/g25/g26 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g25/g25/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g68/g82/g3/g56/g86/g82/g3/g71/g72/g3/g39/g85/g82/g74/g68/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g26/g28/g3/g16/g3/g44/g80/g83/g79/g68/g81/g87/g68/g111/g109/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g86/g82/g69/g85/g72/g3/g39/g85/g82/g74/g68/g86 PRODUTO: 5046 - Unidade de atendimento implantada META: 10 Justificativa: INCLUIR A ATENDIMENTOS DE PESSOAS QUE FAZEM USO ABUSIVO DE DROGAS NA UNIDADE DE PLANEJAMENTO 49010 -SEDSODH
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g19/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g20/g3/g16/g3/g36/g87/g72/g81/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79/g3/g106/g3/g54/g68/g126/g71/g72 PRODUTO: 8950 - BANCO DE LEITE APOIADO META: 4 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE
+
+DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES
+
+(2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g19/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g21/g3/g16/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g43/g68/g69/g76/g87/g68/g70/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g74/g88/g79/g68/g85/g76/g93/g68/g111/g109/g82/g3/g41/g88/g81/g71/g76/g105/g85/g76/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g21/g21/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g44/g81/g73/g85/g68/g72/g86/g87/g85/g88/g87/g88/g85/g68/g3/g72/g80/g3/g200/g85/g72/g68/g86/g3/g71/g72/g3/g53/g76/g86/g70/g82/g3/g72/g3/g57/g88/g79/g81/g72/g85/g68/g69/g76/g79/g76/g71/g68/g71/g72/g3 /g54/g121/g70/g76/g82/g68/g80/g69/g76/g72/g81/g87/g68/g79 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g23/g25/g25/g3/g16/g3/g40/g84/g88/g76/g83/g68/g80/g72/g81/g87/g82/g3/g88/g85/g69/g68/g81/g82/g3/g83/g126/g69/g79/g76/g70/g82/g3/g70/g82/g81/g86/g87/g85/g88/g116/g71/g82/g18/g85/g72/g73/g82/g85/g80/g68/g71/g82 META: 20 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g19/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g44/g81/g87/g72/g74/g85/g68/g111/g109/g82/g3/g72/g81/g87/g85/g72/g3/g68/g3/g54/g82/g70/g76/g72/g71/g68/g71/g72/g3/g72/g3/g68/g3/g51/g82/g79/g116/g70/g76/g68/g3/g38/g76/g89/g76/g79 PRODUTO: 7094 - Ouvidoria itinerante realizada META: 1 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g19/g25 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g28/g3/g16/g3/g44/g81/g89/g72/g86/g87/g76/g80/g72/g81/g87/g82/g86/g3/g72/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g40/g70/g82/g81/g123/g80/g76/g70/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g19/g22/g3/g16/g3/g51/g82/g87/g72/g81/g70/g76/g68/g79/g76/g93/g68/g111/g109/g82/g3/g71/g82/g3/g54/g72/g87/g82/g85/g3/g40/g81/g72/g85/g74/g112/g87/g76/g70/g82/g3/g68/g87/g85/g68/g89/g112/g86/g3/g71/g72/g3/g40/g81/g72/g85/g74/g76/g68/g3/g53/g72/g81/g82/g89/g105/g89/g72/g79/g3/g71/g82/g3/g40/g53/g45 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g22/g24/g28/g3/g16/g3/g51/g82/g79/g82/g3/g71/g72/g3/g71/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g81/g72/g85/g74/g112/g87/g76/g70/g82/g3/g76/g80/g83/g79/g68/g81/g87/g68/g71/g82 META: 1 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g19/g27 PROGRAMA: 0480 - Direitos do Consumidor /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g19/g21/g3/g16/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g15/g3/g41/g76/g86/g70/g68/g79/g76/g93/g68/g111/g109/g82/g3/g72/g3/g36/g86/g86/g76/g86/g87/g114/g81/g70/g76/g68/g3/g68/g82/g86/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g71/g82/g3/g38/g82/g81/g86/g88/g80/g76/g71/g82/g85 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g20/g26/g25/g3/g16/g3/g38/g68/g83/g68/g70/g76/g87/g68/g111/g109/g82/g3/g86/g82/g69/g85/g72/g3/g71/g76/g85/g72/g76/g87/g82/g3/g71/g82/g3/g70/g82/g81/g86/g88/g80/g76/g71/g82/g85/g3/g85/g72/g68/g79/g76/g93/g68/g71/g68 META: 10 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g19/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g28/g3/g16/g3/g50/g73/g72/g85/g87/g68/g3/g71/g72/g3/g37/g72/g81/g86/g3/g38/g88/g79/g87/g88/g85/g68/g76/g86/g3/g72/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g38/g88/g79/g87/g88/g85/g68 INICIATIVA: 0113 - Apoio e Desenvolvimento da Arte e da Cultura /g51/g53/g50/g39/g56/g55/g50/g29/g3/g22/g23/g22/g27/g3/g16/g3/g37/g82/g79/g86/g68/g16/g68/g88/g91/g116/g79/g76/g82/g3/g70/g82/g81/g70/g72/g71/g76/g71/g68 META: 20 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g20/g19 PROGRAMA: 0494 - Meio Ambiente e Sustentabilidade /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g22/g26/g3/g16/g3/g38/g82/g81/g86/g72/g85/g89/g68/g111/g109/g82/g3/g72/g3/g51/g85/g72/g86/g72/g85/g89/g68/g111/g109/g82/g3/g71/g82/g86/g3/g53/g72/g70/g88/g85/g86/g82/g86/g3/g49/g68/g87/g88/g85/g68/g76/g86/g3/g72/g3/g43/g116/g71/g85/g76/g70/g82/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g23/g22/g20/g3/g16/g3/g50/g69/g86/g72/g85/g89/g68/g87/g121/g85/g76/g82/g3/g71/g82/g3/g44/g38/g48/g54/g3/g40/g70/g82/g79/g121/g74/g76/g70/g82/g3/g76/g80/g83/g79/g72/g80/g72/g81/g87/g68/g71/g82 META: 1 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g20/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g28/g3/g16/g3/g44/g81/g89/g72/g86/g87/g76/g80/g72/g81/g87/g82/g86/g3/g72/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g40/g70/g82/g81/g123/g80/g76/g70/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g20/g21/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g71/g72/g3/g54/g72/g87/g82/g85/g72/g86/g3/g36/g86/g86/g82/g70/g76/g68/g71/g82/g86/g3/g106/g3/g40/g70/g82/g81/g82/g80/g76/g68/g3/g57/g72/g85/g71/g72 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g22/g26/g24/g3/g16/g3/g51/g85/g82/g77/g72/g87/g82/g3/g71/g72/g3/g74/g72/g86/g87/g109/g82/g3/g71/g72/g3/g85/g72/g86/g116/g71/g88/g82/g3/g76/g81/g71/g88/g86/g87/g85/g76/g68/g79/g3/g72/g79/g68/g69/g82/g85/g68/g71/g82 META: 1 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g20/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g44/g81/g87/g72/g74/g85/g68/g111/g109/g82/g3/g72/g81/g87/g85/g72/g3/g68/g3/g54/g82/g70/g76/g72/g71/g68/g71/g72/g3/g72/g3/g68/g3/g51/g82/g79/g116/g70/g76/g68/g3/g38/g76/g89/g76/g79 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g24/g20/g27/g3/g16/g3/g44/g81/g86/g87/g76/g87/g88/g87/g82/g3/g71/g72/g3/g51/g72/g86/g84/g88/g76/g86/g68/g3/g72/g3/g51/g72/g85/g116/g70/g76/g68/g86/g3/g72/g80/g3/g42/g72/g81/g112/g87/g76/g70/g68/g3/g41/g82/g85/g72/g81/g86/g72/g3/g85/g72/g73/g82/g85/g80/g68/g71/g82 META: 1 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g20/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g19/g24/g3/g16/g3/g36/g83/g82/g76/g82/g3/g106/g86/g3/g51/g82/g79/g116/g70/g76/g68/g86/g3/g72/g3/g68/g82/g3/g42/g82/g89/g72/g85/g81/g82/g3/g81/g68/g3/g51/g85/g82/g89/g76/g86/g109/g82/g3/g71/g72/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g51/g126/g69/g79/g76/g70/g68 PRODUTO: 2939 - Policial capacitado META: 200 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g20/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g26/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g51/g126/g69/g79/g76/g70/g68/g86/g3/g83/g68/g85/g68/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g19/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g44/g81/g87/g72/g74/g85/g68/g71/g82/g3/g71/g72/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g72/g3/g36/g70/g82/g79/g75/g76/g80/g72/g81/g87/g82/g3/g106/g3/g48/g88/g79/g75/g72/g85/g3/g57/g116/g87/g76/g80/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g26/g23/g21/g3/g16/g3/g36/g111/g109/g82/g3/g71/g72/g3/g70/g88/g76/g71/g68/g71/g82/g3/g72/g80/g3/g86/g68/g126/g71/g72/g3/g80/g72/g81/g87/g68/g79/g3/g71/g82/g3/g83/g82/g79/g76/g70/g76/g68/g79/g3/g71/g72/g3/g54/g68/g79/g68/g3/g47/g76/g79/g105/g86/g3/g85/g72/g68/g79/g76/g93/g68/g71/g68 META: 10 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g20/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g72/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g44/g81/g70/g79/g88/g86/g76/g89/g68/g15/g3/g70/g82/g80/g3/g89/g68/g79/g82/g85/g76/g93/g68/g111/g109/g82/g3/g106/g86/g3/g71/g76/g73/g72/g85/g72/g81/g111/g68/g86/g3/g72/g3/g68/g3 diversidade /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g24/g28/g21/g3/g16/g3/g54/g68/g79/g68/g3/g71/g72/g3/g53/g72/g70/g88/g85/g86/g82/g86/g3/g83/g68/g85/g68/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g40/g86/g83/g72/g70/g76/g68/g79/g3/g76/g80/g83/g79/g68/g81/g87/g68/g71/g68 META: 25 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g21/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g20/g23/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g68/g82/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g3/g38/g76/g72/g81/g87/g116/g73/g76/g70/g82/g86/g3/g72/g3/g55/g72/g70/g81/g82/g79/g121/g74/g76/g70/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g25/g25/g25/g3/g16/g3/g52/g88/g68/g79/g76/g73/g76/g70/g68/g111/g109/g82/g3/g71/g82/g3/g86/g72/g85/g89/g76/g71/g82/g85/g3/g83/g126/g69/g79/g76/g70/g82/g3/g81/g68/g3/g105/g85/g72/g68/g3/g71/g72/g3/g70/g76/g114/g81/g70/g76/g68/g15/g3/g87/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g76/g81/g82/g89/g68/g111/g109/g82 META: 100 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g21/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g20/g23/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g68/g82/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g3/g38/g76/g72/g81/g87/g116/g73/g76/g70/g82/g86/g3/g72/g3/g55/g72/g70/g81/g82/g79/g121/g74/g76/g70/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g22/g20/g21/g26/g3/g16/g3/g51/g85/g72/g80/g76/g68/g111/g109/g82/g3/g70/g82/g81/g70/g72/g71/g76/g71/g68 META: 30
+
+Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g21/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g26/g3/g16/g3/g39/g72/g86/g72/g80/g83/g72/g81/g75/g82/g3/g36/g70/g68/g71/g114/g80/g76/g70/g82/g3/g44/g81/g70/g79/g88/g86/g76/g89/g82/g3/g81/g68/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g26/g21/g24/g23/g3/g16/g3/g40/g89/g72/g81/g87/g82/g3/g71/g72/g3/g38/g76/g114/g81/g70/g76/g68/g3/g72/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g3/g85/g72/g68/g79/g76/g93/g68/g71/g82 META: 20 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g21/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g28/g22/g3/g16/g3/g51/g85/g82/g71/g88/g111/g109/g82/g3/g71/g72/g3/g39/g68/g71/g82/g86/g3/g72/g3/g44/g81/g73/g82/g85/g80/g68/g111/g125/g72/g86/g3/g40/g86/g87/g68/g87/g116/g86/g87/g76/g70/g68/g86/g3/g72/g3/g42/g72/g82/g72/g86/g83/g68/g70/g76/g68/g76/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g21/g20/g3/g16/g3/g53/g72/g79/g68/g87/g121/g85/g76/g82/g3/g72/g3/g72/g86/g87/g88/g71/g82/g3/g69/g68/g86/g72/g68/g71/g82/g86/g3/g81/g82/g86/g3/g76/g81/g71/g76/g70/g68/g71/g82/g85/g72/g86/g3/g86/g82/g70/g76/g82/g72/g70/g82/g81/g123/g80/g76/g70/g82/g86/g3/g83/g88/g69/g79/g76/g70/g68/g71/g82 META: 1 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g21/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g20/g23/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g68/g82/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g3/g38/g76/g72/g81/g87/g116/g73/g76/g70/g82/g86/g3/g72/g3/g55/g72/g70/g81/g82/g79/g121/g74/g76/g70/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g22/g20/g3/g16/g3/g41/g121/g85/g88/g80/g15/g3/g38/g82/g81/g74/g85/g72/g86/g86/g82/g3/g72/g18/g82/g88/g3/g54/g72/g80/g76/g81/g105/g85/g76/g82/g3/g85/g72/g68/g79/g76/g93/g68/g71/g82 META: 25 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g21/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g28/g22/g3/g16/g3/g51/g85/g82/g71/g88/g111/g109/g82/g3/g71/g72/g3/g39/g68/g71/g82/g86/g3/g72/g3/g44/g81/g73/g82/g85/g80/g68/g111/g125/g72/g86/g3/g40/g86/g87/g68/g87/g116/g86/g87/g76/g70/g68/g86/g3/g72/g3/g42/g72/g82/g72/g86/g83/g68/g70/g76/g68/g76/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g20/g23/g3/g16/g3/g54/g72/g85/g89/g76/g71/g82/g85/g3/g83/g126/g69/g79/g76/g70/g82/g3/g70/g68/g83/g68/g70/g76/g87/g68/g71/g82/g3/g72/g80/g3/g68/g81/g105/g79/g76/g86/g72/g3/g72/g3/g88/g86/g82/g3/g71/g72/g3/g71/g68/g71/g82/g86/g3/g72/g86/g83/g68/g70/g76/g68/g76/g86 META: 3 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO
+
+PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g21/g25 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g25/g26/g3/g16/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g36/g79/g76/g80/g72/g81/g87/g68/g85/g3/g72/g3/g49/g88/g87/g85/g76/g70/g76/g82/g81/g68/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g20/g27/g3/g16/g3/g44/g81/g70/g72/g81/g87/g76/g89/g82/g3/g68/g82/g3/g73/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g72/g3/g54/g76/g86/g87/g72/g80/g68/g86/g3/g36/g74/g85/g82/g68/g79/g76/g80/g72/g81/g87/g68/g85/g72/g86/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g76/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g26/g25/g26/g20/g3/g16/g3/g50/g85/g74/g68/g81/g76/g93/g68/g111/g109/g82/g3/g71/g68/g3/g68/g74/g85/g76/g70/g88/g79/g87/g88/g85/g68/g3/g73/g68/g80/g76/g79/g76/g68/g85/g3/g76/g81/g86/g72/g85/g76/g71/g68/g3/g81/g82/g3/g80/g72/g85/g70/g68/g71/g82/g3/g76/g81/g86/g87/g76/g87/g88/g70/g76/g82/g81/g68/g79 META: 45 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g21/g26 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g23/g21/g3/g16/g3/g39/g76/g89/g88/g79/g74/g68/g111/g109/g82/g3/g72/g3/g51/g82/g83/g88/g79/g68/g85/g76/g93/g68/g111/g109/g82/g3/g71/g68/g86/g3/g38/g76/g114/g81/g70/g76/g68/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g24/g26/g23/g22/g3/g16/g3/g41/g72/g76/g85/g68/g3/g71/g72/g3/g38/g76/g114/g81/g70/g76/g68/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g3/g71/g82/g3/g40/g86/g87/g68/g71/g82/g3/g71/g82/g3/g53/g76/g82/g3/g71/g72/g3/g45/g68/g81/g72/g76/g85/g82/g3 realizada META: 6 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g21/g27 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g23/g21/g3/g16/g3/g39/g76/g89/g88/g79/g74/g68/g111/g109/g82/g3/g72/g3/g51/g82/g83/g88/g79/g68/g85/g76/g93/g68/g111/g109/g82/g3/g71/g68/g86/g3/g38/g76/g114/g81/g70/g76/g68/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g25/g26/g27/g19/g3/g16/g3/g38/g68/g85/g68/g89/g68/g81/g68/g3/g71/g68/g3/g38/g76/g114/g81/g70/g76/g68/g3/g85/g72/g68/g79/g76/g93/g68/g71/g68 META: 15 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g21/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g20/g23/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g68/g82/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g3/g38/g76/g72/g81/g87/g116/g73/g76/g70/g82/g86/g3/g72/g3/g55/g72/g70/g81/g82/g79/g121/g74/g76/g70/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g25/g25/g23/g3/g16/g3/g51/g82/g79/g82/g15/g3/g83/g68/g85/g84/g88/g72/g3/g72/g3/g70/g79/g88/g86/g87/g72/g85/g3/g87/g72/g70/g81/g82/g79/g121/g74/g76/g70/g82/g3/g68/g83/g82/g76/g68/g71/g82 META: 6 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g22/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g24/g3/g16/g3/g38/g76/g114/g81/g70/g76/g68/g15/g3/g55/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g20/g23/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g68/g82/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g72/g3/g44/g81/g82/g89/g68/g111/g109/g82/g3/g38/g76/g72/g81/g87/g116/g73/g76/g70/g82/g86/g3/g72/g3/g55/g72/g70/g81/g82/g79/g121/g74/g76/g70/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g28/g22/g19/g3/g16/g3/g51/g68/g85/g87/g76/g70/g76/g83/g68/g111/g109/g82/g3/g72/g80/g3/g72/g89/g72/g81/g87/g82/g3/g71/g72/g3/g70/g76/g114/g81/g70/g76/g68/g15/g3/g87/g72/g70/g81/g82/g79/g82/g74/g76/g68/g3/g72/g3/g76/g81/g82/g89/g68/g111/g109/g82/g3/g85/g72/g68/g79/g76/g93/g68/g71/g68 META: 15 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g23/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g26/g3/g16/g3/g39/g72/g86/g72/g80/g83/g72/g81/g75/g82/g3/g36/g70/g68/g71/g114/g80/g76/g70/g82/g3/g44/g81/g70/g79/g88/g86/g76/g89/g82/g3/g81/g68/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g22/g27/g23/g21/g3/g16/g3/g36/g79/g88/g81/g82/g3/g68/g87/g72/g81/g71/g76/g71/g82/g3/g83/g82/g85/g3/g76/g81/g87/g112/g85/g83/g85/g72/g87/g72/g86/g3/g71/g72/g3/g79/g76/g69/g85/g68/g86 META: 50 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g23/g25 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g23/g3/g16/g3/g39/g72/g79/g72/g74/g68/g111/g109/g82/g3/g72/g3/g53/g72/g74/g88/g79/g68/g111/g109/g82/g3/g71/g72/g3/g54/g72/g85/g89/g76/g111/g82/g86/g3/g51/g126/g69/g79/g76/g70/g82/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g23/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g71/g68/g3/g71/g72/g3/g53/g72/g86/g116/g71/g88/g82/g86/g3/g86/g121/g79/g76/g71/g82/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g24/g19/g21/g19/g3/g16/g3/g38/g82/g81/g87/g85/g68/g87/g82/g3/g71/g72/g3/g70/g82/g81/g70/g72/g86/g86/g109/g82/g3/g71/g72/g3/g86/g72/g85/g89/g76/g111/g82/g3/g83/g126/g69/g79/g76/g70/g82/g3/g73/g76/g86/g70/g68/g79/g76/g93/g68/g71/g82 META: 5 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g23/g26 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g28/g3/g16/g3/g44/g81/g89/g72/g86/g87/g76/g80/g72/g81/g87/g82/g86/g3/g72/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g40/g70/g82/g81/g123/g80/g76/g70/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g20/g27/g3/g16/g3/g40/g86/g87/g116/g80/g88/g79/g82/g3/g68/g3/g39/g76/g89/g72/g85/g86/g76/g73/g76/g70/g68/g111/g109/g82/g3/g72/g3/g82/g3/g36/g71/g72/g81/g86/g68/g80/g72/g81/g87/g82/g3/g71/g72/g3/g38/g68/g71/g72/g76/g68/g86/g3/g51/g85/g82/g71/g88/g87/g76/g89/g68/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g22/g27/g24/g3/g16/g3/g51/g82/g79/g82/g3/g71/g72/g3/g73/g82/g80/g72/g81/g87/g82/g3/g106/g3/g76/g81/g82/g89/g68/g111/g109/g82/g3/g72/g3/g106/g3/g76/g81/g71/g126/g86/g87/g85/g76/g68/g3/g70/g85/g76/g68/g87/g76/g89/g68/g3/g76/g80/g83/g79/g68/g81/g87/g68/g71/g82 META: 5 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g23/g27 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g28/g3/g16/g3/g44/g81/g89/g72/g86/g87/g76/g80/g72/g81/g87/g82/g86/g3/g72/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g40/g70/g82/g81/g123/g80/g76/g70/g82 INICIATIVA: 0026 - Fortalecimento do Empreendedorismo PRODUTO: 8395 - Mulher empreendedora capacitada META: 30 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g23/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g28/g3/g16/g3/g44/g81/g89/g72/g86/g87/g76/g80/g72/g81/g87/g82/g86/g3/g72/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g40/g70/g82/g81/g123/g80/g76/g70/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g26/g23/g3/g16/g3/g40/g86/g87/g116/g80/g88/g79/g82/g3/g68/g82/g3/g36/g80/g69/g76/g72/g81/g87/g72/g3/g71/g72/g3/g49/g72/g74/g121/g70/g76/g82/g86/g3/g72/g3/g44/g81/g86/g72/g85/g111/g109/g82/g3/g44/g81/g87/g72/g85/g81/g68/g70/g76/g82/g81/g68/g79/g3/g71/g82/g3/g53/g76/g82/g3/g71/g72/g3 Janeiro PRODUTO: 8856 - Guia do Exportador Fluminense elaborado META: 1 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g24/g19 PROGRAMA: 0442 - Ensino Superior /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g23/g22/g3/g16/g3/g39/g76/g73/g88/g86/g109/g82/g3/g71/g82/g3/g38/g82/g81/g75/g72/g70/g76/g80/g72/g81/g87/g82/g3/g68/g87/g85/g68/g89/g112/g86/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g15/g3/g51/g72/g86/g84/g88/g76/g86/g68/g3/g72/g3/g40/g91/g87/g72/g81/g86/g109/g82 PRODUTO: 6682 - Bolsa de pesquisa a /g83/g121/g86/g16/g74/g85/g68/g71/g88/g111/g109/g82 concedida META: 10 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g24/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g21/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g24/g28/g28/g3/g16/g3/g40/g86/g83/g68/g111/g82/g3/g71/g72/g3/g70/g82/g81/g89/g76/g89/g114/g81/g70/g76/g68/g3/g76/g80/g83/g79/g68/g81/g87/g68/g71/g82 META: 8 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g24/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g28/g3/g16/g3/g44/g81/g89/g72/g86/g87/g76/g80/g72/g81/g87/g82/g86/g3/g72/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g40/g70/g82/g81/g123/g80/g76/g70/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g20/g21/g3/g16/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g71/g72/g3/g54/g72/g87/g82/g85/g72/g86/g3/g36/g86/g86/g82/g70/g76/g68/g71/g82/g86/g3/g106/g3/g40/g70/g82/g81/g82/g80/g76/g68/g3/g57/g72/g85/g71/g72 PRODUTO: 8374 - Hub de economia circular implantado META: 1
+
+Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g24/g22 PROGRAMA: 0512 - Desenvolvimento Territorial /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g20/g20/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g39/g72/g86/g72/g81/g89/g82/g79/g89/g76/g80/g72/g81/g87/g82/g3/g53/g72/g74/g76/g82/g81/g68/g79 PRODUTO: 5081 - Arranjo Produtivo Local apoiado META: 10 Justificativa: A EMENDA TEM COMO OBJETIVO AMPLIAR A CAPILARIDADE DOS /g36/g53/g53/g36/g49/g45/g50/g54/g3/g51/g53/g50/g39/g56/g55/g44/g57/g50/g54/g3/g47/g50/g38/g36/g44/g54/g3/g49/g50/g3/g55/g40/g53/g53/g44/g55/g207/g53/g44/g50/g3/g41/g47/g56/g48/g44/g49/g40/g49/g54/g40/g17
+
+Deputada Elika Takimoto /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g24/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g26/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g51/g126/g69/g79/g76/g70/g68/g86/g3/g83/g68/g85/g68/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g19/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g44/g81/g87/g72/g74/g85/g68/g71/g82/g3/g71/g72/g3/g36/g87/g72/g81/g71/g76/g80/g72/g81/g87/g82/g3/g72/g3/g36/g70/g82/g79/g75/g76/g80/g72/g81/g87/g82/g3/g106/g3/g48/g88/g79/g75/g72/g85/g3/g57/g116/g87/g76/g80/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g26/g23/g20/g3/g16/g3/g51/g82/g79/g76/g70/g76/g68/g79/g3/g80/g88/g79/g75/g72/g85/g3/g81/g68/g3/g39/g40/g36/g48/g3/g86/g82/g69/g85/g72/g3/g86/g68/g126/g71/g72/g3/g80/g72/g81/g87/g68/g79/g3/g70/g68/g83/g68/g70/g76/g87/g68/g71/g68 META: 150 Justificativa: A PROPOSTA DE META /g41/g203/g54/g44/g38/g36 DISPOSTA PELO PODER EXECUTIVO NA PROPOSTA DAS DIRETRIZES E METAS PREVISTAS PARA O /g40/g59/g40/g53/g38/g203/g38/g44/g50 DE 2025, /g49/g173/g50 ATENDEM DE FORMA /g48/g203/g49/g44/g48/g36 AS NECESSIDADES DA /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 EM DESALINHO AO OBJETIVO PROGRAMA GOVERNAMENTAL APROVADO NO PLANO PLURIANUAL -PPA (2024-2027) E /g172/g54 /g48/g44/g54/g54/g174/g40/g54 FIXADAS NO PLANO DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO - PEDES (2024-2031)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g20/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g20/g19/g3/g16/g3/g48/g82/g69/g76/g79/g76/g71/g68/g71/g72/g3/g54/g88/g86/g87/g72/g81/g87/g105/g89/g72/g79 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g19/g26/g3/g16/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g81/g68/g3/g44/g81/g87/g72/g74/g85/g68/g111/g109/g82/g3/g71/g72/g3/g55/g85/g68/g81/g86/g83/g82/g85/g87/g72/g3/g51/g126/g69/g79/g76/g70/g82 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g54/g44/g54/g55/g40/g48/g36/g3/g39/g40/g3/g55/g53/g36/g49/g54/g51/g50/g53/g55/g40/g3/g36/g52/g56/g36/g57/g44/g200/g53/g44/g50/g3/g50/g51/g40/g53/g36/g38/g44/g50/g49/g36/g47/g44/g61/g36/g39/g50 META: 1 Justificativa: CONSIDERANDO O /g55/g101/g53/g48/g44/g49/g50 DO CONTRATO COM A CCR BARCAS EM /g48/g36/g53/g100/g50 DE 2025 E SUA IMPOSSIBILIDADE DE /g53/g40/g49/g50/g57/g36/g100/g173/g50/g30 CONSIDERANDO AS PREMISSAS DOS ESTUDOS ELABORADOS PELA EQUIPE DE CONSULTORES DA UFRJ CONTRATADOS PELO GOVERNO DO ESTADO PARA REALIZAR A MODELAGEM PARA A /g51/g53/g40/g54/g55/g36/g100/g173/g50 DO /g54/g40/g53/g57/g44/g100/g50 /g51/g210/g37/g47/g44/g38/g50 DE TRANSPORTE /g36/g52/g56/g36/g57/g44/g200/g53/g44/g50/g30 CONSIDERANDO A ESCOLHA DA SETRAM E DOS CONSULTORES DA UFRJ PELO MODELO DE /g51/g53/g40/g54/g55/g36/g100/g173/g50 DIRETA DO /g54/g40/g53/g57/g44/g100/g50 DE TRANSPORTE /g36/g52/g56/g36/g57/g44/g200/g53/g44/g50 A PARTIR DO ENCERRAMENTO DO CONTRATO COM A CCR BARCAS; CONSIDERANDO QUE O MODELO DE /g51/g53/g40/g54/g55/g36/g100/g173/g50 DIRETA NECESSITA DE UM APORTE /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g50 DO GOVERNO. NOSSA EMENDA /g51/g53/g50/g51/g174/g40 A /g44/g49/g38/g47/g56/g54/g173/g50 DESTE PRODUTO PARA VIABILIZAR A /g38/g50/g49/g55/g44/g49/g56/g44/g39/g36/g39/g40/g3/g39/g50/g3/g54/g44/g54/g55/g40/g48/g36/g3/g39/g40/g3/g55/g53/g36/g49/g54/g51/g50/g53/g55/g40/g3/g36/g52/g56/g36/g57/g44/g200/g53/g44/g50
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g24/g21 PROGRAMA: 0501 - Esporte e Lazer /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g24/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g68/g82/g3/g40/g86/g83/g82/g85/g87/g72/g3/g72/g3/g47/g68/g93/g72/g85 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g36/g51/g50/g44/g50/g3/g36/g3/g39/g44/g57/g40/g53/g54/g44/g39/g36/g39/g40/g3/g49/g50/g3/g40/g54/g51/g50/g53/g55/g40 Justificativa: APOIAR INICIATIVAS QUE FOMENTEM A DIVERSIDADE LGBTQIA+ NA /g51/g53/g200/g55/g44/g38/g36/g3/g39/g40/g3/g40/g54/g51/g50/g53/g55/g40/g54/g3/g49/g50/g3/g40/g54/g55/g36/g39/g50/g3/g39/g50/g3/g53/g44/g50/g3/g39/g40/g3/g45/g36/g49/g40/g44/g53/g50
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g24/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g26/g3/g16/g3/g40/g80/g83/g85/g72/g74/g82/g15/g3/g53/g72/g81/g71/g68/g3/g72/g3/g41/g82/g85/g80/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g82/g3/g48/g72/g85/g70/g68/g71/g82/g3/g71/g72/g3/g55/g85/g68/g69/g68/g79/g75/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g27/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g3/g51/g85/g82/g73/g76/g86/g86/g76/g82/g81/g68/g79/g3/g81/g68/g3/g41/g36/g40/g55/g40/g38 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g51/g53/g50/g48/g50/g100/g173/g50/g3/g39/g50/g3/g40/g49/g54/g44/g49/g50/g3/g55/g40/g38/g49/g44/g38/g50/g3/g49/g36/g3/g41/g36/g40/g55/g40/g38 Justificativa: PROMOVER O ENSINO TECNICO NA FAETEC
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g24/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 PRODUTO: 8590 - Atividade extracurricular vinculadas ao Programa Cidade Integrada META: 0
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g24/g24 PROGRAMA: 0501 - Esporte e Lazer /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g24/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g68/g82/g3/g40/g86/g83/g82/g85/g87/g72/g3/g72/g3/g47/g68/g93/g72/g85 NOVO PRODUTO: APOIO A ATIVIDADE DESPORTIVA QUE FOMENTAM DIVERSIDADE LGBTQIA+ META: 50 Justificativa: APOIAR INICIATIVAS QUE FOMENTEM A DIVERSIDADE LGBTQIA+ NA /g51/g53/g200/g55/g44/g38/g36/g3/g39/g40/g3/g40/g54/g51/g50/g53/g55/g40/g54/g3/g49/g50/g3/g40/g54/g55/g36/g39/g50/g3/g39/g50/g3/g53/g44/g50/g3/g39/g40/g3/g45/g36/g49/g40/g44/g53/g50
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g24/g25
+
+PROGRAMA: 0501 - Esporte e Lazer /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g24/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g68/g82/g3/g40/g86/g83/g82/g85/g87/g72/g3/g72/g3/g47/g68/g93/g72/g85 NOVO PRODUTO: APOIO INICIATIVAS QUE FOMENTAM DIVERSIDADE LGBTQIA+ NA /g51/g53/g200/g55/g44/g38/g36/g3/g39/g50/g3/g41/g56/g55/g40/g37/g50/g47 META: 30 Justificativa: APOIAR INICIATIVAS QUE FOMENTEM A DIVERSIDADE LGBTQIA+ NA /g51/g53/g200/g55/g44/g38/g36/g3/g39/g40/g3/g41/g56/g55/g40/g37/g50/g47/g3/g49/g50/g3/g40/g54/g55/g36/g39/g50/g3/g39/g50/g3/g53/g44/g50/g3/g39/g40/g3/g45/g36/g49/g40/g44/g53/g50
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g24/g26 PROGRAMA: 0501 - Esporte e Lazer /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g24/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g68/g82/g3/g40/g86/g83/g82/g85/g87/g72/g3/g72/g3/g47/g68/g93/g72/g85 NOVO PRODUTO: APOIO A LIGA GAY NACIONAL DE FUTEBOL META: 1 Justificativa: ESTRUTURAR APOIO /g172 LIGA GAY NACIONAL DE FUTEBOL E OS TIMES DE FUTEBOL LGBTQIAP DO RIO DE JANEIRO ASSOCIADOS /g172 LIGA GAY NACIONAL DE FUTEBOL (BEESCATS SOCCER BOYS, ALLIGAYTORS, KARYOKAS E TRANSUNITED)
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g24/g27 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 NOVO PRODUTO: CONCURSO PARA INSPETORES DE ALUNOS META: 1 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE ESTADUAL COM A /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36 /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 EM DIVERSOS CARGOS PARA ATENDIMENTO, /g44/g49/g38/g47/g56/g54/g173/g50 E ACOMPANHAMENTO DISCENTE, BEM COMO A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A /g48/g40/g47/g43/g50/g53/g44/g36/g3/g39/g36/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+Id:  2588998 /g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g24/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g26/g3/g16/g3/g40/g80/g83/g85/g72/g74/g82/g15/g3/g53/g72/g81/g71/g68/g3/g72/g3/g41/g82/g85/g80/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g82/g3/g48/g72/g85/g70/g68/g71/g82/g3/g71/g72/g3/g55/g85/g68/g69/g68/g79/g75/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g27/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g3/g51/g85/g82/g73/g76/g86/g86/g76/g82/g81/g68/g79/g3/g81/g68/g3/g41/g36/g40/g55/g40/g38 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g37/g50/g47/g54/g36/g3/g39/g40/g3/g44/g49/g44/g38/g44/g36/g100/g173/g50/g3/g38/g44/g40/g49/g55/g203/g41/g44/g38/g36/g3/g51/g36/g53/g36/g3/g40/g54/g55/g56/g39/g36/g49/g55/g40/g54/g3/g39/g50/g3/g40/g49/g54/g44/g49/g50/g3 /g48/g101/g39/g44/g50/g3/g55/g101/g38/g49/g44/g38/g50/g3/g44/g49/g55/g40/g42/g53/g36/g39/g50 META: 10.000 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE FAETEC COM A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A MELHORIA DA /g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g25/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g26/g3/g16/g3/g40/g80/g83/g85/g72/g74/g82/g15/g3/g53/g72/g81/g71/g68/g3/g72/g3/g41/g82/g85/g80/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g82/g3/g48/g72/g85/g70/g68/g71/g82/g3/g71/g72/g3/g55/g85/g68/g69/g68/g79/g75/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g27/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g3/g51/g85/g82/g73/g76/g86/g86/g76/g82/g81/g68/g79/g3/g81/g68/g3/g41/g36/g40/g55/g40/g38 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g37/g50/g47/g54/g36/g3/g39/g40/g3/g48/g50/g49/g44/g55/g50/g53/g44/g36/g3/g51/g36/g53/g36/g3/g40/g54/g55/g56/g39/g36/g49/g55/g40/g54/g3/g39/g50/g3/g40/g49/g54/g44/g49/g50/g3/g48/g101/g39/g44/g50/g3 /g55/g101/g38/g49/g44/g38/g50/g3/g44/g49/g55/g40/g42/g53/g36/g39/g50 META: 10.000 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE FAETEC COM A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A MELHORIA DA /g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g25/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g26/g3/g16/g3/g40/g80/g83/g85/g72/g74/g82/g15/g3/g53/g72/g81/g71/g68/g3/g72/g3/g41/g82/g85/g80/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g82/g3/g48/g72/g85/g70/g68/g71/g82/g3/g71/g72/g3/g55/g85/g68/g69/g68/g79/g75/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g27/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g3/g51/g85/g82/g73/g76/g86/g86/g76/g82/g81/g68/g79/g3/g81/g68/g3/g41/g36/g40/g55/g40/g38 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g37/g50/g47/g54/g36/g3/g39/g50/g38/g40/g49/g55/g40/g3/g39/g40/g3/g54/g56/g51/g40/g53/g57/g44/g54/g173/g50/g3/g44/g49/g44/g38/g44/g36/g100/g173/g50/g3/g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 META: 1.000 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE FAETEC COM A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A MELHORIA DA /g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g25/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g28/g26/g3/g16/g3/g40/g80/g83/g85/g72/g74/g82/g15/g3/g53/g72/g81/g71/g68/g3/g72/g3/g41/g82/g85/g80/g68/g111/g109/g82/g3/g83/g68/g85/g68/g3/g82/g3/g48/g72/g85/g70/g68/g71/g82/g3/g71/g72/g3/g55/g85/g68/g69/g68/g79/g75/g82 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g21/g27/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g82/g3/g40/g81/g86/g76/g81/g82/g3/g51/g85/g82/g73/g76/g86/g86/g76/g82/g81/g68/g79/g3/g81/g68/g3/g41/g36/g40/g55/g40/g38 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g37/g50/g47/g54/g36/g3/g39/g50/g38/g40/g49/g55/g40/g3/g39/g40/g3/g54/g56/g51/g40/g53/g57/g44/g54/g173/g50/g3/g48/g50/g49/g44/g55/g50/g53/g44/g36 META: 1.000 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE FAETEC COM A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A MELHORIA DA /g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g25/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g27/g27/g3/g16/g3/g42/g68/g85/g68/g81/g87/g76/g68/g3/g71/g72/g3/g36/g70/g72/g86/g86/g82/g3/g71/g82/g86/g3/g36/g79/g88/g81/g82/g86/g3/g106/g3/g40/g86/g70/g82/g79/g68 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g47/g44/g48/g36/g55/g44/g61/g36/g100/g173/g50/g3/g39/g36/g3/g56/g49/g44/g39/g36/g39/g40/g3/g40/g54/g38/g50/g47/g36/g53 META: 850 Justificativa: MEDIDA QUE VISA A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE ESTADUAL POSSIBILITADA PELA /g38/g47/g44/g48/g36/g55/g44/g61/g36/g100/g173/g50 DAS UNIDADES ESCOLARES E GARANTIA DE CONFORTO /g55/g101/g53/g48/g44/g38/g50 /g36/g50/g54/g3/g40/g54/g55/g56/g39/g36/g49/g55/g40/g54/g3/g40/g3/g51/g53/g50/g41/g44/g54/g54/g44/g50/g49/g36/g44/g54/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g25/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+NOVO PRODUTO: CONCURSO PARA ASSISTENTES SOCIAIS META: 1 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE ESTADUAL COM A /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36 /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 EM DIVERSOS CARGOS PARA ATENDIMENTO, /g44/g49/g38/g47/g56/g54/g173/g50 E ACOMPANHAMENTO DISCENTE, BEM COMO A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A /g48/g40/g47/g43/g50/g53/g44/g36/g3/g39/g36/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g25/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 NOVO PRODUTO: CONCURSO PARA INTERPRETES DE LIBRAS META: 1 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE ESTADUAL COM A /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36 /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 EM DIVERSOS CARGOS PARA ATENDIMENTO, /g44/g49/g38/g47/g56/g54/g173/g50 E ACOMPANHAMENTO DISCENTE, BEM COMO A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A /g48/g40/g47/g43/g50/g53/g44/g36/g3/g39/g36/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g25/g25 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 NOVO PRODUTO: CONCURSO PARA PORTEIROS DAS UNIDADES ESCOLARES META: 1 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE ESTADUAL COM A /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36 /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 EM DIVERSOS CARGOS PARA ATENDIMENTO, /g44/g49/g38/g47/g56/g54/g173/g50 E ACOMPANHAMENTO DISCENTE, BEM COMO A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A /g48/g40/g47/g43/g50/g53/g44/g36/g3/g39/g36/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g25/g26 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 NOVO PRODUTO: CONCURSO PARA PROFESSORES DE APOIO ESPECIALIZADO META: 1 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE ESTADUAL COM A /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36 /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 EM DIVERSOS CARGOS PARA ATENDIMENTO, /g44/g49/g38/g47/g56/g54/g173/g50 E ACOMPANHAMENTO DISCENTE, BEM COMO A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A /g48/g40/g47/g43/g50/g53/g44/g36/g3/g39/g36/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g25/g27 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g36/g53/g36/g3/g51/g54/g44/g38/g207/g47/g50/g42/g50/g54 META: 1 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE ESTADUAL COM A
+
+/g49/g40/g38/g40/g54/g54/g200/g53/g44/g36
+
+/g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 EM DIVERSOS CARGOS PARA
+
+ATENDIMENTO,
+
+/g44/g49/g38/g47/g56/g54/g173/g50
+
+E
+
+ACOMPANHAMENTO
+
+DISCENTE,
+
+/g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50
+
+DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50
+
+BEM
+
+COMO
+
+A
+
+/g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A
+
+/g48/g40/g47/g43/g50/g53/g44/g36/g3/g39/g36/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g25/g28 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g37/g50/g47/g54/g36/g3/g39/g40/g3/g44/g49/g44/g38/g44/g36/g100/g173/g50/g3/g38/g44/g40/g49/g55/g203/g41/g44/g38/g36/g3/g51/g36/g53/g36/g3/g40/g54/g55/g56/g39/g36/g49/g55/g40/g54/g3/g39/g50/g3/g40/g49/g54/g44/g49/g50/g3 /g48/g101/g39/g44/g50 META: 200.000 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE ESTADUAL COM A /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36 /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 EM DIVERSOS CARGOS PARA ATENDIMENTO, /g44/g49/g38/g47/g56/g54/g173/g50 E ACOMPANHAMENTO DISCENTE, BEM COMO A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A /g48/g40/g47/g43/g50/g53/g44/g36/g3/g39/g36/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g26/g19 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g37/g50/g47/g54/g36/g3/g39/g40/g3/g48/g50/g49/g44/g55/g50/g53/g44/g36/g3/g51/g36/g53/g36/g3/g40/g54/g55/g56/g39/g36/g49/g55/g40/g54/g3/g39/g50/g3/g40/g49/g54/g44/g49/g50/g3/g48/g101/g39/g44/g50 META: 200.000 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE ESTADUAL COM A /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36 /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 EM DIVERSOS CARGOS PARA ATENDIMENTO, /g44/g49/g38/g47/g56/g54/g173/g50 E ACOMPANHAMENTO DISCENTE, BEM COMO A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A /g48/g40/g47/g43/g50/g53/g44/g36/g3/g39/g36/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g26/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g37/g50/g47/g54/g36/g3/g39/g50/g38/g40/g49/g55/g40/g3/g39/g40/g3/g54/g56/g51/g40/g53/g57/g44/g54/g173/g50/g3/g48/g50/g49/g44/g55/g50/g53/g44/g36 META: 66.800 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE ESTADUAL COM A /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36 /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 EM DIVERSOS CARGOS PARA ATENDIMENTO, /g44/g49/g38/g47/g56/g54/g173/g50 E ACOMPANHAMENTO DISCENTE, BEM COMO A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A /g48/g40/g47/g43/g50/g53/g44/g36/g3/g39/g36/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g26/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g37/g50/g47/g54/g36/g3/g39/g50/g38/g40/g49/g55/g40/g3/g39/g40/g3/g54/g56/g51/g40/g53/g57/g44/g54/g173/g50/g3/g44/g49/g44/g38/g44/g36/g100/g173/g50/g3/g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 META: 66.800 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE ESTADUAL COM A /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36 /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 EM DIVERSOS CARGOS PARA ATENDIMENTO, /g44/g49/g38/g47/g56/g54/g173/g50 E ACOMPANHAMENTO DISCENTE, BEM COMO A
+
+/g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50
+
+DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50
+
+/g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A
+
+/g48/g40/g47/g43/g50/g53/g44/g36/g3/g39/g36/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g26/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 NOVO PRODUTO: BIBLIOTECA ESCOLAR IMPLANTADA META: 500 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE ESTADUAL COM A /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36 /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 EM DIVERSOS CARGOS PARA ATENDIMENTO, /g44/g49/g38/g47/g56/g54/g173/g50 E ACOMPANHAMENTO DISCENTE, BEM COMO A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A /g48/g40/g47/g43/g50/g53/g44/g36/g3/g39/g36/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+/g39/g72/g83/g88/g87/g68/g71/g82/g3/g41/g79/g105/g89/g76/g82/g3Serafini /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g22/g26/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g19/g3/g16/g3/g40/g91/g72/g70/g88/g111/g109/g82/g3/g71/g72/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g40/g71/g88/g70/g68/g70/g76/g82/g81/g68/g76/g86/g3/g83/g68/g85/g68/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g52/g88/g68/g79/g76/g71/g68/g71/g72/g3/g71/g68/g3 /g40/g71/g88/g70/g68/g111/g109/g82 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g50/g49/g38/g56/g53/g54/g50/g3/g51/g36/g53/g36/g3/g37/g44/g37/g47/g44/g50/g55/g40/g38/g200/g53/g44/g50/g54 META: 1 Justificativa: CONJUNTO DE MEDIDAS QUE VISAM A MELHORIA DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DE ENSINO E APRENDIZAGEM DOS ESTUDANTES DA REDE ESTADUAL COM A /g49/g40/g38/g40/g54/g54/g200/g53/g44/g36 /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CONCURSOS /g51/g210/g37/g47/g44/g38/g50/g54 EM DIVERSOS CARGOS PARA ATENDIMENTO, /g44/g49/g38/g47/g56/g54/g173/g50 E ACOMPANHAMENTO DISCENTE, BEM COMO A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE PROGRAMAS DE /g44/g49/g44/g38/g44/g36/g100/g173/g50 /g38/g44/g40/g49/g55/g203/g41/g44/g38/g36 E DE MONITORIAS PARA A /g48/g40/g47/g43/g50/g53/g44/g36/g3/g39/g36/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g3/g39/g36/g3/g40/g39/g56/g38/g36/g100/g173/g50/g17
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g25/g26 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g26/g3/g16/g3/g41/g82/g85/g87/g68/g79/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g68/g86/g3/g51/g82/g79/g116/g87/g76/g70/g68/g86/g3/g51/g126/g69/g79/g76/g70/g68/g86/g3/g83/g68/g85/g68/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g23/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g72/g3/g40/g81/g73/g85/g72/g81/g87/g68/g80/g72/g81/g87/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g70/g82/g81/g87/g85/g68/g3/g48/g72/g81/g76/g81/g68/g86/g3/g72/g3/g48/g88/g79/g75/g72/g85/g72/g86 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g55/g53/g40/g44/g49/g36/g48/g40/g49/g55/g50/g3/g39/g40/g3/g39/g40/g41/g40/g54/g36/g3/g51/g40/g54/g54/g50/g36/g47/g3/g51/g36/g53/g36/g3/g48/g56/g47/g43/g40/g53/g40/g54/g3/g57/g203/g55/g44/g48/g36/g54/g3/g39/g40/g3 /g57/g44/g50/g47/g199/g49/g38/g44/g36 Justificativa: A PRESENTE /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50/g15 INTEGRADA /g172/g54 /g48/g44/g54/g54/g174/g40/g54 9 E 10: "GARANTIA DA /g54/g40/g42/g56/g53/g36/g49/g100/g36 /g51/g210/g37/g47/g44/g38/g36 NOS /g55/g40/g53/g53/g44/g55/g207/g53/g44/g50/g54/g5 E "A /g51/g53/g50/g48/g50/g100/g173/g50 DAS IGUALDADES RACIAL E DE /g42/g199/g49/g40/g53/g50/g5 RESPECTIVAMENTE, PREVISTAS NOS INCISOS IX E X, DO ART. 9/g158/g15 DA LEI /g49/g158 10.266, DE 28 DE DEZEMBRO DE 2023, VISA /g172 /g51/g53/g40/g57/g44/g54/g173/g50 DA /g39/g50/g55/g36/g100/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 INERENTE AO PROJETO DE LEI /g49/g158 995/2023, QUE TRAMITA NESTA CASA LEGISLATIVA COM O OBJETIVO DE INSTITUIR O "PROGRAMA DE DEFESA /g51/g40/g54/g54/g50/g36/g47/g3/g51/g36/g53/g36/g3/g48/g56/g47/g43/g40/g53/g40/g54/g3/g57/g203/g55/g44/g48/g36/g54/g3/g39/g40/g3/g57/g44/g50/g47/g199/g49/g38/g44/g36/g3/g39/g50/g48/g101/g54/g55/g44/g38/g36/g5/g17 COM EFEITO, APESAR DAS /g44/g49/g210/g48/g40/g53/g36/g54 /g36/g100/g174/g40/g54 DO ESTADO NA BUSCA DO COMBATE /g172 /g57/g44/g50/g47/g199/g49/g38/g44/g36 CONTRA A MULHER, CONSTATA-SE O AUMENTO DE CASOS, MUITAS VEZES, COM RISCO IMINENTE /g172 VIDA COMO /g39/g40/g38/g50/g53/g53/g199/g49/g38/g44/g36 DA /g57/g44/g50/g47/g199/g49/g38/g44/g36 DE /g42/g199/g49/g40/g53/g50/g17 ASSIM, DE MANEIRA COMPLEMENTAR /g172 REDE DE /g51/g53/g50/g55/g40/g100/g173/g50 LEGAL E /g41/g200/g55/g44/g38/g36 /g45/g200 EXISTENTE, HABILITANDO A MULHER QUE SEJA ELA MESMA, /g55/g36/g48/g37/g101/g48/g15 AGENTE ATIVA DE SUA /g51/g53/g50/g55/g40/g100/g173/g50 PESSOAL. AFINAL, TODO SER HUMANO PODE CONTRIBUIR PARA SUA /g51/g53/g207/g51/g53/g44/g36 /g54/g40/g42/g56/g53/g36/g49/g100/g36 E DEFESA PESSOAL, EM /g38/g50/g48/g51/g47/g40/g48/g40/g49/g55/g50/g3/g172/g3/g49/g40/g38/g40/g54/g54/g200/g53/g44/g36/g3/g51/g53/g50/g55/g40/g100/g173/g50/g3/g51/g53/g50/g57/g44/g39/g36/g3/g51/g40/g47/g50/g3/g40/g54/g55/g36/g39/g50/g17 TORNAR A COMUNIDADE FEMININA MAIS PREPARADA PARA AGIR DIANTE DE /g54/g44/g55/g56/g36/g100/g174/g40/g54 DE /g57/g44/g50/g47/g199/g49/g38/g44/g36/g15 E QUE O PREPARO TORNE /g51/g50/g54/g54/g203/g57/g40/g47 QUE ELAS CONSIGAM SE DEFENDER, DANDO /g172/g54 MULHERES UMA OPORTUNIDADE DE /g54/g50/g37/g53/g40/g57/g44/g57/g40/g53/g15/g3/g39/g44/g36/g49/g55/g40/g3/g39/g40/g3/g36/g100/g174/g40/g54/g3/g55/g173/g50/g3/g38/g53/g56/g101/g44/g54/g3/g38/g50/g49/g55/g53/g36/g3/g54/g56/g36/g54/g3/g57/g44/g39/g36/g54/g17/g3 /g101 PREMENTE QUE AS MULHERES EM /g54/g44/g55/g56/g36/g100/g174/g40/g54 DE VULNERABILIDADE POSSAM TER UMA FORMA DE DEFESA CONTRA O AGRESSOR.
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g25/g27 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g24/g19/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g82/g3/g54/g56/g36/g54/g15/g3/g51/g85/g82/g87/g72/g111/g109/g82/g3/g54/g82/g70/g76/g68/g79/g3/g72/g3/g53/g72/g71/g88/g111/g109/g82/g3/g71/g68/g3/g51/g82/g69/g85/g72/g93/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g22/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g71/g68/g3/g51/g85/g82/g87/g72/g111/g109/g82/g3/g54/g82/g70/g76/g68/g79/g3/g40/g86/g83/g72/g70/g76/g68/g79 /g49/g50/g57/g36/g3/g36/g100/g173/g50/g29/g3/g51/g53/g50/g48/g50/g100/g173/g50/g3/g39/g36/g3/g44/g49/g55/g40/g53/g49/g36/g100/g173/g50/g3/g43/g56/g48/g36/g49/g44/g61/g36/g39/g36 Justificativa: ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50/g15 QUE INTEGRA EXEMPLIFICATIVAMENTE AS DIRETIVAS E OS OBJETIVOS DAS /g48/g44/g54/g54/g174/g40/g54 1 E 8, CONFORME ART. /g28/g158/g15 I E VII, DA LEI /g49/g158 10.266/2023, VISA /g172 /g51/g53/g40/g57/g44/g54/g173/g50 DA /g36/g100/g173/g50 /g51/g53/g50/g42/g53/g36/g48/g200/g55/g44/g38/g36 DO ESTABELECIMENTO DO UM MARCO LEGAL PARA A /g44/g49/g55/g40/g53/g49/g36/g100/g173/g50 HUMANIZADA DE PESSOAS COM /g39/g40/g51/g40/g49/g39/g199/g49/g38/g44/g36 /g52/g56/g203/g48/g44/g38/g36 E/OU TRANSTORNOS MENTAIS EM TODO O NOSSO ESTADO, VIABILIZADO PELO PROJETO DE LEI /g49/g158 3194/2024, EM /g55/g53/g198/g48/g44/g55/g40 NESTA CASA, INICIATIVA QUE SURGE DA NECESSIDADE DE ASSEGURAR UM TRATAMENTO DIGNO E EFETIVO QUE ESTEJA ALINHADO COM OS DIREITOS HUMANOS E AS MELHORES /g51/g53/g200/g55/g44/g38/g36/g54/g3/g39/g40/g3/g54/g36/g210/g39/g40/g3/g48/g40/g49/g55/g36/g47/g17 A /g44/g49/g55/g40/g53/g49/g36/g100/g173/g50 HUMANIZADA /g101 UM CONCEITO QUE COLOCA O BEM ESTAR DO PACIENTE NO CENTRO DO PROCESSO DE TRATAMENTO, PROMOVENDO UMA ABORDAGEM QUE VAI /g36/g47/g101/g48 DA /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 /g48/g101/g39/g44/g38/g36 PARA INCLUIR SUPORTE /g51/g54/g44/g38/g50/g47/g207/g42/g44/g38/g50/g15 SOCIAL E PROFISSIONAL. ESTA PROPOSTA BUSCA GARANTIR QUE TAL ABORDAGEM SEJA UNIFORMEMENTE APLICADA EM TODAS AS /g53/g40/g42/g44/g174/g40/g54 DO ESTADO, GARANTINDO QUE TODOS OS /g38/g44/g39/g36/g39/g173/g50/g54 TENHAM ACESSO /g44/g42/g56/g36/g47/g44/g55/g200/g53/g44/g50 A /g54/g40/g53/g57/g44/g100/g50/g54/g3/g39/g40/g3/g54/g36/g210/g39/g40/g3/g48/g40/g49/g55/g36/g47/g3/g39/g40/g3/g52/g56/g36/g47/g44/g39/g36/g39/g40/g17 A /g54/g36/g210/g39/g40 MENTAL /g101 UMA /g52/g56/g40/g54/g55/g173/g50 DE /g54/g36/g210/g39/g40 /g51/g210/g37/g47/g44/g38/g36 QUE AFETA A SOCIEDADE COMO UM TODO. COM A CRESCENTE /g38/g50/g49/g54/g38/g44/g40/g49/g55/g44/g61/g36/g100/g173/g50 SOBRE A /g44/g48/g51/g50/g53/g55/g198/g49/g38/g44/g36 DO TRATAMENTO ADEQUADO PARA TRANSTORNOS MENTAIS E /g39/g40/g51/g40/g49/g39/g199/g49/g38/g44/g36 /g52/g56/g203/g48/g44/g38/g36/g15 TORNA-SE IMPERATIVO QUE O ESTADO ADOTE MEDIDAS QUE REFLITAM ESSA /g40/g57/g50/g47/g56/g100/g173/g50/g17 /g36/g47/g101/g48 DISSO, A /g36/g100/g173/g50 /g51/g53/g40/g54/g54/g56/g51/g174/g40 A /g38/g53/g44/g36/g100/g173/g50 DE PROGRAMAS DE /g53/g40/g44/g49/g55/g40/g42/g53/g36/g100/g173/g50 SOCIAL E PROFISSIONAL, FUNDAMENTAIS PARA A /g53/g40/g38/g56/g51/g40/g53/g36/g100/g173/g50 E /g53/g40/g44/g49/g54/g40/g53/g100/g173/g50 DOS /g44/g49/g39/g44/g57/g203/g39/g56/g50/g54 NA SOCIEDADE. ESTAS MEDIDAS /g54/g173/g50 /g40/g54/g55/g53/g36/g55/g101/g42/g44/g38/g36/g54 PARA A /g53/g40/g39/g56/g100/g173/g50 DE TAXAS DE /g53/g40/g38/g36/g203/g39/g36 E PARA A /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DE UMA COMUNIDADE /g48/g36/g44/g54/g3/g54/g36/g56/g39/g200/g57/g40/g47/g3/g40/g3/g51/g53/g50/g39/g56/g55/g44/g57/g36/g17 DESTARTE, A /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 DA REFERIDA NORMA /g55/g36/g48/g37/g101/g48 REFLETE UM COMPROMISSO COM O DESENVOLVIMENTO SOCIAL E /g40/g38/g50/g49/g208/g48/g44/g38/g50 DO ESTADO, UMA VEZ QUE /g44/g49/g39/g44/g57/g203/g39/g56/g50/g54 RECUPERADOS E REINTEGRADOS CONTRIBUEM /g51/g50/g54/g44/g55/g44/g57/g36/g48/g40/g49/g55/g40/g3/g51/g36/g53/g36/g3/g36/g3/g41/g50/g53/g100/g36/g3/g39/g40/g3/g55/g53/g36/g37/g36/g47/g43/g50/g3/g40/g3/g51/g36/g53/g36/g3/g36/g3/g39/g44/g49/g198/g48/g44/g38/g36/g3/g38/g50/g48/g56/g49/g44/g55/g200/g53/g44/g36/g17 SENDO ASSIM, A /g36/g51/g53/g50/g57/g36/g100/g173/g50 DESTE PROJETO, /g53/g40/g51/g53/g40/g54/g40/g49/g55/g36/g53/g200 UM PASSO SIGNIFICATIVO PARA A /g51/g53/g50/g48/g50/g100/g173/g50 DA /g54/g36/g210/g39/g40 MENTAL E PARA O FORTALECIMENTO /g39/g36/g54/g3/g51/g50/g47/g203/g55/g44/g38/g36/g54/g3/g51/g210/g37/g47/g44/g38/g36/g54/g3/g39/g40/g3/g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36/g3/g54/g50/g38/g44/g36/g47/g3/g40/g48/g3/g49/g50/g54/g54/g50/g3/g40/g54/g55/g36/g39/g50/g17
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g25/g28 PROGRAMA: 0498 - Direitos Humanos e Cidadania /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g23/g26/g3/g16/g3/g42/g68/g85/g68/g81/g87/g76/g68/g3/g71/g82/g86/g3/g39/g76/g85/g72/g76/g87/g82/g86/g3/g71/g68/g3/g51/g72/g86/g86/g82/g68/g3/g70/g82/g80/g3/g39/g72/g73/g76/g70/g76/g114/g81/g70/g76/g68 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g20/g23/g20/g3/g16/g3/g53/g72/g71/g72/g3/g71/g72/g3/g68/g87/g72/g81/g111/g109/g82/g3/g106/g3/g83/g72/g86/g86/g82/g68/g3/g70/g82/g80/g3/g71/g72/g73/g76/g70/g76/g114/g81/g70/g76/g68/g3/g68/g83/g82/g76/g68/g71/g68 META: 25 Justificativa: ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50/g15 COMPREENDIDA PELOS OBJETIVOS E DIRETRIZES DAS /g48/g44/g54/g54/g174/g40/g54 1 E 8, CONFORME ART. /g28/g158/g15 I E VIII, DA LEI /g49/g158 10.266/2023, VISA POSSIBILITAR INCREMENTO NA /g39/g50/g55/g36/g100/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36/g15 AUMENTANDO-SE A /g51/g53/g40/g57/g44/g54/g173/g50 DA META DE 15 (QUINZE) PARA 25 (VINTE E CINCO) /g40/g59/g40/g38/g56/g100/g174/g40/g54 DE APOIO /g172 REDE DE /g36/g55/g40/g49/g100/g173/g50 /g172 PESSOA COM /g39/g40/g41/g44/g38/g44/g199/g49/g38/g44/g36 NO /g40/g59/g40/g53/g38/g203/g38/g44/g50 FINANCEIRO DE 2025.
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g26/g19 PROGRAMA: 0501 - Esporte e Lazer /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g25/g24/g3/g16/g3/g51/g85/g82/g80/g82/g111/g109/g82/g3/g68/g82/g3/g40/g86/g83/g82/g85/g87/g72/g3/g72/g3/g47/g68/g93/g72/g85 PRODUTO: 8119 - BOLSA ATLETA CONCEDIDA META: 700
+
+Justificativa: NO INTUITO DE AUMENTAR O ALCANCE E A /g36/g37/g53/g36/g49/g42/g199/g49/g38/g44/g36 DO "BOLSA ATLETA", PRESTIGIANDO SEUS RESULTADOS E O SUCESSO DA SUA CONTINUIDADE, CONSTATA-SE A /g53/g40/g47/g40/g57/g198/g49/g38/g44/g36 /g51/g210/g37/g47/g44/g38/g36 DO /g53/g40/g41/g50/g53/g100/g50 E INCREMENTO PARA /g36/g48/g51/g47/g44/g36/g100/g173/g50 DAS VAGAS PARA ATLETAS E, PRINCIPALMENTE, PARA PARATLETAS FLUMINENSES. /g51/g50/g47/g203/g55/g44/g38/g36 /g51/g210/g37/g47/g44/g38/g36 DE INICIATIVA PLURAL E AGREGADORA, QUE VALORIZA NOSSOS ESPORTISTAS E OFERECE /g38/g50/g49/g39/g44/g100/g174/g40/g54 PARA QUE POSSAM SE DEDICAR AOS TREINAMENTOS, INTEGRANDO SIMULTANEAMENTE AS /g48/g44/g54/g54/g174/g40/g54 1 E 8, CONFORME ART. /g28/g131/g15 I E VIII, DA LEI /g49/g158 10.266/2023, VERIFICA-SE QUE UM DOS MELHORES /g48/g40/g38/g36/g49/g44/g54/g48/g50/g54/g3/g39/g40/g3/g55/g53/g36/g49/g54/g41/g50/g53/g48/g36/g100/g173/g50/g3/g54/g50/g38/g44/g36/g47/g3/g101/g15/g3/g54/g40/g48/g3/g39/g210/g57/g44/g39/g36/g54/g15/g3/g50/g3/g40/g54/g51/g50/g53/g55/g40/g17/g3 PORTANTO, PARA QUE A /g51/g53/g207/g59/g44/g48/g36 /g40/g39/g44/g100/g173/g50 DO BOLSA ATLETA RJ POSSA CONTEMPLAR MAIS ATLETAS DE ALTO RENDIMENTO E DE BASE, /g49/g40/g38/g40/g54/g54/g200/g53/g44/g50 SE FAZ DISPONIBILIZAR 400 BOLSAS DESTINADAS AOS ATLETAS QUE APRESENTAM RESULTADOS RELEVANTES EM /g38/g50/g48/g51/g40/g55/g44/g100/g174/g40/g54 NACIONAIS E INTERNACIONAIS, E OUTRAS 300 PARA AQUELES QUE /g40/g54/g55/g173/g50 INICIANDO SUAS CARREIRAS. DESTAQUE-SE QUE AS CATEGORIAS /g50/g47/g203/g48/g51/g44/g38/g36 E /g51/g36/g53/g36/g47/g203/g48/g51/g44/g38/g36 TIVERAM AUMENTO NO /g49/g210/g48/g40/g53/g50 DE /g37/g40/g49/g40/g41/g203/g38/g44/g50/g54 EM 2023. NO SEGMENTO /g51/g36/g53/g55/g44/g38/g44/g51/g36/g100/g173/g50 /g50/g47/g203/g48/g51/g44/g38/g36/g15 POR EXEMPLO, HOUVE UM SALTO DE SEIS PARA 18 VAGAS. /g45/g200 NAS CATEGORIAS DE BASE NACIONAL A E INTERNACIONAL B, AS VAGAS DUPLICARAM, DE 30 PARA 60 E 24 PARA 40 RESPECTIVAMENTE. QUE SE POSSA /g40/g49/g55/g173/g50 VIABILIZAR O AUMENTO NA /g51/g53/g40/g57/g44/g54/g173/g50 DE /g57/g36/g42/g36/g54/g15/g3/g38/g50/g49/g41/g40/g53/g44/g49/g39/g50/g3/g36/g50/g54/g3/g36/g55/g47/g40/g55/g36/g54/g3/g48/g36/g44/g50/g53/g3/g36/g38/g40/g54/g54/g44/g37/g44/g47/g44/g39/g36/g39/g40/g3/g40/g3/g44/g49/g38/g47/g56/g54/g173/g50/g17
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g26/g20 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g25/g25/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g68/g82/g3/g56/g86/g82/g3/g71/g72/g3/g39/g85/g82/g74/g68/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g26/g28/g3/g16/g3/g44/g80/g83/g79/g68/g81/g87/g68/g111/g109/g82/g3/g71/g68/g3/g51/g82/g79/g116/g87/g76/g70/g68/g3/g86/g82/g69/g85/g72/g3/g39/g85/g82/g74/g68/g86 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g23/g20/g27/g28/g3/g16/g3/g38/g68/g80/g83/g68/g81/g75/g68/g3/g71/g72/g3/g83/g85/g72/g89/g72/g81/g111/g109/g82/g3/g85/g72/g68/g79/g76/g93/g68/g71/g68 META: 15 Justificativa: ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50/g15 COMPREENDIDA PELOS OBJETIVOS E DIRETRIZES DA /g48/g44/g54/g54/g173/g50 1, CONFORME ART. /g28/g158/g15 I, DA LEI /g49/g158 10.266/2023, VISA AO INCREMENTO DA /g51/g53/g40/g57/g44/g54/g173/g50 DE META DE 8 (OITO) PARA 15 (QUINZE) /g40/g59/g40/g38/g56/g100/g174/g40/g54 DA CAMPANHA DE /g51/g53/g40/g57/g40/g49/g100/g173/g50 A SEREM REALIZADAS NO /g51/g53/g207/g59/g44/g48/g50 /g40/g59/g40/g53/g38/g203/g38/g44/g50 FINANCEIRO, PARA ATENDIMENTO /g172/g54 DEMANDAS CRESCENTES DE /g39/g53/g50/g42/g36/g39/g44/g100/g173/g50 E DA /g51/g50/g51/g56/g47/g36/g100/g173/g50 EM /g54/g44/g55/g56/g36/g100/g173/g50/g3/g39/g40/g3/g53/g56/g36/g18/g57/g56/g47/g49/g40/g53/g36/g37/g44/g47/g44/g39/g36/g39/g40/g17
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g26/g21 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g19/g24/g3/g16/g3/g36/g83/g82/g76/g82/g3/g106/g86/g3/g51/g82/g79/g116/g70/g76/g68/g86/g3/g72/g3/g68/g82/g3/g42/g82/g89/g72/g85/g81/g82/g3/g81/g68/g3/g51/g85/g82/g89/g76/g86/g109/g82/g3/g71/g72/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g51/g126/g69/g79/g76/g70/g68 PRODUTO: 2939 - Policial capacitado META: 200 Justificativa: ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50/g15 COMPREENDIDA PELOS OBJETIVOS E DIRETRIZES DA /g48/g44/g54/g54/g173/g50 9, CONFORME ART. /g28/g158/g15 IX, DA LEI /g49/g158 10.266/2023, VISA AO AUMENTO DE 120 (CENTO E VINTE) PARA 200 (DUZENTOS) POLICIAIS CAPACITADOS NA /g51/g53/g40/g57/g44/g54/g173/g50 DE /g39/g50/g55/g36/g100/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA O /g51/g53/g207/g59/g44/g48/g50 /g40/g59/g40/g53/g38/g203/g38/g44/g50 FINANCEIRO, EM PROL DO ATENDIMENTO DAS DEMANDAS CRESCENTES DE CRIMINALIDADE E DO /g51/g53/g40/g54/g55/g203/g42/g44/g50 /g172 /g51/g53/g50/g48/g50/g100/g173/g50/g3/g39/g50/g54/g3/g36/g42/g40/g49/g55/g40/g54/g3/g40/g48/g3/g54/g56/g36/g3/g51/g53/g50/g42/g53/g40/g54/g54/g173/g50/g3/g39/g40/g3/g38/g36/g53/g53/g40/g44/g53/g36/g17
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g26/g22 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g21/g3/g16/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g72/g3/g48/g82/g71/g72/g85/g81/g76/g93/g68/g111/g109/g82/g3/g81/g68/g3/g54/g68/g126/g71/g72 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g27/g26/g28/g20/g3/g16/g3/g44/g81/g86/g87/g76/g87/g88/g87/g82/g3/g40/g86/g87/g68/g71/g88/g68/g79/g3/g71/g72/g3/g50/g81/g70/g82/g79/g82/g74/g76/g68/g3/g70/g82/g81/g86/g87/g85/g88/g116/g71/g82 META: 1 Justificativa: ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50 FUNDA-SE NA NECESSIDADE DE RESPOSTA AO AUMENTO DAS DEMANDAS /g50/g49/g38/g50/g47/g207/g42/g44/g38/g36/g54 EM NOSSO ESTADO. COM EFEITO, A /g38/g50/g49/g54/g55/g53/g56/g100/g173/g50 DE UM INSTITUTO ESTADUAL DO /g38/g198/g49/g38/g40/g53 VIABILIZARIA O DESENVOLVIMENTO E /g38/g50/g50/g53/g39/g40/g49/g36/g100/g173/g50 DAS /g36/g100/g174/g40/g54 INTEGRADAS PARA A /g51/g53/g40/g57/g40/g49/g100/g173/g50 E O CONTROLE DO /g38/g198/g49/g38/g40/g53 NO ESTADO, EM PARALELO /g172 /g36/g55/g56/g36/g100/g173/g50 DO INCA DA ESFERA FEDERAL. AS /g36/g100/g174/g40/g54 DO INSTITUTO COMPREENDEM A /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 /g48/g101/g39/g44/g38/g50/g16/g43/g50/g54/g51/g44/g55/g36/g47/g36/g53/g15 PRESTADA DIRETA E GRATUITAMENTE AOS PACIENTES COM /g38/g198/g49/g38/g40/g53 COMO PARTE DOS /g54/g40/g53/g57/g44/g100/g50/g54 OFERECIDOS PELO SISTEMA /g210/g49/g44/g38/g50 DE /g54/g36/g210/g39/g40/g15 E A /g36/g55/g56/g36/g100/g173/g50 EM /g200/g53/g40/g36/g54 /g40/g54/g55/g53/g36/g55/g101/g42/g44/g38/g36/g54/g15 COMO /g51/g53/g40/g57/g40/g49/g100/g173/g50 E /g39/g40/g55/g40/g38/g100/g173/g50 PRECOCE, /g41/g50/g53/g48/g36/g100/g173/g50 DE PROFISSIONAIS ESPECIALIZADOS, DESENVOLVIMENTO DA PESQUISA E /g42/g40/g53/g36/g100/g173/g50 DE /g44/g49/g41/g50/g53/g48/g36/g100/g173/g50 /g40/g51/g44/g39/g40/g48/g44/g50/g47/g207/g42/g44/g38/g36/g17 AO INSTITUTO CABE COORDENAR PROGRAMAS ESTADUAIS PARA O CONTROLE DO /g38/g198/g49/g38/g40/g53 E DEVE SER /g40/g52/g56/g44/g51/g36/g39/g50/g3/g38/g50/g48/g3/g48/g50/g39/g40/g53/g49/g50/g3/g51/g36/g53/g52/g56/g40/g3/g51/g210/g37/g47/g44/g38/g50/g3/g39/g40/g3/g39/g44/g36/g42/g49/g207/g54/g55/g44/g38/g50/g3/g51/g50/g53/g3/g44/g48/g36/g42/g40/g48/g17 O AUMENTO DA COBERTURA E QUALIDADE DA /g36/g55/g40/g49/g100/g173/g50 /g172 /g54/g36/g210/g39/g40 EM NOSSO ESTADO INTEGRA AS /g48/g44/g54/g54/g174/g40/g54 I E 8, CONFORME ART. /g28/g158/g15 I E VIII, DA LEI /g49/g158 10.266/2023.
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g26/g23 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g26/g21/g3/g16/g3/g36/g87/g88/g68/g111/g109/g82/g3/g71/g68/g3/g54/g40/g51/g48/g3/g81/g68/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g71/g68/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g71/g82/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3 Criminalidade /g51/g53/g50/g39/g56/g55/g50/g29/g3/g25/g25/g24/g20/g3/g16/g3/g56/g81/g76/g71/g68/g71/g72/g3/g51/g82/g79/g76/g70/g76/g68/g79/g3/g48/g76/g79/g76/g87/g68/g85/g3/g70/g82/g81/g86/g87/g85/g88/g116/g71/g68 META: 4 Justificativa: ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50/g15 COMPREENDIDA PELOS OBJETIVOS E DIRETRIZES DA /g48/g44/g54/g54/g173/g50 9, CONFORME ART. /g28/g158/g15 IX, DA LEI /g49/g158 10.266/2023, VISA /g172 /g51/g53/g40/g57/g44/g54/g173/g50 DE /g39/g50/g55/g36/g100/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA O AUMENTO DA META EM SEU DOBRO PARA O /g51/g53/g207/g59/g44/g48/g50 /g40/g59/g40/g53/g38/g203/g38/g44/g50 FINANCEIRO, POSSIBILITANDO A /g39/g40/g54/g38/g40/g49/g55/g53/g36/g47/g44/g61/g36/g100/g173/g50 DE UNIDADES OPERACIONAIS DA /g51/g50/g47/g203/g38/g44/g36 MILITAR, EM FAVOR DO INCREMENTO DA INFRAESTRUTURA DA /g38/g50/g53/g51/g50/g53/g36/g100/g173/g50 NO ALCANCE DAS SUAS /g41/g56/g49/g100/g174/g40/g54 INSTITUCIONAIS.
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g26/g24 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g25/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g85/g76/g86/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g86/g86/g82/g70/g76/g68/g79/g76/g93/g68/g111/g109/g82/g3/g71/g82/g86/g3/g38/g88/g86/g87/g82/g71/g76/g68/g71/g82/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g20/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g82/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g72/g81/g76/g87/g72/g81/g70/g76/g105/g85/g76/g82 PRODUTO: 2340 - Unidade prisional reformada META: 10 Justificativa: INTEGRADA /g172 /g48/g44/g54/g54/g173/g50 9, CONFORME ART. /g28/g158/g15 IX, DA LEI /g49/g158 10.266/2023, ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50 VISA /g172 /g39/g56/g51/g47/g44/g38/g36/g100/g173/g50 DA QUANTIDADE DE UNIDADES PRISIONAIS REFORMADAS, CONSIDERANDO-SE A /g53/g40/g47/g40/g57/g198/g49/g38/g44/g36 E A UTILIDADE DA MEDIDA, NOTADAMENTE DIANTE DA /g54/g44/g55/g56/g36/g100/g173/g50 EM QUE SE ENCONTRA A INFRAESTRUTURA DOS ESTABELECIMENTOS PENAIS DO NOSSO ESTADO E DAS DEMANDAS CRESCENTES DO SISTEMA PENAL.
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g26/g25 PROGRAMA: 0494 - Meio Ambiente e Sustentabilidade /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g25/g19/g3/g16/g3/g36/g80/g83/g79/g76/g68/g111/g109/g82/g3/g72/g3/g48/g72/g79/g75/g82/g85/g76/g68/g3/g71/g68/g3/g38/g82/g69/g72/g85/g87/g88/g85/g68/g3/g71/g72/g3/g54/g68/g81/g72/g68/g80/g72/g81/g87/g82/g3/g37/g105/g86/g76/g70/g82 /g51/g53/g50/g39/g56/g55/g50/g29/g3/g22/g22/g22/g22/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g71/g72/g3/g68/g69/g68/g86/g87/g72/g70/g76/g80/g72/g81/g87/g82/g3/g71/g72/g3/g105/g74/g88/g68/g3/g68/g80/g83/g79/g76/g68/g71/g82 META: 5 Justificativa: A PROPOSTA QUE INTEGRA A /g48/g44/g54/g54/g173/g50 1, CONFORME /g36/g53/g55/g17/g28/g158/g15 III DA LEI /g49/g158 10.266/2023, A /g44/g49/g55/g40/g49/g100/g36/g50 DA /g36/g48/g51/g47/g44/g36/g100/g173/g50 AO SISTEMA DE ABASTECIMENTO DE /g200/g42/g56/g36 /g101 MELHORAR O /g54/g40/g53/g57/g44/g100/g50 DE FORNECIMENTO DA /g200/g42/g56/g36 PARA TODA /g51/g50/g51/g56/g47/g36/g100/g173/g50/g17 TENDO EM VISTA QUE A FALTA DE /g200/g42/g56/g36 /g101 UM PROBLEMA GRAVE QUE VIOLA UM DIREITO HUMANO FUNDAMENTAL E AFETA A DIGNIDADE DAS PESSOAS.
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g26/g26 /g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g25/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g85/g76/g86/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g86/g86/g82/g70/g76/g68/g79/g76/g93/g68/g111/g109/g82/g3/g71/g82/g86/g3/g38/g88/g86/g87/g82/g71/g76/g68/g71/g82/g86 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g20/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g82/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g72/g81/g76/g87/g72/g81/g70/g76/g105/g85/g76/g82 NOVO PRODUTO: VIATURA BLINDADA SEAP ADQUIRIDA META: 1 Justificativa: ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50/g15 QUE INTEGRA A /g48/g44/g54/g54/g173/g50 9: "A GARANTIA DA /g54/g40/g42/g56/g53/g36/g49/g100/g36 /g51/g210/g37/g47/g44/g38/g36 NOS /g55/g40/g53/g53/g44/g55/g207/g53/g44/g50/g54/g5/g15 CONFORME ART. /g28/g158/g15 IX, DA LEI /g49/g158 10.266/2023, JUSTIFICA-SE PELA NECESSIDADE E /g53/g40/g47/g40/g57/g198/g49/g38/g44/g36 DE SE EQUIPAR A
+
+/g51/g50/g47/g203/g38/g44/g36 PENAL, TANTO EM PROL DA /g40/g41/g44/g38/g200/g38/g44/g36 DE SUAS /g41/g56/g49/g100/g174/g40/g54 INSTITUCIONAIS, QUANTO EM /g51/g53/g40/g54/g55/g203/g42/g44/g50 DA /g54/g40/g42/g56/g53/g36/g49/g100/g36 E INTEGRIDADE DE SEUS AGENTES. COM EFEITO, DESDE O /g40/g59/g40/g53/g38/g203/g38/g44/g50 PASSADO CONSTATA-SE O /g40/g54/g41/g50/g53/g100/g50 QUE VEM SENDO DEMANDADO PARA A /g36/g52/g56/g44/g54/g44/g100/g173/g50 DE UM /g57/g40/g203/g38/g56/g47/g50 BLINDADO PARA /g39/g40/g54/g55/g44/g49/g36/g100/g173/g50 /g172 SECRETARIA ESTADUAL DE /g36/g39/g48/g44/g49/g44/g54/g55/g53/g36/g100/g173/g50 /g51/g40/g49/g44/g55/g40/g49/g38/g44/g200/g53/g44/g36/g15 CONHECIDA A REALIDADE E AS /g38/g50/g49/g39/g44/g100/g174/g40/g54 DAS TAREFAS E ATIVIDADES INERENTES, BEM COMO O /g38/g40/g49/g200/g53/g44/g50 DE RISCO E DE CRESCIMENTO DA CRIMINALIDADE EM NOSSO ESTADO, PRINCIPALMENTE NAS PERIFERIAS E /g200/g53/g40/g36/g54 COMPREENDIDAS POR COMUNIDADES CARENTES.
+
+## Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g26/g27
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g26/g27/g3/g16/g3/g51/g85/g72/g89/g72/g81/g111/g109/g82/g3/g106/g3/g57/g76/g82/g79/g114/g81/g70/g76/g68/g3/g72/g3/g38/g82/g80/g69/g68/g87/g72/g3/g106/g3/g38/g85/g76/g80/g76/g81/g68/g79/g76/g71/g68/g71/g72
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g19/g24/g3/g16/g3/g36/g83/g82/g76/g82/g3/g106/g86/g3/g51/g82/g79/g116/g70/g76/g68/g86/g3/g72/g3/g68/g82/g3/g42/g82/g89/g72/g85/g81/g82/g3/g81/g68/g3/g51/g85/g82/g89/g76/g86/g109/g82/g3/g71/g72/g3/g54/g72/g74/g88/g85/g68/g81/g111/g68/g3/g51/g126/g69/g79/g76/g70/g68 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g51/g53/g50/g42/g53/g36/g48/g36/g3/g39/g40/g3/g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36/g3/g45/g56/g53/g203/g39/g44/g38/g36/g3/g36/g50/g54/g3/g36/g42/g40/g49/g55/g40/g54/g3/g39/g40/g3 /g54/g40/g42/g56/g53/g36/g49/g100/g36/g3/g51/g210/g37/g47/g44/g38/g36 META: 2.222
+
+Justificativa: ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50 VISA ASSEGURAR /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 /g45/g56/g53/g203/g39/g44/g38/g36 GRATUITA AOS AGENTES DE /g54/g40/g42/g56/g53/g36/g49/g100/g36 /g51/g210/g37/g47/g44/g38/g36 QUANDO SUBMETIDOS A PROCESSOS/PROCEDIMENTOS ADMINISTRATIVOS, DISCIPLINARES E JUDICIAIS EM /g53/g36/g61/g173/g50 DO /g40/g59/g40/g53/g38/g203/g38/g44/g50 REGULAR DE SUAS /g41/g56/g49/g100/g174/g40/g54 OU EM VIRTUDE DELAS, /g45/g200 QUE TAL MISTER /g101 EXERCIDO 24H POR DIA E NECESSITA SER VALORIZADO E PROTEGIDO COMO TAL.
+
+A /g36/g56/g54/g199/g49/g38/g44/g36 DE /g36/g54/g54/g44/g54/g55/g199/g49/g38/g44/g36 /g45/g56/g53/g203/g39/g44/g38/g36 E ADMINISTRATIVA, JUDICIAL E DISCIPLINAR /g101 UMA GRAVE LACUNA QUE COLOCA EM ESTADO DE VULNERABILIDADE NOSSOS VALOROSOS PROFISSIONAIS DA /g54/g40/g42/g56/g53/g36/g49/g100/g36 /g51/g210/g37/g47/g44/g38/g36/g15 CARACTERIZANDO /g49/g50/g55/g200/g57/g40/g47 FALHA ESTRUTURAL QUE ACARRETA O /g39/g40/g54/g40/g54/g55/g203/g48/g56/g47/g50 OPERACIONAL DE NOSSOS BRAVOS /g43/g40/g53/g207/g44/g54/g17 ADEMAIS, O ACESSO /g172 /g45/g56/g54/g55/g44/g100/g36 /g101 ELEMENTO BASILAR DO ESTADO /g39/g40/g48/g50/g38/g53/g200/g55/g44/g38/g50 DE DIREITO, SENDO /g50/g37/g53/g44/g42/g36/g100/g173/g50 DO LEGISLADOR VIABILIZAR /g38/g50/g49/g38/g53/g40/g55/g36/g48/g40/g49/g55/g40/g3/g55/g36/g47/g3/g51/g53/g40/g57/g44/g54/g173/g50/g3/g38/g50/g49/g54/g55/g44/g55/g56/g38/g44/g50/g49/g36/g47/g17
+
+/g55/g36/g47/g3/g40/g48/g40/g49/g39/g36/g3/g44/g49/g55/g40/g42/g53/g36/g3/g36/g3/g48/g44/g54/g54/g173/g50/g3/g28/g3/g16/g3/g38/g50/g49/g41/g50/g53/g48/g40/g3/g36/g53/g55/g17/g3/g28/g158/g15/g3/g44/g59/g15/g3/g39/g36/g3/g47/g40/g44/g3/g49/g158/g3/g20/g19/g17/g21/g25/g25/g18/g21/g19/g21/g22/g17 IMPORTANTE RESSALTAR E RECONHECER QUE OS AGENTES DE /g54/g40/g42/g56/g53/g36/g49/g100/g36 /g51/g210/g37/g47/g44/g38/g36/g15 SERVIDORES /g51/g210/g37/g47/g44/g38/g50/g54 INVESTIDOS EM /g41/g56/g49/g100/g173/g50 DE ESTADO, ENFRENTAM DIFICULDADES EXTREMAS PARA A DEFESA EM PROCESSOS ORIUNDOS DO SEU DEVER DE AGIR, SOBRETUDO AQUELES QUE OCUPAM CARGOS /g49/g173/g50 SUPERIORES, ESTANDO MUITA DAS VEZES EM /g54/g44/g55/g56/g36/g100/g173/g50 DE /g43/g44/g51/g50/g54/g54/g56/g41/g44/g38/g44/g199/g49/g38/g44/g36/g15 MERECENDO /g36/g54/g54/g44/g48/g3/g56/g48/g36/g3/g40/g54/g51/g40/g38/g44/g36/g47/g3/g36/g55/g40/g49/g100/g173/g50/g3/g39/g50/g3/g40/g54/g55/g36/g39/g50/g17
+
+## Deputada India Armelau
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g26/g28
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g20/g3/g16/g3/g36/g87/g72/g81/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79/g3/g106/g3/g54/g68/g126/g71/g72 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g40/g49/g55/g53/g50/g3/g39/g40/g3/g53/g40/g41/g40/g53/g199/g49/g38/g44/g36/g3/g40/g48/g3/g39/g44/g36/g37/g36/g55/g40/g54 META: 1
+
+Justificativa: ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50/g15 INTEGRADA /g172 /g5/g48/g44/g54/g54/g173/g50 1: /g40/g53/g53/g36/g39/g44/g38/g36/g100/g173/g50 DA EXTREMA POBREZA", EM SUA DIRETIVA DE /g5/g54/g56/g51/g40/g53/g36/g100/g173/g50 DA POBREZA INTERGERACIONAL", COM OBJETIVO /g40/g54/g51/g40/g38/g203/g41/g44/g38/g50 DE "AUMENTO DA COBERTURA E QUALIDADE DA /g36/g55/g40/g49/g100/g173/g50 /g51/g53/g44/g48/g200/g53/g44/g36 /g172 /g54/g36/g210/g39/g40 NO ESTADO", CONFORME /g51/g53/g40/g57/g44/g54/g173/g50 DO ANEXO I DO "PLANO /g40/g54/g55/g53/g36/g55/g101/g42/g44/g38/g50 DE DESENVOLVIMENTO /g40/g38/g50/g49/g208/g48/g44/g38/g50 E SOCIAL DO ESTADO DO RIO DE JANEIRO PEDES PARA O /g51/g40/g53/g203/g50/g39/g50 DE 2024 A 2031", /g44/g49/g54/g55/g44/g55/g56/g203/g39/g50 PELA LEI /g49/g158 10.266, DE 28 DE DEZEMBRO DE 2023 (V. ART. /g28/g158/g15 I) , TEM COMO FINALIDADE VIABILIZAR /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA A /g38/g53/g44/g36/g100/g173/g50 DE UM "CENTRO DE /g53/g40/g41/g40/g53/g199/g49/g38/g44/g36 EM DIABETES" (OBJETO DO PROJETO DE LEI /g49/g158 1615/2023, QUE TRAMITA NESTA CASA), APTO A PROPORCIONAR E OFERECER ATENDIMENTO MULTIDISCIPLINAR, BEM COMO A DEMOCRATIZAR O ACESSO AO TRATAMENTO /g55/g40/g38/g49/g50/g47/g207/g42/g44/g38/g50 DO DIABETES COMO FERRAMENTA DE /g44/g49/g38/g47/g56/g54/g173/g50 SOCIAL, DISPONIBILIZANDO /g172/g54 PESSOAS /g45/g200 DIAGNOSTICADAS ATENDIMENTO MULTIDISCIPLINAR /g11/g48/g101/g39/g44/g38/g50/g15 ENFERMEIRO, NUTRICIONISTA, ASSISTENTE SOCIAL, FISIOTERAPIA, PSICOLOGIA).
+
+## Deputada India Armelau
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g27/g19
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g20/g3/g16/g3/g36/g87/g72/g81/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79/g3/g106/g3/g54/g68/g126/g71/g72 NOVO PRODUTO: CIRURGIA REPARADORA REALIZADA META: 22.000
+
+Justificativa: A PROPOSTA, COMPREENDIDA PELAS DIRETRIZES DA /g48/g44/g54/g54/g173/g50 1, CONFORME ART /g28/g158/g15 I, DA LEI /g49/g158 10.266/2023, VISA REALIZAR A CIRURGIA REPARADORA DE MAMA EM /g39/g40/g38/g50/g53/g53/g199/g49/g38/g44/g36 DO TRATAMENTO CONTRA O /g38/g198/g49/g38/g40/g53/g15 OU DA /g48/g56/g55/g44/g47/g36/g100/g173/g50 CAUSADA POR QUEIMADURAS QUE ABALAM A AUTOESTIMA E GERA DIFICULDADE DE /g36/g38/g40/g44/g55/g36/g100/g173/g50 DA /g51/g53/g207/g51/g53/g44/g36 IMAGEM. A /g51/g44/g42/g48/g40/g49/g55/g36/g100/g173/g50 SERVE COMO UM RECURSO PARA A MULHER QUE TEVE /g38/g198/g49/g38/g40/g53 OU SOFREU QUEIMADURA, NO /g36/g56/g59/g203/g47/g44/g50 PARA LIDAR MELHOR COM O NOVO CORPO, COM A /g44/g48/g51/g47/g40/g48/g40/g49/g55/g36/g100/g173/g50 DESTE PRODUTO /g40/g54/g55/g36/g53/g200 CRIADA A /g51/g53/g40/g57/g44/g54/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 DE /g39/g50/g55/g36/g100/g173/g50 PARA A /g40/g59/g40/g38/g56/g100/g173/g50 DA PRETENSA NORMA DECORRENTE DA /g36/g51/g53/g50/g57/g36/g100/g173/g50 DO PROJETO DE LEI /g49/g158 897/2023 QUE TRAMITA NESTA CASA PARA DISPOR ALTERA A LEI /g49/g158 4102 DE 05 DE MAIO DE 2003 QUE DETERMINA PROCEDIMENTOS PARA A /g53/g40/g36/g47/g44/g61/g36/g100/g173/g50 DE CIRURGIA /g51/g47/g200/g54/g55/g44/g38/g36 REPARADORA DA MAMA NOS CASOS QUE MENCIONA E /g39/g200 OUTRAS /g51/g53/g50/g57/g44/g39/g199/g49/g38/g44/g36/g54/g17 BEM COMO PARA MELHOR /g40/g59/g40/g38/g56/g100/g173/g50 DA LEI /g49/g158 4102 DE 05 DE MAIO DE 2003.
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g27/g20
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g23/g23/g22/g3/g16/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g37/g105/g86/g76/g70/g68 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g19/g28/g21/g3/g16/g3/g41/g82/g80/g72/g81/g87/g82/g3/g106/g3/g40/g71/g88/g70/g68/g111/g109/g82/g3/g44/g81/g87/g72/g74/g85/g68/g79 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g47/g44/g48/g36/g55/g44/g61/g36/g100/g173/g50/g3/g39/g40/g3/g54/g36/g47/g36/g3/g39/g40/g3/g36/g56/g47/g36/g3/g44/g48/g51/g47/g36/g49/g55/g36/g39/g36 META: 12.233
+
+Justificativa: ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50/g15 QUE INTEGRA O ROL EXEMPLIFICATIVO DAS /g48/g44/g54/g54/g174/g40/g54 1 E 8, CONFORME ART. /g28/g158/g15 I E VIII, DA LEI /g49/g158 10.266/2023, VISA /g172 /g51/g53/g40/g57/g44/g54/g173/g50 DE /g39/g50/g55/g36/g100/g173/g50 /g50/g53/g100/g36/g48/g40/g49/g55/g200/g53/g44/g36 PARA /g38/g47/g44/g48/g36/g55/g44/g61/g36/g100/g173/g50 DAS SALAS DE AULA DAS UNIDADES DE ENSINO ESTADUAIS, CONSIDERANDO-SE AS DEMANDAS DECORRENTES DA /g40/g47/g40/g57/g36/g100/g173/g50 DOS /g49/g203/g57/g40/g44/g54 DE CALOR E /g54/g40/g49/g54/g36/g100/g173/g50 /g55/g101/g53/g48/g44/g38/g36 DIANTE DOS /g41/g40/g49/g208/g48/g40/g49/g50/g54 E DAS /g38/g50/g49/g39/g44/g100/g174/g40/g54 /g38/g47/g44/g48/g200/g55/g44/g38/g36/g54 QUE /g55/g199/g48 SIDO CONSTATADOS, /g55/g36/g49/g55/g50/g3/g49/g36/g3/g200/g53/g40/g36/g3/g56/g53/g37/g36/g49/g36/g3/g52/g56/g36/g49/g55/g50/g3/g49/g36/g54/g3/g200/g53/g40/g36/g54/g3/g53/g56/g53/g36/g44/g54/g3/g39/g50/g3/g49/g50/g54/g54/g50/g3/g40/g54/g55/g36/g39/g50/g17
+
+## Deputada India Armelau
+
+/g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g27/g21
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g25/g3/g16/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g85/g76/g86/g76/g82/g81/g68/g79/g3/g72/g3/g53/g72/g86/g86/g82/g70/g76/g68/g79/g76/g93/g68/g111/g109/g82/g3/g71/g82/g86/g3/g38/g88/g86/g87/g82/g71/g76/g68/g71/g82/g86
+
+/g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g27/g20/g3/g16/g3/g42/g72/g86/g87/g109/g82/g3/g71/g82/g3/g54/g76/g86/g87/g72/g80/g68/g3/g51/g72/g81/g76/g87/g72/g81/g70/g76/g105/g85/g76/g82 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g36/g38/g36/g39/g40/g48/g44/g36/g3/g39/g40/g3/g51/g50/g47/g203/g38/g44/g36/g3/g51/g40/g49/g36/g47/g3/g38/g50/g49/g54/g55/g53/g56/g203/g39/g36 META: 1
+
+Justificativa: ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50/g15 QUE INTEGRA EXEMPLIFICARMENTE AS DIRETRIZES E OBJETIVOS DA /g48/g44/g54/g54/g173/g50 9, CONFORME ART. /g28/g158/g15 IX, DA LEI /g49/g158 10.266/2023, JUSTIFICASE DIANTE DA NECESSIDADE DE /g51/g53/g40/g57/g44/g54/g173/g50 NO LIVRO DO /g50/g53/g100/g36/g48/g40/g49/g55/g50 DO /g51/g53/g207/g59/g44/g48/g50 /g40/g59/g40/g53/g38/g203/g38/g44/g50 FINANCEIRO, PARA QUE DELE CONSTE A RESPECTIVA /g40/g59/g40/g38/g56/g100/g173/g50 /g51/g53/g50/g42/g53/g36/g48/g200/g55/g44/g38/g36/g15 /g45/g200 EM PLANEJAMENTO E COM PROVAVEL RESERVA DE /g39/g50/g55/g36/g100/g173/g50/g17 COM EFEITO, A /g44/g48/g51/g47/g36/g49/g55/g36/g100/g173/g50 DE TAL EQUIPAMENTO VEM ATENDER DEMANDA QUE SE ADEQUA AOS /g38/g53/g44/g55/g101/g53/g44/g50/g54 PREMENTES DE NECESSIDADE, /g53/g40/g47/g40/g57/g198/g49/g38/g44/g36 E UTILIDADE /g51/g210/g37/g47/g44/g38/g36/g54/g15 AMPARADA POR SI MESMA EM SEUS /g51/g53/g207/g51/g53/g44/g50/g54 ATRIBUTOS E /g38/g36/g53/g36/g38/g55/g40/g53/g203/g54/g55/g44/g38/g36/g54/g17
+
+Deputada India Armelau /g40/g80/g72/g81/g71/g68/g3/g49/g158/g3/g23/g27/g22
+
+/g51/g53/g50/g42/g53/g36/g48/g36/g29/g3/g19/g24/g19/g27/g3/g16/g3/g40/g86/g87/g85/g68/g87/g112/g74/g76/g68/g3/g72/g3/g42/g72/g86/g87/g109/g82/g3/g71/g68/g3/g54/g68/g126/g71/g72 /g44/g49/g44/g38/g44/g36/g55/g44/g57/g36/g29/g3/g19/g20/g24/g21/g3/g16/g3/g40/g91/g83/g68/g81/g86/g109/g82/g3/g72/g3/g48/g82/g71/g72/g85/g81/g76/g93/g68/g111/g109/g82/g3/g81/g68/g3/g54/g68/g126/g71/g72 /g49/g50/g57/g50/g3/g51/g53/g50/g39/g56/g55/g50/g29/g3/g38/g36/g54/g36/g3/g39/g50/g3/g36/g56/g55/g44/g54/g55/g36/g3/g38/g50/g49/g54/g55/g53/g56/g203/g39/g36 META: 2
+
+Justificativa: ESTA /g51/g53/g50/g51/g50/g54/g44/g100/g173/g50/g15 QUE INTEGRA EXEMPLIFICADAMENTE OS OBJETIVOS E DIRETRIZES DA /g48/g44/g54/g54/g173/g50 1, CONFORME ART. /g28/g158/g15 I, DA LEI /g49/g158 10.266/2023, VISA ATENDER /g172 DEMANDA DECORRENTE DO CRESCIMENTO DA QUANTIDADE DE
+
+Id:  2588999
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Id:  2588951
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- 319
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+327
+
+328
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+332
+
+Id:  2588983
+
+329
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+## Id:  2588955
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+31
+
+<!-- image -->
+
+<!-- image -->
+
+314
+
+<!-- image -->
+
+<!-- image -->
+
+315
+
+<!-- image -->
+
+<!-- image -->
+
+316
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+- 317
+
+<!-- image -->
+
+3
+
+Id:  2588981
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+205
+
+<!-- image -->
+
+Id:  2588958
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- paginas 61-75 -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+<!-- image -->
+
+DO
+
+JANEIRO
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+Id:  2588966
+
+DO
+
+ESTADO
+
+DO
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Id:  2588967
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+27
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+280
+
+<!-- image -->
+
+28
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+28
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Id:  2588974
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Id:  2588976
+
+<!-- image -->
+
+29
+
+<!-- image -->
+
+<!-- image -->
+
+DO
+
+ESTADO
+
+DO
+
+RIO
+
+DE
+
+JANEIRO
+
+30
+
+<!-- image -->
