@@ -57,14 +57,27 @@ class RjIoerjCollector(BaseGazetteCollector):
         encoded = base64.b64encode(publication_date.strftime("%Y%m%d").encode("ascii")).decode("ascii")
         url = urljoin(self.base_url, f"do_seleciona_edicao.php?data={encoded}")
         page = self.fetch_text(url)
-        editions: list[Edition] = []
+        raw_editions: list[tuple[str, str]] = []
         for match in EDITION_LINK_RE.finditer(page):
             label = clean_html(match.group("label"))
+            raw_editions.append((label, urljoin(self.base_url, html.unescape(match.group("href")))))
+
+        editions: list[Edition] = []
+        label_counts: dict[str, int] = {}
+        total_by_label: dict[str, int] = {}
+        for label, _ in raw_editions:
+            total_by_label[label] = total_by_label.get(label, 0) + 1
+
+        for label, edition_url in raw_editions:
+            label_counts[label] = label_counts.get(label, 0) + 1
+            edition_label = label
+            if total_by_label[label] > 1 and label_counts[label] > 1:
+                edition_label = f"{label} - Complementar {label_counts[label]}"
             editions.append(
                 Edition(
                     publication_date=publication_date,
-                    section=label,
-                    url=urljoin(self.base_url, html.unescape(match.group("href"))),
+                    section=edition_label,
+                    url=edition_url,
                 )
             )
         return editions
