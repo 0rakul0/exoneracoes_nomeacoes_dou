@@ -110,6 +110,7 @@ def parse_acts(
     markdown_path: Path,
 ) -> list[Act]:
     normalized = SPACE_RE.sub(" ", text)
+    context_markers = authority_context_markers(normalized)
     acts: list[Act] = []
     seen: set[tuple[str, str, str]] = set()
 
@@ -127,6 +128,11 @@ def parse_acts(
         agency = clean_piece(agency_match.group(0)) if agency_match else ""
         functional_id = extract_functional_id(body)
         signer_name, signer_role, signer_category = extract_signer(excerpt)
+        if not signer_role:
+            signer_name, signer_role, signer_category = contextual_signer(
+                context_markers,
+                match.start(),
+            )
         key = (action, person_name, excerpt[:180])
         if key in seen:
             continue
@@ -152,6 +158,77 @@ def parse_acts(
             )
         )
     return acts
+
+
+def authority_context_markers(text: str) -> list[tuple[int, str, str, str]]:
+    markers: list[tuple[int, str, str, str]] = []
+    upper = text.upper()
+
+    marker_patterns = [
+        (
+            r"\b(?:ATOS\s+DO\s+)?GOVERNADOR(?:\s+DO\s+ESTADO\s+DO\s+RIO\s+DE\s+JANEIRO)?\s*,?\s+EM\s+EXERC\S*CIO\b",
+            "Governador em exercicio",
+            "2",
+        ),
+        (
+            r"\bRICARDO\s+COUTO\s+DE\s+CASTRO\b.{0,120}\bGOVERNADOR\s+EM\s+EXERC\S*CIO\b",
+            "Governador em exercicio",
+            "2",
+        ),
+        (
+            r"\b(?:ATOS\s+DO\s+GOVERNADOR|O\s+GOVERNADOR\s+DO\s+ESTADO\s+DO\s+RIO\s+DE\s+JANEIRO)\b(?!\s*,?\s+EM\s+EXERC)",
+            "Governador",
+            "1",
+        ),
+        (
+            r"\b(?:ATOS|APOSTILAS|DESPACHOS)\s+DO\s+SECRET\S*RIO\s+DE\s+ESTADO\b|\bO\s+SECRET\S*RIO\s+DE\s+ESTADO\b",
+            "Secretario de Estado",
+            "4",
+        ),
+        (
+            r"\b(?:ATOS|APOSTILAS|DESPACHOS)\s+DO\s+SECRET\S*RIO\b|\bO\s+SECRET\S*RIO\b",
+            "Secretario",
+            "5",
+        ),
+    ]
+
+    for pattern, role, category in marker_patterns:
+        for match in re.finditer(pattern, upper, flags=re.I | re.S):
+            markers.append(
+                (
+                    match.start(),
+                    contextual_signer_name(upper, match.start(), match.end(), role),
+                    role,
+                    category,
+                )
+            )
+
+    return sorted(markers, key=lambda item: item[0])
+
+
+def contextual_signer(
+    markers: list[tuple[int, str, str, str]],
+    act_start: int,
+) -> tuple[str, str, str]:
+    if not markers:
+        return "", "", ""
+
+    previous_markers = [marker for marker in markers if marker[0] <= act_start]
+    if previous_markers:
+        return previous_markers[-1][1:]
+
+    next_marker = next((marker for marker in markers if marker[0] > act_start), None)
+    if next_marker and next_marker[2] in {"Governador", "Governador em exercicio"}:
+        return next_marker[1:]
+
+    return "", "", ""
+
+
+def contextual_signer_name(text_upper: str, start: int, end: int, role: str) -> str:
+    window = text_upper[max(0, start - 160): min(len(text_upper), end + 220)]
+    if role == "Governador em exercicio" and "RICARDO COUTO" in window:
+        return "RICARDO COUTO DE CASTRO"
+    return ""
 
 
 def extract_functional_id(body: str) -> str:
