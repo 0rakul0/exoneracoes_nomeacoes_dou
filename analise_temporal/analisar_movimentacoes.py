@@ -13,6 +13,15 @@ from typing import Any, Iterable
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+from diarios_oficiais.governadores import (
+    governador_da_edicao,
+    nome_representante_governo,
+    origem_representante_governo,
+)
+
 DEFAULT_INPUT_DIR = PROJECT_ROOT / "saida"
 DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "saida" / "analises"
 DEFAULT_LAKE_DIR = PROJECT_ROOT / "LAKE"
@@ -284,6 +293,8 @@ def read_rows(paths: Iterable[Path], nlp: Any | None, spacy_mode: str) -> list[d
                     row["_nome_rejeicao"] = "spacy_nao_confirmou_pessoa"
                 row["_cargo_normalizado"] = normalize_text(row.get("cargo", ""))
                 row["_orgao_normalizado"] = normalize_text(row.get("orgao", ""))
+                if not row.get("governador_edicao", ""):
+                    row["governador_edicao"] = governador_da_edicao(row.get("arquivo_markdown", ""))
                 rows.append(row)
     return rows
 
@@ -319,6 +330,8 @@ def build_timeline_rows(
             action_type = row.get("tipo_ato", "")
             event_date = row["_data"]
             milestone = latest_milestone(event_date, milestones)
+            governor = row.get("governador_edicao", "")
+            representative = nome_representante_governo(governor)
 
             returned_after_exoneration = action_type == "nomeacao" and last_exoneration is not None
             days_since_exoneration = ""
@@ -360,6 +373,9 @@ def build_timeline_rows(
                 "assinante": row.get("assinante", ""),
                 "cargo_assinante": row.get("cargo_assinante", ""),
                 "categoria_assinante": row.get("categoria_assinante", ""),
+                "governador_edicao": governor,
+                "representante_governo": representative,
+                "origem_representante": origem_representante_governo(governor),
                 "caderno": row.get("caderno", ""),
                 "fonte_url": row.get("fonte_url", ""),
                 "arquivo_markdown": row.get("arquivo_markdown", ""),
@@ -427,6 +443,7 @@ def build_rejected_name_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]
     for row in rows:
         if not row["_nome_rejeicao"]:
             continue
+        governor = row.get("governador_edicao", "")
         rejected.append(
             {
                 "motivo_rejeicao": row["_nome_rejeicao"],
@@ -442,6 +459,9 @@ def build_rejected_name_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]
                 "assinante": row.get("assinante", ""),
                 "cargo_assinante": row.get("cargo_assinante", ""),
                 "categoria_assinante": row.get("categoria_assinante", ""),
+                "governador_edicao": governor,
+                "representante_governo": nome_representante_governo(governor),
+                "origem_representante": origem_representante_governo(governor),
                 "fonte_url": row.get("fonte_url", ""),
                 "arquivo_markdown": row.get("arquivo_markdown", ""),
                 "arquivo_csv": row.get("_arquivo_csv", ""),

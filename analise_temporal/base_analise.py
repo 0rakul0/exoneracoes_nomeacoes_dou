@@ -95,7 +95,7 @@ def extract_governor_name_near_acting_phrase(text):
 
 def extract_named_role(text, role, stop_role=None):
     prefix = text[:15000]
-    escaped_role = re.escape(role)
+    escaped_role = r"(?<!VICE-)GOVERNADOR" if role.upper() == "GOVERNADOR" else re.escape(role)
     stop_pattern = re.escape(stop_role) if stop_role else r"ÓRG|Ã“RG|GOVERNO DO ESTADO|ATOS DO"
     match = re.search(
         rf"{escaped_role}\s+(?P<name>.{{3,120}}?)(?=\s+{stop_pattern}|\n|$)",
@@ -123,6 +123,25 @@ def extract_named_role(text, role, stop_role=None):
     return ""
 
 
+def nome_representante_governo(governo: str) -> str:
+    governo = str(governo or "Nao identificado").strip()
+    if " - " not in governo:
+        return governo
+    return governo.split(" - ", 1)[0].strip() or "Nao identificado"
+
+
+def origem_representante_governo(governo: str) -> str:
+    nome = nome_representante_governo(governo)
+    origem_por_nome = {
+        "Thiago Pampolha": "Vice-governadoria",
+        "Rodrigo Bacellar": "ALERJ",
+        "Ricardo Couto de Castro": "TJ-RJ",
+    }
+    if nome == "Nao identificado":
+        return "Nao identificado"
+    return origem_por_nome.get(nome, "Executivo estadual")
+
+
 # =====================================================
 # LOAD
 # =====================================================
@@ -144,8 +163,31 @@ df["autoridade_assinante"] = (
 df_mov["autoridade_assinante"] = (
     df_mov["cargo_assinante"].fillna("").astype(str).str.strip().replace("", "Sem identificação")
 )
-df["governador_edicao"] = df["arquivo_markdown"].fillna("").apply(lambda path: governador_da_edicao(path))
-df_mov["governador_edicao"] = df_mov["arquivo_markdown"].fillna("").apply(lambda path: governador_da_edicao(path))
+if "governador_edicao" not in df.columns:
+    df["governador_edicao"] = "Nao identificado"
+if "governador_edicao" not in df_mov.columns:
+    df_mov["governador_edicao"] = "Nao identificado"
+df["governador_edicao"] = df["governador_edicao"].fillna("").astype(str).str.strip().replace("", "Nao identificado")
+df_mov["governador_edicao"] = df_mov["governador_edicao"].fillna("").astype(str).str.strip().replace("", "Nao identificado")
+if "representante_governo" not in df.columns:
+    df["representante_governo"] = df["governador_edicao"].map(nome_representante_governo)
+if "representante_governo" not in df_mov.columns:
+    df_mov["representante_governo"] = df_mov["governador_edicao"].map(nome_representante_governo)
+if "origem_representante" not in df.columns:
+    df["origem_representante"] = df["governador_edicao"].map(origem_representante_governo)
+if "origem_representante" not in df_mov.columns:
+    df_mov["origem_representante"] = df_mov["governador_edicao"].map(origem_representante_governo)
+for frame in [df, df_mov]:
+    frame["representante_governo"] = (
+        frame["representante_governo"].fillna("").astype(str).str.strip().replace("", "Nao identificado")
+    )
+    frame["origem_representante"] = (
+        frame["origem_representante"].fillna("").astype(str).str.strip().replace("", "Nao identificado")
+    )
+    frame["representante_origem"] = frame.apply(
+        lambda row: f"{row['representante_governo']} ({row['origem_representante']})",
+        axis=1,
+    )
 
 # =====================================================
 # PREP
@@ -598,12 +640,215 @@ def fig_timeline_movimentacoes(dff_mov):
     return fig
 
 
+def fig_serie_temporal_governo(dff_mov):
+    if dff_mov.empty:
+        return go.Figure().update_layout(title="Sem dados para serie temporal")
+
+    base = dff_mov.dropna(subset=["data_movimentacao"]).copy()
+    if base.empty:
+        return go.Figure().update_layout(title="Sem datas validas para serie temporal")
+
+    base["periodo"] = base["data_movimentacao"].dt.to_period("M").dt.to_timestamp()
+    serie = (
+        base.groupby(["periodo", "representante_governo", "tipo_ato"])
+        .agg(
+            quantidade=("tipo_ato", "size"),
+            papeis=("governador_edicao", papeis_governo),
+            origem=("origem_representante", origem_representante_agregada),
+        )
+        .reset_index()
+        .sort_values(["representante_governo", "tipo_ato", "periodo"])
+    )
+    if serie.empty:
+        return go.Figure().update_layout(title="Sem dados para serie temporal")
+
+    governos = (
+        serie.groupby("representante_governo")["quantidade"]
+        .sum()
+        .sort_values(ascending=False)
+        .index
+        .tolist()
+    )
+    palette = px.colors.qualitative.Dark24 + px.colors.qualitative.Set2 + px.colors.qualitative.Plotly
+    color_by_government = {
+        governo: palette[index % len(palette)]
+        for index, governo in enumerate(governos)
+    }
+    origin_by_government = serie.groupby("representante_governo")["origem"].first().to_dict()
+
+    fig = go.Figure()
+    action_config = {
+        "nomeacao": {"label": "Nomeacoes", "sign": 1, "dash": "solid"},
+        "exoneracao": {"label": "Exoneracoes", "sign": -1, "dash": "dot"},
+    }
+
+    for governo in governos:
+        origem = origin_by_government.get(governo, origem_representante_governo(governo))
+        short_government = f"{rotulo_representante_curto(governo)} ({origem})"
+        for action_type in ["nomeacao", "exoneracao"]:
+            current = serie[
+                (serie["representante_governo"] == governo)
+                & (serie["tipo_ato"] == action_type)
+            ]
+            if current.empty:
+                continue
+
+            config = action_config[action_type]
+            signed_quantity = current["quantidade"] * config["sign"]
+            fig.add_trace(
+                go.Scatter(
+                    x=current["periodo"],
+                    y=signed_quantity,
+                    mode="lines+markers",
+                    name=f"{short_government} - {config['label']}",
+                    legendgroup=governo,
+                    line=dict(
+                        color=color_by_government[governo],
+                        width=2.5,
+                        dash=config["dash"],
+                    ),
+                    marker=dict(size=6, color=color_by_government[governo]),
+                    customdata=current[["representante_governo", "origem", "papeis", "tipo_ato", "quantidade"]],
+                    hovertemplate=(
+                        "Periodo: %{x|%Y-%m}<br>"
+                        "Representante: %{customdata[0]}<br>"
+                        "Origem: %{customdata[1]}<br>"
+                        "Papel na edicao: %{customdata[2]}<br>"
+                        "Movimentacao: %{customdata[3]}<br>"
+                        "Quantidade: %{customdata[4]:,}<extra></extra>"
+                    ),
+                )
+            )
+
+    max_quantity = int(serie["quantidade"].max())
+    upper_tick = max(1, max_quantity)
+    tick_step = max(1, int(np.ceil(upper_tick / 4)))
+    positive_ticks = list(range(0, upper_tick + tick_step, tick_step))
+    tickvals = sorted({-value for value in positive_ticks if value} | set(positive_ticks))
+
+    fig.add_hline(
+        y=0,
+        line_width=2,
+        line_color="#222",
+        annotation_text="tempo",
+        annotation_position="bottom right",
+    )
+    fig.update_layout(
+        title="Serie Temporal por Representante - Nomeacoes Acima e Exoneracoes Abaixo",
+        height=700,
+        hovermode="closest",
+        legend_title_text="Representante, origem e movimentacao",
+        legend=dict(
+            orientation="v",
+            yanchor="top",
+            y=1,
+            xanchor="left",
+            x=1.02,
+            groupclick="toggleitem",
+        ),
+        margin=dict(l=24, r=300, t=70, b=70),
+        xaxis=dict(
+            title="Tempo",
+            rangeslider=dict(visible=True, thickness=0.08),
+            rangeselector=dict(
+                buttons=[
+                    dict(count=6, label="6m", step="month", stepmode="backward"),
+                    dict(count=1, label="1a", step="year", stepmode="backward"),
+                    dict(count=3, label="3a", step="year", stepmode="backward"),
+                    dict(step="all", label="Tudo"),
+                ]
+            ),
+        ),
+        yaxis=dict(
+            title="Quantidade de atos",
+            tickvals=tickvals,
+            ticktext=[f"{abs(value):,}".replace(",", ".") for value in tickvals],
+            zeroline=False,
+        ),
+    )
+    fig.add_annotation(
+        xref="paper",
+        yref="paper",
+        x=0,
+        y=1.03,
+        text="Nomeacoes",
+        showarrow=False,
+        font=dict(size=12, color="#333"),
+    )
+    fig.add_annotation(
+        xref="paper",
+        yref="paper",
+        x=0,
+        y=-0.08,
+        text="Exoneracoes",
+        showarrow=False,
+        font=dict(size=12, color="#333"),
+    )
+    return fig
+
+
+def nome_representante_governo(governo: str) -> str:
+    governo = str(governo or "Nao identificado").strip()
+    if " - " not in governo:
+        return governo
+    return governo.split(" - ", 1)[0].strip() or "Nao identificado"
+
+
+def origem_representante_governo(governo: str) -> str:
+    nome = nome_representante_governo(governo)
+    origem_por_nome = {
+        "Thiago Pampolha": "Vice-governadoria",
+        "Rodrigo Bacellar": "ALERJ",
+        "Ricardo Couto de Castro": "TJ-RJ",
+    }
+    return origem_por_nome.get(nome, "Executivo estadual")
+
+
+def origem_representante_agregada(values) -> str:
+    origens = []
+    for value in values.dropna().astype(str):
+        if value and value not in origens:
+            origens.append(value)
+    return " / ".join(origens) if origens else "Nao identificado"
+
+
+def papeis_governo(values) -> str:
+    papeis = []
+    for value in values.dropna().astype(str):
+        if " - " in value:
+            papel = value.split(" - ", 1)[1].strip()
+        else:
+            papel = value.strip()
+        if papel and papel not in papeis:
+            papeis.append(papel)
+    return " / ".join(papeis) if papeis else "Nao identificado"
+
+
+def rotulo_representante_curto(governo: str) -> str:
+    nome = nome_representante_governo(governo)
+    partes = nome.split()
+    if len(partes) >= 2:
+        return f"{partes[0]} {partes[-1]}"
+    return nome
+
+
+def rotulo_governo_curto(governo: str) -> str:
+    governo = str(governo or "Nao identificado").strip()
+    if " - " not in governo:
+        return governo
+    nome, cargo = governo.split(" - ", 1)
+    partes = nome.split()
+    if len(partes) >= 2:
+        nome = f"{partes[0]} {partes[-1]}"
+    return f"{nome} - {cargo}"
+
+
 def fig_fluxo_por_governo(dff_mov):
     if dff_mov.empty:
         return go.Figure().update_layout(title="Sem dados para governos")
 
     base = (
-        dff_mov.groupby(["governador_edicao", "tipo_ato"])
+        dff_mov.groupby(["representante_origem", "tipo_ato"])
         .size()
         .reset_index(name="quantidade")
     )
@@ -614,7 +859,7 @@ def fig_fluxo_por_governo(dff_mov):
     base["rotulo"] = base["quantidade"].map(lambda value: f"{value:,}".replace(",", "."))
     ordem = (
         base.assign(abs_fluxo=base["fluxo"].abs())
-        .groupby("governador_edicao")["abs_fluxo"]
+        .groupby("representante_origem")["abs_fluxo"]
         .sum()
         .sort_values()
         .index
@@ -624,20 +869,20 @@ def fig_fluxo_por_governo(dff_mov):
     fig = px.bar(
         base,
         x="fluxo",
-        y="governador_edicao",
+        y="representante_origem",
         color="tipo_ato",
         orientation="h",
         text="rotulo",
         category_orders={
             "tipo_ato": ["exoneracao", "nomeacao"],
-            "governador_edicao": ordem,
+            "representante_origem": ordem,
         },
         labels={
             "fluxo": "Saídas / Entradas",
-            "governador_edicao": "Governo",
+            "representante_origem": "Representante",
             "tipo_ato": "Movimentação",
         },
-        title="Entradas e Saídas por Governo",
+        title="Entradas e Saídas por Representante",
     )
     fig.add_vline(x=0, line_width=1, line_color="#444")
     fig.update_layout(
@@ -655,7 +900,7 @@ def fig_saldo_por_governo(dff_mov):
         return go.Figure().update_layout(title="Sem dados para saldo")
 
     base = (
-        dff_mov.groupby(["governador_edicao", "tipo_ato"])
+        dff_mov.groupby(["representante_origem", "tipo_ato"])
         .size()
         .unstack(fill_value=0)
         .reset_index()
@@ -670,12 +915,12 @@ def fig_saldo_por_governo(dff_mov):
     fig = px.bar(
         base,
         x="saldo",
-        y="governador_edicao",
+        y="representante_origem",
         color="cor",
         orientation="h",
         text=base["saldo"].map(lambda value: f"{value:,}".replace(",", ".")),
-        labels={"saldo": "Nomeações menos exonerações", "governador_edicao": "Governo", "cor": ""},
-        title="Saldo Líquido por Governo",
+        labels={"saldo": "Nomeações menos exonerações", "representante_origem": "Representante", "cor": ""},
+        title="Saldo Líquido por Representante",
         color_discrete_map={"Mais entradas": "#287c5a", "Mais saídas": "#b4423c"},
     )
     fig.add_vline(x=0, line_width=1, line_color="#444")
@@ -696,7 +941,7 @@ def fig_timeline_governo(dff_mov):
     if base.empty:
         return go.Figure().update_layout(title="Sem datas válidas para timeline")
 
-    selected_governments = base["governador_edicao"].nunique()
+    selected_governments = base["representante_origem"].nunique()
     if selected_governments <= 3:
         base["periodo"] = base["data_movimentacao"].dt.to_period("M").dt.to_timestamp()
         x_label = "Mês"
@@ -705,7 +950,7 @@ def fig_timeline_governo(dff_mov):
         x_label = "Ano"
 
     timeline = (
-        base.groupby(["periodo", "governador_edicao", "tipo_ato"])
+        base.groupby(["periodo", "representante_origem", "tipo_ato"])
         .size()
         .reset_index(name="quantidade")
         .sort_values("periodo")
@@ -716,15 +961,15 @@ def fig_timeline_governo(dff_mov):
         x="periodo",
         y="quantidade",
         color="tipo_ato",
-        facet_row="governador_edicao" if selected_governments <= 3 else None,
+        facet_row="representante_origem" if selected_governments <= 3 else None,
         barmode="group",
         labels={
             "periodo": x_label,
             "quantidade": "Quantidade",
             "tipo_ato": "Movimentação",
-            "governador_edicao": "Governo",
+            "representante_origem": "Representante",
         },
-        title="Timeline de Movimentações por Governo",
+        title="Timeline de Movimentações por Representante",
         category_orders={"tipo_ato": ["exoneracao", "nomeacao"]},
     )
     fig.update_layout(
@@ -794,7 +1039,7 @@ def tabela_resumo_governos(dff_mov):
         return html.Div("Sem dados para os filtros selecionados.")
 
     base = (
-        dff_mov.groupby(["governador_edicao", "tipo_ato"])
+        dff_mov.groupby(["representante_origem", "tipo_ato"])
         .size()
         .unstack(fill_value=0)
         .reset_index()
@@ -807,7 +1052,7 @@ def tabela_resumo_governos(dff_mov):
     base = base.sort_values("atos", ascending=False)
 
     header = html.Tr([
-        html.Th("Governo"),
+        html.Th("Representante"),
         html.Th("Exonerações"),
         html.Th("Nomeações"),
         html.Th("Saldo"),
@@ -815,7 +1060,7 @@ def tabela_resumo_governos(dff_mov):
     ])
     rows = [
         html.Tr([
-            html.Td(row["governador_edicao"]),
+            html.Td(row["representante_origem"]),
             html.Td(f"{int(row['exoneracao']):,}".replace(",", ".")),
             html.Td(f"{int(row['nomeacao']):,}".replace(",", ".")),
             html.Td(f"{int(row['saldo']):,}".replace(",", ".")),
@@ -1035,8 +1280,8 @@ autoridades_assinantes = sorted(
     )
 )
 governadores_edicao = sorted(
-    set(df["governador_edicao"].dropna().astype(str).unique().tolist()).union(
-        set(df_mov["governador_edicao"].dropna().astype(str).unique().tolist())
+    set(df["representante_origem"].dropna().astype(str).unique().tolist()).union(
+        set(df_mov["representante_origem"].dropna().astype(str).unique().tolist())
     )
 )
 
@@ -1068,7 +1313,7 @@ app.layout = html.Div(
                 ]),
 
                 html.Div([
-                    html.Label("Governo da edição"),
+                    html.Label("Representante"),
                     dcc.Dropdown(
                         id="filtro_governador_edicao",
                         options=[{"label": a, "value": a} for a in governadores_edicao],
@@ -1113,7 +1358,12 @@ app.layout = html.Div(
         ),
 
         html.Div(
-            style={"display": "grid", "gridTemplateColumns": "1fr 1fr", "gap": "16px"},
+            style={"marginTop": "16px"},
+            children=[dcc.Graph(id="serie_temporal_governo")],
+        ),
+
+        html.Div(
+            style={"display": "grid", "gridTemplateColumns": "1fr 1fr", "gap": "16px", "marginTop": "16px"},
             children=[
                 dcc.Graph(id="fluxo_governos"),
                 dcc.Graph(id="saldo_governos"),
@@ -1133,7 +1383,7 @@ app.layout = html.Div(
         html.Div(
             style={"marginTop": "16px"},
             children=[
-                html.H3("Resumo por Governo"),
+                html.H3("Resumo por Representante"),
                 html.Div(id="tabela_governos"),
             ],
         ),
@@ -1148,6 +1398,7 @@ app.layout = html.Div(
     Output("cards", "children"),
     Output("fluxo_governos", "figure"),
     Output("saldo_governos", "figure"),
+    Output("serie_temporal_governo", "figure"),
     Output("timeline_governo", "figure"),
     Output("orgaos_governo", "figure"),
     Output("tabela_governos", "children"),
@@ -1163,7 +1414,7 @@ def update(ano, governador_edicao, orgao, tipo_ato):
         dff_mov = dff_mov[dff_mov["ano"].isin(ano)]
 
     if governador_edicao:
-        dff_mov = dff_mov[dff_mov["governador_edicao"].isin(governador_edicao)]
+        dff_mov = dff_mov[dff_mov["representante_origem"].isin(governador_edicao)]
 
     if orgao:
         dff_mov = dff_mov[dff_mov["orgao"].isin(orgao)]
@@ -1189,6 +1440,7 @@ def update(ano, governador_edicao, orgao, tipo_ato):
         cards,
         fig_fluxo_por_governo(dff_mov),
         fig_saldo_por_governo(dff_mov),
+        fig_serie_temporal_governo(dff_mov),
         fig_timeline_governo(dff_mov),
         fig_orgaos_por_governo(dff_mov),
         tabela_resumo_governos(dff_mov),
@@ -1214,4 +1466,4 @@ def card(titulo, valor):
 # RUN
 # =====================================================
 if __name__ == "__main__":
-    app.run(debug=True, port=8052)
+    app.run(debug=False, port=8052, use_reloader=False)

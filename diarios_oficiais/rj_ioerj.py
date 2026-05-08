@@ -13,6 +13,7 @@ from diarios_oficiais.base import Act
 from diarios_oficiais.base import BaseGazetteCollector
 from diarios_oficiais.base import Edition
 from diarios_oficiais.config import TORCH_CUDA_RUNTIME
+from diarios_oficiais.governadores import governador_da_edicao
 from diarios_oficiais.utils_regex.common import ACT_WINDOW_RE
 from diarios_oficiais.utils_regex.common import AGENCY_RE
 from diarios_oficiais.utils_regex.common import FUNCTIONAL_ID_RE
@@ -124,6 +125,7 @@ def parse_acts(
 ) -> list[Act]:
     normalized = SPACE_RE.sub(" ", text)
     context_markers = authority_context_markers(normalized)
+    edition_governor = governador_da_edicao(str(markdown_path))
     acts: list[Act] = []
     seen: set[tuple[str, str, str]] = set()
 
@@ -168,6 +170,7 @@ def parse_acts(
                 signer_name=signer_name,
                 signer_role=signer_role,
                 signer_category=signer_category,
+                edition_governor=edition_governor,
             )
         )
     return acts
