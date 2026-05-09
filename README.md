@@ -35,7 +35,7 @@ Rode o coletor:
 
 Esse comando usa diretamente o Python da `.venv` do repositorio, mesmo que o ambiente virtual nao esteja ativado no terminal.
 
-O `main.py` nao recebe argumentos. A lista de UFs a coletar fica em `STATES_TO_COLLECT`, dentro do proprio arquivo. Para `RJ`, ele procura as datas da IOERJ da mais recente para a mais antiga e percorre as edicoes disponiveis do caderno de Poder Executivo. Para cada edicao, reutiliza o Markdown quando ele ja existe; quando precisa converter, reaproveita PDFs em `.cache/diarios` antes de baixar novamente. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
+O `main.py` nao recebe argumentos. A lista de UFs a coletar fica em `STATES_TO_COLLECT`, dentro do proprio arquivo. Para `RJ`, ele procura as datas da IOERJ da mais recente para a mais antiga e percorre as edicoes disponiveis do caderno de Poder Executivo. Para `SP`, ele consulta a API do Diario Oficial do Estado de Sao Paulo e baixa o PDF certificado da secao `Executivo - Atos de Pessoal`. Para cada edicao, reutiliza o Markdown quando ele ja existe; quando precisa converter, reaproveita PDFs em `.cache/diarios` antes de baixar novamente. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
 
 O padrao dos arquivos Markdown e:
 
@@ -61,6 +61,12 @@ Exemplo:
 saida/RJ/DOERJ_2026.csv
 ```
 
+Para coletar somente uma UF, ajuste `STATES_TO_COLLECT` em `main.py`, por exemplo:
+
+```python
+STATES_TO_COLLECT = ["SP"]
+```
+
 Se o `.md` da edicao ja existir no repositorio, o coletor usa esse arquivo diretamente e nao baixa nem converte o PDF de novo. O CSV anual e atualizado em `saida/RJ`, sem duplicar atos ja gravados.
 
 Durante a gravacao do CSV anual, o coletor pode usar spaCy para validar se o nome extraido parece uma pessoa. Esses campos sao gravados junto do ato:
@@ -77,7 +83,7 @@ Por padrao, o Docling tenta primeiro usar o texto embutido no PDF, sem OCR, para
 Quando `USE_DOCLING = True`, o PDF e dividido em blocos antes da conversao para reduzir uso de memoria. O tamanho do bloco fica em `DOCLING_PAGE_CHUNK_SIZE`.
 
 As configuracoes compartilhadas de coleta, cache, saida, Docling e parse em blocos ficam em `diarios_oficiais/config.py`. A classe base para novos extratores fica em `diarios_oficiais/base.py`.
-Os regex compartilhados entre extratores ficam em `diarios_oficiais/utils_regex/common.py`; os detalhes especificos de cada fonte ficam em modulos proprios na mesma pasta, como `diarios_oficiais/utils_regex/rj_ioerj.py`.
+Cada fonte deve ter seu proprio conjunto de regex em `diarios_oficiais/utils_regex`. O modulo `common.py` guarda apenas pecas reutilizaveis, como espacos, tokens de nome e categorias de assinante. Os padroes especificos ficam em modulos proprios, como `diarios_oficiais/utils_regex/rj_ioerj.py` e `diarios_oficiais/utils_regex/sp_doe.py`.
 
 ## Fluxo
 

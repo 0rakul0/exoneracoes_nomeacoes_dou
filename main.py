@@ -6,13 +6,15 @@ from typing import Callable
 from diarios_oficiais.base import preload_ocr_models
 from diarios_oficiais.rj_ioerj import collect_rj
 from diarios_oficiais.rj_ioerj import report_torch_cuda
+from diarios_oficiais.sp_doe import collect_sp
 
 
 COLLECTORS_BY_STATE: dict[str, Callable[[], int]] = {
     "RJ": collect_rj,
+    "SP": collect_sp,
 }
 
-STATES_TO_COLLECT = ["RJ"]
+STATES_TO_COLLECT = ["RJ", "SP"]
 
 
 def collect_state(state: str) -> int:

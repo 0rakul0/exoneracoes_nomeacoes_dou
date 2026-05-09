@@ -22,6 +22,14 @@ KNOWN_GOVERNORS = [
     ("RODRIGO BACELLAR", "Rodrigo Bacellar"),
 ]
 
+KNOWN_SP_GOVERNORS = [
+    ("TARCISIO DE FREITAS", "Tarcisio de Freitas"),
+    ("TARCÍSIO DE FREITAS", "Tarcisio de Freitas"),
+    ("RODRIGO GARCIA", "Rodrigo Garcia"),
+    ("JOAO DORIA", "Joao Doria"),
+    ("JOÃO DORIA", "Joao Doria"),
+]
+
 
 @lru_cache(maxsize=4096)
 def governador_da_edicao(markdown_path: str) -> str:
@@ -29,6 +37,9 @@ def governador_da_edicao(markdown_path: str) -> str:
         return UNKNOWN_GOVERNOR
 
     path = Path(str(markdown_path))
+    if "SP" in path.parts:
+        return governador_sp_da_edicao(path)
+
     date_governor = governador_por_periodo(path)
     if date_governor:
         return date_governor
@@ -50,6 +61,30 @@ def governador_da_edicao(markdown_path: str) -> str:
         return f"{governor_name} - Governador"
 
     return governador_por_data_do_arquivo(path)
+
+
+def governador_sp_da_edicao(path: Path) -> str:
+    publication_date = publication_date_from_path(path)
+    if publication_date is not None:
+        if publication_date >= date(2023, 1, 1):
+            return "Tarcisio de Freitas - Governador"
+        if publication_date >= date(2022, 4, 1):
+            return "Rodrigo Garcia - Governador"
+        if publication_date >= date(2019, 1, 1):
+            return "Joao Doria - Governador"
+
+    if not path.exists():
+        return UNKNOWN_GOVERNOR
+
+    try:
+        text = path.read_text(encoding="utf-8", errors="ignore").upper()
+    except OSError:
+        return UNKNOWN_GOVERNOR
+
+    known_name = match_known_sp_name(text[:20000])
+    if known_name:
+        return f"{known_name} - Governador"
+    return UNKNOWN_GOVERNOR
 
 
 def nome_representante_governo(governador_edicao: str) -> str:
@@ -137,6 +172,14 @@ def extract_named_role(text: str, role: str, stop_role: str | None = None) -> st
 def match_known_name(value: str) -> str:
     normalized = value.upper()
     for needle, label in KNOWN_GOVERNORS:
+        if needle in normalized:
+            return label
+    return ""
+
+
+def match_known_sp_name(value: str) -> str:
+    normalized = value.upper()
+    for needle, label in KNOWN_SP_GOVERNORS:
         if needle in normalized:
             return label
     return ""

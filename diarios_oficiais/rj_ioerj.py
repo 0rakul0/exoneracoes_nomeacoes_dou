@@ -14,18 +14,9 @@ from diarios_oficiais.base import BaseGazetteCollector
 from diarios_oficiais.base import Edition
 from diarios_oficiais.config import TORCH_CUDA_RUNTIME
 from diarios_oficiais.governadores import governador_da_edicao
-from diarios_oficiais.utils_regex.common import ACT_WINDOW_RE
-from diarios_oficiais.utils_regex.common import AGENCY_RE
-from diarios_oficiais.utils_regex.common import FUNCTIONAL_ID_RE
-from diarios_oficiais.utils_regex.common import NAME_AFTER_ACTION_RE
-from diarios_oficiais.utils_regex.common import ROLE_RE
-from diarios_oficiais.utils_regex.common import SIGNER_CATEGORIES
-from diarios_oficiais.utils_regex.common import SIGNER_RE
 from diarios_oficiais.utils_regex.common import SPACE_RE
 from diarios_oficiais.utils_regex.common import TAG_RE
-from diarios_oficiais.utils_regex.common import DATE_LINK_RE
-from diarios_oficiais.utils_regex.common import EDITION_LINK_RE
-from diarios_oficiais.utils_regex.common import PDF_KEY_RE
+from diarios_oficiais.utils_regex import rj_ioerj as rj_regexes
 
 
 BASE_URL = "https://www.ioerj.com.br/portal/modules/conteudoonline/"
@@ -49,7 +40,7 @@ class RjIoerjCollector(BaseGazetteCollector):
     def list_available_dates(self) -> list[date]:
         page = self.fetch_text(self.calendar_url)
         dates: set[date] = set()
-        for encoded in DATE_LINK_RE.findall(page):
+        for encoded in rj_regexes.DATE_LINK_RE.findall(page):
             decoded = base64.b64decode(encoded).decode("ascii")
             dates.add(datetime.strptime(decoded, "%Y%m%d").date())
         return sorted(dates)
@@ -59,7 +50,7 @@ class RjIoerjCollector(BaseGazetteCollector):
         url = urljoin(self.base_url, f"do_seleciona_edicao.php?data={encoded}")
         page = self.fetch_text(url)
         raw_editions: list[tuple[str, str]] = []
-        for match in EDITION_LINK_RE.finditer(page):
+        for match in rj_regexes.EDITION_LINK_RE.finditer(page):
             label = clean_html(match.group("label"))
             raw_editions.append((label, urljoin(self.base_url, html.unescape(match.group("href")))))
 
@@ -86,7 +77,7 @@ class RjIoerjCollector(BaseGazetteCollector):
     def download_edition_pdf(self, edition: Edition, destination: Path) -> Path:
         destination.parent.mkdir(parents=True, exist_ok=True)
         page = self.fetch_text(edition.url)
-        key_match = PDF_KEY_RE.search(page)
+        key_match = rj_regexes.PDF_KEY_RE.search(page)
         if not key_match:
             raise RuntimeError(f"Nao encontrei chave do PDF na pagina: {edition.url}")
         key = key_match.group("key")
@@ -122,6 +113,7 @@ def parse_acts(
     collector: RjIoerjCollector,
     edition: Edition,
     markdown_path: Path,
+    regexes=rj_regexes,
 ) -> list[Act]:
     normalized = SPACE_RE.sub(" ", text)
     context_markers = authority_context_markers(normalized)
@@ -129,20 +121,20 @@ def parse_acts(
     acts: list[Act] = []
     seen: set[tuple[str, str, str]] = set()
 
-    for match in ACT_WINDOW_RE.finditer(normalized):
+    for match in regexes.ACT_WINDOW_RE.finditer(normalized):
         action = match.group("action").upper()
         body = match.group("body").strip(" ,.;:-")
         excerpt = f"{action} {body}".strip()
-        person_name = extract_person_name(body)
+        person_name = extract_person_name(body, regexes=regexes)
         if not person_name:
             continue
 
-        role_match = ROLE_RE.search(body)
-        agency_match = AGENCY_RE.search(body)
+        role_match = regexes.ROLE_RE.search(body)
+        agency_match = regexes.AGENCY_RE.search(body)
         role = clean_piece(role_match.group(0)) if role_match else ""
         agency = clean_piece(agency_match.group(0)) if agency_match else ""
-        functional_id = extract_functional_id(body)
-        signer_name, signer_role, signer_category = extract_signer(excerpt)
+        functional_id = extract_functional_id(body, regexes=regexes)
+        signer_name, signer_role, signer_category = extract_signer(excerpt, regexes=regexes)
         if not signer_role:
             signer_name, signer_role, signer_category = contextual_signer(
                 context_markers,
@@ -159,7 +151,7 @@ def parse_acts(
                 gazette=collector.gazette_name,
                 publication_date=edition.publication_date,
                 section=edition.section,
-                action_type="nomeacao" if action == "NOMEAR" else "exoneracao",
+                action_type="nomeacao" if action in {"NOMEAR", "NOMEIA"} else "exoneracao",
                 person_name=person_name,
                 functional_id=functional_id,
                 role=role,
@@ -247,13 +239,13 @@ def contextual_signer_name(text_upper: str, start: int, end: int, role: str) -> 
     return ""
 
 
-def extract_functional_id(body: str) -> str:
-    match = FUNCTIONAL_ID_RE.search(body)
+def extract_functional_id(body: str, regexes=rj_regexes) -> str:
+    match = regexes.FUNCTIONAL_ID_RE.search(body)
     return match.group("id").strip(" .,-;:") if match else ""
 
 
-def extract_signer(text: str) -> tuple[str, str, str]:
-    matches = list(SIGNER_RE.finditer(text))
+def extract_signer(text: str, regexes=rj_regexes) -> tuple[str, str, str]:
+    matches = list(regexes.SIGNER_RE.finditer(text))
     if not matches:
         return "", "", ""
 
@@ -265,7 +257,7 @@ def extract_signer(text: str) -> tuple[str, str, str]:
 
     raw_role = clean_piece(match.group("role"))
     normalized_role = normalize_name(raw_role)
-    for category, label, pattern in SIGNER_CATEGORIES:
+    for category, label, pattern in regexes.SIGNER_CATEGORIES:
         if re.fullmatch(pattern, raw_role, flags=re.I):
             return signer_name, label, category
         if re.fullmatch(pattern, normalized_role, flags=re.I):
@@ -277,12 +269,13 @@ def parse_acts_from_markdown_file(
     collector: RjIoerjCollector,
     edition: Edition,
     markdown_path: Path,
+    regexes=rj_regexes,
 ) -> list[Act]:
     acts: list[Act] = []
     seen: set[tuple[str, str, str]] = set()
 
     for block in collector.iter_text_blocks(markdown_path):
-        for act in parse_acts(block, collector, edition, markdown_path):
+        for act in parse_acts(block, collector, edition, markdown_path, regexes=regexes):
             key = (act.action_type, act.person_name, act.excerpt[:180])
             if key in seen:
                 continue
@@ -291,12 +284,12 @@ def parse_acts_from_markdown_file(
     return acts
 
 
-def extract_person_name(body: str) -> str:
+def extract_person_name(body: str, regexes=rj_regexes) -> str:
     direct = direct_person_name(body)
     if direct:
         return direct
 
-    for match in NAME_AFTER_ACTION_RE.finditer(body):
+    for match in regexes.NAME_AFTER_ACTION_RE.finditer(body):
         candidate = clean_piece(match.group("name"))
         candidate = normalize_name(candidate)
         if valid_person_name(candidate):
@@ -306,7 +299,7 @@ def extract_person_name(body: str) -> str:
 
 def direct_person_name(body: str) -> str:
     candidate_area = re.split(
-        r"\s*,?\s*ID\s+FUNC|\s+para\s+exer|\s+para\s+exercer|\s+do\s+cargo|\s+da\s+fun[cç][aã]o",
+        r"\s*,?\s*(?:ID\s+FUNC|RG|R\.G\.|CPF)\b|\s+para\s+exer|\s+para\s+exercer|\s+do\s+cargo|\s+da\s+fun[cç][aã]o",
         body,
         maxsplit=1,
         flags=re.I,

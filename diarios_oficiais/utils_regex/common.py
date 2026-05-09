@@ -3,40 +3,14 @@ from __future__ import annotations
 import re
 
 
-DATE_LINK_RE = re.compile(r'href=["\']do_seleciona_edicao\.php\?data=([^"\']+)["\']', re.I)
-EDITION_LINK_RE = re.compile(
-    r'<a\s+href=["\'](?P<href>mostra_edicao\.php\?session=[^"\']+)["\'][^>]*>(?P<label>.*?)</a>',
-    re.I | re.S,
-)
-PDF_KEY_RE = re.compile(r'var\s+pd\s*=\s*["\'](?P<key>[A-F0-9-]+)["\']', re.I)
-
 TAG_RE = re.compile(r"<[^>]+>")
 SPACE_RE = re.compile(r"\s+")
 
 UPPER_PT = "A-Z\u00c1\u00c9\u00cd\u00d3\u00da\u00c2\u00ca\u00d4\u00c3\u00d5\u00c7"
 WORD_PT = r"\w\u00c1\u00c9\u00cd\u00d3\u00da\u00c2\u00ca\u00d4\u00c3\u00d5\u00c7.'-"
 NAME_TOKEN_RE = rf"[{UPPER_PT}][{WORD_PT}]+"
+NAME_CONNECTOR_RE = rf"(?:DE|DA|DO|DAS|DOS|E|{NAME_TOKEN_RE})"
 
-ACT_WINDOW_RE = re.compile(
-    r"\b(?P<action>EXONERAR|NOMEAR)\b(?P<body>.{0,1200}?)(?=\b(?:EXONERAR|NOMEAR|DESIGNAR|TORNAR SEM EFEITO|RESOLVE|DECRETO|ATO DO|SECRETARIA|Art\.|$))",
-    re.I | re.S,
-)
-NAME_AFTER_ACTION_RE = re.compile(
-    rf"(?:^|,\s*)(?P<name>{NAME_TOKEN_RE}(?:\s+(?:DE|DA|DO|DAS|DOS|E|{NAME_TOKEN_RE})){{1,9}})(?=,|\s+para\s+|\s+do\s+|\s+da\s+)",
-    re.I,
-)
-ROLE_RE = re.compile(
-    r"(?:para exercer|do|da)\s+(?:o\s+|a\s+)?(?P<role>cargo(?:\s+em\s+comiss[a\u00e3]o)?|funcao|fun\u00e7\u00e3o|emprego|chefia|direcao|dire\u00e7\u00e3o|assessoria)[^,.;\n]{0,220}",
-    re.I,
-)
-AGENCY_RE = re.compile(
-    r"\b(?:da|do)\s+(Secretaria|Subsecretaria|Fundacao|Funda\u00e7\u00e3o|Instituto|Departamento|Gabinete|Superintendencia|Superintend\u00eancia|Autarquia)\b[^,.;\n]{0,180}",
-    re.I,
-)
-FUNCTIONAL_ID_RE = re.compile(
-    r"\bID\s+FUNCIONAL\s*(?:N[\u00ba\u00b0O.]*)?\s*(?P<id>[\d.\-/]+)",
-    re.I,
-)
 
 SIGNER_CATEGORIES = [
     ("1", "Governador", r"Governador(?!\s+em\s+exerc)"),
@@ -52,9 +26,13 @@ SIGNER_CATEGORIES = [
     ("11", "Chefe de Gabinete", r"Chefe\s+de\s+Gabinete"),
     ("12", "Coordenador", r"Coordenador(?:a)?"),
 ]
-SIGNER_RE = re.compile(
-    rf"(?P<name>{NAME_TOKEN_RE}(?:\s+(?:DE|DA|DO|DAS|DOS|E|{NAME_TOKEN_RE})){{1,8}})\s+(?P<role>"
-    + "|".join(f"(?:{pattern})" for _, _, pattern in SIGNER_CATEGORIES)
-    + r")\b",
-    re.I,
-)
+
+
+def signer_re(categories: list[tuple[str, str, str]] | None = None) -> re.Pattern[str]:
+    categories = categories or SIGNER_CATEGORIES
+    return re.compile(
+        rf"(?P<name>{NAME_TOKEN_RE}(?:\s+{NAME_CONNECTOR_RE}){{1,8}})\s+(?P<role>"
+        + "|".join(f"(?:{pattern})" for _, _, pattern in categories)
+        + r")\b",
+        re.I,
+    )
