@@ -11,13 +11,13 @@ import networkx as nx
 from functools import lru_cache
 from pathlib import Path
 
-from dash import Dash, dcc, html, Input, Output
+from dash import Dash, dcc, html, Input, Output, ctx
 
 # =====================================================
 # CONFIG
 # =====================================================
-CSV_PATH = "../saida/analises/RJ/retornos_apos_exoneracao.csv"
-MOVIMENTACOES_CSV_PATH = "../saida/analises/RJ/movimentacoes_pessoas.csv"
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+ANALISES_DIR = PROJECT_ROOT / "saida" / "analises"
 TOP_N_TRANSICOES = 30
 TOP_N_ORGAOS = 20
 
@@ -145,8 +145,30 @@ def origem_representante_governo(governo: str) -> str:
 # =====================================================
 # LOAD
 # =====================================================
-df = pd.read_csv(CSV_PATH)
-df_mov = pd.read_csv(MOVIMENTACOES_CSV_PATH)
+def read_state_csvs(analyses_dir):
+    retorno_frames = []
+    movimentacao_frames = []
+    for state_dir in sorted(path for path in analyses_dir.iterdir() if path.is_dir()):
+        state = state_dir.name.upper()
+        retornos_path = state_dir / "retornos_apos_exoneracao.csv"
+        movimentacoes_path = state_dir / "movimentacoes_pessoas.csv"
+        if not retornos_path.exists() or not movimentacoes_path.exists():
+            continue
+
+        retorno_frame = pd.read_csv(retornos_path)
+        movimentacao_frame = pd.read_csv(movimentacoes_path)
+        retorno_frame["estado"] = state
+        movimentacao_frame["estado"] = state
+        retorno_frames.append(retorno_frame)
+        movimentacao_frames.append(movimentacao_frame)
+
+    if not retorno_frames or not movimentacao_frames:
+        raise FileNotFoundError(f"Nenhuma analise por UF encontrada em {analyses_dir}")
+
+    return pd.concat(retorno_frames, ignore_index=True), pd.concat(movimentacao_frames, ignore_index=True)
+
+
+df, df_mov = read_state_csvs(ANALISES_DIR)
 
 df["pessoa"] = df["nome_normalizado"]
 df["data_nomeacao"] = pd.to_datetime(df["data_publicacao"], errors="coerce")
@@ -224,6 +246,63 @@ def classificar_estado(row):
 
 
 df["estado_N"] = df.apply(classificar_estado, axis=1)
+
+
+def prepare_loaded_frames(loaded_df, loaded_df_mov):
+    loaded_df["pessoa"] = loaded_df["nome_normalizado"]
+    loaded_df["data_nomeacao"] = pd.to_datetime(loaded_df["data_publicacao"], errors="coerce")
+    loaded_df["data_exoneracao"] = pd.to_datetime(loaded_df["data_exoneracao_anterior"], errors="coerce")
+    loaded_df["ano"] = loaded_df["data_nomeacao"].dt.year
+
+    loaded_df_mov["pessoa"] = loaded_df_mov["nome_normalizado"]
+    loaded_df_mov["data_movimentacao"] = pd.to_datetime(loaded_df_mov["data_publicacao"], errors="coerce")
+    loaded_df_mov["ano"] = loaded_df_mov["data_movimentacao"].dt.year
+
+    loaded_df["autoridade_assinante"] = (
+        loaded_df["cargo_assinante"].fillna("").astype(str).str.strip().replace("", "Sem identificacao")
+    )
+    loaded_df_mov["autoridade_assinante"] = (
+        loaded_df_mov["cargo_assinante"].fillna("").astype(str).str.strip().replace("", "Sem identificacao")
+    )
+    if "governador_edicao" not in loaded_df.columns:
+        loaded_df["governador_edicao"] = "Nao identificado"
+    if "governador_edicao" not in loaded_df_mov.columns:
+        loaded_df_mov["governador_edicao"] = "Nao identificado"
+    loaded_df["governador_edicao"] = (
+        loaded_df["governador_edicao"].fillna("").astype(str).str.strip().replace("", "Nao identificado")
+    )
+    loaded_df_mov["governador_edicao"] = (
+        loaded_df_mov["governador_edicao"].fillna("").astype(str).str.strip().replace("", "Nao identificado")
+    )
+    if "representante_governo" not in loaded_df.columns:
+        loaded_df["representante_governo"] = loaded_df["governador_edicao"].map(nome_representante_governo)
+    if "representante_governo" not in loaded_df_mov.columns:
+        loaded_df_mov["representante_governo"] = loaded_df_mov["governador_edicao"].map(nome_representante_governo)
+    if "origem_representante" not in loaded_df.columns:
+        loaded_df["origem_representante"] = loaded_df["governador_edicao"].map(origem_representante_governo)
+    if "origem_representante" not in loaded_df_mov.columns:
+        loaded_df_mov["origem_representante"] = loaded_df_mov["governador_edicao"].map(origem_representante_governo)
+    for frame in [loaded_df, loaded_df_mov]:
+        frame["representante_governo"] = (
+            frame["representante_governo"].fillna("").astype(str).str.strip().replace("", "Nao identificado")
+        )
+        frame["origem_representante"] = (
+            frame["origem_representante"].fillna("").astype(str).str.strip().replace("", "Nao identificado")
+        )
+        frame["representante_origem"] = frame.apply(
+            lambda row: f"{row['representante_governo']} ({row['origem_representante']})",
+            axis=1,
+        )
+
+    loaded_df["mudou_cargo"] = loaded_df["mudou_cargo_desde_exoneracao"].apply(norm_bool)
+    loaded_df["mudou_orgao"] = loaded_df["mudou_orgao_desde_exoneracao"].apply(norm_bool)
+    loaded_df["tempo_cluster"] = loaded_df["dias_desde_exoneracao"].apply(classificar_tempo)
+    loaded_df["estado_N"] = loaded_df.apply(classificar_estado, axis=1)
+    return loaded_df, loaded_df_mov
+
+
+def reload_analysis_base():
+    return prepare_loaded_frames(*read_state_csvs(ANALISES_DIR))
 
 # =====================================================
 # CORE
@@ -1263,6 +1342,7 @@ def gerar_resumo(dff, trans, mat_prob):
 app = Dash(__name__)
 app.title = "DOU RJ - Transições Markov"
 
+estados = sorted(df_mov["estado"].dropna().astype(str).unique().tolist())
 anos = sorted(
     set(df["ano"].dropna().astype(int).unique().tolist()).union(
         set(df_mov["ano"].dropna().astype(int).unique().tolist())
@@ -1292,7 +1372,34 @@ app.layout = html.Div(
         "backgroundColor": "#f7f7f7"
     },
     children=[
-        html.H2("Movimentações por Governo — Exonerações e Nomeações DOERJ/RJ"),
+        html.H2("Movimentacoes por Governo - Exoneracoes e Nomeacoes por Estado"),
+
+        dcc.Tabs(
+            id="filtro_estado",
+            value=estados[0] if estados else None,
+            children=[dcc.Tab(label=estado, value=estado) for estado in estados],
+            style={"marginBottom": "16px"},
+        ),
+
+        html.Div(
+            style={"display": "flex", "alignItems": "center", "gap": "12px", "marginBottom": "16px"},
+            children=[
+                html.Button(
+                    "Recarregar base",
+                    id="recarregar_base",
+                    n_clicks=0,
+                    style={
+                        "backgroundColor": "#1f5eff",
+                        "border": "0",
+                        "color": "white",
+                        "cursor": "pointer",
+                        "fontWeight": "bold",
+                        "padding": "10px 14px",
+                    },
+                ),
+                html.Div(id="recarregar_status", style={"color": "#555", "fontSize": "13px"}),
+            ],
+        ),
 
         html.Div(
             style={
@@ -1402,13 +1509,25 @@ app.layout = html.Div(
     Output("timeline_governo", "figure"),
     Output("orgaos_governo", "figure"),
     Output("tabela_governos", "children"),
+    Output("recarregar_status", "children"),
+    Input("recarregar_base", "n_clicks"),
+    Input("filtro_estado", "value"),
     Input("filtro_ano", "value"),
     Input("filtro_governador_edicao", "value"),
     Input("filtro_orgao", "value"),
     Input("filtro_tipo_ato", "value"),
 )
-def update(ano, governador_edicao, orgao, tipo_ato):
+def update(recarregar_clicks, estado, ano, governador_edicao, orgao, tipo_ato):
+    global df, df_mov
+    reload_status = ""
+    if recarregar_clicks and ctx.triggered_id == "recarregar_base":
+        df, df_mov = reload_analysis_base()
+        reload_status = f"Base recarregada: {len(df_mov):,} movimentacoes".replace(",", ".")
+
     dff_mov = df_mov.copy()
+
+    if estado:
+        dff_mov = dff_mov[dff_mov["estado"] == estado]
 
     if ano:
         dff_mov = dff_mov[dff_mov["ano"].isin(ano)]
@@ -1444,6 +1563,7 @@ def update(ano, governador_edicao, orgao, tipo_ato):
         fig_timeline_governo(dff_mov),
         fig_orgaos_por_governo(dff_mov),
         tabela_resumo_governos(dff_mov),
+        reload_status,
     )
 
 

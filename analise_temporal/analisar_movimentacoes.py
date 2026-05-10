@@ -299,6 +299,36 @@ def read_rows(paths: Iterable[Path], nlp: Any | None, spacy_mode: str) -> list[d
     return rows
 
 
+def drop_duplicate_loaded_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
+    deduplicated_rows: list[dict[str, str]] = []
+    seen_keys: set[tuple[str, ...]] = set()
+    for row in rows:
+        row_key = (
+            row.get("data_publicacao", ""),
+            row.get("tipo_ato", ""),
+            row.get("_nome_normalizado", ""),
+            row.get("_cargo_normalizado", ""),
+            row.get("_orgao_normalizado", ""),
+            row.get("trecho", "")[:180],
+            row.get("fonte_url", ""),
+            row.get("arquivo_markdown", ""),
+        )
+        if row_key in seen_keys:
+            continue
+        seen_keys.add(row_key)
+        deduplicated_rows.append(row)
+    return deduplicated_rows
+
+
+def analysis_output_dir(output_dir: Path, state: str | None) -> Path:
+    if not state:
+        return output_dir
+    state = state.upper()
+    if output_dir.name.upper() == state:
+        return output_dir
+    return output_dir / state
+
+
 def latest_milestone(event_date: date, milestones: list[GovernmentMilestone]) -> GovernmentMilestone | None:
     previous = [milestone for milestone in milestones if milestone.date <= event_date]
     return max(previous, key=lambda item: item.date) if previous else None
@@ -499,13 +529,14 @@ def generate_temporal_analysis(
         detail = " pronto para analise" if ready_years_only else ""
         year_detail = f" para os anos {', '.join(str(year) for year in years)}" if years else ""
         raise FileNotFoundError(f"Nenhum CSV{detail}{year_detail} encontrado em {input_dir}")
+    output_dir = analysis_output_dir(output_dir, state)
 
     milestones = sorted(
         (parse_government_milestone(value) for value in government_milestones),
         key=lambda item: item.date,
     )
     nlp = load_spacy_model(spacy_model_name, enabled=not disable_spacy)
-    rows = read_rows(paths, nlp, spacy_mode)
+    rows = drop_duplicate_loaded_rows(read_rows(paths, nlp, spacy_mode))
     timeline_rows = build_timeline_rows(rows, milestones)
     return_rows = [row for row in timeline_rows if row["retorno_apos_exoneracao"] == "sim"]
     summary_rows = build_summary_rows(timeline_rows)
@@ -554,7 +585,7 @@ def generate_temporal_analysis_for_states(
     for state in state_list:
         result = generate_temporal_analysis(
             input_dir=input_dir,
-            output_dir=output_dir / state,
+            output_dir=output_dir,
             lake_dir=lake_dir,
             state=state,
             government_milestones=government_milestones,
@@ -652,7 +683,7 @@ def run_interactive_menu() -> int:
             results = [
                 generate_temporal_analysis(
                     state=state,
-                    output_dir=DEFAULT_OUTPUT_DIR / state,
+                    output_dir=DEFAULT_OUTPUT_DIR,
                     ready_years_only=ready_only,
                     years=[int(selected_year)],
                 )
@@ -725,12 +756,13 @@ def main() -> int:
 
     try:
         if args.uf:
+            state = args.uf.upper()
             results = [
                 generate_temporal_analysis(
                     input_dir=args.entrada,
                     output_dir=args.saida,
                     lake_dir=args.lake,
-                    state=args.uf,
+                    state=state,
                     government_milestones=args.marco_governo,
                     spacy_model_name=args.spacy_modelo,
                     spacy_mode=args.spacy_modo,
@@ -739,7 +771,7 @@ def main() -> int:
                     years=args.ano or None,
                 )
             ]
-            results[0]["uf"] = args.uf.upper()
+            results[0]["uf"] = state
         else:
             results = generate_temporal_analysis_for_states(
                 input_dir=args.entrada,

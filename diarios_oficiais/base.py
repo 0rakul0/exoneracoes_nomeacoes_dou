@@ -439,9 +439,19 @@ class BaseGazetteCollector:
         dedup_subset = ["data_publicacao", "tipo_ato", "nome", "_trecho_chave"]
         existing_key_df = existing_df.assign(_trecho_chave=existing_df["trecho"].str.slice(0, 180))
         existing_keys = set(map(tuple, existing_key_df[dedup_subset].to_numpy()))
+        seen_keys = set(existing_keys)
 
         new_rows: list[dict[str, str]] = []
         for act in acts:
+            row_key = (
+                act.publication_date.isoformat(),
+                act.action_type,
+                act.person_name,
+                act.excerpt[:180],
+            )
+            if row_key in seen_keys:
+                continue
+
             spacy_person = act.spacy_person
             spacy_entities = act.spacy_entities
             name_parse_reliable = act.name_parse_reliable
@@ -479,6 +489,10 @@ class BaseGazetteCollector:
                     "arquivo_markdown": act.text_path,
                 }
             )
+            seen_keys.add(row_key)
+
+        if not new_rows and path.exists():
+            return 0
 
         new_df = pd.DataFrame(new_rows, columns=fieldnames)
         combined_df = pd.concat([existing_df, new_df], ignore_index=True)
