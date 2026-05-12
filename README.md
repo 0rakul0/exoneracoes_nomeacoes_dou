@@ -18,6 +18,129 @@ A fonte inicial e o portal da Imprensa Oficial do Estado do Rio de Janeiro:
 - O calendario online atual lista edicoes a partir de julho de 2005.
 - O proprio portal informa atendimento separado para edicoes pre-2008, entao essas edicoes podem exigir outra estrategia de obtencao no futuro.
 
+## Análise Exploratória das Movimentações
+
+Além da construção da base estruturada de exonerações e nomeações extraídas do Diário Oficial, o projeto também incorpora uma etapa analítica para observar padrões temporais, diferenças entre representantes e intensidade das movimentações administrativas ao longo do tempo.
+
+A análise considera dois tipos principais de movimentação:
+
+- **Nomeações**: entradas de pessoas em cargos, funções ou posições públicas.
+- **Exonerações**: saídas formais dessas posições.
+
+A partir dessas informações, foram produzidos indicadores de volume total, saldo líquido e evolução temporal por representante.
+
+---
+
+### Série temporal por representante
+
+A série temporal permite observar a evolução mensal das nomeações e exonerações associadas a cada representante político ou institucional.
+
+![Série temporal por representante](docs/img/serie_temporal_representante.png)
+
+O gráfico evidencia períodos de maior intensidade administrativa, especialmente em momentos de transição política, reorganização institucional ou mudança de gestão.  
+As nomeações foram posicionadas acima do eixo central, enquanto as exonerações foram representadas abaixo, facilitando a leitura do fluxo de entrada e saída ao longo do tempo.
+
+Esse tipo de visualização ajuda a identificar:
+
+- picos concentrados de movimentação;
+- períodos de substituição acelerada de pessoal;
+- diferenças de padrão entre representantes;
+- ciclos administrativos associados a mandatos ou mudanças de governo.
+
+---
+
+### Entradas e saídas por representante
+
+O gráfico comparativo de barras mostra o total acumulado de exonerações e nomeações por representante.
+
+![Entradas e saídas por representante](docs/img/entradas_saidas_representante.png)
+
+A leitura acumulada mostra que os maiores volumes estão concentrados nos representantes vinculados ao Executivo estadual.  
+Claudio Bomfim de Castro e Silva apresenta o maior volume total de atos, com **57.498 movimentações**, sendo **31.557 nomeações** e **25.941 exonerações**.
+
+Wilson Jose Witzel também apresenta volume expressivo, com **35.636 atos**, distribuídos entre **19.173 nomeações** e **16.463 exonerações**.
+
+Representantes com menor período de atuação ou menor escopo institucional apresentam volumes mais reduzidos, como Rodrigo Bacellar, Thiago Pampolha e Ricardo Couto de Castro.
+
+---
+
+### Saldo líquido de movimentações
+
+O saldo líquido foi calculado pela diferença entre nomeações e exonerações:
+
+```text
+saldo = nomeações - exonerações
+````
+
+![Saldo líquido por representante](docs/img/saldo_liquido_representante.png)
+
+Esse indicador permite observar se determinado representante concentrou mais entradas ou mais saídas no período analisado.
+
+Os resultados indicam:
+
+| Representante                                         | Exonerações | Nomeações |  Saldo | Total de atos |
+| ----------------------------------------------------- | ----------: | --------: | -----: | ------------: |
+| Claudio Bomfim de Castro e Silva (Executivo estadual) |      25.941 |    31.557 |  5.616 |        57.498 |
+| Wilson Jose Witzel (Executivo estadual)               |      16.463 |    19.173 |  2.710 |        35.636 |
+| Ricardo Couto de Castro (TJ-RJ)                       |       1.773 |       470 | -1.303 |         2.243 |
+| Thiago Pampolha (Vice-governadoria)                   |         621 |       879 |    258 |         1.500 |
+| Rodrigo Bacellar (ALERJ)                              |          75 |        88 |     13 |           163 |
+
+O maior saldo positivo aparece em **Claudio Bomfim de Castro e Silva**, com **5.616 nomeações líquidas**.
+Já **Ricardo Couto de Castro** apresenta saldo negativo, com **1.303 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
+
+---
+
+### Evolução anual das movimentações
+
+A timeline anual permite observar como o volume de atos administrativos varia ao longo dos anos.
+
+![Timeline de movimentações por representante](docs/img/timeline_movimentacoes.png)
+
+A distribuição anual mostra que os volumes de nomeações e exonerações não são homogêneos. Há anos com forte crescimento de movimentações, especialmente em períodos próximos a mudanças administrativas, reorganizações institucionais ou início de novos ciclos de gestão.
+
+Essa análise é útil para identificar:
+
+* anos de maior rotatividade administrativa;
+* períodos de expansão ou recomposição de quadros;
+* ciclos de entrada e saída de pessoal;
+* possíveis rupturas associadas a mudanças políticas.
+
+---
+
+## Principais achados
+
+A análise inicial aponta alguns padrões relevantes:
+
+1. **Concentração no Executivo estadual**
+   A maior parte das movimentações está concentrada nos representantes ligados ao Executivo estadual, especialmente Claudio Bomfim de Castro e Silva e Wilson Jose Witzel.
+
+2. **Diferença entre volume e saldo**
+   Um representante pode ter grande volume de atos sem necessariamente apresentar o maior saldo líquido. Por isso, a análise separa quantidade total, nomeações, exonerações e saldo.
+
+3. **Rotatividade administrativa mensurável**
+   A estrutura dos dados permite observar não apenas quantas pessoas entraram ou saíram, mas também quando esses movimentos ocorreram.
+
+4. **Potencial para análises futuras**
+   A base permite avançar para indicadores mais sofisticados, como:
+
+   * taxa de reabsorção institucional;
+   * tempo médio entre exoneração e nova nomeação;
+   * redes de circulação entre cargos e órgãos;
+   * análise de estabilidade administrativa;
+   * detecção de ciclos de rotatividade;
+   * rankings por órgão, cargo, ano e representante.
+
+---
+
+## Interpretação
+
+O projeto mostra que dados públicos do Diário Oficial podem ser transformados em uma base analítica capaz de revelar padrões de movimentação administrativa.
+Ao estruturar exonerações e nomeações em formato tabular, torna-se possível acompanhar ciclos de entrada e saída de pessoas no setor público, comparar representantes e construir indicadores de rotatividade institucional.
+
+Essa abordagem contribui para ampliar a transparência, facilitar auditorias exploratórias e apoiar estudos sobre dinâmica administrativa no setor público.
+
+
 ## Como usar
 
 Instale as dependencias:
