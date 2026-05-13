@@ -361,7 +361,8 @@ def valid_person_name(candidate: str) -> bool:
 
 
 def clean_piece(value: str) -> str:
-    return SPACE_RE.sub(" ", value).strip(" ,.;:-")
+    value = re.sub(r"(?<!\w)#{1,6}\s*", " ", value or "")
+    return SPACE_RE.sub(" ", value).strip(" \t\r\n,.;:-'\"")
 
 
 def edition_slug(section: str) -> str:

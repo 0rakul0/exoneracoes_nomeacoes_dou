@@ -56,11 +56,15 @@ O gráfico comparativo de barras mostra o total acumulado de exonerações e nom
 ![Entradas e saídas por representante](docs/img/entradas_saidas_representante.png)
 
 A leitura acumulada mostra que os maiores volumes estão concentrados nos representantes vinculados ao Executivo estadual.  
-Claudio Bomfim de Castro e Silva apresenta o maior volume total de atos, com **57.498 movimentações**, sendo **31.557 nomeações** e **25.941 exonerações**.
+<!-- README-DYNAMIC:REPRESENTANTES-START -->
 
-Wilson Jose Witzel também apresenta volume expressivo, com **35.636 atos**, distribuídos entre **19.173 nomeações** e **16.463 exonerações**.
+Claudio Bomfim de Castro e Silva apresenta o maior volume total de atos, com **57.711 movimentações**, sendo **31.693 nomeações** e **26.018 exonerações**.
 
-Representantes com menor período de atuação ou menor escopo institucional apresentam volumes mais reduzidos, como Rodrigo Bacellar, Thiago Pampolha e Ricardo Couto de Castro.
+Wilson Jose Witzel também apresenta volume expressivo, com **41.176 atos**, distribuídos entre **22.479 nomeações** e **18.697 exonerações**.
+
+Representantes com menor período de atuação ou menor escopo institucional apresentam volumes mais reduzidos, como Ricardo Couto de Castro, Thiago Pampolha e Rodrigo Bacellar.
+
+<!-- README-DYNAMIC:REPRESENTANTES-END -->
 
 ---
 
@@ -78,16 +82,37 @@ Esse indicador permite observar se determinado representante concentrou mais ent
 
 Os resultados indicam:
 
-| Representante                                         | Exonerações | Nomeações |  Saldo | Total de atos |
-| ----------------------------------------------------- | ----------: | --------: | -----: | ------------: |
-| Claudio Bomfim de Castro e Silva (Executivo estadual) |      25.941 |    31.557 |  5.616 |        57.498 |
-| Wilson Jose Witzel (Executivo estadual)               |      16.463 |    19.173 |  2.710 |        35.636 |
-| Ricardo Couto de Castro (TJ-RJ)                       |       1.773 |       470 | -1.303 |         2.243 |
-| Thiago Pampolha (Vice-governadoria)                   |         621 |       879 |    258 |         1.500 |
-| Rodrigo Bacellar (ALERJ)                              |          75 |        88 |     13 |           163 |
+<!-- README-DYNAMIC:SALDO-START -->
 
-O maior saldo positivo aparece em **Claudio Bomfim de Castro e Silva**, com **5.616 nomeações líquidas**.
-Já **Ricardo Couto de Castro** apresenta saldo negativo, com **1.303 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
+| Representante | Exonerações | Nomeações | Saldo | Total de atos |
+| --- | ---: | ---: | ---: | ---: |
+| Claudio Bomfim de Castro e Silva (Executivo estadual) | 26.018 | 31.693 | 5.675 | 57.711 |
+| Wilson Jose Witzel (Executivo estadual) | 18.697 | 22.479 | 3.782 | 41.176 |
+| Ricardo Couto de Castro (TJ-RJ) | 1.897 | 500 | -1.397 | 2.397 |
+| Thiago Pampolha (Vice-governadoria) | 621 | 879 | 258 | 1.500 |
+| Rodrigo Bacellar (ALERJ) | 75 | 88 | 13 | 163 |
+
+O maior saldo positivo aparece em **Claudio Bomfim de Castro e Silva**, com **5.675 nomeações líquidas**.
+Já **Ricardo Couto de Castro** apresenta saldo negativo, com **1.397 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
+
+<!-- README-DYNAMIC:SALDO-END -->
+
+---
+
+### Órgãos mais movimentados
+
+O ranking por órgão complementa a leitura por representante ao mostrar onde as movimentações se concentram administrativamente.
+
+![Órgãos mais movimentados - Top 10](docs/img/orgaos_mais_movimentados_top10.png)
+
+No recorte analisado, o maior volume aparece no **Departamento de Trânsito do Estado do Rio de Janeiro - DETRAN/RJ**, seguido pelo **Instituto Estadual do Ambiente - INEA**. O gráfico agrega variações de escrita do mesmo órgão, como diferenças de hífen, espaçamento e siglas, para evitar duplicidade artificial no ranking.
+
+Essa visão ajuda a identificar:
+
+* órgãos com maior rotatividade administrativa;
+* estruturas que concentram nomeações e exonerações;
+* diferenças entre volume bruto e saldo de entrada/saída;
+* possíveis focos para auditorias ou análises específicas por órgão.
 
 ---
 
@@ -319,7 +344,15 @@ Se quiser rodar sem spaCy:
 python analise_temporal/analisar_movimentacoes.py --uf RJ --sem-spacy
 ```
 
-O script le os CSVs anuais em `saida/UF` e grava:
+Para atualizar automaticamente as imagens e os trechos dinâmicos deste README:
+
+```powershell
+python docs/gerar_imagens_readme.py
+```
+
+O script salva os PNGs em `docs/img` com as mesmas dimensões usadas atualmente no documento e recalcula os blocos marcados com `README-DYNAMIC` a partir da base de movimentações.
+
+O script de análise temporal lê os CSVs anuais em `saida/UF` e grava:
 
 ```text
 saida/analises/movimentacoes_pessoas.csv

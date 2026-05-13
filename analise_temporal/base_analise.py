@@ -19,7 +19,69 @@ from dash import Dash, dcc, html, Input, Output, ctx
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 ANALISES_DIR = PROJECT_ROOT / "saida" / "analises"
 TOP_N_TRANSICOES = 30
-TOP_N_ORGAOS = 20
+TOP_N_ORGAOS = 10
+
+
+def normalizar_orgao_para_grafico(orgao):
+    if pd.isna(orgao):
+        return "", ""
+
+    orgao = str(orgao or "").strip()
+    if not orgao or orgao.lower() in {"nan", "none", "null"}:
+        return "", ""
+
+    rotulo = re.sub(r"\s+", " ", orgao)
+    rotulo = re.sub(r"\s*-\s*", " - ", rotulo)
+    rotulo = re.sub(r"\s*/\s*", "/", rotulo).strip()
+
+    chave = rotulo.lower()
+    chave = re.sub(r"\s*-\s*", " ", chave)
+    chave = re.sub(r"\s+", " ", chave).strip()
+    return chave, rotulo
+
+
+def adicionar_orgao_grafico(base):
+    base = base.copy()
+    orgaos_normalizados = base["orgao"].apply(normalizar_orgao_para_grafico)
+    base["orgao_chave"] = orgaos_normalizados.map(lambda item: item[0])
+    base["orgao_rotulo"] = orgaos_normalizados.map(lambda item: item[1])
+    base = base[base["orgao_chave"] != ""]
+
+    if base.empty:
+        base["orgao_grafico"] = pd.Series(dtype="object")
+        return base
+
+    rotulos = (
+        base.groupby(["orgao_chave", "orgao_rotulo"])
+        .size()
+        .reset_index(name="quantidade")
+        .sort_values(["orgao_chave", "quantidade", "orgao_rotulo"], ascending=[True, False, True])
+        .drop_duplicates("orgao_chave")
+        .set_index("orgao_chave")["orgao_rotulo"]
+    )
+    base["orgao_grafico"] = base["orgao_chave"].map(rotulos)
+    return base
+
+
+def periodo_movimentacoes(dff_mov):
+    if dff_mov.empty or "ano" not in dff_mov.columns:
+        return "sem período"
+
+    return periodo_anos(dff_mov["ano"].dropna().unique().tolist())
+
+
+def periodo_anos(anos):
+    anos_filtrados = sorted(int(ano) for ano in anos if pd.notna(ano))
+    if not anos_filtrados:
+        return "sem período"
+
+    if len(anos_filtrados) == 1:
+        return str(anos_filtrados[0])
+
+    if anos_filtrados == list(range(anos_filtrados[0], anos_filtrados[-1] + 1)):
+        return f"{anos_filtrados[0]}-{anos_filtrados[-1]}"
+
+    return ", ".join(str(ano) for ano in anos_filtrados)
 
 
 @lru_cache(maxsize=4096)
@@ -480,24 +542,23 @@ def fig_barras_movimentacoes_por_orgao(dff_mov):
     if dff_mov.empty:
         return go.Figure().update_layout(title="Sem dados para órgãos")
 
-    base = dff_mov.copy()
-    base["orgao_grafico"] = base["orgao"].fillna("").astype(str).str.strip()
-    base = base[base["orgao_grafico"] != ""]
+    periodo = periodo_movimentacoes(dff_mov)
+    base = adicionar_orgao_grafico(dff_mov)
 
     if base.empty:
         return go.Figure().update_layout(title="Sem órgãos identificados para os filtros selecionados")
 
     ranking = (
-        base.groupby("orgao_grafico")
+        base.groupby("orgao_chave")
         .size()
         .sort_values(ascending=False)
         .head(TOP_N_ORGAOS)
         .index
     )
-    base = base[base["orgao_grafico"].isin(ranking)]
+    base = base[base["orgao_chave"].isin(ranking)]
 
     barras = (
-        base.groupby(["orgao_grafico", "tipo_ato"])
+        base.groupby(["orgao_chave", "orgao_grafico", "tipo_ato"])
         .size()
         .reset_index(name="quantidade")
     )
@@ -532,7 +593,7 @@ def fig_barras_movimentacoes_por_orgao(dff_mov):
             "orgao_grafico": "Órgão",
             "tipo_ato": "Tipo de ato",
         },
-        title=f"Entradas e Saídas por Órgão - Top {TOP_N_ORGAOS} órgãos identificados",
+        title=f"Entradas e Saídas por Órgão - Top {TOP_N_ORGAOS} órgãos identificados ({periodo})",
     )
 
     fig.add_vline(x=0, line_width=1, line_color="#444")
@@ -773,12 +834,20 @@ def fig_serie_temporal_governo(dff_mov):
                 continue
 
             config = action_config[action_type]
+            current = current.set_index("periodo").sort_index()
+            periodos = pd.date_range(current.index.min(), current.index.max(), freq="MS")
+            current = current.reindex(periodos).rename_axis("periodo").reset_index()
+            current["representante_governo"] = current["representante_governo"].fillna(governo)
+            current["origem"] = current["origem"].fillna(origem)
+            current["papeis"] = current["papeis"].fillna("")
+            current["tipo_ato"] = current["tipo_ato"].fillna(action_type)
             signed_quantity = current["quantidade"] * config["sign"]
             fig.add_trace(
                 go.Scatter(
                     x=current["periodo"],
                     y=signed_quantity,
                     mode="lines+markers",
+                    connectgaps=False,
                     name=f"{short_government} - {config['label']}",
                     legendgroup=governo,
                     line=dict(
@@ -1060,25 +1129,24 @@ def fig_timeline_governo(dff_mov):
     return fig
 
 
-def fig_orgaos_por_governo(dff_mov):
+def fig_orgaos_por_governo(dff_mov, periodo=None):
     if dff_mov.empty:
         return go.Figure().update_layout(title="Sem dados para órgãos")
 
-    base = dff_mov.copy()
-    base["orgao_grafico"] = base["orgao"].fillna("").astype(str).str.strip()
-    base = base[base["orgao_grafico"] != ""]
+    periodo = periodo or periodo_movimentacoes(dff_mov)
+    base = adicionar_orgao_grafico(dff_mov)
     if base.empty:
         return go.Figure().update_layout(title="Sem órgãos identificados para os filtros selecionados")
 
     ranking = (
-        base.groupby("orgao_grafico")
+        base.groupby("orgao_chave")
         .size()
         .sort_values(ascending=False)
         .head(TOP_N_ORGAOS)
         .index
     )
-    base = base[base["orgao_grafico"].isin(ranking)]
-    barras = base.groupby(["orgao_grafico", "tipo_ato"]).size().reset_index(name="quantidade")
+    base = base[base["orgao_chave"].isin(ranking)]
+    barras = base.groupby(["orgao_chave", "orgao_grafico", "tipo_ato"]).size().reset_index(name="quantidade")
     barras["fluxo"] = barras.apply(
         lambda row: -row["quantidade"] if row["tipo_ato"] == "exoneracao" else row["quantidade"],
         axis=1,
@@ -1100,7 +1168,7 @@ def fig_orgaos_por_governo(dff_mov):
         orientation="h",
         category_orders={"tipo_ato": ["exoneracao", "nomeacao"], "orgao_grafico": ordem},
         labels={"fluxo": "Saídas / Entradas", "orgao_grafico": "Órgão", "tipo_ato": "Movimentação"},
-        title=f"Órgãos Mais Movimentados - Top {TOP_N_ORGAOS}",
+        title=f"Órgãos Mais Movimentados - Top {TOP_N_ORGAOS} ({periodo})",
     )
     fig.add_vline(x=0, line_width=1, line_color="#444")
     fig.update_layout(
@@ -1529,6 +1597,8 @@ def update(recarregar_clicks, estado, ano, governador_edicao, orgao, tipo_ato):
     if estado:
         dff_mov = dff_mov[dff_mov["estado"] == estado]
 
+    periodo_top_orgaos = periodo_anos(ano) if ano else periodo_movimentacoes(dff_mov)
+
     if ano:
         dff_mov = dff_mov[dff_mov["ano"].isin(ano)]
 
@@ -1561,7 +1631,7 @@ def update(recarregar_clicks, estado, ano, governador_edicao, orgao, tipo_ato):
         fig_saldo_por_governo(dff_mov),
         fig_serie_temporal_governo(dff_mov),
         fig_timeline_governo(dff_mov),
-        fig_orgaos_por_governo(dff_mov),
+        fig_orgaos_por_governo(dff_mov, periodo_top_orgaos),
         tabela_resumo_governos(dff_mov),
         reload_status,
     )

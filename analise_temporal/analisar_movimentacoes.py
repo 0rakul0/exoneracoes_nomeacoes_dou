@@ -145,10 +145,11 @@ def normalize_text(value: str) -> str:
 def clean_person_name(value: str) -> str:
     value = value or ""
     value = re.sub(r"<!--\s*IMAGE\s*-->", " ", value, flags=re.I)
+    value = re.sub(r"(?<!\w)#{1,6}\s*", " ", value)
     value = re.sub(r"/U[0-9A-Fa-f]{4}", " ", value)
     value = re.sub(r"\bPARA\s+EXERCER\b.*$", "", value, flags=re.I)
     value = NAME_SUFFIX_RE.sub("", value)
-    value = re.sub(r"\s+", " ", value).strip(" ,.;:-")
+    value = re.sub(r"\s+", " ", value).strip(" \t\r\n,.;:-'\"")
     return value
 
 
