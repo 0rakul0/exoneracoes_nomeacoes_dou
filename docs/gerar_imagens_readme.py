@@ -40,7 +40,7 @@ IMAGE_SPECS = {
             dashboard.periodo_movimentacoes(data),
         ),
         "width": 1760,
-        "height": 750,
+        "height": 650,
     },
 }
 
