@@ -39,8 +39,8 @@ IMAGE_SPECS = {
             data,
             dashboard.periodo_movimentacoes(data),
         ),
-        "width": 3600,
-        "height": 2000,
+        "width": 1760,
+        "height": 750,
     },
 }
 
@@ -68,6 +68,13 @@ def generate_images(uf: str, output_dir: Path) -> None:
 
     for filename, spec in IMAGE_SPECS.items():
         figure = spec["figure"](data)
+        if filename == "orgaos_mais_movimentados_top10.png":
+            figure.update_layout(
+                font=dict(size=15),
+                legend=dict(font=dict(size=16), title_font=dict(size=18)),
+                title_font=dict(size=26),
+                margin=dict(l=24, r=24, t=82, b=60),
+            )
         figure.write_image(
             output_dir / filename,
             width=spec["width"],
