@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import sys
 from pathlib import Path
 
@@ -212,10 +213,41 @@ def update_readme(data: pd.DataFrame, readme_path: Path = README_PATH) -> None:
     print(f"README atualizado: {readme_path}")
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Gera imagens e atualiza os blocos dinamicos do README."
+    )
+    parser.add_argument("--uf", default=DEFAULT_UF, help="UF usada no recorte dos dados.")
+    parser.add_argument(
+        "--output-dir",
+        type=Path,
+        default=DEFAULT_OUTPUT_DIR,
+        help="Diretorio onde as imagens do README serao salvas.",
+    )
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument(
+        "--somente-imagens",
+        action="store_true",
+        help="Gera apenas as imagens do README.",
+    )
+    mode.add_argument(
+        "--somente-readme",
+        action="store_true",
+        help="Atualiza apenas os blocos dinamicos do README.",
+    )
+    return parser.parse_args()
+
+
 def main() -> int:
-    data = filtered_movements(DEFAULT_UF)
-    generate_images(DEFAULT_UF, DEFAULT_OUTPUT_DIR)
-    update_readme(data)
+    args = parse_args()
+    data = filtered_movements(args.uf)
+    if args.somente_readme:
+        update_readme(data)
+    elif args.somente_imagens:
+        generate_images(args.uf, args.output_dir)
+    else:
+        generate_images(args.uf, args.output_dir)
+        update_readme(data)
     return 0
 
 

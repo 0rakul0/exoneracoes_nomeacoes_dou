@@ -58,9 +58,9 @@ O gráfico comparativo de barras mostra o total acumulado de exonerações e nom
 A leitura acumulada mostra que os maiores volumes estão concentrados nos representantes vinculados ao Executivo estadual.  
 <!-- README-DYNAMIC:REPRESENTANTES-START -->
 
-Claudio Bomfim de Castro e Silva apresenta o maior volume total de atos, com **57.711 movimentações**, sendo **31.693 nomeações** e **26.018 exonerações**.
+Claudio Bomfim de Castro e Silva apresenta o maior volume total de atos, com **57.496 movimentações**, sendo **31.555 nomeações** e **25.941 exonerações**.
 
-Wilson Jose Witzel também apresenta volume expressivo, com **41.176 atos**, distribuídos entre **22.479 nomeações** e **18.697 exonerações**.
+Wilson Jose Witzel também apresenta volume expressivo, com **41.141 atos**, distribuídos entre **22.456 nomeações** e **18.685 exonerações**.
 
 Representantes com menor período de atuação ou menor escopo institucional apresentam volumes mais reduzidos, como Ricardo Couto de Castro, Thiago Pampolha e Rodrigo Bacellar.
 
@@ -86,14 +86,14 @@ Os resultados indicam:
 
 | Representante | Exonerações | Nomeações | Saldo | Total de atos |
 | --- | ---: | ---: | ---: | ---: |
-| Claudio Bomfim de Castro e Silva (Executivo estadual) | 26.018 | 31.693 | 5.675 | 57.711 |
-| Wilson Jose Witzel (Executivo estadual) | 18.697 | 22.479 | 3.782 | 41.176 |
-| Ricardo Couto de Castro (TJ-RJ) | 1.897 | 500 | -1.397 | 2.397 |
+| Claudio Bomfim de Castro e Silva (Executivo estadual) | 25.941 | 31.555 | 5.614 | 57.496 |
+| Wilson Jose Witzel (Executivo estadual) | 18.685 | 22.456 | 3.771 | 41.141 |
+| Ricardo Couto de Castro (TJ-RJ) | 1.790 | 481 | -1.309 | 2.271 |
 | Thiago Pampolha (Vice-governadoria) | 621 | 879 | 258 | 1.500 |
 | Rodrigo Bacellar (ALERJ) | 75 | 88 | 13 | 163 |
 
-O maior saldo positivo aparece em **Claudio Bomfim de Castro e Silva**, com **5.675 nomeações líquidas**.
-Já **Ricardo Couto de Castro** apresenta saldo negativo, com **1.397 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
+O maior saldo positivo aparece em **Claudio Bomfim de Castro e Silva**, com **5.614 nomeações líquidas**.
+Já **Ricardo Couto de Castro** apresenta saldo negativo, com **1.309 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
 
 <!-- README-DYNAMIC:SALDO-END -->
 
@@ -344,7 +344,13 @@ Se quiser rodar sem spaCy:
 python analise_temporal/analisar_movimentacoes.py --uf RJ --sem-spacy
 ```
 
-Para atualizar automaticamente as imagens e os trechos dinâmicos deste README:
+Para recalcular as movimentações, atualizar as imagens e depois os trechos dinâmicos deste README em sequência:
+
+```powershell
+.\atualizar_readme_completo.bat
+```
+
+Para rodar apenas a etapa de imagens e blocos dinâmicos:
 
 ```powershell
 python docs/gerar_imagens_readme.py
