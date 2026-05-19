@@ -344,6 +344,20 @@ Se quiser rodar sem spaCy:
 python analise_temporal/analisar_movimentacoes.py --uf RJ --sem-spacy
 ```
 
+Para atualizar sem reprocessar tudo, use o modo incremental:
+
+```powershell
+python analise_temporal/analisar_movimentacoes.py --uf RJ --incluir-anos-incompletos --incremental
+```
+
+Nesse modo, o script le `saida/analises/RJ/movimentacoes_pessoas.csv`, detecta a menor e a maior `data_publicacao` ja processadas e so varre os registros dos CSVs anuais que estejam antes ou depois desse intervalo. Se quiser informar manualmente o intervalo ja processado:
+
+```powershell
+python analise_temporal/analisar_movimentacoes.py --uf RJ --incluir-anos-incompletos --incremental --data-min 2011-12-05 --data-max 2026-05-19
+```
+
+O `gerar_movimento.bat` ja usa esse modo incremental por padrao.
+
 Para recalcular as movimentações, atualizar as imagens e depois os trechos dinâmicos deste README em sequência:
 
 ```powershell

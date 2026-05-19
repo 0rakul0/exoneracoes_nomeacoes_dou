@@ -268,21 +268,62 @@ def discover_states(
     )
 
 
-def read_rows(paths: Iterable[Path], nlp: Any | None, spacy_mode: str) -> list[dict[str, str]]:
+def date_matches_filter(
+    row_date: date,
+    data_min: date | None = None,
+    data_max: date | None = None,
+    outside_range: bool = False,
+) -> bool:
+    inside = True
+    if data_min is not None and row_date < data_min:
+        inside = False
+    if data_max is not None and row_date > data_max:
+        inside = False
+    return not inside if outside_range else inside
+
+
+def loaded_row_key(row: dict[str, str]) -> tuple[str, ...]:
+    return (
+        row.get("data_publicacao", ""),
+        row.get("tipo_ato", ""),
+        row.get("_nome_normalizado", ""),
+        row.get("_cargo_normalizado", ""),
+        row.get("_orgao_normalizado", ""),
+        row.get("fonte_url", ""),
+        row.get("arquivo_markdown", ""),
+    )
+
+
+def read_rows(
+    paths: Iterable[Path],
+    nlp: Any | None,
+    spacy_mode: str,
+    data_min: date | None = None,
+    data_max: date | None = None,
+    outside_range: bool = False,
+    existing_keys: set[tuple[str, ...]] | None = None,
+) -> list[dict[str, str]]:
     rows: list[dict[str, str]] = []
     for path in paths:
         with path.open(newline="", encoding="utf-8") as file:
             for row_number, row in enumerate(csv.DictReader(file), start=2):
                 row = dict(row)
+                row_date = parse_date(row["data_publicacao"])
+                outside_existing_range = not date_matches_filter(row_date, data_min, data_max)
                 row["_arquivo_csv"] = str(path)
                 row["_linha_csv"] = str(row_number)
-                row["_data"] = parse_date(row["data_publicacao"])
+                row["_data"] = row_date
                 row["_nome_original"] = row.get("nome", "")
                 row["_nome_limpo"] = clean_person_name(row.get("nome", ""))
                 row["_nome_normalizado"] = normalize_text(row["_nome_limpo"])
                 row["_nome_rejeicao"] = name_rejection_reason(row["_nome_limpo"])
                 row["_spacy_pessoa"] = row.get("spacy_pessoa", "")
                 row["_spacy_entidades"] = row.get("spacy_entidades", "")
+                row["_cargo_normalizado"] = normalize_text(row.get("cargo", ""))
+                row["_orgao_normalizado"] = normalize_text(row.get("orgao", ""))
+                if outside_range and not outside_existing_range:
+                    if existing_keys is None or loaded_row_key(row) in existing_keys:
+                        continue
                 if nlp is not None or not row["_spacy_pessoa"]:
                     row["_spacy_pessoa"], row["_spacy_entidades"] = spacy_person_validation(row["_nome_limpo"], nlp)
                 if (
@@ -292,8 +333,6 @@ def read_rows(paths: Iterable[Path], nlp: Any | None, spacy_mode: str) -> list[d
                     and row["_spacy_pessoa"] != "indisponivel"
                 ):
                     row["_nome_rejeicao"] = "spacy_nao_confirmou_pessoa"
-                row["_cargo_normalizado"] = normalize_text(row.get("cargo", ""))
-                row["_orgao_normalizado"] = normalize_text(row.get("orgao", ""))
                 if not row.get("governador_edicao", ""):
                     row["governador_edicao"] = governador_da_edicao(row.get("arquivo_markdown", ""))
                 rows.append(row)
@@ -513,6 +552,71 @@ def write_csv(path: Path, rows: list[dict[str, str]]) -> None:
         writer.writerows(rows)
 
 
+def read_output_rows(path: Path) -> list[dict[str, str]]:
+    if not path.exists():
+        return []
+    with path.open(newline="", encoding="utf-8") as file:
+        return [dict(row) for row in csv.DictReader(file)]
+
+
+def date_bounds(rows: Iterable[dict[str, str]]) -> tuple[date | None, date | None]:
+    dates = [
+        parse_date(row["data_publicacao"])
+        for row in rows
+        if row.get("data_publicacao")
+    ]
+    if not dates:
+        return None, None
+    return min(dates), max(dates)
+
+
+def timeline_output_to_loaded_row(row: dict[str, str]) -> dict[str, str]:
+    loaded = dict(row)
+    loaded["_arquivo_csv"] = row.get("arquivo_csv", "")
+    loaded["_linha_csv"] = row.get("linha_csv", "")
+    loaded["trecho"] = f"__timeline_row__{loaded['_arquivo_csv']}:{loaded['_linha_csv']}"
+    loaded["_data"] = parse_date(row["data_publicacao"])
+    loaded["_nome_original"] = row.get("nome_original_csv", row.get("nome", ""))
+    loaded["_nome_limpo"] = row.get("nome", "")
+    loaded["_nome_normalizado"] = row.get("nome_normalizado", normalize_text(row.get("nome", "")))
+    loaded["_nome_rejeicao"] = ""
+    loaded["_spacy_pessoa"] = row.get("spacy_pessoa", "")
+    loaded["_spacy_entidades"] = row.get("spacy_entidades", "")
+    loaded["_cargo_normalizado"] = normalize_text(row.get("cargo", ""))
+    loaded["_orgao_normalizado"] = normalize_text(row.get("orgao", ""))
+    return loaded
+
+
+def rejected_output_to_loaded_row(row: dict[str, str]) -> dict[str, str]:
+    loaded = dict(row)
+    loaded["_nome_normalizado"] = normalize_text(row.get("nome_limpo", ""))
+    loaded["_cargo_normalizado"] = normalize_text(row.get("cargo", ""))
+    loaded["_orgao_normalizado"] = normalize_text(row.get("orgao", ""))
+    return loaded
+
+
+def deduplicate_output_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
+    deduplicated_rows: list[dict[str, str]] = []
+    seen_keys: set[tuple[tuple[str, str], ...]] = set()
+    for row in rows:
+        row_key = tuple(sorted((key, value) for key, value in row.items()))
+        if row_key in seen_keys:
+            continue
+        seen_keys.add(row_key)
+        deduplicated_rows.append(row)
+    return deduplicated_rows
+
+
+def normalize_incremental_range(
+    existing_rows: list[dict[str, str]],
+    data_min: date | None,
+    data_max: date | None,
+) -> tuple[date | None, date | None]:
+    if data_min is not None or data_max is not None:
+        return data_min, data_max
+    return date_bounds(existing_rows)
+
+
 def generate_temporal_analysis(
     input_dir: Path = DEFAULT_INPUT_DIR,
     output_dir: Path = DEFAULT_OUTPUT_DIR,
@@ -524,6 +628,9 @@ def generate_temporal_analysis(
     disable_spacy: bool = False,
     ready_years_only: bool = True,
     years: Iterable[int] | None = None,
+    data_min: date | None = None,
+    data_max: date | None = None,
+    incremental: bool = False,
 ) -> dict[str, int | str]:
     paths = input_csv_paths(input_dir, state, ready_years_only=ready_years_only, years=years, lake_dir=lake_dir)
     if not paths:
@@ -536,12 +643,46 @@ def generate_temporal_analysis(
         (parse_government_milestone(value) for value in government_milestones),
         key=lambda item: item.date,
     )
+    timeline_path = output_dir / "movimentacoes_pessoas.csv"
+    rejected_names_path = output_dir / "nomes_suspeitos.csv"
+    existing_timeline_rows = read_output_rows(timeline_path) if incremental else []
+    existing_rejected_name_rows = read_output_rows(rejected_names_path) if incremental else []
+    effective_incremental = incremental and bool(existing_timeline_rows)
+    incremental_min, incremental_max = normalize_incremental_range(existing_timeline_rows, data_min, data_max)
+    existing_keys = None
+    if effective_incremental:
+        existing_keys = {
+            loaded_row_key(timeline_output_to_loaded_row(row))
+            for row in existing_timeline_rows
+        }
+        existing_keys.update(
+            loaded_row_key(rejected_output_to_loaded_row(row))
+            for row in existing_rejected_name_rows
+        )
+
     nlp = load_spacy_model(spacy_model_name, enabled=not disable_spacy)
-    rows = drop_duplicate_loaded_rows(read_rows(paths, nlp, spacy_mode))
+    new_rows = read_rows(
+        paths,
+        nlp,
+        spacy_mode,
+        data_min=incremental_min if effective_incremental else data_min,
+        data_max=incremental_max if effective_incremental else data_max,
+        outside_range=effective_incremental,
+        existing_keys=existing_keys,
+    )
+    if effective_incremental:
+        existing_loaded_rows = [timeline_output_to_loaded_row(row) for row in existing_timeline_rows]
+        rows = drop_duplicate_loaded_rows(existing_loaded_rows + new_rows)
+    else:
+        rows = drop_duplicate_loaded_rows(new_rows)
     timeline_rows = build_timeline_rows(rows, milestones)
     return_rows = [row for row in timeline_rows if row["retorno_apos_exoneracao"] == "sim"]
     summary_rows = build_summary_rows(timeline_rows)
-    rejected_name_rows = build_rejected_name_rows(rows)
+    new_rejected_name_rows = build_rejected_name_rows(new_rows)
+    if effective_incremental:
+        rejected_name_rows = deduplicate_output_rows(read_output_rows(rejected_names_path) + new_rejected_name_rows)
+    else:
+        rejected_name_rows = new_rejected_name_rows
 
     write_csv(output_dir / "movimentacoes_pessoas.csv", timeline_rows)
     write_csv(output_dir / "retornos_apos_exoneracao.csv", return_rows)
@@ -551,12 +692,19 @@ def generate_temporal_analysis(
     return {
         "csvs_lidos": len(paths),
         "atos_analisados": len(timeline_rows),
+        "atos_novos_lidos": len([row for row in new_rows if row.get("_nome_normalizado") and not row.get("_nome_rejeicao")]),
         "pessoas_analisadas": len(summary_rows),
         "retornos_apos_exoneracao": len(return_rows),
         "registros_com_nome_suspeito": len(rejected_name_rows),
         "spacy": "desativado" if disable_spacy else spacy_model_name if nlp is not None else "indisponivel",
         "saida": str(output_dir),
         "anos_csv": ",".join(str(year) for year in sorted({csv_year(path) for path in paths if csv_year(path)})),
+        "incremental": "sim" if effective_incremental else "nao",
+        "intervalo_incremental": (
+            f"{incremental_min.isoformat() if incremental_min else ''}..{incremental_max.isoformat() if incremental_max else ''}"
+            if effective_incremental
+            else ""
+        ),
     }
 
 
@@ -571,6 +719,9 @@ def generate_temporal_analysis_for_states(
     disable_spacy: bool = False,
     ready_years_only: bool = True,
     years: Iterable[int] | None = None,
+    data_min: date | None = None,
+    data_max: date | None = None,
+    incremental: bool = False,
 ) -> list[dict[str, int | str]]:
     state_list = (
         [state.upper() for state in states]
@@ -595,6 +746,9 @@ def generate_temporal_analysis_for_states(
             disable_spacy=disable_spacy,
             ready_years_only=ready_years_only,
             years=years,
+            data_min=data_min,
+            data_max=data_max,
+            incremental=incremental,
         )
         result["uf"] = state
         results.append(result)
@@ -606,6 +760,9 @@ def print_results(results: Iterable[dict[str, int | str]]) -> None:
         print(f"UF: {result['uf']}")
         print(f"CSVs lidos: {result['csvs_lidos']}")
         print(f"Anos analisados: {result['anos_csv']}")
+        if result.get("incremental") == "sim":
+            print(f"Incremental: sim (fora do intervalo {result['intervalo_incremental']})")
+            print(f"Atos novos lidos: {result['atos_novos_lidos']}")
         print(f"Atos analisados: {result['atos_analisados']}")
         print(f"Pessoas analisadas: {result['pessoas_analisadas']}")
         print(f"Retornos apos exoneracao: {result['retornos_apos_exoneracao']}")
@@ -724,6 +881,18 @@ def build_parser() -> argparse.ArgumentParser:
         help="Ano especifico para analisar. Pode repetir. Exemplo: --ano 2025.",
     )
     parser.add_argument(
+        "--data-min",
+        type=parse_date,
+        default=None,
+        help="Data minima YYYY-MM-DD para analisar. No modo incremental, define o inicio do intervalo ja processado.",
+    )
+    parser.add_argument(
+        "--data-max",
+        type=parse_date,
+        default=None,
+        help="Data maxima YYYY-MM-DD para analisar. No modo incremental, define o fim do intervalo ja processado.",
+    )
+    parser.add_argument(
         "--spacy-modelo",
         default="pt_core_news_sm",
         help="Modelo spaCy usado para validar nomes de pessoas.",
@@ -745,6 +914,14 @@ def build_parser() -> argparse.ArgumentParser:
         dest="incluir_anos_incompletos",
         action="store_true",
         help="Inclui CSVs sem marcador de conclusao no LAKE.",
+    )
+    parser.add_argument(
+        "--incremental",
+        action="store_true",
+        help=(
+            "Reaproveita movimentacoes_pessoas.csv existente e processa apenas datas fora do intervalo ja gravado. "
+            "Se --data-min/--data-max forem informadas, usa esse intervalo como ja processado."
+        ),
     )
     return parser
 
@@ -770,6 +947,9 @@ def main() -> int:
                     disable_spacy=args.sem_spacy,
                     ready_years_only=not args.incluir_anos_incompletos,
                     years=args.ano or None,
+                    data_min=args.data_min,
+                    data_max=args.data_max,
+                    incremental=args.incremental,
                 )
             ]
             results[0]["uf"] = state
@@ -784,6 +964,9 @@ def main() -> int:
                 disable_spacy=args.sem_spacy,
                 ready_years_only=not args.incluir_anos_incompletos,
                 years=args.ano or None,
+                data_min=args.data_min,
+                data_max=args.data_max,
+                incremental=args.incremental,
             )
     except FileNotFoundError as exc:
         raise SystemExit(str(exc)) from exc
