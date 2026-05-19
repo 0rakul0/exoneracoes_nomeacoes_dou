@@ -60,7 +60,7 @@ A leitura acumulada mostra que os maiores volumes estão concentrados nos repres
 
 Claudio Bomfim de Castro e Silva apresenta o maior volume total de atos, com **57.496 movimentações**, sendo **31.555 nomeações** e **25.941 exonerações**.
 
-Wilson Jose Witzel também apresenta volume expressivo, com **49.658 atos**, distribuídos entre **28.963 nomeações** e **20.695 exonerações**.
+Wilson Jose Witzel também apresenta volume expressivo, com **51.532 atos**, distribuídos entre **30.402 nomeações** e **21.130 exonerações**.
 
 Representantes com menor período de atuação ou menor escopo institucional apresentam volumes mais reduzidos, como Ricardo Couto de Castro, Thiago Pampolha e Rodrigo Bacellar.
 
@@ -87,13 +87,13 @@ Os resultados indicam:
 | Representante | Exonerações | Nomeações | Saldo | Total de atos |
 | --- | ---: | ---: | ---: | ---: |
 | Claudio Bomfim de Castro e Silva (Executivo estadual) | 25.941 | 31.555 | 5.614 | 57.496 |
-| Wilson Jose Witzel (Executivo estadual) | 20.695 | 28.963 | 8.268 | 49.658 |
-| Ricardo Couto de Castro (TJ-RJ) | 1.861 | 501 | -1.360 | 2.362 |
+| Wilson Jose Witzel (Executivo estadual) | 21.130 | 30.402 | 9.272 | 51.532 |
+| Ricardo Couto de Castro (TJ-RJ) | 1.864 | 523 | -1.341 | 2.387 |
 | Thiago Pampolha (Vice-governadoria) | 621 | 879 | 258 | 1.500 |
 | Rodrigo Bacellar (ALERJ) | 75 | 88 | 13 | 163 |
 
-O maior saldo positivo aparece em **Wilson Jose Witzel**, com **8.268 nomeações líquidas**.
-Já **Ricardo Couto de Castro** apresenta saldo negativo, com **1.360 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
+O maior saldo positivo aparece em **Wilson Jose Witzel**, com **9.272 nomeações líquidas**.
+Já **Ricardo Couto de Castro** apresenta saldo negativo, com **1.341 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
 
 <!-- README-DYNAMIC:SALDO-END -->
 
