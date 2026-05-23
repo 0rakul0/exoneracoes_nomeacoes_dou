@@ -21,6 +21,11 @@ echo.
 echo README atualizado com sucesso.
 exit /b 0
 
+echo.
+echo começando a extração sucesso.
+cd /d "%~dp0"
+".\.venv\Scripts\python.exe" main.py
+
 :erro
 echo.
 echo Falha na atualizacao do README. Codigo: %ERRORLEVEL%

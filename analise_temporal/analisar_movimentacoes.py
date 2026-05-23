@@ -77,6 +77,31 @@ ADMINISTRATIVE_TERMS = {
     "VINCULADA",
     "VINCULADO",
 }
+ADMINISTRATIVE_TERMS.update(
+    {
+        "ABAIXO",
+        "ADMINISTRACAO",
+        "ADMINISTRATIVA",
+        "ADMINISTRATIVO",
+        "COMUNICACAO",
+        "DESCRITA",
+        "DESCRITO",
+        "DESCRITOS",
+        "DOCENTE",
+        "FAPERJ",
+        "FINANCEIRA",
+        "FINANCEIRO",
+        "FINANCAS",
+        "INTERNA",
+        "LISTADOS",
+        "MENCIONADA",
+        "PROMOCAO",
+        "RELACIONADA",
+        "RELACIONADO",
+        "RELACIONADOS",
+        "VERBA",
+    }
+)
 SUSPICIOUS_STARTS = {
     "A",
     "AS",
@@ -94,6 +119,7 @@ SUSPICIOUS_STARTS = {
     "VINCULADA",
     "VINCULADO",
 }
+SUSPICIOUS_STARTS.update({"ABAIXO"})
 ADMINISTRATIVE_PHRASE_RE = re.compile(
     r"\b("
     r"DO CARGO|DA FUNCAO|DA FUNÇÃO|PARA EXERCER|A CONTAR|ID FUNC|"
@@ -103,7 +129,7 @@ ADMINISTRATIVE_PHRASE_RE = re.compile(
     re.I,
 )
 NAME_SUFFIX_RE = re.compile(
-    r"(?:\s*[-,;]\s*|\s+)(?:MATR(?:ICULA)?\.?|ID\.?\s*(?:FUNCIONAL)?|RG|CPF)\b\s*[: NºNO.]*\s*[\w.\-/]+.*$",
+    r"(?:\s*[-,;]\s*|\s+)(?:MAT\.?|MATR(?:ICULA|ÃCULA|ÍCULA)?\.?|ID\.?\s*(?:FUNCIONAL)?|RG|CPF)\b\s*[: Nº°NO.]*\s*[\w.\-/]+.*$",
     re.I,
 )
 CSV_YEAR_RE = re.compile(r"(?:^|_)(?P<year>20\d{2})(?:\.csv)?$", re.I)
@@ -144,11 +170,42 @@ def normalize_text(value: str) -> str:
 
 def clean_person_name(value: str) -> str:
     value = value or ""
+    likely_name = r"(?=[^\W\d_]{2,}\s+[^\W\d_]{2,})"
     value = re.sub(r"<!--\s*IMAGE\s*-->", " ", value, flags=re.I)
     value = re.sub(r"(?<!\w)#{1,6}\s*", " ", value)
     value = re.sub(r"/U[0-9A-Fa-f]{4}", " ", value)
+    value = re.sub(rf"^.*?\bPROCESSO\b[^.]*\.\s+{likely_name}", "", value, flags=re.I)
+    value = re.sub(rf"^.*?:\s*-?\s+{likely_name}", "", value, flags=re.I)
+    value = re.sub(rf"^.*?-\s*{likely_name}", "", value, flags=re.I)
     value = re.sub(r"\bPARA\s+EXERCER\b.*$", "", value, flags=re.I)
+    value = re.sub(r"\bR\s+E\s+N\s+ATO\b", "RENATO", value, flags=re.I)
+    value = re.sub(r"\bPA\s+U\s+L\s+O\b", "PAULO", value, flags=re.I)
+    value = re.sub(r"\s+(?:NO|NA|DO|DA)\s+CARGO\b.*$", "", value, flags=re.I)
+    value = re.sub(r"\s+(?:CER\s+)?O\s+CARGO\b.*$", "", value, flags=re.I)
+    value = re.sub(r"\s+CARGO\b.*$", "", value, flags=re.I)
+    value = re.sub(r"\s+GO\s+EM\s+COMISS[ÃA]O\b.*$", "", value, flags=re.I)
+    value = re.sub(r"\s+FUNCIONAL\b.*$", "", value, flags=re.I)
+    value = re.sub(r"\s+MEMBROS?\b.*$", "", value, flags=re.I)
+    value = re.sub(r"\s+(?:COM\s+)?VALIDADE\b.*$", "", value, flags=re.I)
+    value = re.sub(r"\s+A\s+CONTAR\b.*$", "", value, flags=re.I)
+    value = re.sub(r"\s+(?:O|A)\s+MESM[OA]\b.*$", "", value, flags=re.I)
+    value = re.sub(
+        r"\s+(?:DO|DA|DE)\s+"
+        r"(?:DEPARTAMENTO|SECRETARIA|SUBSECRETARIA|SUPERINTEND[ÃE]NCIA|FUNDA[ÇC][ÃA]O|INSTITUTO|GABINETE)\b.*$",
+        "",
+        value,
+        flags=re.I,
+    )
+    value = re.sub(
+        r"\s+"
+        r"(?:AUDITOR|INSPETOR|ESPECIALISTA|PROFESSOR|ASSISTENTE|ANALISTA|ASSESSOR|COORDENADOR)\b.*$",
+        "",
+        value,
+        flags=re.I,
+    )
     value = NAME_SUFFIX_RE.sub("", value)
+    value = re.sub(r"\s*[:,-]\s*\d[\d.\-/]*.*$", "", value)
+    value = re.sub(r"\s+\d[\d.\-/]*$", "", value)
     value = re.sub(r"\s+", " ", value).strip(" \t\r\n,.;:-'\"")
     return value
 
@@ -401,7 +458,8 @@ def build_timeline_rows(
             event_date = row["_data"]
             milestone = latest_milestone(event_date, milestones)
             governor = row.get("governador_edicao", "")
-            representative = nome_representante_governo(governor)
+            representative = row.get("representante_governo", "") or nome_representante_governo(governor)
+            representative_origin = row.get("origem_representante", "") or origem_representante_governo(governor)
 
             returned_after_exoneration = action_type == "nomeacao" and last_exoneration is not None
             days_since_exoneration = ""
@@ -445,7 +503,8 @@ def build_timeline_rows(
                 "categoria_assinante": row.get("categoria_assinante", ""),
                 "governador_edicao": governor,
                 "representante_governo": representative,
-                "origem_representante": origem_representante_governo(governor),
+                "origem_representante": representative_origin,
+                "representante_origem": f"{representative} ({representative_origin})",
                 "caderno": row.get("caderno", ""),
                 "fonte_url": row.get("fonte_url", ""),
                 "arquivo_markdown": row.get("arquivo_markdown", ""),
@@ -514,6 +573,8 @@ def build_rejected_name_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]
         if not row["_nome_rejeicao"]:
             continue
         governor = row.get("governador_edicao", "")
+        representative = row.get("representante_governo", "") or nome_representante_governo(governor)
+        representative_origin = row.get("origem_representante", "") or origem_representante_governo(governor)
         rejected.append(
             {
                 "motivo_rejeicao": row["_nome_rejeicao"],
@@ -530,8 +591,9 @@ def build_rejected_name_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]
                 "cargo_assinante": row.get("cargo_assinante", ""),
                 "categoria_assinante": row.get("categoria_assinante", ""),
                 "governador_edicao": governor,
-                "representante_governo": nome_representante_governo(governor),
-                "origem_representante": origem_representante_governo(governor),
+                "representante_governo": representative,
+                "origem_representante": representative_origin,
+                "representante_origem": f"{representative} ({representative_origin})",
                 "fonte_url": row.get("fonte_url", ""),
                 "arquivo_markdown": row.get("arquivo_markdown", ""),
                 "arquivo_csv": row.get("_arquivo_csv", ""),
@@ -624,7 +686,7 @@ def generate_temporal_analysis(
     state: str | None = None,
     government_milestones: Iterable[str] = (),
     spacy_model_name: str = "pt_core_news_sm",
-    spacy_mode: str = "filtrar",
+    spacy_mode: str = "anotar",
     disable_spacy: bool = False,
     ready_years_only: bool = True,
     years: Iterable[int] | None = None,
@@ -715,7 +777,7 @@ def generate_temporal_analysis_for_states(
     states: Iterable[str] | None = None,
     government_milestones: Iterable[str] = (),
     spacy_model_name: str = "pt_core_news_sm",
-    spacy_mode: str = "filtrar",
+    spacy_mode: str = "anotar",
     disable_spacy: bool = False,
     ready_years_only: bool = True,
     years: Iterable[int] | None = None,
@@ -900,7 +962,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--spacy-modo",
         choices=["filtrar", "anotar"],
-        default="filtrar",
+        default="anotar",
         help="Em 'filtrar', remove nomes nao confirmados pelo spaCy quando o modelo estiver disponivel.",
     )
     parser.add_argument(

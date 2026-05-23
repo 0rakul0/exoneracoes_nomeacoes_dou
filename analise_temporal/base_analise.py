@@ -108,29 +108,19 @@ def governador_da_edicao(markdown_path):
     if governor_name:
         return f"{governor_name} - Governador"
 
-    return governador_por_data_do_arquivo(path)
+    return "Nao identificado"
 
 
 def governador_por_data_do_arquivo(path):
-    match = re.search(r"(20\d{2})-(\d{2})-(\d{2})", path.name)
-    if not match:
-        return "Não identificado"
-
-    publication_date = date(
-        int(match.group(1)),
-        int(match.group(2)),
-        int(match.group(3)),
-    )
-
-    if publication_date < date(2020, 8, 28):
-        return "Wilson José Witzel - Governador"
-    if publication_date < date(2021, 5, 1):
-        return "Cláudio Bomfim de Castro e Silva - Governador em exercício"
-    return "Cláudio Bomfim de Castro e Silva - Governador"
+    return "Nao identificado"
 
 
 def extract_governor_name_near_acting_phrase(text):
     known_names = [
+        ("LUIZ FERNANDO DE SOUZA", "Luiz Fernando de Souza"),
+        ("SERGIO CABRAL", "Sergio Cabral"),
+        ("SÉRGIO CABRAL", "Sergio Cabral"),
+        ("SÃ‰RGIO CABRAL", "Sergio Cabral"),
         ("RICARDO COUTO", "Ricardo Couto de Castro"),
         ("THIAGO PAMPOLHA", "Thiago Pampolha"),
         ("THIA GO P AM PO LHA", "Thiago Pampolha"),
@@ -142,16 +132,48 @@ def extract_governor_name_near_acting_phrase(text):
     ]
 
     phrase_re = re.compile(r"GOVERNADOR\s+EM\s+EXERC\S*CIO|GOVERNADOR\s+EM\s+EXERCÃ")
+    found_acting_phrase = False
     for match in phrase_re.finditer(text):
-        window = text[max(0, match.start() - 120): min(len(text), match.end() + 120)]
+        found_acting_phrase = True
+        line_start = text.rfind("\n", 0, match.start()) + 1
+        line_end = text.find("\n", match.end())
+        if line_end == -1:
+            line_end = len(text)
+        signature = match_known_signature_line(text[line_start:line_end], known_names)
+        if signature:
+            return signature
+        current_line = text[line_start:line_end].upper()
+        if not re.search(r"\b(ATOS?|DESPACHOS?|DECRETOS?|EXPEDIENTE)\b", current_line):
+            previous_window = text[max(0, line_start - 300):line_start]
+            signature = match_known_signature_line(previous_window, known_names)
+            if signature:
+                return signature
+
+        forward_window = text[match.end(): min(len(text), match.end() + 5000)]
+        signature = match_known_signature_line(forward_window, known_names)
+        if signature:
+            return signature
+
+    if found_acting_phrase:
+        vice_governor = extract_named_role(text, "VICE-GOVERNADOR")
+        if vice_governor:
+            return vice_governor
+
+    return ""
+
+
+def match_known_signature_line(value, known_names):
+    for raw_line in value.splitlines():
+        normalized = re.sub(r"(?i)\bID\s*:?\s*\d+.*$", "", raw_line)
+        normalized = re.sub(r"(?i)\bGOVERNADOR(?:\s+EM\s+EXERC\S*CIO)?\b", "", normalized)
+        normalized = re.sub(r"(?i)\bVICE-GOVERNADOR\b", "", normalized)
+        normalized = re.sub(r"[^A-ZÀ-ÜÃÕÇ\s]", " ", normalized.upper())
+        normalized = re.sub(r"\s+", " ", normalized).strip()
+        if not normalized:
+            continue
         for needle, label in known_names:
-            if needle in window:
+            if normalized == needle or normalized.endswith(f" {needle}"):
                 return label
-
-    vice_governor = extract_named_role(text, "VICE-GOVERNADOR")
-    if vice_governor:
-        return vice_governor
-
     return ""
 
 
@@ -170,7 +192,11 @@ def extract_named_role(text, role, stop_role=None):
     raw_name = re.sub(r"\s+", " ", match.group("name")).strip(" -|,.;:")
     raw_name = raw_name.replace("GONÃ‡ALVES", "Gonçalves")
     candidates = [
-        ("WILSON JOS", "Wilson José Witzel"),
+        ("LUIZ FERNANDO DE SOUZA", "Luiz Fernando de Souza"),
+        ("SERGIO CABRAL", "Sergio Cabral"),
+        ("SÉRGIO CABRAL", "Sergio Cabral"),
+        ("SÃ‰RGIO CABRAL", "Sergio Cabral"),
+        ("WILSON JOS", "Wilson Jose Witzel"),
         ("CLÁUDIO BOMFIM DE CASTRO E SILVA", "Cláudio Bomfim de Castro e Silva"),
         ("CLAUDIO BOMFIM DE CASTRO E SILVA", "Cláudio Bomfim de Castro e Silva"),
         ("CLÃ¡UDIO BOMFIM DE CASTRO E SILVA".upper(), "Cláudio Bomfim de Castro e Silva"),
@@ -195,13 +221,16 @@ def nome_representante_governo(governo: str) -> str:
 def origem_representante_governo(governo: str) -> str:
     nome = nome_representante_governo(governo)
     origem_por_nome = {
-        "Thiago Pampolha": "Vice-governadoria",
         "Rodrigo Bacellar": "ALERJ",
         "Ricardo Couto de Castro": "TJ-RJ",
     }
     if nome == "Nao identificado":
         return "Nao identificado"
-    return origem_por_nome.get(nome, "Executivo estadual")
+    if nome in origem_por_nome:
+        return origem_por_nome[nome]
+    if "Governador em exerc" in str(governo or ""):
+        return "Vice-governadoria"
+    return "Executivo estadual"
 
 
 # =====================================================
@@ -945,11 +974,14 @@ def nome_representante_governo(governo: str) -> str:
 def origem_representante_governo(governo: str) -> str:
     nome = nome_representante_governo(governo)
     origem_por_nome = {
-        "Thiago Pampolha": "Vice-governadoria",
         "Rodrigo Bacellar": "ALERJ",
         "Ricardo Couto de Castro": "TJ-RJ",
     }
-    return origem_por_nome.get(nome, "Executivo estadual")
+    if nome in origem_por_nome:
+        return origem_por_nome[nome]
+    if "Governador em exerc" in str(governo or ""):
+        return "Vice-governadoria"
+    return "Executivo estadual"
 
 
 def origem_representante_agregada(values) -> str:
@@ -1091,7 +1123,11 @@ def fig_timeline_governo(dff_mov):
 
     selected_governments = base["representante_origem"].nunique()
     if selected_governments <= 3:
-        base["periodo"] = base["data_movimentacao"].dt.to_period("M").dt.to_timestamp()
+        month_period = base["data_movimentacao"].dt.to_period("M")
+        base["periodo"] = month_period.dt.to_timestamp(how="end").dt.normalize()
+        latest_date_by_month = base.groupby(month_period)["data_movimentacao"].transform("max")
+        current_month = month_period == base["data_movimentacao"].max().to_period("M")
+        base.loc[current_month, "periodo"] = latest_date_by_month[current_month] + pd.Timedelta(days=1)
         x_label = "Mês"
     else:
         base["periodo"] = base["data_movimentacao"].dt.year.astype(int)

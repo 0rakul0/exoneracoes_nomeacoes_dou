@@ -36,10 +36,17 @@ def build_records(dataframe: pd.DataFrame) -> list[dict[str, str | int]]:
     dataframe["mes"] = dataframe["data_publicacao"].dt.strftime("%Y-%m")
     dataframe["data_publicacao"] = dataframe["data_publicacao"].dt.strftime("%Y-%m-%d")
 
-    for column in ["representante_origem", "representante_governo", "origem_representante", "orgao", "tipo_ato"]:
+    for column in ["representante_governo", "origem_representante", "orgao", "tipo_ato"]:
         if column not in dataframe.columns:
             dataframe[column] = ""
 
+    if "representante_origem" not in dataframe.columns:
+        dataframe["representante_origem"] = (
+            dataframe["representante_governo"].replace("", "Nao identificado")
+            + " ("
+            + dataframe["origem_representante"].replace("", "Nao identificado")
+            + ")"
+        )
     dataframe["representante_origem"] = dataframe["representante_origem"].replace("", "Nao identificado")
     dataframe["orgao"] = dataframe["orgao"].replace("", "Sem identificacao")
     dataframe["pessoa"] = dataframe.get("nome_normalizado", dataframe.get("nome", "")).replace("", "Nao identificado")

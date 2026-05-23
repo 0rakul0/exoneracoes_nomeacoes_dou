@@ -10,6 +10,10 @@ UNKNOWN_GOVERNOR = "Nao identificado"
 UNKNOWN_ORIGIN = "Nao identificado"
 
 KNOWN_GOVERNORS = [
+    ("LUIZ FERNANDO DE SOUZA", "Luiz Fernando de Souza"),
+    ("SERGIO CABRAL", "Sergio Cabral"),
+    ("SÉRGIO CABRAL", "Sergio Cabral"),
+    ("SÃ‰RGIO CABRAL", "Sergio Cabral"),
     ("WILSON JOS", "Wilson Jose Witzel"),
     ("CLÁUDIO BOMFIM DE CASTRO E SILVA", "Claudio Bomfim de Castro e Silva"),
     ("CLAUDIO BOMFIM DE CASTRO E SILVA", "Claudio Bomfim de Castro e Silva"),
@@ -40,10 +44,6 @@ def governador_da_edicao(markdown_path: str) -> str:
     if "SP" in path.parts:
         return governador_sp_da_edicao(path)
 
-    date_governor = governador_por_periodo(path)
-    if date_governor:
-        return date_governor
-
     if not path.exists():
         return UNKNOWN_GOVERNOR
 
@@ -52,15 +52,19 @@ def governador_da_edicao(markdown_path: str) -> str:
     except OSError:
         return UNKNOWN_GOVERNOR
 
-    acting_name = extract_governor_name_near_acting_phrase(text)
-    if acting_name:
-        return f"{acting_name} - Governador em exercicio"
-
     governor_name = extract_named_role(text, "GOVERNADOR", stop_role="VICE-GOVERNADOR")
     if governor_name:
         return f"{governor_name} - Governador"
 
-    return governador_por_data_do_arquivo(path)
+    governor_name = extract_known_name_after_governor_label(text)
+    if governor_name:
+        return f"{governor_name} - Governador"
+
+    governor_name = match_known_signature_line(text)
+    if governor_name:
+        return f"{governor_name} - Governador"
+
+    return UNKNOWN_GOVERNOR
 
 
 def governador_sp_da_edicao(path: Path) -> str:
@@ -97,34 +101,24 @@ def nome_representante_governo(governador_edicao: str) -> str:
 def origem_representante_governo(governador_edicao: str) -> str:
     nome = nome_representante_governo(governador_edicao)
     origem_por_nome = {
-        "Thiago Pampolha": "Vice-governadoria",
         "Rodrigo Bacellar": "ALERJ",
         "Ricardo Couto de Castro": "TJ-RJ",
     }
     if nome == UNKNOWN_GOVERNOR:
         return UNKNOWN_ORIGIN
-    return origem_por_nome.get(nome, "Executivo estadual")
+    if nome in origem_por_nome:
+        return origem_por_nome[nome]
+    if "Governador em exercicio" in str(governador_edicao or ""):
+        return "Vice-governadoria"
+    return "Executivo estadual"
 
 
 def governador_por_periodo(path: Path) -> str:
-    publication_date = publication_date_from_path(path)
-    if publication_date is None:
-        return ""
-    if date(2020, 8, 28) <= publication_date < date(2021, 5, 1):
-        return "Claudio Bomfim de Castro e Silva - Governador em exercicio"
     return ""
 
 
 def governador_por_data_do_arquivo(path: Path) -> str:
-    publication_date = publication_date_from_path(path)
-    if publication_date is None:
-        return UNKNOWN_GOVERNOR
-
-    if publication_date < date(2020, 8, 28):
-        return "Wilson Jose Witzel - Governador"
-    if publication_date < date(2021, 5, 1):
-        return "Claudio Bomfim de Castro e Silva - Governador em exercicio"
-    return "Claudio Bomfim de Castro e Silva - Governador"
+    return UNKNOWN_GOVERNOR
 
 
 def publication_date_from_path(path: Path) -> date | None:
@@ -140,12 +134,57 @@ def publication_date_from_path(path: Path) -> date | None:
 
 def extract_governor_name_near_acting_phrase(text: str) -> str:
     phrase_re = re.compile(r"(?<!VICE-)GOVERNADOR\s+EM\s+EXERC\S*CIO|(?<!VICE-)GOVERNADOR\s+EM\s+EXERCÃ")
+    found_acting_phrase = False
     for match in phrase_re.finditer(text):
-        window = text[max(0, match.start() - 140): min(len(text), match.end() + 2600)]
-        known = match_known_name(window)
+        found_acting_phrase = True
+        line_start = text.rfind("\n", 0, match.start()) + 1
+        line_end = text.find("\n", match.end())
+        if line_end == -1:
+            line_end = len(text)
+        known = match_known_signature_line(text[line_start:line_end])
+        if known:
+            return known
+        current_line = text[line_start:line_end].upper()
+        if not re.search(r"\b(ATOS?|DESPACHOS?|DECRETOS?|EXPEDIENTE)\b", current_line):
+            previous_window = text[max(0, line_start - 300):line_start]
+            known = match_known_signature_line(previous_window)
+            if known:
+                return known
+
+        forward_window = text[match.end(): min(len(text), match.end() + 5000)]
+        known = match_known_signature_line(forward_window)
         if known:
             return known
 
+    if found_acting_phrase:
+        return extract_named_role(text, "VICE-GOVERNADOR")
+    return ""
+
+
+def match_known_signature_line(value: str) -> str:
+    for raw_line in value.splitlines():
+        if "GOVERNADOR" in raw_line.upper():
+            known = match_known_name(raw_line)
+            if known:
+                return known
+        normalized = re.sub(r"(?i)\bID\s*:?\s*\d+.*$", "", raw_line)
+        normalized = re.sub(r"(?i)\bGOVERNADOR(?:\s+EM\s+EXERC\S*CIO)?\b", "", normalized)
+        normalized = re.sub(r"(?i)\bVICE-GOVERNADOR\b", "", normalized)
+        normalized = re.sub(r"[^A-ZÀ-ÜÃÕÇ\s]", " ", normalized.upper())
+        normalized = re.sub(r"\s+", " ", normalized).strip()
+        if not normalized:
+            continue
+        for needle, label in KNOWN_GOVERNORS:
+            if normalized == needle or normalized.endswith(f" {needle}"):
+                return label
+    return ""
+
+
+def extract_known_name_after_governor_label(text: str) -> str:
+    for match in re.finditer(r"(?<!VICE-)GOVERNADOR\s+(?P<tail>.{0,180})", text[:50000], flags=re.S):
+        known_name = match_known_name(match.group("tail"))
+        if known_name:
+            return known_name
     return ""
 
 
