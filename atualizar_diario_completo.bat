@@ -3,27 +3,22 @@ setlocal
 
 cd /d "%~dp0"
 
-echo [1/5] Coletando edicoes novas do RJ...
+echo [1/4] Coletando edicoes novas do RJ...
 ".\.venv\Scripts\python.exe" -c "import main; raise SystemExit(main.main())"
 if errorlevel 1 goto erro
 
 echo.
-echo [2/5] Gerando movimentacoes...
+echo [2/4] Gerando movimentacoes...
 call "%~dp0gerar_movimento.bat"
 if errorlevel 1 goto erro
 
 echo.
-echo [3/5] Exportando HTML...
-".\.venv\Scripts\python.exe" analise_temporal\exportar_html.py
-if errorlevel 1 goto erro
-
-echo.
-echo [4/5] Gerando imagens do README...
+echo [3/4] Gerando imagens do README...
 ".\.venv\Scripts\python.exe" docs\gerar_imagens_readme.py --somente-imagens
 if errorlevel 1 goto erro
 
 echo.
-echo [5/5] Atualizando README...
+echo [4/4] Atualizando README...
 ".\.venv\Scripts\python.exe" docs\gerar_imagens_readme.py --somente-readme
 if errorlevel 1 goto erro
 
