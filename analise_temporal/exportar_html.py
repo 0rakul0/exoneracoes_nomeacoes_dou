@@ -14,16 +14,16 @@ OUTPUT_PATH = ANALISES_DIR / "index.html"
 def load_movimentacoes(analyses_dir: Path) -> pd.DataFrame:
     frames: list[pd.DataFrame] = []
     for state_dir in sorted(path for path in analyses_dir.iterdir() if path.is_dir()):
-        csv_path = state_dir / "movimentacoes_pessoas.csv"
-        if not csv_path.exists():
+        parquet_path = state_dir / "movimentacoes_pessoas.parquet"
+        if not parquet_path.exists():
             continue
 
-        frame = pd.read_csv(csv_path, dtype=str, keep_default_na=False)
+        frame = pd.read_parquet(parquet_path).fillna("").astype(str)
         frame["estado"] = state_dir.name.upper()
         frames.append(frame)
 
     if not frames:
-        raise FileNotFoundError(f"Nenhum movimentacoes_pessoas.csv encontrado em {analyses_dir}")
+        raise FileNotFoundError(f"Nenhum movimentacoes_pessoas.parquet encontrado em {analyses_dir}")
 
     return pd.concat(frames, ignore_index=True)
 
@@ -36,7 +36,7 @@ def build_records(dataframe: pd.DataFrame) -> list[dict[str, str | int]]:
     dataframe["mes"] = dataframe["data_publicacao"].dt.strftime("%Y-%m")
     dataframe["data_publicacao"] = dataframe["data_publicacao"].dt.strftime("%Y-%m-%d")
 
-    for column in ["representante_governo", "origem_representante", "orgao", "tipo_ato"]:
+    for column in ["representante_governo", "origem_representante", "orgao", "tipo_ato", "autoria_ato"]:
         if column not in dataframe.columns:
             dataframe[column] = ""
 
@@ -48,7 +48,10 @@ def build_records(dataframe: pd.DataFrame) -> list[dict[str, str | int]]:
             + ")"
         )
     dataframe["representante_origem"] = dataframe["representante_origem"].replace("", "Nao identificado")
+    dataframe["origem_representante"] = dataframe["origem_representante"].replace("", "Nao identificado")
+    dataframe["representante_governo"] = dataframe["representante_governo"].replace("", "Nao identificado")
     dataframe["orgao"] = dataframe["orgao"].replace("", "Sem identificacao")
+    dataframe["autoria_ato"] = dataframe["autoria_ato"].replace("", "Outro/Nao identificado")
     dataframe["pessoa"] = dataframe.get("nome_normalizado", dataframe.get("nome", "")).replace("", "Nao identificado")
 
     columns = [
@@ -57,7 +60,10 @@ def build_records(dataframe: pd.DataFrame) -> list[dict[str, str | int]]:
         "mes",
         "data_publicacao",
         "tipo_ato",
+        "autoria_ato",
         "pessoa",
+        "representante_governo",
+        "origem_representante",
         "representante_origem",
         "orgao",
     ]
@@ -77,16 +83,16 @@ def html_template(records: list[dict[str, str | int]]) -> str:
     body {{ margin: 0; font-family: Arial, sans-serif; background: #f7f7f7; color: #17233c; }}
     main {{ padding: 20px; min-width: 980px; }}
     h1 {{ margin: 0 0 16px; font-size: 24px; }}
-    .tabs {{ display: flex; gap: 8px; margin-bottom: 16px; }}
+    .tabs {{ display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }}
     .tab {{ border: 1px solid #c8d1e6; background: white; color: #17233c; cursor: pointer; padding: 10px 18px; font-weight: 700; }}
     .tab.active {{ background: #1f5eff; border-color: #1f5eff; color: white; }}
     .toolbar {{ display: flex; align-items: center; gap: 12px; margin-bottom: 16px; }}
     button {{ border: 0; background: #1f5eff; color: white; cursor: pointer; font-weight: 700; padding: 10px 14px; }}
     .status {{ color: #555; font-size: 13px; }}
-    .filters {{ display: grid; grid-template-columns: 1fr 1.8fr 1.6fr 1fr; gap: 12px; margin-bottom: 20px; }}
+    .filters {{ display: grid; grid-template-columns: 1fr 1.8fr 1.6fr 1.4fr 1fr; gap: 12px; margin-bottom: 20px; }}
     label {{ display: block; font-size: 16px; margin-bottom: 4px; }}
     select {{ width: 100%; min-height: 38px; border: 1px solid #b9c4df; background: white; padding: 6px; }}
-    .cards {{ display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; margin-bottom: 20px; }}
+    .cards {{ display: grid; grid-template-columns: repeat(7, 1fr); gap: 12px; margin-bottom: 20px; }}
     .card {{ background: white; padding: 16px; box-shadow: 0 2px 8px rgba(0,0,0,.08); }}
     .card .label {{ color: #666; font-size: 13px; }}
     .card .value {{ color: #000; font-size: 24px; font-weight: 700; margin-top: 4px; }}
@@ -107,8 +113,9 @@ def html_template(records: list[dict[str, str | int]]) -> str:
   </div>
   <section class="filters">
     <div><label>Ano</label><select id="ano" multiple></select></div>
-    <div><label>Representante</label><select id="representante" multiple></select></div>
+    <div><label>Governo</label><select id="representante" multiple></select></div>
     <div><label>Orgao</label><select id="orgao" multiple></select></div>
+    <div><label>Autoria do ato</label><select id="autoria" multiple></select></div>
     <div><label>Movimentacao</label><select id="tipo" multiple><option value="exoneracao">Exoneracoes</option><option value="nomeacao">Nomeacoes</option></select></div>
   </section>
   <section id="cards" class="cards"></section>
@@ -119,7 +126,7 @@ def html_template(records: list[dict[str, str | int]]) -> str:
   </section>
   <div id="timeline" class="graph"></div>
   <div id="orgaos" class="graph"></div>
-  <h2>Resumo por Representante</h2>
+  <h2>Resumo por Governo</h2>
   <div id="tabela"></div>
 </main>
 <script>
@@ -165,12 +172,14 @@ function currentRows() {{
   const years = new Set(selectedValues('ano').map(Number));
   const reps = new Set(selectedValues('representante'));
   const orgaos = new Set(selectedValues('orgao'));
+  const autorias = new Set(selectedValues('autoria'));
   const tipos = new Set(selectedValues('tipo'));
   return BASE.filter(row =>
     (!selectedState || row.estado === selectedState) &&
     (!years.size || years.has(row.ano)) &&
     (!reps.size || reps.has(row.representante_origem)) &&
     (!orgaos.size || orgaos.has(row.orgao)) &&
+    (!autorias.size || autorias.has(row.autoria_ato)) &&
     (!tipos.size || tipos.has(row.tipo_ato))
   );
 }}
@@ -193,14 +202,19 @@ function refreshOptions() {{
   setOptions('ano', unique(stateRows.map(row => row.ano)).map(String));
   setOptions('representante', unique(stateRows.map(row => row.representante_origem)));
   setOptions('orgao', unique(stateRows.map(row => row.orgao)));
+  setOptions('autoria', unique(stateRows.map(row => row.autoria_ato)));
 }}
 
 function renderCards(rows) {{
   const exoneracoes = rows.filter(row => row.tipo_ato === 'exoneracao').length;
   const nomeacoes = rows.filter(row => row.tipo_ato === 'nomeacao').length;
   const pessoas = new Set(rows.map(row => row.pessoa)).size;
+  const governador = rows.filter(row => row.autoria_ato === 'Governador').length;
+  const secretarias = rows.filter(row => row.autoria_ato === 'Secretaria/Subsecretaria').length;
   const cards = [
-    ['Atos', rows.length],
+    ['Atos no governo', rows.length],
+    ['Atos do governador', governador],
+    ['Atos de secretarias', secretarias],
     ['Exoneracoes', exoneracoes],
     ['Nomeacoes', nomeacoes],
     ['Saldo', nomeacoes - exoneracoes],
@@ -228,7 +242,7 @@ function renderSerie(rows) {{
     }}
   }}
   Plotly.react('serie', traces, {{
-    title: 'Serie Temporal por Representante - Nomeacoes Acima e Exoneracoes Abaixo',
+    title: 'Serie Temporal por Governo - Nomeacoes Acima e Exoneracoes Abaixo',
     height: 520,
     yaxis: {{title: 'Quantidade de atos'}},
     margin: {{l: 70, r: 20, t: 60, b: 50}}
@@ -242,7 +256,7 @@ function renderFluxo(rows) {{
   Plotly.react('fluxo', [
     {{x: reps, y: reps.map(rep => nomeacoes.get(rep) || 0), type: 'bar', name: 'Nomeacoes'}},
     {{x: reps, y: reps.map(rep => exoneracoes.get(rep) || 0), type: 'bar', name: 'Exoneracoes'}}
-  ], {{title: 'Fluxo por Representante', barmode: 'group', height: 420, margin: {{l: 50, r: 20, t: 60, b: 140}}}}, {{responsive: true}});
+  ], {{title: 'Fluxo por Governo', barmode: 'group', height: 420, margin: {{l: 50, r: 20, t: 60, b: 140}}}}, {{responsive: true}});
 }}
 
 function renderSaldo(rows) {{
@@ -266,7 +280,7 @@ function renderTimeline(rows) {{
     text: points.map(point => `${{point.tipo}}: ${{point.value}}`),
     mode: 'markers',
     marker: {{size: points.map(point => Math.max(6, Math.sqrt(point.value) * 4)), color: points.map(point => point.tipo === 'nomeacao' ? '#1f77b4' : '#d62728')}}
-  }}], {{title: 'Timeline por Representante', height: 500, margin: {{l: 180, r: 20, t: 60, b: 50}}}}, {{responsive: true}});
+  }}], {{title: 'Timeline por Governo', height: 500, margin: {{l: 180, r: 20, t: 60, b: 50}}}}, {{responsive: true}});
 }}
 
 function renderOrgaos(rows) {{
@@ -280,9 +294,11 @@ function renderTable(rows) {{
   const tableRows = [...groups.entries()].map(([rep, items]) => {{
     const nomeacoes = items.filter(row => row.tipo_ato === 'nomeacao').length;
     const exoneracoes = items.filter(row => row.tipo_ato === 'exoneracao').length;
-    return [rep, items.length, nomeacoes, exoneracoes, nomeacoes - exoneracoes, new Set(items.map(row => row.pessoa)).size];
+    const governador = items.filter(row => row.autoria_ato === 'Governador').length;
+    const secretarias = items.filter(row => row.autoria_ato === 'Secretaria/Subsecretaria').length;
+    return [rep, items.length, governador, secretarias, nomeacoes, exoneracoes, nomeacoes - exoneracoes, new Set(items.map(row => row.pessoa)).size];
   }}).sort((a, b) => b[1] - a[1]);
-  byId('tabela').innerHTML = `<table><thead><tr><th>Representante</th><th>Atos</th><th>Nomeacoes</th><th>Exoneracoes</th><th>Saldo</th><th>Pessoas</th></tr></thead><tbody>${{tableRows.map(row => `<tr>${{row.map((cell, index) => `<td>${{index ? fmt.format(cell) : escapeHtml(cell)}}</td>`).join('')}}</tr>`).join('')}}</tbody></table>`;
+  byId('tabela').innerHTML = `<table><thead><tr><th>Governo</th><th>Atos no governo</th><th>Do governador</th><th>De secretarias</th><th>Nomeacoes</th><th>Exoneracoes</th><th>Saldo</th><th>Pessoas</th></tr></thead><tbody>${{tableRows.map(row => `<tr>${{row.map((cell, index) => `<td>${{index ? fmt.format(cell) : escapeHtml(cell)}}</td>`).join('')}}</tr>`).join('')}}</tbody></table>`;
 }}
 
 function render() {{
@@ -297,7 +313,7 @@ function render() {{
   renderTable(rows);
 }}
 
-for (const id of ['ano', 'representante', 'orgao', 'tipo']) {{
+for (const id of ['ano', 'representante', 'orgao', 'autoria', 'tipo']) {{
   byId(id).addEventListener('change', render);
 }}
 byId('reload').addEventListener('click', () => window.location.reload());

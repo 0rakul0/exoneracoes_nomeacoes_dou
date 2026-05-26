@@ -12,13 +12,12 @@ from urllib.parse import urljoin
 from diarios_oficiais.base import Act
 from diarios_oficiais.base import BaseGazetteCollector
 from diarios_oficiais.base import Edition
+from diarios_oficiais.config import RJ_COLLECTION_YEAR
 from diarios_oficiais.config import TORCH_CUDA_RUNTIME
 from diarios_oficiais.governadores import (
     governador_da_edicao,
-    match_known_name,
     nome_representante_governo,
     origem_representante_governo,
-    extract_named_role,
 )
 from diarios_oficiais.utils_regex.common import SPACE_RE
 from diarios_oficiais.utils_regex.common import TAG_RE
@@ -122,10 +121,8 @@ def parse_acts(
     regexes=rj_regexes,
 ) -> list[Act]:
     normalized = SPACE_RE.sub(" ", text)
-    text_upper = text.upper()
     context_markers = authority_context_markers(normalized, raw_text=text)
     edition_governor = governador_da_edicao(str(markdown_path))
-    acting_governor_name = extract_named_role(text_upper, "VICE-GOVERNADOR")
     acts: list[Act] = []
     seen: set[tuple[str, str, str]] = set()
 
@@ -148,12 +145,7 @@ def parse_acts(
                 context_markers,
                 match.start(),
             )
-        representative, representative_origin = representative_for_act(
-            edition_governor=edition_governor,
-            signer_name=signer_name,
-            signer_role=signer_role,
-            acting_governor_name=acting_governor_name,
-        )
+        representative, representative_origin = representative_for_act(edition_governor)
         key = (action, person_name, excerpt[:180])
         if key in seen:
             continue
@@ -186,48 +178,13 @@ def parse_acts(
 
 def representative_for_act(
     edition_governor: str,
-    signer_name: str,
-    signer_role: str,
-    acting_governor_name: str,
 ) -> tuple[str, str]:
-    if (
-        str(signer_role or "").startswith(("Secretario de Estado", "Secretario"))
-        and signer_name
-    ):
-        representative = clean_representative_name(signer_name)
-        if representative:
-            return representative, secretary_origin_from_signer_role(signer_role)
-
-    if signer_role == "Governador em exercicio":
-        name = canonical_governor_name(signer_name) or canonical_governor_name(acting_governor_name)
-        if name:
-            governor_role = f"{name} - Governador em exercicio"
-            return name, origem_representante_governo(governor_role)
-
-    if signer_role == "Governador":
-        name = canonical_governor_name(signer_name) or nome_representante_governo(edition_governor)
-        if name and name != "Nao identificado":
-            governor_role = f"{name} - Governador"
-            return name, origem_representante_governo(governor_role)
-
+    # Indicadores de governo pertencem ao titular da edicao, mesmo quando
+    # o ato foi assinado por uma secretaria dentro daquele governo.
     return (
         nome_representante_governo(edition_governor),
         origem_representante_governo(edition_governor),
     )
-
-
-def canonical_governor_name(value: str) -> str:
-    if not value:
-        return ""
-    return match_known_name(value)
-
-
-def secretary_origin_from_signer_role(signer_role: str) -> str:
-    if " - " in str(signer_role or ""):
-        return signer_role.split(" - ", 1)[1].strip() or "Secretaria de Estado"
-    if signer_role == "Secretario de Estado":
-        return "Secretaria de Estado"
-    return "Secretaria"
 
 
 def clean_representative_name(value: str) -> str:
@@ -706,7 +663,14 @@ def edition_slug(section: str) -> str:
 
 def collect_rj() -> int:
     collector = RjIoerjCollector()
-    dates = sorted(collector.list_available_dates(), reverse=True)
+    dates = sorted(
+        (
+            publication_date
+            for publication_date in collector.list_available_dates()
+            if publication_date.year == RJ_COLLECTION_YEAR
+        ),
+        reverse=True,
+    )
 
     total_new_acts = 0
     current_year = date.today().year

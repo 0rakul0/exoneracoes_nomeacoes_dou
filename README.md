@@ -58,11 +58,11 @@ O gráfico comparativo de barras mostra o total acumulado de exonerações e nom
 A leitura acumulada mostra que os maiores volumes estão concentrados nos representantes vinculados ao Executivo estadual.  
 <!-- README-DYNAMIC:REPRESENTANTES-START -->
 
-Wilson Jose Witzel apresenta o maior volume total de atos, com **68.826 movimentações**, sendo **42.094 nomeações** e **26.732 exonerações**.
+Claudio Bomfim de Castro e Silva apresenta o maior volume total de atos, com **63.781 movimentações**, sendo **35.965 nomeações** e **27.816 exonerações**.
 
-Claudio Bomfim de Castro e Silva também apresenta volume expressivo, com **68.712 atos**, distribuídos entre **37.564 nomeações** e **31.148 exonerações**.
+Luiz Fernando de Souza também apresenta volume expressivo, com **32.832 atos**, distribuídos entre **17.515 nomeações** e **15.317 exonerações**.
 
-Representantes com menor período de atuação ou menor escopo institucional apresentam volumes mais reduzidos, como Ricardo Couto de Castro, Thiago Pampolha e Rodrigo Bacellar.
+Representantes com menor período de atuação ou menor escopo institucional apresentam volumes mais reduzidos, como Wilson Jose Witzel, Sergio Cabral e Ricardo Couto de Castro.
 
 <!-- README-DYNAMIC:REPRESENTANTES-END -->
 
@@ -86,14 +86,14 @@ Os resultados indicam:
 
 | Representante | Exonerações | Nomeações | Saldo | Total de atos |
 | --- | ---: | ---: | ---: | ---: |
-| Wilson Jose Witzel (Executivo estadual) | 26.732 | 42.094 | 15.362 | 68.826 |
-| Claudio Bomfim de Castro e Silva (Executivo estadual) | 31.148 | 37.564 | 6.416 | 68.712 |
-| Ricardo Couto de Castro (TJ-RJ) | 2.097 | 628 | -1.469 | 2.725 |
-| Thiago Pampolha (Vice-governadoria) | 764 | 1.046 | 282 | 1.810 |
-| Rodrigo Bacellar (ALERJ) | 87 | 105 | 18 | 192 |
+| Claudio Bomfim de Castro e Silva (Executivo estadual) | 27.816 | 35.965 | 8.149 | 63.781 |
+| Luiz Fernando de Souza (Executivo estadual) | 15.317 | 17.515 | 2.198 | 32.832 |
+| Wilson Jose Witzel (Executivo estadual) | 9.368 | 11.202 | 1.834 | 20.570 |
+| Sergio Cabral (Executivo estadual) | 4.807 | 14.835 | 10.028 | 19.642 |
+| Ricardo Couto de Castro (TJ-RJ) | 2.716 | 723 | -1.993 | 3.439 |
 
-O maior saldo positivo aparece em **Wilson Jose Witzel**, com **15.362 nomeações líquidas**.
-Já **Ricardo Couto de Castro** apresenta saldo negativo, com **1.469 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
+O maior saldo positivo aparece em **Sergio Cabral**, com **10.028 nomeações líquidas**.
+Já **Ricardo Couto de Castro** apresenta saldo negativo, com **1.993 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
 
 <!-- README-DYNAMIC:SALDO-END -->
 
@@ -183,7 +183,7 @@ Rode o coletor:
 
 Esse comando usa diretamente o Python da `.venv` do repositorio, mesmo que o ambiente virtual nao esteja ativado no terminal.
 
-O `main.py` nao recebe argumentos. A lista de UFs a coletar fica em `STATES_TO_COLLECT`, dentro do proprio arquivo. Para `RJ`, ele procura as datas da IOERJ da mais recente para a mais antiga e percorre as edicoes disponiveis do caderno de Poder Executivo. Para `SP`, ele consulta a API do Diario Oficial do Estado de Sao Paulo e baixa o PDF certificado da secao `Executivo - Atos de Pessoal`. Para cada edicao, reutiliza o Markdown quando ele ja existe; quando precisa converter, reaproveita PDFs em `.cache/diarios` antes de baixar novamente. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
+O `main.py` nao recebe argumentos. A coleta ativa executa somente `RJ`, definido em `STATES_TO_COLLECT`, e limita a busca ao ano configurado em `RJ_COLLECTION_YEAR` (`2026`) em `diarios_oficiais/config.py`. O historico ja armazenado de anos anteriores permanece disponivel para analise, sem ser varrido novamente pelo extrator. Para cada edicao de 2026, o coletor reutiliza o Markdown quando ele ja existe; quando precisa converter, reaproveita PDFs em `.cache/diarios` antes de baixar novamente. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
 
 O padrao dos arquivos Markdown e:
 
@@ -209,10 +209,10 @@ Exemplo:
 saida/RJ/DOERJ_2026.csv
 ```
 
-Para coletar somente uma UF, ajuste `STATES_TO_COLLECT` em `main.py`, por exemplo:
+Para mudar o ano que sera consultado pelo coletor RJ, ajuste:
 
 ```python
-STATES_TO_COLLECT = ["SP"]
+RJ_COLLECTION_YEAR = 2026
 ```
 
 Se o `.md` da edicao ja existir no repositorio, o coletor usa esse arquivo diretamente e nao baixa nem converte o PDF de novo. O CSV anual e atualizado em `saida/RJ`, sem duplicar atos ja gravados.
@@ -240,7 +240,7 @@ flowchart TD
     A[".\\.venv\\Scripts\\python.exe main.py"] --> B["main.py percorre STATES_TO_COLLECT"]
     B --> C["Reporta PyTorch/CUDA disponivel"]
     C --> D["Busca calendario da IOERJ"]
-    D --> E["Ordena datas do DOERJ do mais recente ao mais antigo"]
+    D --> E["Mantem somente datas de 2026"]
     E --> F["Para cada data, lista cadernos publicados"]
     F --> G["Filtra caderno: Poder Executivo"]
     G --> H{"Markdown da edicao ja existe em LAKE/RJ/ano/mes?"}
@@ -309,6 +309,8 @@ O script de analise temporal e independente do `main.py`. O ano corrente entra s
 LAKE/RJ/<ano>/.year_complete
 ```
 
+O indicador principal por governo mede os atos publicados durante o periodo em que a autoridade respondia pelo governo, inclusive interinamente. Assim, todas as movimentacoes validas de uma edicao sao somadas ao governador identificado nessa edicao. Para permitir analise de autoria sem reduzir artificialmente a serie, cada movimento e classificado como `Governador`, `Secretaria/Subsecretaria` ou `Outro/Nao identificado`; blocos como `ATOS DO SECRETARIO`, `APOSTILAS DO SECRETARIO` e `DESPACHOS DO SECRETARIO` entram no total do periodo, mas ficam discriminados como atos de secretaria.
+
 Por exemplo, durante 2026: `DOERJ_2026.csv` entra; `DOERJ_2025.csv` entra se tiver o marcador; `DOERJ_2024.csv` fica fora enquanto o ano nao tiver sido totalmente baixado/processado.
 
 Ao rodar o script diretamente, ele abre um menu:
@@ -325,7 +327,7 @@ Use esse menu para regerar todas as analises, incluir anos incompletos ou escolh
 Nesse modo, a saida fica em:
 
 ```text
-saida/analises/RJ/movimentacoes_pessoas.csv
+saida/analises/RJ/movimentacoes_pessoas.parquet
 saida/analises/RJ/retornos_apos_exoneracao.csv
 saida/analises/RJ/resumo_pessoas.csv
 saida/analises/RJ/nomes_suspeitos.csv
@@ -350,7 +352,7 @@ Para atualizar sem reprocessar tudo, use o modo incremental:
 python analise_temporal/analisar_movimentacoes.py --uf RJ --incluir-anos-incompletos --incremental
 ```
 
-Nesse modo, o script le `saida/analises/RJ/movimentacoes_pessoas.csv`, detecta a menor e a maior `data_publicacao` ja processadas e so varre os registros dos CSVs anuais que estejam antes ou depois desse intervalo. Se quiser informar manualmente o intervalo ja processado:
+Nesse modo, o script le `saida/analises/RJ/movimentacoes_pessoas.parquet`, detecta a menor e a maior `data_publicacao` ja processadas e so varre os registros dos CSVs anuais que estejam antes ou depois desse intervalo. O arquivo de movimentacoes e salvo em formato colunar e deduplicado pela identidade do ato na edicao. Se quiser informar manualmente o intervalo ja processado:
 
 ```powershell
 python analise_temporal/analisar_movimentacoes.py --uf RJ --incluir-anos-incompletos --incremental --data-min 2011-12-05 --data-max 2026-05-19
@@ -375,7 +377,7 @@ O script salva os PNGs em `docs/img` com as mesmas dimensões usadas atualmente 
 O script de análise temporal lê os CSVs anuais em `saida/UF` e grava:
 
 ```text
-saida/analises/movimentacoes_pessoas.csv
+saida/analises/movimentacoes_pessoas.parquet
 saida/analises/retornos_apos_exoneracao.csv
 saida/analises/resumo_pessoas.csv
 saida/analises/nomes_suspeitos.csv

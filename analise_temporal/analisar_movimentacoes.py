@@ -11,6 +11,8 @@ from datetime import date, datetime
 from pathlib import Path
 from typing import Any, Iterable
 
+import pandas as pd
+
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
@@ -400,16 +402,7 @@ def drop_duplicate_loaded_rows(rows: list[dict[str, str]]) -> list[dict[str, str
     deduplicated_rows: list[dict[str, str]] = []
     seen_keys: set[tuple[str, ...]] = set()
     for row in rows:
-        row_key = (
-            row.get("data_publicacao", ""),
-            row.get("tipo_ato", ""),
-            row.get("_nome_normalizado", ""),
-            row.get("_cargo_normalizado", ""),
-            row.get("_orgao_normalizado", ""),
-            row.get("trecho", "")[:180],
-            row.get("fonte_url", ""),
-            row.get("arquivo_markdown", ""),
-        )
+        row_key = loaded_row_key(row)
         if row_key in seen_keys:
             continue
         seen_keys.add(row_key)
@@ -458,8 +451,8 @@ def build_timeline_rows(
             event_date = row["_data"]
             milestone = latest_milestone(event_date, milestones)
             governor = row.get("governador_edicao", "")
-            representative = row.get("representante_governo", "") or nome_representante_governo(governor)
-            representative_origin = row.get("origem_representante", "") or origem_representante_governo(governor)
+            representative = nome_representante_governo(governor)
+            representative_origin = origem_representante_governo(governor)
 
             returned_after_exoneration = action_type == "nomeacao" and last_exoneration is not None
             days_since_exoneration = ""
@@ -501,6 +494,7 @@ def build_timeline_rows(
                 "assinante": row.get("assinante", ""),
                 "cargo_assinante": row.get("cargo_assinante", ""),
                 "categoria_assinante": row.get("categoria_assinante", ""),
+                "autoria_ato": classify_act_authorship(row),
                 "governador_edicao": governor,
                 "representante_governo": representative,
                 "origem_representante": representative_origin,
@@ -573,8 +567,8 @@ def build_rejected_name_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]
         if not row["_nome_rejeicao"]:
             continue
         governor = row.get("governador_edicao", "")
-        representative = row.get("representante_governo", "") or nome_representante_governo(governor)
-        representative_origin = row.get("origem_representante", "") or origem_representante_governo(governor)
+        representative = nome_representante_governo(governor)
+        representative_origin = origem_representante_governo(governor)
         rejected.append(
             {
                 "motivo_rejeicao": row["_nome_rejeicao"],
@@ -590,6 +584,7 @@ def build_rejected_name_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]
                 "assinante": row.get("assinante", ""),
                 "cargo_assinante": row.get("cargo_assinante", ""),
                 "categoria_assinante": row.get("categoria_assinante", ""),
+                "autoria_ato": classify_act_authorship(row),
                 "governador_edicao": governor,
                 "representante_governo": representative,
                 "origem_representante": representative_origin,
@@ -619,6 +614,21 @@ def read_output_rows(path: Path) -> list[dict[str, str]]:
         return []
     with path.open(newline="", encoding="utf-8") as file:
         return [dict(row) for row in csv.DictReader(file)]
+
+
+def write_parquet(path: Path, rows: list[dict[str, str]]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary_path = path.with_suffix(f"{path.suffix}.tmp")
+    dataframe = pd.DataFrame(rows)
+    dataframe.to_parquet(temporary_path, index=False, engine="pyarrow")
+    temporary_path.replace(path)
+
+
+def read_parquet_rows(path: Path) -> list[dict[str, str]]:
+    if not path.exists():
+        return []
+    dataframe = pd.read_parquet(path, engine="pyarrow").fillna("")
+    return dataframe.astype(str).to_dict(orient="records")
 
 
 def date_bounds(rows: Iterable[dict[str, str]]) -> tuple[date | None, date | None]:
@@ -669,6 +679,20 @@ def deduplicate_output_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
     return deduplicated_rows
 
 
+def is_explicit_secretary_act(row: dict[str, str]) -> bool:
+    signer_role = str(row.get("cargo_assinante", "") or "").strip()
+    return bool(re.match(r"^(?:Subsecret.rio|Secret.rio)(?:\b|\s+-)", signer_role, flags=re.I))
+
+
+def classify_act_authorship(row: dict[str, str]) -> str:
+    if is_explicit_secretary_act(row):
+        return "Secretaria/Subsecretaria"
+    signer_role = str(row.get("cargo_assinante", "") or "").strip()
+    if re.match(r"^Governador(?:\b|\s+-)", signer_role, flags=re.I):
+        return "Governador"
+    return "Outro/Nao identificado"
+
+
 def normalize_incremental_range(
     existing_rows: list[dict[str, str]],
     data_min: date | None,
@@ -705,9 +729,9 @@ def generate_temporal_analysis(
         (parse_government_milestone(value) for value in government_milestones),
         key=lambda item: item.date,
     )
-    timeline_path = output_dir / "movimentacoes_pessoas.csv"
+    timeline_path = output_dir / "movimentacoes_pessoas.parquet"
     rejected_names_path = output_dir / "nomes_suspeitos.csv"
-    existing_timeline_rows = read_output_rows(timeline_path) if incremental else []
+    existing_timeline_rows = read_parquet_rows(timeline_path) if incremental else []
     existing_rejected_name_rows = read_output_rows(rejected_names_path) if incremental else []
     effective_incremental = incremental and bool(existing_timeline_rows)
     incremental_min, incremental_max = normalize_incremental_range(existing_timeline_rows, data_min, data_max)
@@ -746,7 +770,7 @@ def generate_temporal_analysis(
     else:
         rejected_name_rows = new_rejected_name_rows
 
-    write_csv(output_dir / "movimentacoes_pessoas.csv", timeline_rows)
+    write_parquet(output_dir / "movimentacoes_pessoas.parquet", timeline_rows)
     write_csv(output_dir / "retornos_apos_exoneracao.csv", return_rows)
     write_csv(output_dir / "resumo_pessoas.csv", summary_rows)
     write_csv(output_dir / "nomes_suspeitos.csv", rejected_name_rows)
@@ -754,6 +778,9 @@ def generate_temporal_analysis(
     return {
         "csvs_lidos": len(paths),
         "atos_analisados": len(timeline_rows),
+        "atos_secretaria_subsecretaria": sum(
+            1 for row in timeline_rows if row["autoria_ato"] == "Secretaria/Subsecretaria"
+        ),
         "atos_novos_lidos": len([row for row in new_rows if row.get("_nome_normalizado") and not row.get("_nome_rejeicao")]),
         "pessoas_analisadas": len(summary_rows),
         "retornos_apos_exoneracao": len(return_rows),
@@ -825,6 +852,7 @@ def print_results(results: Iterable[dict[str, int | str]]) -> None:
         if result.get("incremental") == "sim":
             print(f"Incremental: sim (fora do intervalo {result['intervalo_incremental']})")
             print(f"Atos novos lidos: {result['atos_novos_lidos']}")
+        print(f"Atos de secretaria/subsecretaria classificados: {result['atos_secretaria_subsecretaria']}")
         print(f"Atos analisados: {result['atos_analisados']}")
         print(f"Pessoas analisadas: {result['pessoas_analisadas']}")
         print(f"Retornos apos exoneracao: {result['retornos_apos_exoneracao']}")
@@ -981,7 +1009,7 @@ def build_parser() -> argparse.ArgumentParser:
         "--incremental",
         action="store_true",
         help=(
-            "Reaproveita movimentacoes_pessoas.csv existente e processa apenas datas fora do intervalo ja gravado. "
+            "Reaproveita movimentacoes_pessoas.parquet existente e processa apenas datas fora do intervalo ja gravado. "
             "Se --data-min/--data-max forem informadas, usa esse intervalo como ja processado."
         ),
     )

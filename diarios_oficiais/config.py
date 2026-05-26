@@ -46,3 +46,5 @@ SPACY_MODE = "annotate"
 SP_START_DATE = "2023-05-01"
 SP_JOURNAL_NAME = "Executivo"
 SP_SECTION_NAME = "Atos de Pessoal"
+
+RJ_COLLECTION_YEAR = 2026

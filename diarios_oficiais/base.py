@@ -475,10 +475,8 @@ class BaseGazetteCollector:
                     "cargo_assinante": act.signer_role,
                     "categoria_assinante": act.signer_category,
                     "governador_edicao": act.edition_governor,
-                    "representante_governo": act.government_representative
-                    or nome_representante_governo(act.edition_governor),
-                    "origem_representante": act.representative_origin
-                    or origem_representante_governo(act.edition_governor),
+                    "representante_governo": nome_representante_governo(act.edition_governor),
+                    "origem_representante": origem_representante_governo(act.edition_governor),
                     "spacy_pessoa": spacy_person,
                     "spacy_entidades": spacy_entities,
                     "nome_parse_confiavel": name_parse_reliable,
@@ -537,13 +535,11 @@ class BaseGazetteCollector:
                 dataframe.at[index, "spacy_entidades"],
                 dataframe.at[index, "nome_parse_confiavel"],
             ) = self.validate_person_name_with_spacy(row["nome"])
-        missing_governor_mask = (dataframe["governador_edicao"] == "") & (dataframe["arquivo_markdown"] != "")
-        for index, row in dataframe.loc[missing_governor_mask].iterrows():
+        markdown_governor_mask = dataframe["arquivo_markdown"] != ""
+        for index, row in dataframe.loc[markdown_governor_mask].iterrows():
             dataframe.at[index, "governador_edicao"] = governador_da_edicao(row["arquivo_markdown"])
         for index, row in dataframe.iterrows():
             governor = row["governador_edicao"]
-            if not row["representante_governo"]:
-                dataframe.at[index, "representante_governo"] = nome_representante_governo(governor)
-            if not row["origem_representante"]:
-                dataframe.at[index, "origem_representante"] = origem_representante_governo(governor)
+            dataframe.at[index, "representante_governo"] = nome_representante_governo(governor)
+            dataframe.at[index, "origem_representante"] = origem_representante_governo(governor)
         return dataframe
