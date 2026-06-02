@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import traceback
 from typing import Callable
 
 from diarios_oficiais.base import preload_ocr_models
@@ -40,13 +39,4 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    while True:
-        try:
-            raise SystemExit(main())
-        except SystemExit as exc:
-            if exc.code in (None, 0):
-                raise
-            print(f"Erro ao executar main(): {exc}. Tentando novamente...")
-        except Exception:
-            traceback.print_exc()
-            print("Erro ao executar main(). Tentando novamente...")
+    raise SystemExit(main())

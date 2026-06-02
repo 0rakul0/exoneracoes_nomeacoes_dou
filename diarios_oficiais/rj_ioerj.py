@@ -26,6 +26,7 @@ from diarios_oficiais.utils_regex import rj_ioerj as rj_regexes
 
 BASE_URL = "https://www.ioerj.com.br/portal/modules/conteudoonline/"
 CALENDAR_URL = urljoin(BASE_URL, "do_seleciona_data.php")
+MARKDOWN_DATE_RE = re.compile(r"_(\d{4}-\d{2}-\d{2})$")
 
 
 class RjIoerjCollector(BaseGazetteCollector):
@@ -103,6 +104,18 @@ class RjIoerjCollector(BaseGazetteCollector):
 
     def markdown_path_for(self, edition: Edition) -> Path:
         return self.lake_base_path_for(edition).with_suffix(".md")
+
+    def latest_stored_publication_date(self) -> date | None:
+        state_lake_dir = self.lake_dir / self.state
+        latest_date: date | None = None
+        for markdown_path in state_lake_dir.rglob("*.md"):
+            match = MARKDOWN_DATE_RE.search(markdown_path.stem)
+            if not match:
+                continue
+            publication_date = date.fromisoformat(match.group(1))
+            if latest_date is None or publication_date > latest_date:
+                latest_date = publication_date
+        return latest_date
 
 
 def clean_html(value: str) -> str:
@@ -663,13 +676,23 @@ def edition_slug(section: str) -> str:
 
 def collect_rj() -> int:
     collector = RjIoerjCollector()
+    latest_stored_date = collector.latest_stored_publication_date()
+    start_date = latest_stored_date or date(RJ_COLLECTION_YEAR, 1, 1)
+    if latest_stored_date is None:
+        print(
+            f"Nenhuma edicao RJ encontrada no LAKE; iniciando em {start_date.isoformat()}.",
+            file=sys.stderr,
+        )
+    else:
+        print(
+            f"Ultima edicao RJ encontrada no LAKE: {latest_stored_date.isoformat()}. "
+            "Retomando a partir dessa data.",
+            file=sys.stderr,
+        )
     dates = sorted(
-        (
-            publication_date
-            for publication_date in collector.list_available_dates()
-            if publication_date.year == RJ_COLLECTION_YEAR
-        ),
-        reverse=True,
+        publication_date
+        for publication_date in collector.list_available_dates()
+        if publication_date >= start_date
     )
 
     total_new_acts = 0

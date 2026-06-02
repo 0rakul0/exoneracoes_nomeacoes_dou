@@ -90,10 +90,10 @@ Os resultados indicam:
 | Luiz Fernando de Souza (Executivo estadual) | 15.317 | 17.515 | 2.198 | 32.832 |
 | Wilson Jose Witzel (Executivo estadual) | 9.368 | 11.202 | 1.834 | 20.570 |
 | Sergio Cabral (Executivo estadual) | 4.807 | 14.835 | 10.028 | 19.642 |
-| Ricardo Couto de Castro (TJ-RJ) | 2.846 | 873 | -1.973 | 3.719 |
+| Ricardo Couto de Castro (TJ-RJ) | 3.050 | 926 | -2.124 | 3.976 |
 
 O maior saldo positivo aparece em **Sergio Cabral**, com **10.028 nomeações líquidas**.
-Já **Ricardo Couto de Castro** apresenta saldo negativo, com **1.973 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
+Já **Ricardo Couto de Castro** apresenta saldo negativo, com **2.124 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
 
 <!-- README-DYNAMIC:SALDO-END -->
 
@@ -183,7 +183,7 @@ Rode o coletor:
 
 Esse comando usa diretamente o Python da `.venv` do repositorio, mesmo que o ambiente virtual nao esteja ativado no terminal.
 
-O `main.py` nao recebe argumentos. A coleta ativa executa somente `RJ`, definido em `STATES_TO_COLLECT`, e limita a busca ao ano configurado em `RJ_COLLECTION_YEAR` (`2026`) em `diarios_oficiais/config.py`. O historico ja armazenado de anos anteriores permanece disponivel para analise, sem ser varrido novamente pelo extrator. Para cada edicao de 2026, o coletor reutiliza o Markdown quando ele ja existe; quando precisa converter, reaproveita PDFs em `.cache/diarios` antes de baixar novamente. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
+O `main.py` nao recebe argumentos. A coleta ativa executa somente `RJ`, definido em `STATES_TO_COLLECT`. O coletor identifica a ultima data ja armazenada em `LAKE/RJ` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. Os Markdown existentes sao reutilizados; quando precisa converter uma edicao ausente, o coletor reaproveita PDFs em `.cache/diarios` antes de baixar novamente. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`) em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
 
 O padrao dos arquivos Markdown e:
 
@@ -209,7 +209,7 @@ Exemplo:
 saida/RJ/DOERJ_2026.csv
 ```
 
-Para mudar o ano que sera consultado pelo coletor RJ, ajuste:
+Para mudar o ano inicial usado quando ainda nao existe historico em `LAKE/RJ`, ajuste:
 
 ```python
 RJ_COLLECTION_YEAR = 2026
@@ -240,9 +240,9 @@ flowchart TD
     A[".\\.venv\\Scripts\\python.exe main.py"] --> B["main.py percorre STATES_TO_COLLECT"]
     B --> C["Reporta PyTorch/CUDA disponivel"]
     C --> D["Busca calendario da IOERJ"]
-    D --> E["Mantem somente datas de 2026"]
-    E --> F["Para cada data, lista cadernos publicados"]
-    F --> G["Filtra caderno: Poder Executivo"]
+    D --> E["Identifica a ultima data salva em LAKE/RJ"]
+    E --> F["Mantem a ultima data e as posteriores"]
+    F --> G["Para cada data, lista e filtra o caderno Poder Executivo"]
     G --> H{"Markdown da edicao ja existe em LAKE/RJ/ano/mes?"}
     H -- "Sim" --> I["Usa Markdown existente"]
     H -- "Nao" --> J["Reaproveita ou baixa PDF oficial em .cache/diarios"]
