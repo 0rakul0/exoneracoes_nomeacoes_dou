@@ -1,0 +1,10 @@
+[project]
+name = "exoneracoes-nomeacoes-dou"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dash>=4.2.0",
+    "pandas-stubs~=3.0.3",
+]

@@ -1,0 +1,56 @@
+﻿indicador,valor
+linhas_entrada_bruta,994
+linhas_descartadas_limpeza_escopo,0
+linhas_entrada,994
+linhas_com_circunscricao,114
+linhas_sem_circunscricao_descartadas,880
+mudancas_circunscricao_classificadas,114
+linhas_com_link,114
+tipo_circunscricao: alteração de circunscrição; definição de limites/área territorial,19
+tipo_circunscricao: alteração de circunscrição,18
+tipo_circunscricao: criação/instituição com efeito circunscricional; definição de limites/área territorial,13
+tipo_circunscricao: criação/instituição com efeito circunscricional,11
+tipo_circunscricao: definição de limites/área territorial,8
+tipo_circunscricao: menção circunscricional não classificada,7
+tipo_circunscricao: alteração de circunscrição; criação/instituição com efeito circunscricional; definição de limites/área territorial,6
+tipo_circunscricao: extinção com efeito territorial/circunscricional; criação/instituição com efeito circunscricional,6
+tipo_circunscricao: alteração de circunscrição; criação/instituição com efeito circunscricional,5
+tipo_circunscricao: alteração de circunscrição; revogação relacionada à circunscrição; definição de limites/área territorial,3
+tipo_circunscricao: revogação relacionada à circunscrição; criação/instituição com efeito circunscricional,3
+tipo_circunscricao: revogação relacionada à circunscrição; definição de limites/área territorial,3
+tipo_circunscricao: revogação relacionada à circunscrição,1
+tipo_circunscricao: alteração de circunscrição; extinção com efeito territorial/circunscricional; criação/instituição com efeito circunscricional; definição de limites/área territorial,1
+tipo_circunscricao: restauração de limites/circunscrição; alteração de circunscrição; definição de limites/área territorial,1
+tipo_circunscricao: restauração de limites/circunscrição; alteração de circunscrição; revogação relacionada à circunscrição; extinção com efeito territorial/circunscricional; criação/instituição com efeito circunscricional; definição de limites/área territorial,1
+tipo_circunscricao: extinção com efeito territorial/circunscricional,1
+tipo_circunscricao: extinção com efeito territorial/circunscricional; criação/instituição com efeito circunscricional; definição de limites/área territorial,1
+tipo_circunscricao: extinção com efeito territorial/circunscricional; definição de limites/área territorial,1
+tipo_circunscricao: restauração de limites/circunscrição; revogação relacionada à circunscrição; extinção com efeito territorial/circunscricional; definição de limites/área territorial,1
+tipo_circunscricao: alteração de circunscrição; revogação relacionada à circunscrição; extinção com efeito territorial/circunscricional; definição de limites/área territorial,1
+tipo_circunscricao: alteração de circunscrição; extinção com efeito territorial/circunscricional,1
+tipo_circunscricao: revogação relacionada à circunscrição; criação/instituição com efeito circunscricional; definição de limites/área territorial,1
+tipo_circunscricao: alteração de circunscrição; revogação relacionada à circunscrição; extinção com efeito territorial/circunscricional; criação/instituição com efeito circunscricional; definição de limites/área territorial,1
+orgao_area_detectada: Polícia Civil / PCERJ,81
+orgao_area_detectada: Polícia Militar / PMERJ,25
+orgao_area_detectada: SESEG / Secretaria de Estado de Segurança,8
+ano_publicacao: 2008,13
+ano_publicacao: 2009,9
+ano_publicacao: 2010,13
+ano_publicacao: 2011,9
+ano_publicacao: 2012,2
+ano_publicacao: 2013,3
+ano_publicacao: 2014,9
+ano_publicacao: 2015,5
+ano_publicacao: 2016,9
+ano_publicacao: 2017,11
+ano_publicacao: 2018,16
+ano_publicacao: 2019,2
+ano_publicacao: 2021,2
+ano_publicacao: 2022,1
+ano_publicacao: 2023,1
+ano_publicacao: 2024,2
+ano_publicacao: 2025,5
+ano_publicacao: 2026,2
+tipo_norma: RESOLUÇÃO,111
+tipo_norma: PORTARIA,2
+tipo_norma: DECRETO,1
