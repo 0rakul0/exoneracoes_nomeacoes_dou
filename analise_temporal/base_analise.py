@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import sys
+import os
 from pathlib import Path
 
 from dash import Dash
@@ -22,10 +23,13 @@ from analise_temporal.services.graficos import (
 
 
 app = Dash(__name__)
+server = app.server
 app.title = "DOU RJ - Transicoes Markov"
 app.layout = create_layout()
 register_callbacks(app)
 
 
 if __name__ == "__main__":
-    app.run(debug=False, port=8052, use_reloader=False)
+    host = os.environ.get("HOST", "127.0.0.1")
+    port = int(os.environ.get("PORT", "8052"))
+    app.run(host=host, debug=False, port=port, use_reloader=False)

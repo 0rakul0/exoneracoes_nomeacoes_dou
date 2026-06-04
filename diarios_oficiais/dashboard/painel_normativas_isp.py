@@ -1188,6 +1188,7 @@ def create_layout() -> html.Div:
 
 
 app = Dash(__name__)
+server = app.server
 app.title = "ISP - Normativas de area de atuacao"
 app.index_string = f"""
 <!DOCTYPE html>
