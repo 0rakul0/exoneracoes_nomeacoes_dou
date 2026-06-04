@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: exoneracoes-dash-temporal
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:server --bind 0.0.0.0:$PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12
