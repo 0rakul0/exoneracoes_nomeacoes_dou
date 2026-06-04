@@ -2,6 +2,10 @@
 
 Este projeto busca criar uma base historica de atos de exoneracao e nomeacao publicados em diarios oficiais brasileiros. A primeira etapa foca no Governo do Estado do Rio de Janeiro, acompanhando o Diario Oficial do Estado do Rio de Janeiro (DOERJ/IOERJ) da edicao online mais recente disponivel no portal atual para as mais antigas.
 
+Dashboard temporal publicado: <https://dash-temporal.onrender.com/>
+
+Este repositorio e o ambiente de desenvolvimento. O deploy do dashboard e feito pelo repositorio `D:\github\dash_temporal`, que mantem uma versao enxuta do app para o Render. Ao atualizar o painel publicado, suba para la apenas os dados de consumo em `saida/analises/RJ`.
+
 ## Objetivos
 
 - Converter as edicoes oficiais para Markdown com Docling e preservar somente o `.md` em `LAKE/UF`.
@@ -360,10 +364,10 @@ python analise_temporal/analisar_movimentacoes.py --uf RJ --incluir-anos-incompl
 
 O `gerar_movimento.bat` ja usa esse modo incremental por padrao.
 
-Para recalcular as movimentações, atualizar as imagens e depois os trechos dinâmicos deste README em sequência:
+Para baixar os dados, recalcular as movimentações, atualizar as imagens e os trechos dinâmicos deste README, e copiar as bases finais para o dashboard temporal:
 
 ```powershell
-.\atualizar_readme_completo.bat
+.\atualizar_dados_readme_dashboard.bat
 ```
 
 Para rodar apenas a etapa de imagens e blocos dinâmicos:
@@ -373,6 +377,14 @@ python docs/gerar_imagens_readme.py
 ```
 
 O script salva os PNGs em `docs/img` com as mesmas dimensões usadas atualmente no documento e recalcula os blocos marcados com `README-DYNAMIC` a partir da base de movimentações.
+
+Para atualizar os dados consumidos pelo deploy, copie apenas as bases finais para o repositorio enxuto:
+
+```powershell
+.\deploy\atualizar_dados_dash_temporal.bat
+```
+
+Depois, no repositorio `D:\github\dash_temporal`, revise, faca commit e push dos arquivos de dados alterados.
 
 O script de análise temporal lê os CSVs anuais em `saida/UF` e grava:
 
