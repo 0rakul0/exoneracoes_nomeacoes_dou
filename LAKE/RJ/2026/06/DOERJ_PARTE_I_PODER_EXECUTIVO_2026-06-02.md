@@ -4,64 +4,6 @@
 
 ANO LII -  Nº  097 TERÇA-FEIRA, 2 DE JUNHO DE 2026
 
-## S U M Á R I O
-
-| Atos do Poder Legislativo ................................................................                                                                                        | 1      |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Atos do Poder Executivo .................................................................                                                                                         | 3      |
-| Gabinete do Governador ..............................................................                                                                                             | 3      |
-| Governadoria do Estado .............................................................                                                                                              | ...    |
-| Gabinete do Vice-Governador ......................................................                                                                                                | ...    |
-| Vice-Governadoria do Estado .......................................................                                                                                               | ...    |
-| ÓRGÃOS DA CHEFIA DO PODER EXECUTIVO (Secretarias de Estado)                                                                                                                       |        |
-| Casa Civil .................................................................................                                                                                      | 3      |
-| Gabinete do Governador .............................................................                                                                                              | ...    |
-| Governo ................................................................................... ..............................................................                        | 7      |
-| Planejamento e Gestão                                                                                                                                                             | ...    |
-| Fazenda ...................................................................................                                                                                       | 7      |
-| Desenvolvimento Econômico, Indústria, Comércio e Serviços .............. Polícia Militar .............................................................................            | 8 8    |
-| Polícia Civil ..............................................................................                                                                                      | 15     |
-| Polícia Penal ............................................................................                                                                                        | 16     |
-| Defesa Civil .............................................................................. ..................................................................................... | 18     |
-| Saúde                                                                                                                                                                             | 18     |
-| Educação .................................................................................                                                                                        | 20     |
-| Ciência, Tecnologia e Inovação ....................................................                                                                                               | 23     |
-| Transporte e Mobilidade Urbana ...................................................                                                                                                | 27     |
-| Ambiente e Sustentabilidade ........................................................                                                                                              | 27     |
-| Agricultura, Pecuária e Abastecimento ...........................................                                                                                                 | 28     |
-| Desenvolvimento Regional do Interior, Pesca e Agricultura Familiar .....                                                                                                          | 28     |
-| Cultura e Economia Criativa ........................................................                                                                                              | 28     |
-| Desenvolvimento Social e Direitos Humanos ...................................                                                                                                     | 28     |
-| Esporte e Lazer ........................................................................                                                                                          | 30     |
-| Turismo                                                                                                                                                                           | 30     |
-| ................................................................................... Controladoria Geral do Estado .....................................................           | 30     |
-| Gabinete de Segurança Institucional do Governo do Estado do Rio de Janeiro ..                                                                                                     | 30     |
-| Trabalho e Renda ......................................................................                                                                                           | ...    |
-| Extraordinária de Representação do Governo em Brasília .................                                                                                                          | ...    |
-| Transformação Digital .................................................................                                                                                           | 31     |
-| Infraestrutura e Obras Públicas ....................................................                                                                                              | 31     |
-| Energia e Economia do Mar                                                                                                                                                         | 32     |
-| ........................................................ Habitação de Interesse Social ......................................................                                     | ...    |
-| Intergeracional de Juventude e Envelhecimento Saudável .................                                                                                                          | ...    |
-| Mulher e de Políticas Inclusivas ...................................................                                                                                              | ...    |
-| Cidades ................................................................................... ...............................................................                       | ...    |
-| Defesa do Consumidor                                                                                                                                                              | 32     |
-| Segurança Pública .....................................................................                                                                                           | ... 32 |
-| Procuradoria Geral do Estado ......................................................                                                                                               |        |
-| AVISOS, EDITAIS E TERMOS DE CONTRATO ...................................                                                                                                          | 33     |
-
-Art.  3º -  O  Poder  Executivo  regulamentará  a  presente  lei.
-
-Art.  4º -  Esta  lei  entra  em  vigor  na  data  de  sua  publicação.
-
-Rio  de  Janeiro,  01  de  junho  de  2026
-
-## RICARDO COUTO DE CASTRO
-
-Governador  em  exercício
-
-Projeto  de  Lei  nº  5487-A/2022 Autoria  do  Deputado:  Bruno  Dauaire.
-
 ## PARTE I PODER EXECUTIVO
 
 <!-- image -->
@@ -105,9 +47,7 @@ O Governador do Estado do Rio de Janeiro, em exercício, Faço saber que a Assem
 
 Art.  1º -  Fica instituído O Dia do Técnico  e Auxiliar de Enfermagem no  calendário  oficial  do  Estado  do  Rio  de  Janeiro,  a  ser  comemorado, anualmente,  no  dia  20  de  maio.
 
--  O  Anexo da Lei n.º 5.645, de 06 de janeiro de 2010, passa a
-
-Art. 2º vigorar  com  a  seguinte  redação:
+Art. 2º -  O  Anexo da Lei n.º 5.645, de 06 de janeiro de 2010, passa a vigorar  com  a  seguinte  redação:
 
 'CALENDÁRIO DE DATAS COMEMORATIVAS DO ESTADO DO RIO DE JANEIRO
 
@@ -125,13 +65,13 @@ Art.  3º -  Esta  Lei  entra  em  vigor  na  data  de  sua  publicação.
 
 Rio  de  Janeiro,  01  de  junho  de  2026
 
-## RICARDO COUTO DE CASTRO Governador  em  exercício
+## RICARDO COUTO DE CASTRO
+
+Governador  em  exercício
 
 Projeto  de  Lei  nº  5580/2025 Autoria  dos  Deputados:  Lilian  Behring  e  Jari  Oliveira.
 
-publicação,  revo-
-
-Art.  3º -  Esta Lei  entra em  vigor na  data de  sua gando-se  a  Lei  n.º  9.846,  de  9  de  setembro  de  2022.
+Art.  3º -  Esta Lei  entra em  vigor na  data de  sua publicação,  revogando-se  a  Lei  n.º  9.846,  de  9  de  setembro  de  2022.
 
 Rio  de  Janeiro,  01  de  junho  de  2026
 
@@ -182,6 +122,63 @@ O Governador do Estado do Rio de Janeiro, em exercício, Faço saber que a Assem
 Art.  1º -Fica assegurado às  pessoas com deficiência auditiva  o direito  a atendimento  por tradutor  ou intérprete  da Língua  Brasileira de Sinais - LIBRAS - nas unidades do Poupatempo, do Estado do Rio de Janeiro.
 
 Art.  2º -  As  despesas  decorrentes  da  execução  desta  lei  correrão  por conta de  dotações orçamentárias próprias; suplementadas,  se necessário.
+
+## S U M Á R I O
+
+| Atos do Poder Legislativo ................................................................                                                                                        | 1      |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| Atos do Poder Executivo .................................................................                                                                                         | 3      |
+| Gabinete do Governador ..............................................................                                                                                             | 3      |
+| Governadoria do Estado .............................................................                                                                                              | ...    |
+| Gabinete do Vice-Governador ......................................................                                                                                                | ...    |
+| Vice-Governadoria do Estado .......................................................                                                                                               | ...    |
+| ÓRGÃOS DA CHEFIA DO PODER EXECUTIVO (Secretarias de Estado)                                                                                                                       |        |
+| Casa Civil .................................................................................                                                                                      | 3      |
+| Gabinete do Governador .............................................................                                                                                              | ...    |
+| Governo ...................................................................................                                                                                       | 7      |
+| Planejamento e Gestão ..............................................................                                                                                              | ...    |
+| Fazenda ...................................................................................                                                                                       | 7      |
+| Desenvolvimento Econômico, Indústria, Comércio e Serviços .............. .............................................................................                            | 8      |
+| Polícia Militar                                                                                                                                                                   | 8      |
+| Polícia Civil ..............................................................................                                                                                      | 15     |
+| Polícia Penal ............................................................................                                                                                        | 16     |
+| Defesa Civil .............................................................................. ..................................................................................... | 18     |
+| Saúde                                                                                                                                                                             | 18     |
+| Educação .................................................................................                                                                                        | 20     |
+| Ciência, Tecnologia e Inovação .................................................... ...................................................                                           | 23     |
+| Transporte e Mobilidade Urbana                                                                                                                                                    | 27     |
+| Ambiente e Sustentabilidade ........................................................                                                                                              | 27     |
+| Agricultura, Pecuária e Abastecimento ...........................................                                                                                                 | 28 28  |
+| Desenvolvimento Regional do Interior, Pesca e Agricultura Familiar ..... Cultura e Economia Criativa ........................................................                     | 28     |
+| Desenvolvimento Social e Direitos Humanos ...................................                                                                                                     | 28     |
+| Esporte e Lazer ........................................................................ ...................................................................................      | 30     |
+| Turismo                                                                                                                                                                           | 30     |
+| Controladoria Geral do Estado .....................................................                                                                                               | 30     |
+| Gabinete de Segurança Institucional do Governo do Estado do Rio de Janeiro ..                                                                                                     | 30     |
+| Trabalho e Renda ......................................................................                                                                                           | ...    |
+| Extraordinária de Representação do Governo em Brasília ................. Transformação Digital .................................................................                  | ... 31 |
+| Infraestrutura e Obras Públicas ....................................................                                                                                              | 31     |
+| Energia e Economia do Mar ........................................................                                                                                                | 32     |
+| Habitação de Interesse Social                                                                                                                                                     | ...    |
+| ...................................................... Intergeracional de Juventude e Envelhecimento Saudável                                                                     | ...    |
+| ................. Mulher e de Políticas Inclusivas ...................................................                                                                            | ...    |
+| Cidades ...................................................................................                                                                                       | ...    |
+| Defesa do Consumidor ...............................................................                                                                                              | 32     |
+| Segurança Pública .....................................................................                                                                                           | ...    |
+| Procuradoria Geral do Estado ......................................................                                                                                               | 32     |
+| AVISOS, EDITAIS E TERMOS DE CONTRATO ...................................                                                                                                          | 33     |
+
+Art.  3º -  O  Poder  Executivo  regulamentará  a  presente  lei.
+
+Art.  4º -  Esta  lei  entra  em  vigor  na  data  de  sua  publicação.
+
+Rio  de  Janeiro,  01  de  junho  de  2026
+
+## RICARDO COUTO DE CASTRO
+
+Governador  em  exercício
+
+Projeto  de  Lei  nº  5487-A/2022 Autoria  do  Deputado:  Bruno  Dauaire.
 
 Id:  2739225
 
@@ -699,7 +696,6 @@ SEI-RJ)
 -  Isabella  Correa  Melo  Lima  -  Id.  Funcional  nº  5175558-0
 
 -  Islaine  Nunes  Aquino  -  Id.  Funcional  nº  5037100-2
-
 -  Jessica  Gomes  da  Silva  -  Id.  Funcional  nº  5103558-8
 -  João  Maurício  Pinheiro  de  Castro  Neves  -  Id.  Funcional  nº  5005019-
 
@@ -1043,7 +1039,9 @@ Câmara,  por  unanimidade,  em  negar  provimento  ao  recurso,  nos  termos do
 
 Secretária  da  2ª  Câmara
 
-## ANTÔNIO ALEXANDRE DA SILVA FERREIRA Presidente  da  2ª  Câmara
+## ANTÔNIO ALEXANDRE DA SILVA FERREIRA
+
+Presidente  da  2ª  Câmara
 
 ## DEPARTAMENTO DE TRÂNSITO DO ESTADO DO RIO DE JANEIRO
 
@@ -1091,13 +1089,13 @@ Id:  2739042
 
 <!-- image -->
 
-DO
-
 JANEIRO
 
 DE
 
 ESTADO
+
+DO
 
 DO
 
@@ -1205,7 +1203,7 @@ PROCESSO  Nº SEI-150016/095046/2026  -  DETERMINO a  cassação da carteira nac
 
 Id:  2739075
 
-## LOTERIA DO ESTADO DO RIO DE JANEIRO
+LOTERIA DO ESTADO DO RIO DE JANEIRO
 
 ## ATO DA PRESIDENTE
 
@@ -1828,9 +1826,41 @@ Id:  2738944
 
 -  o disposto  no Decreto  Estadual  nº 48.817,  de 24  de novembro  de 2023,  que  regulamenta a  gestão  e  a  fiscalização das  contratações  da Administração  Pública  e,
 
-<!-- image -->
-
 1 0
+
+DE
+
+I
+
+-
+
+097
+
+-
+
+P ARTE
+
+LII
+
+ANO
+
+-
+
+N
+
+-
+
+o
+
+TERÇA-FEIRA
+
+2
+
+DE
+
+JUNHO
+
+2026
 
 - o  Processo nº SEI-350023/016509/2026, o qual indica servidores para  destituir  e  integrar  a  Comissão  de  Fiscalização.
 
@@ -1902,17 +1932,17 @@ Art.  1º -Fica  designado,  a contar  de  20  de Maio  de  2026 o  servidor: MA
 
 <!-- image -->
 
-ESTADO
-
-DO
-
-DO
-
 DE
+
+DO
 
 JANEIRO
 
 RIO
+
+DO
+
+ESTADO
 
 MAJ  PM RG 77.552 RENATO PEIXOTO MORAES, ID FUNC. 4140465-3,  FISCAL  ADMINISTRATIVO; 1º TEN PM RG 67.172  NÉLIO LEANDRO DO CARMO, ID FUNC. 2253215-3,  FISCAL  ADMINISTRATIVO  SUBSTITUTO; 2º TEN PM RG 73.370  LEANDRO ARTACHO DA SILVA, ID FUNC. 2242487-3,  FISCAL  SETORIAL; 2º SGT  PM RG 83.635 CARLOS  HENRIQUE MACHADO HAUTEQUESTT JÚNIOR, ID FUNC. 4268069-7, FISCAL SETORIAL; 3º  SGT  PM  RG  90.453  GLADSTON MEDEIROS HOLANDA DE SOUZA,  ID  FUNC.  4402977-2,  FISCAL  SETORIAL; 3º  SGT PM  RG 90.606  BRUNO  CANDIDO DE  SOUZA, ID  FUNC. 4404513-1,  FISCAL  SETORIAL  SUBSTITUTO.
 
@@ -2045,11 +2075,11 @@ Id:  2738853
 | Presidente   | Cel PM RG 56.097 Marco Antonio Andrade Santos Id. Func. 3999913-0   |
 |--------------|---------------------------------------------------------------------|
 
-## II -SUBSECRETARIAS DE GESTÃO OPERACIONAL E DE GESTÃO ADMINISTRATIVA
+- II -SUBSECRETARIAS DE GESTÃO OPERACIONAL E DE GESTÃO ADMINISTRATIVA
 
-Membro efetivo
-
-Membro suplente
+| Membro efetivo   | Cap PM RG 104.557Renata Santiago de Mello Id. Func. 5034213-4             |
+|------------------|---------------------------------------------------------------------------|
+| Membro suplente  | 1º Ten PM RG 78.741 Hamilton Júlio Corrêa de Oliveira Id. Func. 0594014-1 |
 
 ## III -SUBSECRETARIA DE COMANDO E CONTROLE
 
@@ -2117,7 +2147,7 @@ XII -DIRETORIA GERAL DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO
 |------------------|-----------------------------------------------------------------|
 | Membro suplente  | 1º Ten PM RG 107.975 Diana Martins Parrana Id. Func. 5103325-9  |
 
-XIV - DIRETORIA GERAL DE PROGRAMAS
+## XIV DIRETORIA GERAL DE PROGRAMAS
 
 | Membro efetivo   | Maj PM RG 82.519 Fernando Rodrigues de Castro Id. Func. 4262504-1   |
 |------------------|---------------------------------------------------------------------|
@@ -2140,14 +2170,6 @@ XVII ASSESSORIA JURÍDICA DO GABINETE DA SECRETARIA DE ESTADO DE POLÍCIA MILITA
 | Membro efetivo   | 2º TenPM RG 69.930 Marco Antonio Patrício de Aquino Id. Func. 2174486-6    |
 |------------------|----------------------------------------------------------------------------|
 | Membro suplente  | 1º Ten PM PM RG 78.004 Délio Ferreira dos Santos Filho Id. Func. 0593289-0 |
-
-Cap PM RG 104.557Renata Santiago de Mello
-
-Id. Func. 5034213-4
-
-1º Te  n  PM RG 78.741 Hamilton Júlio Corrêa de Oliveira
-
-Id. Func. 0594014-1
 
 <!-- image -->
 
@@ -2277,21 +2299,7 @@ O SECRETÁRIO DE ESTADO DE POLÍCIA MILITAR ,  no  exercício  de suas  atribui�
 
 ## R  E  S  O  LV  E  :
 
-Art.  1ºFica  designado,  a contar  de  25  de Maio  de  2026 o  servidor: 1°  TEN  PM RG  38.426  UBIRAJARA  DE  ARAUJO LIMA,  ID  FUNC. 2181387-6, em substituição: TEN CEL PM RG 58.407 ELDER DE ASSIS  VIEIRA, ID  FUNC. 2445063-4,  para compor  a Comissão  do PPM/SJM, com o objetivo  de  fiscalizar o  Contrato  nº 016/2026,  oriundo do Processo nº  SEI-350006/000543/2026, firmado com a empresa LIGHT,  passando  a  referida  comissão  ter  a  seguinte  composição:
-
-- 1°  TEN PM  RG 64.232  NADILAINE SILVA  DE OLIVEIRA  VIANA,ID FUNC. 2471287-6,  FISCAL  ADMINISTRATIVO;
-- 2181387-6,  FISCAL  ADMINISTRATIVO  SUBSTITUTO; ST  PM  RG 70.326  ADRIANO  PASSOS  DE FARIAS,  ID  FUNC. 22765352,  FISCAL  SETORIAL;
-
-1°  TEN  PM
-
-LIMA,  ID  FUNC.
-
-RG  38.426  UBIRAJARA  DE  ARAUJO
-
-- 1°  SGT PM  RG 74.196  ALAN ARAUJO  MOURA BAIMA,  D FUNC. 2170226-8,  FISCAL  SETORIAL;
-- 2°  SGT  PM RG  84.246  CARLOS  EDUARDO NUNES  BRAGA,  ID CB PM RG 107.923 AMANDA DE OLIVEIRA SILVA ALVES, ID FUNC.
-- 1°  SGT  PM  RG  74.304  ALEX DA  SILVA  REGIS,  ID  FUNC.  21533547,  FISCAL  SETORIAL;
-- FUNC. 4268984-8,  FISCAL  SETORIAL  SUBSTITUTO; 5101175-1,  FISCAL  SETORIAL  SUBSTITUTO.
+Art.  1ºFica  designado,  a contar  de  25  de Maio  de  2026 o  servidor: 1°  TEN  PM RG  38.426  UBIRAJARA  DE  ARAUJO LIMA,  ID  FUNC. 2181387-6, em substituição: TEN CEL PM RG 58.407 ELDER DE ASSIS  VIEIRA, ID  FUNC. 2445063-4,  para compor  a Comissão  do PPM/SJM, com o objetivo  de  fiscalizar o  Contrato  nº 016/2026,  oriundo do Processo nº  SEI-350006/000543/2026, firmado com a empresa LIGHT,  passando  a  referida  comissão  ter  a  seguinte  composição: 1°  TEN PM  RG 64.232  NADILAINE SILVA  DE OLIVEIRA  VIANA,ID FUNC. 2471287-6,  FISCAL  ADMINISTRATIVO; 1°  TEN  PM RG  38.426  UBIRAJARA  DE  ARAUJO LIMA,  ID  FUNC. 2181387-6,  FISCAL  ADMINISTRATIVO  SUBSTITUTO; ST  PM  RG 70.326  ADRIANO  PASSOS  DE FARIAS,  ID  FUNC. 22765352,  FISCAL  SETORIAL; 1°  SGT PM  RG 74.196  ALAN ARAUJO  MOURA BAIMA,  D FUNC. 2170226-8,  FISCAL  SETORIAL; 1°  SGT  PM  RG  74.304  ALEX DA  SILVA  REGIS,  ID  FUNC.  21533547,  FISCAL  SETORIAL; 2°  SGT  PM RG  84.246  CARLOS  EDUARDO NUNES  BRAGA,  ID FUNC. 4268984-8,  FISCAL  SETORIAL  SUBSTITUTO; CB PM RG 107.923 AMANDA DE OLIVEIRA SILVA ALVES, ID FUNC. 5101175-1,  FISCAL  SETORIAL  SUBSTITUTO.
 
 Art.  2º -  O  Fiscal  Administrativo  será  substituído  em  seus  impedimentos legais  pelo Fiscal  Técnico, hierarquicamente  imediato, o  qual passará  a  atuar  como  Fiscal  Administrativo.
 
@@ -2329,7 +2337,9 @@ SYLVIO RICARDO CIUFFO GUERRA Secretário  de  Estado  de  Polícia  Militar Id: 
 
 <!-- image -->
 
-JANEIRO
+DO
+
+ESTADO
 
 DO
 
@@ -2337,9 +2347,7 @@ RIO
 
 DE
 
-ESTADO
-
-DO
+JANEIRO
 
 ## SECRETARIA DE ESTADO DE POLÍCIA MILITAR
 
@@ -3299,13 +3307,15 @@ ADILSON FLORIANO DE  SOUZA
 
 Inspetor de Polícia  Penal, ID fun-
 
+ROBSON DA MOTTA REIS ,  Inspetor  de  Polícia  Penal,  ID  funcional  nº 42114500  -  Chefe  da  Seção  I  da  Turma  de  Inspetores.
+
+cional  nº  50008684  -  Chefe  de  Seção  de  Manutenção;
+
 ANDERSON SILVA  DE ARAÚJO , Inspetor  de Polícia Penal,  ID funcional  nº  50300717  -  Chefe  da  Seção  II  da  Turma  de  Inspetores; ROBINSON  VITÓRIO  DA  SILVA , Inspetor  de Polícia Penal, ID fun-
 
-cional  nº  50008684  -  Chefe  de  Seção  de  Manutenção; ROBSON DA MOTTA REIS ,  Inspetor  de  Polícia  Penal,  ID  funcional  nº 42114500  -  Chefe  da  Seção  I  da  Turma  de  Inspetores.
+Deixa-se de nomear, a Assistente Social e o Psiquiatra por não contar com estes profissionais na Unidade. Processo nº SEI210070/000992/2020.
 
 cional  nº  20098936  -  Chefe  da  Seção  III  da  Turma  de  Inspetores;
-
-Deixa-se de nomear, a Assistente Social e o Psiquiatra por não contar com estes profissionais na Unidade. Processo nº SEI210070/000992/2020.
 
 Id:  2739001
 
@@ -3356,6 +3366,8 @@ RUAN MENDANHA ALVARINO, ID FUNCIONAL 51540908 Onde se lê:  05(CINCO)  DIAS  DE 
 SANDRA REGINA DA SILVA DE ALMEIDA Presidente  do  Conselho  Penitenciário
 
 GESSICA MACHADO DOS SANTOS MESQUITA Secretária  Executiva  do  Conselho  Penitenciário
+
+<!-- image -->
 
 ## Secretaria de Estado de Defesa Civil
 
@@ -3607,9 +3619,9 @@ O SECRETÁRIO  DE  ESTADO  DE  SAÚDE, no  uso  das  atribuições que  lhe  sã
 
 Art.  1º -Instituir a  Comissão de  Gestão e Fiscalização  do Concurso Público para  o preenchimento de  287 (duzentas  e oitenta e  sete) vagas  para  diversos cargos  do  quadro  permanente  de pessoal  da  Secretaria  de Estado  de Saúde  do  Rio de  Janeiro  SES/RJ  e do  Instituto  de Assistência  dos  Servidores do  Estado do  Rio  de Janeiro  IASERJ,  bem  como  formação  de  cadastro  de  reserva.
 
-Parágrafo  Único  A Comissão de Gestão e  Fiscalização do Concurso Público  será composta pelas  servidoras Tatiane Alves  Baptista, ID 608032-4;  Maria  de  Fátima  Matheus Alves,  ID  5028484-3;  e  Cláudia do  Carmo  Gomes,  ID  5033664-9,  sob  a  coordenação  da  primeira. Art.  2º - A Comissão de  Gestão e Fiscalização do Concurso Público será  responsável  pelo recebimento  provisório  e  definitivo do  objeto  do Contrato nº  041/2026, nos  termos da Lei,  bem como  pelo acompanhamento  e fiscalização  de todo  o Concurso  Público, constituindo-se em Autoridade Superior para  efeitos administrativos e judiciais relativos ao Concurso,  nos termos do item 7.4.1, 2  o Termo de Referência. Art.  3º -  A Comissão deverá se reunir quantas  vezes julgar neces-
+Parágrafo  Único  A Comissão de Gestão e  Fiscalização do Concurso Público  será composta pelas  servidoras Tatiane Alves  Baptista, ID 608032-4;  Maria  de  Fátima  Matheus Alves,  ID  5028484-3;  e  Cláudia do  Carmo  Gomes,  ID  5033664-9,  sob  a  coordenação  da  primeira. Art.  2º - A Comissão de  Gestão e Fiscalização do Concurso Público será  responsável  pelo recebimento  provisório  e  definitivo do  objeto  do Contrato nº  041/2026, nos  termos da Lei,  bem como  pelo acompanhamento  e fiscalização  de todo  o Concurso  Público, constituindo-se em Autoridade Superior para  efeitos administrativos e judiciais relativos ao Concurso,  nos termos do item 7.4.1, 2  o Termo de Referência. Art.  3º -  A Comissão deverá se reunir quantas  vezes julgar necessário  para promover  o adequado  alinhamento e  acompanhamento do
 
-- sário  para promover  o adequado  alinhamento e  acompanhamento do Concurso  Público.
+- Concurso  Público.
 
 § 1° A Comissão poderá, a qualquer tempo, solicitar informações sobre  o andamento  do  concurso  público da  contratada  ou da  Comissão de  Fiscalização  do  Contrato  nº  041/2026.
 
@@ -4264,9 +4276,7 @@ PROCESSO  Nº  SEI-030001/052028/2026 -  RENILDA  LOURENÇO COSTA, Servente, mat
 
 PROCESSO Nº  SEI-030001/049080/2026 -  CREDIANNE SIQUEIRA TRINDADE, Prof.  Doc.  I,  mat.  nº  0.831.247-2,  Id.  nº  3759066-9.
 
-PROCESSO Nº SEI-030001/049183/2026 - GILDA  MARA SOUZA  DA CONCEIÇÃO OLIVEIRA,  Prof. Doc. I,  mat. nº 0.942.374-0,  Id. nº
-
-4323708-8.
+PROCESSO Nº SEI-030001/049183/2026 - GILDA  MARA SOUZA  DA CONCEIÇÃO OLIVEIRA,  Prof. Doc. I,  mat. nº 0.942.374-0,  Id. nº 4323708-8.
 
 PROCESSO  Nº SEI-030001/049149/2026 -KELLY  DE MELO  QUERES, Prof.  Doc.  I,  mat.  nº  0.967.267-6,  Id.  nº  4257510-9.
 
@@ -4362,11 +4372,7 @@ INSTAURA SINDICÂNCIA para apurar possíveis irregularidades  objeto do  Process
 
 - Id:  2739069
 
-DEPARTAMENTO GERAL DE AÇÕES SOC I O  E  D  U  C  AT  I  VA  S
-
-SECRETARIA DE ESTADO DE EDUCAÇÃO
-
-CORREGEDORIA
+## SECRETARIA DE ESTADO DE EDUCAÇÃO DEPARTAMENTO GERAL DE AÇÕES SOC I O  E  D  U  C  AT  I  VA  S CORREGEDORIA
 
 ## DESPACHO DA CORREGEDORA DE 28/05/2026
 
@@ -4392,17 +4398,17 @@ PROCESSO  Nº SEI-030002/012748/2025 -ARQUIVE-SE , a  Decisão exarada pela i. C
 
 <!-- image -->
 
-DO
-
-DO
-
-ESTADO
-
 DE
+
+DO
 
 JANEIRO
 
 RIO
+
+DO
+
+ESTADO
 
 do Manual do Sindicante, aprovado pelo Decreto Estadual nº 7.526/1984,  o  referido  processo,  que  instaurou  sindicância  para  apuração  de  irregularidades  e  responsabilidades.
 
@@ -4492,39 +4498,25 @@ Art. 3º  Caberá  ao gestor e  aos fiscais da  Comissão os  atos concernentes 
 
 ANO
 
-TERÇA-FEIRA
-
 23
 
 LII
 
--
-
 N
 
-P ARTE
-
-I
+-
 
 097
 
 -
 
+P ARTE
+
+I
+
 -
 
 o
-
-2
-
-JUNHO
-
-2026
-
--
-
-DE
-
-DE
 
 I  verificar se a  execução do contrato  está sendo realizada  em conformidade  com  o  objeto  do  mesmo;
 
@@ -4536,7 +4528,7 @@ IV  solicitar  a  seus  superiores,  em tempo  hábil,  para  a  adoção  das m
 
 Art. 4º  Esta  Portaria entrará  em vigor na  data da  sua publicação, revogadas  as  disposições  em  contrário.
 
-Rio  de  Janeiro,  01  de  junho  de  2026
+## Rio  de  Janeiro,  01  de  junho  de  2026
 
 ## CLAUDIA SANTORO Subsecretária  Executiva
 
@@ -4554,8 +4546,7 @@ A  SUBSECRETÁRIA DE  ESTADO  DA SUBSECRETARIA  EXECUTIVA, no  uso  de  suas  at
 
 ## CONSIDERANDO:
 
--que  a Administração  Pública tem o  poder-dever de  planejar, gerenciar,  acompanhar  e  fiscalizar  a  atuação  da  contratada,  de  modo  a  garantir o adimplemento do objeto  contratado, bem como detectar, antecipadamente,  práticas  em  desconformidades  o  defeituosas;
-
+- -que  a Administração  Pública tem o  poder-dever de  planejar, gerenciar,  acompanhar  e  fiscalizar  a  atuação  da  contratada,  de  modo  a  garantir o adimplemento do objeto  contratado, bem como detectar, antecipadamente,  práticas  em  desconformidades  o  defeituosas;
 -  a  necessidade de  padronização  dos  procedimentos atinentes  à  gestão  e  à  fiscalização  dos  contratos  administrativos;
 -  a  importância  de  propiciar  aos agentes  públicos,  de  forma  sintetizada  e  objetiva,  orientações  de  caráter  preventivo;
 -  o disposto  nos arts.  58,  inciso III,  67, 73  e  74 da  Lei 8.666/93  e arts. 90,  § 3º e 239  da Lei nº  287/79; e Decreto 45.600/2016;  e Decreto  48.817/2023;
@@ -5260,7 +5251,7 @@ DISPÕE  SOBRE A  ALTERAÇÃO DA  PORTARIA  CENTRAL  SEI N.º  538/2023,  REFERE
 
 OBJETIVO DE  PROMOVER SOLUÇÕES DETERMINAÇÕES DO TCE/RJ. O  DIRETOR-PRESIDENTE  DA  COMPANHIA ESTADUAL  DE  ENGENHARIA DE  TRANSPORTES E LOGÍSTICA  - CENTRAL , no  uso de suas  atribuições  legais, CONSIDERANDO a  determinação  do  Diretor-Presidente  e  os  constantes  dos  autos  do  processo  nº  SEI-100006/000960/2023.
 
-R  E  S  O  LV  E  :
+## R  E  S  O  LV  E  :
 
 Art.  1º -DESIGNAR, a  relação atualizada,  dos membros  que compõem o Grupo de Trabalho  (GT-TCE):
 
@@ -5268,17 +5259,17 @@ Id:  2738833
 
 <!-- image -->
 
+DE
+
+RIO
+
+DO
+
 ESTADO
 
 DO
 
-RIO
-
 JANEIRO
-
-DE
-
-DO
 
 | NOME                                     | MATRÍCULA   | LOTAÇÂO   |
 |------------------------------------------|-------------|-----------|
@@ -5304,13 +5295,11 @@ A  COMISSÃO DE  LICITAÇÕES DA  COMPANHIA ESTADUAL DE ENGENHARIA DE TRANSPORTE
 
 O D  I  R  E  TO  R  -  P  R  E  S  I  D  E  N  T  E  DA  COMPANHIA ESTADUAL  DE  ENGENHARIA DE  TRANSPORTES E LOGÍSTICA  - CENTRAL , no  uso de suas  atribuições  legais.
 
-CONSIDERANDO a manifestação  da Superintendência  Administrativa -  SUPADM  (133218066) o  constante  nos  autos  do Processo  n°  SEI100006/000618/2026;
+CONSIDERANDO a manifestação  da Superintendência  Administrativa -  SUPADM  (133218066) o  constante  nos  autos  do Processo  n°  SEI100006/000618/2026; R  E  S  O  LV  E  :
 
-R  E  S  O  LV  E  :
+Art.  1º -  Designar  para  compor a  Comissão  de  Licitações  da  Companhia Estadual  de Engenharia de  Transportes e Logística  CENTRAL, para  autuar nas  Licitações, inclusive  para Registro  de Preços, os Empregados  a seguir  relacionados, cujo mandato  será de  (01) um ano,  contado  a  partir  da  publicação  desta  Portaria: KAREN CASSIANO DE LUNNA SILVA, matricula 99.001.033; MAIK ALVES DA SILVA, matricula  99.001.015; ADRIANA  ARAUJO  GONÇALVES SALES  PETTERSEN,  matricula 99.000.908; CLAUDIO REZENDE DE ASSIS, matricula 99.000.320; e JASON LUIZ TEIXEIRA LOPES, matricula 70.002.528. Art.  2º -  A  condução  das  Licitações  com  Etapa  de  Lances,  tanto  eletrônicas como presenciais, ficará a cargo da Empregada KAREN CASna  qualidade  de
 
-Art.  1º -  Designar  para  compor a  Comissão  de  Licitações  da  Companhia Estadual  de Engenharia de  Transportes e Logística  CENTRAL, para  autuar nas  Licitações, inclusive  para Registro  de Preços, os Empregados  a seguir  relacionados, cujo mandato  será de  (01) um ano,  contado  a  partir  da  publicação  desta  Portaria: KAREN CASSIANO DE LUNNA SILVA, matricula 99.001.033; MAIK ALVES DA SILVA, matricula  99.001.015; ADRIANA  ARAUJO  GONÇALVES SALES  PETTERSEN,  matricula 99.000.908; CLAUDIO REZENDE DE ASSIS, matricula 99.000.320; e JASON LUIZ TEIXEIRA LOPES, matricula 70.002.528. Art.  2º -  A  condução  das  Licitações  com  Etapa  de  Lances,  tanto  ele-
-
-- trônicas como presenciais, ficará a cargo da Empregada KAREN CASSIANO  DE  LUNNA SILVA,  Matrícula  nº  99.001.033, na  qualidade  de Pregoeira,  compondo  os  demais  Empregados  sua  Equipe  de  Apoio.
+- SIANO  DE  LUNNA SILVA,  Matrícula  nº  99.001.033, Pregoeira,  compondo  os  demais  Empregados  sua  Equipe  de  Apoio.
 
 Parágrafo Único -  Nos  seus  impedimentos,  a  Empregada  de  que  trata  este  Artigo  poderá  ser substituída,  sucessivamente,  pela  Empregada  ADRIANA  ARAUJO  GONÇALVES  SALES  PETTERSEN,  Matrícula n°  99.000.908.
 
@@ -5338,13 +5327,9 @@ SECRETARIA DE ESTADO DO AMBIENTE E SUSTENTABILIDADE
 
 ## RESOLUÇÃO CONJUNTA SEAS/INEA Nº 190 DE 22 DE MAIO DE 2026
 
-DISPÕE  SOBRE  A DESCENTRALIZAÇÃO  DA
+## DISPÕE  SOBRE  A DESCENTRALIZAÇÃO  DA EXECUÇÃO  DE CRÉDITO  ORÇAMENTÁRIO, NA FORMA A SEGUIR ESPECIFICADA.
 
-EXECUÇÃO  DE
-
-CRÉDITO  ORÇAMENTÁRIO,
-
-NA FORMA A SEGUIR ESPECIFICADA. O  SECRETÁRIO DO ESTADO DO AMBIENTE E SUSTENTABILIDADE  E A  PRESIDENTE DO INSTITUTO ESTADUAL DO AMBIENTE INEA, no  uso de suas atribuições  legais, de acordo com  a Lei n.º 10.899, de  21 de  julho de 2025  que dispõe sobre  a Lei  de Diretrizes Orçamentárias  para  o  exercício  financeiro  de 2026  -  LDO/2026;  a  Lei n.º  1.098  de  8  de  janeiro  de  2026,  que  estima  a  receita  e  fixa  a  despesa  do  Estado do  Rio  de  Janeiro  para  o exercício  financeiro  de 2026; o Decreto n.º 50.102 de 14 de Janeiro de 2026, que estabelece normas de  programação e execução orçamentária,  financeira e contábil  para o  exercício financeiro  de  2026; e  o Decreto  nº 42.436,  de 30 de abril de 2010, que  dispõe sobre a Descentralização da Execução  de  Créditos Orçamentários,  e  o  que  consta no  processo  administrativo  nº  SEI-070002/006620/2026;
+O  SECRETÁRIO DO ESTADO DO AMBIENTE E SUSTENTABILIDADE  E A  PRESIDENTE DO INSTITUTO ESTADUAL DO AMBIENTE INEA, no  uso de suas atribuições  legais, de acordo com  a Lei n.º 10.899, de  21 de  julho de 2025  que dispõe sobre  a Lei  de Diretrizes Orçamentárias  para  o  exercício  financeiro  de 2026  -  LDO/2026;  a  Lei n.º  1.098  de  8  de  janeiro  de  2026,  que  estima  a  receita  e  fixa  a  despesa  do  Estado do  Rio  de  Janeiro  para  o exercício  financeiro  de 2026; o Decreto n.º 50.102 de 14 de Janeiro de 2026, que estabelece normas de  programação e execução orçamentária,  financeira e contábil  para o  exercício financeiro  de  2026; e  o Decreto  nº 42.436,  de 30 de abril de 2010, que  dispõe sobre a Descentralização da Execução  de  Créditos Orçamentários,  e  o  que  consta no  processo  administrativo  nº  SEI-070002/006620/2026;
 
 ## R  E  S  O  LV  E  M  :
 
@@ -5365,19 +5350,19 @@ P.  T .   : 24.020.1.17.512.0494.1102  Saneamento Ambiental  nos Municípios  do
 
 ANO
 
--
-
 LII
 
 N
 
+-
+
 P ARTE
+
+I
 
 097
 
 -
-
-I
 
 -
 
@@ -5644,9 +5629,7 @@ Rio  de  Janeiro,  29  de  maio  de  2026
 
 ## CLÁUDIA OTÍLIA Presidente  CEDCA
 
-## CAPÍTULO I
-
-## INTRODUÇÃO
+## CAPÍTULO I INTRODUÇÃO
 
 Art.  1º  A  XIII  Conferência  Estadual  dos  Direitos  da  Criança  e  do Adolescente,  convocada  pela Deliberação  CEDCA  Nº  128 de  26  de fevereiro  de 2026,  realizar-se-á  no  período de fevereiro  a julho  de 2027 , tendo  como tema  central: 'Fortalecimento  do Sistema  de Garantia  de  Direitos  da  Criança  e do  Adolescente  e  a  Democracia  Participativa'. Parágrafo  Único  Instalada a  XIII Conferência Estadual dos Direitos da  Criança  e  do  Adolescente,  o  CEDCA-RJ  reunir-se-á,  extraordinariamente,  em  Assembleia  Permanente  até  o  seu  término.
 
@@ -5668,17 +5651,17 @@ Art.  4º  Os participantes da XIII Conferência Estadual dos Direitos da Crian�
 
 <!-- image -->
 
-DO
-
-DO
-
-ESTADO
-
 DE
 
 RIO
 
 JANEIRO
+
+DO
+
+DO
+
+ESTADO
 
 II. Crianças  e adolescentes,  assegurada a participação  mínima de 50%  do total  de participantes,  com direito  à voz  e protagonismo  em todas as  etapas da  Conferência. III. Somente poderão  ser Delegados e  Delegadas da  Etapa  Estadual  aqueles (as)  eleitos  (as) nas  Conferências  Regionais, assegurado  o  direito  à voz  e  voto,  nos termos  definidos pela  Comissão Organizadora  Estadual, não sendo  admitida a participação  na  Etapa  Estadual  sem prévia  participação  na  respectiva Etapa  Regional. I   V. Convidados  (as),  com direito  à  voz. V. Observadores(as),  com  participação  em  todas  as atividades  e  direito  à  voz restrito  aos  grupos  de  trabalho  dos  eixos  temáticos. VI. A  participação  deverá  assegurar a  diversidade  e  a  interseccionalidade,  com  inclusão  de  povos e  comunidades  tradicionais,  população negra,  meninas, população  LGBTQIAPN+,  pessoas  com deficiência  e neurodivergentes,  bem  como crianças  e  adolescentes  em situação  de vulnerabilidade  social. VII. A  Comissão  Organizadora  será  composta  de  forma  paritária  entre representantes  governamentais e  da  sociedade  civil, assegurada  a participação  de  adolescentes,  preferencialmente  oriundos  do  Comitê de  Participação de  Adolescentes (CPA),  e, sempre  que possível,  de crianças,  garantindo-se  acompanhamento  por  adultos  de  referência para  proteção  e  segurança.
 
@@ -5748,9 +5731,9 @@ o
 
 2
 
-DE
-
 JUNHO
+
+DE
 
 2026
 
@@ -5778,9 +5761,9 @@ Art.  14º -Os (as)  delegados  (as)  podem  propor  moções  que  deverão con
 
 Art. 15º Serão eleitos (as) 52 delegados (as) para a XIII Conferência Nacional,  obedecendo  os  seguintes  critérios: a) 10  Conselheiros  de  Direitos; b) 06  Conselheiros  Tutelares; c) 04  representantes  de  Movimentos  Sociais; d) 02  do  Sistema  de  Justiça; e) 03  Gestores/Servidores  de  Políticas  Públicas; f) 26  Adolescentes;
 
-## g)
-
 - 01  Fóruns  e  Redes
+
+## g)
 
 §  1º -O número de crianças  que serão  eleitas para  participar da  XIII Conferência  Nacional como  delegadas  será  definido pela  Comissão Organizadora  Estadual OBS.: Cabe ao Conselho Estadual dos Direitos da Criança e do Adolescente  do  Rio  de  Janeiro  definir,  dentro  desse  total  (26),  o  número específico  de  vagas que  será  destinado  para  crianças (até  12  anos incompletos)  e  para  adolescentes.
 
@@ -5862,7 +5845,9 @@ Id:  2739094
 
 ## Controladoria Geral do Estado
 
-## CONTROLADORIA GERAL DO ESTADO DESPACHO DO CONTROLADOR-GERAL DO ESTADO
+## CONTROLADORIA GERAL DO ESTADO
+
+## DESPACHO DO CONTROLADOR-GERAL DO ESTADO
 
 ## DE 27/05/2025
 
@@ -5934,9 +5919,7 @@ JANEIRO
 
 ## Resolução  Conjunta.
 
-Art.  3º  A  Comissão  de  Transição  Controle  de  Divisas  será  subdividida  em  4  (quatro)  Subgrupos  Temáticos: I  Subgrupo  de  Contratos; II  Subgrupo  de  Patrimônio; III  Subgrupo  de  Pessoal; IV  Subgrupo  de  Orçamento. §  1º  Cada Subgrupo será  composto por 2 (dois) servidores, observada  a  composição  paritária,  contendo: I  1  (um)  representante  da  SECC; II  1  (um)  representante  do  GSI. §  2º -Os  Subgrupos Temáticos  poderão  requisitar informações,  documentos, processos  administrativos e  apoio técnico às  unidades administrativas  envolvidas  na  transição. Art.  4º  Compete à Comissão de Transição  Controle  de  Divisas: I  realizar levantamento técnico, administrativo,  patrimonial, contratual e  funcional  relacionado  à  Subsecretaria Especial  de  Controle  de  Divisas; II  identificar  riscos  operacionais,  jurídicos,  administrativos  e  orçamentários  relacionados  à  transição; III -propor  medidas necessárias  à  continuidade dos  serviços e  da execução  administrativa; IV  propor  cronograma  de  implementação  das  medidas  de  transição; V  subsidiar tecnicamente  os órgãos  competentes quanto  à adoção das medidas  administrativas necessárias à efetivação  da reorganização  estrutural; VI  elaborar relatório  conclusivo contendo diagnóstico, medidas recomendadas, cronograma  e providências necessárias à  efetivação da transição  administrativa. Art.  5º  O relatório  conclusivo  da  Comissão de Transição Controle de Divisas deverá ser apresentado no prazo de até 15 (quinze) dias, contados  da  publicação  desta  Resolução  Conjunta. §  1º  O prazo previsto no caput poderá ser prorrogado, mediante justificativa  fundamentada e  aprovação  conjunta dos  titulares das  pastas envolvidas. §  2º  O  relatório  conclusivo  será  submetido  à  aprovação  do  Secretário  de  Estado  da  Casa  Civil  e do  Secretário  do  Gabinete  de  Segurança  Institucional. §  3º  O relatório  aprovado subsidiará os procedimentos administrativos  necessários  à  efetivação  das medidas  recomendadas  pela  Co-
-
-- missão.
+Art.  3º  A  Comissão  de  Transição  Controle  de  Divisas  será  subdividida  em  4  (quatro)  Subgrupos  Temáticos: I  Subgrupo  de  Contratos; II  Subgrupo  de  Patrimônio; III  Subgrupo  de  Pessoal; IV  Subgrupo  de  Orçamento. §  1º  Cada Subgrupo será  composto por 2 (dois) servidores, observada  a  composição  paritária,  contendo: I  1  (um)  representante  da  SECC; II  1  (um)  representante  do  GSI. §  2º -Os  Subgrupos Temáticos  poderão  requisitar informações,  documentos, processos  administrativos e  apoio técnico às  unidades administrativas  envolvidas  na  transição. Art.  4º  Compete à Comissão de Transição  Controle  de  Divisas: I  realizar levantamento técnico, administrativo,  patrimonial, contratual e  funcional  relacionado  à  Subsecretaria Especial  de  Controle  de  Divisas; II  identificar  riscos  operacionais,  jurídicos,  administrativos  e  orçamentários  relacionados  à  transição; III -propor  medidas necessárias  à  continuidade dos  serviços e  da execução  administrativa; IV  propor  cronograma  de  implementação  das  medidas  de  transição; V  subsidiar tecnicamente  os órgãos  competentes quanto  à adoção das medidas  administrativas necessárias à efetivação  da reorganização  estrutural; VI  elaborar relatório  conclusivo contendo diagnóstico, medidas recomendadas, cronograma  e providências necessárias à  efetivação da transição  administrativa. Art.  5º  O relatório  conclusivo  da  Comissão de Transição Controle de Divisas deverá ser apresentado no prazo de até 15 (quinze) dias, contados  da  publicação  desta  Resolução  Conjunta. §  1º  O prazo previsto no caput poderá ser prorrogado, mediante justificativa  fundamentada e  aprovação  conjunta dos  titulares das  pastas envolvidas. §  2º  O  relatório  conclusivo  será  submetido  à  aprovação  do  Secretário  de  Estado  da  Casa  Civil  e do  Secretário  do  Gabinete  de  Segurança  Institucional. §  3º  O relatório  aprovado subsidiará os procedimentos administrativos  necessários  à  efetivação  das medidas  recomendadas  pela  Comissão.
 
 ## CAPÍTULO II
 
@@ -5948,7 +5931,7 @@ Art. 6º  Ficam estabelecidas  as seguintes obrigações  recíprocas entre  as 
 
 Art.  7º -Fica  formalizada a  transferência da  gestão,  da execução  administrativa finalística,  da fiscalização e da  responsabilidade operacional da Subsecretaria Especial de  Controle de Divisas, da Secretaria de  Estado  da  Casa  Civil  -  SECC,  para  o  Gabinete  de  Segurança  Institucional -  GSI, em  decorrência da reorganização  administrativa promovida  pelo  Decreto  Estadual  nº  50.280/2026, a  contar  de  01  de  junho  de  2026. Parágrafo Único  Os  contratos administrativos  exclusivos e  de natureza  compartilhada, divisível  ou multifinalística  poderão permanecer, parcialmente,  sob gestão  da Secretaria  de Estado  da Casa  Civil -SECC, observados  mecanismos de segregação de  despesas, rastreabilidade  da execução,  controle de  consumo e  cooperação administrativa  entre  os  órgãos  envolvidos. Art. 8º  A partir  da efetivação da transferência  administrativa dos contratos,  de  que trata  o  caput  do artigo  7º,  caberá  ao Gabinete  de Segurança  Institucional: I  exercer  a  gestão  e a  fiscalização  contratual  dos  instrumentos  que lhe  forem  transferidos; II  designar  gestores  e  fiscais  de  contratos; III -promover  atos de  execução contratual,  inclusive prorrogações, reajustes, repactuações, revisões e alterações contratualmente e legalmente  admitidas; IV  proceder  à  liquidação  e  ao  pagamento  das  despesas; V  instaurar e conduzir procedimentos  sancionatórios eventualmente cabíveis; VI  assegurar  a  adequada  instrução processual  e  a  observância  das normas  legais  aplicáveis. Parágrafo Único Na hipótese do parágrafo único do art. 7º, as competências de que trata o caput deste artigo serão exercidas de acordo com a solução dada para cada contrato,  a  ser  formalmente  registrada no instrumento,  mediante apostilamento, caso não  caracterize alteração  do  instrumento. Art.  9º -  Permanecem  sob responsabilidade  da  Secretaria de  Estado da Casa  Civil -  SECC os  atos administrativos,  as liquidações,  os pagamentos, as fiscalizações e  os demais procedimentos praticados até a  data  da  efetiva  transferência  administrativa de  cada  contrato  ou  do fato  gerador  que  tenha  gerado  a  obrigação,  nos  casos  de  inexistência de  contrato. Art.  10  Os  contratos  abrangidos  por  esta  Resolução  Conjunta  serão relacionados no Relatório Conclusivo  da Comissão de Transição Controle de  Divisas, com  indicação dos instrumentos  contratuais submetidos  à  transferência  administrativa  integral ou  à  gestão  transitória compartilhada. Art. 11  Os  processos administrativos  relacionados aos  contratos deverão ser  disponibilizados integralmente ao Gabinete  de Segurança Institucional -  GSI, assegurando-se a continuidade  administrativa, a rastreabilidade  dos  atos  e  a  transparência  da  execução  contratual. Art.  12 -A  alteração  da gestão  administrativa  e  financeira dos  contratos  deverá  ser formalmente  comunicada  aos  contratados, não  implicando  modificação  das  condições  originalmente  pactuadas,  devendo ser formalizada mediante apostilamento, na  forma do artigo 65, § 8º, da Lei  Federal nº 8.666/93, e  do artigo 136, da  Lei Federal nº
 
-- 14.133/21,  caso  não  caracterize  alteração  do  contrato.
+14.133/21,  caso  não  caracterize  alteração  do  contrato.
 
 ## CAPÍTULO IV DAS DISPOSIÇÕES FINAIS
 
@@ -6027,15 +6010,15 @@ Rio  de  Janeiro,  01  de  junho  de  2026
 
 ## ANA MARGARETH MOREIRA MENDES COSENZA Ordenadora  de  Despesas
 
-DO
-
 DE
-
-RIO
 
 DO
 
 ESTADO
+
+DO
+
+RIO
 
 JANEIRO
 
@@ -6047,12 +6030,14 @@ MODELO DE RELATÓRIO DA COMISSÃO DE GESTÃO, ACOMPANHAMENTO E FISCALIZAÇÃO DE
 
 ## 1.  INTRODUÇÃO
 
-O  presente  relatório foi  elaborado  pela  Comissão de  Gestão,  Acompanhamento  e  Fiscalização designada  através  da  Portaria nº  {NÚMERO/ANO} de {XX de XXXXX de 20XX} para, no âmbito do Contrato nº {NÚMERO/ANO},  firmado entre  o  GABINETE  DE SEGURANÇA  INSTITUCIONAL, doravante  denominado CONTRATANTE e  {informar o nome da Contratada},  CNPJ  nº [...],  doravante denominada  CONTRATADA,  GERIR,  ACOMPANHAR  e  FISCALIZAR  a  execução  do  objeto contratual,  qual  seja,  {Informar  o  objeto  conforme  Contrato},  cujo  período  de  vigência  é  de  {DIA/MÊS/ANO  até  DIA/MÊS/ANO}.
+- O  presente  relatório foi  elaborado  pela  Comissão de  Gestão,  Acompanhamento  e  Fiscalização designada  através  da  Portaria nº  {NÚMERO/ANO} de {XX de XXXXX de 20XX} para, no âmbito do Contrato nº {NÚMERO/ANO},  firmado entre  o  GABINETE  DE SEGURANÇA  INSTITUCIONAL, doravante  denominado CONTRATANTE e  {informar o nome da Contratada},  CNPJ  nº [...],  doravante denominada  CONTRATADA,  GERIR,  ACOMPANHAR  e  FISCALIZAR  a  execução  do  objeto contratual,  qual  seja,  {Informar  o  objeto  conforme  Contrato},  cujo  período  de  vigência  é  de  {DIA/MÊS/ANO  até  DIA/MÊS/ANO}.
 
 ## 2.  DESENVOLVIMENTO (EXECUÇÃO DO CONTRATO)
 
 - O  presente  relatório se  refere  ao  acompanhamento e  fiscalização  da execução do contrato durante o mês  de {MÊS/ANO} e tem como objetivo ATESTAR  a execução da  respectiva etapa contratual  e aprovar o  encaminhamento do  processo  para  o pagamento  da  Nota Fiscal  nº [...], referente à competência  {MÊS/ANO}, apresentada como anexo a este  Relatório,  fls.  {link  do  documento  no  SEI}.
-- 2.1.  Registro  de  Ocorrências
+
+## 2.1.  Registro  de  Ocorrências
+
 - Durante  a execução  do contrato,  esta comissão,  através de  seu Gestor e Fiscais, identificou as  seguintes ocorrências que julgamos pertinente  apontar:
 - {A  comissão  deverá  descrever  as ocorrências  pertinentes  que  afetem a  execução  do  objeto  do  contrato}
 
@@ -6078,11 +6063,7 @@ R$
 
 ## 3.  CONCLUSÃO
 
-Saldo  a  Executar
-
-R$
-
-## Saldo  Pago
+## Saldo  Liquidado
 
 R$
 
@@ -6090,7 +6071,11 @@ R$
 
 R$
 
-## Saldo  Liquidado
+Saldo  Pago
+
+R$
+
+Saldo  a  Executar
 
 R$
 
@@ -6122,7 +6107,9 @@ PORTARIA PRODERJ/PRE Nº 1.454 DE 01 DE JUNHO DE 2026
 
 INSTITUI COMISSÃO PARA ACOMPANHAMENTO DAS  ETAPAS POSTERIORES  À HOMOLOGAÇÃO  DO  RESULTADO FINAL  DO CONCURSO PÚBLICO  PARA PROVIMENTO DE VAGAS NO  QUADRO PERMANENTE DE PESSOAL DO  CENTRO DE  TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO - PRODERJ.
 
-O  PRESIDENTE  INTERINO DO  CENTRO  DE  TECNOLOGIA DE  INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO, INTERINO, no  uso  de  suas  atribuições  legais  conferidas  pelos  incisos I, III  e V do art.  72 do Regimento Interno  do PRODERJ, aprovado pela  Resolução  SETD n.º 42, de 21 de maio de 2024, e pelo Decreto n.º 47.278, de  17 de setembro de 2020, alterado  pelo Decreto nº 48.997, de  05 de março  de 2024, e tendo  em vista o  constante dos autos  do  processo  nº  SEI-430002/002392/2023.
+O  PRESIDENTE  INTERINO DO  CENTRO  DE  TECNOLOGIA DE  INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO, INTERINO, no  uso  de  suas  atribuições  legais  conferidas  pelos  incisos I, III  e V do art.  72 do Regimento Interno  do PRODERJ, aprovado pela  Resolução  SETD n.º 42, de 21 de maio de 2024, e pelo Decreto n.º 47.278, de  17 de setembro de 2020, alterado  pelo Decreto nº 48.997, de  05 de março  de 2024, e tendo  em vista o  constante dos
+
+autos  do  processo  nº  SEI-430002/002392/2023.
 
 ## R  E  S  O  LV  E  :
 
@@ -6229,7 +6216,7 @@ Id:  2729855
 
 SECRETARIA DE ESTADO DE INFRAESTRUTURA E  OBRAS PÚBLICAS INSTITUTO DE TERRAS E CARTOGRAFIA DO ESTADO DO RIO DE JANEIRO
 
-## ATO DO PRESIDENTE
+ATO DO PRESIDENTE
 
 PORTARIA ITERJ Nº 367 DE 26 DE MAIO DE 2026
 
@@ -6249,8 +6236,7 @@ Art.  1ºO auxílio-alimentação/refeição  é  benefício  de  caráter  assi
 §  1º  Será  devido  o  benefício de  que  trata  a presente  portaria  ao servidor  cedido  a  este  Instituto  que  não  perceba  benefício  semelhante no  órgão  de  origem.
 
 - §  2º -  Na hipótese  de  existência de  benefício semelhante  em seu  órgão  de  origem,  o  servidor  cedido  poderá  optar  pela  percepção  de  auxílio-alimentação/refeição  neste  Instituto.
-
-Art.  2ºA concessão  do  auxílio-alimentação/refeição  será devida  a contar do dia  em que o servidor entrar  em exercício, calculando-se proporcionalmente  os  dias  trabalhados.
+- Art.  2ºA concessão  do  auxílio-alimentação/refeição  será devida  a contar do dia  em que o servidor entrar  em exercício, calculando-se proporcionalmente  os  dias  trabalhados.
 
 Art.  3º  O auxílio-alimentação/refeição  será  suspenso:
 
@@ -6999,1039 +6985,21 @@ O DEPARTAMENTO DE  TRÂNSITO DO  ESTADO DO  RIO DE  JANEIRO -  DETRAN/RJ , depoi
 
 00101334190, pts. 42;CNH nº 00597370364, pts. 40;CNH nº 04406100061, pts. 43;CNH nº 04441181640, pts. 21;CNH nº 07489811600, pts. 46;CNH nº 05581596772, pts. 36;CNH nº 00059996845, pts. 40;CNH nº 04908334544, pts. 28;CNH nº 05026360029, pts. 21;CNH nº 04908334544, pts. 28;CNH nº 03107766581, pts. 28;CNH nº 00171816686, pts. 47;CNH nº 06708658168, pts. 28;CNH nº 03569927752, pts. 28;CNH nº 04477239512, pts. 28;CNH nº 04908334544, pts. 28;CNH nº 07163920466, pts. 37;CNH nº 03569927752, pts. 28;CNH nº 00465290800, pts. 42;CNH nº 00578829853, pts. 29;CNH nº 04908334544, pts. 28;CNH nº 03107766581, pts. 28;CNH nº 03569927752, pts. 28;CNH nº 06708658168, pts. 28;CNH nº 02843535077, pts. 55;CNH nº 01801576673, pts. 42;CNH nº 01397463704, pts. 45;CNH nº 03877607197, pts. 27;CNH nº 02875559491, pts. 43;CNH nº 05132838003, pts. 23;CNH nº 02315251059, pts. 41;CNH nº 02585151240, pts. 44;CNH nº 00578829853, pts. 35;CNH nº 04908334544, pts. 28;CNH nº 03107766581, pts. 28;CNH nº 06762778651, pts. 41;CNH nº 03569927752, pts. 28;CNH nº 06708658168, pts. 28;CNH nº 06496250308, pts. 53;CNH nº 03712491467, pts. 23;CNH nº 07203449654, pts. 47;CNH nº 01359444851, pts. 42;CNH nº 00542214220, pts. 26;CNH nº 00228867533, pts. 22;CNH nº 04908334544, pts. 28;CNH nº 03107766581, pts. 39;CNH nº 03569927752, pts. 28;CNH nº 06708658168, pts. 28;CNH nº 00320762616, pts. 40;CNH nº 05776441597, pts. 25;CNH nº 04908334544, pts. 29;CNH nº 03569927752, pts. 29;CNH nº 06708658168, pts. 28;CNH nº 05696732647, pts. 42;CNH nº 04477239512, pts. 21;CNH nº 01220489700, pts. 23;CNH nº 00222697466, pts. 52;CNH nº 00802748230, pts. 44;CNH nº 06708658168, pts. 28;CNH nº 03569927752, pts. 28;CNH nº 04879990730, pts. 31;CNH nº 00333891494, pts. 26;CNH nº 00992230017, pts. 43;CNH nº 06423632412, pts. 35;CNH nº 00062086380, pts. 23;CNH nº 03645248417, pts. 44;CNH nº 00027117249, pts. 42;CNH nº 03569927752, pts. 55;CNH nº 06708658168, pts. 28;CNH nº 00293180900, pts. 33;CNH nº 00135149622, pts. 42;CNH nº 00565127981, pts. 57;CNH nº 03691886068, pts. 41;CNH nº 03569927752, pts. 27;CNH nº 00180710097, pts. 40;CNH nº 06708658168, pts. 27;CNH nº 00626682815, pts. 41;CNH nº 07177170220, pts. 22;CNH nº
 
-05535632564,
-
-05270836616,
-
-01400835327,
-
-06708658168,
-
-06589992459,
-
-06708658168,
-
-00215515904,
-
-00047937419,
-
-03869200150,
-
-03594304547,
-
-00149366301,
-
-04889558450,
-
-06165515393,
-
-01270811247,
-
-05952504725,
-
-00177597350,
-
-06708658168,
-
-01921662683,
-
-05505303633,
-
-02486981197,
-
-03684243833,
-
-06732381536,
-
-05687815230,
-
-00804168485,
-
-05200353762,
-
-01310785865,
-
-00390307688,
-
-03932195797,
-
-06938946640,
-
-00231165366,
-
-04477239512,
-
-06708658168,
-
-00230498142,
-
-02905307205,
-
-04001944821,
-
-02794723802,
-
-07608375388,
-
-00440416068,
-
-04879990730,
-
-00268558316,
-
-03550344992,
-
-06708658168,
-
-07608375388,
-
-02271746301,
-
-00504586014,
-
-00345621363,
-
-03033514111,
-
-07608375388,
-
-06466884634,
-
-06829162226,
-
-05551504289,
-
-06602689567,
-
-05782068829,
-
-00135082904,
-
-04595062805,
-
-06356443319,
-
-00477576701,
-
-00448724465,
-
-04554368640,
-
-06371277713,
-
-00455169356,
-
-05535632564,
-
-01073261823,
-
-00230017497, pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-32;CNH
-
-21;CNH
-
-26;CNH
-
-40;CNH
-
-37;CNH
-
-21;CNH
-
-23;CNH
-
-32;CNH
-
-55;CNH
-
-42;CNH
-
-29;CNH
-
-41;CNH
-
-42;CNH
-
-40;CNH
-
-21;CNH
-
-55;CNH
-
-21;CNH
-
-33;CNH
-
-46;CNH
-
-22;CNH
-
-40;CNH
-
-28;CNH
-
-22;CNH
-
-40;CNH
-
-35;CNH
-
-33;CNH
-
-31;CNH
-
-44;CNH
-
-41;CNH
-
-25;CNH
-
-28;CNH
-
-36;CNH
-
-41;CNH
-
-31;CNH
-
-23;CNH
-
-42;CNH
-
-30;CNH
-
-42;CNH
-
-40;CNH
-
-26;CNH
-
-21;CNH
-
-70;CNH
-
-21;CNH
-
-44;CNH
-
-28;CNH
-
-22;CNH
-
-40;CNH
-
-33;CNH
-
-36;CNH
-
-31;CNH
-
-26;CNH
-
-25;CNH
-
-38;CNH
-
-32;CNH
-
-39;CNH
-
-39;CNH
-
-29;CNH
-
-43;CNH
-
-28;CNH
-
-37;CNH
-
-23;CNH
-
-27;CNH
-
-28;CNH
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-nº
-
-06423632412,
-
-00089111030,
-
-04053672500,
-
-00322831095,
-
-06654807215,
-
-04477239512,
-
-01383597323,
-
-01068816761,
-
-04387512095,
-
-00163655963,
-
-00026732408,
-
-00567855865,
-
-07050838661,
-
-04150032279,
-
-04062646493,
-
-00666382715,
-
-01400835327,
-
-03104203767,
-
-00639610116,
-
-04477239512,
-
-00180710097,
-
-05608557403,
-
-00331851057,
-
-05123228820,
-
-02501974330,
-
-00804168485,
-
-05789079678,
-
-00036597002,
-
-05796401156,
-
-00012564078,
-
-02794723802,
-
-05305687604,
-
-06556209155,
-
-07091078869,
-
-01654215884,
-
-02224747394,
-
-06135577876,
-
-01474068338,
-
-02567825603,
-
-00192082778,
-
-00065693960,
-
-01474068338,
-
-00113268605,
-
-06540115703,
-
-02794723802,
-
-06081440740,
-
-04908381859,
-
-00375822755,
-
-00042695846,
-
-07091078869,
-
-03020100952,
-
-00740297013,
-
-00414801447,
-
-00338850719,
-
-00310417494,
-
-05863992490,
-
-06884236800,
-
-01076368274,
-
-00075722948,
-
-05682549708,
-
-06200506409,
-
-00856672669,
-
-04464289891,
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-44;CNH
-
-33;CNH
-
-25;CNH
-
-28;CNH
-
-21;CNH
-
-28;CNH
-
-22;CNH
-
-32;CNH
-
-28;CNH
-
-40;CNH
-
-22;CNH
-
-36;CNH
-
-43;CNH
-
-77;CNH
-
-49;CNH
-
-22;CNH
-
-28;CNH
-
-23;CNH
-
-26;CNH
-
-48;CNH
-
-33;CNH
-
-22;CNH
-
-53;CNH
-
-26;CNH
-
-32;CNH
-
-26;CNH
-
-53;CNH
-
-24;CNH
-
-45;CNH
-
-22;CNH
-
-28;CNH
-
-28;CNH
-
-26;CNH
-
-33;CNH
-
-41;CNH
-
-28;CNH
-
-53;CNH
-
-54;CNH
-
-36;CNH
-
-40;CNH
-
-21;CNH
-
-28;CNH
-
-43;CNH
-
-22;CNH
-
-22;CNH
-
-33;CNH
-
-47;CNH
-
-74;CNH
-
-28;CNH
-
-34;CNH
-
-45;CNH
-
-22;CNH
-
-23;CNH
-
-53;CNH
-
-36;CNH
-
-42;CNH
-
-52;CNH
-
-26;CNH
-
-23;CNH
-
-48;CNH
-
-54;CNH
-
-37;CNH
-
-28;CNH
-
-23;CNH
-
-05422510365,
-
-nº
-
-27;CNH
-
-nº
+05535632564, pts. 44;CNH nº 06423632412, pts. 32;CNH nº 05270836616, pts. 33;CNH nº 00089111030, pts. 21;CNH nº 01400835327, pts. 25;CNH nº 04053672500, pts. 26;CNH nº 06708658168, pts. 28;CNH nº 00322831095, pts. 40;CNH nº 06589992459, pts. 21;CNH nº 06654807215, pts. 37;CNH nº 06708658168, pts. 28;CNH nº 04477239512, pts. 21;CNH nº 00215515904, pts. 22;CNH nº 01383597323, pts. 23;CNH nº 00047937419, pts. 32;CNH nº 01068816761, pts. 32;CNH nº 03869200150, pts. 28;CNH nº 04387512095, pts. 55;CNH nº 03594304547, pts. 40;CNH nº 00163655963, pts. 42;CNH nº 00149366301, pts. 22;CNH nº 00026732408, pts. 29;CNH nº 04889558450, pts. 36;CNH nº 00567855865, pts. 41;CNH nº 06165515393, pts. 43;CNH nº 07050838661, pts. 42;CNH nº 01270811247, pts. 77;CNH nº 04150032279, pts. 40;CNH nº 05952504725, pts. 49;CNH nº 04062646493, pts. 21;CNH nº 00177597350, pts. 22;CNH nº 00666382715, pts. 55;CNH nº 06708658168, pts. 28;CNH nº 01400835327, pts. 21;CNH nº 01921662683, pts. 23;CNH nº 03104203767, pts. 33;CNH nº 05505303633, pts. 26;CNH nº 00639610116, pts. 46;CNH nº 02486981197, pts. 48;CNH nº 04477239512, pts. 22;CNH nº 03684243833, pts. 33;CNH nº 00180710097, pts. 40;CNH nº 06732381536, pts. 22;CNH nº 05608557403, pts. 28;CNH nº 05687815230, pts. 53;CNH nº 00331851057, pts. 22;CNH nº 00804168485, pts. 26;CNH nº 05123228820, pts. 40;CNH nº 05200353762, pts. 32;CNH nº 02501974330, pts. 35;CNH nº 01310785865, pts. 26;CNH nº 00804168485, pts. 33;CNH nº 00390307688, pts. 53;CNH nº 05789079678, pts. 31;CNH nº 03932195797, pts. 24;CNH nº 00036597002, pts. 44;CNH nº 06938946640, pts. 45;CNH nº 05796401156, pts. 41;CNH nº 00231165366, pts. 22;CNH nº 00012564078, pts. 25;CNH nº 04477239512, pts. 28;CNH nº 02794723802, pts. 28;CNH nº 06708658168, pts. 28;CNH nº 05305687604, pts. 36;CNH nº 00230498142, pts. 26;CNH nº 06556209155, pts. 41;CNH nº 02905307205, pts. 33;CNH nº 07091078869, pts. 31;CNH nº 04001944821, pts. 41;CNH nº 01654215884, pts. 23;CNH nº 02794723802, pts. 28;CNH nº 02224747394, pts. 42;CNH nº 07608375388, pts. 53;CNH nº 06135577876, pts. 30;CNH nº 00440416068, pts. 54;CNH nº 01474068338, pts. 42;CNH nº 04879990730, pts. 36;CNH nº 02567825603, pts. 40;CNH nº 00268558316, pts. 40;CNH nº 00192082778, pts. 26;CNH nº 03550344992, pts. 21;CNH nº 00065693960, pts. 21;CNH nº 06708658168, pts. 28;CNH nº 01474068338, pts. 70;CNH nº 07608375388, pts. 43;CNH nº 00113268605, pts. 21;CNH nº 02271746301, pts. 22;CNH nº 06540115703, pts. 44;CNH nº 00504586014, pts. 22;CNH nº 02794723802, pts. 28;CNH nº 00345621363, pts. 33;CNH nº 06081440740, pts. 22;CNH nº 03033514111, pts. 47;CNH nº 04908381859, pts. 40;CNH nº 07608375388, pts. 74;CNH nº 00375822755, pts. 33;CNH nº 06466884634, pts. 28;CNH nº 00042695846, pts. 36;CNH nº 06829162226, pts. 34;CNH nº 07091078869, pts. 31;CNH nº 05551504289, pts. 45;CNH nº 03020100952, pts. 26;CNH nº 06602689567, pts. 22;CNH nº 00740297013, pts. 25;CNH nº 05782068829, pts. 23;CNH nº 00414801447, pts. 38;CNH nº 00135082904, pts. 53;CNH nº 00338850719, pts. 32;CNH nº 04595062805, pts. 36;CNH nº 00310417494, pts. 39;CNH nº 06356443319, pts. 42;CNH nº 05863992490, pts. 39;CNH nº 00477576701, pts. 52;CNH nº 06884236800, pts. 29;CNH nº 00448724465, pts. 26;CNH nº 01076368274, pts. 43;CNH nº 04554368640, pts. 23;CNH nº 00075722948, pts. 28;CNH nº 06371277713, pts. 48;CNH nº 05682549708, pts. 37;CNH nº 00455169356, pts. 54;CNH nº 06200506409, pts. 23;CNH nº 05535632564, pts. 37;CNH nº 00856672669, pts. 27;CNH nº 01073261823, pts. 28;CNH nº 04464289891, pts. 28;CNH nº 00230017497, pts. 23;CNH nº 05422510365, pts. 27;CNH nº
 
 ## 00584988580,  pts. 21;CNH  nº 03495695491,  pts. 21. PROCESSO Nº SEI-150016/102364/2026.
 
-O DEPARTAMENTO DE  TRÂNSITO DO  ESTADO DO  RIO DE  JANEIRO -  DETRAN/RJ , depois de  esgotadas todas as  tentativas de ciência por meio  de Notificação via remessa postal (art.  23 da Resolução  CONTRAN nº 723/2018)  NOTIFICA  os  condutores,  abaixo  relacionados, para torná-los  ciente da imposição da  penalidade de Suspensão  do Exercício  do Direito  de Dirigir,  e a  obrigatoriedade de  frequência  e aprovação  em Curso  de Reciclagem  (CRCI), em  face de terem  alcançado  20 (vinte)  pontos  ou  mais,  ou cujas  infrações  preveem,  de forma  específica, a  penalidade de  Suspensão do  Direito de Dirigir,  conforme detalhado  na Notificação  de Autuação  recebida, em razão do que dispõe o artigo 3, da Resolução  CONTRAN  n. 723/2018. Esta assegurado ao condutor  o Exercício do Direito fundamental  ao  contraditório  e  a  ampla  defesa,  extraído  do  artigo  5º,  inciso LV  da CRFB,  podendo V.Sª  apresentar  RECURSO A  JARI perante  a CENTRAL DE MULTAS E RECURSOS  / ACESSO 04 - AV. PRESIDENTE  VARGAS, 817,  CENTRO-RJ, via internet através  do site www.detran.rj.gov.br ou ainda  nas CIRETRANS, no prazo  de até 30 (trinta)  dias (artigo  288  do  Código de  Trânsito  Brasileiro)  a contar  da data de  publicação do  presente Diário  Oficial. CNH  nº 04714044404, pts.  22;CNH nº  03669951466, pts.  27;CNH nº  04558674583, pts. 46;CNH nº  05376539269, pts. 36;CNH nº  01177928956, pts. 33;CNH nº 06884236034, pts. 21;CNH nº 05581596772, pts. 30;CNH nº
+O DEPARTAMENTO DE  TRÂNSITO DO  ESTADO DO  RIO DE  JANEIRO -  DETRAN/RJ , depois de  esgotadas todas as  tentativas de ciência por meio  de Notificação via remessa postal (art.  23 da Resolução  CONTRAN nº 723/2018)  NOTIFICA  os  condutores,  abaixo  relacionados, para torná-los  ciente da imposição da  penalidade de Suspensão  do Exercício  do Direito  de Dirigir,  e a  obrigatoriedade de  frequência  e aprovação  em Curso  de Reciclagem  (CRCI), em  face de terem  alcançado  20 (vinte)  pontos  ou  mais,  ou cujas  infrações  preveem,  de forma  específica, a  penalidade de  Suspensão do  Direito de Dirigir,  conforme detalhado  na Notificação  de Autuação  recebida, em razão do que dispõe o artigo 3, da Resolução  CONTRAN  n. 723/2018. Esta assegurado ao condutor  o Exercício do Direito fundamental  ao  contraditório  e  a  ampla  defesa,  extraído  do  artigo  5º,  inciso LV  da CRFB,  podendo V.Sª  apresentar  RECURSO A  JARI perante  a CENTRAL DE MULTAS E RECURSOS  / ACESSO 04 - AV. PRESIDENTE  VARGAS, 817,  CENTRO-RJ, via internet através  do site www.detran.rj.gov.br ou ainda  nas CIRETRANS, no prazo  de até 30 (trinta)  dias (artigo  288  do  Código de  Trânsito  Brasileiro)  a contar  da data de  publicação do  presente Diário  Oficial. CNH  nº 04714044404, pts.  22;CNH nº  03669951466, pts.  27;CNH nº  04558674583, pts. 46;CNH nº  05376539269, pts. 36;CNH nº  01177928956, pts. 33;CNH
+
+nº 06884236034, pts. 21;CNH nº 05581596772, pts. 30;CNH nº
 
 04313939930, pts. 21;CNH nº 00681076510, pts. 21;CNH nº 02881455787, pts. 21;CNH nº 00233269035, pts. 21;CNH nº 00103431163, pts. 21;CNH nº 04053985703, pts. 22;CNH nº 04613280398, pts. 40;CNH nº 05482828151, pts. 46;CNH nº 01917850382, pts. 29;CNH nº 00331854225, pts. 23;CNH nº 00208169288, pts. 25;CNH nº 05324190360, pts. 32;CNH nº 06046496801, pts. 31;CNH nº 00212823087, pts. 23;CNH nº 00847232927, pts. 28;CNH nº 01962590000, pts. 23;CNH nº 03788603929, pts. 28;CNH nº 00028880099, pts. 43;CNH nº 04908334544, pts. 28;CNH nº 07163920466, pts. 26;CNH nº 05061741460, pts. 42;CNH nº 04053672500, pts. 26;CNH nº 04632578270, pts. 34;CNH nº 00140599410, pts. 57;CNH nº 00155857798, pts. 22;CNH nº 00625675904, pts. 26;CNH nº 05743068967, pts. 50;CNH nº 00216936520, pts. 32;CNH nº 03714372377, pts. 49;CNH nº 01380325173, pts. 40;CNH nº 02035893706, pts. 53;CNH nº 00119775950, pts. 28;CNH nº 00499649491, pts. 33;CNH nº 00378153845, pts. 26;CNH nº 00368853958, pts. 40;CNH nº 00542105943, pts. 43;CNH nº 02153335778, pts. 30;CNH nº 01081675835, pts. 21;CNH nº 07278454594, pts. 41;CNH nº 00333891494, pts. 32;CNH nº 03206352660, pts. 34;CNH nº 05395372894, pts. 23;CNH nº 06289008281, pts. 24;CNH nº 00151901708, pts. 28;CNH nº 03955129380, pts. 31;CNH nº 04126452720, pts. 22;CNH nº 00146102251, pts. 26;CNH nº 06797789699, pts. 29;CNH nº 04908334544, pts. 28;CNH nº 05581596772, pts. 39;CNH nº 04053672500, pts. 26;CNH nº 04619790044, pts. 40;CNH nº 00295845704, pts. 23;CNH nº 03714372377, pts. 42;CNH nº 04526128583, pts. 21;CNH nº 06910805717, pts. 41;CNH nº 04908334544, pts. 28;CNH nº 04053672500, pts. 35;CNH nº 00378153845, pts. 43;CNH nº 04406100061, pts. 46;CNH nº 04908334544, pts. 28;CNH nº 00545880743, pts. 35;CNH nº 04053672500, pts. 27;CNH nº 04908334544, pts. 28;CNH nº 04053672500, pts. 32;CNH nº 05879298034, pts. 21;CNH nº 07375875535, pts. 42;CNH nº 06708658168, pts. 28;CNH nº 06175573603, pts. 41;CNH nº 05408702412, pts. 44;CNH nº 05696732647, pts. 50;CNH nº 03139554383, pts. 41;CNH nº 00077561189, pts. 23;CNH nº 06862021928, pts. 41;CNH nº 00153248226, pts. 21;CNH nº 00875204620, pts. 28;CNH nº 00317131449, pts. 22;CNH nº 04786863408, pts. 45;CNH nº 06951364858, pts. 41;CNH nº 07520858677, pts. 30;CNH nº 00122740476, pts. 21;CNH nº 06128195057, pts. 29;CNH nº 03569927752,  pts. 27;CNH  nº 06653386303,  art. 244  INC I;CNH  nº 06894866530, pts. 28;CNH nº 05196202667, pts. 33;CNH nº 06708658168, pts. 26;CNH nº 05338407068, pts. 54;CNH nº 06680610114, pts. 26;CNH nº 06086745559, pts. 22;CNH nº 01475902556, pts. 33;CNH nº 05952504725, pts. 41;CNH nº 04124995127, pts. 22;CNH nº 05623808363, pts. 21;CNH nº 04183353141, pts. 21;CNH nº 00052399311, pts. 28;CNH nº 00574149545, pts. 27;CNH nº 00373060960, pts. 41;CNH nº
 
 <!-- image -->
 
-RIO
-
 DO
+
+RIO
 
 DO
 
@@ -8049,9 +7017,9 @@ nº
 
 nº
 
-26;CNH
-
 06978418209,
+
+26;CNH
 
 07053224244,
 
@@ -8081,31 +7049,33 @@ pts.
 
 03210994169,
 
-05631284130, pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
-
-pts.
+05631284130,
 
 26;CNH
+
+pts.
+
+pts.
+
+pts.
+
+pts.
+
+pts.
+
+pts.
+
+pts.
+
+pts.
+
+pts.
+
+pts.
+
+pts.
+
+pts.
 
 nº
 
@@ -9255,9 +8225,9 @@ O DEPARTAMENTO DE  TRÂNSITO DO  ESTADO DO  RIO DE  JANEIRO -  DETRAN/RJ , depoi
 
 <!-- image -->
 
-DO
-
 RIO
+
+DO
 
 ESTADO
 
@@ -10627,9 +9597,9 @@ O DEPARTAMENTO DE  TRÂNSITO DO  ESTADO DO  RIO DE  JANEIRO -  DETRAN/RJ , depoi
 
 O DEPARTAMENTO DE  TRÂNSITO DO  ESTADO DO  RIO DE  JANEIRO -  DETRAN/RJ , depois de  esgotadas todas as  tentativas de ciência por meio  de Notificação via remessa postal (art.  23 da Resolução  CONTRAN nº 723/2018)  NOTIFICA  os  condutores,  abaixo  relacionados, para torná-los  ciente da imposição da  penalidade de Suspensão  do Exercício  do Direito  de Dirigir,  e a  obrigatoriedade de  frequência  e aprovação  em Curso  de Reciclagem  (CRCI), em  face de terem  alcançado  20 (vinte)  pontos  ou  mais,  ou cujas  infrações  preveem,  de forma  específica, a  penalidade de  Suspensão do  Direito de Dirigir,  conforme detalhado  na Notificação  de Autuação  recebida, em razão do que dispõe o artigo 3, da Resolução  CONTRAN  n. 723/2018. Esta assegurado ao condutor  o Exercício do Direito fundamental  ao  contraditório  e  a  ampla  defesa,  extraído  do  artigo  5º,  inciso LV  da CRFB,  podendo V.Sª  apresentar  RECURSO A  JARI perante  a CENTRAL DE MULTAS E RECURSOS  / ACESSO 04 - AV. PRESIDENTE  VARGAS, 817,  CENTRO-RJ, via internet através  do site www.detran.rj.gov.br ou ainda  nas CIRETRANS, no prazo  de até 30 (trinta)  dias (artigo  288  do  Código de  Trânsito  Brasileiro)  a contar  da data de  publicação do  presente Diário  Oficial. CNH  nº 01375246187, pts. 26;CNH  nº 03490397711, pts. 28;CNH  nº 00365227991, pts. 28;CNH  nº 05634837658,  pts. 42;CNH  nº 05124051087,  pts. 25;CNH nº 00847856204, pts. 42;CNH nº 00346021728, pts. 21;CNH nº 00666382715, pts. 41;CNH nº 00144671650, pts. 23;CNH nº 08399452103, art. 175;CNH nº 01446193178, pts. 23;CNH nº 02664820538, pts. 26;CNH nº 06562294181, pts. 23;CNH nº 05370103149, pts. 26;CNH nº 02218416630, pts. 33;CNH nº 05447187152, pts. 23;CNH nº 04847172335, pts. 23;CNH nº
 
-06704682604, pts. 36;CNH nº 00129924926, pts. 21;CNH nº 04176149797, pts. 21;CNH nº 06515402801, pts. 43;CNH nº 06131064606, pts. 39;CNH nº 00967016726, pts. 25;CNH nº 00477483083, pts. 22;CNH nº 05455203820, pts. 37;CNH nº 04572864017, pts. 28;CNH nº 06555323087, pts. 31;CNH nº 00149707961, pts. 32;CNH nº 04528568089, pts. 33;CNH nº 00326044068, pts. 26;CNH nº 00456487433, pts. 28;CNH nº 04738952070, pts. 39;CNH nº 00065382578, pts. 27;CNH nº 03558894094, pts. 41;CNH nº 00775723355, pts. 26;CNH nº 02778969657, pts. 25;CNH nº 01158803792, pts. 30;CNH nº 00301647651, pts. 23;CNH nº 00549507392, pts. 22;CNH nº 03378354208, pts. 51;CNH nº 05512504976, pts. 41;CNH nº 05164884026, pts. 21;CNH nº 04495011785, pts. 21;CNH nº 05609518343, pts. 42;CNH nº 02444032021, pts. 43;CNH nº 00010646871, pts. 28;CNH nº 00959947246, pts. 37;CNH nº 02265621800, pts. 21;CNH nº 00176386175, pts. 44;CNH nº 01220289621, pts. 21;CNH nº 00028354218, pts. 42;CNH nº 02152015872, pts. 30;CNH nº 07249459905, pts. 43;CNH nº 00130244206, pts. 28;CNH nº 07489884322, pts. 27;CNH nº 06173309546, pts. 25;CNH nº 05215452540, pts. 26;CNH nº 04130376701, pts. 22;CNH nº 00241365174, pts. 40;CNH nº 04890851810, pts. 22;CNH nº 02983861070, pts. 21;CNH nº 04136208893, pts. 22;CNH nº 00862264592, pts. 46;CNH nº 07058929989, pts. 41;CNH nº 00380925990, pts. 22;CNH nº 05422460588, pts. 31;CNH nº 06527968903, pts. 22;CNH nº 00496924858, pts. 41;CNH nº 06539117354, pts. 24;CNH nº 00026602150, pts. 22;CNH nº 04267137347, pts. 50;CNH nº 00587655900, pts. 43;CNH nº 00239203030, pts. 40;CNH nº 00981874124, pts. 22;CNH nº 00139861673, pts. 23;CNH nº 00838637405, pts. 28;CNH nº 00039339692, pts. 21;CNH nº 02445279967, pts. 21;CNH nº 01932740297, pts. 42;CNH nº 04065701901, pts. 47;CNH nº 04537680362, pts. 43;CNH nº 06515402801, pts. 41;CNH nº 00456487433, pts. 21;CNH nº 04528568089, pts. 48;CNH nº 01255642071, pts. 23;CNH nº 01932740297, pts. 61;CNH nº 00140156079, pts. 22;CNH nº 00453291884, pts. 21;CNH nº 02538939079, pts. 48;CNH nº 00140156079, pts. 21;CNH nº 06780329497, pts. 40;CNH nº 00034715571, pts. 22;CNH nº 00124095219, pts. 58;CNH nº 03972518900, pts. 22;CNH nº 00291083489, pts. 28;CNH nº 01313684297, pts. 28;CNH nº 08045349452, pts. 41;CNH nº 00290560840, pts. 41;CNH nº 00158566391, pts. 22;CNH nº 05046293474, pts. 37;CNH nº 03279076370, pts. 21;CNH nº 01964860900, pts. 39;CNH nº 00150358697, pts. 45;CNH nº 01247691572, pts. 45;CNH nº 04831372169, pts. 28;CNH nº 08811084201, pts. 35;CNH nº 01177914842, pts. 42;CNH nº 05353962985, pts. 40;CNH nº 00054468907, pts. 23;CNH nº 06166770930, art. ART 165 - A;CNH nº 06748915899, pts. 65;CNH nº 04494517948, pts. 28;CNH nº 03441866336, pts. 27;CNH nº 03367563722, pts. 41;CNH nº 01769594176, pts. 29;CNH nº 00237754196, pts. 54;CNH nº 00124095219, pts. 42;CNH nº 04839146479, pts. 63;CNH nº 00444819158, pts. 44;CNH nº 05731082855, pts. 24;CNH nº 07041427332, pts. 28;CNH nº 00191549618, pts. 28;CNH nº 00184580756, pts. 29;CNH nº 05292656045,  art. 244  INC I;CNH  nº 01082657970,  pts. 41;CNH  nº 06432549994, pts. 26;CNH nº 00385482176, pts. 43;CNH nº 07489416320, pts. 28;CNH nº 00059196851, pts. 31;CNH nº 01369556036, art. ART 165 - A;CNH nº 02173587281, pts. 21;CNH nº 00838638090, pts. 27;CNH nº 01436496840, pts. 23;CNH nº 06381550475,  art. 244  INC I;CNH  nº  06246660815, art.  ART 165  A;CNH  nº  06166770930,  art.  ART  165 -  A;CNH  nº  08378022780,  art. 244  INC I;CNH  nº  07001460519, pts.  46;CNH  nº 05510196709,  pts. 31;CNH nº 00120246189,  pts.  21;CNH nº  04940138384,  art. ART  165 -  A;CNH  nº  00529037387,  pts.  40;CNH  nº  00261720672,  pts.  22;CNH nº 07272942092, pts. 21;CNH nº 04507289207, pts. 39;CNH nº 03410038409, pts. 42;CNH nº 00366221590, pts. 22;CNH nº 00589180139, pts. 21;CNH nº 00294357300, pts. 33;CNH nº 04507289207, pts. 26;CNH nº 07015980590, pts. 43;CNH nº 00167825168, art. ART 165 - A;CNH nº 05871475700, pts. 28;CNH nº 01290050708, pts. 27;CNH nº 06521189804, pts. 22;CNH nº 05597078690, pts. 48;CNH nº 00294357300, pts. 48;CNH nº 01247691572, pts. 46;CNH nº 00384105605, pts. 40;CNH nº 01436496840, pts. 28;CNH nº 00207574107, pts. 42;CNH nº 01721336207, pts. 52;CNH nº 06404606440, pts. 28;CNH nº 00111202410, pts. 32;CNH nº 06874460351, pts. 25;CNH nº 05871475700, pts. 56;CNH nº 00079272430, pts. 50;CNH nº 00294357300, pts. 41;CNH nº 00124095219, pts. 48;CNH nº 01436496840, pts. 28;CNH nº 00444819158, pts. 44;CNH nº 07781032400, pts. 23;CNH nº 02882482759, art. 165;CNH nº 05126878151, art.  ART 165 -  A;CNH nº 04740346203, art.  244 INC I;CNH nº  06284877101,  pts.  45;CNH  nº  07583471171,  pts.  44;CNH  nº 00725486723, pts. 49;CNH nº 00048233760, pts. 52;CNH nº 04588629490, pts. 32;CNH nº 00121977953, pts. 27;CNH nº 03224097123, pts. 48;CNH nº 00154141204, pts. 42;CNH nº 00797572189, pts. 23;CNH nº 04572067969, pts. 50;CNH nº 01436496840, pts. 28;CNH nº 07553914290, pts. 26;CNH nº 00307936367, pts. 41;CNH nº 02355263693, pts. 21;CNH nº 01283437140, pts. 48;CNH nº 01436496840, pts. 28;CNH nº 01290050708, pts. 26;CNH nº 06508837576, pts. 57;CNH nº 08072263385, art.  ART  165  -  A;CNH  nº  00742844031,  art.  ART  165  A;CNH  nº  06422585318,  pts.  22;CNH  nº  06173309546,  pts.  26;CNH nº 00039661748, pts. 22;CNH nº 00545606006, pts. 22;CNH nº 00307936367, pts. 44;CNH nº 00300865480, pts. 21;CNH nº 01436496840, pts. 28;CNH nº 01162653621, pts. 31;CNH nº 00124095219, pts. 48;CNH nº 01436496840, pts. 28;CNH nº 00048233760, pts. 44;CNH nº 00124095219, pts. 58;CNH nº 01436496840, pts. 28;CNH nº 00124095219, pts. 55;CNH nº 01436496840, pts. 28;CNH nº 00529037387, pts. 41;CNH nº 04243334046, pts. 28;CNH nº 05895715519, pts. 25;CNH nº 05350160913, pts. 24;CNH nº 02755601369, pts. 23;CNH nº 00124095219, pts. 53;CNH nº 01436496840, pts. 28;CNH nº 04839146479, pts. 40;CNH nº 00265457546, pts. 31;CNH nº 01452362226, pts. 21;CNH nº 07053183141, pts. 42;CNH nº 00307936367, pts. 45;CNH nº 01436496840, pts. 28;CNH nº 01925878564, pts. 25;CNH nº 05794350911, pts. 21;CNH nº 07547334038, art. 165;CNH nº 00090925404, pts. 59;CNH nº 03367563722, pts. 43;CNH nº 07544719304, pts. 21;CNH nº 00441558420, pts. 42;CNH nº 00514914758, pts. 28;CNH nº 06387481620, art.  ART  165  -  A;CNH  nº  01424264037,  art.  ART  165  -
+06704682604, pts. 36;CNH nº 00129924926, pts. 21;CNH nº 04176149797, pts. 21;CNH nº 06515402801, pts. 43;CNH nº 06131064606, pts. 39;CNH nº 00967016726, pts. 25;CNH nº 00477483083, pts. 22;CNH nº 05455203820, pts. 37;CNH nº 04572864017, pts. 28;CNH nº 06555323087, pts. 31;CNH nº 00149707961, pts. 32;CNH nº 04528568089, pts. 33;CNH nº 00326044068, pts. 26;CNH nº 00456487433, pts. 28;CNH nº 04738952070, pts. 39;CNH nº 00065382578, pts. 27;CNH nº 03558894094, pts. 41;CNH nº 00775723355, pts. 26;CNH nº 02778969657, pts. 25;CNH nº 01158803792, pts. 30;CNH nº 00301647651, pts. 23;CNH nº 00549507392, pts. 22;CNH nº 03378354208, pts. 51;CNH nº 05512504976, pts. 41;CNH nº 05164884026, pts. 21;CNH nº 04495011785, pts. 21;CNH nº 05609518343, pts. 42;CNH nº 02444032021, pts. 43;CNH nº 00010646871, pts. 28;CNH nº 00959947246, pts. 37;CNH nº 02265621800, pts. 21;CNH nº 00176386175, pts. 44;CNH nº 01220289621, pts. 21;CNH nº 00028354218, pts. 42;CNH nº 02152015872, pts. 30;CNH nº 07249459905, pts. 43;CNH nº 00130244206, pts. 28;CNH nº 07489884322, pts. 27;CNH nº 06173309546, pts. 25;CNH nº 05215452540, pts. 26;CNH nº 04130376701, pts. 22;CNH nº 00241365174, pts. 40;CNH nº 04890851810, pts. 22;CNH nº 02983861070, pts. 21;CNH nº 04136208893, pts. 22;CNH nº 00862264592, pts. 46;CNH nº 07058929989, pts. 41;CNH nº 00380925990, pts. 22;CNH nº 05422460588, pts. 31;CNH nº 06527968903, pts. 22;CNH nº 00496924858, pts. 41;CNH nº 06539117354, pts. 24;CNH nº 00026602150, pts. 22;CNH nº 04267137347, pts. 50;CNH nº 00587655900, pts. 43;CNH nº 00239203030, pts. 40;CNH nº 00981874124, pts. 22;CNH nº 00139861673, pts. 23;CNH nº 00838637405, pts. 28;CNH nº 00039339692, pts. 21;CNH nº 02445279967, pts. 21;CNH nº 01932740297, pts. 42;CNH nº 04065701901, pts. 47;CNH nº 04537680362, pts. 43;CNH nº 06515402801, pts. 41;CNH nº 00456487433, pts. 21;CNH nº 04528568089, pts. 48;CNH nº 01255642071, pts. 23;CNH nº 01932740297, pts. 61;CNH nº 00140156079, pts. 22;CNH nº 00453291884, pts. 21;CNH nº 02538939079, pts. 48;CNH nº 00140156079, pts. 21;CNH nº 06780329497, pts. 40;CNH nº 00034715571, pts. 22;CNH nº 00124095219, pts. 58;CNH nº 03972518900, pts. 22;CNH nº 00291083489, pts. 28;CNH nº 01313684297, pts. 28;CNH nº 08045349452, pts. 41;CNH nº 00290560840, pts. 41;CNH nº 00158566391, pts. 22;CNH nº 05046293474, pts. 37;CNH nº 03279076370, pts. 21;CNH nº 01964860900, pts. 39;CNH nº 00150358697, pts. 45;CNH nº 01247691572, pts. 45;CNH nº 04831372169, pts. 28;CNH nº 08811084201, pts. 35;CNH nº 01177914842, pts. 42;CNH nº 05353962985, pts. 40;CNH nº 00054468907, pts. 23;CNH nº 06166770930, art. ART 165 - A;CNH nº 06748915899, pts. 65;CNH nº 04494517948, pts. 28;CNH nº 03441866336, pts. 27;CNH nº 03367563722, pts. 41;CNH nº 01769594176, pts. 29;CNH nº 00237754196, pts. 54;CNH nº 00124095219, pts. 42;CNH nº 04839146479, pts. 63;CNH nº 00444819158, pts. 44;CNH nº 05731082855, pts. 24;CNH nº 07041427332, pts. 28;CNH nº 00191549618, pts. 28;CNH nº 00184580756, pts. 29;CNH nº 05292656045,  art. 244  INC I;CNH  nº 01082657970,  pts. 41;CNH  nº 06432549994, pts. 26;CNH nº 00385482176, pts. 43;CNH nº 07489416320, pts. 28;CNH nº 00059196851, pts. 31;CNH nº 01369556036, art. ART 165 - A;CNH nº 02173587281, pts. 21;CNH nº 00838638090, pts. 27;CNH nº 01436496840, pts. 23;CNH nº 06381550475,  art. 244  INC I;CNH  nº  06246660815, art.  ART 165  A;CNH  nº  06166770930,  art.  ART  165 -  A;CNH  nº  08378022780,  art. 244  INC I;CNH  nº  07001460519, pts.  46;CNH  nº 05510196709,  pts. 31;CNH nº 00120246189,  pts.  21;CNH nº  04940138384,  art. ART  165 -  A;CNH  nº  00529037387,  pts.  40;CNH  nº  00261720672,  pts.  22;CNH nº 07272942092, pts. 21;CNH nº 04507289207, pts. 39;CNH nº 03410038409, pts. 42;CNH nº 00366221590, pts. 22;CNH nº 00589180139, pts. 21;CNH nº 00294357300, pts. 33;CNH nº 04507289207, pts. 26;CNH nº 07015980590, pts. 43;CNH nº 00167825168, art. ART 165 - A;CNH nº 05871475700, pts. 28;CNH nº 01290050708, pts. 27;CNH nº 06521189804, pts. 22;CNH nº 05597078690, pts. 48;CNH nº 00294357300, pts. 48;CNH nº 01247691572, pts. 46;CNH nº 00384105605, pts. 40;CNH nº 01436496840, pts. 28;CNH nº 00207574107, pts. 42;CNH nº 01721336207, pts. 52;CNH nº 06404606440, pts. 28;CNH nº 00111202410, pts. 32;CNH nº 06874460351, pts. 25;CNH nº 05871475700, pts. 56;CNH nº 00079272430, pts. 50;CNH nº 00294357300, pts. 41;CNH nº 00124095219, pts. 48;CNH nº 01436496840, pts. 28;CNH nº 00444819158, pts. 44;CNH nº 07781032400, pts. 23;CNH nº 02882482759, art. 165;CNH nº 05126878151, art.  ART 165 -  A;CNH nº 04740346203, art.  244 INC I;CNH nº  06284877101,  pts.  45;CNH  nº  07583471171,  pts.  44;CNH  nº 00725486723, pts. 49;CNH nº 00048233760, pts. 52;CNH nº 04588629490, pts. 32;CNH nº 00121977953, pts. 27;CNH nº 03224097123, pts. 48;CNH nº 00154141204, pts. 42;CNH nº 00797572189, pts. 23;CNH nº 04572067969, pts. 50;CNH nº 01436496840, pts. 28;CNH nº 07553914290, pts. 26;CNH nº 00307936367, pts. 41;CNH nº 02355263693, pts. 21;CNH nº 01283437140, pts. 48;CNH nº 01436496840, pts. 28;CNH nº 01290050708, pts. 26;CNH nº 06508837576, pts. 57;CNH nº 08072263385, art.  ART  165  -  A;CNH  nº  00742844031,  art.  ART  165  A;CNH  nº  06422585318,  pts.  22;CNH  nº  06173309546,  pts.  26;CNH nº 00039661748, pts. 22;CNH nº 00545606006, pts. 22;CNH nº 00307936367, pts. 44;CNH nº 00300865480, pts. 21;CNH nº 01436496840, pts. 28;CNH nº 01162653621, pts. 31;CNH nº 00124095219, pts. 48;CNH nº 01436496840, pts. 28;CNH nº 00048233760, pts. 44;CNH nº 00124095219, pts. 58;CNH nº 01436496840, pts. 28;CNH nº 00124095219, pts. 55;CNH nº 01436496840, pts. 28;CNH nº 00529037387, pts. 41;CNH nº 04243334046, pts. 28;CNH nº 05895715519, pts. 25;CNH nº 05350160913, pts. 24;CNH nº 02755601369, pts. 23;CNH nº 00124095219, pts. 53;CNH nº 01436496840, pts. 28;CNH nº 04839146479, pts. 40;CNH nº 00265457546, pts. 31;CNH nº 01452362226, pts. 21;CNH nº 07053183141, pts. 42;CNH nº 00307936367, pts. 45;CNH nº 01436496840, pts. 28;CNH nº 01925878564, pts. 25;CNH nº 05794350911, pts. 21;CNH nº 07547334038, art. 165;CNH nº 00090925404, pts. 59;CNH nº 03367563722, pts. 43;CNH nº 07544719304, pts. 21;CNH nº 00441558420, pts. 42;CNH nº 00514914758, pts. 28;CNH nº
 
-A;CNH nº 00114495758, art.  244 INC I;CNH nº 00140449660, art. 244  INC I;CNH  nº 00271954320,  pts. 26;CNH  nº 07518536027,  art. ART 165 - A;CNH nº 05517050768, pts. 34;CNH nº 07086837574, art. ART 165 -A;CNH nº 07386438862, art. 244 INC II;CNH nº 01103834247,  pts.  25;CNH  nº  07183391689, art.  244  INC  II;CNH  nº 00300525809, art.  ART  165  -  A;CNH  nº  06649125470,  art.  ART  165  A;CNH  nº 06585777768, art.  244 INC I;CNH nº  06695908010, art. ART 165 -A;CNH nº 07506381932, art. 244 INC I;CNH nº 05146852427, art.  ART 165 -  A;CNH nº 00334553019, art.  244 INC I;CNH nº 03998690679, pts. 51;CNH nº 00572626853, pts. 28;CNH nº 00611433735, pts. 28;CNH nº 00096433502, pts. 49;CNH nº 00437898466, pts. 28;CNH nº 03259641419, pts. 23;CNH nº 00140449660,  art. 244  INC I;CNH  nº  06874035641, art.  ART 165  A;CNH nº 05903725526, art. 244, III C/C §;CNH nº 00321618813, pts. 23;CNH nº  07899567546, art.  244 INC  I;CNH nº  03477854089, art. ART 165 - A;CNH nº 01002208866, pts. 37;CNH nº 00221255203, pts. 41;CNH  nº 00207258884,  pts. 48;CNH  nº 06722829540,  pts. 21;CNH nº 00611433735, pts. 31;CNH nº 00271954320, pts. 22;CNH nº 06279290190, art.  ART  165  -  A;CNH  nº  03623476001,  art.  ART  165  A;CNH nº 07813874953, art. ART 165 - A;CNH nº 04817762695, pts. 26;CNH nº  06754874002, art.  244 INC  I;CNH nº  00613866040, art. 244  INC I;CNH  nº  00844528760, pts.  25;CNH  nº 04379289705,  pts. 45;CNH nº 08399452103, art.  210;CNH nº 02517367481, pts. 26;CNH nº  05107476545,  art.  ART  165  -  A;CNH  nº  06011787923,  art.  ART 165 -A;CNH nº 01955352706, art. ART 165 -A;CNH nº 07232588153, art.  ART  165  -  A;CNH  nº  04206829229,  art.  ART  165  A;CNH nº  00062311414, pts.  22;CNH nº  05238593884, pts.  32;CNH nº 06946691536,  art. 244 INC  II;CNH nº 00091765493,  pts. 25;CNH nº 07856353297, pts. 40;CNH nº 00419882959, pts. 28;CNH nº 01256822369, pts. 32;CNH nº 00433630509, pts. 47;CNH nº
+06387481620, art.  ART  165  -  A;CNH  nº  01424264037,  art.  ART  165  A;CNH nº 00114495758, art.  244 INC I;CNH nº 00140449660, art. 244  INC I;CNH  nº 00271954320,  pts. 26;CNH  nº 07518536027,  art. ART 165 - A;CNH nº 05517050768, pts. 34;CNH nº 07086837574, art. ART 165 -A;CNH nº 07386438862, art. 244 INC II;CNH nº 01103834247,  pts.  25;CNH  nº  07183391689, art.  244  INC  II;CNH  nº 00300525809, art.  ART  165  -  A;CNH  nº  06649125470,  art.  ART  165  A;CNH  nº 06585777768, art.  244 INC I;CNH nº  06695908010, art. ART 165 -A;CNH nº 07506381932, art. 244 INC I;CNH nº 05146852427, art.  ART 165 -  A;CNH nº 00334553019, art.  244 INC I;CNH nº 03998690679, pts. 51;CNH nº 00572626853, pts. 28;CNH nº 00611433735, pts. 28;CNH nº 00096433502, pts. 49;CNH nº 00437898466, pts. 28;CNH nº 03259641419, pts. 23;CNH nº 00140449660,  art. 244  INC I;CNH  nº  06874035641, art.  ART 165  A;CNH nº 05903725526, art. 244, III C/C §;CNH nº 00321618813, pts. 23;CNH nº  07899567546, art.  244 INC  I;CNH nº  03477854089, art. ART 165 - A;CNH nº 01002208866, pts. 37;CNH nº 00221255203, pts. 41;CNH  nº 00207258884,  pts. 48;CNH  nº 06722829540,  pts. 21;CNH nº 00611433735, pts. 31;CNH nº 00271954320, pts. 22;CNH nº 06279290190, art.  ART  165  -  A;CNH  nº  03623476001,  art.  ART  165  A;CNH nº 07813874953, art. ART 165 - A;CNH nº 04817762695, pts. 26;CNH nº  06754874002, art.  244 INC  I;CNH nº  00613866040, art. 244  INC I;CNH  nº  00844528760, pts.  25;CNH  nº 04379289705,  pts. 45;CNH nº 08399452103, art.  210;CNH nº 02517367481, pts. 26;CNH nº  05107476545,  art.  ART  165  -  A;CNH  nº  06011787923,  art.  ART 165 -A;CNH nº 01955352706, art. ART 165 -A;CNH nº 07232588153, art.  ART  165  -  A;CNH  nº  04206829229,  art.  ART  165  A;CNH nº  00062311414, pts.  22;CNH nº  05238593884, pts.  32;CNH nº 06946691536,  art. 244 INC  II;CNH nº 00091765493,  pts. 25;CNH nº 07856353297, pts. 40;CNH nº 00419882959, pts. 28;CNH nº 01256822369, pts. 32;CNH nº 00433630509, pts. 47;CNH nº
 
 00185298769, pts. 32;CNH nº 05754369221, pts. 22;CNH nº 00140156079, pts. 23;CNH nº 03335512272, pts. 26;CNH nº 06052513515, art. ART 165 - A;CNH nº 06180945731, pts. 41;CNH nº 00122008450, pts. 21;CNH nº 00417798964, pts. 26;CNH nº 00365145207, pts.  26;CNH nº 06338359511, pts.  25. PROCESSO Nº SEI-150016/102364/2026.
 
@@ -13939,84 +12909,87 @@ ART 165 -A;CNH nº 07406508077, art. 244 INC I;CNH nº 00062234826, pts. 37;CNH 
 
 37;CNH  nº 05974466572,  pts. 54;CNH  nº 03179525336,  pts. 37;CNH nº  05921840870,  art.  244  INC  I;CNH  nº  06250459535,  art.  173;CNH nº  00195384752,  art.  244  INC  I;CNH  nº  00149535494,  art.  ART  165  A;CNH  nº 06919793470, art.  244 INC I;CNH nº  04659603038, art. 244 INC I;CNH nº 06659157664, art. 244 INC I;CNH nº 05945090704, art. 244 INC I;CNH nº 07300695833, art. 244 INC II;CNH nº 03691963421,  art.  244  INC  I;CNH nº  05839285258,  art.  244  INC II;CNH nº 01121243800, art. 244 INC I;CNH nº 05221773160, art. 244 INC II;CNH nº  05908886245, art. 244 INC  II;CNH nº 00944171350, pts.  36;CNH nº  04830041436, art.  244 INC  I;CNH nº  05649106804, art.  244  INC  I;CNH  nº  07368232319,  art.  ART  165  -  A;CNH  nº 06685700264, pts. 28;CNH nº 02767571360, pts. 31;CNH nº 05154722034, pts. 29;CNH nº 00142282003, pts. 45;CNH nº 00084143355, pts. 54;CNH nº 00376573300, pts. 45;CNH nº 04697630640, pts. 45;CNH nº 02750865236, pts. 37;CNH nº 00486028301,  pts. 52;CNH  nº 00329748029,  art. 244  INC I;CNH  nº 00009049868,  art.  244  INC  I;CNH nº  05355085625,  art.  244  INC I;CNH  nº  03905533376,  art.  244  INC  I;CNH  nº  06904494062,  art.  244 INC  I;CNH  nº  06255953531,  art.  244  INC  I;CNH  nº  04091026326,  art. ART 165 -A;CNH nº 04318396957, art. 244 INC I;CNH nº 00198898001, art.  ART 165 -  A;CNH nº 07531442250, art.  244 INC I;CNH nº 07035583408,  art. ART 165 - A;CNH  nº 06555689281, art. 244  INC I;CNH  nº  06658495605, art.  170;CNH  nº 04121120335,  pts. 27;CNH nº 00015047907,  pts.  26;CNH nº  04687495345,  art. ART  165 -  A;CNH nº  06328496114, pts.  26;CNH nº  00269050994, pts.  27;CNH nº  04459569814, pts. 31;CNH nº 00142342809, art. 244 INC I;CNH nº 06546426830, art. ART 165 - A;CNH nº 00044162376, pts. 47;CNH nº
 
-| 00165259871,              | pts.           | 26;CNH                  | nº              | 02585027564,                                                 | pts.                    | nº       | nº       |
-|---------------------------|----------------|-------------------------|-----------------|--------------------------------------------------------------|-------------------------|----------|----------|
-| 06538954130,              | pts.           | 27;CNH                  |                 | 05673274000,                                                 | 25;CNH 37;CNH           | nº       | nº       |
-|                           |                |                         | nº              | pts. pts.                                                    |                         |          |          |
-| 02664897770, 00055776284, | pts. pts.      | 56;CNH 27;CNH           | nº              | 03931300563, 05333347772,                                    | 25;CNH 48;CNH           | nº       | nº       |
-| 00597046715,              | pts.           | 42;CNH                  | nº              | pts. 06077250719,                                            |                         | nº nº    | nº nº    |
-|                           |                |                         | nº              | pts.                                                         | 26;CNH                  |          |          |
-| 00078251631, 01986457735, | pts. pts.      | 51;CNH 26;CNH           | nº nº           | 05290312390, pts. 00801791963, pts.                          | 40;CNH 36;CNH           | nº nº    | nº nº    |
-| 05296373569,              | pts.           | 35;CNH                  | nº              | pts.                                                         | 27;CNH                  | nº       | nº       |
-| 03403058433,              | pts.           | 27;CNH                  | nº              | 05455475497, 00097653572, pts.                               | 21;CNH                  | nº       | nº       |
-| 00305212720,              | pts.           | 37;CNH                  | nº              | 02594791729,                                                 | 35;CNH                  | nº       | nº       |
-| 00500664084,              | pts.           | 38;CNH                  | nº              | pts. pts.                                                    | 26;CNH                  | nº       | nº       |
-| 00727611370,              | pts.           | 38;CNH                  | nº              | 05227425566, 00058429005,                                    | pts. 36;CNH             | nº       | nº       |
-| 03814891795,              | pts.           | 50;CNH                  | nº              | 00252679841, 03286629107,                                    | 22;CNH                  | nº       | nº       |
-| 03249974629,              | pts.           | 55;CNH                  | nº              | pts. pts.                                                    | 22;CNH                  | nº       | nº       |
-| 00525403068,              | pts.           | 55;CNH nº               | 05698944900,    | art. 244                                                     | INC I;CNH               | nº       | nº       |
-| 00286496045,              | pts.           | 26;CNH                  | nº              | 06884236800, pts.                                            | 28;CNH                  | nº       | nº       |
-| 06931505654,              | pts.           | 36;CNH                  | nº              | 05914680895, pts.                                            | 43;CNH 21;CNH           | nº       | nº       |
-| 00211672200,              | pts.           | 43;CNH                  | nº              | 04807478773, pts.                                            |                         | nº       | nº       |
-| 00548603747,              | pts.           | 22;CNH                  | nº              | 04537315807, pts.                                            | 58;CNH                  | nº       | nº       |
-| 00511608534,              | pts.           | 29;CNH                  | nº              | 00228902406, pts.                                            | 29;CNH                  | nº       | nº       |
-| 01172235831,              | pts.           | 22;CNH                  | nº              | 00315638350, pts. 05000102815,                               | 39;CNH                  | nº       | nº       |
-| 01421801004,              | pts.           | 25;CNH                  | nº              | pts.                                                         | 46;CNH                  | nº       | nº       |
-| 00033739116,              | pts.           | 41;CNH                  | nº              | 00976985407, pts.                                            | 26;CNH                  | nº       | nº       |
-| 00105050589,              | pts.           | 41;CNH                  | nº              | 04778784696, pts.                                            | 50;CNH                  |          |          |
-|                           |                |                         |                 |                                                              |                         | nº       | nº       |
-| 05816128922, 06888592342, | pts. pts.      | 38;CNH nº 27;CNH        | 04890652091, nº | art. 218 05873673727, pts.                                   | INC III;CNH 52;CNH      | nº nº    | nº nº    |
-| 00333888164,              | pts.           | 38;CNH                  | nº              | 05804825878, pts. 00385468343,                               | 29;CNH                  | nº       | nº       |
-| 04950988255, 03834429598, | pts. pts.      | 34;CNH                  | nº              | pts.                                                         | 44;CNH 40;CNH           | nº nº    | nº nº    |
-|                           |                | 36;CNH 41;CNH           | nº nº           | 03503965391, pts. 01801576673, pts.                          | 55;CNH                  | nº       | nº       |
-| 00140112094,              | pts.           |                         |                 | pts.                                                         |                         |          |          |
-| 00501457416, 03743390744, | pts. pts.      | 40;CNH                  | nº nº           | 01542164858, 00136812407, pts.                               | 42;CNH 37;CNH           | nº nº    | nº nº    |
-| 03628235357,              |                | 37;CNH 23;CNH           | nº              | pts.                                                         | 21;CNH                  |          |          |
-|                           | pts.           |                         | nº              | pts.                                                         |                         | nº       | nº       |
-| 03689839758,              | pts. pts.      | 52;CNH                  |                 | 05908941403, 05243987791, 00549213668,                       | 28;CNH                  | nº       | nº       |
-| 01417564682, 00766102245, | pts.           | 43;CNH 37;CNH           | nº nº           | pts. 04619654299, pts.                                       | 47;CNH 44;CNH           | nº nº    | nº nº    |
-| 00258537833,              | pts.           | 28;CNH 28;CNH           | nº nº           | pts. pts.                                                    | 48;CNH 44;CNH           | nº       | nº       |
-|                           |                |                         |                 | 04470490023, 01422578050,                                    |                         |          |          |
-| 01675590434,              | pts. pts.      | 41;CNH                  | nº              | pts.                                                         | 40;CNH                  | nº       | nº       |
-| 00196883767,              | pts.           | 52;CNH                  |                 | 00284234858, 00461345703,                                    | 26;CNH                  | nº nº    | nº nº    |
-| 03140097630, 00013316601, | pts.           | 26;CNH                  | nº nº           | pts. pts. pts.                                               | 40;CNH                  |          |          |
-| 07349950765,              | pts.           | 33;CNH                  | nº              | 01146084578, 03798660113,                                    | 48;CNH                  | nº nº    | nº nº    |
-| 05382403090,              | pts.           | 42;CNH                  | nº              | 06273705706, 05538188340,                                    | 40;CNH 26;CNH           |          |          |
-| 00106562247,              | pts.           | 29;CNH                  | nº              | pts. 00272162481,                                            |                         | nº       | nº       |
-| 05815092815,              |                |                         | nº              | pts. 00898960393,                                            | 23;CNH                  | nº nº    | nº nº    |
-|                           | pts.           | 39;CNH                  |                 | pts. pts.                                                    | 24;CNH                  |          |          |
-| 05645374306, 01797155008, | pts. pts.      | 34;CNH 21;CNH           | nº              | pts. pts.                                                    | 27;CNH                  | nº nº nº | nº nº nº |
-| 00465322787, 00746327807, | pts.           | 37;CNH                  | nº nº           | 00155191074, 00069251957, 02664822021,                       | 31;CNH 23;CNH           | nº       | nº       |
-|                           | pts.           | 53;CNH                  | nº              | pts.                                                         | 36;CNH                  |          |          |
-| 00146041863,              | pts.           | 26;CNH                  | nº              | 00314878175, 00034538280,                                    | 32;CNH                  | nº       | nº       |
-| 05930654704,              | pts.           | 26;CNH                  | nº              | pts. pts. pts.                                               | 24;CNH                  | nº       | nº       |
-| 05486595931, 01458670200, | pts.           | 41;CNH                  | nº              | 03419418617, 04190326026,                                    | 37;CNH                  | nº       | nº       |
-| 05829195628,              | pts.           | 43;CNH                  | nº nº           | pts. pts.                                                    | 27;CNH                  | nº nº    | nº nº    |
-| 00356993305,              | pts. pts.      | 25;CNH 21;CNH           | nº              | 06148838114, 00177688936, 00122747172,                       | 32;CNH 39;CNH           | nº       | nº       |
-| 00086818085,              |                | 25;CNH                  | nº              | pts.                                                         |                         |          |          |
-|                           |                |                         | nº              | pts. pts.                                                    | 35;CNH                  | nº       | nº       |
-| 05467284360,              | pts.           |                         |                 |                                                              |                         |          |          |
-| 06092619470,              | pts. pts.      |                         |                 |                                                              |                         | nº       | nº       |
-| 02914328078,              |                |                         | nº              | pts.                                                         |                         |          |          |
-|                           | pts.           | 29;CNH 59;CNH 25;CNH nº |                 | 00062211603, 01888134308, 06740698013, art. ART 02162955536, | 28;CNH 165 - A;CNH      | nº nº nº | nº nº nº |
-| 03137511543, 00054571380, | pts. pts. pts. | 21;CNH 21;CNH 49;CNH    | nº nº nº nº     | pts. 00111519591, pts. pts. pts.                             | 31;CNH 35;CNH 47;CNH    | nº       | nº       |
-| 04519454147, 00322567620, | pts. pts.      | 40;CNH 36;CNH           | nº              | 07122919652, 00352095659, 00356900290,                       | 26;CNH                  | nº nº nº | nº nº nº |
-| 00170631519,              | pts.           | 33;CNH                  | nº              |                                                              | pts. 48;CNH pts. 44;CNH |          |          |
-| 00159499223, 02338085195, | pts.           | 22;CNH                  | nº              | 00232751001, 06187566890, 01487315905,                       |                         | nº       | nº       |
-|                           | pts.           |                         | nº              |                                                              | 51;CNH 45;CNH           |          |          |
-|                           | pts.           | 45;CNH 22;CNH           | nº              | 00331123711,                                                 |                         | nº nº nº | nº nº nº |
-| 00091821995,              | pts.           | 32;CNH                  | nº              | pts. pts. pts.                                               | 26;CNH                  |          |          |
-| 03632142480,              |                |                         | nº              | 04042934864, 05891911316,                                    |                         | nº nº    | nº nº    |
-| 02664897770, 02588636089, | pts.           | 41;CNH 39;CNH           | 01866816784,    | pts. pts. pts.                                               | 48;CNH                  | nº       | nº       |
-| 00305190339,              | pts.           |                         | nº nº           |                                                              | 33;CNH 23;CNH 21;CNH    |          |          |
-| 05707941092,              | pts.           | 32;CNH                  |                 | pts. pts.                                                    |                         |          |          |
-| 00146420835,              | pts.           | 26;CNH                  | nº              | 04806744901, 00282406895,                                    | 26;CNH                  | nº nº    | nº nº    |
-| 00390353975,              |                |                         |                 | pts.                                                         |                         | nº       | nº       |
-| 00228919139,              | pts.           | 26;CNH                  | nº              | 00321629975,                                                 | 52;CNH                  |          |          |
-|                           | pts.           | nº                      |                 | pts.                                                         | PROCESSO                | Nº       | Nº       |
-| SEI-150016/102364/2026.   |                |                         |                 |                                                              |                         |          |          |
-|                           | 25;CNH         |                         |                 |                                                              |                         |          |          |
-|                           |                |                         | 00667835108,    | 21.                                                          |                         |          |          |
+| 06546426830, 00165259871,              | art.                | ART 165 - pts.       |                                           | A;CNH nº 00044162376,                                                          | pts.                      | 47;CNH nº   | 47;CNH nº   |
+|----------------------------------------|---------------------|----------------------|-------------------------------------------|--------------------------------------------------------------------------------|---------------------------|-------------|-------------|
+| 06538954130,                           | pts.                | 26;CNH 27;CNH        | nº nº                                     | 02585027564, 05673274000,                                                      | pts. 25;CNH               | nº nº       | nº nº       |
+| 02664897770,                           | pts.                | 56;CNH               |                                           | pts. 03931300563, pts.                                                         | 37;CNH 25;CNH             | nº          | nº          |
+| 00055776284,                           | pts.                | 27;CNH               | nº nº                                     | 05333347772, pts.                                                              | 48;CNH                    | nº          | nº          |
+| 00597046715,                           | pts.                | 42;CNH               | nº                                        | 06077250719, pts.                                                              | 26;CNH                    | nº          | nº          |
+| 00078251631,                           | pts.                | 51;CNH               | nº                                        | 05290312390, pts.                                                              | 40;CNH                    | nº          | nº          |
+| 01986457735,                           | pts.                | 26;CNH               | nº                                        | pts.                                                                           | 36;CNH                    | nº          | nº          |
+| 05296373569,                           | pts.                | 35;CNH               | 00801791963, nº 05455475497,              | pts.                                                                           | 27;CNH                    | nº          | nº          |
+| 03403058433,                           | pts.                | 27;CNH               | nº                                        | 00097653572, pts.                                                              | 21;CNH                    | nº          | nº          |
+| 00305212720,                           | pts.                | 37;CNH               | nº                                        | 02594791729, pts.                                                              | 35;CNH                    | nº          | nº          |
+| 00500664084,                           | pts.                | 38;CNH               | nº                                        | 05227425566, pts. pts.                                                         | 26;CNH                    | nº          | nº          |
+| 00727611370,                           | pts.                | 38;CNH               | nº                                        | 00058429005, 00252679841,                                                      | 36;CNH                    | nº          | nº          |
+| 03814891795,                           | pts.                | 50;CNH               | nº                                        | pts. 03286629107,                                                              | 22;CNH                    | nº          | nº          |
+| 03249974629,                           | pts.                | 55;CNH               | nº                                        | pts.                                                                           | 22;CNH                    | nº          | nº          |
+| 00525403068,                           | pts.                | 55;CNH nº            | 05698944900,                              | art. 244                                                                       | INC I;CNH                 | nº          | nº          |
+| 00286496045,                           | pts.                | 26;CNH               | nº                                        | 06884236800, pts.                                                              | 28;CNH                    | nº          | nº          |
+| 06931505654,                           | pts.                | 36;CNH               | nº                                        | 05914680895, pts.                                                              | 43;CNH                    | nº          | nº          |
+| 00211672200,                           | pts.                | 43;CNH               | nº 04807478773, 04537315807,              | pts.                                                                           | 21;CNH                    | nº          | nº          |
+| 00548603747,                           | pts.                | 22;CNH               | nº                                        | pts.                                                                           | 58;CNH                    | nº          | nº          |
+| 00511608534,                           | pts.                | 29;CNH               | nº                                        | 00228902406, pts.                                                              | 29;CNH                    | nº          | nº          |
+| 01172235831,                           | pts.                | 22;CNH 25;CNH        | nº                                        | 00315638350, pts.                                                              | 39;CNH                    | nº          | nº          |
+| 01421801004,                           | pts.                |                      | nº                                        | 05000102815, pts.                                                              | 46;CNH                    | nº          | nº          |
+| 00033739116,                           | pts.                | 41;CNH 41;CNH        | nº                                        | pts.                                                                           | 26;CNH                    | nº          | nº          |
+| 00105050589,                           | pts.                |                      | 00976985407, nº 04778784696,              | pts.                                                                           | 50;CNH                    | nº          | nº          |
+| 05816128922,                           | pts.                | 38;CNH nº            | 04890652091,                              | art. 218                                                                       | INC III;CNH               | nº          | nº          |
+| 06888592342,                           | pts.                | 27;CNH               | nº 05873673727, 05804825878,              | pts.                                                                           | 52;CNH                    | nº          | nº          |
+| 00333888164,                           | pts.                | 38;CNH               | nº                                        | pts.                                                                           | 29;CNH                    | nº          | nº          |
+| 04950988255, 03834429598,              | pts. pts.           | 34;CNH 36;CNH        | nº nº                                     | 00385468343, pts. pts.                                                         | 44;CNH 40;CNH             | nº nº       | nº nº       |
+|                                        | pts.                | 41;CNH               | nº                                        | pts.                                                                           | 55;CNH                    | nº          | nº          |
+| 00140112094,                           |                     |                      | 03503965391, 01801576673, nº              | pts.                                                                           | 42;CNH                    | nº          | nº          |
+| 00501457416, 03743390744,              | pts. pts.           | 40;CNH 37;CNH        | 01542164858, nº 00136812407, 05908941403, | pts.                                                                           | 37;CNH                    | nº          | nº          |
+|                                        |                     | 23;CNH               | nº                                        |                                                                                | 21;CNH                    |             |             |
+| 03628235357,                           | pts. pts.           | 52;CNH               | nº                                        | pts. pts.                                                                      | 28;CNH                    | nº          | nº          |
+| 03689839758, 01417564682,              | pts.                | 43;CNH               | 05243987791, nº                           | pts.                                                                           | 47;CNH                    | nº nº       | nº nº       |
+| 00766102245,                           | pts.                | 37;CNH               | nº                                        | pts.                                                                           | 44;CNH                    |             |             |
+|                                        | pts.                | 28;CNH               | 00549213668, 04619654299, 04470490023,    | pts.                                                                           | 48;CNH                    | nº nº       | nº nº       |
+| 00258537833,                           |                     | 28;CNH               | nº nº                                     | pts.                                                                           | 44;CNH                    |             |             |
+| 01675590434,                           | pts.                | 41;CNH               | nº                                        | pts.                                                                           | 40;CNH                    | nº          | nº          |
+| 00196883767,                           | pts. pts.           | 52;CNH               |                                           | 01422578050, 00284234858, 00461345703,                                         | 26;CNH                    | nº nº       | nº nº       |
+| 03140097630,                           | pts.                | 26;CNH               | nº nº                                     | pts. pts.                                                                      | 40;CNH                    |             |             |
+| 00013316601, 07349950765,              | pts.                | 33;CNH               | nº                                        | 01146084578, 03798660113, 06273705706,                                         | 48;CNH                    | nº nº       | nº nº       |
+| 05382403090,                           | pts.                | 42;CNH               | nº                                        | pts. pts. 05538188340, pts.                                                    | 40;CNH                    |             |             |
+| 00106562247,                           | pts.                | 29;CNH               | nº                                        |                                                                                | 26;CNH                    | nº nº       | nº nº       |
+| 05815092815,                           | pts.                |                      |                                           | pts.                                                                           | 23;CNH                    |             |             |
+| 05645374306,                           |                     | 39;CNH 34;CNH        | nº                                        | 00272162481, pts.                                                              | 24;CNH                    | nº          | nº          |
+| 01797155008,                           | pts. pts.           | 21;CNH               | nº nº                                     | 00898960393, pts.                                                              | 27;CNH                    | nº nº       | nº nº       |
+| 00465322787, 00746327807,              | pts.                | 37;CNH               | nº                                        | 00155191074, 00069251957, pts. pts.                                            | 31;CNH 23;CNH             | nº nº       | nº nº       |
+|                                        | pts.                | 53;CNH               |                                           | pts.                                                                           | 36;CNH                    |             |             |
+| 00146041863,                           | pts.                | 26;CNH               | nº nº                                     | 02664822021, 00314878175, 00034538280, pts. 03419418617,                       | 32;CNH                    | nº nº       | nº nº       |
+| 05930654704,                           | pts.                | 26;CNH               | nº                                        |                                                                                |                           |             |             |
+| 05486595931,                           | pts.                | 41;CNH               | nº nº                                     | pts. 04190326026, pts.                                                         | 24;CNH 37;CNH             | nº          | nº          |
+| 01458670200,                           | pts.                | 43;CNH               | nº                                        | pts.                                                                           | 27;CNH                    | nº nº       | nº nº       |
+| 05829195628, 00356993305,              | pts. pts.           | 25;CNH 21;CNH        | nº                                        | 06148838114, 00177688936, 00122747172, 00062211603,                            | 32;CNH 39;CNH             |             |             |
+| 00086818085,                           |                     | 25;CNH               | nº                                        | pts.                                                                           | 35;CNH                    | nº          | nº          |
+|                                        |                     |                      | nº                                        | pts.                                                                           |                           | nº          | nº          |
+| 05467284360,                           | pts.                |                      |                                           | pts.                                                                           |                           |             |             |
+|                                        | pts. pts.           |                      |                                           |                                                                                |                           | nº nº       | nº nº       |
+|                                        |                     | 29;CNH 59;CNH        | nº                                        | pts.                                                                           | 28;CNH                    |             |             |
+| 06092619470, 02914328078, 03137511543, | pts. pts.           | 25;CNH nº 21;CNH     | nº nº nº                                  | 01888134308, 06740698013, art. ART 02162955536, pts. 00111519591, 07122919652, | 165 - A;CNH 31;CNH 35;CNH | nº nº nº    | nº nº nº    |
+| 00054571380, 04519454147, 00322567620, | pts. pts. pts. pts. | 21;CNH 49;CNH 40;CNH | nº nº                                     | pts. pts. pts. pts.                                                            | 47;CNH 26;CNH             | nº          | nº          |
+|                                        |                     | 36;CNH 33;CNH        | nº                                        | 00352095659, 00356900290, 00232751001,                                         |                           | nº nº nº    | nº nº nº    |
+| 00170631519,                           |                     | 22;CNH               | nº                                        |                                                                                | 48;CNH                    |             |             |
+|                                        | pts. pts.           |                      | nº                                        |                                                                                |                           |             |             |
+| 00159499223, 02338085195,              | pts.                | 45;CNH               |                                           | pts. pts. pts. pts.                                                            | 44;CNH 51;CNH 45;CNH      | nº nº       | nº nº       |
+|                                        | pts.                | 22;CNH               | nº                                        | 06187566890, 01487315905, 00331123711,                                         |                           | nº          | nº          |
+| 00091821995,                           | pts.                | 32;CNH               | nº                                        | pts. pts.                                                                      | 26;CNH 48;CNH             | nº          | nº          |
+| 03632142480,                           | pts.                | 41;CNH               | nº                                        |                                                                                |                           | nº          | nº          |
+| 02664897770, 02588636089,              | pts.                | 39;CNH               | 04042934864, 05891911316, 01866816784,    |                                                                                |                           |             |             |
+| 00305190339,                           | pts.                | 32;CNH               | nº nº                                     | pts. pts.                                                                      | 33;CNH 23;CNH 21;CNH      |             |             |
+| 05707941092, 00146420835,              |                     |                      | nº                                        | pts.                                                                           | 26;CNH                    | nº          | nº          |
+|                                        | pts.                | 26;CNH               |                                           | 04806744901,                                                                   |                           | nº nº       | nº nº       |
+| 00390353975,                           |                     |                      |                                           |                                                                                |                           | nº          | nº          |
+| 00228919139,                           | pts.                | 26;CNH nº            | nº                                        | 00282406895, 00321629975,                                                      | 52;CNH                    |             |             |
+| pts.                                   |                     |                      |                                           |                                                                                | PROCESSO                  | Nº          | Nº          |
+| SEI-150016/102364/2026.                |                     |                      |                                           |                                                                                |                           |             |             |
+|                                        |                     | 25;CNH               |                                           |                                                                                |                           |             |             |
+|                                        |                     |                      |                                           | pts.                                                                           |                           |             |             |
+|                                        |                     |                      |                                           | 21.                                                                            |                           |             |             |
+|                                        |                     |                      |                                           | 00667835108,                                                                   |                           |             |             |
+|                                        |                     |                      |                                           | pts.                                                                           |                           |             |             |
 
 O DEPARTAMENTO DE  TRÂNSITO DO  ESTADO DO  RIO DE  JANEIRO -  DETRAN/RJ , depois de  esgotadas todas as  tentativas de ciência por meio  de Notificação via remessa postal (art.  23 da Resolução CONTRAN n. 723/2018), NOTIFICA os condutores, abaixo relacionados,  para torna-los  cientes da  obrigação de  entregar sua  Carteira  Nacional  de  Habilitação-CNH,  caso  já  não  se  encontre  acautelada, em virtude do trânsito em julgado do Processo de Suspensão do Direito  de Dirigir.  A  imposição  da penalidade  será  inscrita no  RENACH, de  acordo com o artigo 16  da Resolução do  CONTRAN nº 723/2018. A  CNH ficará apreendida  e será devolvida ao  infrator depois  de cumprido  o  prazo  de Suspensão  do  Exercício  do Direito  de Dirigir  e  comprovada á  realização  e  aprovação  do Curso  de  Reciclagem para Condutores Infratores  (CRCI), conforme Resoluções CONTRAN  n.º  723/2018 e  168/2004  alterada  pela Resolução  CONTRAN 285/2008.  O condutor  deverá entregar  sua Carteira  Nacional de  Habilitação CNH, ao DETRAN-RJ, junto ao Núcleo de Documentos Acautelados  NUDA,  na  Avenida  Presidente  Vargas,  n.  817,  sobreloja,  Centro-RJ,  ou  em  qualquer  Posto  de Habilitação  no  prazo  de  10  (dez) dias  a  contar  da  data  de publicação  do  presente  Diário  Oficial.  Vale ressaltar  que, se  o infrator  estiver conduzindo  veículo, encerrado  o prazo para  entrega da CNH, será  instaurado processo administrativo de  cassação da  Carteira Nacional  de Habilitação  CNH,  nos termos do artigo  263, inciso I  do Código de  Trânsito Brasileiro ¿  CTB. CNH nº 03569293387, pts. 24;CNH nº 06427005900, pts. 23;CNH nº 02064160941, art.  ART  165  -  A;CNH  nº  05447297990,  art.  ART  165  A;CNH nº  06514612199,  art.  244 INC  II;CNH  nº 04235131508,  art. ART  165 -  A;CNH  nº 00334550940,  art. ART  165  A;CNH  nº 05862415391,  art. 244  INC  II;CNH nº  05617996995,  art. 244  INC I;CNH nº 05196009833,  art. ART 165 - A;CNH  nº 06078751325, art. 244 INC I;CNH nº 06963540840, art. 244 INC I;CNH nº 01154669921, art.  ART  165  -  A;CNH  nº  07423878268,  art.  ART  165  -  A;CNH  nº 07136242700,  art.  244  INC  I;CNH nº  07187523245,  art.  244  INC I;CNH nº 02190671693, art. 244 INC I;CNH nº 06384109382, art. ART 165 A;CNH nº 00275159852,  art. 244 INC I;CNH nº 03290296733, art. ART 165  A;CNH nº 00757789741, art. 218  INC III;CNH nº 04670999985, art.  218 INC  III;CNH nº  00495287108, art.  218 INC III;CNH nº 03981459466,  art. 218 INC III;CNH  nº 06997291282, art. 218 INC III;CNH nº 05398761385, art. 218 INC III;CNH nº 02541255144, art.  218 INC  III;CNH nº  07277432228, art.  218 INC III;CNH nº 00468646424,  art. 218 INC III;CNH  nº 05480431008, art. 218 INC III;CNH nº 00481893589, art. 218 INC III;CNH nº 00191010470, art.  218 INC  III;CNH nº  07896272979, art.  218 INC III;CNH  nº  07321701147, art.  218  INC  III;CNH nº  04809630898,  art. 218 INC III;CNH nº 06385306346, art. 218 INC III;CNH nº 04957567039, art.  218 INC  III;CNH nº  04247593154, art.  218 INC III;CNH nº 00267040201,  art. 218 INC III;CNH  nº 05028439030, art. 218 INC III;CNH nº 00178055486, art. 218 INC III;CNH nº 00696288103, art.  218 INC  III;CNH nº  04330525740, art.  218 INC III;CNH nº 00007489600,  art. 218 INC III;CNH  nº 07482646034, art. 218 INC III;CNH nº 01460612481, art. 218 INC III;CNH nº 06053787937,  art.  218  INC  III;CNH  nº  05991928110,  art.  218  INC III;CNH nº 01592258039,  art. 218 INC III;CNH  nº 06126292817, art. 218 INC III;CNH nº 04724841275, art. 218 INC III;CNH nº 06764289058, art.  218 INC  III;CNH nº  06659157999, art.  218 INC III;CNH nº 04558670171,  art. 218 INC III;CNH  nº 00130264485, art. 244 INC II;CNH nº 06816479527, art. 218 INC III;CNH nº 00046931579,  art.  170;CNH  nº  06224395553,  art.  244  INC  IV;CNH  nº 00078888772, art.  218 INC  III;CNH nº  02253202005, art.  244 INC IV;CNH  nº  05000591238,  art.  244 INC  II;CNH  nº  02091772510,  art. 244 INC I;CNH nº 00303693938, art. 244 INC II;CNH nº 05203818005,  art.  244  INC  I;CNH nº  06996787851,  art.  218  INC III;CNH nº 00399585646, art. 244 INC I;CNH nº 06311736303, art. 244 INC  I;CNH  nº  00025145745,  art.  244  INC  I;CNH  nº  02798889790,  art. ART 165 -A;CNH nº 00291887225, art. 218 INC III;CNH nº 00958800554, art.  218 INC  III;CNH nº 04695965191,  art. ART  165 -A;CNH nº 00060490464, art. 218  INC III;CNH nº 00149533909, art. 218 INC III;CNH nº 05467284360, art. 218 INC III;CNH nº 00554627201,  art.  244  INC  I;CNH nº  00174247487,  art.  244  INC I;CNH  nº 00854997841,  art.  218 INC  III;CNH  nº 06172922870,  art. 244 INC I;CNH nº 06204832170, art. 244 INC I;CNH nº 00068765887, art.  210;CNH  nº  04535732087,  art.  244  INC  I;CNH  nº  06629597542, art.  ART  165  -  A;CNH  nº  01849057190,  art.  244  INC  I;CNH  nº 01158309051,  art. 218  INC III;CNH  nº 06934423011,  art. 244  INC II;CNH  nº  03985274105, art.  170;CNH  nº  05802458760, art.  244  INC I;CNH  nº  00289080872, pts.  21;CNH  nº  07280176903,  art. ART 165 A;CNH nº  05449659950, art. 244  INC II;CNH nº  05364904841, art. 244 INC I;CNH nº 05829187636, art. 218 INC III;CNH nº 03998684289, art.  244 INC  I;CNH nº  06044311210, art.  244 INC I;CNH  nº  00361078883,  art.  244  INC  I;CNH  nº  02027352507,  art.  253 -  A;CNH nº 03722382917, art. ART 165 - A;CNH nº 07525619414, art. ART  165 -  A;CNH  nº 06881331923,  art. ART  165  A;CNH  nº 06819664519, art.  218 INC  III;CNH nº  06737298148, art.  218 INC III;CNH  nº 06775968477,  art.  244 INC  I;CNH  nº 07606323647,  art. 244 INC I;CNH nº 06680469367, art. 218 INC III;CNH nº 05788108214, art.  218 INC  III;CNH nº  05967908065, art.  244 INC I;CNH nº 06882048700,  art. ART 165 - A;CNH  nº 03384674018, art. 244 INC I;CNH nº 06961370318, art. ART 165 -A;CNH nº 00302638803,  art.  244  INC  I;CNH nº  05515765190,  art.  244  INC I;CNH nº 07508741209, art. 244 INC I;CNH nº 00700805580, art. ART 165 -A;CNH nº 02349243665, art. ART 165 -A;CNH nº 05021211920, art.  244 INC  IV;CNH nº  07408666576, art.  244 INC II;CNH  nº 06454797969,  art.  244 INC  II;CNH  nº 00235916421,  art. 244 INC I;CNH nº 07082410901, art. 244 INC I;CNH nº 06088065434, pts. 24;CNH  nº 07060276906, art.  244 INC II;CNH  nº 00297189170, art. 218 INC III;CNH nº 00264225407, art. 218 INC III;CNH nº 00255200224,  art. 165;CNH  nº 06455719600,  art. ART  165 -  A;CNH nº 00014679231, art.  ART 165 -A;CNH nº  00177005283, art. ART 165 -A;CNH nº 07098399759, art. ART 165 -A;CNH nº 06517880153,  art.  244  INC  I;CNH nº  05597125207,  art.  244  INC I;CNH nº 03818237580, art. 244 INC I;CNH nº 00291464828, art. ART 165 A;CNH nº 07256520240,  art. 244 INC I;CNH nº 07488178048, art. 244 INC I;CNH nº 07325372195, art. 244 INC I;CNH nº 00519614558, art.  ART  165  -  A;CNH  nº  00092911830,  art.  ART  165  A;CNH  nº 04830041436, art.  244 INC I;CNH nº  02033304918, art. 244 INC I;CNH nº 00793515851, art. 244 INC I;CNH nº 06904493596, art. 244 INC II;CNH nº 00167699377, art. 244 INC  V;CNH nº 05134495391,  art.  244  INC  I;CNH nº  04793551442,  art.  244  INC I;CNH  nº  06369612713,  art.  244  INC  I;CNH  nº  06220023648,  art.  244 INC I;CNH nº 05463912851, art. 244 INC II;CNH nº 04567930514, art. 244 INC I;CNH nº 00005806030, art. ART 165 -A;CNH nº 07140577760,  art. ART  165 -  A;CNH nº  07687133027, art.  175;CNH nº 05088249233, art.  ART 165 -A;CNH nº  00560581955, art. ART 165 -A;CNH nº 01130023129, art. ART 165 -A;CNH nº 05402405931, art.  ART  165  -  A;CNH  nº  03106320241,  art.  ART  165  A;CNH nº 01318028091, art. ART 165 - A;CNH nº 05938339130, art. ART 165 -A;CNH nº 02411782017, art. 244 INC I;CNH nº 04471095563, art.  244 INC II;CNH  nº 06482631158, art.  210;CNH nº 02547055916, art.  ART  165  -  A;CNH  nº  07401822659,  art.  ART  165  A;CNH nº 00328370406, art. ART 165 - A;CNH nº 07082783305, art. ART  165 -  A;CNH  nº 06091982612,  art. ART  165  A;CNH  nº 05020285722,  art. 244  INC I;CNH  nº  06438638953, art.  ART 165  A;CNH  nº  00045649817,  art.  ART  165 -  A;CNH  nº  06786028765,  art. 244 INC V;CNH nº 04063194340, art. ART 165 -A;CNH nº 05552659511, art. ART 165 -  A;CNH nº 06699789507, art. 244 INC I;CNH nº 00323739377,  art. ART 165 - A;CNH  nº 00441925107, art. ART  165 -  A;CNH  nº 03805655887,  art. ART  165  A;CNH  nº 06180948242,  art. 244  INC  II;CNH nº  00009049868,  art. 244  INC I;CNH  nº  06466845538,  art.  244  INC  I;CNH  nº  05076580463,  art.  244 INC I;CNH  nº 04620854861, art.  ART 165 - A;CNH  nº 07383444551, art.  244  INC  I;CNH  nº  05182076400,  art.  ART  165  -  A;CNH  nº 02109084785, art.  ART 165 -  A;CNH nº 04375431700, art.  244 INC I;CNH nº 05350115319, art. 244 INC II;CNH nº 02315536982, art. 244 INC  I;CNH  nº  06417375830,  art.  244  INC  I;CNH  nº  04443106713,  art. ART 165 -A;CNH nº 06331740884, art. 244 INC II;CNH nº 07851765050,  art. 244  INC I;CNH  nº  07140568535, art.  ART 165  A;CNH  nº  00935108828,  art.  ART  165 -  A;CNH  nº  05901577208,  art. 244 INC I;CNH nº 07789339063, art. ART 165 -A;CNH nº 04031492470, art.  ART 165 -  A;CNH nº 07995585106, art.  244 INC I;CNH nº 07316134793, art. 175;CNH nº 03901814800, art. ART 165 A;CNH nº 03456510036, art. ART 165 - A;CNH nº 00315720310, art. 244 INC I;CNH nº 00672909380, art. ART 165 -A;CNH nº 00334538279, art.  ART 165 -  A;CNH nº 04943421700, art.  244 INC I;CNH nº 06939112535, art. ART  165 - A;CNH nº 04781651435, pts. 44;CNH  nº  03142279131,  pts.  21;CNH nº  07280176903,  art.  244  INC I;CNH nº 03215357774,  art. ART 165 - A;CNH  nº 00576701501, art. 244 INC I;CNH nº 06453529885, art. 244 INC I;CNH nº 06538593295, art. 244 INC II;CNH nº 00293031285,  art. ART 165 -A;CNH nº 00312365110, pts. 35;CNH nº 05327420091, pts. 40;CNH nº 02965620491,  pts. 29;CNH  nº 02815453637,  art. 244  INC I;CNH  nº 07134349888,  art. 244  INC I;CNH  nº  06879929646, art.  ART 165  A;CNH  nº  05244145143,  art.  ART  165 -  A;CNH  nº  06201634209,  art. 244 INC I;CNH nº 04185260061, art. ART 165 -A;CNH nº 07395766714,  art. 244  INC  II;CNH nº  02876767940,  art. 244  INC I;CNH nº 02506171317, art. 244 INC II;CNH nº 00300088068, art. 218 INC III;CNH nº  05305764960, art. 244 INC  I;CNH nº 05253160886, art. 191;CNH nº 05376579931, art. ART 165 -A;CNH nº 02650643421,  art.  244  INC  I;CNH nº  01828415357,  art.  244  INC I;CNH nº 00028287213, art. 244 INC II;CNH nº 07032894967, art. 218 INC  III;CNH  nº 07234197000,  art.  218  INC III;CNH  nº  07279398588, art. 218  INC III;CNH nº 06338359511, art.  218 INC III;CNH nº 05423950916, art.  218 INC  III;CNH nº  07349096204, art.  218 INC III;CNH  nº  00246613570, art.  218  INC  III;CNH nº  00112047601,  art. 218 INC III;CNH nº 01267985971, art. 218 INC III;CNH nº 00153163030, art.  218 INC  III;CNH nº  00186259058, art.  218 INC III;CNH  nº 02485253366,  art.  244 INC  I;CNH  nº 00322544408,  art. ART  165 -  A;CNH  nº 02818684972,  art. ART  165  A;CNH  nº 00174020973,  art. 210;CNH  nº 04415871149,  art. 244  INC I;CNH  nº 07131051924,  art.  244  INC  II;CNH  nº  06363127349,  art.  ART  165  A;CNH  nº 05807117537,  art.  ART  165 -  A;CNH  nº 04534223489,  art. 218 INC III;CNH nº 06641235809, art. 218 INC III;CNH nº 07655619448, art.  218 INC  III;CNH nº  04095608633, art.  218 INC III;CNH nº 03979371448,  art. 218 INC III;CNH  nº 05344199884, art.
 
@@ -14970,21 +13943,15 @@ O  B  J  E  TO  :
 
 para  UPA
 
-Cabuçu,  Nova
-
-Nova  Iguaçu
-
-24h  Mesquita, Iguaçu  I-
+-
 
 I
 
--
+24h  Mesquita, Iguaçu  I- Cabuçu,  Nova Nova  Iguaçu software  de  gestão  hospitalar, Grande  II,  Santa
 
-software  de  gestão  hospitalar,
+Grande  I,  Campo
 
-Grande  II,  Santa
-
-B.Bairro,  Campo Grande  I,  Campo
+B.Bairro,  Campo
 
 raí, Ilha  do
 
@@ -14996,63 +13963,61 @@ Campos dos  Goytacazes, Maré,
 
 Governador,  Realengo,
 
-Tijuca,  SEAP, Ambulatório
+Tijuca,  SEAP, Valença,
 
 carepaguá,
 
 Queimados,  São Pedro  da Aldeia,  Niterói, Botafogo,  Copacabana, Ja-
 
-dades AME  e Especiali- Médico  de Valença, conforme  solicitado e comprovado através  da
-
-31/01/2026,
+dades de período
 
 -
 
-no
-
 a
 
-de
+Especiali-
 
-período
+Ambulatório Médico  de
+
+conforme  solicitado
+
+31/01/2026, e comprovado através  da PAM  Cavalcanti,
 
 01/01/2026
 
-PAM  Cavalcanti,
+no
+
+AME  e
 
 ção das notas fiscais devidamente atestadas, tendo sua viabilidade ju-
 
-VALOR  TOTAL:
-
 apresenta-
 
-R$  311.625,36  (trezentos
+VALOR  TOTAL: R$  311.625,36  (trezentos e  onze  mil, seiscentos  e vinte  e  cinco  reais  e  trinta  e  seis  centavos).
 
 rídica  confirmada  pelo  Parecer  n.º  967  (SEI-128024728).
 
-vinte  e  cinco  reais  e  trinta  e  seis  centavos).
-
-F  U  N  D  A  M  E  N  TO  :
+DATA DA ASSINATURA:
 
 29/05/2026.
 
-DATA DA ASSINATURA:
-
 080002/005620/2026.
 
-e  onze  mil, seiscentos  e
+no Processo
 
-Decidido Processo no
+F  U  N  D  A  M  E  N  TO  :
 
 ## I  N S  T  R  U  M  E  N  TO  :
 
 Administrativo
 
+Decidido
+
 PA  R  T  E  S  :
 
-SEI-
-
 nº
+
+SEI-
 
 Fundação Saúde do Estado do Rio de Janeiro e a empresa
 
@@ -15068,11 +14033,13 @@ O  B  J  E  TO  :
 
 Hospital  Estadual  Getúlio  Vargas  -  HEGV,  no  período  de  03/03/2026  a
 
+para  o
+
 de  Bucomaxilofacial,
 
 conforme  solicitado
 
-31/03/2026, e comprovado através  da para  o apresenta-
+31/03/2026, e comprovado através  da apresenta-
 
 rídica  confirmada  pelo  Parecer  n.º  1693  (SEI-131768183).
 
@@ -15110,9 +14077,7 @@ DATA DA ASSINATURA:
 
 ## EXTRATO DE TERMO
 
-INSTRUMENTO:
-
-Apostila  SEEDUC  n°  09/2026
+## INSTRUMENTO: Apostila  SEEDUC  n°  09/2026
 
 PARTES: O  Estado  do  Rio  de  Janeiro,  por  intermédio  da  Secretaria de  Estado  de  Educação  -  SEEDUC/RJ,  e  LINDAURA  BRAZ DE CARVA  L  H  O
 
@@ -15142,7 +14107,53 @@ Id:  2739085
 
 ## EXTRATO DE TERMO ADITIVO
 
-I  N S  T  R  U  M  E  N  TO  : 5º  Termo  Aditivo  nº  10/2026 PARTES: O  Estado  do  Rio  de  Janeiro,  por  intermédio  da  Secretaria de Estado de  Educação, e a empresa  MONGERAL AEGON SEGUROS E PREVIDÊNCIA S/A. CNPJ: 33.608.308/0001-73 OBJETO: Prorrogação excepcional  do prazo  de vigência  do Contrato SEEDUC nº 20/2021  e de  aplicação  de reajuste,  relativo à  prestação de  serviços de  seguro de  vida para  os alunos  da rede  pública estadual da  Secretaria de  Estado de Educação  - SEEDUC/RJ,  em efetivo  exercício  de  estágio  supervisionado. DATA DA ASSINATURA: 29/05/2026 PRAZO: Fica prorrogado o prazo de vigência do Contrato SEEDUC nº 20/2021,  por  12  (doze)  meses,  a  contar  de  01  de  junho  de  2026 VALOR: R$ 75.935,88  (setenta  e  cinco  mil,  novecentos  e  trinta  e  cinco  reais  e  oitenta  e  oito  centavos) FUNDAMENTO: art.  57, §  4º,  da  Lei nº  8.666,  de  1993 e  suas  alterações PROGRAMA DE TRABALHO: 1810.12.363.0443.5623 CÓDIGO DE DESPESAS: 33903910 FONTE DE RECURSOS: 1.550.100 NOTA DE EMPENHO: 2026NE08457 PROCESSOS  Nº  SEI-03/029/001935/2019,  SEI-030029/011704/2021, SEI-030029/003283/2021, SEI-030029/001022/2024 e SEI-
+## I  N S  T  R  U  M  E  N  TO  :
+
+5º  Termo  Aditivo  nº  10/2026
+
+de Estado de  Educação, e a empresa  MONGERAL AEGON SEGU-
+
+PARTES:
+
+O  Estado  do  Rio  de  Janeiro,  por  intermédio  da  Secretaria
+
+ROS E PREVIDÊNCIA S/A. CNPJ: 33.608.308/0001-73
+
+SEEDUC nº 20/2021  e de  aplicação  de reajuste,  relativo
+
+OBJETO:
+
+Prorrogação excepcional  do
+
+de  serviços prazo  de vigência  do de  seguro de  vida para  os alunos  da Contrato rede  pública
+
+## tivo  exercício  de  estágio  supervisionado. DATA DA ASSINATURA: 29/05/2026
+
+tadual es- à  prestação da  Secretaria de  Estado de Educação  - SEEDUC/RJ,  em efe-
+
+PRAZO: Fica prorrogado o prazo de vigência do Contrato SEEDUC nº 20/2021,  por  12  (doze)  meses,  a  contar  de  01  de  junho  de  2026
+
+co  reais  e  oitenta  e  oito  centavos)
+
+VALOR:
+
+R$ 75.935,88  (setenta  e  cinco  mil,  novecentos  e  trinta  e  cin-
+
+FUNDAMENTO: art.  57, §  4º,  da  Lei nº  8.666,  de  1993 e  suas  alterações
+
+CÓDIGO DE DESPESAS:
+
+PROGRAMA DE TRABALHO:
+
+1810.12.363.0443.5623
+
+FONTE DE RECURSOS:
+
+1.550.100
+
+33903910
+
+NOTA DE EMPENHO: 2026NE08457 PROCESSOS  Nº  SEI-03/029/001935/2019,  SEI-030029/011704/2021, SEI-030029/003283/2021, SEI-030029/001022/2024 e SEI030001/004523/2025.
 
 Id:  2739091
 
@@ -15190,15 +14201,15 @@ Alexander  Louzada  -  1997
 
 Processo  nº  SEI-030001/033669/2026 Rosimeri  da  Cruz  Custódio  Ramos  -  1992
 
-030001/004523/2025.
-
 5  -  COLÉGIO  DUQUE  DE  CAXIAS  -  Duque  de  Caxias ENSINO  MÉDIO NA  MODALIDADE  EDUCAÇÃO  DE JOVENS  E A  D  U  LTO  S Processo  nº  SEI-030001/024682/2026 Deise  Fernandes  Monte  Raso  da  Silva  -  2014
 
 6  -  CENTRO  EDUCACIONAL GONÇALENSE - São Gonçalo ENSINO  FUNDAMENTAL NA  MODALIDADE  EDUCAÇÃO DE  JOVENS E ADULTOS Processo  nº  SEI-030001/049876/2026 Paulo  Sergio  Ferreira  Nunes  -  1984
 
 7  -  COLÉGIO  ESTADUAL  VINICIUS  DE  MORAES  -  Rio  de  Janeiro
 
-ENSINO MÉDIO Processo  nº  SEI-030001/067689/2025 Elza  de  Oliveira  BrivioKamel  -  1995
+ENSINO MÉDIO
+
+Processo  nº  SEI-030001/067689/2025 Elza  de  Oliveira  BrivioKamel  -  1995
 
 8  -  COLÉGIOCENECISTA LUIZ MURAT - Itaguaí ENSINO FUNDAMENTAL Processo  nº  SEI-030001/025753/2026
 
@@ -15270,9 +14281,7 @@ Paulo  Sergio  Ferreira  Nunes  -  1984
 
 ENSINO MÉDIO Processo  nº  SEI-030001/108089/2025 Enzo  Nascimento  de  Oliveira  -  2022
 
-## 27  -  COLÉGIO E  CURSO  ZERO HUM- Rio de Janeiro
-
-ENSINO MÉDIO
+27  -  COLÉGIO E  CURSO  ZERO HUM- Rio de Janeiro ENSINO MÉDIO
 
 Processo  nº  SEI-030001/011742/2026 Rafael  da  Costa  Simas  Martins  -  2014
 
@@ -15284,11 +14293,11 @@ Monike  Marçal  da  Silva  -  2005
 
 <!-- image -->
 
-RIO
-
 DO
 
 ESTADO
+
+RIO
 
 DE
 
@@ -15298,9 +14307,7 @@ DO
 
 30  -  CENTRO  DE  EDUCAÇÃO MODERNA -C.E.M. - Magé ENSINO DE 2º GRAU PARA O MAGISTÉRIO (DE 1ª A 4ª SÉRIE do 1º  GRAU) Processo  nº  SEI-030001/055299/2026 Mariléia  Carneiro  de  Lima  -1977
 
-ENSINO MÉDIO  NA MODALIDADE DE EDUCAÇÃO  DE JOVENS E
-
-31  -FREE-  CENTRO  CULTURAL LIVRE - Petrópolis A  D  U  LTO  S Processo  nº  SEI-030001/055033/2026 Patricia  Rocha  de  Carvalho  -  2006
+31  -FREE-  CENTRO  CULTURAL LIVRE - Petrópolis ENSINO MÉDIO  NA MODALIDADE DE EDUCAÇÃO  DE JOVENS E A  D  U  LTO  S Processo  nº  SEI-030001/055033/2026 Patricia  Rocha  de  Carvalho  -  2006
 
 32  -  COLÉGIO  KLÜBER-  Magé ENSINO MÉDIO  NA MODALIDADE DE EDUCAÇÃO  DE JOVENS E A  D  U  LTO  S Processo  nº  SEI-030001/055974/2026 Diego  Raphael  Soliva  dos  Santos  -  2002
 
@@ -15365,19 +14372,19 @@ O  DIRETOR DO  COLÉGIO  ESTADUAL  MACHADO DE  ASSIS, .Censo Escolar  33055734 -
 
 TERÇA-FEIRA
 
-49
+-
+
+2
+
+JUNHO
 
 DE
-
--
 
 DE
 
 2026
 
-JUNHO
-
-2
+49
 
 veis pela publicação:  Nádia da Conceição Alves  dos Santos, ID 562186-0  e  Liliane  Amitrano  de Alencar  Imbassahy,  ID  4325944-8. Processo  nº  SEI-030001/058743/2026.
 
@@ -15606,56 +14613,56 @@ JANEIRO
 | 1984877         | JOÃO GARCIA CAMPOS                                    | CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- CATIVO MASCULINO M                       | Aprovado          | 49    |
 | 1985046         | LUZIANE SANTOS MARCILIO                               | CÓD 101 - AGENTE DE SEGURANÇA SOCIOEDU- CATIVO FEMININO F                        | Aprovado          | 49    |
 
-|   1985110 | WILIAM SILVA DE SOUZA                   | CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M                      | Aprovado   |   45 |
-|-----------|-----------------------------------------|----------------------------------------------------------------|------------|------|
-|   1985148 | RENAN NORONHA DE ME- DEIROS             | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   43 |
-|   1985216 | KARILENE DA SILVA XAVIER                | CATIVO MASCULINO CÓD 301 - AGENTE AD- F                        | Aprovado   |   46 |
-|   1985270 | THIAGO SOARES FARIAS                    | MINISTRATIVO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M         | Aprovado   |   49 |
-|   1985560 | CARLOS EDUARDO ANTU- NES DE OLIVEIRA    | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   47 |
-|   1985857 | OSCAR FERREIRA SOARES                   | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   46 |
-|   1986038 | DIANA TOSTES DE SIQUEIRA                | CATIVO MASCULINO CÓD 301 - AGENTE AD- F                        | Aprovado   |   42 |
-|   1986060 | PARROT BASTOS ROBSON DA COSTA GONÇA- LO | MINISTRATIVO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M         | Aprovado   |   44 |
-|   1986218 | DANIEL COSTA FRANKLIM                   | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   45 |
-|   1986244 | FELIPE LOPES DA SILVA                   | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   48 |
-|   1986325 | DIEGO SILVA GOMES                       | CATIVO MASCULINO CÓD 301 - AGENTE AD- MINISTRATIVO M           | Aprovado   |   47 |
-|   1986885 | JAIRO NOGUEIRA NASCI- MENTO             | CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M                      | Aprovado   |   46 |
-|   1986939 | SERGIO DA COSTA CARNEI- RO JUNIOR       | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   50 |
-|   1987281 | TIAGO FORTUNATO DE SOU- ZA              | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   42 |
-|   1987297 | JOÃO IÓRIO VIEIRA DA SIL- VA            | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   44 |
-|   1987461 | RODRIGO NOGUEIRA JR                     | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   46 |
-|   1987571 | FERNANDO COSTA DE PAU- LA               | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   44 |
-|   1987852 | WASHINGTON LUIZ DA SILVA CRUZ           | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   46 |
-|   1988273 | FERNANDO DE OLIVEIRA GOMES JUNIOR       | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   49 |
-|   1988300 | MICHÉRLON BRISSANTT NIOR                | CATIVO MASCULINO JU- CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M | Aprovado   |   44 |
-|   1988612 | DANIEL DE JESUS LAGE RI- BEIRO          | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   50 |
-|   1988618 | MARCELA CRISTINA DA SIL- VA DE ALMEIDA  | CATIVO MASCULINO CÓD 101 - AGENTE DE SEGURANÇA SOCIOEDU- F     | Aprovado   |   44 |
-|   1988944 | ANDRE LUIZ YGLESIAS FER- REIRA          | CATIVO FEMININO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M      | Aprovado   |   50 |
-|   1989137 | LUCIANO LACERDA SANTOS                  | CATIVO MASCULINO DOS CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M | Aprovado   |   46 |
-|   1989380 | ARILSON BARRETO DAS VES                 | CATIVO MASCULINO NE- CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M | Aprovado   |   47 |
-|   1989654 | AKAUAN JONES DOS SAN- TOS RODRIGUES     | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   36 |
-|   1990219 | KARLA ADRIANNE ROCHA                    | CATIVO MASCULINO CÓD 301 - AGENTE AD- MINISTRATIVO F           | Aprovado   |   43 |
-|   1990235 | RIBEIRO SAMPAIO ERIK PRACA MAIA         | CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M                      | Aprovado   |   45 |
-|   1990285 | DIOGO DA COSTA PEREIRA                  | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   46 |
-|   1990289 | FABIO UBIRAJARA PALHA LEITE             | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   45 |
-|   1990393 | MARCO ANTONIO                           | CATIVO MASCULINO STHEL CÓD 102 - AGENTE DE M                   | Aprovado   |   49 |
-|   1990946 | PAES GLEISEANE CAZUZA DOS               | SEGURANÇA SOCIOEDU- CATIVO MASCULINO CÓD 303 - TÉCNICO DE F    | Aprovado   |   39 |
-|   1991311 | SANTOS ALEX LIMA DO AMARAL              | ENFERMAGEM CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M           | Aprovado   |   48 |
-|   1991489 | ANNE GABRIELLE SOARES                   | CATIVO MASCULINO CÓD 301 - AGENTE AD- F                        | Aprovado   |   40 |
-|   1991499 | DE ARAUJO TATIANE DA PAIXÃO SILVA       | MINISTRATIVO CÓD 301 - AGENTE AD- MINISTRATIVO F               | Aprovado   |   45 |
-|   1991646 | LEONARDO VIEIRA RODRI- GUES             | CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- CATIVO MASCULINO M     | Aprovado   |   46 |
-|   1991655 | ALEXANDRA DOS SANTOS MENEZES            | CÓD 305 - TÉCNICO EM SUPORTE E COMUNICA- F                     | Aprovado   |   42 |
-|   1991745 | THIAGO EVANGELISTA DOS                  | ÇÃO EM TI CÓD 303 - TÉCNICO DE M                               | Aprovado   |   46 |
-|   1991771 | SANTOS DA SILVA FERNANDO PIRES DA SILVA | ENFERMAGEM CÓD 105 - ASSISTENTE M                              | Aprovado   |   44 |
-|   1991983 | FELIPE DUTRA TINOCO                     | SOCIAL CÓD 301 - AGENTE AD- MINISTRATIVO M                     | Aprovado   |   45 |
-|   1992726 | CLAUDIO MARCIO DA SILVA MORAIS          | CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M                      | Aprovado   |   46 |
-|   1992825 | BRUNO FREIRE DA SILVA                   | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   43 |
-|   1993034 | LUCCAS DINIZ DA FONSSE- CA              | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   48 |
-|   1993213 | RODRIGO FERNANDES SOUSA                 | CATIVO MASCULINO DE CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M  | Aprovado   |   43 |
-|   1993726 | VITOR HUGO LESSA NEVES                  | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M     | Aprovado   |   44 |
-|   1993780 | JÉSSICA BORBA ANTÔNIO                   | CATIVO MASCULINO CÓD 101 - AGENTE DE SEGURANÇA SOCIOEDU- F     | Aprovado   |   48 |
-|   1993837 | CÁSSIO CAETANO NEVES                    | CATIVO FEMININO CÓD 102 - AGENTE DE                            | Aprovado   |   37 |
-|   1993890 | MARCELO FIALHO DA SILVA                 | SEGURANÇA SOCIOEDU- CATIVO MASCULINO M                         |            |   50 |
-|           |                                         | CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- CATIVO MASCULINO M     | Aprovado   |      |
+|   1985110 | WILIAM SILVA DE SOUZA                   | CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M                        | Aprovado   |   45 |
+|-----------|-----------------------------------------|------------------------------------------------------------------|------------|------|
+|   1985148 | RENAN NORONHA DE ME- DEIROS             | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   43 |
+|   1985216 | KARILENE DA SILVA XAVIER                | CATIVO MASCULINO CÓD 301 - AGENTE AD- F                          | Aprovado   |   46 |
+|   1985270 | THIAGO SOARES FARIAS                    | MINISTRATIVO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M           | Aprovado   |   49 |
+|   1985560 | CARLOS EDUARDO ANTU- NES DE OLIVEIRA    | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   47 |
+|   1985857 | OSCAR FERREIRA SOARES                   | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   46 |
+|   1986038 | DIANA TOSTES DE SIQUEIRA                | CATIVO MASCULINO CÓD 301 - AGENTE AD- F                          | Aprovado   |   42 |
+|   1986060 | PARROT BASTOS ROBSON DA COSTA GONÇA- LO | MINISTRATIVO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M           | Aprovado   |   44 |
+|   1986218 | DANIEL COSTA FRANKLIM                   | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   45 |
+|   1986244 | FELIPE LOPES DA SILVA                   | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   48 |
+|   1986325 | DIEGO SILVA GOMES                       | CATIVO MASCULINO CÓD 301 - AGENTE AD- MINISTRATIVO M             | Aprovado   |   47 |
+|   1986885 | JAIRO NOGUEIRA NASCI- MENTO             | CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M                        | Aprovado   |   46 |
+|   1986939 | SERGIO DA COSTA CARNEI- RO JUNIOR       | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   50 |
+|   1987281 | TIAGO FORTUNATO DE SOU- ZA              | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   42 |
+|   1987297 | JOÃO IÓRIO VIEIRA DA SIL- VA            | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   44 |
+|   1987461 | RODRIGO NOGUEIRA JR                     | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   46 |
+|   1987571 | FERNANDO COSTA DE PAU- LA               | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   44 |
+|   1987852 | WASHINGTON LUIZ DA SILVA CRUZ           | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   46 |
+|   1988273 | FERNANDO DE OLIVEIRA GOMES JUNIOR       | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   49 |
+|   1988300 | MICHÉRLON BRISSANTT NIOR                | CATIVO MASCULINO JU- CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M   | Aprovado   |   44 |
+|   1988612 | DANIEL DE JESUS LAGE BEIRO              | CATIVO MASCULINO RI- CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M   | Aprovado   |   50 |
+|   1988618 | MARCELA CRISTINA DA SIL- VA DE ALMEIDA  | CATIVO MASCULINO CÓD 101 - AGENTE DE SEGURANÇA SOCIOEDU- F       | Aprovado   |   44 |
+|   1988944 | ANDRE LUIZ YGLESIAS REIRA               | CATIVO FEMININO FER- CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M   | Aprovado   |   50 |
+|   1989137 | LUCIANO LACERDA SANTOS                  | CATIVO MASCULINO DOS CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M   | Aprovado   |   46 |
+|   1989380 | ARILSON BARRETO DAS VES                 | CATIVO MASCULINO NE- CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M   | Aprovado   |   47 |
+|   1989654 | AKAUAN JONES DOS TOS RODRIGUES          | CATIVO MASCULINO SAN- CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M  | Aprovado   |   36 |
+|   1990219 | KARLA ADRIANNE                          | CATIVO MASCULINO ROCHA CÓD 301 - AGENTE AD- MINISTRATIVO F       | Aprovado   |   43 |
+|   1990235 | RIBEIRO SAMPAIO ERIK PRACA MAIA         | CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M                        | Aprovado   |   45 |
+|   1990285 | DIOGO DA COSTA PEREIRA                  | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   46 |
+|   1990289 | FABIO UBIRAJARA LEITE                   | CATIVO MASCULINO PALHA CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M | Aprovado   |   45 |
+|   1990393 | MARCO ANTONIO PAES                      | CATIVO MASCULINO STHEL CÓD 102 - AGENTE DE M                     | Aprovado   |   49 |
+|   1990946 | GLEISEANE CAZUZA                        | SEGURANÇA SOCIOEDU- CATIVO MASCULINO DOS CÓD 303 - TÉCNICO DE F  | Aprovado   |   39 |
+|   1991311 | SANTOS ALEX LIMA DO AMARAL              | ENFERMAGEM CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M             | Aprovado   |   48 |
+|   1991489 | ANNE GABRIELLE SOARES                   | CATIVO MASCULINO CÓD 301 - AGENTE AD- F                          | Aprovado   |   40 |
+|   1991499 | DE ARAUJO TATIANE DA PAIXÃO SILVA       | MINISTRATIVO CÓD 301 - AGENTE AD- MINISTRATIVO F                 | Aprovado   |   45 |
+|   1991646 | LEONARDO VIEIRA RODRI- GUES             | CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- CATIVO MASCULINO M       | Aprovado   |   46 |
+|   1991655 | ALEXANDRA DOS SANTOS MENEZES            | CÓD 305 - TÉCNICO EM SUPORTE E COMUNICA- ÇÃO EM TI F             | Aprovado   |   42 |
+|   1991745 | THIAGO EVANGELISTA DOS                  | CÓD 303 - TÉCNICO DE M                                           | Aprovado   |   46 |
+|   1991771 | SANTOS DA SILVA FERNANDO PIRES DA SILVA | ENFERMAGEM CÓD 105 - ASSISTENTE M                                | Aprovado   |   44 |
+|   1991983 | FELIPE DUTRA TINOCO                     | SOCIAL CÓD 301 - AGENTE AD- MINISTRATIVO M                       | Aprovado   |   45 |
+|   1992726 | CLAUDIO MARCIO DA SILVA MORAIS          | CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M                        | Aprovado   |   46 |
+|   1992825 | BRUNO FREIRE DA SILVA                   | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   43 |
+|   1993034 | LUCCAS DINIZ DA FONSSE- CA              | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   48 |
+|   1993213 | RODRIGO FERNANDES SOUSA                 | CATIVO MASCULINO DE CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M    | Aprovado   |   43 |
+|   1993726 | VITOR HUGO LESSA NEVES                  | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |   44 |
+|   1993780 | JÉSSICA BORBA ANTÔNIO                   | CATIVO MASCULINO CÓD 101 - AGENTE DE SEGURANÇA SOCIOEDU- F       | Aprovado   |   48 |
+|   1993837 | CÁSSIO CAETANO NEVES                    | CATIVO FEMININO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M        | Aprovado   |   37 |
+|   1993890 | MARCELO FIALHO DA                       | CATIVO MASCULINO CÓD 102 - AGENTE DE SEGURANÇA SOCIOEDU- M       | Aprovado   |      |
+|           | SILVA                                   | CATIVO MASCULINO                                                 |            |   50 |
 
 <!-- image -->
 
@@ -16267,9 +15274,7 @@ A  DIRETORA DO  INSTITUTO  DE ARTES torna público  e  homologa o  resultado  do
 | 2º       | Isaac Caetano Montes        | 8,97      | 9,47      | 9,30      | 9,24          |
 | 3º       | Cristiane Souza de Oliveira | 8,22      | 8,22      | 8,22      | 8,22          |
 
-## FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
-
-## SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
+## FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS
 
 ## E  D  I  TA  L
 
@@ -16323,9 +15328,7 @@ A  REITORA DA  UNIVERSIDADE ESTADUAL  DO NORTE  FLUMINENSE DARCY RIBEIRO - UENF,
 | Leonardo Santana Vieira   | Técnico Profissional De Nível Superior - Análise De Sistema E Suporte | APTO        |
 | Letícia Da Silva Ferreira | Técnico Profissional De Nível Superior - Psicólogo                    | APTO        |
 
-Secretaria de Estado de
-
-Transporte e Mobilidade Urbana
+Secretaria de Estado de Transporte e Mobilidade Urbana
 
 ## ADMINISTRAÇÃO VINCULADA
 
@@ -16641,7 +15644,21 @@ DE
 
 JANEIRO
 
-PRAZO: 6  (seis)  meses. DATA DA ASSINATURA: 29/05/2026. VALOR: R$  120.000,00  (cento  e  vinte  mil  reais). NOTA DE EMPENHO :  2026NE00722. FUNDAMENTO: Lei  nº  14.133,  de  1º  de  abril  de  2021. PROCESSO N° SEI-180002/001537/2026.
+PRAZO: 6  (seis)  meses.
+
+DATA DA ASSINATURA:
+
+29/05/2026.
+
+VALOR: R$  120.000,00  (cento  e  vinte  mil  reais).
+
+NOTA DE EMPENHO
+
+:  2026NE00722.
+
+FUNDAMENTO: Lei  nº  14.133,  de  1º  de  abril  de  2021.
+
+PROCESSO N° SEI-180002/001537/2026.
 
 INSTRUMENTO: CONTRATO DE  PRESTAÇÃO DE SERVICO N.º 180021/256/2026.
 
@@ -16855,15 +15872,19 @@ I  N S  T  R  U  M  E  N  TO  : 1º  Termo  Aditivo  ao  Contrato  nº  026/2025
 
 PRAZO:
 
-O  B  J  E  TO  : A Prorrogação de prazo de vigência do Contrato nº 026/2025,  relativo  à 'Contratação  de  Empresa  Especializada no  ramo de  Engenharia para  Obra  de Drenagem  e  Pavimentação em  diversas Ruas de Itacuruçá,  3°  Distrito  do  Município  de  Mangaratiba/RJ'. DATA DE ASSINATURA: 10/04/2026
-
-FUNDAMENTO: No art. 6º, inciso XVII, e 111 da Lei nº 14.133/2021 e pelos  normativos  estaduais  apliáveis.
-
-Id:  2729598
-
 60  (sessenta)  dias.
 
+O  B  J  E  TO  : A Prorrogação de prazo de vigência do Contrato nº 026/2025,  relativo  à 'Contratação  de  Empresa  Especializada no  ramo de  Engenharia para  Obra  de Drenagem  e  Pavimentação em  diversas Ruas de Itacuruçá,  3°  Distrito  do  Município  de  Mangaratiba/RJ'. DATA DE ASSINATURA: 10/04/2026
+
+FUNDAMENTO:
+
+No art. 6º, inciso XVII, e 111 da Lei nº 14.133/2021 e
+
+pelos  normativos  estaduais  apliáveis.
+
 PROCESSO Nº SEI-330001/001441/2024
+
+Id:  2729598
 
 ## SECRETARIA DE ESTADO DE INFRAESTRUTURA E OBRAS PÚBLICAS
 
