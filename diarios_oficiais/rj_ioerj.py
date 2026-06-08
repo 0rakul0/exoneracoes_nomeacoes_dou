@@ -68,9 +68,11 @@ class RjIoerjCollector(BaseGazetteCollector):
 
         for label, edition_url in raw_editions:
             label_counts[label] = label_counts.get(label, 0) + 1
-            edition_label = label
-            if total_by_label[label] > 1 and label_counts[label] > 1:
-                edition_label = f"{label} - Complementar {label_counts[label]}"
+            edition_label = disambiguate_edition_label(
+                label,
+                label_counts[label],
+                total_by_label[label],
+            )
             editions.append(
                 Edition(
                     publication_date=publication_date,
@@ -122,6 +124,14 @@ def clean_html(value: str) -> str:
     value = TAG_RE.sub(" ", value)
     value = html.unescape(value)
     return SPACE_RE.sub(" ", value).strip()
+
+
+def disambiguate_edition_label(label: str, occurrence: int, total_occurrences: int) -> str:
+    if total_occurrences <= 1 or occurrence <= 1:
+        return label
+    if re.search(r"\b(?:complementar|suplemento|extra)\b", label, flags=re.I):
+        return f"{label} {occurrence}"
+    return f"{label} - Edicao {occurrence}"
 
 
 
@@ -674,7 +684,7 @@ def edition_slug(section: str) -> str:
     slug = re.sub(r"[^A-Za-z0-9]+", "_", normalized).strip("_").upper()
     return slug or "caderno"
 
-def collect_rj() -> int:
+def collect_rj(pular_anos_completos: bool = True) -> int:
     collector = RjIoerjCollector()
     latest_stored_date = collector.latest_stored_publication_date()
     start_date = latest_stored_date or date(RJ_COLLECTION_YEAR, 1, 1)
@@ -710,7 +720,7 @@ def collect_rj() -> int:
         collector.mark_year_complete(year)
 
     for item in dates:
-        if collector.is_year_complete(item.year):
+        if pular_anos_completos and collector.is_year_complete(item.year):
             if item.year not in skipped_years:
                 print(f"Pulando {item.year}: marcador .year_complete encontrado.", file=sys.stderr)
                 skipped_years.add(item.year)

@@ -436,7 +436,7 @@ class BaseGazetteCollector:
             "arquivo_markdown",
         ]
         existing_df = self.read_existing_csv_frame(path, fieldnames)
-        dedup_subset = ["data_publicacao", "tipo_ato", "nome", "_trecho_chave"]
+        dedup_subset = ["data_publicacao", "caderno", "tipo_ato", "nome", "_trecho_chave"]
         existing_key_df = existing_df.assign(_trecho_chave=existing_df["trecho"].str.slice(0, 180))
         existing_keys = set(map(tuple, existing_key_df[dedup_subset].to_numpy()))
         seen_keys = set(existing_keys)
@@ -445,6 +445,7 @@ class BaseGazetteCollector:
         for act in acts:
             row_key = (
                 act.publication_date.isoformat(),
+                act.section,
                 act.action_type,
                 act.person_name,
                 act.excerpt[:180],

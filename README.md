@@ -94,10 +94,10 @@ Os resultados indicam:
 | Luiz Fernando de Souza (Executivo estadual) | 15.317 | 17.515 | 2.198 | 32.832 |
 | Wilson Jose Witzel (Executivo estadual) | 9.368 | 11.202 | 1.834 | 20.570 |
 | Sergio Cabral (Executivo estadual) | 4.807 | 14.835 | 10.028 | 19.642 |
-| Ricardo Couto de Castro (TJ-RJ) | 3.139 | 1.023 | -2.116 | 4.162 |
+| Ricardo Couto de Castro (TJ-RJ) | 3.232 | 1.113 | -2.119 | 4.345 |
 
 O maior saldo positivo aparece em **Sergio Cabral**, com **10.028 nomeações líquidas**.
-Já **Ricardo Couto de Castro** apresenta saldo negativo, com **2.116 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
+Já **Ricardo Couto de Castro** apresenta saldo negativo, com **2.119 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
 
 <!-- README-DYNAMIC:SALDO-END -->
 
@@ -187,7 +187,25 @@ Rode o coletor:
 
 Esse comando usa diretamente o Python da `.venv` do repositorio, mesmo que o ambiente virtual nao esteja ativado no terminal.
 
-O `main.py` nao recebe argumentos. A coleta ativa executa somente `RJ`, definido em `STATES_TO_COLLECT`. O coletor identifica a ultima data ja armazenada em `LAKE/RJ` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. Os Markdown existentes sao reutilizados; quando precisa converter uma edicao ausente, o coletor reaproveita PDFs em `.cache/diarios` antes de baixar novamente. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`) em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
+Para conferir se ha edicoes novas sem baixar PDF, converter Markdown nem extrair atos:
+
+```powershell
+.\.venv\Scripts\python.exe main.py --sondar-novas
+```
+
+Para rodar a coleta sem carregar os modelos OCR no inicio, mantendo o fallback OCR sob demanda:
+
+```powershell
+.\.venv\Scripts\python.exe main.py --sem-preload-ocr
+```
+
+Para forcar a rechecagem de anos marcados como completos:
+
+```powershell
+.\.venv\Scripts\python.exe main.py --ignorar-year-complete
+```
+
+A coleta ativa executa somente `RJ`, definido em `STATES_TO_COLLECT`. O coletor identifica a ultima data ja armazenada em `LAKE/RJ` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. Quando a IOERJ publica mais de uma edicao com o mesmo rotulo no mesmo dia, o coletor preserva o rotulo oficial e diferencia as repeticoes como `Edicao 2`, `Edicao 3` etc.; ele so usa `Complementar` quando esse texto vier no proprio rotulo da IOERJ. Os Markdown existentes sao reutilizados; quando precisa converter uma edicao ausente, o coletor reaproveita PDFs em `.cache/diarios` antes de baixar novamente. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`) em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
 
 O padrao dos arquivos Markdown e:
 
