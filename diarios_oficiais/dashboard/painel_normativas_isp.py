@@ -344,6 +344,98 @@ def filter_territory(
 
 
 @lru_cache(maxsize=1)
+def expanded_change_events_cisp() -> pd.DataFrame:
+    rel = load_territory_relation()
+    event_rows = DF[
+        DF["data_norma"].notna()
+        & DF["unidade_tipo"].isin(["CISP", "AISP", "RISP"])
+        & DF["unidade_numero_norm"].astype(str).str.strip().ne("")
+    ].copy()
+
+    rows = []
+    for _, event in event_rows.iterrows():
+        unit = str(event.get("unidade_numero_norm", "")).strip()
+        unit_type = str(event.get("unidade_tipo", "")).strip().upper()
+
+        if unit_type == "CISP":
+            related = rel[rel["CISP"].astype(str).eq(unit)]
+        elif unit_type == "AISP":
+            related = rel[rel["AISP"].astype(str).eq(unit)]
+        elif unit_type == "RISP":
+            related = rel[rel["RISP"].astype(str).eq(unit)]
+        else:
+            continue
+
+        for _, terr in related.iterrows():
+            rows.append(
+                {
+                    "data_norma": event["data_norma"],
+                    "data_label": event["data_norma"].strftime("%Y-%m-%d"),
+                    "norma_id": safe_text(event.get("norma_id", ""), 180),
+                    "acao_detectada": safe_text(event.get("acao_detectada", ""), 80),
+                    "o_que_mudou": safe_text(event.get("o_que_mudou", ""), 420),
+                    "CISP": str(terr["CISP"]),
+                    "AISP": str(terr["AISP"]),
+                    "RISP": str(terr["RISP"]),
+                    "REGIAO": str(terr["Região de Governo"]),
+                    "unidade_origem": f"{unit_type} {unit}",
+                }
+            )
+
+    if not rows:
+        return pd.DataFrame(
+            columns=[
+                "data_norma", "data_label", "norma_id", "acao_detectada", "o_que_mudou",
+                "CISP", "AISP", "RISP", "REGIAO", "unidade_origem",
+            ]
+        )
+
+    return pd.DataFrame(rows).drop_duplicates(
+        subset=["data_label", "norma_id", "acao_detectada", "CISP", "unidade_origem"]
+    )
+
+
+def timeline_events_for_layer(layer: str, territory_df: pd.DataFrame) -> pd.DataFrame:
+    layer = layer.upper()
+    events = expanded_change_events_cisp()
+
+    if events.empty or territory_df.empty:
+        return pd.DataFrame()
+
+    selected_ids = set(territory_df["id"].astype(str))
+    events = events[events[layer].astype(str).isin(selected_ids)].copy()
+    if events.empty:
+        return pd.DataFrame()
+
+    grouped = (
+        events.groupby(["data_norma", "data_label", layer], as_index=False)
+        .agg(
+            eventos=("norma_id", "nunique"),
+            normas=("norma_id", join_unique),
+            acoes=("acao_detectada", join_unique),
+            cisp_afetadas=("CISP", "nunique"),
+            unidades_origem=("unidade_origem", join_unique),
+            historia=("o_que_mudou", join_unique),
+        )
+        .rename(columns={layer: "id"})
+    )
+
+    dates = grouped[["data_norma", "data_label"]].drop_duplicates().sort_values("data_norma")
+    base = (
+        territory_df[["id", "label", "numero"]]
+        .astype({"id": str})
+        .merge(dates, how="cross")
+    )
+    timeline = base.merge(grouped, on=["id", "data_norma", "data_label"], how="left")
+    timeline["eventos"] = timeline["eventos"].fillna(0).astype(int)
+    timeline["cisp_afetadas"] = timeline["cisp_afetadas"].fillna(0).astype(int)
+    for col in ["normas", "acoes", "unidades_origem", "historia"]:
+        timeline[col] = timeline[col].fillna("")
+
+    return timeline.sort_values(["data_norma", "numero", "id"])
+
+
+@lru_cache(maxsize=1)
 def load_municipality_geojson() -> dict:
     geojson = download_json(IBGE_RJ_MUNICIPIOS_GEOJSON, ARGS.cache_dir / "rj_municipios_ibge.geojson")
     municipios = download_json(IBGE_RJ_MUNICIPIOS_API, ARGS.cache_dir / "rj_municipios_ibge.json")
@@ -876,6 +968,85 @@ def make_territory_map(layer: str, df: pd.DataFrame) -> go.Figure:
     return fig
 
 
+def make_change_timeline_map(layer: str, df: pd.DataFrame) -> go.Figure:
+    geojson = load_grouped_territory_geojson(layer)
+    timeline = timeline_events_for_layer(layer, df)
+    if timeline.empty:
+        return empty_map("Linha do tempo sem eventos para a selecao")
+
+    max_events = max(1, int(timeline["eventos"].max()))
+    fig = px.choropleth_map(
+        timeline,
+        geojson=geojson,
+        locations="id",
+        featureidkey="properties.id",
+        color="eventos",
+        animation_frame="data_label",
+        hover_name="label",
+        hover_data={
+            "id": False,
+            "numero": False,
+            "data_norma": False,
+            "data_label": True,
+            "eventos": True,
+            "cisp_afetadas": True,
+            "acoes": True,
+            "normas": True,
+            "unidades_origem": True,
+            "historia": True,
+        },
+        color_continuous_scale=[[0, "#edf2f7"], [0.01, "#f7c66a"], [1, "#b8321f"]],
+        range_color=(0, max_events),
+        center={"lat": -22.15, "lon": -42.65},
+        zoom=6.35,
+        opacity=0.76,
+        height=610,
+    )
+    fig.update_layout(
+        title="Linha do tempo das mudancas territoriais detectadas",
+        coloraxis_colorbar={"title": "Eventos"},
+        margin={"l": 0, "r": 0, "t": 44, "b": 0},
+    )
+    fig.update_traces(marker_line_width=0.7, marker_line_color="#ffffff")
+    return fig
+
+
+def make_timeline_story_table(layer: str, df: pd.DataFrame) -> html.Div:
+    timeline = timeline_events_for_layer(layer, df)
+    if timeline.empty:
+        return html.Div("Sem eventos territoriais para a selecao atual.", className="section-note")
+
+    events = timeline[timeline["eventos"].gt(0)].copy()
+    if events.empty:
+        return html.Div("Sem eventos territoriais para a selecao atual.", className="section-note")
+
+    view = (
+        events.sort_values(["data_norma", "eventos"], ascending=[False, False])
+        .head(18)
+        .copy()
+    )
+    columns = ["data_label", "label", "eventos", "cisp_afetadas", "acoes", "normas", "historia"]
+    labels = {
+        "data_label": "Data",
+        "label": "Territorio",
+        "eventos": "Eventos",
+        "cisp_afetadas": "CISP afetadas",
+        "acoes": "Acoes",
+        "normas": "Normas",
+        "historia": "O que aconteceu",
+    }
+    return html.Div(
+        [
+            html.H3("Historias recentes detectadas"),
+            html.Div(
+                "Eventos extraidos das normas e projetados sobre a malha territorial atual.",
+                className="section-note",
+            ),
+            make_html_table(view, columns, labels, limit=360),
+        ]
+    )
+
+
 def make_html_table(df: pd.DataFrame, columns: list[str], labels: dict[str, str], limit: int = 260) -> html.Table:
     cols = [col for col in columns if col in df.columns]
     header = html.Thead(html.Tr([html.Th(labels.get(col, col)) for col in cols]))
@@ -1029,6 +1200,19 @@ def create_territory_layout() -> html.Div:
                             ),
                             html.Div(id="territorio-kpis", className="kpis"),
                             html.Div([dcc.Graph(id="territorio-mapa", config={"displayModeBar": True, "scrollZoom": True})], className="panel"),
+                            html.Div(
+                                [
+                                    html.H3("Linha do tempo animada"),
+                                    html.Div(
+                                        "A animacao destaca territorios afetados por normas ao longo do tempo; a geometria exibida e a malha atual.",
+                                        className="section-note",
+                                    ),
+                                    dcc.Graph(id="territorio-timeline-mapa", config={"displayModeBar": True, "scrollZoom": True}),
+                                ],
+                                className="panel",
+                                style={"marginTop": "12px"},
+                            ),
+                            html.Div([html.Div(id="territorio-timeline-historias", className="table-wrap")], className="panel", style={"marginTop": "12px"}),
                             html.Div([html.Div(id="territorio-tabela", className="table-wrap")], className="panel", style={"marginTop": "12px"}),
                         ],
                     ),
@@ -1216,6 +1400,8 @@ app.layout = create_layout()
 @app.callback(
     Output("territorio-kpis", "children"),
     Output("territorio-mapa", "figure"),
+    Output("territorio-timeline-mapa", "figure"),
+    Output("territorio-timeline-historias", "children"),
     Output("territorio-tabela", "children"),
     Input("territorio-camada", "value"),
     Input("territorio-regiao", "value"),
@@ -1230,6 +1416,8 @@ def update_dashboard(camada, regioes, risp, aisp, cisp, texto):
     return (
         make_territory_kpis(camada, df),
         make_territory_map(camada, df),
+        make_change_timeline_map(camada, df),
+        make_timeline_story_table(camada, df),
         make_territory_table(camada, df),
     )
 
