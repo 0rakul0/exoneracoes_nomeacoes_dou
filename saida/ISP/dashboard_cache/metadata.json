@@ -1,0 +1,38 @@
+{
+  "gerado_em": "2026-06-08T08:22:54",
+  "workbook": "C:\\Users\\geo\\Documents\\GitHub\\exoneracoes_nomeacoes_dou\\saida\\ISP\\o_que_muda_onde_muda\\ISP_o_que_muda_onde_muda.xlsx",
+  "arquivos": [
+    {
+      "path": "C:\\Users\\geo\\Documents\\GitHub\\exoneracoes_nomeacoes_dou\\saida\\ISP\\dashboard_cache\\o_que_muda_onde.parquet",
+      "bytes": 169018
+    },
+    {
+      "path": "C:\\Users\\geo\\Documents\\GitHub\\exoneracoes_nomeacoes_dou\\saida\\ISP\\dashboard_cache\\matriz_cisp.parquet",
+      "bytes": 29641
+    },
+    {
+      "path": "C:\\Users\\geo\\Documents\\GitHub\\exoneracoes_nomeacoes_dou\\saida\\ISP\\dashboard_cache\\relacao_territorial.parquet",
+      "bytes": 12400
+    },
+    {
+      "path": "C:\\Users\\geo\\Documents\\GitHub\\exoneracoes_nomeacoes_dou\\saida\\ISP\\dashboard_cache\\eventos_cisp_expandido.parquet",
+      "bytes": 18766
+    },
+    {
+      "path": "C:\\Users\\geo\\Documents\\GitHub\\exoneracoes_nomeacoes_dou\\saida\\ISP\\dashboard_cache\\geojson_REGIAO.geojson",
+      "bytes": 449513
+    },
+    {
+      "path": "C:\\Users\\geo\\Documents\\GitHub\\exoneracoes_nomeacoes_dou\\saida\\ISP\\dashboard_cache\\geojson_RISP.geojson",
+      "bytes": 428587
+    },
+    {
+      "path": "C:\\Users\\geo\\Documents\\GitHub\\exoneracoes_nomeacoes_dou\\saida\\ISP\\dashboard_cache\\geojson_AISP.geojson",
+      "bytes": 640641
+    },
+    {
+      "path": "C:\\Users\\geo\\Documents\\GitHub\\exoneracoes_nomeacoes_dou\\saida\\ISP\\dashboard_cache\\geojson_CISP.geojson",
+      "bytes": 946629
+    }
+  ]
+}

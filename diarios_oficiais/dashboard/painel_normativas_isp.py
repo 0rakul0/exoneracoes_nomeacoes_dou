@@ -24,6 +24,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_WORKBOOK_DIR = PROJECT_ROOT / "saida" / "ISP" / "o_que_muda_onde_muda"
 DEFAULT_WORKBOOK = DEFAULT_WORKBOOK_DIR / "ISP_o_que_muda_onde_muda.xlsx"
 DEFAULT_CACHE_DIR = PROJECT_ROOT / ".cache" / "geodata"
+DEFAULT_DASHBOARD_CACHE_DIR = PROJECT_ROOT / "saida" / "ISP" / "dashboard_cache"
 IBGE_RJ_MUNICIPIOS_GEOJSON = (
     "https://servicodados.ibge.gov.br/api/v3/malhas/estados/33"
     "?formato=application/vnd.geo+json&qualidade=minima&intrarregiao=municipio"
@@ -80,6 +81,18 @@ def resolve_workbook_path(workbook: Path) -> Path:
 ARGS.workbook = resolve_workbook_path(ARGS.workbook)
 
 
+def dashboard_cache_path(name: str) -> Path:
+    return DEFAULT_DASHBOARD_CACHE_DIR / name
+
+
+def cache_is_fresh(path: Path, source: Path | None = None) -> bool:
+    if not path.exists():
+        return False
+    if source is not None and source.exists() and path.stat().st_mtime < source.stat().st_mtime:
+        return False
+    return True
+
+
 def normalize_text(value: object) -> str:
     text = "" if pd.isna(value) else str(value)
     text = unicodedata.normalize("NFKD", text)
@@ -123,6 +136,10 @@ def download_file(url: str, output: Path) -> Path:
 
 @lru_cache(maxsize=1)
 def load_territory_relation() -> pd.DataFrame:
+    parquet_path = dashboard_cache_path("relacao_territorial.parquet")
+    if cache_is_fresh(parquet_path):
+        return pd.read_parquet(parquet_path)
+
     path = download_file(TERRITORY_RELATION_URL, TERRITORY_CACHE_DIR / "relacao_risp_aisp_cisp.csv")
     try:
         df = pd.read_csv(path, sep=";", dtype=str, keep_default_na=False)
@@ -222,10 +239,14 @@ def load_territory_geojson(layer: str) -> dict:
 
 @lru_cache(maxsize=4)
 def load_grouped_territory_geojson(layer: str) -> dict:
+    layer = layer.upper()
+    cache_path = dashboard_cache_path(f"geojson_{layer}.geojson")
+    if cache_is_fresh(cache_path):
+        return json.loads(cache_path.read_text(encoding="utf-8"))
+
     from shapely.geometry import mapping, shape
     from shapely.ops import unary_union
 
-    layer = layer.upper()
     if layer == "CISP":
         return load_territory_geojson("CISP")
 
@@ -380,6 +401,10 @@ def territorial_norm_options() -> list[dict[str, object]]:
 
 @lru_cache(maxsize=1)
 def expanded_change_events_cisp() -> pd.DataFrame:
+    parquet_path = dashboard_cache_path("eventos_cisp_expandido.parquet")
+    if cache_is_fresh(parquet_path, ARGS.workbook):
+        return pd.read_parquet(parquet_path)
+
     rel = load_territory_relation()
     event_rows = DF[
         DF["data_norma"].notna()
@@ -500,6 +525,10 @@ def load_boundary_geojson() -> dict | None:
 
 
 def load_data(workbook: Path) -> pd.DataFrame:
+    parquet_path = dashboard_cache_path("o_que_muda_onde.parquet")
+    if cache_is_fresh(parquet_path, workbook):
+        return pd.read_parquet(parquet_path)
+
     if not workbook.exists():
         raise FileNotFoundError(f"Workbook nao encontrado: {workbook}")
 
@@ -564,6 +593,10 @@ def incluir_data_diario_na_celula(value: object) -> object:
 
 
 def load_matrix(workbook: Path) -> pd.DataFrame:
+    parquet_path = dashboard_cache_path("matriz_cisp.parquet")
+    if cache_is_fresh(parquet_path, workbook):
+        return pd.read_parquet(parquet_path)
+
     if not workbook.exists():
         raise FileNotFoundError(f"Workbook nao encontrado: {workbook}")
     df = pd.read_excel(workbook, sheet_name="Matriz_CISP")
@@ -1292,14 +1325,7 @@ def create_territory_layout() -> html.Div:
                                         className="panel",
                                     ),
                                     html.Div(
-                                        [
-                                            html.H3("Linha do tempo animada"),
-                                            html.Div(
-                                                "A animacao destaca territorios afetados por normas ao longo do tempo; a geometria exibida e a malha atual.",
-                                                className="section-note",
-                                            ),
-                                            dcc.Graph(id="territorio-timeline-mapa", config={"displayModeBar": True, "scrollZoom": True}),
-                                        ],
+                                        [dcc.Graph(id="territorio-timeline-mapa", config={"displayModeBar": True, "scrollZoom": True})],
                                         className="panel",
                                     ),
                                 ],
