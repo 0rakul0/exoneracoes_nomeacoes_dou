@@ -9,38 +9,29 @@ set "REPO_ORIGEM=%~dp0"
 set "REPO_DASH=D:\github\dash_temporal"
 set "DESTINO=%REPO_DASH%\saida\analises\RJ"
 set "MENSAGEM_COMMIT=Atualiza dados e README RJ"
+set "AVISOS=0"
 
 if not exist "%PYTHON%" (
     echo Python da .venv nao encontrado: %PYTHON%
     exit /b 1
 )
 
-echo [1/7] Baixando e atualizando dados...
+echo [1/8] Baixando e atualizando dados...
 "%PYTHON%" main.py
 if errorlevel 1 goto erro
 
 echo.
-echo [2/7] Deduplicando CSVs anuais...
+echo [2/8] Deduplicando CSVs anuais...
 "%PYTHON%" diarios_oficiais\tratamentos\deduplicar_atos_anuais.py --uf RJ
 if errorlevel 1 goto erro
 
 echo.
-echo [3/7] Gerando movimentacoes...
+echo [3/8] Gerando movimentacoes...
 "%PYTHON%" analise_temporal\analisar_movimentacoes.py --uf RJ --incluir-anos-incompletos --incremental
 if errorlevel 1 goto erro
 
 echo.
-echo [4/7] Gerando imagens do README...
-"%PYTHON%" docs\gerar_imagens_readme.py --somente-imagens
-if errorlevel 1 goto erro
-
-echo.
-echo [5/7] Atualizando README...
-"%PYTHON%" docs\gerar_imagens_readme.py --somente-readme
-if errorlevel 1 goto erro
-
-echo.
-echo [6/7] Copiando dados para o dashboard temporal...
+echo [4/8] Copiando dados para o dashboard temporal...
 if not exist "%ORIGEM%\movimentacoes_pessoas.parquet" (
     echo Arquivo nao encontrado: "%ORIGEM%\movimentacoes_pessoas.parquet"
     exit /b 1
@@ -63,17 +54,41 @@ copy /Y "%ORIGEM%\retornos_apos_exoneracao.csv" "%DESTINO%\retornos_apos_exonera
 if errorlevel 1 goto erro
 
 echo.
-echo [7/7] Commitando e enviando repositorios...
-call :commit_e_push "%REPO_ORIGEM%" "%MENSAGEM_COMMIT%"
-if errorlevel 1 goto erro
-
+echo [5/8] Commitando e enviando primeiro o dashboard temporal...
 call :commit_e_push "%REPO_DASH%" "%MENSAGEM_COMMIT%"
 if errorlevel 1 goto erro
 
 echo.
-echo README atualizado com sucesso.
+echo [6/8] Gerando imagens do README (etapa opcional)...
+"%PYTHON%" docs\gerar_imagens_readme.py --somente-imagens
+if errorlevel 1 (
+    echo AVISO: nao foi possivel gerar as imagens do README.
+    echo AVISO: os dados do dashboard ja foram atualizados e enviados.
+    set "AVISOS=1"
+)
+
+echo.
+echo [7/8] Atualizando README (etapa opcional)...
+"%PYTHON%" docs\gerar_imagens_readme.py --somente-readme
+if errorlevel 1 (
+    echo AVISO: nao foi possivel atualizar o README.
+    echo AVISO: os dados do dashboard ja foram atualizados e enviados.
+    set "AVISOS=1"
+)
+
+echo.
+echo [8/8] Commitando e enviando o repositorio principal...
+call :commit_e_push "%REPO_ORIGEM%" "%MENSAGEM_COMMIT%"
+if errorlevel 1 goto erro
+
+echo.
 echo Dados atualizados em "%DESTINO%".
 echo Repositorios commitados e enviados para o GitHub.
+if "%AVISOS%"=="1" (
+    echo Atualizacao concluida com avisos nas etapas opcionais de README/imagens.
+) else (
+    echo README e imagens atualizados com sucesso.
+)
 exit /b 0
 
 :commit_e_push
@@ -110,6 +125,7 @@ if errorlevel 1 exit /b 1
 exit /b 0
 
 :erro
+set "CODIGO_ERRO=%ERRORLEVEL%"
 echo.
-echo Falha na atualizacao. Codigo: %ERRORLEVEL%
-exit /b %ERRORLEVEL%
+echo Falha na atualizacao. Codigo: %CODIGO_ERRO%
+exit /b %CODIGO_ERRO%
