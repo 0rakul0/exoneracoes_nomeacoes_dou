@@ -1,0 +1,3 @@
+analise_temporal
+diarios_oficiais
+scripts

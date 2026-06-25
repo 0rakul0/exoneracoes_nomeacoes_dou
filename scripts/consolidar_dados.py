@@ -13,11 +13,11 @@ RETORNO_COLUMNS = [
     "nome_normalizado", "data_publicacao", "data_exoneracao_anterior",
     "orgao", "cargo_assinante", "governador_edicao",
     "mudou_cargo_desde_exoneracao", "mudou_orgao_desde_exoneracao",
-    "dias_desde_exoneracao",
+    "dias_desde_exoneracao", "spacy_entidades",
 ]
 MOVIMENTACAO_COLUMNS = [
     "nome_normalizado", "data_publicacao", "tipo_ato", "orgao",
-    "cargo_assinante", "governador_edicao",
+    "cargo", "cargo_assinante", "governador_edicao",
 ]
 CATEGORY_COLUMNS = [
     "estado", "tipo_ato", "orgao", "cargo_assinante", "autoria_ato",
@@ -26,7 +26,7 @@ CATEGORY_COLUMNS = [
 ]
 
 MOV_COLUMNS_KEEP = [
-    "estado", "ano", "tipo_ato", "orgao", "cargo_assinante", "autoria_ato",
+    "estado", "ano", "tipo_ato", "orgao", "cargo", "cargo_assinante", "autoria_ato",
     "governador_edicao", "representante_governo", "origem_representante",
     "representante_origem", "pessoa", "data_movimentacao",
 ]
@@ -110,9 +110,20 @@ def classificar_estado(row):
     return f"N_{tempo}_{cargo}_{orgao}"
 
 
+def _normalizar_orgao(series: pd.Series) -> pd.Series:
+    s = series.fillna("").astype(str).str.strip()
+    s = s.str.replace(r'^(?:da|do|das|dos)\s+', '', regex=True, case=False)
+    s = s.str.replace('[\ufffe\ufffd]', '', regex=True)
+    s = s.str.replace(r'\s*-\s*', ' ', regex=True)
+    s = s.str.strip(" ,.;:")
+    s = s.str.replace(r'\s+', ' ', regex=True)
+    return s
+
+
 def process_mov(df_mov: pd.DataFrame) -> pd.DataFrame:
     df_mov["pessoa"] = df_mov["nome_normalizado"]
     df_mov["data_movimentacao"] = pd.to_datetime(df_mov["data_publicacao"], errors="coerce")
+    df_mov["orgao"] = _normalizar_orgao(df_mov["orgao"])
     if "ano" not in df_mov.columns:
         df_mov["ano"] = df_mov["data_movimentacao"].dt.year
     else:
@@ -146,6 +157,7 @@ def process_ret(df: pd.DataFrame) -> pd.DataFrame:
     df["pessoa"] = df["nome_normalizado"]
     df["data_nomeacao"] = pd.to_datetime(df["data_publicacao"], errors="coerce")
     df["data_exoneracao"] = pd.to_datetime(df["data_exoneracao_anterior"], errors="coerce")
+    df["orgao"] = _normalizar_orgao(df["orgao"])
     if "ano" not in df.columns:
         df["ano"] = df["data_nomeacao"].dt.year
     else:
@@ -201,6 +213,10 @@ def consolidate():
 
         raw_mov["estado"] = state
         raw_ret["estado"] = state
+
+        spacy_empty = raw_ret["spacy_entidades"].fillna("").astype(str).str.strip().eq("")
+        has_per = raw_ret["spacy_entidades"].str.contains(":PER", na=False)
+        raw_ret = raw_ret[has_per | spacy_empty]
 
         mov_frames.append(process_mov(raw_mov))
         ret_frames.append(process_ret(raw_ret))

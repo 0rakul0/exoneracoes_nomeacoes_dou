@@ -16,7 +16,7 @@ EDITION_LINK_RE = re.compile(
 PDF_KEY_RE = re.compile(r'var\s+pd\s*=\s*["\'](?P<key>[A-F0-9-]+)["\']', re.I)
 
 ACT_WINDOW_RE = re.compile(
-    r"\b(?P<action>EXONERAR|NOMEAR)\b(?P<body>.{0,1200}?)(?=\b(?:EXONERAR|NOMEAR|DESIGNAR|TORNAR SEM EFEITO|RESOLVE|DECRETO|ATO DO|SECRETARIA|Art\.)|$)",
+    r"\b(?P<action>EXONERAR|NOMEIA|NOMEAR)\b(?P<body>.{0,1200}?)(?=\b(?:EXONERAR|NOMEIA|NOMEAR|DESIGNAR|TORNAR SEM EFEITO|RESOLVE|DECRETO|ATO DO|Art\.)|$)",
     re.I | re.S,
 )
 NAME_AFTER_ACTION_RE = re.compile(
@@ -24,7 +24,7 @@ NAME_AFTER_ACTION_RE = re.compile(
     re.I,
 )
 ROLE_RE = re.compile(
-    r"(?:para exercer|do|da)\s+(?:o\s+|a\s+)?(?P<role>cargo(?:\s+em\s+comiss[a\u00e3]o)?|funcao|fun\u00e7\u00e3o|emprego|chefia|direcao|dire\u00e7\u00e3o|assessoria)[^,.;\n]{0,220}",
+    r"(?:para exercer|do|da|no|na|em)\s+(?:o\s+|a\s+)?(?P<role>cargo(?:\s+em\s+comiss[a\u00e3o]o)?|funcao|fun\u00e7\u00e3o|emprego|chefia|direcao|dire\u00e7\u00e3o|assessoria)[^,.;\n]{0,220}",
     re.I,
 )
 AGENCY_RE = re.compile(

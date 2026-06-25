@@ -1,0 +1,2 @@
+dash>=4.2.0
+pandas-stubs~=3.0.3

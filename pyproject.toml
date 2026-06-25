@@ -8,3 +8,6 @@ dependencies = [
     "dash>=4.2.0",
     "pandas-stubs~=3.0.3",
 ]
+
+[tool.setuptools.packages.find]
+include = ["diarios_oficiais", "diarios_oficiais.*", "analise_temporal", "analise_temporal.*", "scripts", "scripts.*"]

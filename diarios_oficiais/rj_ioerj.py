@@ -578,7 +578,7 @@ def extract_person_name(body: str, regexes=rj_regexes) -> str:
 
 def direct_person_name(body: str) -> str:
     candidate_area = re.split(
-        r"\s*,?\s*(?:ID\s+FUNC(?:IONAL)?|RG|R\.G\.|CPF)\b|\s+para\s+exer|\s+para\s+exercer|\s+do\s+cargo|\s+da\s+fun[cç][aã]o",
+        r"\s*,?\s*(?:ID\.?\s*FUNC(?:IONAL)?|RG|R\.G\.|CPF)\b|\s+para\s+exer|\s+para\s+exercer|\s+do\s+cargo|\s+da\s+fun[cç][aã]o|\s+no\s+cargo\b|\s*,\s*com\s+validade\b",
         body,
         maxsplit=1,
         flags=re.I,
