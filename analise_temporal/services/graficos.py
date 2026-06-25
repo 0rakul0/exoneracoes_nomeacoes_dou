@@ -32,7 +32,7 @@ def normalizar_orgao_para_grafico(orgao):
 
 def adicionar_orgao_grafico(base):
     base = base.copy()
-    orgaos_normalizados = base["orgao"].apply(normalizar_orgao_para_grafico)
+    orgaos_normalizados = base["orgao"].astype(str).apply(normalizar_orgao_para_grafico)
     base["orgao_chave"] = orgaos_normalizados.map(lambda item: item[0])
     base["orgao_rotulo"] = orgaos_normalizados.map(lambda item: item[1])
     base = base[base["orgao_chave"] != ""]

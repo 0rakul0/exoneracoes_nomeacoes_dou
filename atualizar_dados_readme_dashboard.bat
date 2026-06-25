@@ -4,10 +4,9 @@ setlocal
 cd /d "%~dp0"
 
 set "PYTHON=%~dp0.venv\Scripts\python.exe"
-set "ORIGEM=%~dp0saida\analises\RJ"
 set "REPO_ORIGEM=%~dp0"
 set "REPO_DASH=D:\github\dash_temporal"
-set "DESTINO=%REPO_DASH%\saida\analises\RJ"
+set "DESTINO=%REPO_DASH%\saida\consolidado"
 set "MENSAGEM_COMMIT=Atualiza dados e README RJ"
 set "AVISOS=0"
 
@@ -31,14 +30,20 @@ echo [3/8] Gerando movimentacoes...
 if errorlevel 1 goto erro
 
 echo.
-echo [4/8] Copiando dados para o dashboard temporal...
-if not exist "%ORIGEM%\movimentacoes_pessoas.parquet" (
-    echo Arquivo nao encontrado: "%ORIGEM%\movimentacoes_pessoas.parquet"
+echo [4/8] Consolidando dados...
+"%PYTHON%" scripts\consolidar_dados.py
+if errorlevel 1 goto erro
+
+echo.
+echo [5/8] Copiando dados consolidados para o dashboard temporal...
+set "CONSOLIDADO=%~dp0saida\consolidado"
+if not exist "%CONSOLIDADO%\movimentacoes.parquet" (
+    echo Arquivo nao encontrado: "%CONSOLIDADO%\movimentacoes.parquet"
     exit /b 1
 )
 
-if not exist "%ORIGEM%\retornos_apos_exoneracao.csv" (
-    echo Arquivo nao encontrado: "%ORIGEM%\retornos_apos_exoneracao.csv"
+if not exist "%CONSOLIDADO%\retornos.parquet" (
+    echo Arquivo nao encontrado: "%CONSOLIDADO%\retornos.parquet"
     exit /b 1
 )
 
@@ -47,19 +52,19 @@ if not exist "%DESTINO%" (
     if errorlevel 1 goto erro
 )
 
-copy /Y "%ORIGEM%\movimentacoes_pessoas.parquet" "%DESTINO%\movimentacoes_pessoas.parquet"
+copy /Y "%CONSOLIDADO%\movimentacoes.parquet" "%DESTINO%\movimentacoes.parquet"
 if errorlevel 1 goto erro
 
-copy /Y "%ORIGEM%\retornos_apos_exoneracao.csv" "%DESTINO%\retornos_apos_exoneracao.csv"
+copy /Y "%CONSOLIDADO%\retornos.parquet" "%DESTINO%\retornos.parquet"
 if errorlevel 1 goto erro
 
 echo.
-echo [5/8] Commitando e enviando primeiro o dashboard temporal...
+echo [6/8] Commitando e enviando primeiro o dashboard temporal...
 call :commit_e_push "%REPO_DASH%" "%MENSAGEM_COMMIT%"
 if errorlevel 1 goto erro
 
 echo.
-echo [6/8] Gerando imagens do README (etapa opcional)...
+echo [7/8] Gerando imagens do README (etapa opcional)...
 "%PYTHON%" docs\gerar_imagens_readme.py --somente-imagens
 if errorlevel 1 (
     echo AVISO: nao foi possivel gerar as imagens do README.
@@ -68,7 +73,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [7/8] Atualizando README (etapa opcional)...
+echo [8/8] Atualizando README (etapa opcional)...
 "%PYTHON%" docs\gerar_imagens_readme.py --somente-readme
 if errorlevel 1 (
     echo AVISO: nao foi possivel atualizar o README.
@@ -77,7 +82,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [8/8] Commitando e enviando o repositorio principal...
+echo [9/9] Commitando e enviando o repositorio principal...
 call :commit_e_push "%REPO_ORIGEM%" "%MENSAGEM_COMMIT%"
 if errorlevel 1 goto erro
 
