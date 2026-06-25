@@ -94,10 +94,10 @@ Os resultados indicam:
 | Luiz Fernando de Souza (Executivo estadual) | 15.317 | 17.515 | 2.198 | 32.832 |
 | Wilson Jose Witzel (Executivo estadual) | 9.368 | 11.202 | 1.834 | 20.570 |
 | Sergio Cabral (Executivo estadual) | 4.807 | 14.835 | 10.028 | 19.642 |
-| Ricardo Couto de Castro (TJ-RJ) | 3.640 | 1.422 | -2.218 | 5.062 |
+| Ricardo Couto de Castro (TJ-RJ) | 3.869 | 1.587 | -2.282 | 5.456 |
 
 O maior saldo positivo aparece em **Sergio Cabral**, com **10.028 nomeações líquidas**.
-Já **Ricardo Couto de Castro** apresenta saldo negativo, com **2.218 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
+Já **Ricardo Couto de Castro** apresenta saldo negativo, com **2.282 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
 
 <!-- README-DYNAMIC:SALDO-END -->
 

@@ -35,6 +35,7 @@ RET_COLUMNS_KEEP = [
     "governador_edicao", "representante_governo", "origem_representante",
     "representante_origem", "pessoa", "data_nomeacao", "data_exoneracao",
     "mudou_cargo", "mudou_orgao", "tempo_cluster", "estado_N",
+    "dias_desde_exoneracao",
 ]
 
 

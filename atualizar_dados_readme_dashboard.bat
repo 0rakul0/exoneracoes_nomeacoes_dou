@@ -60,8 +60,27 @@ if errorlevel 1 goto erro
 
 echo.
 echo [6/8] Commitando e enviando primeiro o dashboard temporal...
-call :commit_e_push "%REPO_DASH%" "%MENSAGEM_COMMIT%"
+pushd "%REPO_DASH%"
 if errorlevel 1 goto erro
+echo.
+echo Atualizando Git em "%REPO_DASH%"...
+git status --porcelain > "%TEMP%\git_status_atualizacao.txt"
+if errorlevel 1 popd & goto erro
+for %%A in ("%TEMP%\git_status_atualizacao.txt") do set TAMANHO=%%~zA
+if "%TAMANHO%"=="0" (
+    echo Nenhuma alteracao para commitar em "%REPO_DASH%".
+    del "%TEMP%\git_status_atualizacao.txt" >nul 2>nul
+    popd
+) else (
+    del "%TEMP%\git_status_atualizacao.txt" >nul 2>nul
+    git add -A
+    if errorlevel 1 popd & goto erro
+    git commit -m "%MENSAGEM_COMMIT%"
+    if errorlevel 1 popd & goto erro
+    git push
+    if errorlevel 1 popd & goto erro
+    popd
+)
 
 echo.
 echo [7/8] Gerando imagens do README (etapa opcional)...
@@ -83,8 +102,27 @@ if errorlevel 1 (
 
 echo.
 echo [9/9] Commitando e enviando o repositorio principal...
-call :commit_e_push "%REPO_ORIGEM%" "%MENSAGEM_COMMIT%"
+pushd "%REPO_ORIGEM%"
 if errorlevel 1 goto erro
+echo.
+echo Atualizando Git em "%REPO_ORIGEM%"...
+git status --porcelain > "%TEMP%\git_status_atualizacao.txt"
+if errorlevel 1 popd & goto erro
+for %%A in ("%TEMP%\git_status_atualizacao.txt") do set TAMANHO=%%~zA
+if "%TAMANHO%"=="0" (
+    echo Nenhuma alteracao para commitar em "%REPO_ORIGEM%".
+    del "%TEMP%\git_status_atualizacao.txt" >nul 2>nul
+    popd
+) else (
+    del "%TEMP%\git_status_atualizacao.txt" >nul 2>nul
+    git add -A
+    if errorlevel 1 popd & goto erro
+    git commit -m "%MENSAGEM_COMMIT%"
+    if errorlevel 1 popd & goto erro
+    git push
+    if errorlevel 1 popd & goto erro
+    popd
+)
 
 echo.
 echo Dados atualizados em "%DESTINO%".
@@ -94,39 +132,6 @@ if "%AVISOS%"=="1" (
 ) else (
     echo README e imagens atualizados com sucesso.
 )
-exit /b 0
-
-:commit_e_push
-set "REPO=%~1"
-set "MSG=%~2"
-
-if not exist "%REPO%\.git" (
-    echo Repositorio Git nao encontrado: "%REPO%"
-    exit /b 1
-)
-
-echo.
-echo Atualizando Git em "%REPO%"...
-git -C "%REPO%" status --porcelain > "%TEMP%\git_status_atualizacao.txt"
-if errorlevel 1 exit /b 1
-
-for %%A in ("%TEMP%\git_status_atualizacao.txt") do if %%~zA==0 (
-    echo Nenhuma alteracao para commitar em "%REPO%".
-    del "%TEMP%\git_status_atualizacao.txt" >nul 2>nul
-    exit /b 0
-)
-
-del "%TEMP%\git_status_atualizacao.txt" >nul 2>nul
-
-git -C "%REPO%" add -A
-if errorlevel 1 exit /b 1
-
-git -C "%REPO%" commit -m "%MSG%"
-if errorlevel 1 exit /b 1
-
-git -C "%REPO%" push
-if errorlevel 1 exit /b 1
-
 exit /b 0
 
 :erro
