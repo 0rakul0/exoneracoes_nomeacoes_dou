@@ -62,11 +62,11 @@ O gráfico comparativo de barras mostra o total acumulado de exonerações e nom
 A leitura acumulada mostra que os maiores volumes estão concentrados nos representantes vinculados ao Executivo estadual.  
 <!-- README-DYNAMIC:REPRESENTANTES-START -->
 
-Claudio Bomfim de Castro e Silva apresenta o maior volume total de atos, com **63.781 movimentações**, sendo **35.965 nomeações** e **27.816 exonerações**.
+Claudio Bomfim de Castro e Silva apresenta o maior volume total de atos, com **89.086 movimentações**, sendo **52.000 nomeações** e **37.086 exonerações**.
 
-Luiz Fernando de Souza também apresenta volume expressivo, com **32.832 atos**, distribuídos entre **17.515 nomeações** e **15.317 exonerações**.
+Luiz Fernando de Souza também apresenta volume expressivo, com **47.448 atos**, distribuídos entre **26.364 nomeações** e **21.084 exonerações**.
 
-Representantes com menor período de atuação ou menor escopo institucional apresentam volumes mais reduzidos, como Wilson Jose Witzel, Sergio Cabral e Ricardo Couto de Castro.
+Representantes com menor período de atuação ou menor escopo institucional apresentam volumes mais reduzidos, como Sergio Cabral, Wilson Jose Witzel e Ricardo Couto de Castro.
 
 <!-- README-DYNAMIC:REPRESENTANTES-END -->
 
@@ -90,14 +90,14 @@ Os resultados indicam:
 
 | Representante | Exonerações | Nomeações | Saldo | Total de atos |
 | --- | ---: | ---: | ---: | ---: |
-| Claudio Bomfim de Castro e Silva (Executivo estadual) | 27.816 | 35.965 | 8.149 | 63.781 |
-| Luiz Fernando de Souza (Executivo estadual) | 15.317 | 17.515 | 2.198 | 32.832 |
-| Wilson Jose Witzel (Executivo estadual) | 9.368 | 11.202 | 1.834 | 20.570 |
-| Sergio Cabral (Executivo estadual) | 4.807 | 14.835 | 10.028 | 19.642 |
-| Ricardo Couto de Castro (TJ-RJ) | 3.869 | 1.587 | -2.282 | 5.456 |
+| Claudio Bomfim de Castro e Silva (Executivo estadual) | 37.086 | 52.000 | 14.914 | 89.086 |
+| Luiz Fernando de Souza (Executivo estadual) | 21.084 | 26.364 | 5.280 | 47.448 |
+| Sergio Cabral (Executivo estadual) | 6.958 | 22.009 | 15.051 | 28.967 |
+| Wilson Jose Witzel (Executivo estadual) | 12.388 | 15.805 | 3.417 | 28.193 |
+| Ricardo Couto de Castro (TJ-RJ) | 6.530 | 3.203 | -3.327 | 9.733 |
 
-O maior saldo positivo aparece em **Sergio Cabral**, com **10.028 nomeações líquidas**.
-Já **Ricardo Couto de Castro** apresenta saldo negativo, com **2.282 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
+O maior saldo positivo aparece em **Sergio Cabral**, com **15.051 nomeações líquidas**.
+Já **Ricardo Couto de Castro** apresenta saldo negativo, com **3.327 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
 
 <!-- README-DYNAMIC:SALDO-END -->
 
