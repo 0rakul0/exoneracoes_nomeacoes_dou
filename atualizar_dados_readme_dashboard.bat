@@ -5,8 +5,6 @@ cd /d "%~dp0"
 
 set "PYTHON=%~dp0.venv\Scripts\python.exe"
 set "REPO_ORIGEM=%~dp0"
-set "REPO_DASH=D:\github\dash_temporal"
-set "DESTINO=%REPO_DASH%\saida\consolidado"
 set "MENSAGEM_COMMIT=Atualiza dados e README RJ"
 set "AVISOS=0"
 
@@ -15,93 +13,45 @@ if not exist "%PYTHON%" (
     exit /b 1
 )
 
-echo [1/8] Baixando e atualizando dados...
+echo [1/7] Baixando e atualizando dados...
 "%PYTHON%" main.py
 if errorlevel 1 goto erro
 
 echo.
-echo [2/8] Deduplicando CSVs anuais...
+echo [2/7] Deduplicando CSVs anuais...
 "%PYTHON%" diarios_oficiais\tratamentos\deduplicar_atos_anuais.py --uf RJ
 if errorlevel 1 goto erro
 
 echo.
-echo [3/8] Gerando movimentacoes...
+echo [3/7] Gerando movimentacoes...
 "%PYTHON%" analise_temporal\analisar_movimentacoes.py --uf RJ --incluir-anos-incompletos --incremental
 if errorlevel 1 goto erro
 
 echo.
-echo [4/8] Consolidando dados...
+echo [4/7] Consolidando dados...
 "%PYTHON%" scripts\consolidar_dados.py
 if errorlevel 1 goto erro
 
 echo.
-echo [5/8] Copiando dados consolidados para o dashboard temporal...
-set "CONSOLIDADO=%~dp0saida\consolidado"
-if not exist "%CONSOLIDADO%\movimentacoes.parquet" (
-    echo Arquivo nao encontrado: "%CONSOLIDADO%\movimentacoes.parquet"
-    exit /b 1
-)
-
-if not exist "%CONSOLIDADO%\retornos.parquet" (
-    echo Arquivo nao encontrado: "%CONSOLIDADO%\retornos.parquet"
-    exit /b 1
-)
-
-if not exist "%DESTINO%" (
-    mkdir "%DESTINO%"
-    if errorlevel 1 goto erro
-)
-
-copy /Y "%CONSOLIDADO%\movimentacoes.parquet" "%DESTINO%\movimentacoes.parquet"
-if errorlevel 1 goto erro
-
-copy /Y "%CONSOLIDADO%\retornos.parquet" "%DESTINO%\retornos.parquet"
-if errorlevel 1 goto erro
-
-echo.
-echo [6/8] Commitando e enviando primeiro o dashboard temporal...
-pushd "%REPO_DASH%"
-if errorlevel 1 goto erro
-echo.
-echo Atualizando Git em "%REPO_DASH%"...
-git status --porcelain > "%TEMP%\git_status_atualizacao.txt"
-if errorlevel 1 popd & goto erro
-for %%A in ("%TEMP%\git_status_atualizacao.txt") do set TAMANHO=%%~zA
-if "%TAMANHO%"=="0" (
-    echo Nenhuma alteracao para commitar em "%REPO_DASH%".
-    del "%TEMP%\git_status_atualizacao.txt" >nul 2>nul
-    popd
-) else (
-    del "%TEMP%\git_status_atualizacao.txt" >nul 2>nul
-    git add -A
-    if errorlevel 1 popd & goto erro
-    git commit -m "%MENSAGEM_COMMIT%"
-    if errorlevel 1 popd & goto erro
-    git push
-    if errorlevel 1 popd & goto erro
-    popd
-)
-
-echo.
-echo [7/8] Gerando imagens do README (etapa opcional)...
+echo [5/7] Gerando imagens do README (etapa opcional)...
 "%PYTHON%" docs\gerar_imagens_readme.py --somente-imagens
 if errorlevel 1 (
     echo AVISO: nao foi possivel gerar as imagens do README.
-    echo AVISO: os dados do dashboard ja foram atualizados e enviados.
+    echo AVISO: o consolidado foi gerado, mas as imagens do README falharam.
     set "AVISOS=1"
 )
 
 echo.
-echo [8/8] Atualizando README (etapa opcional)...
+echo [6/7] Atualizando README (etapa opcional)...
 "%PYTHON%" docs\gerar_imagens_readme.py --somente-readme
 if errorlevel 1 (
     echo AVISO: nao foi possivel atualizar o README.
-    echo AVISO: os dados do dashboard ja foram atualizados e enviados.
+    echo AVISO: o consolidado foi gerado, mas o README falhou.
     set "AVISOS=1"
 )
 
 echo.
-echo [9/9] Commitando e enviando o repositorio principal...
+echo [7/7] Commitando e enviando o repositorio principal...
 pushd "%REPO_ORIGEM%"
 if errorlevel 1 goto erro
 echo.
@@ -125,8 +75,8 @@ if "%TAMANHO%"=="0" (
 )
 
 echo.
-echo Dados atualizados em "%DESTINO%".
-echo Repositorios commitados e enviados para o GitHub.
+echo Dados e consolidado atualizados no repositorio principal.
+echo O envio do dash_temporal fica para a tarefa dedicada das 10h.
 if "%AVISOS%"=="1" (
     echo Atualizacao concluida com avisos nas etapas opcionais de README/imagens.
 ) else (
