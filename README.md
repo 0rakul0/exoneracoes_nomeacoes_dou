@@ -4,7 +4,7 @@ Este projeto busca criar uma base historica de atos de exoneracao e nomeacao pub
 
 Dashboard temporal publicado: <https://dash-temporal.onrender.com/>
 
-Este repositorio e o ambiente de desenvolvimento. O deploy do dashboard e feito pelo repositorio `D:\github\dash_temporal`, que mantem uma versao enxuta do app para o Render. Ao atualizar o painel publicado, suba para la apenas os dados de consumo em `saida/analises/RJ`.
+Este repositorio e o ambiente de desenvolvimento. O deploy do dashboard e feito pelo repositorio `D:\github\dash_temporal`, que mantem uma versao enxuta do app para o Render. Ao atualizar o painel publicado, suba para la apenas os arquivos finais de `saida/consolidado`.
 
 ## Objetivos
 
@@ -94,10 +94,10 @@ Os resultados indicam:
 | Luiz Fernando de Souza (Executivo estadual) | 21.084 | 26.364 | 5.280 | 47.448 |
 | Sergio Cabral (Executivo estadual) | 6.958 | 22.009 | 15.051 | 28.967 |
 | Wilson Jose Witzel (Executivo estadual) | 12.388 | 15.805 | 3.417 | 28.193 |
-| Ricardo Couto de Castro (TJ-RJ) | 7.004 | 3.543 | -3.461 | 10.547 |
+| Ricardo Couto de Castro (TJ-RJ) | 7.077 | 3.639 | -3.438 | 10.716 |
 
 O maior saldo positivo aparece em **Sergio Cabral**, com **15.051 nomeações líquidas**.
-Já **Ricardo Couto de Castro** apresenta saldo negativo, com **3.461 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
+Já **Ricardo Couto de Castro** apresenta saldo negativo, com **3.438 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
 
 <!-- README-DYNAMIC:SALDO-END -->
 
@@ -396,13 +396,13 @@ python docs/gerar_imagens_readme.py
 
 O script salva os PNGs em `docs/img` com as mesmas dimensões usadas atualmente no documento e recalcula os blocos marcados com `README-DYNAMIC` a partir da base de movimentações.
 
-Para atualizar os dados consumidos pelo deploy, copie apenas as bases finais para o repositorio enxuto:
+Para atualizar os dados consumidos pelo deploy, sincronize apenas as bases finais para o repositorio enxuto:
 
 ```powershell
 .\deploy\atualizar_dados_dash_temporal.bat
 ```
 
-Depois, no repositorio `D:\github\dash_temporal`, revise, faca commit e push dos arquivos de dados alterados.
+Esse atalho chama `D:\github\dash_temporal\atualizar_github.bat`, que copia apenas `saida/consolidado/movimentacoes.parquet` e `saida/consolidado/retornos.parquet` para o repositorio de deploy e faz o commit/push la.
 
 O script de análise temporal lê os CSVs anuais em `saida/UF` e grava:
 

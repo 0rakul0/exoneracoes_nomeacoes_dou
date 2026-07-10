@@ -76,7 +76,7 @@ if "%TAMANHO%"=="0" (
 
 echo.
 echo Dados e consolidado atualizados no repositorio principal.
-echo O envio do dash_temporal fica para a tarefa dedicada das 10h.
+echo O envio do dash_temporal fica para a tarefa dedicada das 10h ou para .\deploy\atualizar_dados_dash_temporal.bat.
 if "%AVISOS%"=="1" (
     echo Atualizacao concluida com avisos nas etapas opcionais de README/imagens.
 ) else (
