@@ -10,13 +10,16 @@ from diarios_oficiais.config import RJ_COLLECTION_YEAR
 from diarios_oficiais.rj_ioerj import collect_rj
 from diarios_oficiais.rj_ioerj import report_torch_cuda
 from diarios_oficiais.rj_ioerj import RjIoerjCollector
+from diarios_oficiais.sp_doe import collect_sp
+from diarios_oficiais.sp_legacy import collect_sp_legacy
 
 
-COLLECTORS_BY_STATE: dict[str, Callable[[], int]] = {
+COLLECTORS_BY_STATE: dict[str, Callable[..., int]] = {
     "RJ": collect_rj,
+    "SP": collect_sp,
 }
 
-STATES_TO_COLLECT = ["RJ"]
+STATES_TO_COLLECT = ["RJ", "SP"]
 
 
 def collect_state(state: str) -> int:
@@ -86,6 +89,21 @@ def build_arg_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Ignora marcadores .year_complete e reavalia anos ja marcados como completos.",
     )
+    parser.add_argument(
+        "--coletar-sp-legado",
+        action="store_true",
+        help="Coleta o acervo legado de SP (Executivo - Secao II) no intervalo informado.",
+    )
+    parser.add_argument(
+        "--sp-legado-data-inicial",
+        type=date.fromisoformat,
+        help="Data inicial YYYY-MM-DD para --coletar-sp-legado.",
+    )
+    parser.add_argument(
+        "--sp-legado-data-final",
+        type=date.fromisoformat,
+        help="Data final YYYY-MM-DD para --coletar-sp-legado.",
+    )
     return parser
 
 
@@ -96,14 +114,23 @@ def main() -> int:
     if args.sondar_novas:
         return sondar_novas_edicoes_rj()
 
+    if args.coletar_sp_legado:
+        if not args.sp_legado_data_inicial or not args.sp_legado_data_final:
+            raise SystemExit(
+                "Use --sp-legado-data-inicial e --sp-legado-data-final com --coletar-sp-legado."
+            )
+        total = collect_sp_legacy(args.sp_legado_data_inicial, args.sp_legado_data_final)
+        print(f"SP legado: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
     if not args.sem_preload_ocr:
         preload_ocr_models()
 
     total_by_state: dict[str, int] = {}
     for state in STATES_TO_COLLECT:
         try:
-            if state == "RJ":
-                total_by_state[state] = collect_rj(
+            if state in {"RJ", "SP"}:
+                total_by_state[state] = COLLECTORS_BY_STATE[state](
                     pular_anos_completos=not args.ignorar_year_complete,
                 )
             else:

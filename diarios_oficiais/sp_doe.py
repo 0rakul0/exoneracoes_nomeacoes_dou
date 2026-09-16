@@ -17,6 +17,7 @@ from diarios_oficiais.utils_regex import sp_doe as sp_regexes
 
 WEB_SEARCH_API_URL = "https://do-api-web-search.doe.sp.gov.br/"
 PDF_API_URL = "https://do-api-publication-pdf.doe.sp.gov.br/"
+MARKDOWN_DATE_RE = re.compile(r"_(\d{4}-\d{2}-\d{2})$")
 
 
 class SpDoeCollector(BaseGazetteCollector):
@@ -134,6 +135,18 @@ class SpDoeCollector(BaseGazetteCollector):
     def markdown_path_for(self, edition: Edition) -> Path:
         return self.lake_base_path_for(edition).with_suffix(".md")
 
+    def latest_stored_publication_date(self) -> date | None:
+        state_lake_dir = self.lake_dir / self.state
+        latest_date: date | None = None
+        for markdown_path in state_lake_dir.rglob("*.md"):
+            match = MARKDOWN_DATE_RE.search(markdown_path.stem)
+            if not match:
+                continue
+            publication_date = date.fromisoformat(match.group(1))
+            if latest_date is None or publication_date > latest_date:
+                latest_date = publication_date
+        return latest_date
+
     @staticmethod
     def format_api_date(value: date) -> str:
         return f"{value.year}-{value.month}-{value.day}"
@@ -153,9 +166,27 @@ def normalize_name(value: str) -> str:
     return value.strip()
 
 
-def collect_sp() -> int:
+def collect_sp(pular_anos_completos: bool = True) -> int:
     collector = SpDoeCollector()
-    dates = collector.list_available_dates()
+    latest_stored_date = collector.latest_stored_publication_date()
+    start_date = latest_stored_date or collector.start_date
+    dates = [
+        publication_date
+        for publication_date in collector.list_available_dates()
+        if publication_date >= start_date
+    ]
+
+    if latest_stored_date is None:
+        print(
+            f"Nenhuma edicao SP encontrada no LAKE; iniciando em {start_date.isoformat()}.",
+            file=sys.stderr,
+        )
+    else:
+        print(
+            f"Ultima edicao SP encontrada no LAKE: {latest_stored_date.isoformat()}. "
+            "Retomando a partir dessa data.",
+            file=sys.stderr,
+        )
 
     total_new_acts = 0
     current_year = date.today().year
@@ -174,7 +205,7 @@ def collect_sp() -> int:
         collector.mark_year_complete(year)
 
     for item in dates:
-        if collector.is_year_complete(item.year):
+        if pular_anos_completos and collector.is_year_complete(item.year):
             if item.year not in skipped_years:
                 print(f"Pulando {item.year}: marcador .year_complete encontrado.", file=sys.stderr)
                 skipped_years.add(item.year)

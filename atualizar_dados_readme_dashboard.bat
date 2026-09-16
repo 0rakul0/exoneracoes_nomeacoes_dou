@@ -5,7 +5,7 @@ cd /d "%~dp0"
 
 set "PYTHON=%~dp0.venv\Scripts\python.exe"
 set "REPO_ORIGEM=%~dp0"
-set "MENSAGEM_COMMIT=Atualiza dados e README RJ"
+set "MENSAGEM_COMMIT=Atualiza dados e README RJ e SP"
 set "AVISOS=0"
 
 if not exist "%PYTHON%" (
@@ -13,27 +13,45 @@ if not exist "%PYTHON%" (
     exit /b 1
 )
 
-echo [1/7] Baixando e atualizando dados...
+echo [1/9] Baixando e atualizando dados...
 "%PYTHON%" main.py
 if errorlevel 1 goto erro
 
 echo.
-echo [2/7] Deduplicando CSVs anuais...
+echo [2/9] Deduplicando CSVs anuais do RJ...
 "%PYTHON%" diarios_oficiais\tratamentos\deduplicar_atos_anuais.py --uf RJ
 if errorlevel 1 goto erro
 
 echo.
-echo [3/7] Gerando movimentacoes...
+echo [3/9] Deduplicando CSVs anuais de SP...
+if exist "saida\SP\*.csv" (
+    "%PYTHON%" diarios_oficiais\tratamentos\deduplicar_atos_anuais.py --uf SP
+    if errorlevel 1 goto erro
+) else (
+    echo Nenhum CSV anual de SP encontrado; etapa ignorada.
+)
+
+echo.
+echo [4/9] Gerando movimentacoes do RJ...
 "%PYTHON%" analise_temporal\analisar_movimentacoes.py --uf RJ --incluir-anos-incompletos --incremental
 if errorlevel 1 goto erro
 
 echo.
-echo [4/7] Consolidando dados...
+echo [5/9] Gerando movimentacoes de SP...
+if exist "saida\SP\*.csv" (
+    "%PYTHON%" analise_temporal\analisar_movimentacoes.py --uf SP --incluir-anos-incompletos --incremental
+    if errorlevel 1 goto erro
+) else (
+    echo Nenhum CSV anual de SP encontrado; etapa ignorada.
+)
+
+echo.
+echo [6/9] Consolidando dados...
 "%PYTHON%" scripts\consolidar_dados.py
 if errorlevel 1 goto erro
 
 echo.
-echo [5/7] Gerando imagens do README (etapa opcional)...
+echo [7/9] Gerando imagens do README (etapa opcional)...
 "%PYTHON%" docs\gerar_imagens_readme.py --somente-imagens
 if errorlevel 1 (
     echo AVISO: nao foi possivel gerar as imagens do README.
@@ -42,7 +60,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [6/7] Atualizando README (etapa opcional)...
+echo [8/9] Atualizando README (etapa opcional)...
 "%PYTHON%" docs\gerar_imagens_readme.py --somente-readme
 if errorlevel 1 (
     echo AVISO: nao foi possivel atualizar o README.
@@ -51,7 +69,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [7/7] Commitando e enviando o repositorio principal...
+echo [9/9] Commitando e enviando o repositorio principal...
 pushd "%REPO_ORIGEM%"
 if errorlevel 1 goto erro
 echo.

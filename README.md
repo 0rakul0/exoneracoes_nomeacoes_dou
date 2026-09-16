@@ -94,10 +94,10 @@ Os resultados indicam:
 | Luiz Fernando de Souza (Executivo estadual) | 21.084 | 26.364 | 5.280 | 47.448 |
 | Sergio Cabral (Executivo estadual) | 6.958 | 22.009 | 15.051 | 28.967 |
 | Wilson Jose Witzel (Executivo estadual) | 12.388 | 15.805 | 3.417 | 28.193 |
-| Ricardo Couto de Castro (TJ-RJ) | 8.152 | 5.329 | -2.823 | 13.481 |
+| Ricardo Couto de Castro (TJ-RJ) | 8.170 | 5.358 | -2.812 | 13.528 |
 
 O maior saldo positivo aparece em **Sergio Cabral**, com **15.051 nomeações líquidas**.
-Já **Ricardo Couto de Castro** apresenta saldo negativo, com **2.823 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
+Já **Ricardo Couto de Castro** apresenta saldo negativo, com **2.812 exonerações a mais do que nomeações**, indicando predominância de saídas no recorte analisado.
 
 <!-- README-DYNAMIC:SALDO-END -->
 
@@ -205,7 +205,7 @@ Para forcar a rechecagem de anos marcados como completos:
 .\.venv\Scripts\python.exe main.py --ignorar-year-complete
 ```
 
-A coleta ativa executa somente `RJ`, definido em `STATES_TO_COLLECT`. O coletor identifica a ultima data ja armazenada em `LAKE/RJ` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. Quando a IOERJ publica mais de uma edicao com o mesmo rotulo no mesmo dia, o coletor preserva o rotulo oficial e diferencia as repeticoes como `Edicao 2`, `Edicao 3` etc.; ele so usa `Complementar` quando esse texto vier no proprio rotulo da IOERJ. Os Markdown existentes sao reutilizados; quando precisa converter uma edicao ausente, o coletor reaproveita PDFs em `.cache/diarios` antes de baixar novamente. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`) em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
+A coleta ativa executa `RJ` e `SP`, definidos em `STATES_TO_COLLECT`. Cada coletor identifica a ultima data ja armazenada em `LAKE/<UF>` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. Quando a IOERJ publica mais de uma edicao com o mesmo rotulo no mesmo dia, o coletor preserva o rotulo oficial e diferencia as repeticoes como `Edicao 2`, `Edicao 3` etc.; ele so usa `Complementar` quando esse texto vier no proprio rotulo da IOERJ. Os Markdown existentes sao reutilizados; quando precisa converter uma edicao ausente, o coletor reaproveita PDFs em `.cache/diarios` antes de baixar novamente. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`); para SP, ela inicia em `SP_START_DATE` (`2024-06-03`), primeira data validada com PDF consolidado de `Atos de Pessoal` no endpoint oficial. As configuracoes ficam em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
 
 O padrao dos arquivos Markdown e:
 
@@ -418,6 +418,98 @@ Para marcar mudancas de governo ou outros marcos politicos na serie temporal:
 ```powershell
 python analise_temporal/analisar_movimentacoes.py --uf RJ --marco-governo 2023-01-01:Governo_2023
 ```
+
+## Como incluir uma nova UF
+
+Cada estado possui um portal e um formato de Diario Oficial proprios. Por isso, a inclusao de uma UF nao e apenas adicionar sua sigla em `STATES_TO_COLLECT`: e necessario implementar e validar um conector para a fonte oficial. Nao ha necessidade de credenciais quando o portal disponibiliza os PDFs publicamente.
+
+### 1. Mapear a fonte oficial
+
+Antes de escrever codigo, registre para a nova UF:
+
+- URL do portal oficial e sua politica de acesso;
+- como listar os dias publicados e as edicoes/cadernos de uma data;
+- qual URL baixa o PDF de cada edicao;
+- quais cadernos concentram atos de pessoal do Poder Executivo;
+- a primeira data que deve entrar no historico; e
+- exemplos de PDFs recentes, antigos, suplementares e, se houver, digitalizados.
+
+Teste manualmente esses exemplos no navegador. O coletor deve usar links da fonte oficial e preservar a URL da edicao em `fonte_url` para auditoria.
+
+### 2. Criar o coletor da UF
+
+Crie um modulo, por exemplo `diarios_oficiais/mg_iof.py`, com uma classe que herde de `BaseGazetteCollector`. Use `diarios_oficiais/rj_ioerj.py` como referencia. O coletor precisa definir, no minimo:
+
+- `state`, com a sigla da UF (por exemplo, `MG`);
+- `gazette_code` e `gazette_name`;
+- `list_available_dates()`, para descobrir as datas publicadas;
+- `list_editions(data)`, retornando objetos `Edition` para cada caderno;
+- `download_edition_pdf(edition, destination)`;
+- `markdown_path_for(edition)` e `latest_stored_publication_date()`; e
+- uma funcao publica de coleta, como `collect_mg()`.
+
+Mantenha os arquivos brutos convertidos no padrao abaixo. A classe base ja cuida de cache de PDF, conversao para Markdown, OCR de fallback, CSV anual, deduplicacao e registro de falhas.
+
+```text
+LAKE/MG/ano/mes/DOMG_<CADERNO>_<AAAA-MM-DD>.md
+saida/MG/DOMG_<AAAA>.csv
+```
+
+Defina tambem uma constante de data/ano inicial em `diarios_oficiais/config.py`, por exemplo `MG_COLLECTION_YEAR`. Ela sera usada somente quando ainda nao houver Markdown em `LAKE/MG`.
+
+### 3. Implementar o parser especifico do diario
+
+Crie os padroes da UF em `diarios_oficiais/utils_regex/<uf>_<diario>.py`. Eles devem refletir o texto realmente produzido na conversao dos PDFs, especialmente as formas de `NOMEAR`, `EXONERAR`, cargo, orgao, matricula e assinatura.
+
+No modulo do coletor, implemente uma funcao equivalente a `parse_acts()` do RJ. Para cada ato valido, ela deve criar um `Act` com os campos de origem, data, caderno, tipo do ato, pessoa, cargo, orgao, trecho e caminho do Markdown. Evite reutilizar as regex do RJ sem verificar uma amostra: a diagramacao e a redacao variam entre os diarios.
+
+### 4. Registrar a UF na execucao
+
+Depois de validar o conector, importe a funcao de coleta em `main.py` e registre-a no mapa:
+
+```python
+from diarios_oficiais.mg_iof import collect_mg
+
+COLLECTORS_BY_STATE = {
+    "RJ": collect_rj,
+    "MG": collect_mg,
+}
+
+STATES_TO_COLLECT = ["RJ", "MG"]
+```
+
+Caso a UF precise de opcoes particulares, como o tratamento atual de anos completos do RJ, adapte o loop principal para passá-las ao seu coletor. Nao inclua a sigla em `STATES_TO_COLLECT` antes de concluir a validacao, pois isso ativa a coleta no proximo processamento rotineiro.
+
+### 5. Validar antes de ativar a coleta recorrente
+
+Use uma amostra de diferentes datas e cadernos para conferir:
+
+- se todas as edicoes-alvo sao descobertas e baixadas como PDF valido;
+- se os caminhos em `LAKE/<UF>` nao colidem entre edicoes do mesmo dia;
+- se o Markdown tem texto suficiente ou aciona OCR quando necessario;
+- se nomeacoes e exoneracoes aparecem no CSV anual, sem duplicatas;
+- se `fonte_url`, `arquivo_markdown`, data e caderno permitem localizar o ato original; e
+- se o parser nao esta capturando nomes de editais, listas ou atos que nao sejam movimentacoes de pessoal.
+
+Em seguida, execute a analise para a nova UF:
+
+```powershell
+.\.venv\Scripts\python.exe analise_temporal\analisar_movimentacoes.py --uf MG --incluir-anos-incompletos --incremental
+```
+
+O consolidado e o dashboard leem os CSVs por UF, portanto nao exigem uma alteracao estrutural adicional depois que `saida/MG` estiver no mesmo esquema de colunas do coletor base.
+
+### Acervo legado de Sao Paulo
+
+A coleta regular de SP usa o PDF consolidado de `Executivo - Atos de Pessoal`, disponivel a partir de `2024-06-03`. Para o periodo anterior, ha uma coleta separada do acervo legado da Imprensa Oficial. Ela percorre os PDFs por pagina do caderno `Executivo - Seção II`, sem interferir na atualizacao regular.
+
+Informe sempre um intervalo pequeno para validar a qualidade da extracao antes de ampliar a coleta:
+
+```powershell
+.\.venv\Scripts\python.exe main.py --coletar-sp-legado --sp-legado-data-inicial 2023-05-13 --sp-legado-data-final 2023-05-13
+```
+
+Os arquivos sao gravados em `LAKE/SP/<ano>/<mes>` com o sufixo `PAGINA_<numero>` e os atos vao para o CSV anual em `saida/SP`. A coleta normal, sem `--coletar-sp-legado`, continua usando somente o endpoint atual do DOESP.
 
 ## Observacoes
 

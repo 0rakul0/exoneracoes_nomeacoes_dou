@@ -1,8 +1,8 @@
 @echo off
 setlocal
 
-set "TAREFA=Atualizar DOU RJ e Dashboard"
-set "SCRIPT=%~dp0rodar_atualizacao_diaria.bat"
+set "TAREFA=Atualizar DOU RJ, SP e Dashboard"
+set "SCRIPT=%~dp0rodar_atualizacao_diaria_agendada.bat"
 
 if not exist "%SCRIPT%" (
     echo Script nao encontrado: "%SCRIPT%"

@@ -43,7 +43,7 @@ ENABLE_SPACY_VALIDATION = True
 SPACY_MODEL = "pt_core_news_sm"
 SPACY_MODE = "annotate"
 
-SP_START_DATE = "2023-05-01"
+SP_START_DATE = "2024-06-03"
 SP_JOURNAL_NAME = "Executivo"
 SP_SECTION_NAME = "Atos de Pessoal"
 
