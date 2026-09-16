@@ -104,6 +104,16 @@ def build_arg_parser() -> argparse.ArgumentParser:
         type=date.fromisoformat,
         help="Data final YYYY-MM-DD para --coletar-sp-legado.",
     )
+    parser.add_argument(
+        "--sp-data-inicial",
+        type=date.fromisoformat,
+        help="Forca a data inicial da coleta regular de SP (YYYY-MM-DD).",
+    )
+    parser.add_argument(
+        "--sp-data-final",
+        type=date.fromisoformat,
+        help="Data final da coleta regular de SP (YYYY-MM-DD). Requer --sp-data-inicial.",
+    )
     return parser
 
 
@@ -121,6 +131,18 @@ def main() -> int:
             )
         total = collect_sp_legacy(args.sp_legado_data_inicial, args.sp_legado_data_final)
         print(f"SP legado: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.sp_data_final and not args.sp_data_inicial:
+        raise SystemExit("Use --sp-data-inicial junto com --sp-data-final.")
+
+    if args.sp_data_inicial:
+        total = collect_sp(
+            pular_anos_completos=not args.ignorar_year_complete,
+            start_date_override=args.sp_data_inicial,
+            end_date=args.sp_data_final,
+        )
+        print(f"SP: {total} atos novos gravados nos CSVs anuais")
         return 0
 
     if not args.sem_preload_ocr:

@@ -166,17 +166,29 @@ def normalize_name(value: str) -> str:
     return value.strip()
 
 
-def collect_sp(pular_anos_completos: bool = True) -> int:
+def collect_sp(
+    pular_anos_completos: bool = True,
+    start_date_override: date | None = None,
+    end_date: date | None = None,
+) -> int:
     collector = SpDoeCollector()
     latest_stored_date = collector.latest_stored_publication_date()
-    start_date = latest_stored_date or collector.start_date
+    start_date = start_date_override or latest_stored_date or collector.start_date
+    end_date = end_date or date.today()
+    if end_date < start_date:
+        raise ValueError("A data final de SP nao pode ser anterior a data inicial.")
     dates = [
         publication_date
         for publication_date in collector.list_available_dates()
-        if publication_date >= start_date
+        if start_date <= publication_date <= end_date
     ]
 
-    if latest_stored_date is None:
+    if start_date_override is not None:
+        print(
+            f"Coleta retroativa SP: {start_date.isoformat()} a {end_date.isoformat()}.",
+            file=sys.stderr,
+        )
+    elif latest_stored_date is None:
         print(
             f"Nenhuma edicao SP encontrada no LAKE; iniciando em {start_date.isoformat()}.",
             file=sys.stderr,
