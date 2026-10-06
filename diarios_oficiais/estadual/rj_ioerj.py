@@ -7,6 +7,7 @@ import sys
 import time
 from datetime import date, datetime
 from pathlib import Path
+from typing import Callable
 from urllib.parse import urljoin
 
 from diarios_oficiais.base import Act
@@ -142,6 +143,7 @@ def parse_acts(
     edition: Edition,
     markdown_path: Path,
     regexes=rj_regexes,
+    municipality_for_position: Callable[[int], str] | None = None,
 ) -> list[Act]:
     normalized = SPACE_RE.sub(" ", text)
     context_markers = authority_context_markers(normalized, raw_text=text)
@@ -188,6 +190,7 @@ def parse_acts(
                 excerpt=excerpt[:900],
                 source_url=edition.url,
                 text_path=str(markdown_path),
+                municipality=municipality_for_position(match.start()) if municipality_for_position else "",
                 signer_name=signer_name,
                 signer_role=signer_role,
                 signer_category=signer_category,

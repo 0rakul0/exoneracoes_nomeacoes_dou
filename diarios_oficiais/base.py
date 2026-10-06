@@ -46,6 +46,7 @@ class Act:
     excerpt: str
     source_url: str
     text_path: str
+    municipality: str = ""
     signer_name: str = ""
     signer_role: str = ""
     signer_category: str = ""
@@ -414,6 +415,7 @@ class BaseGazetteCollector:
         path.parent.mkdir(parents=True, exist_ok=True)
         fieldnames = [
             "estado",
+            "municipio",
             "diario",
             "data_publicacao",
             "caderno",
@@ -466,6 +468,7 @@ class BaseGazetteCollector:
             new_rows.append(
                 {
                     "estado": act.state,
+                    "municipio": act.municipality,
                     "diario": act.gazette,
                     "data_publicacao": act.publication_date.isoformat(),
                     "caderno": act.section,

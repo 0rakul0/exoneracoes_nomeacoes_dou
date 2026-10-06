@@ -253,6 +253,47 @@ Por padrao, o Docling tenta primeiro usar o texto embutido no PDF, sem OCR, para
 Quando `USE_DOCLING = True`, o PDF e dividido em blocos antes da conversao para reduzir uso de memoria. O tamanho do bloco fica em `DOCLING_PAGE_CHUNK_SIZE`.
 
 As configuracoes compartilhadas de coleta, cache, saida, Docling e parse em blocos ficam em `diarios_oficiais/config.py`. A classe base para novos extratores fica em `diarios_oficiais/base.py`.
+Os extratores estaduais ficam em `diarios_oficiais/estadual/`; os conectores de diários municipais devem ser adicionados em `diarios_oficiais/municipal/`.
+
+O primeiro conector municipal é o D.O. Rio, da Prefeitura do Rio de Janeiro. Para coletar um período específico, use:
+
+```powershell
+.\.venv\Scripts\python.exe main.py --coletar-rio-municipal --rio-municipal-data-inicial 2026-10-06 --rio-municipal-data-final 2026-10-06
+```
+
+Para cobertura transversal dos municípios que publicam na Parte IV — Municipalidades do DOERJ, use o mesmo intervalo com:
+
+```powershell
+.\.venv\Scripts\python.exe main.py --coletar-rj-municipalidades --rio-municipal-data-inicial 2026-10-06 --rio-municipal-data-final 2026-10-06
+```
+
+### Diários municipais do Rio de Janeiro
+
+O projeto usa duas camadas de cobertura: a Parte IV — Municipalidades do DOERJ, que concentra publicações de diversos municípios, e os portais próprios das prefeituras. Os atos municipais incluem a coluna `municipio` quando a fonte fornece essa identificação.
+
+| Município ou fonte | Situação | Acesso identificado | Observações |
+| --- | --- | --- | --- |
+| Parte IV — Municipalidades (DOERJ) | Implementado | Portal da [IOERJ](https://www.ioerj.com.br/portal/) | Cobre municípios que publicam no caderno estadual; não substitui o diário próprio. |
+| Rio de Janeiro | Implementado | `doweb.rio.rj.gov.br` | API por data e PDF oficial por edição, incluindo suplementos. |
+| Niterói | Implementado | `diariooficial.niteroi.rj.gov.br` | PDF diário por data, no padrão `do/AAAA/MM_Mes/DD.pdf`. |
+| Campos dos Goytacazes | Implementado | [Portal municipal](https://campos.rj.gov.br/diario-oficial/) | Índice público com PDFs, suplementos e cadernos adicionais. |
+| Duque de Caxias | Implementado | Portal da [Transparência](https://transparencia.duquedecaxias.rj.gov.br/diario_oficial_busca.php) | Catálogo mensal oficial em JSON, com PDFs obtidos por `diario_oficial_get_anexo.php?codigo=...`. |
+| Nova Iguaçu | Implementado | [Portal municipal](https://doweb.novaiguacu.rj.gov.br/portal/diario-oficial) | Filtro oficial por data e links de PDF por edição, incluindo edições extras. |
+| São Gonçalo | Implementado | [Portal municipal](https://www.saogoncalo.rj.gov.br/servico/diario-oficial/) | Arquivo diário previsível em `https://do.pmsg.rj.gov.br/diario/AAAA_MM_DD.pdf`; o formulário oficial por data abre esse mesmo PDF. |
+| Demais municípios | Pendente | Parte IV do DOERJ como cobertura inicial | Cada portal precisa ser mapeado e integrado conforme sua tecnologia e acervo. |
+
+O teste da fonte de Duque de Caxias confirmou que o código `4901` redireciona para o Boletim Oficial nº 7778, de 02/09/2026. A edição de código `4823`, de 31/07/2026, contém atos de exoneração. O conector usa o catálogo mensal oficial, preserva os volumes de uma mesma data e processa cada PDF publicado.
+
+Para executar os conectores municipais já integrados, informe o intervalo desejado. Por exemplo:
+
+```powershell
+.\.venv\Scripts\python.exe main.py --coletar-municipais-rj --rio-municipal-data-inicial 2026-10-06 --rio-municipal-data-final 2026-10-06
+.\.venv\Scripts\python.exe main.py --coletar-campos --rio-municipal-data-inicial 2026-10-06 --rio-municipal-data-final 2026-10-06
+.\.venv\Scripts\python.exe main.py --coletar-sao-goncalo --rio-municipal-data-inicial 2026-10-06 --rio-municipal-data-final 2026-10-06
+```
+
+`--coletar-municipais-rj` é o comando único: ele percorre todos os conectores municipais já implementados, inclusive a Parte IV do DOERJ, e imprime o total separado por fonte no final. Os municípios ainda marcados como pendentes não são silenciosamente ignorados: eles precisam primeiro de um conector próprio.
+
 Cada fonte deve ter seu proprio conjunto de regex em `diarios_oficiais/utils_regex`. O modulo `common.py` guarda apenas pecas reutilizaveis, como espacos, tokens de nome e categorias de assinante. Os padroes especificos ficam em modulos proprios, como `diarios_oficiais/utils_regex/rj_ioerj.py` e `diarios_oficiais/utils_regex/sp_doe.py`.
 
 ## Fluxo

@@ -5,7 +5,7 @@ import sys
 from datetime import date
 
 from diarios_oficiais.config import RJ_COLLECTION_YEAR
-from diarios_oficiais.rj_ioerj import RjIoerjCollector
+from diarios_oficiais.estadual.rj_ioerj import RjIoerjCollector
 
 
 def parse_date(value: str) -> date:

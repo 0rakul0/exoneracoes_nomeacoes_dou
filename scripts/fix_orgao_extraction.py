@@ -23,7 +23,7 @@ ACTION_MAP = {'nomeacao': ('NOMEAR', 'NOMEIA'), 'exoneracao': ('EXONERAR',)}
 
 def extract_acts_from_markdown(filepath):
     """Extract all (action, nome, body) tuples from a markdown file using official parser functions."""
-    from diarios_oficiais.rj_ioerj import extract_person_name
+    from diarios_oficiais.estadual.rj_ioerj import extract_person_name
     from diarios_oficiais.utils_regex import rj_ioerj as rj_regexes
     
     try:
@@ -86,7 +86,7 @@ def main():
             print(f'  Progress: {processed_files}/{total_files} files, {fixed_orgao}/{total_bad} fixed ({time.time()-t0:.0f}s)')
         # Import regex from the correct module (already has the fix applied)
         from diarios_oficiais.utils_regex import rj_ioerj as rj_regexes
-        from diarios_oficiais.rj_ioerj import clean_piece
+        from diarios_oficiais.estadual.rj_ioerj import clean_piece
         AGENCY_RE = rj_regexes.AGENCY_RE
         ROLE_RE = rj_regexes.ROLE_RE
 

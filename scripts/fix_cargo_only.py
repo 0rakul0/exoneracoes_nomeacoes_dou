@@ -3,7 +3,7 @@ Uses the updated ROLE_RE (now includes 'no'/'na'/'em' before role)."""
 import re, os, sys, time, pandas as pd
 sys.path.insert(0, r'D:\github\exoneracoes_nomeacoes_dou')
 from diarios_oficiais.utils_regex import rj_ioerj as rj_regexes
-from diarios_oficiais.rj_ioerj import clean_piece, extract_person_name
+from diarios_oficiais.estadual.rj_ioerj import clean_piece, extract_person_name
 
 BASE = r'D:\github\exoneracoes_nomeacoes_dou'
 ANALISES = os.path.join(BASE, 'saida', 'analises', 'RJ')

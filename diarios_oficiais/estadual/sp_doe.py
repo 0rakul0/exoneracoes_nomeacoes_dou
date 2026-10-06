@@ -10,8 +10,8 @@ from urllib.parse import urljoin
 from diarios_oficiais import config
 from diarios_oficiais.base import BaseGazetteCollector
 from diarios_oficiais.base import Edition
-from diarios_oficiais.rj_ioerj import edition_slug
-from diarios_oficiais.rj_ioerj import parse_acts_from_markdown_file
+from diarios_oficiais.estadual.rj_ioerj import edition_slug
+from diarios_oficiais.estadual.rj_ioerj import parse_acts_from_markdown_file
 from diarios_oficiais.utils_regex import sp_doe as sp_regexes
 
 

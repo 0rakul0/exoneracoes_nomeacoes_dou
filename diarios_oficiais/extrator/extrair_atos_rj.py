@@ -7,7 +7,7 @@ from datetime import date
 from pathlib import Path
 
 from diarios_oficiais.base import Edition
-from diarios_oficiais.rj_ioerj import (
+from diarios_oficiais.estadual.rj_ioerj import (
     RjIoerjCollector,
     parse_acts_from_markdown_file,
 )
