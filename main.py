@@ -13,6 +13,7 @@ from diarios_oficiais.estadual.rj_ioerj import RjIoerjCollector
 from diarios_oficiais.estadual.sp_doe import collect_sp
 from diarios_oficiais.estadual.sp_legacy import collect_sp_legacy
 from diarios_oficiais.estadual.es_dio import collect_es
+from diarios_oficiais.estadual.ba_doe import collect_ba
 from diarios_oficiais.municipal.rio_de_janeiro import collect_rio_de_janeiro
 from diarios_oficiais.municipal.rj_municipalidades import collect_rj_municipalidades
 from diarios_oficiais.municipal.niteroi import collect_niteroi
@@ -27,9 +28,10 @@ COLLECTORS_BY_STATE: dict[str, Callable[..., int]] = {
     "RJ": collect_rj,
     "SP": collect_sp,
     "ES": collect_es,
+    "BA": collect_ba,
 }
 
-STATES_TO_COLLECT = ["RJ", "SP", "ES"]
+STATES_TO_COLLECT = ["RJ", "SP", "ES", "BA"]
 
 
 MUNICIPAL_RJ_COLLECTORS: list[tuple[str, Callable[[date | None, date | None], int]]] = [
@@ -211,6 +213,26 @@ def build_arg_parser() -> argparse.ArgumentParser:
         type=date.fromisoformat,
         help="Data final da coleta do ES (YYYY-MM-DD). Requer --es-data-inicial.",
     )
+    parser.add_argument(
+        "--coletar-ba",
+        action="store_true",
+        help="Coleta o Diário Oficial do Estado da Bahia no intervalo informado.",
+    )
+    parser.add_argument(
+        "--ba-retroativo",
+        action="store_true",
+        help="Coleta a BA da data de hoje para trás até BA_START_DATE.",
+    )
+    parser.add_argument(
+        "--ba-data-inicial",
+        type=date.fromisoformat,
+        help="Forca a data inicial da coleta da BA (YYYY-MM-DD).",
+    )
+    parser.add_argument(
+        "--ba-data-final",
+        type=date.fromisoformat,
+        help="Data final da coleta da BA (YYYY-MM-DD). Requer --ba-data-inicial.",
+    )
     return parser
 
 
@@ -328,6 +350,26 @@ def main() -> int:
             end_date=args.es_data_final,
         )
         print(f"ES: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.ba_data_final and not args.ba_data_inicial:
+        raise SystemExit("Use --ba-data-inicial junto com --ba-data-final.")
+
+    if args.ba_retroativo:
+        total = collect_ba(
+            pular_anos_completos=not args.ignorar_year_complete,
+            retroativo=True,
+        )
+        print(f"BA retroativo: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.coletar_ba or args.ba_data_inicial:
+        total = collect_ba(
+            pular_anos_completos=not args.ignorar_year_complete,
+            start_date_override=args.ba_data_inicial,
+            end_date=args.ba_data_final,
+        )
+        print(f"BA: {total} atos novos gravados nos CSVs anuais")
         return 0
 
     if not args.sem_preload_ocr:

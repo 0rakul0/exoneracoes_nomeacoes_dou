@@ -51,5 +51,6 @@ SP_SECTION_NAME = "Atos de Pessoal"
 # Executivo e, após ele, os atos municipais. A coleta estadual filtra o
 # segundo caderno durante a extração.
 ES_START_DATE = "2026-01-01"
+BA_START_DATE = "2026-01-01"
 
 RJ_COLLECTION_YEAR = 2026

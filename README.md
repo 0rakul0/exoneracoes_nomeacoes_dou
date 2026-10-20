@@ -205,7 +205,7 @@ Para forcar a rechecagem de anos marcados como completos:
 .\.venv\Scripts\python.exe main.py --ignorar-year-complete
 ```
 
-A coleta ativa executa `RJ`, `SP` e `ES`, definidos em `STATES_TO_COLLECT`; o ES também pode ser executado isoladamente por `--coletar-es`. Cada coletor identifica a ultima data ja armazenada em `LAKE/<UF>` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. Quando a IOERJ publica mais de uma edicao com o mesmo rotulo no mesmo dia, o coletor preserva o rotulo oficial e diferencia as repeticoes como `Edicao 2`, `Edicao 3` etc.; ele so usa `Complementar` quando esse texto vier no proprio rotulo da IOERJ. O coletor do DIO/ES usa a API publica de edicoes e o PDF consolidado, mas corta o caderno `ATOS MUNICIPAIS` antes de extrair os atos do Executivo estadual. Os Markdown existentes sao reutilizados; quando precisa converter uma edicao ausente, o coletor reaproveita PDFs em `.cache/diarios` antes de baixar novamente. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`); para SP, ela inicia em `SP_START_DATE` (`2024-06-03`), e para ES em `ES_START_DATE` (`2026-01-01`). As configuracoes ficam em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
+A coleta ativa executa `RJ`, `SP`, `ES` e `BA`, definidos em `STATES_TO_COLLECT`; ES e BA também podem ser executados isoladamente por seus respectivos argumentos. Cada coletor identifica a ultima data ja armazenada em `LAKE/<UF>` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. O coletor do DIO/ES usa a API publica de edicoes e o PDF consolidado, mas corta o caderno `ATOS MUNICIPAIS` antes de extrair os atos do Executivo estadual. O coletor do DOE/BA usa a consulta publica em HTML e filtra o caderno `EXECUTIVO`; o PDF certificado da BA exige login. Os Markdown existentes sao reutilizados. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`); para SP, ela inicia em `SP_START_DATE` (`2024-06-03`), e para ES e BA em suas respectivas constantes `*_START_DATE` (`2026-01-01`). As configuracoes ficam em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
 
 Para preencher o histórico do ES, partindo da data atual e caminhando para trás até `ES_START_DATE`, use o BAT dedicado:
 
@@ -214,6 +214,14 @@ Para preencher o histórico do ES, partindo da data atual e caminhando para trá
 ```
 
 Para um intervalo específico, use diretamente `main.py` com `--coletar-es`, `--es-data-inicial` e `--es-data-final`.
+
+Para preencher o histórico da BA, partindo da data atual e caminhando para trás até `BA_START_DATE`, use:
+
+```powershell
+.\coletar_ba_retroativo.bat
+```
+
+Para uma data específica da BA, use `main.py` com `--coletar-ba`, `--ba-data-inicial` e `--ba-data-final`.
 
 O padrao dos arquivos Markdown e:
 

@@ -567,6 +567,14 @@ def parse_acts_from_markdown_file(
 
 
 def extract_person_name(body: str, regexes=rj_regexes) -> str:
+    table_name_re = getattr(regexes, "TABLE_NAME_RE", None)
+    if table_name_re is not None:
+        for match in table_name_re.finditer(body):
+            candidate = clean_piece(match.group("name"))
+            candidate = normalize_name(candidate)
+            if valid_person_name(candidate):
+                return candidate
+
     direct = direct_person_name(body)
     if direct:
         return direct
