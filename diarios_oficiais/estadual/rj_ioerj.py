@@ -182,7 +182,7 @@ def parse_acts(
                 gazette=collector.gazette_name,
                 publication_date=edition.publication_date,
                 section=edition.section,
-                action_type="nomeacao" if action in {"NOMEAR", "NOMEIA"} else "exoneracao",
+                action_type="nomeacao" if action.startswith("NOME") else "exoneracao",
                 person_name=person_name,
                 functional_id=functional_id,
                 role=role,
@@ -610,6 +610,8 @@ def valid_person_name(candidate: str) -> bool:
     tokens = candidate.upper().split()
     if len(tokens) < 2 or len(tokens) > 14:
         return False
+    if any(char.isdigit() for char in candidate):
+        return False
     suspicious_starts = {
         "A",
         "O",
@@ -629,22 +631,37 @@ def valid_person_name(candidate: str) -> bool:
     if tokens[0] in suspicious_starts:
         return False
     blocked = {
+        "ACORDO",
         "ALFABETICA",
         "ALFABÉTICA",
+        "ART",
+        "ARTIGO",
         "CANDIDATO",
         "CANDIDATOS",
         "CARGO",
+        "CONFORME",
         "CPF",
+        "DECRETO",
         "ESTADO",
         "FUNCAO",
         "FUNÇÃO",
         "INSCRICAO",
         "INSCRIÇÃO",
+        "INCISO",
+        "LEI",
+        "NOS",
         "ORDEM",
+        "OCUPANTE",
+        "PORTARIA",
         "PROCESSO",
+        "QUADRO",
+        "RESOLVE",
         "SECRETARIA",
+        "SERVIDOR",
+        "SERVIDORA",
         "SIMBOLO",
         "SÍMBOLO",
+        "TERMOS",
     }
     return not any(token in blocked for token in tokens[:3])
 

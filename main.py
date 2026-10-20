@@ -12,6 +12,7 @@ from diarios_oficiais.estadual.rj_ioerj import report_torch_cuda
 from diarios_oficiais.estadual.rj_ioerj import RjIoerjCollector
 from diarios_oficiais.estadual.sp_doe import collect_sp
 from diarios_oficiais.estadual.sp_legacy import collect_sp_legacy
+from diarios_oficiais.estadual.es_dio import collect_es
 from diarios_oficiais.municipal.rio_de_janeiro import collect_rio_de_janeiro
 from diarios_oficiais.municipal.rj_municipalidades import collect_rj_municipalidades
 from diarios_oficiais.municipal.niteroi import collect_niteroi
@@ -25,9 +26,10 @@ from diarios_oficiais.municipal.sao_joao_de_meriti import collect_sao_joao_de_me
 COLLECTORS_BY_STATE: dict[str, Callable[..., int]] = {
     "RJ": collect_rj,
     "SP": collect_sp,
+    "ES": collect_es,
 }
 
-STATES_TO_COLLECT = ["RJ", "SP"]
+STATES_TO_COLLECT = ["RJ", "SP", "ES"]
 
 
 MUNICIPAL_RJ_COLLECTORS: list[tuple[str, Callable[[date | None, date | None], int]]] = [
@@ -189,6 +191,26 @@ def build_arg_parser() -> argparse.ArgumentParser:
         type=date.fromisoformat,
         help="Data final da coleta regular de SP (YYYY-MM-DD). Requer --sp-data-inicial.",
     )
+    parser.add_argument(
+        "--coletar-es",
+        action="store_true",
+        help="Coleta o Diário Oficial do Estado do Espírito Santo no intervalo informado.",
+    )
+    parser.add_argument(
+        "--es-retroativo",
+        action="store_true",
+        help="Coleta o ES da data de hoje para trás até ES_START_DATE.",
+    )
+    parser.add_argument(
+        "--es-data-inicial",
+        type=date.fromisoformat,
+        help="Forca a data inicial da coleta do ES (YYYY-MM-DD).",
+    )
+    parser.add_argument(
+        "--es-data-final",
+        type=date.fromisoformat,
+        help="Data final da coleta do ES (YYYY-MM-DD). Requer --es-data-inicial.",
+    )
     return parser
 
 
@@ -286,6 +308,26 @@ def main() -> int:
             end_date=args.sp_data_final,
         )
         print(f"SP: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.es_data_final and not args.es_data_inicial:
+        raise SystemExit("Use --es-data-inicial junto com --es-data-final.")
+
+    if args.es_retroativo:
+        total = collect_es(
+            pular_anos_completos=not args.ignorar_year_complete,
+            retroativo=True,
+        )
+        print(f"ES retroativo: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.coletar_es or args.es_data_inicial:
+        total = collect_es(
+            pular_anos_completos=not args.ignorar_year_complete,
+            start_date_override=args.es_data_inicial,
+            end_date=args.es_data_final,
+        )
+        print(f"ES: {total} atos novos gravados nos CSVs anuais")
         return 0
 
     if not args.sem_preload_ocr:

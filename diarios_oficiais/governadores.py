@@ -42,6 +42,15 @@ KNOWN_SP_GOVERNORS = [
     ("JOÃO DORIA", "Joao Doria"),
 ]
 
+KNOWN_ES_GOVERNORS = [
+    ("RENATO CASAGRANDE", "Renato Casagrande"),
+    ("PAULO HARTUNG", "Paulo Hartung"),
+    ("JOSÉ RENATO CASAGRANDE", "Renato Casagrande"),
+    ("JOSE RENATO CASAGRANDE", "Renato Casagrande"),
+    ("RICARDO DE REZENDE FERRAÇO", "Ricardo de Rezende Ferraço"),
+    ("RICARDO DE REZENDE FERRACO", "Ricardo de Rezende Ferraço"),
+]
+
 
 @lru_cache(maxsize=4096)
 def governador_da_edicao(markdown_path: str) -> str:
@@ -51,6 +60,9 @@ def governador_da_edicao(markdown_path: str) -> str:
     path = Path(str(markdown_path))
     if "SP" in path.parts:
         return governador_sp_da_edicao(path)
+
+    if "ES" in path.parts:
+        return governador_es_da_edicao(path)
 
     if not path.exists():
         return UNKNOWN_GOVERNOR
@@ -104,6 +116,21 @@ def governador_sp_da_edicao(path: Path) -> str:
     known_name = match_known_sp_name(text[:20000])
     if known_name:
         return f"{known_name} - Governador"
+    return UNKNOWN_GOVERNOR
+
+
+def governador_es_da_edicao(path: Path) -> str:
+    if not path.exists():
+        return UNKNOWN_GOVERNOR
+
+    try:
+        text = path.read_text(encoding="utf-8", errors="ignore").upper()
+    except OSError:
+        return UNKNOWN_GOVERNOR
+
+    for needle, label in KNOWN_ES_GOVERNORS:
+        if needle in text[:60000]:
+            return f"{label} - Governador"
     return UNKNOWN_GOVERNOR
 
 

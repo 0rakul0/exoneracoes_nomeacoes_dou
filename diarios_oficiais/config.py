@@ -47,4 +47,9 @@ SP_START_DATE = "2024-06-03"
 SP_JOURNAL_NAME = "Executivo"
 SP_SECTION_NAME = "Atos de Pessoal"
 
+# O DIO/ES fornece uma edição diária consolidada, incluindo o caderno do
+# Executivo e, após ele, os atos municipais. A coleta estadual filtra o
+# segundo caderno durante a extração.
+ES_START_DATE = "2026-01-01"
+
 RJ_COLLECTION_YEAR = 2026
