@@ -3,13 +3,16 @@ setlocal
 
 set "TAREFA=Atualizar DOU RJ, SP e Dashboard"
 set "SCRIPT=%~dp0rodar_atualizacao_diaria_agendada.bat"
+set "COMANDO=%ComSpec% /d /c ""%SCRIPT%"""
 
 if not exist "%SCRIPT%" (
     echo Script nao encontrado: "%SCRIPT%"
     exit /b 1
 )
 
-schtasks /Create /TN "%TAREFA%" /TR "%SCRIPT%" /SC DAILY /ST 09:00 /F
+rem Executa o .bat por meio do cmd.exe para o Agendador aguardar
+rem corretamente o processo e receber seu codigo de saida.
+schtasks /Create /TN "%TAREFA%" /TR "%COMANDO%" /SC DAILY /ST 09:00 /F
 if errorlevel 1 (
     echo.
     echo Nao foi possivel criar a tarefa agendada.
