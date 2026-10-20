@@ -128,14 +128,8 @@ class EsDioCollector(BaseGazetteCollector):
 
 
 def state_executive_text(text: str) -> str:
-    """Remove o caderno municipal, que vem depois do Executivo no PDF diário."""
-    markers = [
-        match.start()
-        for match in re.finditer(r"\bATOS\s+MUNICIPAIS\b", text, flags=re.I)
-    ]
-    if not markers:
-        return text
-    return text[: min(markers)]
+    """Mantém o PDF consolidado completo, incluindo todos os cadernos."""
+    return text
 
 
 def parse_acts_from_markdown_file(
@@ -145,7 +139,7 @@ def parse_acts_from_markdown_file(
 ) -> list:
     text = markdown_path.read_text(encoding="utf-8", errors="ignore")
     return parse_acts(
-        state_executive_text(text),
+        text,
         collector,
         edition,
         markdown_path,

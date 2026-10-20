@@ -26,7 +26,7 @@ def parse_date(value: str) -> date:
 def baixar_markdowns_rj(
     start_date: date | None = None,
     end_date: date | None = None,
-    somente_poder_executivo: bool = True,
+    somente_poder_executivo: bool = False,
     pular_anos_completos: bool = True,
 ) -> int:
     """
@@ -174,9 +174,14 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help="Data final no formato YYYY-MM-DD. Se omitida, processa até a data mais recente disponível.",
     )
     parser.add_argument(
+        "--somente-poder-executivo",
+        action="store_true",
+        help="Restringe a coleta do RJ ao caderno Poder Executivo.",
+    )
+    parser.add_argument(
         "--todos-cadernos",
         action="store_true",
-        help="Não filtra apenas Poder Executivo. Baixa todos os cadernos encontrados.",
+        help=argparse.SUPPRESS,
     )
     parser.add_argument(
         "--ignorar-year-complete",
@@ -193,7 +198,7 @@ def main() -> int:
     total = baixar_markdowns_rj(
         start_date=args.start_date,
         end_date=args.end_date,
-        somente_poder_executivo=not args.todos_cadernos,
+        somente_poder_executivo=args.somente_poder_executivo and not args.todos_cadernos,
         pular_anos_completos=not args.ignorar_year_complete,
     )
 

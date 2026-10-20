@@ -14,6 +14,7 @@ from diarios_oficiais.estadual.sp_doe import collect_sp
 from diarios_oficiais.estadual.sp_legacy import collect_sp_legacy
 from diarios_oficiais.estadual.es_dio import collect_es
 from diarios_oficiais.estadual.ba_doe import collect_ba
+from diarios_oficiais.estadual.sc_doe import collect_sc
 from diarios_oficiais.municipal.rio_de_janeiro import collect_rio_de_janeiro
 from diarios_oficiais.municipal.rj_municipalidades import collect_rj_municipalidades
 from diarios_oficiais.municipal.niteroi import collect_niteroi
@@ -29,9 +30,10 @@ COLLECTORS_BY_STATE: dict[str, Callable[..., int]] = {
     "SP": collect_sp,
     "ES": collect_es,
     "BA": collect_ba,
+    "SC": collect_sc,
 }
 
-STATES_TO_COLLECT = ["RJ", "SP", "ES", "BA"]
+STATES_TO_COLLECT = ["RJ", "SP", "ES", "BA", "SC"]
 
 
 MUNICIPAL_RJ_COLLECTORS: list[tuple[str, Callable[[date | None, date | None], int]]] = [
@@ -88,7 +90,6 @@ def sondar_novas_edicoes_rj() -> int:
         editions = [
             edition
             for edition in collector.list_editions(publication_date)
-            if collector.section_filter.lower() in edition.section.lower()
         ]
         if not editions:
             continue
@@ -233,6 +234,26 @@ def build_arg_parser() -> argparse.ArgumentParser:
         type=date.fromisoformat,
         help="Data final da coleta da BA (YYYY-MM-DD). Requer --ba-data-inicial.",
     )
+    parser.add_argument(
+        "--coletar-sc",
+        action="store_true",
+        help="Coleta o Diário Oficial do Estado de Santa Catarina no intervalo informado.",
+    )
+    parser.add_argument(
+        "--sc-retroativo",
+        action="store_true",
+        help="Coleta SC da data de hoje para trás até SC_START_DATE.",
+    )
+    parser.add_argument(
+        "--sc-data-inicial",
+        type=date.fromisoformat,
+        help="Forca a data inicial da coleta de SC (YYYY-MM-DD).",
+    )
+    parser.add_argument(
+        "--sc-data-final",
+        type=date.fromisoformat,
+        help="Data final da coleta de SC (YYYY-MM-DD). Requer --sc-data-inicial.",
+    )
     return parser
 
 
@@ -370,6 +391,26 @@ def main() -> int:
             end_date=args.ba_data_final,
         )
         print(f"BA: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.sc_data_final and not args.sc_data_inicial:
+        raise SystemExit("Use --sc-data-inicial junto com --sc-data-final.")
+
+    if args.sc_retroativo:
+        total = collect_sc(
+            pular_anos_completos=not args.ignorar_year_complete,
+            retroativo=True,
+        )
+        print(f"SC retroativo: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.coletar_sc or args.sc_data_inicial:
+        total = collect_sc(
+            pular_anos_completos=not args.ignorar_year_complete,
+            start_date_override=args.sc_data_inicial,
+            end_date=args.sc_data_final,
+        )
+        print(f"SC: {total} atos novos gravados nos CSVs anuais")
         return 0
 
     if not args.sem_preload_ocr:

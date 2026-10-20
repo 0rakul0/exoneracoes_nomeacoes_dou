@@ -40,39 +40,45 @@ class SpDoeCollector(BaseGazetteCollector):
         return dates
 
     def list_editions(self, publication_date: date) -> list[Edition]:
-        journal = self.find_journal(publication_date, self.journal_name)
-        if not journal:
-            return []
+        """Lista todos os jornais e cadernos publicados na data.
 
-        section = self.find_section(publication_date, journal["id"], self.section_name)
-        if not section:
-            return []
+        O endpoint do DOESP separa a árvore em jornais (Executivo,
+        Legislativo, Municípios e Empresarial) e cadernos. A coleta antiga
+        percorria somente Executivo/Atos de Pessoal, o que fazia os demais
+        cadernos desaparecerem da base.
+        """
+        editions: list[Edition] = []
+        for journal in self.find_journals(publication_date):
+            journal_id = str(journal.get("id") or "")
+            if not journal_id:
+                continue
+            for section in self.find_sections(publication_date, journal_id):
+                section_id = str(section.get("id") or "")
+                if not section_id:
+                    continue
+                pdf_url = self.edition_pdf_url(publication_date, journal_id, section_id)
+                if not pdf_url:
+                    continue
+                editions.append(
+                    Edition(
+                        publication_date=publication_date,
+                        section=(
+                            f"{str(journal.get('name') or 'Jornal').strip()} - "
+                            f"{str(section.get('name') or 'Caderno').strip()}"
+                        ),
+                        url=pdf_url,
+                    )
+                )
+        return editions
 
-        pdf_url = self.edition_pdf_url(publication_date, journal["id"], section["id"])
-        if not pdf_url:
-            return []
-
-        return [
-            Edition(
-                publication_date=publication_date,
-                section=f"{journal['name']} - {section['name']}",
-                url=pdf_url,
-            )
-        ]
-
-    def find_journal(self, publication_date: date, name: str) -> dict[str, str] | None:
+    def find_journals(self, publication_date: date) -> list[dict[str, str]]:
         data = self.fetch_json(
             urljoin(self.web_search_api_url, "v2/journals"),
             {"date": self.format_api_date(publication_date)},
         )
-        return find_item_by_name(data.get("items", []), name)
+        return list(data.get("items") or [])
 
-    def find_section(
-        self,
-        publication_date: date,
-        journal_id: str,
-        name: str,
-    ) -> dict[str, str] | None:
+    def find_sections(self, publication_date: date, journal_id: str) -> list[dict[str, str]]:
         data = self.fetch_json(
             urljoin(self.web_search_api_url, "v2/sections"),
             {
@@ -80,7 +86,18 @@ class SpDoeCollector(BaseGazetteCollector):
                 "date": self.format_api_date(publication_date),
             },
         )
-        return find_item_by_name(data.get("items", []), name)
+        return list(data.get("items") or [])
+
+    def find_journal(self, publication_date: date, name: str) -> dict[str, str] | None:
+        return find_item_by_name(self.find_journals(publication_date), name)
+
+    def find_section(
+        self,
+        publication_date: date,
+        journal_id: str,
+        name: str,
+    ) -> dict[str, str] | None:
+        return find_item_by_name(self.find_sections(publication_date, journal_id), name)
 
     def edition_pdf_url(self, publication_date: date, journal_id: str, section_id: str) -> str:
         data = self.fetch_json(

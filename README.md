@@ -205,7 +205,7 @@ Para forcar a rechecagem de anos marcados como completos:
 .\.venv\Scripts\python.exe main.py --ignorar-year-complete
 ```
 
-A coleta ativa executa `RJ`, `SP`, `ES` e `BA`, definidos em `STATES_TO_COLLECT`; ES e BA também podem ser executados isoladamente por seus respectivos argumentos. Cada coletor identifica a ultima data ja armazenada em `LAKE/<UF>` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. O coletor do DIO/ES usa a API publica de edicoes e o PDF consolidado, mas corta o caderno `ATOS MUNICIPAIS` antes de extrair os atos do Executivo estadual. O coletor do DOE/BA usa a consulta publica em HTML e filtra o caderno `EXECUTIVO`; o PDF certificado da BA exige login. Os Markdown existentes sao reutilizados. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`); para SP, ela inicia em `SP_START_DATE` (`2024-06-03`), e para ES e BA em suas respectivas constantes `*_START_DATE` (`2026-01-01`). As configuracoes ficam em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
+A coleta ativa executa `RJ`, `SP`, `ES`, `BA` e `SC`, definidos em `STATES_TO_COLLECT`; ES, BA e SC também podem ser executados isoladamente por seus respectivos argumentos. A coleta estadual preserva todos os cadernos publicados pela fonte: no RJ, todas as partes retornadas pela IOERJ; em SP, todos os jornais e cadernos retornados pela API do DOESP; no ES, o PDF diário consolidado completo, inclusive `ATOS MUNICIPAIS`; e na BA, todas as matérias e hierarquias do sumário HTML, não apenas `EXECUTIVO`. Cada coletor identifica a ultima data ja armazenada em `LAKE/<UF>` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. O PDF certificado da BA exige login, por isso sua coleta publica usa a versão HTML oficial. O coletor do DOE/SC baixa os PDFs do repositório oficial e corta o conteúdo a partir de `PREFEITURAS MUNICIPAIS`. Os Markdown existentes sao reutilizados. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`); para SP, ela inicia em `SP_START_DATE` (`2024-06-03`), e para ES, BA e SC em suas respectivas constantes `*_START_DATE` (`2026-01-01`). As configuracoes ficam em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
 
 Para preencher o histórico do ES, partindo da data atual e caminhando para trás até `ES_START_DATE`, use o BAT dedicado:
 
@@ -222,6 +222,14 @@ Para preencher o histórico da BA, partindo da data atual e caminhando para trá
 ```
 
 Para uma data específica da BA, use `main.py` com `--coletar-ba`, `--ba-data-inicial` e `--ba-data-final`.
+
+Para preencher o histórico de SC, partindo da data atual e caminhando para trás até `SC_START_DATE`, use:
+
+```powershell
+.\coletar_sc_retroativo.bat
+```
+
+Para uma data específica de SC, use `main.py` com `--coletar-sc`, `--sc-data-inicial` e `--sc-data-final`.
 
 O padrao dos arquivos Markdown e:
 
@@ -558,7 +566,7 @@ O consolidado e o dashboard leem os CSVs por UF, portanto nao exigem uma alterac
 
 ### Acervo legado de Sao Paulo
 
-A coleta regular de SP usa o PDF consolidado de `Executivo - Atos de Pessoal`, disponivel a partir de `2024-06-03`. Para o periodo anterior, ha uma coleta separada do acervo legado da Imprensa Oficial. Ela percorre os PDFs por pagina do caderno `Executivo - Seção II`, sem interferir na atualizacao regular.
+A coleta regular de SP percorre todos os jornais e cadernos disponibilizados pela API atual do DOESP a partir de `2024-06-03`. Para o periodo anterior, ha uma coleta separada do acervo legado da Imprensa Oficial. Ela percorre os PDFs por pagina do caderno `Executivo - Seção II`, sem interferir na atualizacao regular.
 
 Informe sempre um intervalo pequeno para validar a qualidade da extracao antes de ampliar a coleta:
 

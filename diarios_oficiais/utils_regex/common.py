@@ -6,8 +6,8 @@ import re
 TAG_RE = re.compile(r"<[^>]+>")
 SPACE_RE = re.compile(r"\s+")
 
-UPPER_PT = "A-Z\u00c1\u00c9\u00cd\u00d3\u00da\u00c2\u00ca\u00d4\u00c3\u00d5\u00c7"
-WORD_PT = r"\w\u00c1\u00c9\u00cd\u00d3\u00da\u00c2\u00ca\u00d4\u00c3\u00d5\u00c7.'-"
+UPPER_PT = "A-Z\u00c1\u00c9\u00cd\u00d3\u00da\u00c2\u00ca\u00d4\u00c3\u00d5\u00c7\ufffd"
+WORD_PT = r"\w\u00c1\u00c9\u00cd\u00d3\u00da\u00c2\u00ca\u00d4\u00c3\u00d5\u00c7\ufffd.'-"
 NAME_TOKEN_RE = rf"[{UPPER_PT}][{WORD_PT}]+"
 NAME_CONNECTOR_RE = rf"(?:DE|DA|DO|DAS|DOS|E|{NAME_TOKEN_RE})"
 

@@ -21,6 +21,7 @@ from diarios_oficiais.utils_regex import ba_doe as ba_regexes
 BASE_URL = "https://doe.ba.gov.br/"
 EDITIONS_API_PATH = "apifront/portal/edicoes/edicoes_from_data/"
 MARKDOWN_DATE_RE = re.compile(r"_(\d{4}-\d{2}-\d{2})$")
+ALL_SECTIONS_MARKER = "<!-- CADERNOS: TODOS -->"
 
 
 class _SummaryParser(HTMLParser):
@@ -173,16 +174,23 @@ class BaDoeCollector(BaseGazetteCollector):
 
     def load_or_create_markdown(self, edition: Edition, markdown_path: Path) -> str:
         if markdown_path.exists():
-            return markdown_path.read_text(encoding="utf-8", errors="ignore")
+            existing = markdown_path.read_text(encoding="utf-8", errors="ignore")
+            if ALL_SECTIONS_MARKER in existing:
+                return existing
+            # As edições antigas foram gravadas somente com EXECUTIVO. Elas
+            # precisam ser remontadas para que os demais cadernos entrem no
+            # mesmo arquivo sem deixar uma cópia filtrada como fonte atual.
 
         edition_id = self.edition_id(edition)
         summary = self.fetch_text(urljoin(BASE_URL, f"html/{edition_id}.html"))
         parser = _SummaryParser()
         parser.feed(summary)
         parts: list[str] = []
+        seen_identifiers: set[str] = set()
         for identifier, title, folders in parser.links:
-            if not folders or folders[0].strip().upper() != "EXECUTIVO":
+            if identifier in seen_identifiers:
                 continue
+            seen_identifiers.add(identifier)
             content_url = urljoin(BASE_URL, f"apifront/portal/edicoes/publicacoes_ver_conteudo/{identifier}")
             try:
                 content = html_to_text(self.fetch_text(content_url))
@@ -192,11 +200,12 @@ class BaDoeCollector(BaseGazetteCollector):
             if not content:
                 continue
             path_label = " / ".join(folders + ([title.strip()] if title.strip() else []))
+            path_label = path_label or f"Materia {identifier}"
             parts.append(f"## {path_label}\n\n{content}")
 
         if not parts:
-            raise RuntimeError(f"Nenhuma materia do EXECUTIVO encontrada na edicao BA {edition_id}")
-        markdown = self.clean_markdown_text("\n\n".join(parts))
+            raise RuntimeError(f"Nenhuma materia encontrada na edicao BA {edition_id}")
+        markdown = self.clean_markdown_text(f"{ALL_SECTIONS_MARKER}\n\n" + "\n\n".join(parts))
         markdown_path.parent.mkdir(parents=True, exist_ok=True)
         markdown_path.write_text(markdown, encoding="utf-8")
         return markdown

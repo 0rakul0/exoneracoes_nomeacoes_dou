@@ -567,9 +567,13 @@ def parse_acts_from_markdown_file(
 
 
 def extract_person_name(body: str, regexes=rj_regexes) -> str:
-    table_name_re = getattr(regexes, "TABLE_NAME_RE", None)
-    if table_name_re is not None:
-        for match in table_name_re.finditer(body):
+    for name_re in (
+        getattr(regexes, "TABLE_NAME_RE", None),
+        getattr(regexes, "LIST_NAME_RE", None),
+    ):
+        if name_re is None:
+            continue
+        for match in name_re.finditer(body):
             candidate = clean_piece(match.group("name"))
             candidate = normalize_name(candidate)
             if valid_person_name(candidate):
@@ -653,10 +657,15 @@ def valid_person_name(candidate: str) -> bool:
         "ESTADO",
         "FUNCAO",
         "FUNÇÃO",
+        "FINAL",
         "INSCRICAO",
         "INSCRIÇÃO",
         "INCISO",
+        "HOMOLOGADA",
+        "HOMOLOGADO",
         "LEI",
+        "PELA",
+        "PELO",
         "NOS",
         "ORDEM",
         "OCUPANTE",
@@ -670,6 +679,7 @@ def valid_person_name(candidate: str) -> bool:
         "SIMBOLO",
         "SÍMBOLO",
         "TERMOS",
+        "RESULTADO",
     }
     return not any(token in blocked for token in tokens[:3])
 
@@ -765,11 +775,6 @@ def collect_rj(pular_anos_completos: bool = True) -> int:
             print(f"Falha ao listar edicoes de {item.isoformat()}: {exc}", file=sys.stderr)
             continue
 
-        editions = [
-            edition
-            for edition in editions
-            if collector.section_filter.lower() in edition.section.lower()
-        ]
         if not editions:
             continue
 
