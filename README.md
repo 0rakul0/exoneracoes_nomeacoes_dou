@@ -205,7 +205,19 @@ Para forcar a rechecagem de anos marcados como completos:
 .\.venv\Scripts\python.exe main.py --ignorar-year-complete
 ```
 
-A coleta ativa executa `RJ`, `SP`, `ES`, `BA` e `SC`, definidos em `STATES_TO_COLLECT`; ES, BA e SC também podem ser executados isoladamente por seus respectivos argumentos. A coleta estadual preserva todos os cadernos publicados pela fonte: no RJ, todas as partes retornadas pela IOERJ; em SP, todos os jornais e cadernos retornados pela API do DOESP; no ES, o PDF diário consolidado completo, inclusive `ATOS MUNICIPAIS`; e na BA, todas as matérias e hierarquias do sumário HTML, não apenas `EXECUTIVO`. Cada coletor identifica a ultima data ja armazenada em `LAKE/<UF>` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. O PDF certificado da BA exige login, por isso sua coleta publica usa a versão HTML oficial. O coletor do DOE/SC baixa os PDFs do repositório oficial e corta o conteúdo a partir de `PREFEITURAS MUNICIPAIS`. Os Markdown existentes sao reutilizados. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`); para SP, ela inicia em `SP_START_DATE` (`2024-06-03`), e para ES, BA e SC em suas respectivas constantes `*_START_DATE` (`2026-01-01`). As configuracoes ficam em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
+A coleta ativa executa `RJ`, `SP`, `ES`, `BA`, `SC`, `PR`, `RS`, `PB`, `AC` e `CE`, definidos em `STATES_TO_COLLECT`; ES, BA, SC, PR, RS, PB, AC e CE também podem ser executados isoladamente por seus respectivos argumentos. A coleta estadual preserva todos os cadernos publicados pela fonte: no RJ, todas as partes retornadas pela IOERJ; em SP, todos os jornais e cadernos retornados pela API do DOESP; no ES, o PDF diário consolidado completo, inclusive `ATOS MUNICIPAIS`; na BA, o DOE estadual, o Diário Oficial Eletrônico do Legislativo (DOEL/BA) e todos os cadernos do Diário da Justiça Eletrônico (DJE/BA); no SC, o texto integral dos PDFs do repositório oficial; no PR, todos os tipos de edição retornados pelo catálogo público do DIOE; no RS, o PDF oficial do DOE-e; na PB, o DOE/PB consolidado e o Diário da Justiça Eletrônico do TJPB; no AC, todas as edições e extras do DOE/AC e o Diário da Justiça Eletrônico do TJAC; e no CE, todos os cadernos retornados pelo [DOE/CE](https://www.ce.gov.br/diario-oficial/). Cada coletor identifica a ultima data ja armazenada em `LAKE/<UF>` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. O PDF certificado do DOE/BA exige login, por isso sua coleta publica usa a versão HTML oficial; os demais cadernos separados usam os PDFs oficiais dos respectivos portais. Os Markdown existentes sao reutilizados. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`); para SP, ela inicia em `SP_START_DATE` (`2024-06-03`), e para ES, BA, SC, PR, RS, PB, AC e CE em suas respectivas constantes `*_START_DATE` (`2026-01-01`). As configuracoes ficam em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
+
+### Limitação de cobertura por Poder
+
+Alguns estados não oferecem os atos do Poder Judiciário ou do Poder Legislativo dentro do mesmo diário oficial estadual consultado pelo coletor. Nesses casos, a ausência não significa necessariamente uma falha na coleta: para obter esses conteúdos, é preciso integrar os portais oficiais separados de cada Poder, quando existirem.
+
+Na Bahia, essa separação já está contemplada: além do DOE/BA, o projeto coleta o [DOEL da Assembleia Legislativa](https://egbanet.egba.ba.gov.br/alba) e os cinco cadernos do [DJE do Tribunal de Justiça](https://diario.tjba.jus.br/diario/internet/pesquisar.wsp). Os três diários usam marcadores e arquivos de saída próprios dentro de `LAKE/BA` e `saida/BA`.
+
+Na Paraíba, o [DOE/PB](https://auniao.pb.gov.br/servicos/doe) é coletado em sua edição consolidada, que reúne as seções publicadas pelo Estado, e o [DJE do TJPB](https://app.tjpb.jus.br/dje/paginas/diario_justica/publico/buscas.jsf) é coletado pelo portal próprio do Judiciário. Os dois diários usam marcadores e arquivos de saída próprios dentro de `LAKE/PB` e `saida/PB`.
+
+No Acre, o [DOE/AC](https://www.diario.ac.gov.br/) é coletado pelo catálogo oficial mensal, incluindo cadernos principais e edições extras, e o [DJE do TJAC](https://diario.tjac.jus.br/edicoes.php) é coletado pelo portal próprio do Judiciário. Os dois diários usam marcadores e arquivos de saída próprios dentro de `LAKE/AC` e `saida/AC`.
+
+No Ceará, o [DOE/CE](https://www.ce.gov.br/diario-oficial/) é consultado pela API oficial do portal e cada arquivo publicado é preservado como um caderno separado em `LAKE/CE` e `saida/CE`. O [DJE do TJCE](https://esaj.tjce.jus.br/cdje/consultaAvancada.do) é um diário separado, mantido pelo portal próprio do Judiciário, e permanece sujeito a uma integração específica.
 
 Para preencher o histórico do ES, partindo da data atual e caminhando para trás até `ES_START_DATE`, use o BAT dedicado:
 
@@ -230,6 +242,46 @@ Para preencher o histórico de SC, partindo da data atual e caminhando para trá
 ```
 
 Para uma data específica de SC, use `main.py` com `--coletar-sc`, `--sc-data-inicial` e `--sc-data-final`.
+
+Para preencher o histórico do PR, partindo da data atual e caminhando para trás até `PR_START_DATE`, use:
+
+```powershell
+.\coletar_pr_retroativo.bat
+```
+
+Para uma data específica do PR, use `main.py` com `--coletar-pr`, `--pr-data-inicial` e `--pr-data-final`.
+
+Para preencher o histórico do RS, partindo da data atual e caminhando para trás até `RS_START_DATE`, use:
+
+```powershell
+.\coletar_rs_retroativo.bat
+```
+
+Para uma data específica do RS, use `main.py` com `--coletar-rs`, `--rs-data-inicial` e `--rs-data-final`.
+
+Para preencher o histórico da PB, partindo da data atual e caminhando para trás até `PB_START_DATE`, use:
+
+```powershell
+.\coletar_pb_retroativo.bat
+```
+
+Para uma data específica da PB, use `main.py` com `--coletar-pb`, `--pb-data-inicial` e `--pb-data-final`.
+
+Para preencher o histórico do AC, partindo da data atual e caminhando para trás até `AC_START_DATE`, use:
+
+```powershell
+.\coletar_ac_retroativo.bat
+```
+
+Para uma data específica do AC, use `main.py` com `--coletar-ac`, `--ac-data-inicial` e `--ac-data-final`.
+
+Para preencher o histórico do CE, partindo da data atual e caminhando para trás até `CE_START_DATE`, use:
+
+```powershell
+.\coletar_ce_retroativo.bat
+```
+
+Para uma data específica do CE, use `main.py` com `--coletar-ce`, `--ce-data-inicial` e `--ce-data-final`.
 
 O padrao dos arquivos Markdown e:
 
@@ -329,7 +381,7 @@ flowchart TD
     C --> D["Busca calendario da IOERJ"]
     D --> E["Identifica a ultima data salva em LAKE/RJ"]
     E --> F["Mantem a ultima data e as posteriores"]
-    F --> G["Para cada data, lista e filtra o caderno Poder Executivo"]
+    F --> G["Para cada data, lista todos os cadernos da fonte"]
     G --> H{"Markdown da edicao ja existe em LAKE/RJ/ano/mes?"}
     H -- "Sim" --> I["Usa Markdown existente"]
     H -- "Nao" --> J["Reaproveita ou baixa PDF oficial em .cache/diarios"]

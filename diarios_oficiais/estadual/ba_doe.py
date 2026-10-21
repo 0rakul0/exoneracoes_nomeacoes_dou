@@ -227,13 +227,17 @@ class BaDoeCollector(BaseGazetteCollector):
         latest: date | None = None
         if not state_lake_dir.exists():
             return None
-        for path in state_lake_dir.rglob("*.md"):
+        for path in state_lake_dir.rglob(f"{self.gazette_code}_*.md"):
             match = MARKDOWN_DATE_RE.search(path.stem)
             if match:
                 current = date.fromisoformat(match.group(1))
                 if latest is None or current > latest:
                     latest = current
         return latest
+
+    def year_complete_marker_path(self, year: int) -> Path:
+        # O DOE estadual divide a pasta da BA com o DOEL e o DJE.
+        return self.lake_dir / self.state / str(year) / f".{self.gazette_code.lower()}_year_complete"
 
 
 def parse_acts_from_markdown_file(collector: BaDoeCollector, edition: Edition, markdown_path: Path) -> list:

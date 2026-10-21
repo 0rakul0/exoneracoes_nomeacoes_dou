@@ -133,22 +133,14 @@ class ScDoeCollector(BaseGazetteCollector):
 
 
 def state_executive_text(text: str) -> str:
-    executive_headers = [
-        match.start()
-        for match in re.finditer(r"^\s*#+\s*ATOS\s+DO\s+PODER\s+EXECUTIVO\b", text, flags=re.I | re.M)
-    ]
-    executive_start = max(executive_headers) if executive_headers else 0
-    markers = [
-        match.start()
-        for match in re.finditer(
-            r"^\s*#+\s*(?:PREFEITURAS\s+MUNICIPAIS|MUNIC[IÍ]PIOS)\b",
-            text,
-            flags=re.I | re.M,
-        )
-        if match.start() > executive_start
-    ]
-    end = min(markers) if markers else len(text)
-    return text[executive_start:end]
+    """Retorna o diario completo, sem descartar cadernos ou Poderes.
+
+    O nome da funcao foi mantido para compatibilidade com chamadas existentes.
+    A versao anterior recortava somente ``ATOS DO PODER EXECUTIVO`` e parava
+    antes de municipios; isso impedia a coleta de qualquer outro caderno que
+    aparecesse na mesma edicao.
+    """
+    return text
 
 
 def parse_acts_from_markdown_file(collector: ScDoeCollector, edition: Edition, markdown_path: Path) -> list:

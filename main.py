@@ -14,7 +14,16 @@ from diarios_oficiais.estadual.sp_doe import collect_sp
 from diarios_oficiais.estadual.sp_legacy import collect_sp_legacy
 from diarios_oficiais.estadual.es_dio import collect_es
 from diarios_oficiais.estadual.ba_doe import collect_ba
+from diarios_oficiais.estadual.ba_doel import collect_ba_doel
+from diarios_oficiais.estadual.ba_dje import collect_ba_dje
 from diarios_oficiais.estadual.sc_doe import collect_sc
+from diarios_oficiais.estadual.pr_dioe import collect_pr
+from diarios_oficiais.estadual.rs_doe import collect_rs
+from diarios_oficiais.estadual.pb_doe import collect_pb
+from diarios_oficiais.estadual.pb_dje import collect_pb_dje
+from diarios_oficiais.estadual.ac_doe import collect_ac
+from diarios_oficiais.estadual.ac_dje import collect_ac_dje
+from diarios_oficiais.estadual.ce_doe import collect_ce
 from diarios_oficiais.municipal.rio_de_janeiro import collect_rio_de_janeiro
 from diarios_oficiais.municipal.rj_municipalidades import collect_rj_municipalidades
 from diarios_oficiais.municipal.niteroi import collect_niteroi
@@ -25,15 +34,107 @@ from diarios_oficiais.municipal.nova_iguacu import collect_nova_iguacu
 from diarios_oficiais.municipal.sao_joao_de_meriti import collect_sao_joao_de_meriti
 
 
+def collect_ba_all(
+    pular_anos_completos: bool = True,
+    start_date_override: date | None = None,
+    end_date: date | None = None,
+    retroativo: bool = False,
+) -> int:
+    """Coleta o DOE/BA, o DOEL/BA e o DJE/BA no mesmo intervalo."""
+    total = collect_ba(
+        pular_anos_completos=pular_anos_completos,
+        start_date_override=start_date_override,
+        end_date=end_date,
+        retroativo=retroativo,
+    )
+    total += collect_ba_doel(
+        pular_anos_completos=pular_anos_completos,
+        start_date_override=start_date_override,
+        end_date=end_date,
+        retroativo=retroativo,
+    )
+    total += collect_ba_dje(
+        pular_anos_completos=pular_anos_completos,
+        start_date_override=start_date_override,
+        end_date=end_date,
+        retroativo=retroativo,
+    )
+    return total
+
+
+def collect_pb_all(
+    pular_anos_completos: bool = True,
+    start_date_override: date | None = None,
+    end_date: date | None = None,
+    retroativo: bool = False,
+) -> int:
+    """Coleta o DOE/PB e o DJE/PB no mesmo intervalo."""
+    total = collect_pb(
+        pular_anos_completos=pular_anos_completos,
+        start_date_override=start_date_override,
+        end_date=end_date,
+        retroativo=retroativo,
+    )
+    total += collect_pb_dje(
+        pular_anos_completos=pular_anos_completos,
+        start_date_override=start_date_override,
+        end_date=end_date,
+        retroativo=retroativo,
+    )
+    return total
+
+
+def collect_ac_all(
+    pular_anos_completos: bool = True,
+    start_date_override: date | None = None,
+    end_date: date | None = None,
+    retroativo: bool = False,
+) -> int:
+    """Coleta o DOE/AC e o DJE/AC no mesmo intervalo."""
+    total = collect_ac(
+        pular_anos_completos=pular_anos_completos,
+        start_date_override=start_date_override,
+        end_date=end_date,
+        retroativo=retroativo,
+    )
+    total += collect_ac_dje(
+        pular_anos_completos=pular_anos_completos,
+        start_date_override=start_date_override,
+        end_date=end_date,
+        retroativo=retroativo,
+    )
+    return total
+
+
+def collect_ce_all(
+    pular_anos_completos: bool = True,
+    start_date_override: date | None = None,
+    end_date: date | None = None,
+    retroativo: bool = False,
+) -> int:
+    """Coleta os cadernos publicados pelo DOE/CE no mesmo intervalo."""
+    return collect_ce(
+        pular_anos_completos=pular_anos_completos,
+        start_date_override=start_date_override,
+        end_date=end_date,
+        retroativo=retroativo,
+    )
+
+
 COLLECTORS_BY_STATE: dict[str, Callable[..., int]] = {
     "RJ": collect_rj,
     "SP": collect_sp,
     "ES": collect_es,
-    "BA": collect_ba,
+    "BA": collect_ba_all,
     "SC": collect_sc,
+    "PR": collect_pr,
+    "RS": collect_rs,
+    "PB": collect_pb_all,
+    "AC": collect_ac_all,
+    "CE": collect_ce_all,
 }
 
-STATES_TO_COLLECT = ["RJ", "SP", "ES", "BA", "SC"]
+STATES_TO_COLLECT = ["RJ", "SP", "ES", "BA", "SC", "PR", "RS", "PB", "AC", "CE"]
 
 
 MUNICIPAL_RJ_COLLECTORS: list[tuple[str, Callable[[date | None, date | None], int]]] = [
@@ -254,6 +355,106 @@ def build_arg_parser() -> argparse.ArgumentParser:
         type=date.fromisoformat,
         help="Data final da coleta de SC (YYYY-MM-DD). Requer --sc-data-inicial.",
     )
+    parser.add_argument(
+        "--coletar-pr",
+        action="store_true",
+        help="Coleta todos os tipos do Diário Oficial do Paraná no intervalo informado.",
+    )
+    parser.add_argument(
+        "--pr-retroativo",
+        action="store_true",
+        help="Coleta o PR da data de hoje para trás até PR_START_DATE.",
+    )
+    parser.add_argument(
+        "--pr-data-inicial",
+        type=date.fromisoformat,
+        help="Forca a data inicial da coleta do PR (YYYY-MM-DD).",
+    )
+    parser.add_argument(
+        "--pr-data-final",
+        type=date.fromisoformat,
+        help="Data final da coleta do PR (YYYY-MM-DD). Requer --pr-data-inicial.",
+    )
+    parser.add_argument(
+        "--coletar-rs",
+        action="store_true",
+        help="Coleta o Diário Oficial do Estado do Rio Grande do Sul no intervalo informado.",
+    )
+    parser.add_argument(
+        "--rs-retroativo",
+        action="store_true",
+        help="Coleta o RS da data de hoje para trás até RS_START_DATE.",
+    )
+    parser.add_argument(
+        "--rs-data-inicial",
+        type=date.fromisoformat,
+        help="Forca a data inicial da coleta do RS (YYYY-MM-DD).",
+    )
+    parser.add_argument(
+        "--rs-data-final",
+        type=date.fromisoformat,
+        help="Data final da coleta do RS (YYYY-MM-DD). Requer --rs-data-inicial.",
+    )
+    parser.add_argument(
+        "--coletar-pb",
+        action="store_true",
+        help="Coleta o DOE/PB e o DJE/PB no intervalo informado.",
+    )
+    parser.add_argument(
+        "--pb-retroativo",
+        action="store_true",
+        help="Coleta a PB da data de hoje para trás até PB_START_DATE.",
+    )
+    parser.add_argument(
+        "--pb-data-inicial",
+        type=date.fromisoformat,
+        help="Forca a data inicial da coleta da PB (YYYY-MM-DD).",
+    )
+    parser.add_argument(
+        "--pb-data-final",
+        type=date.fromisoformat,
+        help="Data final da coleta da PB (YYYY-MM-DD). Requer --pb-data-inicial.",
+    )
+    parser.add_argument(
+        "--coletar-ac",
+        action="store_true",
+        help="Coleta o DOE/AC e o DJE/AC no intervalo informado.",
+    )
+    parser.add_argument(
+        "--ac-retroativo",
+        action="store_true",
+        help="Coleta o AC da data de hoje para trás até AC_START_DATE.",
+    )
+    parser.add_argument(
+        "--ac-data-inicial",
+        type=date.fromisoformat,
+        help="Forca a data inicial da coleta do AC (YYYY-MM-DD).",
+    )
+    parser.add_argument(
+        "--ac-data-final",
+        type=date.fromisoformat,
+        help="Data final da coleta do AC (YYYY-MM-DD). Requer --ac-data-inicial.",
+    )
+    parser.add_argument(
+        "--coletar-ce",
+        action="store_true",
+        help="Coleta os cadernos do DOE/CE no intervalo informado.",
+    )
+    parser.add_argument(
+        "--ce-retroativo",
+        action="store_true",
+        help="Coleta o CE da data de hoje para trás até CE_START_DATE.",
+    )
+    parser.add_argument(
+        "--ce-data-inicial",
+        type=date.fromisoformat,
+        help="Forca a data inicial da coleta do CE (YYYY-MM-DD).",
+    )
+    parser.add_argument(
+        "--ce-data-final",
+        type=date.fromisoformat,
+        help="Data final da coleta do CE (YYYY-MM-DD). Requer --ce-data-inicial.",
+    )
     return parser
 
 
@@ -377,7 +578,7 @@ def main() -> int:
         raise SystemExit("Use --ba-data-inicial junto com --ba-data-final.")
 
     if args.ba_retroativo:
-        total = collect_ba(
+        total = collect_ba_all(
             pular_anos_completos=not args.ignorar_year_complete,
             retroativo=True,
         )
@@ -385,7 +586,7 @@ def main() -> int:
         return 0
 
     if args.coletar_ba or args.ba_data_inicial:
-        total = collect_ba(
+        total = collect_ba_all(
             pular_anos_completos=not args.ignorar_year_complete,
             start_date_override=args.ba_data_inicial,
             end_date=args.ba_data_final,
@@ -411,6 +612,106 @@ def main() -> int:
             end_date=args.sc_data_final,
         )
         print(f"SC: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.pr_data_final and not args.pr_data_inicial:
+        raise SystemExit("Use --pr-data-inicial junto com --pr-data-final.")
+
+    if args.pr_retroativo:
+        total = collect_pr(
+            pular_anos_completos=not args.ignorar_year_complete,
+            retroativo=True,
+        )
+        print(f"PR retroativo: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.coletar_pr or args.pr_data_inicial:
+        total = collect_pr(
+            pular_anos_completos=not args.ignorar_year_complete,
+            start_date_override=args.pr_data_inicial,
+            end_date=args.pr_data_final,
+        )
+        print(f"PR: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.rs_data_final and not args.rs_data_inicial:
+        raise SystemExit("Use --rs-data-inicial junto com --rs-data-final.")
+
+    if args.rs_retroativo:
+        total = collect_rs(
+            pular_anos_completos=not args.ignorar_year_complete,
+            retroativo=True,
+        )
+        print(f"RS retroativo: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.coletar_rs or args.rs_data_inicial:
+        total = collect_rs(
+            pular_anos_completos=not args.ignorar_year_complete,
+            start_date_override=args.rs_data_inicial,
+            end_date=args.rs_data_final,
+        )
+        print(f"RS: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.pb_data_final and not args.pb_data_inicial:
+        raise SystemExit("Use --pb-data-inicial junto com --pb-data-final.")
+
+    if args.pb_retroativo:
+        total = collect_pb_all(
+            pular_anos_completos=not args.ignorar_year_complete,
+            retroativo=True,
+        )
+        print(f"PB retroativo: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.coletar_pb or args.pb_data_inicial:
+        total = collect_pb_all(
+            pular_anos_completos=not args.ignorar_year_complete,
+            start_date_override=args.pb_data_inicial,
+            end_date=args.pb_data_final,
+        )
+        print(f"PB: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.ac_data_final and not args.ac_data_inicial:
+        raise SystemExit("Use --ac-data-inicial junto com --ac-data-final.")
+
+    if args.ac_retroativo:
+        total = collect_ac_all(
+            pular_anos_completos=not args.ignorar_year_complete,
+            retroativo=True,
+        )
+        print(f"AC retroativo: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.coletar_ac or args.ac_data_inicial:
+        total = collect_ac_all(
+            pular_anos_completos=not args.ignorar_year_complete,
+            start_date_override=args.ac_data_inicial,
+            end_date=args.ac_data_final,
+        )
+        print(f"AC: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.ce_data_final and not args.ce_data_inicial:
+        raise SystemExit("Use --ce-data-inicial junto com --ce-data-final.")
+
+    if args.ce_retroativo:
+        total = collect_ce_all(
+            pular_anos_completos=not args.ignorar_year_complete,
+            retroativo=True,
+        )
+        print(f"CE retroativo: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
+    if args.coletar_ce or args.ce_data_inicial:
+        total = collect_ce_all(
+            pular_anos_completos=not args.ignorar_year_complete,
+            start_date_override=args.ce_data_inicial,
+            end_date=args.ce_data_final,
+        )
+        print(f"CE: {total} atos novos gravados nos CSVs anuais")
         return 0
 
     if not args.sem_preload_ocr:

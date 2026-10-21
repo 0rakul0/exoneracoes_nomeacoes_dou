@@ -68,6 +68,23 @@ KNOWN_SC_GOVERNORS = [
     ("CARLOS MOISES", "Carlos Moises"),
 ]
 
+KNOWN_PR_GOVERNORS = [
+    ("CARLOS MASSA RATINHO JUNIOR", "Carlos Massa Ratinho Junior"),
+    ("RATINHO JUNIOR", "Carlos Massa Ratinho Junior"),
+    ("BETO RICHA", "Beto Richa"),
+    ("CARLOS ALBERTO RICHA", "Beto Richa"),
+    ("CIDA BORGHETTI", "Cida Borghetti"),
+]
+
+KNOWN_RS_GOVERNORS = [
+    ("EDUARDO LEITE", "Eduardo Leite"),
+    ("RANOLFO VIEIRA JÚNIOR", "Ranolfo Vieira Junior"),
+    ("RANOLFO VIEIRA JUNIOR", "Ranolfo Vieira Junior"),
+    ("JOSÉ IVO SARTORI", "Jose Ivo Sartori"),
+    ("JOSE IVO SARTORI", "Jose Ivo Sartori"),
+    ("TARSO GENRO", "Tarso Genro"),
+]
+
 
 @lru_cache(maxsize=4096)
 def governador_da_edicao(markdown_path: str) -> str:
@@ -86,6 +103,12 @@ def governador_da_edicao(markdown_path: str) -> str:
 
     if "SC" in path.parts:
         return governador_sc_da_edicao(path)
+
+    if "PR" in path.parts:
+        return governador_pr_da_edicao(path)
+
+    if "RS" in path.parts:
+        return governador_rs_da_edicao(path)
 
     if not path.exists():
         return UNKNOWN_GOVERNOR
@@ -182,6 +205,36 @@ def governador_sc_da_edicao(path: Path) -> str:
         return UNKNOWN_GOVERNOR
 
     for needle, label in KNOWN_SC_GOVERNORS:
+        if needle in text[:100000]:
+            return f"{label} - Governador"
+    return UNKNOWN_GOVERNOR
+
+
+def governador_pr_da_edicao(path: Path) -> str:
+    if not path.exists():
+        return UNKNOWN_GOVERNOR
+
+    try:
+        text = path.read_text(encoding="utf-8", errors="ignore").upper()
+    except OSError:
+        return UNKNOWN_GOVERNOR
+
+    for needle, label in KNOWN_PR_GOVERNORS:
+        if needle in text[:100000]:
+            return f"{label} - Governador"
+    return UNKNOWN_GOVERNOR
+
+
+def governador_rs_da_edicao(path: Path) -> str:
+    if not path.exists():
+        return UNKNOWN_GOVERNOR
+
+    try:
+        text = path.read_text(encoding="utf-8", errors="ignore").upper()
+    except OSError:
+        return UNKNOWN_GOVERNOR
+
+    for needle, label in KNOWN_RS_GOVERNORS:
         if needle in text[:100000]:
             return f"{label} - Governador"
     return UNKNOWN_GOVERNOR

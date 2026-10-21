@@ -10,7 +10,7 @@ if not exist "%PYTHON%" (
     exit /b 1
 )
 
-echo Coletando Diario Oficial da BA a partir de hoje, retrocedendo ate BA_START_DATE...
+echo Coletando DOE, DOEL e DJE da BA a partir de hoje, retrocedendo ate BA_START_DATE...
 "%PYTHON%" main.py --ba-retroativo --ignorar-year-complete
 set "CODIGO=%ERRORLEVEL%"
 

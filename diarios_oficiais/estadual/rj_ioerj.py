@@ -155,8 +155,19 @@ def parse_acts(
         action = match.group("action").upper()
         body = match.group("body").strip(" ,.;:-")
         excerpt = f"{action} {body}".strip()
-        person_name = extract_person_name(body, regexes=regexes)
-        if not person_name:
+        person_names: list[str] = []
+        before_name_re = getattr(regexes, "BEFORE_ACTION_NAME_RE", None)
+        if before_name_re is not None:
+            before_action = normalized[max(0, match.start() - 2600):match.start()]
+            previous_matches = list(before_name_re.finditer(before_action))
+            if previous_matches:
+                candidate = clean_piece(previous_matches[-1].group("name"))
+                candidate = normalize_name(candidate)
+                if valid_person_name(candidate):
+                    person_names = [candidate]
+        if not person_names:
+            person_names = extract_person_names(body, regexes=regexes)
+        if not person_names:
             continue
 
         role_match = regexes.ROLE_RE.search(body)
@@ -171,34 +182,35 @@ def parse_acts(
                 match.start(),
             )
         representative, representative_origin = representative_for_act(edition_governor)
-        key = (action, person_name, excerpt[:180])
-        if key in seen:
-            continue
-        seen.add(key)
+        for person_name in person_names:
+            key = (action, person_name, excerpt[:180])
+            if key in seen:
+                continue
+            seen.add(key)
 
-        acts.append(
-            Act(
-                state=collector.state,
-                gazette=collector.gazette_name,
-                publication_date=edition.publication_date,
-                section=edition.section,
-                action_type="nomeacao" if action.startswith("NOME") else "exoneracao",
-                person_name=person_name,
-                functional_id=functional_id,
-                role=role,
-                agency=agency,
-                excerpt=excerpt[:900],
-                source_url=edition.url,
-                text_path=str(markdown_path),
-                municipality=municipality_for_position(match.start()) if municipality_for_position else "",
-                signer_name=signer_name,
-                signer_role=signer_role,
-                signer_category=signer_category,
-                edition_governor=edition_governor,
-                government_representative=representative,
-                representative_origin=representative_origin,
+            acts.append(
+                Act(
+                    state=collector.state,
+                    gazette=collector.gazette_name,
+                    publication_date=edition.publication_date,
+                    section=edition.section,
+                    action_type="nomeacao" if action.startswith("NOME") else "exoneracao",
+                    person_name=person_name,
+                    functional_id=functional_id,
+                    role=role,
+                    agency=agency,
+                    excerpt=excerpt[:900],
+                    source_url=edition.url,
+                    text_path=str(markdown_path),
+                    municipality=municipality_for_position(match.start()) if municipality_for_position else "",
+                    signer_name=signer_name,
+                    signer_role=signer_role,
+                    signer_category=signer_category,
+                    edition_governor=edition_governor,
+                    government_representative=representative,
+                    representative_origin=representative_origin,
+                )
             )
-        )
     return acts
 
 
@@ -567,6 +579,14 @@ def parse_acts_from_markdown_file(
 
 
 def extract_person_name(body: str, regexes=rj_regexes) -> str:
+    direct_name_re = getattr(regexes, "DIRECT_NAME_RE", None)
+    if direct_name_re is not None:
+        for match in direct_name_re.finditer(body):
+            candidate = clean_piece(match.group("name"))
+            candidate = normalize_name(candidate)
+            if valid_person_name(candidate):
+                return candidate
+
     for name_re in (
         getattr(regexes, "TABLE_NAME_RE", None),
         getattr(regexes, "LIST_NAME_RE", None),
@@ -589,6 +609,34 @@ def extract_person_name(body: str, regexes=rj_regexes) -> str:
         if valid_person_name(candidate):
             return candidate
     return ""
+
+
+def extract_person_names(body: str, regexes=rj_regexes) -> list[str]:
+    multi_name_re = getattr(regexes, "MULTI_NAME_RE", None)
+    if multi_name_re is None:
+        person_name = extract_person_name(body, regexes=regexes)
+        return [person_name] if person_name else []
+
+    trigger_re = getattr(regexes, "MULTI_NAME_TRIGGER_RE", None)
+    if trigger_re is not None and not trigger_re.search(body):
+        person_name = extract_person_name(body, regexes=regexes)
+        return [person_name] if person_name else []
+
+    names: list[str] = []
+    for match in multi_name_re.finditer(body):
+        candidate = clean_piece(match.group("name"))
+        candidate = normalize_name(candidate)
+        tokens = candidate.split()
+        blocked_prefixes = getattr(regexes, "NAME_PREFIX_BLACKLIST", set())
+        if tokens and tokens[0] in blocked_prefixes:
+            continue
+        if valid_person_name(candidate) and candidate not in names:
+            names.append(candidate)
+    if names:
+        return names
+
+    person_name = extract_person_name(body, regexes=regexes)
+    return [person_name] if person_name else []
 
 
 def direct_person_name(body: str) -> str:
