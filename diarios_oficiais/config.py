@@ -4,7 +4,10 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-LAKE_DIR = PROJECT_ROOT / "LAKE"
+# O lake fica fora do repositorio para preservar espaco no disco do projeto.
+# Use uma raiz absoluta para que os coletores continuem encontrando o historico
+# mesmo quando forem executados a partir de outra pasta.
+LAKE_DIR = Path(r"G:\LAKE")
 OUTPUT_DIR = PROJECT_ROOT / "saida"
 CACHE_DIR = PROJECT_ROOT / ".cache" / "diarios"
 USER_AGENT = "exoneracoes-nomeacoes-dou/0.1 (+pesquisa civica)"

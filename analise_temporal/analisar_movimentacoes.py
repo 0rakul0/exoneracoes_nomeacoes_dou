@@ -23,10 +23,11 @@ from diarios_oficiais.governadores import (
     nome_representante_governo,
     origem_representante_governo,
 )
+from diarios_oficiais.config import LAKE_DIR
 
 DEFAULT_INPUT_DIR = PROJECT_ROOT / "saida"
 DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "saida" / "analises"
-DEFAULT_LAKE_DIR = PROJECT_ROOT / "LAKE"
+DEFAULT_LAKE_DIR = LAKE_DIR
 
 ACTION_ORDER = {"exoneracao": 0, "nomeacao": 1}
 ADMINISTRATIVE_TERMS = {

@@ -11,6 +11,8 @@ from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
 
+from diarios_oficiais.config import LAKE_DIR
+
 # ============================================================
 # EXTRATOR — NORMATIVAS DE CIRCUNSCRIÇÃO / ISP COM LINK
 # ============================================================
@@ -41,9 +43,8 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
-# Se o script estiver na raiz do projeto, ele vai procurar em LAKE/RJ.
-# Se quiser outro caminho, altere aqui.
-MARKDOWN_DIR = BASE_DIR / "LAKE" / "RJ"
+# O caminho do lake e centralizado na configuracao dos coletores.
+MARKDOWN_DIR = LAKE_DIR / "RJ"
 
 OUTPUT_CSV = BASE_DIR / "saida" / "ISP" / "DOERJ_normativas_circunscricao.csv"
 

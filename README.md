@@ -6,6 +6,8 @@ Dashboard temporal publicado: <https://dash-temporal.onrender.com/>
 
 Este repositorio e o ambiente de desenvolvimento. O deploy do dashboard e feito pelo repositorio `D:\github\dash_temporal`, que mantem uma versao enxuta do app para o Render. Ao atualizar o painel publicado, suba para la apenas os arquivos finais de `saida/consolidado`.
 
+Os dados brutos do lake sao armazenados fora do repositorio, em `G:\LAKE`, conforme `diarios_oficiais/config.py`. Os caminhos abaixo que aparecem como `LAKE/...` sao relativos a essa raiz externa.
+
 ## Objetivos
 
 - Converter as edicoes oficiais para Markdown com Docling e preservar somente o `.md` em `LAKE/UF`.
