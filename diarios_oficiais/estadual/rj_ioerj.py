@@ -770,11 +770,21 @@ def edition_slug(section: str) -> str:
     slug = re.sub(r"[^A-Za-z0-9]+", "_", normalized).strip("_").upper()
     return slug or "caderno"
 
-def collect_rj(pular_anos_completos: bool = True) -> int:
+def collect_rj(pular_anos_completos: bool = True, retroativo: bool = False) -> int:
     collector = RjIoerjCollector()
     latest_stored_date = collector.latest_stored_publication_date()
-    start_date = latest_stored_date or date(RJ_COLLECTION_YEAR, 1, 1)
-    if latest_stored_date is None:
+    if retroativo:
+        start_date = date.today()
+        end_date = date(RJ_COLLECTION_YEAR, 1, 1)
+    else:
+        start_date = latest_stored_date or date(RJ_COLLECTION_YEAR, 1, 1)
+        end_date = date.today()
+    if retroativo:
+        print(
+            f"Coleta retroativa RJ do presente para tras: {end_date.isoformat()} ate {start_date.isoformat()}.",
+            file=sys.stderr,
+        )
+    elif latest_stored_date is None:
         print(
             f"Nenhuma edicao RJ encontrada no LAKE; iniciando em {start_date.isoformat()}.",
             file=sys.stderr,
@@ -788,8 +798,11 @@ def collect_rj(pular_anos_completos: bool = True) -> int:
     dates = sorted(
         publication_date
         for publication_date in collector.list_available_dates()
-        if publication_date >= start_date
+        if end_date <= publication_date <= start_date
+        and (not retroativo or publication_date.weekday() < 5)
     )
+    if retroativo:
+        dates.reverse()
 
     total_new_acts = 0
     current_year = date.today().year

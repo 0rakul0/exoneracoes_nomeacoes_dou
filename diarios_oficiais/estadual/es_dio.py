@@ -167,6 +167,7 @@ def collect_es(
     dates = [
         publication_date
         for publication_date in collector.list_available_dates(start_date, end_date)
+        if not retroativo or publication_date.weekday() < 5
     ]
     if retroativo:
         dates.reverse()

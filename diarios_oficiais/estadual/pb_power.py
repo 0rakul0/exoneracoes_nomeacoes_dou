@@ -76,6 +76,7 @@ def collect_pb_power(
         raise ValueError(f"A data final do {collector.gazette_code} nao pode ser anterior a data inicial.")
     dates = collector.list_available_dates(start_date, end_date)
     if retroativo:
+        dates = [publication_date for publication_date in dates if publication_date.weekday() < 5]
         dates.reverse()
         print(
             f"Coleta retroativa {collector.gazette_code} do presente para tras: "

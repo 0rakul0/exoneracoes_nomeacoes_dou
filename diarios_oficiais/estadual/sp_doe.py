@@ -187,20 +187,33 @@ def collect_sp(
     pular_anos_completos: bool = True,
     start_date_override: date | None = None,
     end_date: date | None = None,
+    retroativo: bool = False,
 ) -> int:
     collector = SpDoeCollector()
     latest_stored_date = collector.latest_stored_publication_date()
-    start_date = start_date_override or latest_stored_date or collector.start_date
-    end_date = end_date or date.today()
-    if end_date < start_date:
+    if retroativo:
+        start_date = date.today()
+        end_date = end_date or collector.start_date
+    else:
+        start_date = start_date_override or latest_stored_date or collector.start_date
+        end_date = end_date or date.today()
+    if end_date < start_date and not retroativo:
         raise ValueError("A data final de SP nao pode ser anterior a data inicial.")
     dates = [
         publication_date
         for publication_date in collector.list_available_dates()
-        if start_date <= publication_date <= end_date
+        if end_date <= publication_date <= start_date
+        and (not retroativo or publication_date.weekday() < 5)
     ]
+    if retroativo:
+        dates.reverse()
 
-    if start_date_override is not None:
+    if retroativo:
+        print(
+            f"Coleta retroativa SP do presente para tras: {end_date.isoformat()} ate {start_date.isoformat()}.",
+            file=sys.stderr,
+        )
+    elif start_date_override is not None:
         print(
             f"Coleta retroativa SP: {start_date.isoformat()} a {end_date.isoformat()}.",
             file=sys.stderr,

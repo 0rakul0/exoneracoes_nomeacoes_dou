@@ -13,6 +13,22 @@ echo.>> "%LOG%"
 echo ==================================================>> "%LOG%"
 echo Inicio: %DATE% %TIME% - Modo: %MODO%>> "%LOG%"
 
+for /f %%D in ('powershell -NoProfile -Command "(Get-Date).DayOfWeek"') do set "DIA_SEMANA=%%D"
+if /I "%DIA_SEMANA%"=="Saturday" (
+    echo Fim de semana: nenhuma coleta sera executada.
+    echo Fim de semana: nenhuma coleta sera executada.>> "%LOG%"
+    echo Fim: %DATE% %TIME% - Codigo: 0>> "%LOG%"
+    if not "%MODO%"=="AGENDADO" pause
+    exit /b 0
+)
+if /I "%DIA_SEMANA%"=="Sunday" (
+    echo Fim de semana: nenhuma coleta sera executada.
+    echo Fim de semana: nenhuma coleta sera executada.>> "%LOG%"
+    echo Fim: %DATE% %TIME% - Codigo: 0>> "%LOG%"
+    if not "%MODO%"=="AGENDADO" pause
+    exit /b 0
+)
+
 if "%MODO%"=="AGENDADO" (
     call "%~dp0atualizar_dados_readme_dashboard.bat" >> "%LOG%" 2>&1
 ) else (

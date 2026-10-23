@@ -162,6 +162,7 @@ def collect_sc(
         raise ValueError("A data final de SC nao pode ser anterior a data inicial.")
     dates = collector.list_available_dates(start_date, end_date)
     if retroativo:
+        dates = [publication_date for publication_date in dates if publication_date.weekday() < 5]
         dates.reverse()
         print(f"Coleta retroativa SC do presente para tras: {end_date.isoformat()} ate {start_date.isoformat()}.", file=sys.stderr)
     elif start_date_override is not None:

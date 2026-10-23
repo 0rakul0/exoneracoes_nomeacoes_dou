@@ -230,6 +230,11 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help="Coleta o acervo legado de SP (Executivo - Secao II) no intervalo informado.",
     )
     parser.add_argument(
+        "--rj-retroativo",
+        action="store_true",
+        help="Coleta o RJ a partir de hoje, retrocedendo pelo historico disponivel.",
+    )
+    parser.add_argument(
         "--coletar-rio-municipal",
         action="store_true",
         help="Coleta o Diário Oficial do Município do Rio de Janeiro.",
@@ -294,6 +299,11 @@ def build_arg_parser() -> argparse.ArgumentParser:
         "--sp-data-final",
         type=date.fromisoformat,
         help="Data final da coleta regular de SP (YYYY-MM-DD). Requer --sp-data-inicial.",
+    )
+    parser.add_argument(
+        "--sp-retroativo",
+        action="store_true",
+        help="Coleta o SP a partir de hoje, retrocedendo pelo historico disponivel.",
     )
     parser.add_argument(
         "--coletar-es",
@@ -542,8 +552,24 @@ def main() -> int:
         print(f"Nova Iguaçu: {total} atos novos gravados nos CSVs anuais")
         return 0
 
+    if args.rj_retroativo:
+        total = collect_rj(
+            pular_anos_completos=not args.ignorar_year_complete,
+            retroativo=True,
+        )
+        print(f"RJ retroativo: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
     if args.sp_data_final and not args.sp_data_inicial:
         raise SystemExit("Use --sp-data-inicial junto com --sp-data-final.")
+
+    if args.sp_retroativo:
+        total = collect_sp(
+            pular_anos_completos=not args.ignorar_year_complete,
+            retroativo=True,
+        )
+        print(f"SP retroativo: {total} atos novos gravados nos CSVs anuais")
+        return 0
 
     if args.sp_data_inicial:
         total = collect_sp(
