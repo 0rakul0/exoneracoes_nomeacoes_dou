@@ -25,6 +25,7 @@ from diarios_oficiais.estadual.ac_doe import collect_ac
 from diarios_oficiais.estadual.ac_dje import collect_ac_dje
 from diarios_oficiais.estadual.ce_doe import collect_ce
 from diarios_oficiais.rodizio_estadual import collect_estaduais_em_rodizio
+from diarios_oficiais.estadual.mg_doe import collect_mg
 from diarios_oficiais.municipal.rio_de_janeiro import collect_rio_de_janeiro
 from diarios_oficiais.municipal.rj_municipalidades import collect_rj_municipalidades
 from diarios_oficiais.municipal.niteroi import collect_niteroi
@@ -133,9 +134,10 @@ COLLECTORS_BY_STATE: dict[str, Callable[..., int]] = {
     "PB": collect_pb_all,
     "AC": collect_ac_all,
     "CE": collect_ce_all,
+    "MG": collect_mg,
 }
 
-STATES_TO_COLLECT = ["RJ", "SP", "ES", "BA", "SC", "PR", "RS", "PB", "AC", "CE"]
+STATES_TO_COLLECT = ["RJ", "SP", "ES", "BA", "SC", "PR", "RS", "PB", "AC", "CE", "MG"]
 
 
 MUNICIPAL_RJ_COLLECTORS: list[tuple[str, Callable[[date | None, date | None], int]]] = [
@@ -471,6 +473,16 @@ def build_arg_parser() -> argparse.ArgumentParser:
         type=date.fromisoformat,
         help="Data final da coleta do CE (YYYY-MM-DD). Requer --ce-data-inicial.",
     )
+    parser.add_argument(
+        "--coletar-mg", action="store_true",
+        help="Coleta o Diário do Executivo de Minas Gerais, incluindo edições extras.",
+    )
+    parser.add_argument(
+        "--mg-retroativo", action="store_true",
+        help="Coleta MG da data final para trás até MG_START_DATE ou --mg-data-inicial.",
+    )
+    parser.add_argument("--mg-data-inicial", type=date.fromisoformat, help="Data inicial da coleta de MG (YYYY-MM-DD).")
+    parser.add_argument("--mg-data-final", type=date.fromisoformat, help="Data final da coleta de MG (YYYY-MM-DD).")
     return parser
 
 
@@ -753,13 +765,26 @@ def main() -> int:
         print(f"CE: {total} atos novos gravados nos CSVs anuais")
         return 0
 
+    if args.mg_data_final and not (args.mg_data_inicial or args.mg_retroativo):
+        raise SystemExit("Use --mg-data-inicial ou --mg-retroativo junto com --mg-data-final.")
+
+    if args.coletar_mg or args.mg_data_inicial or args.mg_retroativo:
+        total = collect_mg(
+            pular_anos_completos=not args.ignorar_year_complete,
+            start_date_override=args.mg_data_inicial,
+            end_date=args.mg_data_final,
+            retroativo=args.mg_retroativo,
+        )
+        print(f"MG: {total} atos novos gravados nos CSVs anuais")
+        return 0
+
     if not args.sem_preload_ocr:
         preload_ocr_models()
 
     total_by_state: dict[str, int] = {}
     for state in STATES_TO_COLLECT:
         try:
-            if state in {"RJ", "SP"}:
+            if state in {"RJ", "SP", "MG"}:
                 total_by_state[state] = COLLECTORS_BY_STATE[state](
                     pular_anos_completos=not args.ignorar_year_complete,
                 )
