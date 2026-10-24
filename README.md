@@ -205,7 +205,7 @@ Para forcar a rechecagem de anos marcados como completos:
 .\.venv\Scripts\python.exe main.py --ignorar-year-complete
 ```
 
-A coleta ativa executa `RJ`, `SP`, `ES`, `BA`, `SC`, `PR`, `RS`, `PB`, `AC` e `CE`, definidos em `STATES_TO_COLLECT`; ES, BA, SC, PR, RS, PB, AC e CE também podem ser executados isoladamente por seus respectivos argumentos. A coleta estadual preserva todos os cadernos publicados pela fonte: no RJ, todas as partes retornadas pela IOERJ; em SP, todos os jornais e cadernos retornados pela API do DOESP; no ES, o PDF diário consolidado completo, inclusive `ATOS MUNICIPAIS`; na BA, o DOE estadual, o Diário Oficial Eletrônico do Legislativo (DOEL/BA) e todos os cadernos do Diário da Justiça Eletrônico (DJE/BA); no SC, o texto integral dos PDFs do repositório oficial; no PR, todos os tipos de edição retornados pelo catálogo público do DIOE; no RS, o PDF oficial do DOE-e; na PB, o DOE/PB consolidado e o Diário da Justiça Eletrônico do TJPB; no AC, todas as edições e extras do DOE/AC e o Diário da Justiça Eletrônico do TJAC; e no CE, todos os cadernos retornados pelo [DOE/CE](https://www.ce.gov.br/diario-oficial/). Cada coletor identifica a ultima data ja armazenada em `LAKE/<UF>` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. O PDF certificado do DOE/BA exige login, por isso sua coleta publica usa a versão HTML oficial; os demais cadernos separados usam os PDFs oficiais dos respectivos portais. Os Markdown existentes sao reutilizados. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`); para SP, ela inicia em `SP_START_DATE` (`2024-06-03`), e para ES, BA, SC, PR, RS, PB, AC e CE em suas respectivas constantes `*_START_DATE` (`2026-01-01`). As configuracoes ficam em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
+A coleta ativa executa `RJ`, `SP`, `ES`, `BA`, `SC`, `PR`, `RS`, `PB`, `AC`, `CE` e `MG`, definidos em `STATES_TO_COLLECT`; ES, BA, SC, PR, RS, PB, AC, CE e MG também podem ser executados isoladamente por seus respectivos argumentos. A coleta estadual preserva todos os cadernos publicados pela fonte: no RJ, todas as partes retornadas pela IOERJ; em SP, todos os jornais e cadernos retornados pela API do DOESP; no ES, o PDF diário consolidado completo, inclusive `ATOS MUNICIPAIS`; na BA, o DOE estadual, o Diário Oficial Eletrônico do Legislativo (DOEL/BA) e todos os cadernos do Diário da Justiça Eletrônico (DJE/BA); no SC, o texto integral dos PDFs do repositório oficial; no PR, todos os tipos de edição retornados pelo catálogo público do DIOE; no RS, o PDF oficial do DOE-e; na PB, o DOE/PB consolidado e o Diário da Justiça Eletrônico do TJPB; no AC, todas as edições e extras do DOE/AC e o Diário da Justiça Eletrônico do TJAC; e no CE, todos os cadernos retornados pelo [DOE/CE](https://www.ce.gov.br/diario-oficial/). Cada coletor identifica a ultima data ja armazenada em `LAKE/<UF>` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. O PDF certificado do DOE/BA exige login, por isso sua coleta publica usa a versão HTML oficial; os demais cadernos separados usam os PDFs oficiais dos respectivos portais. Os Markdown existentes sao reutilizados. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`); para SP, ela inicia em `SP_START_DATE` (`2024-06-03`), e para ES, BA, SC, PR, RS, PB, AC, CE e MG em suas respectivas constantes `*_START_DATE` (`2026-01-01`). As configuracoes ficam em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
 
 ### Limitação de cobertura por Poder
 
@@ -282,6 +282,51 @@ Para preencher o histórico do CE, partindo da data atual e caminhando para trá
 ```
 
 Para uma data específica do CE, use `main.py` com `--coletar-ce`, `--ce-data-inicial` e `--ce-data-final`.
+
+### Minas Gerais — Diário do Executivo
+
+O coletor [mg_doe.py](diarios_oficiais/estadual/mg_doe.py) consulta a API do
+[Jornal Minas Gerais](https://www.jornalminasgerais.mg.gov.br/). A coleta de MG
+também integra a execução geral. Preserva o Diário do Executivo e suas edições
+extras; os cadernos de Municípios e de Terceiros ficam fora desta integração.
+O calendário e alguns arquivos exigem um token anônimo, obtido e renovado
+automaticamente pelo mesmo endpoint público usado pelo portal.
+
+O portal apresenta uma cadeia TLS incorreta: o certificado do domínio foi
+emitido pela Sectigo DV R36, mas o servidor envia outro intermediário. O
+coletor completa essa cadeia com o [certificado público da Sectigo](http://crt.sectigo.com/SectigoPublicServerAuthenticationCADVR36.crt),
+incluído em [certificates/](diarios_oficiais/certificates/), mantendo a validação
+do domínio, da validade e da cadeia até uma raiz confiável. A configuração é
+restrita ao domínio do Jornal Minas Gerais e não exige desativar a verificação
+HTTPS nem alterar os certificados do sistema.
+
+Para coletar um intervalo:
+
+```bash
+python main.py --coletar-mg --mg-data-inicial 2026-10-07 --mg-data-final 2026-10-23
+```
+
+Para percorrer o histórico do presente para trás:
+
+```bash
+python main.py --mg-retroativo
+```
+
+A data inicial padrão é `MG_START_DATE` em [config.py](diarios_oficiais/config.py)
+(`2026-01-01`). A coleta normal retoma a última data armazenada, inclusive.
+Intervalos parciais não geram o marcador de ano completo. Os PDFs em base64
+podem vir encapsulados em PKCS#7; o coletor recupera o PDF para conversão sem
+validar criptograficamente a assinatura. Arquivos entregues por página são
+reunidos antes da conversão. Os CSVs anuais são gravados em `saida/MG/DOEMG_<ano>.csv`.
+
+As regras específicas de [utils_regex/mg_doe.py](diarios_oficiais/utils_regex/mg_doe.py)
+reconhecem nomeações e exonerações, MASP e tabelas de pessoal. A qualidade do
+texto extraído do PDF pode afetar nomes e tabelas; campos sem evidência ficam vazios.
+Para executar a validação local, sem acessar a rede ou o acervo:
+
+```bash
+python -m unittest discover -s tests -v
+```
 
 O padrao dos arquivos Markdown e:
 

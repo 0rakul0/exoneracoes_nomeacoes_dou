@@ -11,3 +11,6 @@ dependencies = [
 
 [tool.setuptools.packages.find]
 include = ["diarios_oficiais", "diarios_oficiais.*", "analise_temporal", "analise_temporal.*", "scripts", "scripts.*"]
+
+[tool.setuptools.package-data]
+diarios_oficiais = ["certificates/*.pem"]

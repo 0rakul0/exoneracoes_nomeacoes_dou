@@ -92,6 +92,9 @@ def governador_da_edicao(markdown_path: str) -> str:
         return UNKNOWN_GOVERNOR
 
     path = Path(str(markdown_path))
+    if "MG" in path.parts:
+        return governador_mg_da_edicao(path)
+
     if "SP" in path.parts:
         return governador_sp_da_edicao(path)
 
@@ -139,6 +142,29 @@ def governador_da_edicao(markdown_path: str) -> str:
         return f"{governor_name} - Governador"
 
     return UNKNOWN_GOVERNOR
+
+
+def governador_mg_da_edicao(path: Path) -> str:
+    try:
+        text = path.read_text(encoding="utf-8", errors="ignore")[:20000]
+    except OSError:
+        return UNKNOWN_GOVERNOR
+    header = re.search(
+        r"(?im)^\s*(?:#+\s*)?Governador"
+        r"(?P<acting>\s+em\s+exerc[ií]cio)?"
+        r"(?:\s+do\s+Estado\s+de\s+Minas\s+Gerais)?[ \t]*:?[ \t]*"
+        r"(?:\r?\n[ \t]*)?(?P<name>[A-ZÁÉÍÓÚÂÊÔÃÕÇ][^\r\n|:]{3,100})",
+        text,
+    )
+    if not header:
+        return UNKNOWN_GOVERNOR
+    name = header.group("name").strip(" *#.,;")
+    if len(name.split()) < 2 or re.search(r"\d", name):
+        return UNKNOWN_GOVERNOR
+    connectors = {"de", "da", "do", "das", "dos", "e"}
+    name = " ".join(w.lower() if w.lower() in connectors else w.capitalize() for w in name.split())
+    role = "Governador em exercicio" if header.group("acting") else "Governador"
+    return f"{name} - {role}"
 
 
 def governador_sp_da_edicao(path: Path) -> str:
