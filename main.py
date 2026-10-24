@@ -24,6 +24,7 @@ from diarios_oficiais.estadual.pb_dje import collect_pb_dje
 from diarios_oficiais.estadual.ac_doe import collect_ac
 from diarios_oficiais.estadual.ac_dje import collect_ac_dje
 from diarios_oficiais.estadual.ce_doe import collect_ce
+from diarios_oficiais.rodizio_estadual import collect_estaduais_em_rodizio
 from diarios_oficiais.municipal.rio_de_janeiro import collect_rio_de_janeiro
 from diarios_oficiais.municipal.rj_municipalidades import collect_rj_municipalidades
 from diarios_oficiais.municipal.niteroi import collect_niteroi
@@ -456,6 +457,11 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help="Coleta o CE da data de hoje para trás até CE_START_DATE.",
     )
     parser.add_argument(
+        "--estaduais-rodizio-retroativo",
+        action="store_true",
+        help="Coleta os diários estaduais em rodízio, um caderno por estado, de hoje para trás.",
+    )
+    parser.add_argument(
         "--ce-data-inicial",
         type=date.fromisoformat,
         help="Forca a data inicial da coleta do CE (YYYY-MM-DD).",
@@ -474,6 +480,13 @@ def main() -> int:
 
     if args.sondar_novas:
         return sondar_novas_edicoes_rj()
+
+    if args.estaduais_rodizio_retroativo:
+        total = collect_estaduais_em_rodizio(
+            skip_complete_years=not args.ignorar_year_complete,
+        )
+        print(f"Rodízio estadual: {total} atos novos gravados nos CSVs anuais")
+        return 0
 
     if args.coletar_sp_legado:
         if not args.sp_legado_data_inicial or not args.sp_legado_data_final:
