@@ -178,6 +178,63 @@ class MgDoeTests(unittest.TestCase):
             ("MARIA DE SOUZA", "1345678-9", "Técnico Administrativo"),
         ])
 
+    def test_role_and_agency_do_not_absorb_each_other(self):
+        agency = "Instituto de Previdência dos Servidores do Estado de Minas Gerais"
+        cases = [
+            ("para o cargo de Diretor da Secretaria de Estado de Saúde",
+             "cargo de Diretor", "Secretaria de Estado de Saúde"),
+            (f"do {agency}, do cargo de Analista", "cargo de Analista", agency),
+            (f"do {agency} do cargo de Analista", "cargo de Analista", agency),
+            ("para exercer a função de Assessor na Fundação João Pinheiro",
+             "função de Assessor", "Fundação João Pinheiro"),
+            ("do cargo de provimento efetivo de Analista da Polícia Civil e de Atividades Governamentais",
+             "cargo de provimento efetivo de Analista da Polícia Civil e de Atividades Governamentais", ""),
+            ("para o cargo de Diretor da Secretaria de Estado de Agricultura, Pecuária e Abastecimento",
+             "cargo de Diretor", "Secretaria de Estado de Agricultura, Pecuária e Abastecimento"),
+        ]
+        for body, role, expected_agency in cases:
+            with self.subTest(body=body):
+                acts = self.parse(f"NOMEIA, nos termos da lei, JOÃO DA SILVA, MASP 1234567-8, {body}, a partir de 01/10/2026.\n")
+                self.assertEqual(len(acts), 1)
+                self.assertEqual(acts[0].role, role)
+                self.assertEqual(acts[0].agency, expected_agency)
+
+    def test_police_agency_header_survives_long_context_but_not_new_section(self):
+        for header in (
+            "Polícia Civil do Estado de Minas Gerais",
+            "ATOS ASSINADOS PELA SENHORA CHEFE DA POLÍCIA CIVIL DE MINAS GERAIS",
+        ):
+            with self.subTest(header=header):
+                acts = self.parse(
+                    header + "\n" + "Texto intermediário.\n" * 60
+                    + "EXONERA os servidores:\n"
+                    "João da Silva Analista de Gestão 1.234.567-8 I Unidade Técnica\n\n"
+                    "Secretaria de Estado de Saúde\n"
+                    "NOMEIA, nos termos da lei, MARIA DE SOUZA, MASP 1345678-9, "
+                    "para o cargo de Diretora.\n"
+                )
+                self.assertEqual(len(acts), 2)
+                self.assertEqual(acts[0].agency, header if header.startswith("Polícia") else
+                                 "POLÍCIA CIVIL DE MINAS GERAIS")
+                self.assertEqual(acts[0].role, "Analista de Gestão")
+                self.assertEqual(acts[1].agency, "")
+
+    def test_parenthesized_agency_prepositions_from_october_22(self):
+        agency = "Secretaria de Estado de Infraestrutura, Mobilidade e Parcerias"
+        role = "cargo de provimento em comissão DAD-6 OP1101462"
+        for preposition in ("do(a)", "da", "no(a)", "pela(o)"):
+            for separator in (" ", ", de recrutamento amplo, "):
+                with self.subTest(preposition=preposition, separator=separator):
+                    acts = self.parse(
+                        "nomeia, nos termos da lei, CARLOS EDUARDO MAGALHÃES PAULINO, "
+                        f"MASP 1194572-2, para o {role}{separator}{preposition} "
+                        "Secretaria de Estado de Infraestrutura, Mobilidade e\n"
+                        "Parcerias, a contar de 22/10/2026.\n"
+                    )
+                    self.assertEqual(len(acts), 1)
+                    self.assertEqual(acts[0].role, role)
+                    self.assertEqual(acts[0].agency, agency)
+
     def test_partial_year_is_not_marked_complete(self):
         collector = Mock(start_date=date(2025, 1, 1))
         collector.latest_stored_publication_date.return_value = None
