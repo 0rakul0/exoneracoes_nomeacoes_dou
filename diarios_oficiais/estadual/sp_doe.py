@@ -206,11 +206,8 @@ def collect_sp(
         and (not retroativo or publication_date.weekday() < 5)
     ]
     if retroativo:
-        dates.reverse()
-
-    if retroativo:
         print(
-            f"Coleta retroativa SP do presente para tras: {end_date.isoformat()} ate {start_date.isoformat()}.",
+            f"Coleta retroativa SP do presente para tras: {start_date.isoformat()} ate {end_date.isoformat()}.",
             file=sys.stderr,
         )
     elif start_date_override is not None:
