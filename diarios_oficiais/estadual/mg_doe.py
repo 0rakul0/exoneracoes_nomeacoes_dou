@@ -255,6 +255,18 @@ def parse_acts(text: str, collector: MgDoeCollector, edition: Edition, markdown_
                 signer_markers.append((header.start(), name, role, category))
                 break
     signer_markers.sort(key=lambda marker: marker[0])
+    # O cabeçalho pode estar muito além dos 450 caracteres do contexto local.
+    # Uma nova seção encerra o órgão herdado para não contaminá-la.
+    agency_markers = [
+        (header.start(), "") for header in mg_regexes.SECTION_HEADER_RE.finditer(text)
+        if not any(act.start() <= header.start() < act.end() for act in act_matches)
+    ]
+    agency_markers.extend(
+        (header.start(), clean_piece(header.group("agency")))
+        for header in mg_regexes.POLICE_AGENCY_HEADER_RE.finditer(text)
+        if not any(act.start() <= header.start() < act.end() for act in act_matches)
+    )
+    agency_markers.sort(key=lambda marker: marker[0])
     for match in act_matches:
         body = match.group("body")
         normalized = SPACE_RE.sub(" ", body)
@@ -274,6 +286,7 @@ def parse_acts(text: str, collector: MgDoeCollector, edition: Edition, markdown_
                 continue
             groups = person.groupdict()
             identifier = re.sub(r"[.\s]", "", groups.get("id") or "")
+            agency_body = ""
             if groups.get("role"):
                 role = clean_piece(groups["role"])
                 person_body = ""
@@ -282,15 +295,25 @@ def parse_acts(text: str, collector: MgDoeCollector, edition: Edition, markdown_
                 next_person = mg_regexes.NAME_BEFORE_ID_RE.search(following)
                 person_body = following[:next_person.start()] if next_person else following
                 role_match = mg_regexes.ROLE_RE.search(person_body)
+                # Não reinterpreta trechos da carreira (por exemplo, Polícia
+                # Civil) como órgão. Preserva órgãos antes ou depois do cargo.
+                agency_body = person_body
+                if role_match:
+                    agency_body = person_body[:role_match.start()] + " " + person_body[role_match.end():]
                 if not role_match:
                     role_match = mg_regexes.COUNCIL_ROLE_RE.search(normalized[:normalized_end])
                 role = clean_piece(role_match.group("role")) if role_match else ""
-            agency_match = mg_regexes.AGENCY_RE.search(person_body)
+            agency_match = mg_regexes.AGENCY_RE.search(agency_body)
             if not agency_match:
                 prefix = SPACE_RE.sub(" ", text[max(0, match.start() - 450):match.start()])
                 prefix = re.split(r"[.;]\s+", prefix)[-1]
                 agency_match = mg_regexes.AGENCY_RE.search(prefix)
             agency = clean_piece(agency_match.group("agency")) if agency_match else ""
+            if not agency:
+                for position, header_agency in agency_markers:
+                    if position > match.start():
+                        break
+                    agency = header_agency
             key = (action, name, identifier, role, agency)
             if key in seen:
                 continue
