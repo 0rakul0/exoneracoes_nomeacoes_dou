@@ -1,6 +1,6 @@
 # Exoneracoes e nomeacoes nos diarios oficiais
 
-Este projeto busca criar uma base historica de atos de exoneracao e nomeacao publicados em diarios oficiais brasileiros. A primeira etapa foca no Governo do Estado do Rio de Janeiro, acompanhando o Diario Oficial do Estado do Rio de Janeiro (DOERJ/IOERJ) da edicao online mais recente disponivel no portal atual para as mais antigas.
+Este projeto cria uma base historica de atos de exoneracao e nomeacao publicados em diarios oficiais brasileiros. A coleta estadual integrada cobre RJ, SP, ES, BA, SC, PR, RS, PB, AC, CE, MG, MT e MS, preservando a fonte oficial, o caderno, o Markdown e o CSV anual de cada edicao.
 
 Dashboard temporal publicado: <https://dash-temporal.onrender.com/>
 
@@ -23,6 +23,46 @@ A fonte inicial e o portal da Imprensa Oficial do Estado do Rio de Janeiro:
 - Calendario de edicoes: <https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_data.php>
 - O calendario online atual lista edicoes a partir de julho de 2005.
 - O proprio portal informa atendimento separado para edicoes pre-2008, entao essas edicoes podem exigir outra estrategia de obtencao no futuro.
+
+## Mapa das fontes estaduais e caminhos de coleta
+
+Esta tabela registra o caminho oficial usado por cada coletor, os endpoints de listagem/download e se existe uma API publica utilizada pelo projeto. Quando a coluna **API** diz `Não`, o coletor usa HTML, formulário, sondagem por `HEAD` ou URL direta de PDF. A existência de uma API não significa que ela seja estável ou que cubra todos os cadernos do portal.
+
+| UF | Diário / código | Módulo | Portal ou caminho oficial | Listagem/API usada | Download/arquivo usado | API? |
+| --- | --- | --- | --- | --- | --- | --- |
+| RJ | DOERJ / `DOERJ` | `diarios_oficiais/estadual/rj_ioerj.py` | [IOERJ](https://www.ioerj.com.br/portal/modules/conteudoonline/) | `do_seleciona_data.php` e `do_seleciona_edicao.php?data=AAAA-MM-DD` | `mostra_edicao.php?k=...` descoberto na página da edição | Não |
+| SP | DOE-SP / `DOESP` | `diarios_oficiais/estadual/sp_doe.py` | [DOE-SP](https://doe.sp.gov.br/) | `https://do-api-web-search.doe.sp.gov.br/v2/journals` e `/v2/sections` | `https://do-api-publication-pdf.doe.sp.gov.br/v1/editions/url` | Sim |
+| ES | DOE-ES / `DOES` | `diarios_oficiais/estadual/es_dio.py` | [DIO-ES](https://ioes.dio.es.gov.br/) | `/apifront/portal/edicoes/edicoes_from_data/AAAA-MM-DD.json` | `/portal/edicoes/download/<id>` | Sim |
+| BA | DOE-BA / `DOBA` | `diarios_oficiais/estadual/ba_doe.py` | [DOE-BA](https://doe.ba.gov.br/) | `/apifront/portal/edicoes/edicoes_from_data/AAAA-MM-DD.json` | Conteúdo HTML em `/apifront/portal/edicoes/publicacoes_ver_conteudo/<id>`; a versão PDF certificada exige autenticação | Sim |
+| BA | DOEL-BA / `DOELBA` | `diarios_oficiais/estadual/ba_doel.py` | [Assembleia Legislativa / EGBA](https://egbanet.egba.ba.gov.br/alba/) | `alba/apifront/portal/edicoes/edicoes_from_data/AAAA-MM-DD.json?subtheme=alba` | `alba/portal/edicoes/download/<id>` | Sim |
+| BA | DJE-BA / `DJEBA` | `diarios_oficiais/estadual/ba_dje.py` | [DJE do TJBA](https://diario.tjba.jus.br/diario/internet/) | `pesquisar.wsp` por formulário HTML | `arquivo.wsp` e `download.wsp` por formulário/POST | Não |
+| SC | DOE-SC / `DOESC` | `diarios_oficiais/estadual/sc_doe.py` | [Repositório do DOE-SC](https://portal.doe.sea.sc.gov.br/) | Sondagem do repositório por `HEAD` | `repositorio/AAAA/AAAAMMDD/Jornal/<edicao>.pdf` | Não |
+| PR | DIOE-PR / `DOEP` | `diarios_oficiais/estadual/pr_dioe.py` | [DIOE-PR](https://www.dioe.pr.gov.br/) | `apifront/portal/edicoes/ultimas_edicoes.json?sem_limite=1&todos=1` | `portal/edicoes/download/<id>` | Sim |
+| RS | DOE-RS / `DOERS` | `diarios_oficiais/estadual/rs_doe.py` | [Backend oficial do DOE-RS](https://doe-backend.pro.rs.gov.br/) | `public/diarios/consultar/` com data e tipo do diário | `public/diarios/download/<id>/pdf` | Sim |
+| PB | DOE-PB / `DOEPB` | `diarios_oficiais/estadual/pb_doe.py` | [A União — DOE](https://auniao.pb.gov.br/servicos/doe) | Índice HTML mensal em `servicos/doe/<ano>/<mes>` | Links de PDF encontrados no índice | Não |
+| PB | DJE-PB / `DJEPB` | `diarios_oficiais/estadual/pb_dje.py` | [DJE do TJPB](https://app.tjpb.jus.br/dje/paginas/diario_justica/publico/buscas.jsf) | Não há listagem API usada; o coletor testa a data | `https://app.tjpb.jus.br/dje/rest/ultimosdiarios/diario/DD_MM_AAAA.pdf` | Não |
+| AC | DOE-AC / `DOEAC` | `diarios_oficiais/estadual/ac_doe.py` | [Diário Oficial do Acre](https://diario.ac.gov.br/) | Formulário HTML mensal `POST` com `mesano` | Links `download.php` retornados pelo portal | Não |
+| AC | DJE-AC / `DJEAC` | `diarios_oficiais/estadual/ac_dje.py` | [DJE do TJAC](https://diario.tjac.jus.br/edicoes.php) | Página HTML `edicoes.php` | Link de PDF da edição | Não |
+| CE | DOE-CE / `DOECE` | `diarios_oficiais/estadual/ce_doe.py` | [DOE-CE](https://www.ce.gov.br/diario-oficial/) | `wp-admin/admin-ajax.php`, ação `search_portal`, caminho `/publications/search_portal` | `wp-admin/admin-ajax.php`, caminho `/ocr_documents/export_pdf` | Sim |
+| MG | Diário do Executivo / `DOEMG` | `diarios_oficiais/estadual/mg_doe.py` | [Jornal Minas Gerais](https://www.jornalminasgerais.mg.gov.br/) | `https://www.jornalminasgerais.mg.gov.br/api/v1/`, incluindo `Jornal/ListarEdicoesParaCalendario` e `Jornal/ObterEdicaoPorDataPublicacao` | `Caderno/ObterArquivoCadernoPorId` | Sim |
+| MT | Diário Oficial / `DOEMT` | `diarios_oficiais/estadual/mt_doe.py` | [IOMAT — transparência](https://api.iomat.mt.gov.br/transparencia/swagger) | `https://api.iomat.mt.gov.br/transparencia/v1/diarios/1/edicoes?data=AAAA-MM-DD` | `/diarios/1/edicoes/<id>/download?formato=pdf` | Sim |
+| MS | Diário Oficial / `DOEMS` | `diarios_oficiais/estadual/ms_doe.py` | [Diário Oficial de MS](https://www.diariooficial.ms.gov.br/) | `/api/diarios/listar-todos/?pagina=...&dataInicial=AAAA-MM-DD&dataFinal=AAAA-MM-DD` | `caminhoArquivo` retornado, normalmente no domínio `assets.imprensaoficial.ms.gov.br` | Sim |
+
+Todos os coletores estaduais gravam os textos convertidos no padrão:
+
+```text
+G:\LAKE\<UF>\<ano>\<mes>\<sigla>_<caderno>_<AAAA-MM-DD>.md
+```
+
+Os CSVs anuais seguem o padrão:
+
+```text
+saida\<UF>\<sigla>_<ano>.csv
+```
+
+No código, `LAKE_DIR` fica configurado como `G:\LAKE` em
+[`diarios_oficiais/config.py`](diarios_oficiais/config.py). A coluna `fonte_url`
+preserva a URL oficial da edição ou da consulta que originou o registro.
 
 ## Análise Exploratória das Movimentações
 
@@ -207,7 +247,7 @@ Para forcar a rechecagem de anos marcados como completos:
 .\.venv\Scripts\python.exe main.py --ignorar-year-complete
 ```
 
-A coleta ativa executa `RJ`, `SP`, `ES`, `BA`, `SC`, `PR`, `RS`, `PB`, `AC`, `CE` e `MG`, definidos em `STATES_TO_COLLECT`; RJ, SP, ES, BA, SC, PR, RS, PB, AC, CE e MG também podem ser executados isoladamente por seus respectivos argumentos. A coleta estadual preserva todos os cadernos publicados pela fonte: no RJ, todas as partes retornadas pela IOERJ; em SP, todos os jornais e cadernos retornados pela API do DOESP; no ES, o PDF diário consolidado completo, inclusive `ATOS MUNICIPAIS`; na BA, o DOE estadual, o Diário Oficial Eletrônico do Legislativo (DOEL/BA) e todos os cadernos do Diário da Justiça Eletrônico (DJE/BA); no SC, o texto integral dos PDFs do repositório oficial; no PR, todos os tipos de edição retornados pelo catálogo público do DIOE; no RS, o PDF oficial do DOE-e; na PB, o DOE/PB consolidado e o Diário da Justiça Eletrônico do TJPB; no AC, todas as edições e extras do DOE/AC e o Diário da Justiça Eletrônico do TJAC; no CE, todos os cadernos retornados pelo [DOE/CE](https://www.ce.gov.br/diario-oficial/); e no MG, o Diário do Executivo. Cada coletor identifica a ultima data ja armazenada em `LAKE/<UF>` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. O PDF certificado do DOE/BA exige login, por isso sua coleta publica usa a versão HTML oficial; os demais cadernos separados usam os PDFs oficiais dos respectivos portais. Os Markdown existentes sao reutilizados. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`); para SP, ela inicia em `SP_START_DATE` (`2024-06-03`), e para ES, BA, SC, PR, RS, PB, AC, CE e MG em suas respectivas constantes `*_START_DATE` (`2026-01-01`). As configuracoes ficam em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
+A coleta ativa executa `RJ`, `SP`, `ES`, `BA`, `SC`, `PR`, `RS`, `PB`, `AC`, `CE`, `MG`, `MT` e `MS`, definidos em `STATES_TO_COLLECT`; todos também podem ser executados isoladamente por seus respectivos argumentos. A coleta estadual preserva todos os cadernos publicados pela fonte: no RJ, todas as partes retornadas pela IOERJ; em SP, todos os jornais e cadernos retornados pela API do DOESP; no ES, o PDF diário consolidado completo, inclusive `ATOS MUNICIPAIS`; na BA, o DOE estadual, o Diário Oficial Eletrônico do Legislativo (DOEL/BA) e todos os cadernos do Diário da Justiça Eletrônico (DJE/BA); no SC, o texto integral dos PDFs do repositório oficial; no PR, todos os tipos de edição retornados pelo catálogo público do DIOE; no RS, o PDF oficial do DOE-e; na PB, o DOE/PB consolidado e o Diário da Justiça Eletrônico do TJPB; no AC, todas as edições e extras do DOE/AC e o Diário da Justiça Eletrônico do TJAC; no CE, todos os cadernos retornados pelo [DOE/CE](https://www.ce.gov.br/diario-oficial/); no MG, o Diário do Executivo e edições extras; no MT, a edição oficial e edições extras; e no MS, a edição principal e suplementos. Cada coletor identifica a ultima data ja armazenada em `LAKE/<UF>` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. O PDF certificado do DOE/BA exige login, por isso sua coleta publica usa a versão HTML oficial; os demais cadernos separados usam os PDFs oficiais dos respectivos portais. Os Markdown existentes sao reutilizados. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`); para SP, ela inicia em `SP_START_DATE` (`2024-06-03`), e para ES, BA, SC, PR, RS, PB, AC, CE, MG, MT e MS em suas respectivas constantes `*_START_DATE` (`2026-01-01`). As configuracoes ficam em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
 
 ### Limitação de cobertura por Poder
 
@@ -347,6 +387,35 @@ Para executar a validação local, sem acessar a rede ou o acervo:
 python -m unittest discover -s tests -v
 ```
 
+### Mato Grosso e Mato Grosso do Sul
+
+Os dois estados estão integrados à execução normal da `main`, usam as APIs
+públicas dos portais oficiais e preservam também edições extras e suplementos.
+
+Para coletar um intervalo específico:
+
+```powershell
+.\.venv\Scripts\python.exe main.py --coletar-mt --mt-data-inicial 2026-10-23 --mt-data-final 2026-10-23
+.\.venv\Scripts\python.exe main.py --coletar-ms --ms-data-inicial 2026-10-23 --ms-data-final 2026-10-23
+```
+
+Para percorrer o histórico do presente para trás até `MT_START_DATE` e
+`MS_START_DATE`:
+
+```powershell
+.\coletar_mt_retroativo.bat
+.\coletar_ms_retroativo.bat
+```
+
+Os coletores são [`mt_doe.py`](diarios_oficiais/estadual/mt_doe.py) e
+[`ms_doe.py`](diarios_oficiais/estadual/ms_doe.py). O MT consulta o catálogo
+REST do IOMAT (`/transparencia/v1/diarios/1/edicoes`) e baixa cada edição pelo
+endpoint `download`; o MS consulta `/api/diarios/listar-todos/` e baixa o PDF
+indicado por `caminhoArquivo`. A configuração das datas iniciais está em
+[`diarios_oficiais/config.py`](diarios_oficiais/config.py), e as regras de
+extração ficam em `diarios_oficiais/utils_regex/mt_doe.py` e
+`diarios_oficiais/utils_regex/ms_doe.py`.
+
 O padrao dos arquivos Markdown e:
 
 ```text
@@ -411,16 +480,16 @@ Para cobertura transversal dos municípios que publicam na Parte IV — Municipa
 
 O projeto usa duas camadas de cobertura: a Parte IV — Municipalidades do DOERJ, que concentra publicações de diversos municípios, e os portais próprios das prefeituras. Os atos municipais incluem a coluna `municipio` quando a fonte fornece essa identificação.
 
-| Município ou fonte | Situação | Acesso identificado | Observações |
-| --- | --- | --- | --- |
-| Parte IV — Municipalidades (DOERJ) | Implementado | Portal da [IOERJ](https://www.ioerj.com.br/portal/) | Cobre municípios que publicam no caderno estadual; não substitui o diário próprio. |
-| Rio de Janeiro | Implementado | `doweb.rio.rj.gov.br` | API por data e PDF oficial por edição, incluindo suplementos. |
-| Niterói | Implementado | `diariooficial.niteroi.rj.gov.br` | PDF diário por data, no padrão `do/AAAA/MM_Mes/DD.pdf`. |
-| Campos dos Goytacazes | Implementado | [Portal municipal](https://campos.rj.gov.br/diario-oficial/) | Índice público com PDFs, suplementos e cadernos adicionais. |
-| Duque de Caxias | Implementado | Portal da [Transparência](https://transparencia.duquedecaxias.rj.gov.br/diario_oficial_busca.php) | Catálogo mensal oficial em JSON, com PDFs obtidos por `diario_oficial_get_anexo.php?codigo=...`. |
-| Nova Iguaçu | Implementado | [Portal municipal](https://doweb.novaiguacu.rj.gov.br/portal/diario-oficial) | Filtro oficial por data e links de PDF por edição, incluindo edições extras. |
-| São Gonçalo | Implementado | [Portal municipal](https://www.saogoncalo.rj.gov.br/servico/diario-oficial/) | Arquivo diário previsível em `https://do.pmsg.rj.gov.br/diario/AAAA_MM_DD.pdf`; o formulário oficial por data abre esse mesmo PDF. |
-| Demais municípios | Pendente | Parte IV do DOERJ como cobertura inicial | Cada portal precisa ser mapeado e integrado conforme sua tecnologia e acervo. |
+| Município ou fonte | Situação | Acesso identificado | API? | Observações |
+| --- | --- | --- | --- | --- |
+| Parte IV — Municipalidades (DOERJ) | Implementado | Portal da [IOERJ](https://www.ioerj.com.br/portal/) | Não | Cobre municípios que publicam no caderno estadual; não substitui o diário próprio. |
+| Rio de Janeiro | Implementado | `doweb.rio.rj.gov.br` | Sim | API por data e PDF oficial por edição, incluindo suplementos. |
+| Niterói | Implementado | `diariooficial.niteroi.rj.gov.br` | Não | PDF diário por data, no padrão `do/AAAA/MM_Mes/DD.pdf`. |
+| Campos dos Goytacazes | Implementado | [Portal municipal](https://campos.rj.gov.br/diario-oficial/) | Não | Índice público com PDFs, suplementos e cadernos adicionais. |
+| Duque de Caxias | Implementado | Portal da [Transparência](https://transparencia.duquedecaxias.rj.gov.br/diario_oficial_busca.php) | Sim | Catálogo mensal oficial em JSON, com PDFs obtidos por `diario_oficial_get_anexo.php?codigo=...`. |
+| Nova Iguaçu | Implementado | [Portal municipal](https://doweb.novaiguacu.rj.gov.br/portal/diario-oficial) | Não | Filtro oficial por data e links de PDF por edição, incluindo edições extras. |
+| São Gonçalo | Implementado | [Portal municipal](https://www.saogoncalo.rj.gov.br/servico/diario-oficial/) | Não | Arquivo diário previsível em `https://do.pmsg.rj.gov.br/diario/AAAA_MM_DD.pdf`; o formulário oficial por data abre esse mesmo PDF. |
+| Demais municípios | Pendente | Parte IV do DOERJ como cobertura inicial | — | Cada portal precisa ser mapeado e integrado conforme sua tecnologia e acervo. |
 
 O teste da fonte de Duque de Caxias confirmou que o código `4901` redireciona para o Boletim Oficial nº 7778, de 02/09/2026. A edição de código `4823`, de 31/07/2026, contém atos de exoneração. O conector usa o catálogo mensal oficial, preserva os volumes de uma mesma data e processa cada PDF publicado.
 
