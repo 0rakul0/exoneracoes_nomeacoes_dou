@@ -10,6 +10,9 @@ from diarios_oficiais.base import Edition
 from diarios_oficiais.estadual.am_doe import AmDoeCollector, parse_acts_from_markdown_file as parse_am
 from diarios_oficiais.estadual.df_doe import DfDoeCollector, parse_acts_from_markdown_file as parse_df
 from diarios_oficiais.estadual.go_doe import GoDoeCollector, parse_acts_from_markdown_file as parse_go
+from diarios_oficiais.estadual.al_doe import AlDoeCollector
+from diarios_oficiais.estadual.ap_doe import ApDoeCollector
+from diarios_oficiais.estadual.ma_doe import MaDoeCollector
 
 
 class AmDfGoTests(unittest.TestCase):
@@ -46,6 +49,36 @@ class AmDfGoTests(unittest.TestCase):
         self.assertEqual(len(editions), 2)
         self.assertIn("INTEGRA", editions[0].section)
         self.assertIn("visualizar-pdf", editions[0].url)
+
+    def test_al_ap_and_ma_catalogs(self):
+        al = AlDoeCollector(delay_seconds=0, max_attempts=1)
+        al.fetch_json = Mock(return_value={"editions": [
+            {"id": 10, "number": 2909, "suplement": False, "publication_date": "2026-10-23T03:00:00.000000Z"},
+            {"id": 11, "number": 2909, "suplement": True, "publication_date": "2026-10-23T03:00:00.000000Z"},
+        ]})
+        al_editions = al.list_editions(date(2026, 10, 23))
+        self.assertEqual(len(al_editions), 2)
+        self.assertIn("Suplemento", al_editions[1].section)
+        self.assertIn("downloadPdf/10", al_editions[0].url)
+
+        ap = ApDoeCollector(delay_seconds=0, max_attempts=1)
+        ap.fetch_json = Mock(return_value={"erro": False, "itens": [
+            {"id": 20, "numero": 8769, "suplemento": 0, "tipo_edicao_nome": "Diário Oficial"},
+        ]})
+        ap_editions = ap.list_editions(date(2026, 10, 23))
+        self.assertEqual(len(ap_editions), 1)
+        self.assertIn("8769", ap_editions[0].section)
+
+        ma = MaDoeCollector(delay_seconds=0, max_attempts=1)
+        ma.fetch_json = Mock(side_effect=[
+            {"cadernos": {"EX": {"listCadernos": [
+                {"volume": "Vol. 150, ", "numero": "No. 192", "dataPublicacao": "23/10/2026", "arquivo": "EX20261023"},
+            ]}}},
+            *([{"cadernos": {}}] * 7),
+        ])
+        ma_editions = ma.list_editions(date(2026, 10, 23))
+        self.assertEqual(len(ma_editions), 1)
+        self.assertIn("EX20261023", ma_editions[0].url)
 
     def parse(self, collector, parser, state, text):
         path = self.root / state / "edicao_2026-10-23.md"

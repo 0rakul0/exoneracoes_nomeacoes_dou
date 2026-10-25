@@ -31,6 +31,9 @@ from diarios_oficiais.estadual.ms_doe import collect_ms
 from diarios_oficiais.estadual.am_doe import collect_am
 from diarios_oficiais.estadual.df_doe import collect_df
 from diarios_oficiais.estadual.go_doe import collect_go
+from diarios_oficiais.estadual.al_doe import collect_al
+from diarios_oficiais.estadual.ap_doe import collect_ap
+from diarios_oficiais.estadual.ma_doe import collect_ma
 from diarios_oficiais.municipal.rio_de_janeiro import collect_rio_de_janeiro
 from diarios_oficiais.municipal.rj_municipalidades import collect_rj_municipalidades
 from diarios_oficiais.municipal.niteroi import collect_niteroi
@@ -145,9 +148,12 @@ COLLECTORS_BY_STATE: dict[str, Callable[..., int]] = {
     "AM": collect_am,
     "DF": collect_df,
     "GO": collect_go,
+    "AL": collect_al,
+    "AP": collect_ap,
+    "MA": collect_ma,
 }
 
-STATES_TO_COLLECT = ["RJ", "SP", "ES", "BA", "SC", "PR", "RS", "PB", "AC", "CE", "MG", "MT", "MS", "AM", "DF", "GO"]
+STATES_TO_COLLECT = ["AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "GO", "MA", "MG", "MS", "MT", "PB", "PR", "RJ", "RS", "SC", "SP"]
 
 
 MUNICIPAL_RJ_COLLECTORS: list[tuple[str, Callable[[date | None, date | None], int]]] = [
@@ -519,6 +525,18 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument("--go-retroativo", action="store_true", help="Coleta GO da data final para trás até GO_START_DATE ou --go-data-inicial.")
     parser.add_argument("--go-data-inicial", type=date.fromisoformat, help="Data inicial da coleta de GO (YYYY-MM-DD).")
     parser.add_argument("--go-data-final", type=date.fromisoformat, help="Data final da coleta de GO (YYYY-MM-DD).")
+    parser.add_argument("--coletar-al", action="store_true", help="Coleta o Diário Oficial de Alagoas.")
+    parser.add_argument("--al-retroativo", action="store_true", help="Coleta AL da data final para trás até AL_START_DATE ou --al-data-inicial.")
+    parser.add_argument("--al-data-inicial", type=date.fromisoformat, help="Data inicial da coleta de AL (YYYY-MM-DD).")
+    parser.add_argument("--al-data-final", type=date.fromisoformat, help="Data final da coleta de AL (YYYY-MM-DD).")
+    parser.add_argument("--coletar-ap", action="store_true", help="Coleta o Diário Oficial do Amapá.")
+    parser.add_argument("--ap-retroativo", action="store_true", help="Coleta AP da data final para trás até AP_START_DATE ou --ap-data-inicial.")
+    parser.add_argument("--ap-data-inicial", type=date.fromisoformat, help="Data inicial da coleta de AP (YYYY-MM-DD).")
+    parser.add_argument("--ap-data-final", type=date.fromisoformat, help="Data final da coleta de AP (YYYY-MM-DD).")
+    parser.add_argument("--coletar-ma", action="store_true", help="Coleta o Diário Oficial do Maranhão.")
+    parser.add_argument("--ma-retroativo", action="store_true", help="Coleta MA da data final para trás até MA_START_DATE ou --ma-data-inicial.")
+    parser.add_argument("--ma-data-inicial", type=date.fromisoformat, help="Data inicial da coleta de MA (YYYY-MM-DD).")
+    parser.add_argument("--ma-data-final", type=date.fromisoformat, help="Data final da coleta de MA (YYYY-MM-DD).")
     return parser
 
 
@@ -844,6 +862,9 @@ def main() -> int:
         ("AM", collect_am, "am", args.coletar_am or args.am_data_inicial or args.am_retroativo),
         ("DF", collect_df, "df", args.coletar_df or args.df_data_inicial or args.df_retroativo),
         ("GO", collect_go, "go", args.coletar_go or args.go_data_inicial or args.go_retroativo),
+        ("AL", collect_al, "al", args.coletar_al or args.al_data_inicial or args.al_retroativo),
+        ("AP", collect_ap, "ap", args.coletar_ap or args.ap_data_inicial or args.ap_retroativo),
+        ("MA", collect_ma, "ma", args.coletar_ma or args.ma_data_inicial or args.ma_retroativo),
     ):
         data_final = getattr(args, f"{prefix}_data_final")
         data_inicial = getattr(args, f"{prefix}_data_inicial")
@@ -866,7 +887,7 @@ def main() -> int:
     total_by_state: dict[str, int] = {}
     for state in STATES_TO_COLLECT:
         try:
-            if state in {"RJ", "SP", "MG", "MT", "MS", "AM", "DF", "GO"}:
+            if state in {"RJ", "SP", "MG", "MT", "MS", "AM", "DF", "GO", "AL", "AP", "MA"}:
                 total_by_state[state] = COLLECTORS_BY_STATE[state](
                     pular_anos_completos=not args.ignorar_year_complete,
                 )
