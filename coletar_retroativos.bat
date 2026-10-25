@@ -70,6 +70,31 @@ call "%~dp0coletar_pi_retroativo.bat"
 if errorlevel 1 goto erro
 
 echo.
+echo Coleta retroativa especifica de RN...
+call "%~dp0coletar_rn_retroativo.bat"
+if errorlevel 1 goto erro
+
+echo.
+echo Coleta retroativa especifica de RO...
+call "%~dp0coletar_ro_retroativo.bat"
+if errorlevel 1 goto erro
+
+echo.
+echo Coleta retroativa especifica de RR...
+call "%~dp0coletar_rr_retroativo.bat"
+if errorlevel 1 goto erro
+
+echo.
+echo Coleta retroativa especifica de SE...
+call "%~dp0coletar_se_retroativo.bat"
+if errorlevel 1 goto erro
+
+echo.
+echo Coleta retroativa especifica de TO...
+call "%~dp0coletar_to_retroativo.bat"
+if errorlevel 1 goto erro
+
+echo.
 echo Todas as coletas retroativas foram concluidas.
 exit /b 0
 

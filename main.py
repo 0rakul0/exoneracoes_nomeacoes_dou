@@ -37,6 +37,11 @@ from diarios_oficiais.estadual.ma_doe import collect_ma
 from diarios_oficiais.estadual.pa_doe import collect_pa
 from diarios_oficiais.estadual.pe_doe import collect_pe
 from diarios_oficiais.estadual.pi_doe import collect_pi
+from diarios_oficiais.estadual.ro_doe import collect_ro
+from diarios_oficiais.estadual.rn_doe import collect_rn
+from diarios_oficiais.estadual.rr_doe import collect_rr
+from diarios_oficiais.estadual.se_doe import collect_se
+from diarios_oficiais.estadual.to_doe import collect_to
 from diarios_oficiais.municipal.rio_de_janeiro import collect_rio_de_janeiro
 from diarios_oficiais.municipal.rj_municipalidades import collect_rj_municipalidades
 from diarios_oficiais.municipal.niteroi import collect_niteroi
@@ -157,9 +162,14 @@ COLLECTORS_BY_STATE: dict[str, Callable[..., int]] = {
     "PA": collect_pa,
     "PE": collect_pe,
     "PI": collect_pi,
+    "RN": collect_rn,
+    "RO": collect_ro,
+    "RR": collect_rr,
+    "SE": collect_se,
+    "TO": collect_to,
 }
 
-STATES_TO_COLLECT = ["AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "GO", "MA", "MG", "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ", "RS", "SC", "SP"]
+STATES_TO_COLLECT = ["AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "GO", "MA", "MG", "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ", "RN", "RO", "RR", "RS", "SC", "SE", "SP", "TO"]
 
 
 MUNICIPAL_RJ_COLLECTORS: list[tuple[str, Callable[[date | None, date | None], int]]] = [
@@ -555,6 +565,11 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument("--pi-retroativo", action="store_true", help="Coleta PI da data final para trás até PI_START_DATE ou --pi-data-inicial.")
     parser.add_argument("--pi-data-inicial", type=date.fromisoformat, help="Data inicial da coleta de PI (YYYY-MM-DD).")
     parser.add_argument("--pi-data-final", type=date.fromisoformat, help="Data final da coleta de PI (YYYY-MM-DD).")
+    for prefix, label in (("rn", "Rio Grande do Norte"), ("ro", "Rondônia"), ("rr", "Roraima"), ("se", "Sergipe"), ("to", "Tocantins")):
+        parser.add_argument(f"--coletar-{prefix}", action="store_true", help=f"Coleta o Diário Oficial de {label}.")
+        parser.add_argument(f"--{prefix}-retroativo", action="store_true", help=f"Coleta {prefix.upper()} da data final para trás até {prefix.upper()}_START_DATE ou --{prefix}-data-inicial.")
+        parser.add_argument(f"--{prefix}-data-inicial", type=date.fromisoformat, help=f"Data inicial da coleta de {prefix.upper()} (YYYY-MM-DD).")
+        parser.add_argument(f"--{prefix}-data-final", type=date.fromisoformat, help=f"Data final da coleta de {prefix.upper()} (YYYY-MM-DD).")
     return parser
 
 
@@ -886,6 +901,11 @@ def main() -> int:
         ("PA", collect_pa, "pa", args.coletar_pa or args.pa_data_inicial or args.pa_retroativo),
         ("PE", collect_pe, "pe", args.coletar_pe or args.pe_data_inicial or args.pe_retroativo),
         ("PI", collect_pi, "pi", args.coletar_pi or args.pi_data_inicial or args.pi_retroativo),
+        ("RN", collect_rn, "rn", args.coletar_rn or args.rn_data_inicial or args.rn_retroativo),
+        ("RO", collect_ro, "ro", args.coletar_ro or args.ro_data_inicial or args.ro_retroativo),
+        ("RR", collect_rr, "rr", args.coletar_rr or args.rr_data_inicial or args.rr_retroativo),
+        ("SE", collect_se, "se", args.coletar_se or args.se_data_inicial or args.se_retroativo),
+        ("TO", collect_to, "to", args.coletar_to or args.to_data_inicial or args.to_retroativo),
     ):
         data_final = getattr(args, f"{prefix}_data_final")
         data_inicial = getattr(args, f"{prefix}_data_inicial")
@@ -908,7 +928,7 @@ def main() -> int:
     total_by_state: dict[str, int] = {}
     for state in STATES_TO_COLLECT:
         try:
-            if state in {"RJ", "SP", "MG", "MT", "MS", "AM", "DF", "GO", "AL", "AP", "MA", "PA", "PE", "PI"}:
+            if state in {"RJ", "SP", "MG", "MT", "MS", "AM", "DF", "GO", "AL", "AP", "MA", "PA", "PE", "PI", "RN", "RO", "RR", "SE", "TO"}:
                 total_by_state[state] = COLLECTORS_BY_STATE[state](
                     pular_anos_completos=not args.ignorar_year_complete,
                 )

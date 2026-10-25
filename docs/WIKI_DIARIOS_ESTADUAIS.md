@@ -52,9 +52,14 @@ uma atualização normal, a coleta retoma pela última data encontrada em
 | PI | DOE-PI `DOEPI` | [Diário Oficial do Piauí](https://www.diario.pi.gov.br/doe/) | Sim | `POST /doe/Api/listardiarios.json`; o catálogo retorna o link PDF |
 | PR | DIOE-PR `DOEP` | [DIOE-PR](https://www.dioe.pr.gov.br/) | Sim | Catálogo de últimas edições; download por ID |
 | RJ | DOERJ `DOERJ` | [IOERJ](https://www.ioerj.com.br/portal/modules/conteudoonline/) | Não | Formulários HTML por data; preserva as partes e extras retornados |
+| RN | DOE-RN `DOERN` | [Diário Oficial do RN](https://www.diariooficial.rn.gov.br/dei/dorn3/default.aspx) | Não | URLs oficiais `webdisk.../Jornal/1AAAA-MM-DD.pdf` e sufixo `E` para extras |
+| RO | DOE-RO `DOERO` | [DIOF-RO](https://diof.ro.gov.br/?secao=22&tipo=secao) | Não | URL oficial previsível `data/uploads/AAAA/MM/DOE-DD-MM-AAAA.pdf` |
+| RR | DOE-RR `DOERR` | [Imprensa Oficial de Roraima](https://imprensaoficial.rr.gov.br/) | Não | Catálogo HTML mensal; POST do formulário oficial para obter o PDF |
 | RS | DOE-RS `DOERS` | [DOE-RS](https://doe.rs.gov.br/) | Sim | Backend público por data/tipo; PDF por ID |
 | SC | DOE-SC `DOESC` | [Repositório DOE-SC](https://portal.doe.sea.sc.gov.br/) | Não | Sondagem `HEAD` no padrão de caminho do repositório |
+| SE | DOE-SE `DOESE` | [IOSE](https://iose.se.gov.br/diario-oficial) | Sim, catálogo; download condicionado | JSON `edicoes_from_data/AAAA-MM-DD.json`; download oficial por ID, sujeito a acesso/certificado |
 | SP | DOE-SP `DOESP` | [DOE-SP](https://doe.sp.gov.br/) | Sim | APIs públicas de jornais, seções e URL de PDF |
+| TO | DOE-TO `DOETO` | [Diário Oficial do Tocantins](https://diariooficial.to.gov.br/) | Não | Busca HTML oficial por intervalo de data; download direto por ID |
 
 ## Detalhes por estado
 
@@ -164,6 +169,23 @@ Não há API pública usada pelo coletor. A IOERJ é consultada por formulários
 HTML e cada parte do DOERJ é salva separadamente, inclusive extras e
 municipalidades quando retornados.
 
+### RN — Rio Grande do Norte
+
+O portal apresenta o catálogo e os PDFs no domínio oficial `webdisk`. O
+coletor testa a edição normal (`1AAAA-MM-DD.pdf`) e a edição extra
+(`1AAAA-MM-DDE.pdf`) sem depender de API.
+
+### RO — Rondônia
+
+O DIOF-RO publica PDFs com caminho previsível por ano, mês e data. O coletor
+faz sondagem da URL oficial `DOE-DD-MM-AAAA.pdf`; não há API pública usada.
+
+### RR — Roraima
+
+O portal publica um catálogo HTML mensal. Cada registro contém os campos do
+formulário oficial, incluindo o caminho do PDF; o coletor envia esses campos
+por `POST` ao visualizador oficial e valida a resposta como PDF.
+
 ### RS — Rio Grande do Sul
 
 Usa o backend público do DOE-RS para consultar data e tipo de diário. O PDF
@@ -174,11 +196,25 @@ oficial é baixado por ID e convertido para o formato comum do projeto.
 Não possui API pública usada pelo projeto. O coletor testa o repositório oficial
 por `HEAD`, identifica a edição ordinária ou extra e baixa o PDF existente.
 
+### SE — Sergipe
+
+O catálogo diário é público em JSON e retorna edição principal e suplemento.
+O download oficial é preservado por ID. Em validação de 2026, algumas rotas
+retornaram a página HTML de acesso da IOSE em vez do PDF; nesse caso a falha é
+registrada sem inventar um arquivo. O coletor está pronto para processar o
+PDF quando o acesso público/certificado estiver disponível.
+
 ### SP — São Paulo
 
 Usa as APIs atuais do DOE-SP para jornais, seções e URLs de PDF. O coletor
 regular cobre o acervo atual; o acervo legado da Seção II do Executivo possui
 comando separado.
+
+### TO — Tocantins
+
+Não foi identificada uma API pública necessária. O coletor consulta a busca
+oficial por intervalo de datas, extrai o número e o ID da edição e baixa o PDF
+em `doe.to.gov.br/diario/<id>/download`.
 
 ## Formato dos dados
 
@@ -218,6 +254,11 @@ Coleta de uma data:
 python main.py --coletar-pa --pa-data-inicial 2026-10-23 --pa-data-final 2026-10-23
 python main.py --coletar-pe --pe-data-inicial 2026-10-23 --pe-data-final 2026-10-23
 python main.py --coletar-pi --pi-data-inicial 2026-10-23 --pi-data-final 2026-10-23
+python main.py --coletar-rn --rn-data-inicial 2026-10-23 --rn-data-final 2026-10-23
+python main.py --coletar-ro --ro-data-inicial 2026-10-23 --ro-data-final 2026-10-23
+python main.py --coletar-rr --rr-data-inicial 2026-10-23 --rr-data-final 2026-10-23
+python main.py --coletar-se --se-data-inicial 2026-10-23 --se-data-final 2026-10-23
+python main.py --coletar-to --to-data-inicial 2026-10-23 --to-data-final 2026-10-23
 ```
 
 Coleta retroativa por estado:
@@ -226,6 +267,11 @@ Coleta retroativa por estado:
 .\coletar_pa_retroativo.bat
 .\coletar_pe_retroativo.bat
 .\coletar_pi_retroativo.bat
+.\coletar_rn_retroativo.bat
+.\coletar_ro_retroativo.bat
+.\coletar_rr_retroativo.bat
+.\coletar_se_retroativo.bat
+.\coletar_to_retroativo.bat
 ```
 
 Coleta retroativa de todos os estados que possuem BAT:
