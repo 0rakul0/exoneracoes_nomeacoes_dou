@@ -6,7 +6,7 @@ Dashboard temporal publicado: <https://dash-temporal.onrender.com/>
 
 Este repositorio e o ambiente de desenvolvimento. O deploy do dashboard e feito pelo repositorio `D:\github\dash_temporal`, que mantem uma versao enxuta do app para o Render. Ao atualizar o painel publicado, suba para la apenas os arquivos finais de `saida/consolidado`.
 
-Os dados brutos do lake sao armazenados fora do repositorio, em `G:\LAKE`, conforme `diarios_oficiais/config.py`. Os caminhos abaixo que aparecem como `LAKE/...` sao relativos a essa raiz externa.
+Os dados brutos do lake sao armazenados na pasta `LAKE` do projeto (`G:\exoneracoes_nomeacoes_dou\LAKE`), conforme `diarios_oficiais/config.py`. Os caminhos abaixo que aparecem como `LAKE/...` sao relativos a essa raiz.
 
 ## Objetivos
 
@@ -54,7 +54,7 @@ Esta tabela registra o caminho oficial usado por cada coletor, os endpoints de l
 Todos os coletores estaduais gravam os textos convertidos no padrão:
 
 ```text
-G:\LAKE\<UF>\<ano>\<mes>\<sigla>_<caderno>_<AAAA-MM-DD>.md
+LAKE\<UF>\<ano>\<mes>\<sigla>_<caderno>_<AAAA-MM-DD>.md
 ```
 
 Os CSVs anuais seguem o padrão:
@@ -63,7 +63,7 @@ Os CSVs anuais seguem o padrão:
 saida\<UF>\<sigla>_<ano>.csv
 ```
 
-No código, `LAKE_DIR` fica configurado como `G:\LAKE` em
+No código, `LAKE_DIR` fica configurado como `PROJECT_ROOT / "LAKE"` em
 [`diarios_oficiais/config.py`](diarios_oficiais/config.py). A coluna `fonte_url`
 preserva a URL oficial da edição ou da consulta que originou o registro.
 
@@ -81,7 +81,7 @@ python main.py --coletar-go --go-data-inicial 2026-01-01 --go-data-final 2026-12
 .\coletar_go_retroativo.bat
 ```
 
-AM e GO consultam a API pública do catálogo e baixam o PDF oficial por identificador. O coletor de GO preserva a edição principal e o suplemento quando a API retorna ambos. O DODF não expõe uma API pública equivalente: o coletor consulta a página diária oficial, lê os links estruturados `lstLinkPdf` e baixa a edição principal e os extras. Os três gravam Markdown em `G:\LAKE\<UF>\AAAA\MM` e CSV anual em `saida\<UF>`.
+AM e GO consultam a API pública do catálogo e baixam o PDF oficial por identificador. O coletor de GO preserva a edição principal e o suplemento quando a API retorna ambos. O DODF não expõe uma API pública equivalente: o coletor consulta a página diária oficial, lê os links estruturados `lstLinkPdf` e baixa a edição principal e os extras. Os três gravam Markdown em `LAKE\<UF>\AAAA\MM` e CSV anual em `saida\<UF>`.
 
 ## Análise Exploratória das Movimentações
 
