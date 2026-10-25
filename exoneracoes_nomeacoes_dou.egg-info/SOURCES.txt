@@ -16,15 +16,9 @@ diarios_oficiais/sp_doe.py
 diarios_oficiais/coletor/__init__.py
 diarios_oficiais/coletor/baixar_rj_ioerj.py
 diarios_oficiais/dashboard/__init__.py
-diarios_oficiais/dashboard/painel_normativas_isp.py
 diarios_oficiais/extrator/__init__.py
 diarios_oficiais/extrator/extrair_atos_rj.py
-diarios_oficiais/extrator/extrair_normativas_isp_rj.py
-diarios_oficiais/tratamentos/ISP.py
 diarios_oficiais/tratamentos/deduplicar_atos_anuais.py
-diarios_oficiais/tratamentos/gerar_cache_dashboard_isp.py
-diarios_oficiais/tratamentos/gerar_matriz_cisp_alteracoes.py
-diarios_oficiais/tratamentos/tratar_normativas_area_atuacao_isp.py
 diarios_oficiais/utils_regex/__init__.py
 diarios_oficiais/utils_regex/common.py
 diarios_oficiais/utils_regex/rj_ioerj.py
