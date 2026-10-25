@@ -55,6 +55,21 @@ call "%~dp0coletar_ma_retroativo.bat"
 if errorlevel 1 goto erro
 
 echo.
+echo Coleta retroativa especifica de PA...
+call "%~dp0coletar_pa_retroativo.bat"
+if errorlevel 1 goto erro
+
+echo.
+echo Coleta retroativa especifica de PE...
+call "%~dp0coletar_pe_retroativo.bat"
+if errorlevel 1 goto erro
+
+echo.
+echo Coleta retroativa especifica de PI...
+call "%~dp0coletar_pi_retroativo.bat"
+if errorlevel 1 goto erro
+
+echo.
 echo Todas as coletas retroativas foram concluidas.
 exit /b 0
 

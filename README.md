@@ -1,6 +1,6 @@
 # Exoneracoes e nomeacoes nos diarios oficiais
 
-Este projeto cria uma base historica de atos de exoneracao e nomeacao publicados em diarios oficiais brasileiros. A coleta estadual integrada cobre AC, AL, AM, AP, BA, CE, DF, ES, GO, MA, MG, MS, MT, PB, PR, RJ, RS, SC e SP, preservando a fonte oficial, o caderno, o Markdown e o CSV anual de cada edicao.
+Este projeto cria uma base historica de atos de exoneracao e nomeacao publicados em diarios oficiais brasileiros. A coleta estadual integrada cobre AC, AL, AM, AP, BA, CE, DF, ES, GO, MA, MG, MS, MT, PA, PB, PE, PI, PR, RJ, RS, SC e SP, preservando a fonte oficial, o caderno, o Markdown e o CSV anual de cada edicao.
 
 Dashboard temporal publicado: <https://dash-temporal.onrender.com/>
 
@@ -46,8 +46,11 @@ Esta tabela registra o caminho oficial usado por cada coletor, os endpoints de l
 | MG | Diário do Executivo / `DOEMG` | `diarios_oficiais/estadual/mg_doe.py` | [Jornal Minas Gerais](https://www.jornalminasgerais.mg.gov.br/) | `https://www.jornalminasgerais.mg.gov.br/api/v1/`, incluindo `Jornal/ListarEdicoesParaCalendario` e `Jornal/ObterEdicaoPorDataPublicacao` | `Caderno/ObterArquivoCadernoPorId` | Sim |
 | MS | Diário Oficial / `DOEMS` | `diarios_oficiais/estadual/ms_doe.py` | [Diário Oficial de MS](https://www.diariooficial.ms.gov.br/) | `/api/diarios/listar-todos/?pagina=...&dataInicial=AAAA-MM-DD&dataFinal=AAAA-MM-DD` | `caminhoArquivo` retornado, normalmente no domínio `assets.imprensaoficial.ms.gov.br` | Sim |
 | MT | Diário Oficial / `DOEMT` | `diarios_oficiais/estadual/mt_doe.py` | [IOMAT — transparência](https://api.iomat.mt.gov.br/transparencia/swagger) | `https://api.iomat.mt.gov.br/transparencia/v1/diarios/1/edicoes?data=AAAA-MM-DD` | `/diarios/1/edicoes/<id>/download?formato=pdf` | Sim |
+| PA | DOE-PA / `DOEPA` | `diarios_oficiais/estadual/pa_doe.py` | [IOEPA](https://www.ioepa.com.br/portal/) | Sondagem dos PDFs oficiais `pages/AAAA/AAAA.MM.DD.DOE.pdf` e `EXTRA.pdf` | URL direta do PDF oficial | Não (URL oficial direta) |
 | PB | DJE-PB / `DJEPB` | `diarios_oficiais/estadual/pb_dje.py` | [DJE do TJPB](https://app.tjpb.jus.br/dje/paginas/diario_justica/publico/buscas.jsf) | Não há listagem API usada; o coletor testa a data | `https://app.tjpb.jus.br/dje/rest/ultimosdiarios/diario/DD_MM_AAAA.pdf` | Não |
 | PB | DOE-PB / `DOEPB` | `diarios_oficiais/estadual/pb_doe.py` | [A União — DOE](https://auniao.pb.gov.br/servicos/doe) | Índice HTML mensal em `servicos/doe/<ano>/<mes>` | Links de PDF encontrados no índice | Não |
+| PE | DOE-PE / `DOEPE` | `diarios_oficiais/estadual/pe_doe.py` | [CEPE — Diário Oficial](https://portal.cepe.com.br/diario-oficial) | `/diariooficial/public/visualizar-jornal/buscarJornal` e `buscarJornalExtra` | Objeto oficial no endpoint S3 `cepebr-prod`, em `arquivos/resumoDiario` | Sim |
+| PI | DOE-PI / `DOEPI` | `diarios_oficiais/estadual/pi_doe.py` | [Diário Oficial do Piauí](https://www.diario.pi.gov.br/doe/) | `POST /doe/Api/listardiarios.json` com filtro de data | Link PDF retornado pelo catálogo oficial | Sim |
 | PR | DIOE-PR / `DOEP` | `diarios_oficiais/estadual/pr_dioe.py` | [DIOE-PR](https://www.dioe.pr.gov.br/) | `apifront/portal/edicoes/ultimas_edicoes.json?sem_limite=1&todos=1` | `portal/edicoes/download/<id>` | Sim |
 | RJ | DOERJ / `DOERJ` | `diarios_oficiais/estadual/rj_ioerj.py` | [IOERJ](https://www.ioerj.com.br/portal/modules/conteudoonline/) | `do_seleciona_data.php` e `do_seleciona_edicao.php?data=AAAA-MM-DD` | `mostra_edicao.php?k=...` descoberto na página da edição | Não |
 | RS | DOE-RS / `DOERS` | `diarios_oficiais/estadual/rs_doe.py` | [Backend oficial do DOE-RS](https://doe-backend.pro.rs.gov.br/) | `public/diarios/consultar/` com data e tipo do diário | `public/diarios/download/<id>/pdf` | Sim |
@@ -70,7 +73,7 @@ No código, `LAKE_DIR` fica configurado como `PROJECT_ROOT / "LAKE"` em
 [`diarios_oficiais/config.py`](diarios_oficiais/config.py). A coluna `fonte_url`
 preserva a URL oficial da edição ou da consulta que originou o registro.
 
-### Coletores AM, DF e GO
+### Coletores estaduais adicionais
 
 Os três coletores também podem ser executados isoladamente ou em modo retroativo:
 
@@ -81,6 +84,9 @@ python main.py --coletar-go --go-data-inicial 2026-01-01 --go-data-final 2026-12
 python main.py --coletar-al --al-data-inicial 2026-01-01 --al-data-final 2026-12-31
 python main.py --coletar-ap --ap-data-inicial 2026-01-01 --ap-data-final 2026-12-31
 python main.py --coletar-ma --ma-data-inicial 2026-01-01 --ma-data-final 2026-12-31
+python main.py --coletar-pa --pa-data-inicial 2026-01-01 --pa-data-final 2026-12-31
+python main.py --coletar-pe --pe-data-inicial 2026-01-01 --pe-data-final 2026-12-31
+python main.py --coletar-pi --pi-data-inicial 2026-01-01 --pi-data-final 2026-12-31
 
 .\coletar_am_retroativo.bat
 .\coletar_df_retroativo.bat
@@ -88,11 +94,14 @@ python main.py --coletar-ma --ma-data-inicial 2026-01-01 --ma-data-final 2026-12
 .\coletar_al_retroativo.bat
 .\coletar_ap_retroativo.bat
 .\coletar_ma_retroativo.bat
+.\coletar_pa_retroativo.bat
+.\coletar_pe_retroativo.bat
+.\coletar_pi_retroativo.bat
 ```
 
 AM e GO consultam a API pública do catálogo e baixam o PDF oficial por identificador. O coletor de GO preserva a edição principal e o suplemento quando a API retorna ambos. O DODF não expõe uma API pública equivalente: o coletor consulta a página diária oficial, lê os links estruturados `lstLinkPdf` e baixa a edição principal e os extras. Os três gravam Markdown em `LAKE\<UF>\AAAA\MM` e CSV anual em `saida\<UF>`.
 
-AL consulta a API mensal da Imprensa Oficial e preserva edições principais e suplementos. AP usa o catálogo diário público do DIOFE. MA consulta o acervo mensal por caderno, incluindo Executivo, Judiciário, Terceiros, suplementos e extras.
+AL consulta a API mensal da Imprensa Oficial e preserva edições principais e suplementos. AP usa o catálogo diário público do DIOFE. MA consulta o acervo mensal por caderno, incluindo Executivo, Judiciário, Terceiros, suplementos e extras. PA usa os PDFs diários oficiais da IOEPA; PE consulta o catálogo público da CEPE e o armazenamento oficial dos resumos; PI consulta o catálogo POST público e baixa os PDFs vinculados.
 
 ## Análise Exploratória das Movimentações
 
@@ -277,7 +286,7 @@ Para forcar a rechecagem de anos marcados como completos:
 .\.venv\Scripts\python.exe main.py --ignorar-year-complete
 ```
 
-A coleta ativa executa `RJ`, `SP`, `ES`, `BA`, `SC`, `PR`, `RS`, `PB`, `AC`, `CE`, `MG`, `MT`, `MS`, `AM`, `DF`, `GO`, `AL`, `AP` e `MA`, definidos em `STATES_TO_COLLECT`; todos também podem ser executados isoladamente por seus respectivos argumentos. A coleta estadual preserva todos os cadernos publicados pela fonte: no RJ, todas as partes retornadas pela IOERJ; em SP, todos os jornais e cadernos retornados pela API do DOESP; no ES, o PDF diário consolidado completo, inclusive `ATOS MUNICIPAIS`; na BA, o DOE estadual, o Diário Oficial Eletrônico do Legislativo (DOEL/BA) e todos os cadernos do Diário da Justiça Eletrônico (DJE/BA); no SC, o texto integral dos PDFs do repositório oficial; no PR, todos os tipos de edição retornados pelo catálogo público do DIOE; no RS, o PDF oficial do DOE-e; na PB, o DOE/PB consolidado e o Diário da Justiça Eletrônico do TJPB; no AC, todas as edições e extras do DOE/AC e o Diário da Justiça Eletrônico do TJAC; no CE, todos os cadernos retornados pelo [DOE/CE](https://www.ce.gov.br/diario-oficial/); no MG, o Diário do Executivo e edições extras; no MT, a edição oficial e edições extras; no MS, a edição principal e suplementos; no AM, as edições retornadas pela API do DOE-AM; no DF, a edição principal e os extras publicados no DODF; em GO, a edição principal e os suplementos retornados pela API; em AL, a edição principal e suplementos retornados pela API mensal; em AP, as edições retornadas pelo catálogo diário; e em MA, os cadernos retornados pelo acervo mensal. Cada coletor identifica a ultima data ja armazenada em `LAKE/<UF>` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. O PDF certificado do DOE/BA exige login, por isso sua coleta publica usa a versão HTML oficial; os demais cadernos separados usam os PDFs oficiais dos respectivos portais. Os Markdown existentes sao reutilizados. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`); para SP, ela inicia em `SP_START_DATE` (`2024-06-03`), e para ES, BA, SC, PR, RS, PB, AC, CE, MG, MT, MS, AM, DF, GO, AL, AP e MA em suas respectivas constantes `*_START_DATE` (`2026-01-01`). As configuracoes ficam em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
+A coleta ativa executa `RJ`, `SP`, `ES`, `BA`, `SC`, `PR`, `RS`, `PB`, `AC`, `CE`, `MG`, `MT`, `MS`, `AM`, `DF`, `GO`, `AL`, `AP`, `MA`, `PA`, `PE` e `PI`, definidos em `STATES_TO_COLLECT`; todos também podem ser executados isoladamente por seus respectivos argumentos. A coleta estadual preserva todos os cadernos publicados pela fonte: no RJ, todas as partes retornadas pela IOERJ; em SP, todos os jornais e cadernos retornados pela API do DOESP; no ES, o PDF diário consolidado completo, inclusive `ATOS MUNICIPAIS`; na BA, o DOE estadual, o Diário Oficial Eletrônico do Legislativo (DOEL/BA) e todos os cadernos do Diário da Justiça Eletrônico (DJE/BA); no SC, o texto integral dos PDFs do repositório oficial; no PR, todos os tipos de edição retornados pelo catálogo público do DIOE; no RS, o PDF oficial do DOE-e; na PB, o DOE/PB consolidado e o Diário da Justiça Eletrônico do TJPB; no AC, todas as edições e extras do DOE/AC e o Diário da Justiça Eletrônico do TJAC; no CE, todos os cadernos retornados pelo [DOE/CE](https://www.ce.gov.br/diario-oficial/); no MG, o Diário do Executivo e edições extras; no MT, a edição oficial e edições extras; no MS, a edição principal e suplementos; no AM, as edições retornadas pela API do DOE-AM; no DF, a edição principal e os extras publicados no DODF; em GO, a edição principal e os suplementos retornados pela API; em AL, a edição principal e suplementos retornados pela API mensal; em AP, as edições retornadas pelo catálogo diário; em MA, os cadernos retornados pelo acervo mensal; em PA, a edição principal e os extras que existirem na URL oficial; em PE, a edição principal e extras retornados pelo portal CEPE; e em PI, as edições retornadas pelo catálogo oficial. Cada coletor identifica a ultima data ja armazenada em `LAKE/<UF>` e retoma a partir dela, inclusive, para completar eventuais cadernos faltantes do ultimo dia antes de buscar datas novas. O PDF certificado do DOE/BA exige login, por isso sua coleta publica usa a versão HTML oficial; os demais cadernos separados usam os PDFs oficiais dos respectivos portais. Os Markdown existentes sao reutilizados. Se o `LAKE/RJ` estiver vazio, a coleta comeca no inicio do ano configurado em `RJ_COLLECTION_YEAR` (`2026`); para SP, ela inicia em `SP_START_DATE` (`2024-06-03`), e para ES, BA, SC, PR, RS, PB, AC, CE, MG, MT, MS, AM, DF, GO, AL, AP, MA, PA, PE e PI em suas respectivas constantes `*_START_DATE` (`2026-01-01`). As configuracoes ficam em `diarios_oficiais/config.py`. A analise temporal fica no script separado em `analise_temporal/analisar_movimentacoes.py`.
 
 ### Limitação de cobertura por Poder
 
