@@ -20,6 +20,30 @@ def _load_consolidated():
     )
 
 
+def load_state_consolidated(state: str):
+    """Carrega os consolidados de uma UF, retornando (retornos, movimentacoes)."""
+    state_dir = CONSOLIDADO_DIR / state.upper()
+    mov_path = state_dir / "movimentacoes.parquet"
+    ret_path = state_dir / "retornos.parquet"
+    if not mov_path.exists() or not ret_path.exists():
+        raise FileNotFoundError(
+            f"Consolidado da UF {state.upper()} nao encontrado em {state_dir}. "
+            "Execute python scripts/consolidar_dados.py."
+        )
+    return pd.read_parquet(ret_path), pd.read_parquet(mov_path)
+
+
+def available_consolidated_states() -> list[str]:
+    """Lista as UFs que possuem os dois arquivos consolidados por estado."""
+    states = []
+    for state_dir in sorted(CONSOLIDADO_DIR.iterdir() if CONSOLIDADO_DIR.exists() else []):
+        if not state_dir.is_dir():
+            continue
+        if (state_dir / "movimentacoes.parquet").exists() and (state_dir / "retornos.parquet").exists():
+            states.append(state_dir.name.upper())
+    return states
+
+
 def _consolidar():
     script = PROJECT_ROOT / "scripts" / "consolidar_dados.py"
     if not script.exists():

@@ -191,6 +191,14 @@ def process_ret(df: pd.DataFrame) -> pd.DataFrame:
     return df[RET_COLUMNS_KEEP]
 
 
+def _write_state_outputs(state: str, mov: pd.DataFrame, ret: pd.DataFrame) -> None:
+    """Grava os dois produtos consolidados na pasta da UF."""
+    state_dir = CONSOLIDADO_DIR / state
+    state_dir.mkdir(parents=True, exist_ok=True)
+    mov.to_parquet(state_dir / "movimentacoes.parquet", index=False, compression="zstd")
+    ret.to_parquet(state_dir / "retornos.parquet", index=False, compression="zstd")
+
+
 def consolidate():
     CONSOLIDADO_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -214,12 +222,20 @@ def consolidate():
         raw_mov["estado"] = state
         raw_ret["estado"] = state
 
-        spacy_empty = raw_ret["spacy_entidades"].fillna("").astype(str).str.strip().eq("")
-        has_per = raw_ret["spacy_entidades"].str.contains(":PER", na=False)
+        spacy_entities = raw_ret["spacy_entidades"].fillna("").astype(str)
+        spacy_empty = spacy_entities.str.strip().eq("")
+        has_per = spacy_entities.str.contains(":PER", na=False)
         raw_ret = raw_ret[has_per | spacy_empty]
 
-        mov_frames.append(process_mov(raw_mov))
-        ret_frames.append(process_ret(raw_ret))
+        state_mov = process_mov(raw_mov)
+        state_ret = process_ret(raw_ret)
+        _write_state_outputs(state, state_mov, state_ret)
+        mov_frames.append(state_mov)
+        ret_frames.append(state_ret)
+        print(
+            f"    {state}: {len(state_mov)} movimentacoes, "
+            f"{len(state_ret)} retornos -> {CONSOLIDADO_DIR / state}"
+        )
 
     if not mov_frames:
         print("ERRO: Nenhum dado encontrado.")
@@ -235,6 +251,7 @@ def consolidate():
     ret.to_parquet(ret_path, index=False, compression="zstd")
 
     print(f"\nOK: Consolidado salvo em {CONSOLIDADO_DIR}")
+    print("  Saidas por UF: saida/consolidado/<UF>/movimentacoes.parquet e retornos.parquet")
     print(f"  movimentacoes.parquet: {len(mov)} linhas, {mov_path.stat().st_size / 1024**2:.1f} MB")
     print(f"  retornos.parquet:      {len(ret)} linhas, {ret_path.stat().st_size / 1024**2:.1f} MB")
 

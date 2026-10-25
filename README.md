@@ -693,7 +693,21 @@ Para atualizar os dados consumidos pelo deploy, sincronize apenas as bases finai
 .\deploy\atualizar_dados_dash_temporal.bat
 ```
 
-Esse atalho chama `D:\github\dash_temporal\atualizar_github.bat`, que copia apenas `saida/consolidado/movimentacoes.parquet` e `saida/consolidado/retornos.parquet` para o repositorio de deploy e faz o commit/push la.
+Esse atalho chama `D:\github\dash_temporal\atualizar_github.bat`, que sincroniza a pasta `saida/consolidado` com o repositorio de deploy e faz o commit/push la. A consolidacao agora gera os dois arquivos por UF:
+
+```text
+saida/consolidado/<UF>/movimentacoes.parquet
+saida/consolidado/<UF>/retornos.parquet
+```
+
+Os arquivos agregados legados continuam sendo gerados diretamente em `saida/consolidado` para manter compatibilidade com consumidores antigos:
+
+```text
+saida/consolidado/movimentacoes.parquet
+saida/consolidado/retornos.parquet
+```
+
+Em Python, use `analise_temporal.services.dados.load_state_consolidated("RJ")` para carregar `(retornos, movimentacoes)` de uma UF ou `available_consolidated_states()` para listar as UFs disponiveis.
 
 O script de análise temporal lê os CSVs anuais em `saida/UF` e grava:
 

@@ -14,6 +14,6 @@ if not exist "%SYNC_SCRIPT%" (
     exit /b 1
 )
 
-echo Sincronizando saida\consolidado para "%DASH_REPO%"...
+echo Sincronizando saida\consolidado (agregado e por UF) para "%DASH_REPO%"...
 call "%SYNC_SCRIPT%"
 exit /b %ERRORLEVEL%
