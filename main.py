@@ -28,6 +28,9 @@ from diarios_oficiais.rodizio_estadual import collect_estaduais_em_rodizio
 from diarios_oficiais.estadual.mg_doe import collect_mg
 from diarios_oficiais.estadual.mt_doe import collect_mt
 from diarios_oficiais.estadual.ms_doe import collect_ms
+from diarios_oficiais.estadual.am_doe import collect_am
+from diarios_oficiais.estadual.df_doe import collect_df
+from diarios_oficiais.estadual.go_doe import collect_go
 from diarios_oficiais.municipal.rio_de_janeiro import collect_rio_de_janeiro
 from diarios_oficiais.municipal.rj_municipalidades import collect_rj_municipalidades
 from diarios_oficiais.municipal.niteroi import collect_niteroi
@@ -139,9 +142,12 @@ COLLECTORS_BY_STATE: dict[str, Callable[..., int]] = {
     "MG": collect_mg,
     "MT": collect_mt,
     "MS": collect_ms,
+    "AM": collect_am,
+    "DF": collect_df,
+    "GO": collect_go,
 }
 
-STATES_TO_COLLECT = ["RJ", "SP", "ES", "BA", "SC", "PR", "RS", "PB", "AC", "CE", "MG", "MT", "MS"]
+STATES_TO_COLLECT = ["RJ", "SP", "ES", "BA", "SC", "PR", "RS", "PB", "AC", "CE", "MG", "MT", "MS", "AM", "DF", "GO"]
 
 
 MUNICIPAL_RJ_COLLECTORS: list[tuple[str, Callable[[date | None, date | None], int]]] = [
@@ -501,6 +507,18 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument("--ms-retroativo", action="store_true", help="Coleta MS da data final para trás até MS_START_DATE ou --ms-data-inicial.")
     parser.add_argument("--ms-data-inicial", type=date.fromisoformat, help="Data inicial da coleta de MS (YYYY-MM-DD).")
     parser.add_argument("--ms-data-final", type=date.fromisoformat, help="Data final da coleta de MS (YYYY-MM-DD).")
+    parser.add_argument("--coletar-am", action="store_true", help="Coleta o Diário Oficial do Amazonas.")
+    parser.add_argument("--am-retroativo", action="store_true", help="Coleta AM da data final para trás até AM_START_DATE ou --am-data-inicial.")
+    parser.add_argument("--am-data-inicial", type=date.fromisoformat, help="Data inicial da coleta de AM (YYYY-MM-DD).")
+    parser.add_argument("--am-data-final", type=date.fromisoformat, help="Data final da coleta de AM (YYYY-MM-DD).")
+    parser.add_argument("--coletar-df", action="store_true", help="Coleta o Diário Oficial do Distrito Federal.")
+    parser.add_argument("--df-retroativo", action="store_true", help="Coleta DF da data final para trás até DF_START_DATE ou --df-data-inicial.")
+    parser.add_argument("--df-data-inicial", type=date.fromisoformat, help="Data inicial da coleta de DF (YYYY-MM-DD).")
+    parser.add_argument("--df-data-final", type=date.fromisoformat, help="Data final da coleta de DF (YYYY-MM-DD).")
+    parser.add_argument("--coletar-go", action="store_true", help="Coleta o Diário Oficial do Estado de Goiás.")
+    parser.add_argument("--go-retroativo", action="store_true", help="Coleta GO da data final para trás até GO_START_DATE ou --go-data-inicial.")
+    parser.add_argument("--go-data-inicial", type=date.fromisoformat, help="Data inicial da coleta de GO (YYYY-MM-DD).")
+    parser.add_argument("--go-data-final", type=date.fromisoformat, help="Data final da coleta de GO (YYYY-MM-DD).")
     return parser
 
 
@@ -822,13 +840,33 @@ def main() -> int:
         print(f"MS: {total} atos novos gravados nos CSVs anuais")
         return 0
 
+    for state, collector, prefix, flag in (
+        ("AM", collect_am, "am", args.coletar_am or args.am_data_inicial or args.am_retroativo),
+        ("DF", collect_df, "df", args.coletar_df or args.df_data_inicial or args.df_retroativo),
+        ("GO", collect_go, "go", args.coletar_go or args.go_data_inicial or args.go_retroativo),
+    ):
+        data_final = getattr(args, f"{prefix}_data_final")
+        data_inicial = getattr(args, f"{prefix}_data_inicial")
+        retroativo = getattr(args, f"{prefix}_retroativo")
+        if data_final and not (data_inicial or retroativo):
+            raise SystemExit(f"Use --{prefix}-data-inicial ou --{prefix}-retroativo junto com --{prefix}-data-final.")
+        if flag:
+            total = collector(
+                pular_anos_completos=not args.ignorar_year_complete,
+                start_date_override=data_inicial,
+                end_date=data_final,
+                retroativo=retroativo,
+            )
+            print(f"{state}: {total} atos novos gravados nos CSVs anuais")
+            return 0
+
     if not args.sem_preload_ocr:
         preload_ocr_models()
 
     total_by_state: dict[str, int] = {}
     for state in STATES_TO_COLLECT:
         try:
-            if state in {"RJ", "SP", "MG", "MT", "MS"}:
+            if state in {"RJ", "SP", "MG", "MT", "MS", "AM", "DF", "GO"}:
                 total_by_state[state] = COLLECTORS_BY_STATE[state](
                     pular_anos_completos=not args.ignorar_year_complete,
                 )
