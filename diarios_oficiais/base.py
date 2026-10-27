@@ -11,6 +11,16 @@ from pathlib import Path
 from tempfile import TemporaryDirectory
 from typing import Any, Iterable
 
+# Usa a store de certificados do sistema operacional antes de importar
+# requests. Isso permite validar portais cuja cadeia e confiavel no Windows,
+# mas nao esta incluida no bundle estatico do certifi.
+try:
+    import truststore
+except ImportError:  # pragma: no cover - compatibilidade com ambientes antigos
+    truststore = None
+else:
+    truststore.inject_into_ssl()
+
 import requests
 import pandas as pd
 

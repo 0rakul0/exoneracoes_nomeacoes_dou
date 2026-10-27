@@ -2,9 +2,12 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 from datetime import date
 from pathlib import Path
 from urllib.parse import urlencode
+
+import requests
 
 from diarios_oficiais.base import Edition
 from diarios_oficiais.estadual.ce_power import CePowerCollector, collect_ce_power
@@ -24,7 +27,16 @@ class CeDoeCollector(CePowerCollector):
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
+        # O proxy do WordPress valida a chamada AJAX pelo mesmo cabecalho
+        # enviado pelo JavaScript oficial do portal.
+        self.session.headers.update(
+            {
+                "X-Requested-With": "XMLHttpRequest",
+                "Referer": BASE_URL,
+            }
+        )
         self._nonce: str | None = None
+        self._auth_failed = False
         self._editions_by_date: dict[date, list[Edition]] = {}
 
     def _get_nonce(self) -> str:
@@ -78,8 +90,22 @@ class CeDoeCollector(CePowerCollector):
         return editions
 
     def list_editions(self, publication_date: date) -> list[Edition]:
+        if self._auth_failed:
+            return []
         if publication_date not in self._editions_by_date:
-            self._editions_by_date[publication_date] = self._search_date(publication_date)
+            try:
+                self._editions_by_date[publication_date] = self._search_date(publication_date)
+            except requests.HTTPError as exc:
+                status_code = exc.response.status_code if exc.response is not None else None
+                if status_code in {401, 403}:
+                    self._auth_failed = True
+                    print(
+                        f"Portal do DOE/CE recusou a autenticacao (HTTP {status_code}); "
+                        "pulando o CE nesta rodada.",
+                        file=sys.stderr,
+                    )
+                    return []
+                raise
         return self._editions_by_date[publication_date]
 
     def parse_acts_from_markdown_file(self, edition: Edition, markdown_path: Path) -> list:

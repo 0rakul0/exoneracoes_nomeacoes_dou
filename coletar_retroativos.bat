@@ -1,105 +1,39 @@
 @echo off
-setlocal
+setlocal EnableExtensions
 
 cd /d "%~dp0"
 
-echo Coleta retroativa dos diarios estaduais em rodizio...
-echo Ordem do rodizio: RJ, SP, ES, BA, SC, PR, RS, PB, AC e CE.
-echo A cada rodada e processado um caderno de cada estado.
+rem Intervalo entre rodadas, em segundos. Padrao: 1 hora.
+set "INTERVALO_SEGUNDOS=3600"
+if not "%~1"=="" set "INTERVALO_SEGUNDOS=%~1"
+
+echo Coleta continua dos 27 diarios estaduais em rodizio.
+echo Intervalo entre rodadas: %INTERVALO_SEGUNDOS% segundos.
+echo Para encerrar, pressione Ctrl+C.
+
+:rodada
+echo.
+echo ==================================================
+echo Inicio da rodada: %DATE% %TIME%
+echo ==================================================
+
+echo Coleta retroativa dos 27 diarios estaduais em rodizio...
+echo A fila alterna um caderno por estado, incluindo todos os estados e o DF.
 call "%~dp0\.venv\Scripts\python.exe" "%~dp0main.py" --estaduais-rodizio-retroativo --ignorar-year-complete
-if errorlevel 1 goto erro
+if errorlevel 1 goto erro_rodada
 
 echo.
-echo Coleta retroativa especifica de MG...
-call "%~dp0coletar_mg_retroativo.bat"
-if errorlevel 1 goto erro
+echo Rodada dos 27 diarios estaduais concluida.
+goto aguardar
 
-echo.
-echo Coleta retroativa especifica de MT...
-call "%~dp0coletar_mt_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de MS...
-call "%~dp0coletar_ms_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de AM...
-call "%~dp0coletar_am_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de DF...
-call "%~dp0coletar_df_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de GO...
-call "%~dp0coletar_go_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de AL...
-call "%~dp0coletar_al_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de AP...
-call "%~dp0coletar_ap_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de MA...
-call "%~dp0coletar_ma_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de PA...
-call "%~dp0coletar_pa_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de PE...
-call "%~dp0coletar_pe_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de PI...
-call "%~dp0coletar_pi_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de RN...
-call "%~dp0coletar_rn_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de RO...
-call "%~dp0coletar_ro_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de RR...
-call "%~dp0coletar_rr_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de SE...
-call "%~dp0coletar_se_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Coleta retroativa especifica de TO...
-call "%~dp0coletar_to_retroativo.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo Todas as coletas retroativas foram concluidas.
-exit /b 0
-
-:erro
+:erro_rodada
 set "CODIGO=%ERRORLEVEL%"
 echo.
-echo A coleta retroativa terminou com erro. Codigo: %CODIGO%
-exit /b %CODIGO%
+echo A rodada terminou com erro. Codigo: %CODIGO%
+echo A proxima tentativa sera feita apos o intervalo configurado.
+
+:aguardar
+echo.
+echo Proxima rodada em %INTERVALO_SEGUNDOS% segundos...
+timeout /t %INTERVALO_SEGUNDOS% /nobreak
+goto rodada

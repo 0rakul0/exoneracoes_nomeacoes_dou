@@ -371,13 +371,13 @@ Para preencher o histórico do CE, partindo da data atual e caminhando para trá
 .\coletar_ce_retroativo.bat
 ```
 
-Para executar todas as coletas retroativas em sequência, use o agregador:
+Para executar continuamente o rodízio retroativo dos 27 diários estaduais, use o agregador:
 
 ```powershell
 .\coletar_retroativos.bat
 ```
 
-O agregador também é executado automaticamente pela atualização diária (`.\rodar_atualizacao_diaria.bat`).
+O agregador alterna um caderno por estado, aguarda uma hora entre as rodadas e não coleta diários municipais. Para interromper, pressione `Ctrl+C`; o intervalo pode ser alterado informando segundos, por exemplo `.\coletar_retroativos.bat 900`.
 
 A atualização diária não executa coletas aos sábados e domingos; ao retroceder pelo histórico, as datas de fim de semana também são ignoradas.
 

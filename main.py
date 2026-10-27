@@ -493,7 +493,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--estaduais-rodizio-retroativo",
         action="store_true",
-        help="Coleta os diários estaduais em rodízio, um caderno por estado, de hoje para trás.",
+        help="Coleta os 27 diários estaduais em rodízio, um caderno por estado, de hoje para trás.",
     )
     parser.add_argument(
         "--ce-data-inicial",

@@ -1,0 +1,2 @@
+timestamp,data_publicacao,caderno,etapa,url,erro
+2026-10-25T01:58:27,2026-10-23,Diario Oficial PE,processar_edicao,https://cepebr-prod.s3.sa-east-1.amazonaws.com/1/arquivos/resumoDiario/24-10-2026/24-10-2026.pdf,Falha ao baixar https://cepebr-prod.s3.sa-east-1.amazonaws.com/1/arquivos/resumoDiario/24-10-2026/24-10-2026.pdf: 403 Client Error: Forbidden for url: https://cepebr-prod.s3.sa-east-1.amazonaws.com/1/arquivos/resumoDiario/24-10-2026/24-10-2026.pdf

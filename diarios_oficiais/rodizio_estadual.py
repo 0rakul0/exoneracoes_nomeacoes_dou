@@ -9,25 +9,93 @@ from pathlib import Path
 from typing import Callable, Iterator
 
 from diarios_oficiais.base import BaseGazetteCollector, Edition
+from diarios_oficiais.estadual.al_doe import (
+    AlDoeCollector,
+    parse_acts_from_markdown_file as parse_al_acts,
+)
 from diarios_oficiais.estadual.ac_doe import AcDoeCollector
 from diarios_oficiais.estadual.ac_dje import AcDjeCollector
+from diarios_oficiais.estadual.am_doe import (
+    AmDoeCollector,
+    parse_acts_from_markdown_file as parse_am_acts,
+)
+from diarios_oficiais.estadual.ap_doe import (
+    ApDoeCollector,
+    parse_acts_from_markdown_file as parse_ap_acts,
+)
 from diarios_oficiais.estadual.ba_dje import BaDjeCollector
 from diarios_oficiais.estadual.ba_doe import BaDoeCollector
 from diarios_oficiais.estadual.ba_doel import BaDoelCollector
 from diarios_oficiais.estadual.ce_doe import CeDoeCollector
+from diarios_oficiais.estadual.df_doe import (
+    DfDoeCollector,
+    parse_acts_from_markdown_file as parse_df_acts,
+)
 from diarios_oficiais.estadual.es_dio import EsDioCollector
+from diarios_oficiais.estadual.go_doe import (
+    GoDoeCollector,
+    parse_acts_from_markdown_file as parse_go_acts,
+)
+from diarios_oficiais.estadual.ma_doe import (
+    MaDoeCollector,
+    parse_acts_from_markdown_file as parse_ma_acts,
+)
+from diarios_oficiais.estadual.mg_doe import (
+    MgDoeCollector,
+    parse_acts_from_markdown_file as parse_mg_acts,
+)
+from diarios_oficiais.estadual.ms_doe import (
+    MsDoeCollector,
+    parse_acts_from_markdown_file as parse_ms_acts,
+)
+from diarios_oficiais.estadual.mt_doe import (
+    MtDoeCollector,
+    parse_acts_from_markdown_file as parse_mt_acts,
+)
+from diarios_oficiais.estadual.pa_doe import (
+    PaDoeCollector,
+    parse_acts_from_markdown_file as parse_pa_acts,
+)
 from diarios_oficiais.estadual.pr_dioe import PrDioeCollector
 from diarios_oficiais.estadual.pb_dje import PbDjeCollector
 from diarios_oficiais.estadual.pb_doe import PbDoeCollector
+from diarios_oficiais.estadual.pe_doe import (
+    PeDoeCollector,
+    parse_acts_from_markdown_file as parse_pe_acts,
+)
+from diarios_oficiais.estadual.pi_doe import (
+    PiDoeCollector,
+    parse_acts_from_markdown_file as parse_pi_acts,
+)
 from diarios_oficiais.estadual.rj_ioerj import (
     RjIoerjCollector,
     parse_acts_from_markdown_file as parse_rj_acts,
 )
+from diarios_oficiais.estadual.rn_doe import (
+    RnDoeCollector,
+    parse_acts_from_markdown_file as parse_rn_acts,
+)
+from diarios_oficiais.estadual.ro_doe import (
+    RoDoeCollector,
+    parse_acts_from_markdown_file as parse_ro_acts,
+)
+from diarios_oficiais.estadual.rr_doe import (
+    RrDoeCollector,
+    parse_acts_from_markdown_file as parse_rr_acts,
+)
 from diarios_oficiais.estadual.rs_doe import RsDoeCollector
+from diarios_oficiais.estadual.se_doe import (
+    SeDoeCollector,
+    parse_acts_from_markdown_file as parse_se_acts,
+)
 from diarios_oficiais.estadual.sc_doe import ScDoeCollector
 from diarios_oficiais.estadual.sp_doe import (
     SpDoeCollector,
     parse_acts_from_markdown_file as parse_sp_acts,
+)
+from diarios_oficiais.estadual.to_doe import (
+    ToDoeCollector,
+    parse_acts_from_markdown_file as parse_to_acts,
 )
 from diarios_oficiais.estadual.ba_doe import parse_acts_from_markdown_file as parse_ba_acts
 from diarios_oficiais.estadual.es_dio import parse_acts_from_markdown_file as parse_es_acts
@@ -57,9 +125,16 @@ class PendingEdition:
 
 
 STATE_SPECS: tuple[tuple[str, tuple[CollectorSpec, ...]], ...] = (
-    ("RJ", (CollectorSpec("RJ", RjIoerjCollector, parse_rj_acts),)),
-    ("SP", (CollectorSpec("SP", SpDoeCollector, parse_sp_acts),)),
-    ("ES", (CollectorSpec("ES", EsDioCollector, parse_es_acts),)),
+    (
+        "AC",
+        (
+            CollectorSpec("AC", AcDoeCollector),
+            CollectorSpec("AC", AcDjeCollector),
+        ),
+    ),
+    ("AL", (CollectorSpec("AL", AlDoeCollector, parse_al_acts),)),
+    ("AM", (CollectorSpec("AM", AmDoeCollector, parse_am_acts),)),
+    ("AP", (CollectorSpec("AP", ApDoeCollector, parse_ap_acts),)),
     (
         "BA",
         (
@@ -68,24 +143,28 @@ STATE_SPECS: tuple[tuple[str, tuple[CollectorSpec, ...]], ...] = (
             CollectorSpec("BA", BaDjeCollector),
         ),
     ),
-    ("SC", (CollectorSpec("SC", ScDoeCollector, parse_sc_acts),)),
-    ("PR", (CollectorSpec("PR", PrDioeCollector, parse_pr_acts),)),
-    ("RS", (CollectorSpec("RS", RsDoeCollector, parse_rs_acts),)),
-    (
-        "PB",
-        (
-            CollectorSpec("PB", PbDoeCollector),
-            CollectorSpec("PB", PbDjeCollector),
-        ),
-    ),
-    (
-        "AC",
-        (
-            CollectorSpec("AC", AcDoeCollector),
-            CollectorSpec("AC", AcDjeCollector),
-        ),
-    ),
     ("CE", (CollectorSpec("CE", CeDoeCollector),)),
+    ("DF", (CollectorSpec("DF", DfDoeCollector, parse_df_acts),)),
+    ("ES", (CollectorSpec("ES", EsDioCollector, parse_es_acts),)),
+    ("GO", (CollectorSpec("GO", GoDoeCollector, parse_go_acts),)),
+    ("MA", (CollectorSpec("MA", MaDoeCollector, parse_ma_acts),)),
+    ("MG", (CollectorSpec("MG", MgDoeCollector, parse_mg_acts),)),
+    ("MS", (CollectorSpec("MS", MsDoeCollector, parse_ms_acts),)),
+    ("MT", (CollectorSpec("MT", MtDoeCollector, parse_mt_acts),)),
+    ("PA", (CollectorSpec("PA", PaDoeCollector, parse_pa_acts),)),
+    ("PB", (CollectorSpec("PB", PbDoeCollector), CollectorSpec("PB", PbDjeCollector))),
+    ("PE", (CollectorSpec("PE", PeDoeCollector, parse_pe_acts),)),
+    ("PI", (CollectorSpec("PI", PiDoeCollector, parse_pi_acts),)),
+    ("PR", (CollectorSpec("PR", PrDioeCollector, parse_pr_acts),)),
+    ("RJ", (CollectorSpec("RJ", RjIoerjCollector, parse_rj_acts),)),
+    ("RN", (CollectorSpec("RN", RnDoeCollector, parse_rn_acts),)),
+    ("RO", (CollectorSpec("RO", RoDoeCollector, parse_ro_acts),)),
+    ("RR", (CollectorSpec("RR", RrDoeCollector, parse_rr_acts),)),
+    ("RS", (CollectorSpec("RS", RsDoeCollector, parse_rs_acts),)),
+    ("SC", (CollectorSpec("SC", ScDoeCollector, parse_sc_acts),)),
+    ("SE", (CollectorSpec("SE", SeDoeCollector, parse_se_acts),)),
+    ("SP", (CollectorSpec("SP", SpDoeCollector, parse_sp_acts),)),
+    ("TO", (CollectorSpec("TO", ToDoeCollector, parse_to_acts),)),
 )
 
 

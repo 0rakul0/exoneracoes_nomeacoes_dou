@@ -13,27 +13,17 @@ if not exist "%PYTHON%" (
     exit /b 1
 )
 
-echo [1/11] Baixando e atualizando dados estaduais...
+echo [1/9] Baixando e atualizando dados estaduais...
 "%PYTHON%" main.py
 if errorlevel 1 goto erro
 
 echo.
-echo [2/11] Coletando historico retroativo dos estados...
-call "%~dp0coletar_retroativos.bat"
-if errorlevel 1 goto erro
-
-echo.
-echo [3/11] Baixando e atualizando dados municipais do RJ...
-"%PYTHON%" main.py --coletar-municipais-rj
-if errorlevel 1 goto erro
-
-echo.
-echo [4/11] Deduplicando CSVs anuais do RJ...
+echo [2/9] Deduplicando CSVs anuais do RJ...
 "%PYTHON%" diarios_oficiais\tratamentos\deduplicar_atos_anuais.py --uf RJ
 if errorlevel 1 goto erro
 
 echo.
-echo [5/11] Deduplicando CSVs anuais de SP...
+echo [3/9] Deduplicando CSVs anuais de SP...
 if exist "saida\SP\*.csv" (
     "%PYTHON%" diarios_oficiais\tratamentos\deduplicar_atos_anuais.py --uf SP
     if errorlevel 1 goto erro
@@ -42,12 +32,12 @@ if exist "saida\SP\*.csv" (
 )
 
 echo.
-echo [6/11] Gerando movimentacoes do RJ...
+echo [4/9] Gerando movimentacoes do RJ...
 "%PYTHON%" analise_temporal\analisar_movimentacoes.py --uf RJ --incluir-anos-incompletos --incremental
 if errorlevel 1 goto erro
 
 echo.
-echo [7/11] Gerando movimentacoes de SP...
+echo [5/9] Gerando movimentacoes de SP...
 if exist "saida\SP\*.csv" (
     "%PYTHON%" analise_temporal\analisar_movimentacoes.py --uf SP --incluir-anos-incompletos --incremental
     if errorlevel 1 goto erro
@@ -56,12 +46,12 @@ if exist "saida\SP\*.csv" (
 )
 
 echo.
-echo [8/11] Consolidando dados...
+echo [6/9] Consolidando dados estaduais...
 "%PYTHON%" scripts\consolidar_dados.py
 if errorlevel 1 goto erro
 
 echo.
-echo [9/11] Gerando imagens do README (etapa opcional)...
+echo [7/9] Gerando imagens do README (etapa opcional)...
 "%PYTHON%" docs\gerar_imagens_readme.py --somente-imagens
 if errorlevel 1 (
     echo AVISO: nao foi possivel gerar as imagens do README.
@@ -70,7 +60,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [10/11] Atualizando README (etapa opcional)...
+echo [8/9] Atualizando README (etapa opcional)...
 "%PYTHON%" docs\gerar_imagens_readme.py --somente-readme
 if errorlevel 1 (
     echo AVISO: nao foi possivel atualizar o README.
@@ -79,7 +69,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [11/11] Commitando e enviando o repositorio principal...
+echo [9/9] Commitando e enviando o repositorio principal...
 pushd "%REPO_ORIGEM%"
 if errorlevel 1 goto erro
 echo.
