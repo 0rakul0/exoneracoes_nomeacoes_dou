@@ -11,7 +11,8 @@ import urllib3
 
 from diarios_oficiais import config
 from diarios_oficiais.base import BaseGazetteCollector, Edition
-from diarios_oficiais.estadual.rj_ioerj import edition_slug, parse_acts
+from diarios_oficiais.estadual.rj_ioerj import edition_slug
+from diarios_oficiais.extracao.engine import parse_acts
 from diarios_oficiais.utils_regex import rs_doe as rs_regexes
 
 
@@ -28,8 +29,7 @@ class RsDoeCollector(BaseGazetteCollector):
 
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
-        self.session.verify = False
-        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        # Certificate validation remains enabled. Configure trusted CAs if needed.
 
     def list_available_dates(
         self,

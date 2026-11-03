@@ -8,7 +8,8 @@ from pathlib import Path
 import requests
 
 from diarios_oficiais.base import BaseGazetteCollector, Edition
-from diarios_oficiais.estadual.rj_ioerj import edition_slug, parse_acts
+from diarios_oficiais.estadual.rj_ioerj import edition_slug
+from diarios_oficiais.extracao.engine import parse_acts
 
 
 MARKDOWN_DATE_RE = re.compile(r"_(\d{4}-\d{2}-\d{2})$")
@@ -26,16 +27,30 @@ class DailyPdfCollector(BaseGazetteCollector):
         raise NotImplementedError
 
     def _pdf_exists(self, url: str) -> bool:
+        """A confirmed HTTP 404 means absent; network errors propagate."""
+        response = self.session.head(url, allow_redirects=True, timeout=self.http_timeout_seconds)
         try:
-            response = self.session.head(url, allow_redirects=True, timeout=self.http_timeout_seconds)
             if response.status_code == 200:
                 return True
-            if response.status_code not in {403, 405}:
+            if response.status_code == 404:
                 return False
-            response = self.session.get(url, stream=True, timeout=self.http_timeout_seconds)
-            return response.status_code == 200 and response.headers.get("Content-Type", "").lower().startswith("application/pdf")
-        except requests.RequestException:
-            return False
+            if response.status_code not in {403, 405}:
+                response.raise_for_status()
+                raise RuntimeError(f"Unexpected HTTP {response.status_code} for {url}")
+        finally:
+            response.close()
+
+        response = self.session.get(url, stream=True, timeout=self.http_timeout_seconds)
+        try:
+            if response.status_code == 404:
+                return False
+            response.raise_for_status()
+            content_type = response.headers.get("Content-Type", "").lower()
+            if "application/pdf" not in content_type and "application/octet-stream" not in content_type:
+                raise RuntimeError(f"Unexpected PDF Content-Type {content_type!r} for {url}")
+            return True
+        finally:
+            response.close()
 
     def list_editions(self, publication_date: date) -> list[Edition]:
         return [
@@ -119,7 +134,5 @@ def collect_daily(
                 failed_years.add(year)
                 collector.record_collection_failure(edition, "processar_edicao", exc)
                 print(f"Falha ao processar {label} {publication_date} ({edition.section}): {exc}", file=sys.stderr)
-    for year in {item.year for item in dates} - failed_years:
-        if year < date.today().year and first <= date(year, 1, 1) and last >= date(year, 12, 31):
-            collector.mark_year_complete(year)
+    # Do not mark years complete until reconciled with the official calendar.
     return total

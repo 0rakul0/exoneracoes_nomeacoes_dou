@@ -11,7 +11,7 @@ from diarios_oficiais import config
 from diarios_oficiais.base import BaseGazetteCollector
 from diarios_oficiais.base import Edition
 from diarios_oficiais.estadual.rj_ioerj import edition_slug
-from diarios_oficiais.estadual.rj_ioerj import parse_acts_from_markdown_file
+from diarios_oficiais.extracao.engine import parse_acts_from_markdown_file
 from diarios_oficiais.utils_regex import sp_doe as sp_regexes
 
 
@@ -202,7 +202,7 @@ def collect_sp(
     dates = [
         publication_date
         for publication_date in collector.list_available_dates()
-        if end_date <= publication_date <= start_date
+        if (end_date <= publication_date <= start_date if retroativo else start_date <= publication_date <= end_date)
         and (not retroativo or publication_date.weekday() < 5)
     ]
     if retroativo:
