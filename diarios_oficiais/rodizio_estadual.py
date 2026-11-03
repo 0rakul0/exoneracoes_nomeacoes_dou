@@ -215,7 +215,17 @@ def _iter_collector_editions(
     skip_complete_years: bool,
 ) -> Iterator[PendingEdition]:
     skipped_years: set[int] = set()
-    for publication_date in _dates_for(collector, today):
+    try:
+        available_dates = _dates_for(collector, today)
+    except Exception as exc:
+        print(
+            f"Falha ao listar datas de {collector.gazette_code}: {exc}; "
+            "pulando esta fonte nesta rodada.",
+            file=sys.stderr,
+        )
+        return
+
+    for publication_date in available_dates:
         if skip_complete_years and collector.is_year_complete(publication_date.year):
             if publication_date.year not in skipped_years:
                 print(

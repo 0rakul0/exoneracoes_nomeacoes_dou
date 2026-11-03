@@ -1,0 +1,5 @@
+timestamp,data_publicacao,caderno,etapa,url,erro
+2026-11-03T02:40:05,2026-11-03,Diario Oficial SE,processar_edicao,https://iose.se.gov.br/portal/edicoes/download/8035,A IOSE retornou uma página HTML em vez do PDF; o download do SE pode exigir acesso/certificado no portal oficial.
+2026-11-03T04:57:19,2026-10-29,Diario Oficial SE Suplemento,processar_edicao,https://iose.se.gov.br/portal/edicoes/download/8036,A IOSE retornou uma página HTML em vez do PDF; o download do SE pode exigir acesso/certificado no portal oficial.
+2026-11-03T06:36:14,2026-10-29,Diario Oficial SE,processar_edicao,https://iose.se.gov.br/portal/edicoes/download/8030,A IOSE retornou uma página HTML em vez do PDF; o download do SE pode exigir acesso/certificado no portal oficial.
+2026-11-03T08:11:35,2026-10-28,Diario Oficial SE,processar_edicao,https://iose.se.gov.br/portal/edicoes/download/8028,A IOSE retornou uma página HTML em vez do PDF; o download do SE pode exigir acesso/certificado no portal oficial.

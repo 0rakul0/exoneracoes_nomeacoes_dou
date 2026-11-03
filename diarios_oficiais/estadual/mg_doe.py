@@ -146,6 +146,12 @@ class MgDoeCollector(BaseGazetteCollector):
                 "MesPublicacao": month.month, "AnoPublicacao": month.year,
             })
             items = self.fetch_json(url)
+            # O portal retorna `dados: null` para meses ainda sem calendário
+            # publicado (normalmente o mês corrente). Isso significa que não
+            # há datas disponíveis, não que a resposta esteja corrompida.
+            if items is None:
+                month = date(month.year + (month.month == 12), month.month % 12 + 1, 1)
+                continue
             if not isinstance(items, list):
                 raise RuntimeError(f"Calendario do DOE/MG invalido para {month:%Y-%m}.")
             for item in items:
