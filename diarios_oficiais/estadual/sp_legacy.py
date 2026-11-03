@@ -7,8 +7,8 @@ from datetime import timedelta
 from pathlib import Path
 
 from diarios_oficiais.base import Edition
-from diarios_oficiais.estadual.rj_ioerj import edition_slug
-from diarios_oficiais.estadual.rj_ioerj import parse_acts_from_markdown_file
+from diarios_oficiais.extracao.parser import edition_slug
+from diarios_oficiais.extracao.engine import parse_acts_from_markdown_file
 from diarios_oficiais.estadual.sp_doe import SpDoeCollector
 from diarios_oficiais.utils_regex import sp_doe as sp_regexes
 

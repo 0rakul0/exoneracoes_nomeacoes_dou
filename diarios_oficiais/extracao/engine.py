@@ -18,7 +18,10 @@ class ExtractionProfile:
         state = self.state.strip().lower()
         if not state.isalpha() or len(state) != 2:
             raise ValueError(f"Invalid state: {self.state!r}")
-        module = "rj_ioerj" if state == "rj" else f"{state}_doe"
+        profiles = {"rj": "rj_ioerj", "es": "es_dio", "pr": "pr_dioe"}
+        module = profiles.get(state, f"{state}_doe")
+        # Gazette-specific rules should be passed explicitly for judicial,
+        # legislative, or municipal editions.
         try:
             return import_module(f"diarios_oficiais.utils_regex.{module}")
         except ModuleNotFoundError as exc:

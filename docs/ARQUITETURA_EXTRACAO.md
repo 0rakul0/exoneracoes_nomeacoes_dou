@@ -1,31 +1,59 @@
-# Arquitetura nacional de extracao (migracao incremental)
+# Arquitetura nacional de extração
 
-A descoberta e o download continuam nos coletores por portal em
-`diarios_oficiais/estadual`. A extração de atos passa a ter uma interface
-compartilhada em `diarios_oficiais/extracao/engine.py`. As regras
-existentes de `diarios_oficiais/utils_regex` permanecem ativas por estado.
+## Responsabilidades
 
-## Compatibilidade
+1. **Coletores** (`diarios_oficiais/estadual/`, `municipal/`): descobrem
+   edições, preservam metadados, baixam documentos e os convertem para Markdown.
+2. **Parser nacional** (`diarios_oficiais/extracao/parser.py`): identifica atos
+   e extrai nomes, cargos, órgãos, assinantes e trechos. O código foi movido do
+   parser histórico do RJ sem alterar os padrões de correspondência.
+3. **Engine** (`diarios_oficiais/extracao/engine.py`): oferece API uniforme de
+   extração, recebendo um perfil com as regras da fonte.
+4. **Regras** (`diarios_oficiais/utils_regex/`): diferenças de linguagem ou
+   estrutura permanecem por diário e podem ser aprimoradas isoladamente.
+5. **Tratamento e análise**: preservados os contratos de `Act`, CSV e Parquet.
 
-A primeira etapa usa um adaptador para o parser historico em
-`estadual/rj_ioerj.py`. Esta mudanca reorganiza as dependencias e
-**nao** constitui uma nova implementacao nacional de NER. Migrar as
-funcoes internas do parser em outra etapa, validando paridade antes da troca.
+## Migração e compatibilidade
 
-## Integridade da coleta
+Todos os coletores estaduais e municipais que usavam a função `parse_acts`
+do módulo RJ passam a utilizar a engine. `rj_ioerj.py` mantém as antigas
+funções como reexportações de compatibilidade, mas não contém mais o parser.
 
-- SP: intervalos incrementais e retroativos tratados separadamente.
-- PDF diario: erro de rede e HTTP inesperado nao significam arquivo ausente.
-- A rotina compartilhada nao cria novos marcadores de ano completo sem
-  reconciliar calendario oficial e edicoes; marcadores antigos ainda
-  precisam de auditoria.
-- BA/RS: verificacao TLS ativada. Ajustar a cadeia de certificados no
-  sistema ou por CA confiavel quando necessario.
+O extrator especializado de Minas Gerais continua com sua implementação
+específica; suas funções auxiliares de normalização apontam para a camada
+compartilhada. Esse extrator pode ser migrado para um perfil próprio em uma
+próxima etapa sem perder os padrões específicos de MG.
 
-## Validacao
+Coletores com regras especiais (Judiciário, Legislativo, municípios)
+continuam passando suas expressões regulares explicitamente, quando aplicável.
 
-```powershell
-python -m unittest discover -s tests
+## Exemplo
+
+```python
+from pathlib import Path
+from diarios_oficiais.extracao.engine import ExtractionProfile, ExtractorEngine
+
+engine = ExtractorEngine(ExtractionProfile(state="SP"))
+atos = engine.extract_file(collector, edition, Path("edicao.md"))
 ```
 
-Validar tambem a comunicacao HTTPS de BA e RS no ambiente real.
+## Verificação de regressão
+
+```powershell
+python -m unittest discover -s tests -v
+```
+
+Os testes de compatibilidade verificam a identidade dos símbolos reexportados
+e a propagação das regras, e os testes estaduais existentes cobrem padrões
+reais de edições dos estados. A migração preserva os CSVs já existentes e
+**não reprocessa o LAKE automaticamente**.
+
+## Limitações e próximos controles
+
+- Sem uma base anotada por UF, não se deve afirmar uma precisão nacional.
+- Verificar completude de publicações por fonte antes de usar marcadores
+  históricos `.year_complete`.
+- Medir precisão, revocação e F1 de ato e de cada campo para as fontes.
+- Não fundir pessoas com mesmo nome sem evidência adicional.
+- TLS de BA/RS foi reativado no commit anterior; cadeias inválidas exigem
+  certificados confiáveis, nunca `verify=False`.

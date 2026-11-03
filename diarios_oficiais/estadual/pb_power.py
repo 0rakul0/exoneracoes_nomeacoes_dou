@@ -7,7 +7,8 @@ from pathlib import Path
 
 from diarios_oficiais import config
 from diarios_oficiais.base import BaseGazetteCollector, Edition
-from diarios_oficiais.estadual.rj_ioerj import edition_slug, parse_acts
+from diarios_oficiais.extracao.parser import edition_slug
+from diarios_oficiais.extracao.engine import parse_acts
 from diarios_oficiais.utils_regex import pb_doe as pb_regexes
 
 

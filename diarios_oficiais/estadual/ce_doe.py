@@ -11,7 +11,7 @@ import requests
 
 from diarios_oficiais.base import Edition
 from diarios_oficiais.estadual.ce_power import CePowerCollector, collect_ce_power
-from diarios_oficiais.estadual.rj_ioerj import parse_acts
+from diarios_oficiais.extracao.engine import parse_acts
 from diarios_oficiais.utils_regex import ce_doe as ce_regexes
 
 

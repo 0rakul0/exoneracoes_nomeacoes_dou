@@ -5,7 +5,7 @@ from datetime import date
 
 from diarios_oficiais import config
 from diarios_oficiais.estadual.am_doe import AmDoeCollector, collect_am
-from diarios_oficiais.estadual.rj_ioerj import parse_acts
+from diarios_oficiais.extracao.engine import parse_acts
 from diarios_oficiais.utils_regex import go_doe as regexes
 from diarios_oficiais.base import Edition
 

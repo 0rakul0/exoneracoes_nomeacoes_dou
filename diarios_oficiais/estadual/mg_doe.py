@@ -18,7 +18,7 @@ from requests.adapters import HTTPAdapter
 
 from diarios_oficiais import config
 from diarios_oficiais.base import Act, BaseGazetteCollector, Edition
-from diarios_oficiais.estadual.rj_ioerj import clean_piece, edition_slug, normalize_name, valid_person_name
+from diarios_oficiais.extracao.parser import clean_piece, edition_slug, normalize_name, valid_person_name
 from diarios_oficiais.governadores import (
     governador_da_edicao,
     nome_representante_governo,
