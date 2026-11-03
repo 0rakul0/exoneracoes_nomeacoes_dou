@@ -42,8 +42,8 @@ class ExtractorEngine:
 
 
 def parse_acts(text, collector, edition, markdown_path, regexes=None, **kwargs):
-    # Legacy parser remains the implementation until parity has been validated.
-    from diarios_oficiais.estadual.rj_ioerj import parse_acts as legacy_parse_acts
+    # The shared parser owns extraction; source-specific rules remain selectable.
+    from diarios_oficiais.extracao.parser import parse_acts as legacy_parse_acts
     if regexes is None:
         regexes = ExtractionProfile(state=collector.state).resolve_rules()
     return legacy_parse_acts(text, collector, edition, markdown_path, regexes=regexes, **kwargs)
