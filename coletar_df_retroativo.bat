@@ -1,5 +1,6 @@
 @echo off
 setlocal EnableExtensions
-call "%~dp0executar_coleta_uf.bat" DF %*
+set "DOU_UF=DF"
+call "%~dp0executar_coleta_uf.bat" %*
 set "CODIGO=%ERRORLEVEL%"
 exit /b %CODIGO%

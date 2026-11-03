@@ -1,11 +1,10 @@
 @echo off
 setlocal EnableExtensions
-set "UF=%~1"
+set "UF=%DOU_UF%"
 if "%UF%"=="" (
-    echo Uso: executar_coleta_uf.bat UF [argumentos adicionais]
+    echo ERRO: use um dos scripts coletar_uf_retroativo.bat.
     exit /b 2
 )
-shift
 set "ROOT=%~dp0"
 set "PYTHON=%ROOT%.venv\Scripts\python.exe"
 if not exist "%PYTHON%" (
