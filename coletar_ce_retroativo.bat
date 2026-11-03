@@ -1,11 +1,5 @@
 @echo off
-setlocal
-cd /d "%~dp0"
-echo Coletando os cadernos do DOE/CE de hoje para tras...
-.\.venv\Scripts\python.exe main.py --ce-retroativo
-if errorlevel 1 (
-    echo Falha na coleta retroativa do CE.
-    exit /b 1
-)
-echo Coleta retroativa do CE concluida.
-endlocal
+setlocal EnableExtensions
+call "%~dp0executar_coleta_uf.bat" CE %*
+set "CODIGO=%ERRORLEVEL%"
+exit /b %CODIGO%

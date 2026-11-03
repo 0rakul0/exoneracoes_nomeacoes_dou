@@ -1,11 +1,5 @@
 @echo off
-setlocal
-cd /d "%~dp0"
-echo Coletando DOE/AC e DJE/AC de hoje para tras...
-.\.venv\Scripts\python.exe main.py --ac-retroativo
-if errorlevel 1 (
-    echo Falha na coleta retroativa do AC.
-    exit /b 1
-)
-echo Coleta retroativa do AC concluida.
-endlocal
+setlocal EnableExtensions
+call "%~dp0executar_coleta_uf.bat" AC %*
+set "CODIGO=%ERRORLEVEL%"
+exit /b %CODIGO%

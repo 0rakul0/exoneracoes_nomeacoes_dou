@@ -1,8 +1,5 @@
 @echo off
-setlocal
-cd /d "%~dp0"
-echo Coleta retroativa do Diario Oficial do Para...
-call python main.py --pa-retroativo --ignorar-year-complete
-if errorlevel 1 exit /b 1
-echo Coleta de PA concluida.
-exit /b 0
+setlocal EnableExtensions
+call "%~dp0executar_coleta_uf.bat" PA %*
+set "CODIGO=%ERRORLEVEL%"
+exit /b %CODIGO%
