@@ -42,14 +42,14 @@ from diarios_oficiais.estadual.rn_doe import collect_rn
 from diarios_oficiais.estadual.rr_doe import collect_rr
 from diarios_oficiais.estadual.se_doe import collect_se
 from diarios_oficiais.estadual.to_doe import collect_to
-from diarios_oficiais.municipal.rio_de_janeiro import collect_rio_de_janeiro
-from diarios_oficiais.municipal.rj_municipalidades import collect_rj_municipalidades
-from diarios_oficiais.municipal.niteroi import collect_niteroi
-from diarios_oficiais.municipal.campos_dos_goytacazes import collect_campos
-from diarios_oficiais.municipal.sao_goncalo import collect_sao_goncalo
-from diarios_oficiais.municipal.duque_de_caxias import collect_duque_de_caxias
-from diarios_oficiais.municipal.nova_iguacu import collect_nova_iguacu
-from diarios_oficiais.municipal.sao_joao_de_meriti import collect_sao_joao_de_meriti
+# from diarios_oficiais.municipal.rio_de_janeiro import collect_rio_de_janeiro
+# from diarios_oficiais.municipal.rj_municipalidades import collect_rj_municipalidades
+# from diarios_oficiais.municipal.niteroi import collect_niteroi
+# from diarios_oficiais.municipal.campos_dos_goytacazes import collect_campos
+# from diarios_oficiais.municipal.sao_goncalo import collect_sao_goncalo
+# from diarios_oficiais.municipal.duque_de_caxias import collect_duque_de_caxias
+# from diarios_oficiais.municipal.nova_iguacu import collect_nova_iguacu
+# from diarios_oficiais.municipal.sao_joao_de_meriti import collect_sao_joao_de_meriti
 
 
 def collect_ba_all(
@@ -172,16 +172,16 @@ COLLECTORS_BY_STATE: dict[str, Callable[..., int]] = {
 STATES_TO_COLLECT = ["AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "GO", "MA", "MG", "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ", "RN", "RO", "RR", "RS", "SC", "SE", "SP", "TO"]
 
 
-MUNICIPAL_RJ_COLLECTORS: list[tuple[str, Callable[[date | None, date | None], int]]] = [
-    ("Rio de Janeiro", collect_rio_de_janeiro),
-    ("Parte IV — Municipalidades", collect_rj_municipalidades),
-    ("Niterói", collect_niteroi),
-    ("Campos dos Goytacazes", collect_campos),
-    ("São Gonçalo", collect_sao_goncalo),
-    ("Duque de Caxias", collect_duque_de_caxias),
-    ("Nova Iguaçu", collect_nova_iguacu),
-    ("São João de Meriti", collect_sao_joao_de_meriti),
-]
+# MUNICIPAL_RJ_COLLECTORS: list[tuple[str, Callable[[date | None, date | None], int]]] = [
+#     ("Rio de Janeiro", collect_rio_de_janeiro),
+#     ("Parte IV — Municipalidades", collect_rj_municipalidades),
+#     ("Niterói", collect_niteroi),
+#     ("Campos dos Goytacazes", collect_campos),
+#     ("São Gonçalo", collect_sao_goncalo),
+#     ("Duque de Caxias", collect_duque_de_caxias),
+#     ("Nova Iguaçu", collect_nova_iguacu),
+#     ("São João de Meriti", collect_sao_joao_de_meriti),
+# ]
 
 
 def collect_state(state: str) -> int:
@@ -192,13 +192,13 @@ def collect_state(state: str) -> int:
     raise ValueError(f"Estado ainda nao implementado: {state}")
 
 
-def collect_all_municipal_rj(start_date: date | None, end_date: date | None) -> dict[str, int]:
-    """Executa, sequencialmente, os conectores municipais já integrados."""
-    totals: dict[str, int] = {}
-    for name, collector in MUNICIPAL_RJ_COLLECTORS:
-        print(f"Coletando diário municipal: {name}...", file=sys.stderr)
-        totals[name] = collector(start_date, end_date)
-    return totals
+# def collect_all_municipal_rj(start_date: date | None, end_date: date | None) -> dict[str, int]:
+#     """Executa, sequencialmente, os conectores municipais já integrados."""
+#     totals: dict[str, int] = {}
+#     for name, collector in MUNICIPAL_RJ_COLLECTORS:
+#         print(f"Coletando diário municipal: {name}...", file=sys.stderr)
+#         totals[name] = collector(start_date, end_date)
+#     return totals
 
 
 def sondar_novas_edicoes_rj() -> int:
@@ -601,68 +601,68 @@ def main() -> int:
             "Use --rio-municipal-data-inicial junto com --rio-municipal-data-final."
         )
 
-    if args.coletar_municipais_rj:
-        totals = collect_all_municipal_rj(
-            start_date=args.rio_municipal_data_inicial,
-            end_date=args.rio_municipal_data_final,
-        )
-        for municipality, total in totals.items():
-            print(f"{municipality}: {total} atos novos gravados nos CSVs anuais")
-        print(f"Total municipal RJ: {sum(totals.values())} atos novos gravados nos CSVs anuais")
-        return 0
+    # if args.coletar_municipais_rj:
+    #     totals = collect_all_municipal_rj(
+    #         start_date=args.rio_municipal_data_inicial,
+    #         end_date=args.rio_municipal_data_final,
+    #     )
+    #     for municipality, total in totals.items():
+    #         print(f"{municipality}: {total} atos novos gravados nos CSVs anuais")
+    #     print(f"Total municipal RJ: {sum(totals.values())} atos novos gravados nos CSVs anuais")
+    #     return 0
 
-    if args.coletar_rio_municipal:
-        total = collect_rio_de_janeiro(
-            start_date_override=args.rio_municipal_data_inicial,
-            end_date=args.rio_municipal_data_final,
-        )
-        print(f"Rio de Janeiro (municipal): {total} atos novos gravados nos CSVs anuais")
-        return 0
+    # if args.coletar_rio_municipal:
+    #     total = collect_rio_de_janeiro(
+    #         start_date_override=args.rio_municipal_data_inicial,
+    #         end_date=args.rio_municipal_data_final,
+    #     )
+    #     print(f"Rio de Janeiro (municipal): {total} atos novos gravados nos CSVs anuais")
+    #     return 0
+    #
+    # if args.coletar_rj_municipalidades:
+    #     total = collect_rj_municipalidades(
+    #         start_date_override=args.rio_municipal_data_inicial,
+    #         end_date=args.rio_municipal_data_final,
+    #     )
+    #     print(f"RJ (Parte IV — Municipalidades): {total} atos novos gravados nos CSVs anuais")
+    #     return 0
 
-    if args.coletar_rj_municipalidades:
-        total = collect_rj_municipalidades(
-            start_date_override=args.rio_municipal_data_inicial,
-            end_date=args.rio_municipal_data_final,
-        )
-        print(f"RJ (Parte IV — Municipalidades): {total} atos novos gravados nos CSVs anuais")
-        return 0
-
-    if args.coletar_niteroi:
-        total = collect_niteroi(
-            start_date_override=args.rio_municipal_data_inicial,
-            end_date=args.rio_municipal_data_final,
-        )
-        print(f"Niterói: {total} atos novos gravados nos CSVs anuais")
-        return 0
-
-    if args.coletar_campos:
-        total = collect_campos(
-            start_date_override=args.rio_municipal_data_inicial,
-            end_date=args.rio_municipal_data_final,
-        )
-        print(f"Campos dos Goytacazes: {total} atos novos gravados nos CSVs anuais")
-        return 0
-
-    if args.coletar_sao_goncalo:
-        total = collect_sao_goncalo(
-            start_date_override=args.rio_municipal_data_inicial,
-            end_date=args.rio_municipal_data_final,
-        )
-        print(f"São Gonçalo: {total} atos novos gravados nos CSVs anuais")
-        return 0
-
-    if args.coletar_duque_de_caxias:
-        total = collect_duque_de_caxias(
-            start_date_override=args.rio_municipal_data_inicial,
-            end_date=args.rio_municipal_data_final,
-        )
-        print(f"Duque de Caxias: {total} atos novos gravados nos CSVs anuais")
-        return 0
-
-    if args.coletar_nova_iguacu:
-        total = collect_nova_iguacu(args.rio_municipal_data_inicial, args.rio_municipal_data_final)
-        print(f"Nova Iguaçu: {total} atos novos gravados nos CSVs anuais")
-        return 0
+    # if args.coletar_niteroi:
+    #     total = collect_niteroi(
+    #         start_date_override=args.rio_municipal_data_inicial,
+    #         end_date=args.rio_municipal_data_final,
+    #     )
+    #     print(f"Niterói: {total} atos novos gravados nos CSVs anuais")
+    #     return 0
+    #
+    # if args.coletar_campos:
+    #     total = collect_campos(
+    #         start_date_override=args.rio_municipal_data_inicial,
+    #         end_date=args.rio_municipal_data_final,
+    #     )
+    #     print(f"Campos dos Goytacazes: {total} atos novos gravados nos CSVs anuais")
+    #     return 0
+    #
+    # if args.coletar_sao_goncalo:
+    #     total = collect_sao_goncalo(
+    #         start_date_override=args.rio_municipal_data_inicial,
+    #         end_date=args.rio_municipal_data_final,
+    #     )
+    #     print(f"São Gonçalo: {total} atos novos gravados nos CSVs anuais")
+    #     return 0
+    #
+    # if args.coletar_duque_de_caxias:
+    #     total = collect_duque_de_caxias(
+    #         start_date_override=args.rio_municipal_data_inicial,
+    #         end_date=args.rio_municipal_data_final,
+    #     )
+    #     print(f"Duque de Caxias: {total} atos novos gravados nos CSVs anuais")
+    #     return 0
+    #
+    # if args.coletar_nova_iguacu:
+    #     total = collect_nova_iguacu(args.rio_municipal_data_inicial, args.rio_municipal_data_final)
+    #     print(f"Nova Iguaçu: {total} atos novos gravados nos CSVs anuais")
+    #     return 0
 
     if args.rj_retroativo:
         total = collect_rj(
