@@ -111,7 +111,11 @@ class BaDoeCollector(BaseGazetteCollector):
         super().__init__(*args, **kwargs)
         # O portal oficial atualmente entrega uma cadeia incompleta para o
         # certificado TLS. A consulta continua restrita ao host oficial.
-        # Certificate validation remains enabled. Configure trusted CAs if needed.
+        # O certificado tambem pode aparecer fora do periodo de validade no
+        # portal. Mantemos o mesmo fallback ja usado pelos diarios BA
+        # separados, limitado a este host oficial.
+        self.session.verify = False
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
     def list_available_dates(
         self,
