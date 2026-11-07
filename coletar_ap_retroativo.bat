@@ -1,8 +1,6 @@
 @echo off
-setlocal
-cd /d "%~dp0"
-echo Coleta retroativa do Diario Oficial do Amapa...
-call python main.py --ap-retroativo --ignorar-year-complete
-if errorlevel 1 exit /b 1
-echo Coleta de AP concluida.
-exit /b 0
+setlocal EnableExtensions
+set "DOU_UF=AP"
+call "%~dp0executar_coleta_uf.bat" %*
+set "CODIGO=%ERRORLEVEL%"
+exit /b %CODIGO%

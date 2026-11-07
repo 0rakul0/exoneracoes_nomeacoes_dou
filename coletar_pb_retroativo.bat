@@ -1,11 +1,6 @@
 @echo off
-setlocal
-cd /d "%~dp0"
-echo Coletando DOE/PB e DJE/PB de hoje para tras...
-.\.venv\Scripts\python.exe main.py --pb-retroativo
-if errorlevel 1 (
-    echo Falha na coleta retroativa da PB.
-    exit /b 1
-)
-echo Coleta retroativa da PB concluida.
-endlocal
+setlocal EnableExtensions
+set "DOU_UF=PB"
+call "%~dp0executar_coleta_uf.bat" %*
+set "CODIGO=%ERRORLEVEL%"
+exit /b %CODIGO%

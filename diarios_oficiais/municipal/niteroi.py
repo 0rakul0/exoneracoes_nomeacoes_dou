@@ -11,8 +11,8 @@ from pathlib import Path
 import pandas as pd
 
 from diarios_oficiais.base import Edition
-from diarios_oficiais.estadual.rj_ioerj import edition_slug
-from diarios_oficiais.estadual.rj_ioerj import parse_acts
+from diarios_oficiais.extracao.parser import edition_slug
+from diarios_oficiais.extracao.engine import parse_acts
 from diarios_oficiais.estadual.rj_ioerj import RjIoerjCollector
 
 

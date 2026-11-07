@@ -11,7 +11,7 @@ import pandas as pd
 
 from diarios_oficiais.base import Edition
 from diarios_oficiais.estadual.rj_ioerj import RjIoerjCollector
-from diarios_oficiais.estadual.rj_ioerj import parse_acts
+from diarios_oficiais.extracao.engine import parse_acts
 
 
 MARKDOWN_DATE_RE = re.compile(r"_(\d{4}-\d{2}-\d{2})$")

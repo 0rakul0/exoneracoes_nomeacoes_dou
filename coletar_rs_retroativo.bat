@@ -1,23 +1,6 @@
 @echo off
-setlocal
-
-cd /d "%~dp0"
-
-set "PYTHON=%~dp0.venv\Scripts\python.exe"
-
-if not exist "%PYTHON%" (
-    echo Python da .venv nao encontrado: %PYTHON%
-    exit /b 1
-)
-
-echo Coletando Diario Oficial do RS a partir de hoje, retrocedendo ate RS_START_DATE...
-"%PYTHON%" main.py --rs-retroativo --ignorar-year-complete
+setlocal EnableExtensions
+set "DOU_UF=RS"
+call "%~dp0executar_coleta_uf.bat" %*
 set "CODIGO=%ERRORLEVEL%"
-
-if not "%CODIGO%"=="0" (
-    echo A coleta retroativa do RS terminou com erro. Codigo: %CODIGO%
-    exit /b %CODIGO%
-)
-
-echo Coleta retroativa do RS concluida.
-exit /b 0
+exit /b %CODIGO%

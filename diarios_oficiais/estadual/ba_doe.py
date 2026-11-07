@@ -14,7 +14,8 @@ import urllib3
 
 from diarios_oficiais import config
 from diarios_oficiais.base import BaseGazetteCollector, Edition
-from diarios_oficiais.estadual.rj_ioerj import edition_slug, parse_acts
+from diarios_oficiais.estadual.rj_ioerj import edition_slug
+from diarios_oficiais.extracao.engine import parse_acts
 from diarios_oficiais.utils_regex import ba_doe as ba_regexes
 
 
@@ -110,8 +111,7 @@ class BaDoeCollector(BaseGazetteCollector):
         super().__init__(*args, **kwargs)
         # O portal oficial atualmente entrega uma cadeia incompleta para o
         # certificado TLS. A consulta continua restrita ao host oficial.
-        self.session.verify = False
-        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        # Certificate validation remains enabled. Configure trusted CAs if needed.
 
     def list_available_dates(
         self,

@@ -19,7 +19,9 @@ PRELOAD_OCR_MODELS = True
 OCR_FALLBACK_MIN_CHARS = 500
 OCR_FALLBACK_MIN_CHARS_PER_PAGE = 80
 USE_DOCLING = True
-DOCLING_DEVICE = "auto/cpu"
+# O Docling aceita valores como "auto", "cpu" e "cuda:N". Com "auto",
+# ele escolhe CPU quando nao ha uma GPU CUDA disponivel.
+DOCLING_DEVICE = "auto"
 DOCLING_NUM_THREADS = 8
 DOCLING_FORCE_BACKEND_TEXT = True
 DOCLING_DO_TABLE_STRUCTURE = True

@@ -11,7 +11,9 @@ from pathlib import Path
 import pandas as pd
 
 from diarios_oficiais.base import Edition
-from diarios_oficiais.estadual.rj_ioerj import RjIoerjCollector, edition_slug, parse_acts
+from diarios_oficiais.estadual.rj_ioerj import RjIoerjCollector
+from diarios_oficiais.extracao.parser import edition_slug
+from diarios_oficiais.extracao.engine import parse_acts
 
 
 INDEX_URL = "https://campos.rj.gov.br/diario-oficial/"

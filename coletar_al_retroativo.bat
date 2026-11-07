@@ -1,8 +1,6 @@
 @echo off
-setlocal
-cd /d "%~dp0"
-echo Coleta retroativa do Diario Oficial de Alagoas...
-call python main.py --al-retroativo --ignorar-year-complete
-if errorlevel 1 exit /b 1
-echo Coleta de AL concluida.
-exit /b 0
+setlocal EnableExtensions
+set "DOU_UF=AL"
+call "%~dp0executar_coleta_uf.bat" %*
+set "CODIGO=%ERRORLEVEL%"
+exit /b %CODIGO%
