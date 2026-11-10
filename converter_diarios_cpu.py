@@ -46,10 +46,11 @@ def processar(item: dict, fontes: dict) -> None:
 
     pdf = Path(item["arquivo"])
     if not pdf.is_file() or pdf.stat().st_size < 8:
-        raise FileNotFoundError(f"PDF nao encontrado: {pdf}")
-    with pdf.open("rb") as arq:
-        if arq.read(5) != b"%PDF-":
-            raise RuntimeError(f"Arquivo nao e PDF: {pdf}")
+        raise FileNotFoundError(f"Fonte nao encontrada: {pdf}")
+    if item["codigo"] != "DOBA":
+        with pdf.open("rb") as arq:
+            if arq.read(5) != b"%PDF-":
+                raise RuntimeError(f"Arquivo nao e PDF: {pdf}")
 
     coletor = spec.collector_factory()
     edicao = Edition(
@@ -58,7 +59,11 @@ def processar(item: dict, fontes: dict) -> None:
         url=item["url"],
     )
     markdown = coletor.markdown_path_for(edicao)
+    if item["codigo"] == "DOBA" and pdf != markdown:
+        raise RuntimeError("Fonte HTML da BA nao corresponde ao Markdown esperado")
     if not markdown.exists() or not markdown.stat().st_size:
+        if item["codigo"] == "DOBA":
+            raise RuntimeError("Markdown publico da BA nao encontrado")
         logger.info("Convertendo CPU | %s | %s", item["uf"], pdf)
         try:
             coletor.convert_pdf_to_markdown(pdf, markdown)
