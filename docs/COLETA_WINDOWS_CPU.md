@@ -73,3 +73,7 @@ caso ja exista, sem reconversao automatica.
 O conversor processa os PDFs registrados na fila. Arquivos PDF antigos
 que ja existam em LAKE mas nunca sejam encontrados pelo catalogo
 precisam de importacao separada para entrar na fila.
+
+## Falha de uma UF
+
+O downloader faz somente uma tentativa por arquivo (timeout configurado em 15 segundos). Se houver falha, registra o erro e coloca a UF em pausa por 30 minutos, seguindo para outra UF sem travar o rodizio. Durante essa pausa, edicoes da UF sao puladas e serao verificadas novamente em uma rodada futura; a fila SQLite preserva os downloads ja concluidos. Esses ajustes ficam nas constantes de `baixar_diarios_windows.py`.
