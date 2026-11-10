@@ -102,28 +102,32 @@ def coletar_recentes(logger: logging.Logger) -> tuple[int, int, int]:
     """Prioridade absoluta: ultimos dias em todas as fontes, antes do historico."""
     contagem = [0, 0, 0]
     hoje = datetime.now().date()
+    # Primeiro a data de hoje em TODAS as UFs; depois ontem, anteontem.
+    fontes = []
     for uf, specs in STATE_SPECS:
         for spec in specs:
             try:
-                coletor = spec.collector_factory()
-                for atraso in range(QUANTIDADE_DIAS_RECENTES):
-                    dia = hoje - timedelta(days=atraso)
-                    try:
-                        edicoes = coletor.list_editions(dia)
-                    except Exception:
-                        logger.exception("Falha ao listar recentes %s %s", uf, dia)
-                        contagem[2] += 1
-                        continue
-                    for edicao in edicoes:
-                        from diarios_oficiais.rodizio_estadual import PendingEdition
-                        resultado = processar_edicao(
-                            PendingEdition(uf, coletor, edicao, spec.parser), logger
-                        )
-                        for i in range(3):
-                            contagem[i] += resultado[i]
+                fontes.append((uf, spec, spec.collector_factory()))
             except Exception:
-                logger.exception("Falha ao consultar fonte recente %s", uf)
+                logger.exception("Falha ao inicializar fonte recente %s", uf)
                 contagem[2] += 1
+
+    from diarios_oficiais.rodizio_estadual import PendingEdition
+    for atraso in range(QUANTIDADE_DIAS_RECENTES):
+        dia = hoje - timedelta(days=atraso)
+        for uf, spec, coletor in fontes:
+            try:
+                edicoes = coletor.list_editions(dia)
+            except Exception:
+                logger.exception("Falha ao listar recentes %s %s", uf, dia)
+                contagem[2] += 1
+                continue
+            for edicao in edicoes:
+                resultado = processar_edicao(
+                    PendingEdition(uf, coletor, edicao, spec.parser), logger
+                )
+                for i in range(3):
+                    contagem[i] += resultado[i]
     logger.info(
         "Recentes verificados | novos=%s existentes=%s falhas=%s",
         *contagem,
