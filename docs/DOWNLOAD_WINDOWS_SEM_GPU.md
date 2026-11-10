@@ -5,7 +5,7 @@ Execute **iniciar_download_diarios.bat** com dois cliques. O script chama
 `python baixar_diarios_windows.py`.
 
 ## Comportamento
-- Coleta retroativa em rodizio entre as 27 UFs.
+- Primeiro consulta **hoje em todas as 27 UFs**, depois ontem e anteontem.\n- Em seguida baixa retroativamente todas as edicoes historicas, na ordem de data mais recente para mais antiga, alternando fontes conforme a disponibilidade.\n- Durante a fase historica, reconsulta os tres dias recentes a cada 60 minutos, inclusive se a rodada durar dias.\n- Pula PDFs persistidos e validos; retenta arquivos ausentes ou incompletos.
 - Salva os PDFs oficiais permanentemente em `LAKE/UF/AAAA/MM/nome.pdf`,
   ao lado do futuro arquivo Markdown da edicao.
 - Reaproveita PDFs existentes com cabecalho valido; baixa novamente arquivos
@@ -15,7 +15,7 @@ Execute **iniciar_download_diarios.bat** com dois cliques. O script chama
 - Nao extrai atos nem gera CSVs nesta etapa.
 - Registra progresso em `logs/download_diarios.log`, alem dos arquivos
   de falhas ja mantidos pelos coletores.
-- Reexecuta nova rodada seis horas **depois de terminar** a anterior.
+- Reexecuta nova rodada seis horas **depois de terminar** a anterior.\n- Edite `INTERVALO_ATUALIZACAO_RECENTES_MINUTOS`, `QUANTIDADE_DIAS_RECENTES` e `VERIFICAR_RECENTES_A_CADA_EDICOES` para ajustar a prioridade do acervo recente.
 
 ## Configuracao
 Ajuste as constantes no inicio de `baixar_diarios_windows.py`.
