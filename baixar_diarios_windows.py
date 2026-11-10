@@ -14,6 +14,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 # Evita inicializar validacao spaCy nos coletores somente para download.
+from diarios_oficiais.fila_processamento import registrar
 from diarios_oficiais.base import BaseGazetteCollector
 BaseGazetteCollector.enable_spacy_validation = False
 
@@ -66,13 +67,17 @@ def processar_edicao(item, logger: logging.Logger) -> tuple[int, int, int]:
         if uf == "BA" and coletor.gazette_code == "DOBA":
             if not BAIXAR_HTML_BA:
                 return 0, 0, 0
-            if markdown.is_file() and markdown.stat().st_size > 0:
-                return 0, 1, 0
-            coletor.load_or_create_markdown(edicao, markdown)
+            existente = markdown.is_file() and markdown.stat().st_size > 0
+            if not existente:
+                coletor.load_or_create_markdown(edicao, markdown)
+            registrar(uf, coletor.gazette_code, edicao.publication_date.isoformat(),
+                      edicao.section, edicao.url, markdown)
             logger.info("HTML | BA | %s | %s", edicao.publication_date, markdown)
-            return 1, 0, 0
+            return (0, 1, 0) if existente else (1, 0, 0)
 
         if destino.exists() and (not VALIDAR_PDF_EXISTENTE or pdf_valido(destino)):
+            registrar(uf, coletor.gazette_code, edicao.publication_date.isoformat(),
+                      edicao.section, edicao.url, destino)
             return 0, 1, 0
 
         destino.parent.mkdir(parents=True, exist_ok=True)
@@ -85,6 +90,8 @@ def processar_edicao(item, logger: logging.Logger) -> tuple[int, int, int]:
             if not pdf_valido(temporario):
                 raise RuntimeError("Arquivo recebido nao possui cabecalho PDF valido")
             os.replace(temporario, destino)
+            registrar(uf, coletor.gazette_code, edicao.publication_date.isoformat(),
+                      edicao.section, edicao.url, destino)
             logger.info("BAIXADO | %s | %s | %s", uf, edicao.publication_date, destino)
             return 1, 0, 0
         finally:
