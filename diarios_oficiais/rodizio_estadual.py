@@ -202,7 +202,7 @@ def _dates_for(collector: BaseGazetteCollector, today: date) -> list[date]:
         (
             publication_date
             for publication_date in available_dates
-            if start_date <= publication_date <= today and publication_date.weekday() < 5
+            if start_date <= publication_date <= today
         ),
         reverse=True,
     )
