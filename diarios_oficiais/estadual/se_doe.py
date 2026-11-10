@@ -2,6 +2,9 @@ from __future__ import annotations
 
 from datetime import date
 from pathlib import Path
+from urllib.parse import urlparse
+
+import requests
 
 from diarios_oficiais import config
 from diarios_oficiais.base import Edition
@@ -33,15 +36,58 @@ class SeDoeCollector(DailyPdfCollector):
         return editions
 
     def download_edition_pdf(self, edition: Edition, destination: Path) -> Path:
+        """Baixa PDF publico, sem salvar HTML de login/visualizacao como PDF.
+
+        O catalogo pode listar edicoes cujo endpoint exige sessao ou permissao.
+        Nesses casos, apresenta o status real e nao grava arquivo invalido.
+        """
         destination.parent.mkdir(parents=True, exist_ok=True)
-        content = self.fetch_bytes(edition.url)
-        if not content.startswith(b"%PDF"):
-            raise RuntimeError(
-                "A IOSE retornou uma página HTML em vez do PDF; o download do SE pode exigir "
-                "acesso/certificado no portal oficial."
+        url = edition.url
+        portal = f"{BASE_URL}/diario-oficial"
+        self.session.headers.setdefault(
+            "Accept", "application/pdf,application/octet-stream;q=0.9,*/*;q=0.5"
+        )
+        self.session.headers.setdefault("Referer", portal)
+
+        def obter():
+            resposta = self.session.get(
+                url, timeout=self.http_timeout_seconds, allow_redirects=True
             )
-        destination.write_bytes(content)
-        return destination
+            resposta.raise_for_status()
+            return resposta
+
+        resposta = obter()
+        if resposta.content.lstrip().startswith(b"%PDF"):
+            destination.write_bytes(resposta.content)
+            return destination
+
+        tipo = resposta.headers.get("Content-Type", "").lower()
+        # Caso o portal dependa apenas de cookies de visitante, tenta uma
+        # sessao publica comum uma unica vez. Nao tenta contornar login.
+        if "html" in tipo or resposta.content.lstrip().startswith((b"<!DOCTYPE", b"<html")):
+            try:
+                self.session.get(portal, timeout=self.http_timeout_seconds)
+                resposta = obter()
+            except requests.RequestException as exc:
+                raise RuntimeError(
+                    f"IOSE/SE: resposta HTML no endpoint PDF e falha ao renovar "
+                    f"sessao publica: {type(exc).__name__}: {exc}"
+                ) from exc
+            if resposta.content.lstrip().startswith(b"%PDF"):
+                destination.write_bytes(resposta.content)
+                return destination
+
+        tipo = resposta.headers.get("Content-Type", "desconhecido")
+        url_final = resposta.url
+        dominio = urlparse(url_final).netloc
+        raise RuntimeError(
+            "IOSE/SE: edicao listada no catalogo, mas o endpoint nao entregou "
+            f"um PDF. HTTP={resposta.status_code}; Content-Type={tipo}; "
+            f"dominio_final={dominio}; url_final={url_final}; "
+            f"edicao={edition.section}; data={edition.publication_date}. "
+            "Pode ser visualizador HTML, acesso restrito ou alteracao do portal. "
+            "Nao armazenamos HTML como PDF; coleta dos outros estados continua."
+        )
 
 
 def parse_acts_from_markdown_file(collector, edition, markdown_path):
