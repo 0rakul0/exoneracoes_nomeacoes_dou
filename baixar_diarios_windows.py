@@ -29,6 +29,12 @@ VALIDAR_PDF_EXISTENTE = True
 INTERVALO_ATUALIZACAO_RECENTES_MINUTOS = 60
 QUANTIDADE_DIAS_RECENTES = 3
 VERIFICAR_RECENTES_A_CADA_EDICOES = 50
+TENTATIVAS_POR_DOWNLOAD = 1
+TIMEOUT_REQUISICAO_SEGUNDOS = 15
+PAUSA_UF_COM_ERRO_MINUTOS = 30
+
+# Evita insistir no mesmo estado quando a fonte esta indisponivel.
+UF_EM_PAUSA: dict[str, float] = {}
 
 RAIZ = Path(__file__).resolve().parent
 LOG_DIR = RAIZ / "logs"
@@ -49,6 +55,27 @@ def logger_configurado() -> logging.Logger:
             logger.addHandler(handler)
         logger.propagate = False
     return logger
+
+
+def configurar_coletor(coletor):
+    """Configura uma unica tentativa por arquivo e timeout curto."""
+    coletor.max_attempts = TENTATIVAS_POR_DOWNLOAD
+    coletor.http_timeout_seconds = TIMEOUT_REQUISICAO_SEGUNDOS
+    return coletor
+
+
+def uf_disponivel(uf: str) -> bool:
+    return time.monotonic() >= UF_EM_PAUSA.get(uf, 0)
+
+
+def pausar_uf(uf: str, logger: logging.Logger) -> None:
+    limite = time.monotonic() + PAUSA_UF_COM_ERRO_MINUTOS * 60
+    if uf_disponivel(uf):
+        logger.warning(
+            "PULANDO UF %s por %s minutos apos falha; seguindo para outro estado.",
+            uf, PAUSA_UF_COM_ERRO_MINUTOS,
+        )
+    UF_EM_PAUSA[uf] = limite
 
 
 def pdf_valido(path: Path) -> bool:
@@ -102,6 +129,7 @@ def processar_edicao(item, logger: logging.Logger) -> tuple[int, int, int]:
             coletor.record_collection_failure(edicao, "download_pdf", exc)
         except Exception:
             logger.exception("Falha ao registrar erro de %s", uf)
+        pausar_uf(uf, logger)
         return 0, 0, 1
 
 
@@ -114,7 +142,7 @@ def coletar_recentes(logger: logging.Logger) -> tuple[int, int, int]:
     for uf, specs in STATE_SPECS:
         for spec in specs:
             try:
-                fontes.append((uf, spec, spec.collector_factory()))
+                fontes.append((uf, spec, configurar_coletor(spec.collector_factory())))
             except Exception:
                 logger.exception("Falha ao inicializar fonte recente %s", uf)
                 contagem[2] += 1
@@ -123,13 +151,18 @@ def coletar_recentes(logger: logging.Logger) -> tuple[int, int, int]:
     for atraso in range(QUANTIDADE_DIAS_RECENTES):
         dia = hoje - timedelta(days=atraso)
         for uf, spec, coletor in fontes:
+            if not uf_disponivel(uf):
+                continue
             try:
                 edicoes = coletor.list_editions(dia)
             except Exception:
                 logger.exception("Falha ao listar recentes %s %s", uf, dia)
                 contagem[2] += 1
+                pausar_uf(uf, logger)
                 continue
             for edicao in edicoes:
+                if not uf_disponivel(uf):
+                    break
                 resultado = processar_edicao(
                     PendingEdition(uf, coletor, edicao, spec.parser), logger
                 )
@@ -177,7 +210,7 @@ def coletar_rodada(logger: logging.Logger) -> tuple[int, int, int]:
     for uf, specs in STATE_SPECS:
         for spec in specs:
             iterator = _iter_collector_editions(
-                spec, spec.collector_factory(), hoje, PULAR_ANOS_COMPLETOS
+                spec, configurar_coletor(spec.collector_factory()), hoje, PULAR_ANOS_COMPLETOS
             )
             avancar(iterator)
 
@@ -197,7 +230,10 @@ def coletar_rodada(logger: logging.Logger) -> tuple[int, int, int]:
             )
             processadas = 0
         _, _, item, iterator = heapq.heappop(filas)
-        acumular(processar_edicao(item, logger))
+        if uf_disponivel(item.state):
+            acumular(processar_edicao(item, logger))
+        # Avancar impede que uma UF com erro prenda as demais.
+        # A edicao pulada sera verificada na proxima rodada.
         processadas += 1
         avancar(iterator)
     return tuple(totais)
